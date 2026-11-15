@@ -8,6 +8,7 @@
   const setupQuestions = $("#setupQuestions");
   const setupTime = $("#setupTime");
   const setupMinutes = $("#setupMinutes");
+  const setupBlock = $("#setupBlock");
   const customTimeField = $("#customTimeField");
 
   let renderToken = 0;
@@ -64,7 +65,7 @@
     const answered = saved.answers.filter((answer) => answer !== null).length;
     const mode = saved.config.mode === "practica" ? "Modo práctica" : "Modo examen";
     $("#resumeDetail").textContent =
-      `${saved.bookTitle} · ${saved.chapterTitle} · ${answered} de ${saved.questions.length} respondidas · ${mode}`;
+      `${saved.bookTitle} · ${saved.chapterTitle}${saved.config.block ? ` (${Engine.blockLabel(saved.config.block)})` : ""} · ${answered} de ${saved.questions.length} respondidas · ${mode}`;
   }
 
   $("#resumeContinue").addEventListener("click", () => {
@@ -165,10 +166,14 @@
     $("#setupIcon").innerHTML = icon(chapter.icon);
     $("#setupIcon").dataset.tone = tone;
 
-    const sizes = [10, 20, 50].filter((size) => size < chapter.total);
-    setupQuestions.replaceChildren(...sizes.map((size) => new Option(`${size} preguntas`, size)));
-    setupQuestions.add(new Option(`Todas (${chapter.total})`, chapter.total, true, true));
-    syncTimeFields();
+    setupBlock.replaceChildren(
+      new Option("Todo el banco", "", true, true),
+      ...(chapter.total > Engine.BLOCK_SIZE
+        ? Engine.blocks(chapter.total).map((block) => new Option(`Preguntas ${block.start} a ${block.end}`, block.value))
+        : [])
+    );
+    syncBlockFields();
+    syncRetryField();
     setupDialog.showModal();
   }
 
@@ -183,7 +188,35 @@
       : "Sin límite de tiempo: el reloj mostrará el tiempo transcurrido.";
   }
 
+  // Con un bloque, la cantidad se limita al bloque; el orden aleatorio, si se
+  // marca, mezcla solo las preguntas del bloque.
+  function syncBlockFields() {
+    const block = Engine.parseBlock(setupBlock.value);
+    const total = block ? block.end - block.start + 1 : pending.chapter.total;
+    const sizes = [10, 20, 50].filter((size) => size < total);
+    setupQuestions.replaceChildren(...sizes.map((size) => new Option(`${size} preguntas`, size)));
+    setupQuestions.add(new Option(`Todas (${total})`, total, true, true));
+
+    $("#shuffleQuestionsNote").hidden = !block;
+    syncTimeFields();
+  }
+
+  // Repetir las falladas solo tiene sentido en práctica: en examen no se
+  // revela si la respuesta es correcta hasta el final.
+  function syncRetryField() {
+    const exam = setupForm.elements.mode.value === "examen";
+    const checkbox = $("#setupRetryWrong");
+    checkbox.disabled = exam;
+    if (exam) checkbox.checked = false;
+    $("#retryWrongField").classList.toggle("is-disabled", exam);
+    $("#retryWrongNote").textContent = exam
+      ? "Disponible solo en modo práctica."
+      : "El simulacro finaliza cuando todas estén correctas. Los repasos no suman puntaje.";
+  }
+
   [setupTime, setupQuestions, setupMinutes].forEach((field) => field.addEventListener("input", syncTimeFields));
+  setupBlock.addEventListener("input", syncBlockFields);
+  setupForm.querySelectorAll('input[name="mode"]').forEach((radio) => radio.addEventListener("change", syncRetryField));
   setupDialog.querySelectorAll("[data-close]").forEach((button) => button.addEventListener("click", () => setupDialog.close()));
   closeOnBackdrop(setupDialog);
 
@@ -205,6 +238,8 @@
         time,
         shuffleQuestions: data.has("shuffleQuestions"),
         shuffleOptions: data.has("shuffleOptions"),
+        retryWrong: data.get("mode") === "practica" && data.has("retryWrong"),
+        block: data.get("block") || null,
       }
     );
   });

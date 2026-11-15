@@ -58,11 +58,10 @@ const Quiz = (() => {
     persist();
     Shell.setHeader({
       title: "Simulacro de examen",
-      subtitle: `${quiz.bookTitle} · ${quiz.chapterTitle}`,
+      subtitle: `${quiz.bookTitle} · ${quiz.chapterTitle}${quiz.config.block ? ` · ${Engine.blockLabel(quiz.config.block)}` : ""}`,
       onBack: () => requestExit(`#/libro/${quiz.bookId}`),
     });
     Shell.show("quiz");
-    $("#questionChapter").textContent = quiz.chapterTitle;
     $("#modeChip").textContent = isPractice() ? "Modo práctica" : "Modo examen";
     $("#modeChip").classList.toggle("is-exam", !isPractice());
     showPanel("questions");
@@ -158,6 +157,11 @@ const Quiz = (() => {
     $("#quizBar").setAttribute("aria-valuetext", `${answered} de ${total} respondidas`);
     $("#questionNumber").textContent = index + 1;
     questionText.textContent = question.text;
+    $("#repeatChip").hidden = !question.repeat;
+    // Por bloque se muestra el número que la pregunta tiene en el banco.
+    $("#questionChapter").textContent = quiz.config.block && question.number
+      ? `${quiz.chapterTitle} · N.º ${question.number} del banco`
+      : quiz.chapterTitle;
 
     optionList.replaceChildren(...question.options.map((_, i) => {
       const button = buildOption("button", question, i, answers[index], locked);
@@ -168,7 +172,7 @@ const Quiz = (() => {
       return button;
     }));
 
-    feedbackSlot.replaceChildren(...(locked ? [buildFeedback(question, answers[index])] : []));
+    feedbackSlot.replaceChildren(...(locked ? [buildFeedback(question, answers[index], true)] : []));
     renderMap(answered);
 
     $("#prevButton").disabled = index === 0;
@@ -182,11 +186,13 @@ const Quiz = (() => {
       button.type = "button";
       const status = Engine.statusOf(quiz, i);
       if (status !== "blank") button.classList.add(isPractice() ? `is-${status}` : "is-answered");
+      if (quiz.questions[i].repeat) button.classList.add("is-repeat");
       if (i === quiz.index) {
         button.classList.add("is-current");
         button.setAttribute("aria-current", "step");
       }
-      button.setAttribute("aria-label", `Pregunta ${i + 1}${status === "blank" ? ", sin responder" : ", respondida"}`);
+      button.setAttribute("aria-label",
+        `Pregunta ${i + 1}${quiz.questions[i].repeat ? " (repaso)" : ""}${status === "blank" ? ", sin responder" : ", respondida"}`);
       button.addEventListener("click", () => goTo(i));
       return button;
     }));
@@ -216,7 +222,8 @@ const Quiz = (() => {
     return option;
   }
 
-  function buildFeedback(question, chosen) {
+  // live: retroalimentación durante el simulacro (avisa si la pregunta volverá).
+  function buildFeedback(question, chosen, live = false) {
     const status = chosen === null ? "blank" : chosen === question.answer ? "correct" : "wrong";
     const letter = LETTERS[question.answer];
     const box = el("div", "feedback");
@@ -244,7 +251,11 @@ const Quiz = (() => {
       );
     }
     legal.append(head, body);
-    box.append(verdict, legal);
+    box.append(verdict);
+    if (live && status === "wrong" && question.requeued) {
+      box.append(el("p", "feedback-requeue", "Esta pregunta volverá a aparecer al final, hasta que la respondas correctamente."));
+    }
+    box.append(legal);
     return box;
   }
 
@@ -257,6 +268,9 @@ const Quiz = (() => {
   function choose(i) {
     if (isLocked()) return;
     quiz.answers[quiz.index] = i;
+    if (isPractice() && quiz.config.retryWrong && i !== quiz.questions[quiz.index].answer) {
+      Engine.requeue(quiz, quiz.index);
+    }
     persist();
     render();
     const feedback = feedbackSlot.firstElementChild;
@@ -274,12 +288,25 @@ const Quiz = (() => {
 
   // ---- Finalización y resultados ----
 
-  function requestFinish() {
-    const blank = unanswered();
+  async function requestFinish() {
+    // Con "volver a preguntar las falladas", no se finaliza mientras queden
+    // repasos sin responder (salvo que se agote el tiempo).
+    const pending = quiz.config.retryWrong ? Engine.pendingRepeats(quiz) : [];
+    if (pending.length) {
+      const go = await confirmDialog({
+        title: "Aún hay preguntas por corregir",
+        message: `Te ${pending.length === 1 ? "falta" : "faltan"} ${plural(pending.length, "pregunta fallada", "preguntas falladas")} por responder correctamente. El simulacro finaliza cuando todas estén correctas.`,
+        ok: "Ir a la pendiente",
+        cancel: "Seguir aquí",
+      });
+      if (go && quiz && !quiz.finished) goTo(pending[0]);
+      return;
+    }
+    const { blank, answered } = Engine.grade(quiz);
     $("#finishMessage").textContent = blank
       ? `Tienes ${plural(blank, "pregunta sin responder", "preguntas sin responder")}, que no sumarán puntos. ¿Deseas finalizar y ver tus resultados?`
       : "Respondiste todas las preguntas. ¿Deseas finalizar y ver tus resultados?";
-    $("#finishAnswered").textContent = quiz.questions.length - blank;
+    $("#finishAnswered").textContent = answered;
     $("#finishBlank").textContent = blank;
     $("#finishBlankBox").classList.toggle("has-blank", blank > 0);
     finishDialog.showModal();
@@ -297,7 +324,7 @@ const Quiz = (() => {
       bookId: quiz.bookId,
       bookTitle: quiz.bookTitle,
       chapterId: quiz.chapterId,
-      chapterTitle: quiz.chapterTitle,
+      chapterTitle: quiz.chapterTitle + (quiz.config.block ? ` (${Engine.blockLabel(quiz.config.block)})` : ""),
       mode: quiz.config.mode,
       total: result.total,
       correct: result.correct,
@@ -321,8 +348,11 @@ const Quiz = (() => {
     $("#resultsTitle").textContent = quiz.timedOut ? "Tiempo agotado" : "Simulacro finalizado";
     $("#levelBadge").textContent = result.level.name;
     $("#levelBadge").dataset.tone = result.level.tone;
+    const repeats = Engine.repeatSummary(quiz);
     $("#resultsNote").textContent =
-      `${mode} · ${result.correct} de ${result.total} respuestas correctas (${result.percent}%)`;
+      `${mode}${quiz.config.block ? ` · ${Engine.blockLabel(quiz.config.block)}` : ""} · ` +
+      `${result.correct} de ${result.total} respuestas correctas (${result.percent}%)` +
+      (repeats.total ? ` · Repasos: ${repeats.correct} de ${repeats.total} acertados` : "");
     $("#statCorrect").textContent = result.correct;
     $("#statWrong").textContent = result.wrong;
     $("#statBlank").textContent = result.blank;
@@ -333,13 +363,17 @@ const Quiz = (() => {
 
   function showReview() {
     const result = Engine.grade(quiz);
-    const items = quiz.questions.map((question, index) => {
+    // Se revisan las preguntas calificadas; los repasos no se listan.
+    let number = 0;
+    const items = quiz.questions.flatMap((question, index) => {
+      if (question.repeat) return [];
+      number++;
       const chosen = quiz.answers[index];
       const status = Engine.statusOf(quiz, index);
       const item = el("li", `review-item is-${status}`);
       const head = el("div", "review-item-head");
       head.append(
-        el("span", "question-number", String(index + 1)),
+        el("span", "question-number", String(number)),
         el("span", "review-status", { correct: "Correcta", wrong: "Incorrecta", blank: "Sin responder" }[status])
       );
       const options = el("div", "option-list");

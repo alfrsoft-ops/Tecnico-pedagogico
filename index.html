@@ -126,6 +126,7 @@
         <div class="question-banner">
           <span class="question-number" id="questionNumber">1</span>
           <p class="question-chapter" id="questionChapter"></p>
+          <span class="repeat-chip" id="repeatChip" hidden>Repaso</span>
           <span class="mode-chip" id="modeChip"></span>
         </div>
 
@@ -240,6 +241,10 @@
 
         <div class="setup-fields">
           <label class="setup-field">
+            <span>Bloque de preguntas</span>
+            <select name="block" id="setupBlock"></select>
+          </label>
+          <label class="setup-field">
             <span>Cantidad de preguntas</span>
             <select name="count" id="setupQuestions"></select>
           </label>
@@ -258,8 +263,19 @@
         </div>
         <p class="setup-hint" id="setupHint"></p>
 
-        <label class="setup-check"><input type="checkbox" name="shuffleQuestions" checked> Orden aleatorio de preguntas</label>
+        <label class="setup-check" id="shuffleQuestionsField">
+          <input type="checkbox" name="shuffleQuestions" id="setupShuffleQuestions" checked>
+          <span>Orden aleatorio de preguntas
+            <small class="setup-check-note" id="shuffleQuestionsNote" hidden>Se mezclan solo las preguntas del bloque; desmarcado, siguen el orden del banco.</small>
+          </span>
+        </label>
         <label class="setup-check"><input type="checkbox" name="shuffleOptions" checked> Mezclar alternativas</label>
+        <label class="setup-check" id="retryWrongField">
+          <input type="checkbox" name="retryWrong" id="setupRetryWrong">
+          <span>Volver a preguntar al final las cuestiones que se fallen, hasta responderlas correctamente
+            <small class="setup-check-note" id="retryWrongNote">El simulacro finaliza cuando todas estén correctas. Los repasos no suman puntaje.</small>
+          </span>
+        </label>
       </div>
 
       <footer class="setup-footer">

@@ -336,7 +336,9 @@ dialog::backdrop { background: rgba(9, 22, 40, .55); backdrop-filter: blur(3px);
 .setup-custom { grid-column: 2; }
 .setup-hint { font-size: 14px; color: var(--muted); margin: 10px 0 16px; }
 .setup-check { display: flex; align-items: center; gap: 12px; font-size: 15px; margin-bottom: 10px; cursor: pointer; }
-.setup-check input { width: 20px; height: 20px; accent-color: var(--primary); margin: 0; }
+.setup-check input { width: 20px; height: 20px; accent-color: var(--primary); margin: 0; flex: none; }
+.setup-check-note { display: block; font-size: 13px; color: var(--muted); margin-top: 2px; }
+.setup-check.is-disabled { cursor: not-allowed; color: var(--muted); }
 .setup-footer { display: flex; justify-content: flex-end; gap: 12px; padding: 14px 22px; border-top: 1px solid var(--line); background: var(--surface-2); }
 
 /* ============ Diálogos de confirmación ============ */
@@ -389,6 +391,12 @@ dialog::backdrop { background: rgba(9, 22, 40, .55); backdrop-filter: blur(3px);
   background: var(--ok-soft); color: var(--ok); border: 1px solid var(--ok-line);
 }
 .mode-chip.is-exam { background: var(--primary-soft); color: var(--primary-ink); border-color: var(--primary); }
+.repeat-chip {
+  font-size: 12px; font-weight: 700; padding: 4px 10px; border-radius: 999px; white-space: nowrap;
+  background: var(--warn-soft); color: var(--warn-ink); border: 1px solid var(--warn-line);
+}
+.map-item.is-repeat { border-style: dashed; }
+.feedback-requeue { margin: 10px 0 0; font-size: 14px; font-weight: 600; color: var(--muted); }
 .question-text {
   font-size: clamp(17px, 2.2vw, 20px); font-weight: 700; line-height: 1.45; color: var(--text-strong);
   margin: 0 4px 16px; white-space: pre-line;

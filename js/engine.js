@@ -63,16 +63,44 @@ const Engine = (() => {
     return out.slice(0, start) + (start ? " " : "") + items.sort().join(" ");
   }
 
-  // config: { mode, count, time, shuffleQuestions, shuffleOptions }
+  // Bloques de preguntas en el orden de creación del banco: 1–25, 26–50, …
+  const BLOCK_SIZE = 25;
+
+  function blocks(total) {
+    const list = [];
+    for (let start = 1; start <= total; start += BLOCK_SIZE) {
+      const end = Math.min(start + BLOCK_SIZE - 1, total);
+      list.push({ value: `${start}-${end}`, start, end });
+    }
+    return list;
+  }
+
+  // "26-50" -> { start: 26, end: 50 }; null si no hay bloque.
+  function parseBlock(block) {
+    const match = /^(\d+)-(\d+)$/.exec(block || "");
+    return match ? { start: Number(match[1]), end: Number(match[2]) } : null;
+  }
+
+  function blockLabel(block) {
+    const range = parseBlock(block);
+    return range ? `Preguntas ${range.start} a ${range.end}` : "";
+  }
+
+  // config: { mode, count, time, shuffleQuestions, shuffleOptions, retryWrong, block }
   // context: { bookId, bookTitle, chapterId, chapterTitle }
+  // Con bloque, solo se usan sus preguntas: en el orden del banco o, con orden
+  // aleatorio, mezcladas dentro del bloque.
   function createSession(config, context, bank) {
-    const pool = uniqueQuestions(bank);
+    const block = parseBlock(config.block);
+    const numbered = bank.map((question, i) => ({ ...question, number: i + 1 }));
+    const pool = uniqueQuestions(block ? numbered.slice(block.start - 1, block.end) : numbered);
     const source = config.shuffleQuestions ? shuffle(pool) : pool;
     const questions = source.slice(0, Math.max(1, config.count)).map((question) => {
       const natural = question.options.map((_, i) => i);
       const order = config.shuffleOptions ? shuffle(natural) : natural;
       return {
         id: question.id,
+        number: question.number,
         text: question.q,
         options: order.map((i) => question.options[i]),
         answer: order.indexOf(question.answer),
@@ -96,6 +124,48 @@ const Engine = (() => {
     };
   }
 
+  // "Volver a preguntar las falladas": agrega una copia de la pregunta al final
+  // (con las alternativas mezcladas de nuevo si corresponde). Se repite cada
+  // vez que se falla, hasta acertarla. Las copias tienen "repeat" y no cuentan
+  // en la calificación.
+  function requeue(session, index) {
+    const question = session.questions[index];
+    const repeats = session.questions.filter((q) => q.id === question.id && q.repeat).length;
+    if (question.requeued) return false;
+    const natural = question.options.map((_, i) => i);
+    const order = session.config.shuffleOptions ? shuffle(natural) : natural;
+    const copy = {
+      id: question.id,
+      number: question.number,
+      text: question.text,
+      options: order.map((i) => question.options[i]),
+      answer: order.indexOf(question.answer),
+      explanation: relabel(question.explanation, order),
+      legal: question.legal,
+      repeat: repeats + 1,
+    };
+    session.questions.push(copy);
+    session.answers.push(null);
+    question.requeued = true;
+    if (session.config.time === "auto" && session.limit !== null) session.limit += SECONDS_PER_QUESTION;
+    return true;
+  }
+
+  // Posiciones de los repasos que aún no se respondieron.
+  function pendingRepeats(session) {
+    return session.questions.map((_, i) => i)
+      .filter((i) => session.questions[i].repeat && session.answers[i] === null);
+  }
+
+  // Resumen de los repasos: cuántas copias hubo y cuántas se acertaron.
+  function repeatSummary(session) {
+    const repeated = session.questions.map((q, i) => i).filter((i) => session.questions[i].repeat);
+    return {
+      total: repeated.length,
+      correct: repeated.filter((i) => statusOf(session, i) === "correct").length,
+    };
+  }
+
   function statusOf(session, index) {
     const chosen = session.answers[index];
     if (chosen === null) return "blank";
@@ -106,11 +176,13 @@ const Engine = (() => {
     return LEVELS.find((level) => score >= level.min);
   }
 
+  // Solo se califican las preguntas originales (no los repasos).
   function grade(session) {
-    const total = session.questions.length;
+    const originals = session.questions.map((_, i) => i).filter((i) => !session.questions[i].repeat);
+    const total = originals.length;
     let correct = 0;
     let blank = 0;
-    session.questions.forEach((_, i) => {
+    originals.forEach((i) => {
       const status = statusOf(session, i);
       if (status === "correct") correct++;
       if (status === "blank") blank++;
@@ -129,7 +201,7 @@ const Engine = (() => {
     };
   }
 
-  return { SECONDS_PER_QUESTION, LEVELS, shuffle, normalize, uniqueQuestions, relabel, timeLimit, createSession, statusOf, levelFor, grade };
+  return { SECONDS_PER_QUESTION, LEVELS, shuffle, normalize, uniqueQuestions, relabel, timeLimit, BLOCK_SIZE, blocks, parseBlock, blockLabel, createSession, requeue, pendingRepeats, repeatSummary, statusOf, levelFor, grade };
 })();
 
 if (typeof module !== "undefined") module.exports = Engine;
