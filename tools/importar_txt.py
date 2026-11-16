@@ -58,7 +58,9 @@ def join_lines(lines):
 def load_catalog():
     source = CATALOG.read_text(encoding="utf-8")
     catalog = json.loads(source[source.index("{"):source.rindex("}") + 1])
-    return [chapter["id"] for book in catalog["books"] for chapter in book["chapters"]]
+    chapters = [chapter["id"] for book in catalog["books"] for chapter in book["chapters"]]
+    # Colecciones con banco propio (las de "mix" no tienen preguntas propias).
+    return chapters + [item["id"] for item in catalog.get("collections", []) if not item.get("mix")]
 
 
 def read_text(path):

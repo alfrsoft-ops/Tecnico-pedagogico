@@ -27,7 +27,7 @@ ROOT = Path(__file__).resolve().parent.parent
 
 # "Pregunta 1", "PREGUNTA N.º 1  [A]" o "PREGUNTA N.º 1 Criterio A · Aplicación razonada"
 QUESTION_RE = re.compile(r"^Pregunta\s+(?:N\.?\s*[º°o]\s*)?(\d{1,4})\b\s*(?:\[[A-Z]\])?\s*"
-                         r"(?:Criterio\s+\S+\s*[·|-]\s*(?P<kind>.+?))?\s*$", re.I)
+                         r"(?:[^·]*?·\s*)?(?:Criterio\s+\S+\s*[·|-]\s*(?P<kind>.+?))?\s*$", re.I)
 OPTION_RE = re.compile(r"^([A-D])\s*[.)]\s+(.*)$")
 ANSWER_RE = re.compile(r"^Respuesta\s+correcta\s*:\s*([A-D])\b", re.I)
 FEEDBACK_RE = re.compile(

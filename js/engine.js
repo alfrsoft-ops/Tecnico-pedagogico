@@ -81,6 +81,17 @@ const Engine = (() => {
     return match ? { start: Number(match[1]), end: Number(match[2]) } : null;
   }
 
+  // Reparte "count" preguntas en partes iguales entre las listas (25 % de cada
+  // una si son 4); el resto se asigna al azar. Dentro de cada lista se eligen
+  // al azar. Devuelve las elegidas agrupadas por lista, en el orden de las listas.
+  function mixPools(pools, count) {
+    const usable = pools.filter((pool) => pool.length);
+    if (!usable.length) return [];
+    const quotas = usable.map(() => Math.floor(count / usable.length));
+    shuffle(usable.map((_, i) => i)).slice(0, count % usable.length).forEach((i) => quotas[i]++);
+    return usable.flatMap((pool, i) => shuffle(uniqueQuestions(pool)).slice(0, quotas[i]));
+  }
+
   function blockLabel(block) {
     const range = parseBlock(block);
     return range ? `Preguntas ${range.start} a ${range.end}` : "";
@@ -101,6 +112,7 @@ const Engine = (() => {
       return {
         id: question.id,
         number: question.number,
+        source: question.source,
         text: question.q,
         options: order.map((i) => question.options[i]),
         answer: order.indexOf(question.answer),
@@ -137,6 +149,7 @@ const Engine = (() => {
     const copy = {
       id: question.id,
       number: question.number,
+      source: question.source,
       text: question.text,
       options: order.map((i) => question.options[i]),
       answer: order.indexOf(question.answer),
@@ -201,7 +214,7 @@ const Engine = (() => {
     };
   }
 
-  return { SECONDS_PER_QUESTION, LEVELS, shuffle, normalize, uniqueQuestions, relabel, timeLimit, BLOCK_SIZE, blocks, parseBlock, blockLabel, createSession, requeue, pendingRepeats, repeatSummary, statusOf, levelFor, grade };
+  return { SECONDS_PER_QUESTION, LEVELS, shuffle, normalize, uniqueQuestions, relabel, timeLimit, BLOCK_SIZE, blocks, parseBlock, blockLabel, mixPools, createSession, requeue, pendingRepeats, repeatSummary, statusOf, levelFor, grade };
 })();
 
 if (typeof module !== "undefined") module.exports = Engine;

@@ -3,6 +3,9 @@
 // pon su portada en assets/portadas/ y define sus capítulos. Cada capítulo
 // necesita un "id" único, que es el que se usa en los archivos de preguntas
 // (línea "CAPÍTULO: <id>"). Iconos disponibles: book, scale, doc, chart, people.
+// "collections" son los botones bajo el catálogo: con banco propio (su "id" se
+// usa como CAPÍTULO) o con "mix", que toma preguntas al azar de esos libros
+// en partes iguales.
 // Debe seguir siendo JSON válido entre las llaves: lo lee tools/importar_txt.py.
 window.CATALOG = {
  "books": [
@@ -55,6 +58,21 @@ window.CATALOG = {
     { "id": "erce-2019-s3", "title": "3. Agenda 2030", "icon": "scale" },
     { "id": "erce-2019-s4", "title": "4. Factores asociados al logro educativo", "icon": "people" }
    ]
+  }
+ ],
+ "collections": [
+  {
+   "id": "integrado",
+   "title": "Banco de preguntas integradas",
+   "description": "Banco propio que integra preguntas de los 4 libros.",
+   "icon": "book"
+  },
+  {
+   "id": "mixto",
+   "title": "Preguntas del banco",
+   "description": "Preguntas al azar de los 4 libros: 25 % de cada uno.",
+   "icon": "chart",
+   "mix": ["ods-2030", "lidei-2022", "marco-gestion-intermedia", "erce-2019"]
   }
  ]
 };

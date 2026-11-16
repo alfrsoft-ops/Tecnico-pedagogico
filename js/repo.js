@@ -23,5 +23,28 @@ const Repo = (() => {
     async getQuestions(chapterId) {
       return (bank[chapterId] || []).map((question) => ({ ...question, options: [...question.options] }));
     },
+    // Botones bajo el catálogo. Las de "mix" suman las preguntas de sus libros.
+    async listCollections() {
+      return (catalog.collections || []).map((item) => {
+        const books = (item.mix || []).map((id) => catalog.books.find((book) => book.id === id)).filter(Boolean);
+        const total = item.mix
+          ? books.reduce((sum, book) => sum + withCounts(book).total, 0)
+          : countQuestions(item.id);
+        return { ...item, total };
+      });
+    },
+    // Preguntas de cada libro de una colección "mix" (una lista por libro),
+    // marcadas con su procedencia para mostrarla durante el simulacro.
+    async getMixPools(bookIds) {
+      return bookIds.map((id) => {
+        const book = catalog.books.find((item) => item.id === id);
+        if (!book) return [];
+        return book.chapters.flatMap((chapter) => (bank[chapter.id] || []).map((question) => ({
+          ...question,
+          options: [...question.options],
+          source: `${book.name} · ${chapter.title}`,
+        })));
+      });
+    },
   };
 })();

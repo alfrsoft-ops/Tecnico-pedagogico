@@ -37,8 +37,12 @@ const Quiz = (() => {
 
   // ---- Inicio, reanudación y salida ----
 
+  // context.mix (colección "Preguntas del banco"): se arma el banco eligiendo
+  // al azar la misma proporción de cada libro.
   async function launch(context, config) {
-    const questions = await Repo.getQuestions(context.chapterId);
+    const questions = context.mix
+      ? Engine.mixPools(await Repo.getMixPools(context.mix), config.count)
+      : await Repo.getQuestions(context.chapterId);
     if (!questions.length) {
       toast("Este capítulo aún no tiene preguntas cargadas.");
       return;
@@ -59,7 +63,7 @@ const Quiz = (() => {
     Shell.setHeader({
       title: "Simulacro de examen",
       subtitle: `${quiz.bookTitle} · ${quiz.chapterTitle}${quiz.config.block ? ` · ${Engine.blockLabel(quiz.config.block)}` : ""}`,
-      onBack: () => requestExit(`#/libro/${quiz.bookId}`),
+      onBack: () => requestExit(quiz.bookId ? `#/libro/${quiz.bookId}` : "#/"),
     });
     Shell.show("quiz");
     $("#modeChip").textContent = isPractice() ? "Modo práctica" : "Modo examen";
@@ -159,9 +163,12 @@ const Quiz = (() => {
     questionText.textContent = question.text;
     $("#repeatChip").hidden = !question.repeat;
     // Por bloque se muestra el número que la pregunta tiene en el banco.
-    $("#questionChapter").textContent = quiz.config.block && question.number
-      ? `${quiz.chapterTitle} · N.º ${question.number} del banco`
-      : quiz.chapterTitle;
+    // En "Preguntas del banco" se muestra de qué libro y capítulo viene.
+    $("#questionChapter").textContent = question.source
+      ? question.source
+      : quiz.config.block && question.number
+        ? `${quiz.chapterTitle} · N.º ${question.number} del banco`
+        : quiz.chapterTitle;
 
     optionList.replaceChildren(...question.options.map((_, i) => {
       const button = buildOption("button", question, i, answers[index], locked);
@@ -426,9 +433,9 @@ const Quiz = (() => {
   $("#reviewButton").addEventListener("click", showReview);
   $("#reviewBack").addEventListener("click", () => showPanel("results"));
   $("#retryButton").addEventListener("click", () => {
-    const { bookId, bookTitle, chapterId, chapterTitle, config } = quiz;
+    const { bookId, bookTitle, chapterId, chapterTitle, mix, config } = quiz;
     close();
-    launch({ bookId, bookTitle, chapterId, chapterTitle }, config);
+    launch({ bookId, bookTitle, chapterId, chapterTitle, mix }, config);
   });
   $("#homeButton").addEventListener("click", () => requestExit("#/"));
   reviewFilters.forEach((button) => button.addEventListener("click", () => filterReview(button.dataset.filter)));

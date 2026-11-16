@@ -29,9 +29,35 @@
     Shell.setHeader({ title: "Simulacro de Examen" });
     Shell.show("home");
     renderResume();
-    const books = await Repo.listBooks();
+    const [books, collections] = await Promise.all([Repo.listBooks(), Repo.listCollections()]);
     if (token !== renderToken) return;
     $("#bookGrid").replaceChildren(...books.map(bookCard));
+    const best = bestScores();
+    $("#collectionList").replaceChildren(...collections.map((item, i) => collectionButton(item, i, best[item.id])));
+  }
+
+  // Botones bajo el catálogo: abren la configuración como un capítulo más.
+  const COLLECTION_BOOK = { id: "", name: "Los 4 libros" };
+
+  function collectionButton(collection, index, best) {
+    const tone = CHAPTER_TONES[(index + 4) % CHAPTER_TONES.length];
+    const button = el("button", "collection-button");
+    button.type = "button";
+    button.dataset.tone = tone;
+    const badge = el("span", "chapter-icon");
+    badge.innerHTML = icon(collection.icon);
+    const detail = collection.mix
+      ? `${collection.description} ${plural(collection.total, "pregunta disponible", "preguntas disponibles")}.`
+      : `${collection.description} ${plural(collection.total, "pregunta", "preguntas")}.`;
+    const text = el("span", "collection-text");
+    text.append(el("strong", "", collection.title),
+      el("small", "", best === undefined ? detail : `${detail} Mejor puntaje: ${best}/100.`));
+    const go = el("span", "collection-go");
+    go.innerHTML = ICONS.play;
+    button.append(badge, text, go);
+    if (collection.total) button.addEventListener("click", () => openSetup(COLLECTION_BOOK, collection, tone));
+    else button.disabled = true;
+    return button;
   }
 
   function bookCard(book) {
@@ -162,7 +188,10 @@
     pending = { book, chapter };
     setupForm.reset();
     $("#setupChapter").textContent = chapter.title;
-    $("#setupCount").textContent = `${plural(chapter.total, "pregunta disponible", "preguntas disponibles")} · ${book.name}`;
+    $("#setupCount").textContent = chapter.mix
+      ? `Al azar de ${plural(chapter.mix.length, "libro", "libros")}, en partes iguales · ${plural(chapter.total, "pregunta disponible", "preguntas disponibles")}`
+      : `${plural(chapter.total, "pregunta disponible", "preguntas disponibles")} · ${book.name}`;
+    $("#blockField").hidden = Boolean(chapter.mix); // los bloques no aplican a preguntas mezcladas
     $("#setupIcon").innerHTML = icon(chapter.icon);
     $("#setupIcon").dataset.tone = tone;
 
@@ -191,8 +220,17 @@
   // Con un bloque, la cantidad se limita al bloque; el orden aleatorio, si se
   // marca, mezcla solo las preguntas del bloque.
   function syncBlockFields() {
+    const { chapter } = pending;
+    if (chapter.mix) {
+      // Múltiplos de la cantidad de libros, para que cada uno aporte lo mismo.
+      const sizes = [20, 40, 60, 80, 100].filter((size) => size <= chapter.total);
+      setupQuestions.replaceChildren(...sizes.map((size, i) => new Option(`${size} preguntas`, size, i === 0, i === 0)));
+      $("#shuffleQuestionsNote").hidden = true;
+      syncTimeFields();
+      return;
+    }
     const block = Engine.parseBlock(setupBlock.value);
-    const total = block ? block.end - block.start + 1 : pending.chapter.total;
+    const total = block ? block.end - block.start + 1 : chapter.total;
     const sizes = [10, 20, 50].filter((size) => size < total);
     setupQuestions.replaceChildren(...sizes.map((size) => new Option(`${size} preguntas`, size)));
     setupQuestions.add(new Option(`Todas (${total})`, total, true, true));
@@ -231,7 +269,7 @@
     const { book, chapter } = pending;
     Store.clearSession();
     Quiz.launch(
-      { bookId: book.id, bookTitle: book.name, chapterId: chapter.id, chapterTitle: chapter.title },
+      { bookId: book.id, bookTitle: book.name, chapterId: chapter.id, chapterTitle: chapter.title, mix: chapter.mix },
       {
         mode: data.get("mode"),
         count: Number(data.get("count")),
@@ -239,7 +277,7 @@
         shuffleQuestions: data.has("shuffleQuestions"),
         shuffleOptions: data.has("shuffleOptions"),
         retryWrong: data.get("mode") === "practica" && data.has("retryWrong"),
-        block: data.get("block") || null,
+        block: (!chapter.mix && data.get("block")) || null,
       }
     );
   });
