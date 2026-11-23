@@ -1,0 +1,1103 @@
+# Fuente: rm-0190-2024-general.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# SISTEMA EDUCATIVO PLURINACIONAL
+# BANCO DE PREGUNTAS DE NIVEL MUY AVANZADO
+# Evaluación de aspirantes a cargos directivos
+# Fuente exclusiva
+# R.M. N.º 0190/2024 – Reglamento de Evaluación del Desarrollo Curricular del Subsistema de Educación Regular (Versión 01)
+# Resolución Ministerial de 12 de marzo de 2024
+# 100 preguntas de opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# La Paz – Bolivia
+# Noviembre de 2026
+# 1. Presentación del instrumento
+# El presente banco de 100 preguntas de nivel muy avanzado está dirigido a la evaluación de aspirantes a cargos directivos del Sistema Educativo Plurinacional. Ha sido elaborado exclusivamente a partir de la R.M. N.º 0190/2024 y del Reglamento de Evaluación del Desarrollo Curricular del Subsistema de Educación Regular que aprueba (II Títulos, VI Capítulos por Título, 74 artículos, 7 disposiciones adicionales y una transitoria), sin incorporar fuentes externas.
+# Cada pregunta indica su dimensión de evaluación, su modalidad (Conceptual, Interpretativa, Aplicación razonada o Caso práctico), la respuesta correcta, una fundamentación breve y la referencia documental verificable. El rótulo «Aplicación razonada» distingue las situaciones derivadas de las preguntas de conocimiento textual.
+# Al inicio de cada enunciado se consigna, entre corchetes, el documento, el título y el capítulo de procedencia, para garantizar la trazabilidad de la fuente.
+# Las preguntas sobre responsabilidades directivas se limitan a las que el Reglamento asigna expresamente a la Directora o Director de unidad educativa (en especial Arts. 9, 17, 23, 60, 64 y 74) y a la Comisión Técnico Pedagógica que integra (Arts. 6 a 8).
+# 2. Ficha técnica
+# Aspecto
+# Detalle
+# Documento fuente
+# R.M. N.º 0190/2024 – Reglamento de Evaluación del Desarrollo Curricular del Subsistema de Educación Regular (Versión 01) – Resolución Ministerial de 12 de marzo de 2024
+# Archivo
+# 6. RM N° 190-2024 Reglamento de evaluación Educación Regular.pdf (31 páginas PDF)
+# Cantidad de preguntas
+# 100
+# Modalidad
+# Opción múltiple y casos prácticos
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta
+# Rótulos de modalidad
+# Conceptual · Interpretativa · Aplicación razonada · Caso práctico
+# Criterio de paginación
+# La Resolución Ministerial tiene numeración «Página x de 4» (páginas PDF 1 a 4). El Reglamento anexo (código RE-EDC) tiene numeración propia «Página n de 27»; en él, la página PDF equivale a la página impresa + 4.
+# 3. Distribución metodológica y ponderación
+# N.º
+# Dimensión de evaluación
+# Preguntas
+# Peso
+# Rango
+# 1
+# Conocimiento y memorización
+# 5
+# 5%
+# 1–5
+# 2
+# Dominio conceptual
+# 5
+# 5%
+# 6–10
+# 3
+# Competencias y responsabilidades directivas
+# 10
+# 10%
+# 11–20
+# 4
+# Comprensión e interpretación
+# 10
+# 10%
+# 21–30
+# 5
+# Diferenciación conceptual
+# 5
+# 5%
+# 31–35
+# 6
+# Análisis crítico
+# 10
+# 10%
+# 36–45
+# 7
+# Aplicación normativa
+# 15
+# 15%
+# 46–60
+# 8
+# Resolución de casos prácticos
+# 20
+# 20%
+# 61–80
+# 9
+# Toma de decisiones
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de respuestas correctas: A = 25 · B = 25 · C = 25 · D = 25.
+# Distribución por modalidad: Conceptual = 25 · Interpretativa = 20 · Aplicación razonada = 35 · Caso práctico = 20.
+# 4. Banco de preguntas
+# Dimensión: Conocimiento y memorización
+# Se verificó que el banco contiene exactamente 100 preguntas distribuidas según la tabla metodológica, cada una con cuatro alternativas y una sola respuesta correcta respaldada por el texto del Reglamento o de la Resolución Ministerial.
+# Las respuestas correctas se distribuyeron de manera equilibrada entre A, B, C y D, sin secuencias predecibles, y se controló la homogeneidad de extensión de las alternativas. En preguntas de dato breve (puntajes, rangos), la diferencia relativa puede ser mayor por la naturaleza de la información.
+# El cuadro de asignaciones (Ser 5, Saber 45, Hacer 40, Decidir 5 y autoevaluación 5) y la escala de rangos (ED hasta 50; DA 51–68; DO 69–84; DP 85–100) se verificaron sobre la imagen de las páginas 20 y 22 del Reglamento. Los cálculos de los casos prácticos se comprobaron aritméticamente.
+# Se advierte una imprecisión del documento fuente, tratada en el análisis crítico: el Art. 24 menciona los rangos «ED – DA – DO – DF», mientras los Arts. 37, 50 y 57 definen el cuarto rango como Desarrollo Pleno (DP). Asimismo, la parte considerativa de la R.M. cita la R.M. 0635/2022 «del 5 de agosto de 2023».
+
+CAPÍTULO: rm-0190-2024-general
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO II] Según el cuadro del Art. 49, ¿cómo se distribuyen los 100 puntos de la calificación trimestral por área en Educación Primaria Comunitaria Vocacional?
+A. Ser 5, Saber 45, Hacer 40, Decidir 5 y autoevaluación 5.
+B. Ser 5, Saber 40, Hacer 45, Decidir 5 y autoevaluación 5.
+C. Ser 10, Saber 45, Hacer 40, Decidir 0 y autoevaluación 5.
+D. Ser 10, Saber 40, Hacer 40, Decidir 5 y autoevaluación 5.
+Respuesta correcta: A
+Explicación: El cuadro del Art. 49, inciso b), asigna a la evaluación del maestro: Ser 5, Saber 45, Hacer 40 y Decidir 5; y 5 puntos a la autoevaluación (Ser y Decidir), con un total de 100. El Art. 56 reproduce la misma asignación para Secundaria.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo II, Art. 49; página impresa: 20 (de 27); página PDF: 24.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO II] ¿Qué rango cuantitativo corresponde a la valoración "Desarrollo Óptimo" (DO) según el Art. 50?
+A. De 51 a 68 puntos, con condición de promovido.
+B. De 85 a 100 puntos, con condición de promovido.
+C. De 69 a 84 puntos, con condición de promovido.
+D. De 61 a 80 puntos, con condición de promovido.
+Respuesta correcta: C
+Explicación: El Art. 50, parágrafo II, establece: ED (En Desarrollo) hasta 50, retenido; DA (Desarrollo Aceptable) de 51 a 68; DO (Desarrollo Óptimo) de 69 a 84; DP (Desarrollo Pleno) de 85 a 100, todos estos últimos promovidos.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo II, Art. 50; página impresa: 20 (de 27); página PDF: 24.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Según el Art. 11, ¿hasta qué edad pueden ser incorporados al Subsistema de Educación Regular las niñas, niños y adolescentes en desventaja social?
+A. Siempre que tengan una edad menor a 16 años al inicio de la gestión escolar.
+B. Siempre que tengan una edad menor a 14 años al 31 de diciembre de la gestión.
+C. Siempre que tengan una edad menor a 15 años al 30 de junio de la gestión.
+D. Siempre que tengan una edad menor a 18 años al 31 de marzo de la gestión.
+Respuesta correcta: C
+Explicación: El Art. 11 dispone que la población en desventaja social (trabajadores, víctimas de violencia, trata, hijos de privados de libertad, en situación de calle, entre otros) deberá ser incorporada al Subsistema de Educación Regular siempre que cuente con una edad menor a 15 años al 30 de junio de la gestión.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 11; páginas impresas: 11 y 12 (de 27); páginas PDF: 15 y 16.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – RESOLUCIÓN MINISTERIAL] ¿Qué norma abrogó la R.M. 0190/2024 al aprobar el Reglamento de Evaluación del Desarrollo Curricular – Versión 01?
+A. La R.M. N.º 750/2014, de 30 de septiembre de 2014.
+B. La R.M. N.º 1000/2015, de 22 de diciembre de 2015.
+C. La R.M. N.º 1040/2022, de 22 de noviembre de 2022.
+D. La R.M. N.º 0473/2021, de 20 de agosto de 2021.
+Respuesta correcta: D
+Explicación: El Art. 3 de la R.M. 0190/2024 abroga la Resolución Ministerial N.º 0473/2021 de 20 de agosto de 2021, que aprobaba el anterior Reglamento de Evaluación del Desarrollo Curricular. La R.M. 1040/2022 aprueba el Currículo Base y la R.M. 750/2014 el reglamento de juntas escolares.
+Sustento: R.M. 0190/2024, Art. 3; página impresa: 4 (de 4); página PDF: 4.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] Ante una inasistencia justificada, ¿en qué plazo la madre, padre o tutor debe hacer conocer los motivos?
+A. En los primeros cinco días hábiles después de la ausencia.
+B. En los primeros tres días hábiles después de la ausencia.
+C. En las primeras cuarenta y ocho horas de la ausencia.
+D. Antes de la conclusión del trimestre en que se produjo.
+Respuesta correcta: A
+Explicación: El Art. 26, parágrafo III, dispone que en los primeros cinco días hábiles después de su ausencia la madre, padre y/o tutor deberá hacer conocer los motivos; el maestro realizará la nivelación correspondiente mediante adaptaciones curriculares.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 26; páginas impresas: 14 y 15 (de 27); páginas PDF: 18 y 19.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+6. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] ¿Cómo define el Reglamento a la Comisión Técnico Pedagógica?
+A. Instancia de participación social que reúne a padres y maestros para fiscalizar las calificaciones del curso.
+B. Instancia de la unidad que brinda apoyo técnico pedagógico a la gestión curricular para atender casos específicos.
+C. Instancia disciplinaria de la unidad que resuelve reclamos de padres por reprobación o pérdida del año escolar.
+D. Instancia distrital que supervisa la evaluación de las unidades educativas y aprueba sus calificaciones finales anuales.
+Respuesta correcta: B
+Explicación: El Art. 6, parágrafo I, define a la Comisión Técnico Pedagógica como la instancia en la unidad educativa que brinda apoyo técnico pedagógico a la gestión curricular, para atender casos de estudiantes con discapacidad, dificultades de aprendizaje, talento extraordinario y rezago escolar.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 6; página impresa: 7 (de 27); página PDF: 11.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+7. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO I] Según el Art. 5, la evaluación es "orientadora" porque:
+A. Permite aplicar una variedad de estrategias, técnicas e instrumentos según las necesidades educativas.
+B. Se aplica de forma continua durante todo el desarrollo curricular de la gestión educativa vigente.
+C. Integra métodos, estrategias, materiales y horarios inherentes a la realidad de cada contexto.
+D. A partir de la información generada se toman decisiones para el ajuste de los procesos educativos.
+Respuesta correcta: D
+Explicación: El Art. 5, inciso d), califica la evaluación de orientadora porque, a partir de la información generada, se toman decisiones para el ajuste de los procesos educativos según las necesidades emergentes; las demás opciones describen las características flexible, permanente y sistemática.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo I, Art. 5; página impresa: 7 (de 27); página PDF: 11.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+8. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO VI] ¿Qué naturaleza atribuye el Art. 71 a la Libreta Escolar Electrónica?
+A. Instrumento interno del maestro para registrar el avance de contenidos y los criterios de evaluación del curso.
+B. Documento oficial de certificación, comunicación y acreditación de los resultados de los estudiantes.
+C. Registro informativo sin valor de acreditación, complementario al centralizador de calificaciones.
+D. Documento provisional que solo adquiere validez cuando lo firma el Director Distrital de Educación.
+Respuesta correcta: B
+Explicación: El Art. 71, parágrafo I, define la Libreta Escolar Electrónica como el documento oficial de certificación, comunicación y acreditación de los resultados logrados por las y los estudiantes; el Art. 73 reserva al cuaderno pedagógico el registro de avance de contenidos.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo VI, Arts. 71 y 73; página impresa: 25 (de 27); página PDF: 29.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+9. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] ¿Cómo define el Reglamento las adaptaciones curriculares?
+A. Sustituciones del plan de estudios por programas especiales aprobados por la Distrital.
+B. Modificaciones o ajustes a los elementos del currículo, sin afectar objetivos ni contenidos.
+C. Asignaciones de puntaje adicional para compensar las dificultades de aprendizaje.
+D. Reducciones de objetivos y contenidos mínimos para estudiantes con bajo rendimiento persistente.
+Respuesta correcta: B
+Explicación: El Art. 66 define las adaptaciones curriculares como modificaciones y/o ajustes a los elementos del currículo (organización pedagógica, estrategias metodológicas, materiales educativos y evaluación), en la planificación y en el desarrollo curricular, sin afectar objetivos ni contenidos.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 66; página impresa: 24 (de 27); página PDF: 28.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+10. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO VI] ¿Qué describe el "perfil de salida" según el Art. 33?
+A. Las capacidades, cualidades y potencialidades alcanzadas al concluir un año de escolaridad.
+B. Las competencias laborales certificadas al concluir el Bachillerato Técnico Humanístico.
+C. Los contenidos mínimos que el maestro debe desarrollar en cada trimestre del año escolar.
+D. Las calificaciones mínimas exigidas para la promoción en cada área de saberes y conocimientos.
+Respuesta correcta: A
+Explicación: El Art. 33 dispone que el perfil de salida describe y explica las capacidades, cualidades y potencialidades alcanzadas por las y los estudiantes al concluir un determinado año de escolaridad, en el marco de los objetivos holísticos de nivel.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo VI, Art. 33; página impresa: 17 (de 27); página PDF: 21.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+11. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Entre las responsabilidades de la Directora o Director en la evaluación, el Art. 9 establece:
+A. Aprobar las calificaciones finales de cada estudiante antes de su remisión a la Dirección Distrital.
+B. Elaborar los instrumentos de evaluación oral y escrita que aplicarán los maestros en cada trimestre.
+C. Revisar y centralizar los resultados de la evaluación por año de escolaridad presentados por los maestros.
+D. Registrar personalmente las calificaciones de todos los estudiantes en el Sistema de Información Educativa.
+Respuesta correcta: C
+Explicación: El Art. 9, parágrafo II, inciso d), asigna al Director revisar y centralizar la información de los resultados de la evaluación por año de escolaridad presentada por los maestros; el registro en el SIE corresponde a los maestros o al tutor (Art. 9, IV, h e i).
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 9 (de 27); página PDF: 13.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+12. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] ¿Quién es responsable de generar el archivo digital e imprimir la Libreta Escolar Electrónica al finalizar el trimestre?
+A. La Directora o Director de la unidad o núcleo, en coordinación con la asesora o asesor de curso.
+B. El presidente de la Comisión Técnico Pedagógica, en coordinación con la junta escolar.
+C. La maestra o maestro de cada área de saberes, con la supervisión del técnico distrital del sistema SIE.
+D. La secretaria de la unidad educativa, con el visto bueno de la Comisión Técnico Pedagógica.
+Respuesta correcta: A
+Explicación: El Art. 9, parágrafo IV, inciso j), dispone que la generación del archivo digital y la impresión de la Libreta Escolar Electrónica, al finalizar el trimestre, es responsabilidad de la Directora o Director de la unidad educativa o núcleo, en coordinación con el asesor de curso, debidamente firmada y sellada por ambos, constituyéndose en declaración jurada.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 10 (de 27); página PDF: 14.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+13. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] ¿Qué deber de participación impone el Art. 9 a la Directora o Director con carácter de obligatoriedad?
+A. Participar en las reuniones mensuales de la Dirección Distrital sobre rendimiento académico.
+B. Participar en reuniones periódicas de informes de aprovechamiento con maestros y padres de familia.
+C. Participar en las sesiones de evaluación comunitaria de todas las unidades educativas del núcleo escolar.
+D. Participar en los tribunales de evaluación de la segunda instancia de cada área de saberes.
+Respuesta correcta: B
+Explicación: El Art. 9, parágrafo II, inciso h), dispone que el Director participe con carácter de obligatoriedad en reuniones periódicas de informes de aprovechamiento con los maestros responsables de cada año de escolaridad y padres de familia.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 9 (de 27); página PDF: 13.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+14. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] ¿A qué instancias debe derivar el Director los casos de estudiantes con discapacidad, dificultades de aprendizaje o talento extraordinario?
+A. A la Defensoría de la Niñez y Adolescencia y al Servicio Departamental de Gestión Social del lugar.
+B. A la Comisión Técnico Pedagógica y/o a Centros Integrales Multisectoriales y de Educación Especial.
+C. A la Dirección Distrital Educativa y a la junta escolar, para su tratamiento en asamblea general.
+D. Al Ministerio de Educación, a través de la Dirección General de Educación Especial y Regular.
+Respuesta correcta: B
+Explicación: El Art. 9, parágrafo II, inciso e), asigna al Director conocer, analizar y derivar los casos de estudiantes con discapacidad, dificultades de aprendizaje, talento extraordinario, desventaja social y otros a la Comisión Técnico Pedagógica y/o Centros Integrales Multisectoriales y Centros de Educación Especial, según corresponda.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 9 (de 27); página PDF: 13.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+15. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] En la incorporación de población en desventaja social, ¿qué documento redacta la Directora o Director y qué valor legal tiene?
+A. El informe de valoración, que requiere homologación posterior de la Dirección Distrital.
+B. El Acta de Inscripción, que tiene valor provisional hasta la conclusión del trimestre.
+C. El Acta Supletoria, que reemplaza a la Libreta Electrónica y tiene su mismo valor legal.
+D. La Libreta Escolar Electrónica, emitida con una observación de carácter excepcional.
+Respuesta correcta: C
+Explicación: El Art. 17 dispone que, con base en las valoraciones de los maestros, el Director redacte el Acta Supletoria que reemplazará a la Libreta Electrónica Escolar; el Art. 18 le reconoce valor legal igual a la Libreta. El Acta de Inscripción (Art. 16) la redacta la Comisión Técnico Pedagógica.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Arts. 16 a 18; página impresa: 12 (de 27); página PDF: 16.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+16. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] ¿Quiénes deben firmar y archivar el Acta Supletoria de promoción?
+A. La Comisión Técnico Pedagógica y la madre, padre o tutor de la o el estudiante promovido.
+B. La Dirección Departamental de Educación y la Defensoría de la Niñez y Adolescencia local.
+C. El maestro del año de escolaridad y el presidente de la junta escolar de la unidad educativa.
+D. La Directora o Director de la unidad educativa y la Dirección Distrital Educativa respectiva.
+Respuesta correcta: D
+Explicación: El Art. 17, parágrafo II, dispone que el Acta Supletoria deberá ser firmada y archivada por la Directora o Director de la unidad educativa y la Dirección Distrital Educativa respectiva, junto a los centralizadores de calificaciones de los demás estudiantes.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 17; página impresa: 12 (de 27); página PDF: 16.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+17. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Para la atención de estudiantes con talento extraordinario, ¿qué debe emitir la Directora o Director?
+A. Un informe a la Dirección Distrital solicitando la valoración por un equipo multidisciplinario.
+B. Un memorándum o instructivo para que la Comisión Técnico Pedagógica realice la evaluación.
+C. Una Resolución Administrativa que autorice la promoción directa al año de escolaridad superior.
+D. Una convocatoria a la junta escolar para aprobar la aceleración del año de escolaridad.
+Respuesta correcta: B
+Explicación: El Art. 23, parágrafo III, dispone que el Director emita un memorándum o instructivo para que la Comisión Técnico Pedagógica, con los maestros de aula y de especialidad, realice bajo cronograma una evaluación y luego se llene el Acta Supletoria de aceleración y se remita el informe a la dirección.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 23; página impresa: 14 (de 27); página PDF: 18.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+18. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] ¿Qué controla y verifica la Directora o Director respecto de las evaluaciones escritas, orales y productivas?
+A. Que sean aprobadas previamente por la junta escolar y archivadas en la dirección de la unidad.
+B. Que se apliquen una sola vez por trimestre y que sus resultados se publiquen en la unidad educativa.
+C. Que sean idénticas para todos los paralelos y que se apliquen en fechas fijadas por la Distrital.
+D. Que sean recurrentes y que sus resultados se registren sistemáticamente en el cuaderno pedagógico.
+Respuesta correcta: D
+Explicación: El Art. 60, parágrafo III, dispone que las evaluaciones escritas, orales y productivas sean actividades recurrentes, registradas de manera sistemática en los cuadernos pedagógicos, acciones que corresponde controlar y verificar a la Directora o Director, evitando la improvisación.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Art. 60; página impresa: 23 (de 27); página PDF: 27.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+19. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO II] Una vez registradas por el maestro en el SIE, ¿a dónde deben remitirse las calificaciones y con qué fin?
+A. A la Comisión Técnico Pedagógica, para su revisión y eventual ajuste de notas.
+B. A la Dirección de la unidad educativa, para su consolidación en el sistema.
+C. A la Dirección Distrital Educativa, para su aprobación y publicación final.
+D. A la junta escolar, para su conocimiento y conformidad antes de la libreta.
+Respuesta correcta: B
+Explicación: Los Arts. 50 y 57, parágrafo I, disponen que las calificaciones, una vez registradas por el maestro en el SIE, deberán ser remitidas a la Dirección de la unidad educativa para la consolidación en el sistema, en cumplimiento a sus responsabilidades.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulos II y III, Arts. 50 y 57; páginas impresas: 20 y 22 (de 27); páginas PDF: 24 y 26.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+20. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] ¿Qué responsabilidad asigna el Art. 64 a la Directora o Director en materia de seguimiento?
+A. Aprobar por escrito cada instrumento de evaluación antes de su aplicación por los maestros de aula del nivel.
+B. Realizar el apoyo y seguimiento oportuno a la elaboración y aplicación de instrumentos de evaluación.
+C. Remitir los instrumentos de evaluación a la Dirección Distrital para su validación trimestral.
+D. Elaborar los instrumentos de evaluación de todas las áreas para asegurar su uniformidad técnica.
+Respuesta correcta: B
+Explicación: El Art. 64, parágrafo I, dispone que la Directora o Director realice el apoyo y seguimiento oportuno a la elaboración y aplicación de instrumentos de evaluación; el parágrafo II exige que los instrumentos orales y escritos sean previamente planificados según criterios técnico pedagógicos.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 64; página impresa: 24 (de 27); página PDF: 28.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+21. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO I] ¿Cuál es el ámbito de aplicación del Reglamento de Evaluación?
+A. Todos los subsistemas del Sistema Educativo Plurinacional, incluida la Alternativa.
+B. Inicial, Primaria y Secundaria, solo en las unidades educativas fiscales del Subsistema Regular.
+C. Primaria y Secundaria en unidades fiscales y de convenio, excluyendo a las privadas.
+D. Inicial escolarizada, Primaria y Secundaria en unidades fiscales, privadas y de convenio.
+Respuesta correcta: D
+Explicación: El Art. 2 dispone que el Reglamento se aplica en Educación Inicial en Familia Comunitaria (etapa escolarizada), Educación Primaria Comunitaria Vocacional y Educación Secundaria Comunitaria Productiva, en unidades educativas fiscales, privadas y de convenio del Subsistema de Educación Regular.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo I, Art. 2; página impresa: 6 (de 27); página PDF: 10.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+22. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] ¿Cómo se toman las decisiones de la Comisión Técnico Pedagógica y qué efecto tienen?
+A. Por votación de los padres, y obligan solo a los maestros del año de escolaridad.
+B. Por decisión del presidente, y requieren la ratificación del Director Distrital.
+C. Por mayoría simple, y tienen carácter de sugerencia que cada maestro puede decidir no aplicar.
+D. Por consenso, y deben ser asumidas por los maestros de los diferentes niveles y áreas.
+Respuesta correcta: D
+Explicación: El Art. 6, parágrafo III, dispone que las decisiones y recomendaciones de la Comisión Técnico Pedagógica se tomarán por consenso, debiendo ser asumidas por las maestras y maestros de los diferentes niveles, Áreas y Campos de Saberes y Conocimientos.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 6; página impresa: 7 (de 27); página PDF: 11.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+23. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] ¿En qué momento deben realizarse las acciones de apoyo pedagógico propuestas por la Comisión Técnico Pedagógica (reforzamiento, adaptaciones, segunda instancia)?
+A. Al finalizar la gestión, antes del cierre anual.
+B. Antes de la conclusión de cada trimestre.
+C. Durante el descanso pedagógico de invierno.
+D. Durante el primer mes de la gestión siguiente.
+Respuesta correcta: B
+Explicación: El Art. 6, parágrafo II, dispone que la Comisión propondrá apoyo pedagógico con sesiones de reforzamiento, adaptaciones curriculares y/o segunda instancia de evaluación teórico-práctica, debiendo realizarse todas estas acciones antes de la conclusión de cada trimestre.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 6; página impresa: 7 (de 27); página PDF: 11.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+24. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] ¿Con qué frecuencia se realiza la evaluación cualitativa según el Art. 24?
+A. Dos veces por trimestre, al inicio y al cierre.
+B. Una vez al año, al concluir la gestión educativa.
+C. Una vez por trimestre y por año de escolaridad.
+D. Mensualmente, en cada reunión con los padres.
+Respuesta correcta: C
+Explicación: El Art. 24, parágrafo II, dispone que la evaluación cualitativa se realizará una vez por trimestre y por año de escolaridad, aplicando instrumentos que valoren capacidades, potencialidades y cualidades según el perfil de salida.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 24; página impresa: 14 (de 27); página PDF: 18.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+25. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] ¿Hacia qué dimensiones debe orientarse la autoevaluación del estudiante y cuándo se realiza?
+A. Al Hacer y al Decidir, al inicio de cada trimestre de la gestión.
+B. A las cuatro dimensiones, una sola vez al concluir la gestión.
+C. Al Saber y al Hacer, al concluir cada trimestre de la gestión.
+D. Al Ser y al Decidir, de forma paralela a la evaluación trimestral.
+Respuesta correcta: D
+Explicación: El Art. 29, parágrafo V, dispone que la autoevaluación esté orientada a la valoración de las dimensiones del Ser y Decidir, realizándose de forma paralela a la evaluación trimestral; los Arts. 49 y 56 le asignan 5 puntos.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 29; página impresa: 16 (de 27); página PDF: 20.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+26. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] ¿Quién convoca la evaluación comunitaria en Educación Secundaria Comunitaria Productiva y con qué periodicidad se realiza?
+A. La junta escolar de la unidad educativa, al cierre de cada semestre.
+B. La Comisión Técnico Pedagógica, a mediados de cada trimestre escolar.
+C. La asesora o asesor de curso del año de escolaridad, trimestralmente.
+D. La Directora o Director de la unidad educativa, una vez por gestión.
+Respuesta correcta: C
+Explicación: El Art. 28, parágrafo I, dispone que la evaluación comunitaria se realice trimestralmente, a convocatoria del maestro del año de escolaridad en Inicial y Primaria y/o del asesor de curso en Secundaria, con participación del Director, maestros, padres, estudiantes y la Comisión.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 28; página impresa: 15 (de 27); página PDF: 19.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+27. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO I] ¿Cómo se produce la promoción del año de escolaridad en Educación Inicial en Familia Comunitaria?
+A. Requiere un promedio mínimo de 51 puntos en cada uno de los campos de saberes y conocimientos del año.
+B. Es automática, previo cumplimiento de las actividades programadas y según valoración cualitativa.
+C. Exige una evaluación final de logros aplicada por un maestro distinto al del año de escolaridad.
+D. Depende de la aprobación expresa de la Comisión Técnico Pedagógica al concluir la gestión.
+Respuesta correcta: B
+Explicación: El Art. 44 dispone que la promoción en Educación Inicial es automática, previo cumplimiento de las actividades programadas, con seguimiento del maestro, según valoración cualitativa, con base en la formación integral y holística; el Art. 34 señala que la evaluación en este nivel es cualitativa.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo I, Arts. 34 y 44; páginas impresas: 17 y 19 (de 27); páginas PDF: 21 y 23.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+28. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO VI] ¿Qué valoración expresa la Libreta Escolar Electrónica en Educación Inicial frente a Primaria y Secundaria?
+A. En Inicial, la cualitativa; en Primaria y Secundaria, la cuantitativa.
+B. En todos los niveles, únicamente la valoración cuantitativa de áreas.
+C. En Inicial, la cuantitativa; en Primaria y Secundaria, la cualitativa.
+D. En todos los niveles, únicamente la valoración cualitativa de logros.
+Respuesta correcta: A
+Explicación: El Art. 71 dispone que en Educación Inicial la Libreta es documento de acreditación promocional que expresa la valoración cualitativa; en Primaria y Secundaria expresa la valoración cuantitativa, constituyéndose en documento de acreditación promocional.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo VI, Art. 71; página impresa: 25 (de 27); página PDF: 29.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+29. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] ¿Qué establece la Disposición Adicional Tercera sobre la asignación de puntaje "como forma de colaboración"?
+A. Que procede únicamente en el último trimestre, para evitar la retención de los estudiantes.
+B. Que procede solo con aprobación de la Comisión Técnico Pedagógica y por una única vez en cada gestión.
+C. Que procede hasta un máximo de cinco puntos por área, para estudiantes en desventaja social.
+D. Que está prohibida bajo cualquier circunstancia, porque no existe la compensación de calificación.
+Respuesta correcta: D
+Explicación: La Disposición Adicional Tercera dispone que bajo ninguna circunstancia se asignará puntaje como forma de colaboración; la Comisión Técnico Pedagógica debe sugerir acciones para solucionar la dificultad del estudiante, puesto que no existe la compensación de calificación.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Tercera; página impresa: 26 (de 27); página PDF: 30.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+30. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES TRANSITORIAS] Según la Disposición Transitoria Única, ¿cómo procede la evaluación en casos extremos de crisis sanitaria o desastres naturales?
+A. Se realiza tomando en cuenta las contingencias, previa recomendación del Ministerio de Salud.
+B. Se realiza según lo que decida cada Dirección Departamental, sin necesidad de instrucción.
+C. Se reemplaza por la promoción automática de todos los estudiantes del año de escolaridad respectivo.
+D. Se suspende hasta que el Ministerio de Educación emita un nuevo reglamento de evaluación.
+Respuesta correcta: A
+Explicación: La Disposición Transitoria Única dispone que en casos extremos de crisis sanitaria, desastres naturales u otras emergencias, previa recomendación del Ministerio de Salud, la evaluación se realizará tomando en cuenta las contingencias.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Disposición Transitoria Única; página impresa: 27 (de 27); página PDF: 31.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+31. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULOS II y III] Distinga el criterio de retención en Primaria y en Secundaria según los Arts. 51 y 58:
+A. Primaria: promedio menor a 61 en una área; Secundaria: menor a 51 en una o más áreas.
+B. Primaria: promedio menor a 51 en dos áreas; Secundaria: menor a 51 en tres o más áreas.
+C. Primaria: promedio anual general menor a 51; Secundaria: menor a 51 en una sola área.
+D. Primaria: promedio menor a 51 en una de las áreas; Secundaria: menor a 51 en una o más áreas.
+Respuesta correcta: D
+Explicación: El Art. 51, inciso a), retiene en Primaria a quien obtenga promedio anual menor a 51 puntos en una de las Áreas de Saberes y Conocimientos; el Art. 58, inciso a), retiene en Secundaria a quien obtenga promedios anuales menores a 51 en una o más Áreas.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Arts. 51 y 58; páginas impresas: 20 y 22 (de 27); páginas PDF: 24 y 26.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+32. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] Distinga la composición de la Comisión Técnico Pedagógica en Primaria y en Secundaria:
+A. Primaria: Director y representantes por Campo; Secundaria: Director y un representante por año de escolaridad.
+B. Primaria: Director y un representante por año de escolaridad; Secundaria: Director y representantes por Campo.
+C. Primaria: todos los maestros de la unidad; Secundaria: Director y representantes de los padres de familia.
+D. En ambos niveles: Director, un maestro por área y un representante de la junta escolar de la unidad.
+Respuesta correcta: B
+Explicación: El Art. 7 dispone que en Primaria la Comisión la conforman el Director y un representante de los maestros por año de escolaridad, y en Secundaria el Director y representantes de los maestros por cada Campo de Saberes y Conocimientos. En unidades con uno a cuatro maestros, estos son responsables de la Comisión.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 7; páginas impresas: 7 y 8 (de 27); páginas PDF: 11 y 12.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+33. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Distinga quién registra las calificaciones en el SIE en Inicial y Primaria frente a Secundaria:
+A. Inicial y Primaria: el Director; Secundaria: cada maestro de área, sin intervención del tutor.
+B. Inicial y Primaria: maestros de aula; Secundaria: el tutor, en coordinación con el maestro de área.
+C. Inicial y Primaria: el tutor; Secundaria: la secretaría de la unidad con el visto bueno del Director.
+D. En todos los niveles: el técnico distrital del SIE, con base en los centralizadores entregados.
+Respuesta correcta: B
+Explicación: El Art. 9, parágrafo IV, inciso h), atribuye a los maestros de aula de Inicial y Primaria el registro de calificaciones en el SIE; el inciso i) dispone que en Secundaria es responsabilidad del tutor, en coordinación con el maestro de Área de Saberes y Conocimientos.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 10 (de 27); página PDF: 14.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+34. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] Distinga la evaluación de inicio o diagnóstica de la evaluación de logros de aprendizaje:
+A. La diagnóstica se aplica al cierre de gestión; la de logros, al inicio de cada trimestre escolar.
+B. Ambas se aplican al finalizar el trimestre y se registran solo en la Libreta Escolar Electrónica.
+C. La diagnóstica es cuantitativa y define la promoción; la de logros es cualitativa y solo tiene fin informativo.
+D. La diagnóstica se aplica al inicio para ajustar la planificación; la de logros, al finalizar el trimestre.
+Respuesta correcta: D
+Explicación: El Art. 59 define la evaluación diagnóstica como valoración al inicio de la gestión que permite ajustar la planificación curricular; el Art. 61 dispone que la evaluación de logros se realiza al finalizar el trimestre para diseñar estrategias inmediatas de nivelación.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Arts. 59 y 61; páginas impresas: 22 y 23 (de 27); páginas PDF: 26 y 27.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+35. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO VI] Distinga el cuaderno pedagógico de la Libreta Escolar Electrónica:
+A. El cuaderno es de uso obligatorio del maestro para registrar avance y resultados; la Libreta acredita.
+B. El cuaderno acredita oficialmente la promoción; la Libreta es un registro interno de uso del maestro.
+C. El cuaderno lo elabora el Director; la Libreta la elabora la Comisión Técnico Pedagógica del nivel.
+D. Ambos son documentos oficiales de acreditación con idéntico valor legal ante la Dirección Distrital.
+Respuesta correcta: A
+Explicación: El Art. 73, parágrafo II, define el cuaderno pedagógico como instrumento de uso obligatorio del maestro, donde registra avance de contenidos, criterios, programación y resultados; el Art. 71 define la Libreta como documento oficial de certificación, comunicación y acreditación.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo VI, Arts. 71 y 73; página impresa: 25 (de 27); página PDF: 29.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+36. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] El Art. 24 menciona los rangos "(ED – DA – DO – DF)", mientras los Arts. 37, 50 y 57 usan ED, DA, DO y DP. Desde un análisis crítico, ¿qué se advierte?
+A. Una imprecisión de redacción: el cuarto rango definido en el Reglamento es Desarrollo Pleno (DP).
+B. Un quinto rango adicional, "DF", aplicable solo a la evaluación cualitativa de Educación Secundaria.
+C. Un rango exclusivo de Educación Inicial, distinto de los rangos de Primaria y Secundaria.
+D. Una derogación tácita del rango DP, sustituido por DF desde la vigencia del Reglamento.
+Respuesta correcta: A
+Explicación: El Art. 24, II, menciona "(ED – DA – DO – DF)", pero los Arts. 37 (Inicial), 50 (Primaria) y 57 (Secundaria) definen como cuarto rango el Desarrollo Pleno (DP); no existe en el Reglamento un rango "DF", por lo que se trata de una imprecisión de redacción.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Arts. 24, 37, 50 y 57; páginas impresas: 14, 18, 20 y 22 (de 27); páginas PDF: 18, 22, 24 y 26.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+37. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULOS II y III] En el cuadro de asignaciones, Ser y Decidir reciben 5 puntos de la evaluación del maestro, y la autoevaluación (5 puntos) se orienta a esas mismas dimensiones. ¿Qué lectura crítica es coherente con el Reglamento?
+A. La valoración del Ser y Decidir no incide en la calificación final del área de saberes.
+B. Las dimensiones actitudinales se valoran combinando la mirada del maestro y la del propio estudiante.
+C. El Reglamento suprime la evaluación del maestro en Ser y Decidir y la delega en el estudiante.
+D. La autoevaluación sustituye la calificación del Saber cuando el estudiante tiene un bajo rendimiento sostenido.
+Respuesta correcta: B
+Explicación: Los Arts. 49 y 56 asignan al maestro 5 puntos en Ser y 5 en Decidir, y la autoevaluación del estudiante (5 puntos) en Ser y Decidir se incorpora al promedio final del área; el Art. 29, V, orienta la autoevaluación a esas dimensiones.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Arts. 29, 49 y 56; páginas impresas: 16, 20 y 21-22 (de 27); páginas PDF: 20, 24, 25 y 26.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+38. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULOS II y III] El Art. 51, c) dispone que el estudiante de Primaria con discapacidad que no alcanza el promedio, tras aplicar adaptaciones, "será retenido"; el Art. 58, c), para Secundaria, solo dispone informar a los padres para su inscripción en el mismo año. ¿Qué observación crítica corresponde?
+A. En Secundaria el estudiante con discapacidad es promovido automáticamente al año siguiente.
+B. En Primaria la retención solo procede si la Defensoría de la Niñez y Adolescencia lo autoriza expresamente.
+C. Aunque la redacción difiere, ambos conducen a la reinscripción en el mismo año de escolaridad.
+D. Ambos artículos eximen al estudiante con discapacidad de cualquier calificación numérica.
+Respuesta correcta: C
+Explicación: El Art. 51, c), dice que el estudiante con discapacidad "será retenido" y se informará a los padres para su inscripción automática en el mismo año; el Art. 58, c), omite la palabra "retenido", pero dispone igualmente informar a los padres para la inscripción automática en el mismo año de escolaridad.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Arts. 51 y 58; páginas impresas: 21 y 22 (de 27); páginas PDF: 25 y 26.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+39. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] ¿Qué finalidad protectora explica que la nivelación por rezago escolar se aplique por única vez y previo análisis psicosocial individualizado?
+A. Reducir la carga de trabajo de la Comisión Técnico Pedagógica durante la gestión.
+B. Sustituir la evaluación pedagógica por el informe de la Defensoría de la Niñez.
+C. Evitar su uso reiterado como atajo y valorar la situación integral de cada estudiante.
+D. Permitir que el estudiante avance varios años de escolaridad en cada gestión según su rendimiento.
+Respuesta correcta: C
+Explicación: El Art. 22, I, dispone que la evaluación para la nivelación por rezago se realiza por única vez en Primaria o Secundaria, previo análisis psicosocial individualizado coordinado, si es necesario, con la Defensoría de la Niñez; no aplica a estudiantes con retención previa ni al sexto de Secundaria.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 22; página impresa: 13 (de 27); página PDF: 17.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+40. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] La Disposición Adicional Cuarta exige que los trabajos prácticos se realicen en la unidad y en presencia del maestro. ¿Qué lectura crítica explica esta exigencia?
+A. Busca reducir el gasto de las familias en materiales escolares durante toda la gestión educativa.
+B. Asegura que el producto evaluado refleje las capacidades del estudiante y no de terceros.
+C. Pretende uniformar la estética de los trabajos de todos los estudiantes del curso.
+D. Busca liberar al maestro de supervisar los trabajos fuera del horario escolar.
+Respuesta correcta: B
+Explicación: La Disposición Adicional Cuarta dispone que los trabajos se realicen en la unidad y en presencia del maestro, por su finalidad de desarrollar capacidades del Saber y Hacer; prohíbe trabajos plagiados, comprados o hechos por padres u otros, y exige valorar su utilidad y funcionalidad más allá de lo estético.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Cuarta; página impresa: 26 (de 27); página PDF: 30.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+41. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] El Art. 63 dispone que la información presentada a la Dirección goza del derecho a la privacidad. ¿Qué consecuencia práctica se deriva?
+A. Solo puede conocerla la Dirección Distrital, sin acceso de los padres de familia.
+B. Debe publicarse en el periódico mural de la unidad para garantizar la transparencia de la gestión.
+C. Solo puede proporcionarse al estudiante, sus padres o tutor e instituciones autorizadas.
+D. Puede compartirse con toda la comunidad educativa en la evaluación comunitaria.
+Respuesta correcta: C
+Explicación: El Art. 63, incisos c) y d), dispone que la información presentada a la Dirección gozará del derecho a la privacidad a favor de los estudiantes y que el acceso deberá ser exclusivamente proporcionado al estudiante, madre, padre, tutor e instituciones autorizadas y/o acreditadas.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Art. 63; páginas impresas: 23 y 24 (de 27); páginas PDF: 27 y 28.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+42. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] El Art. 9 califica la Libreta Escolar Electrónica como "declaración jurada" y sujeta a sanciones su alteración. ¿Qué implica para la gestión directiva?
+A. Que la Libreta solo puede modificarse con autorización de la junta escolar de la unidad.
+B. Que las calificaciones registradas no pueden comunicarse a los padres hasta fin de gestión.
+C. Que el Director y el asesor que la firman y sellan responden por la veracidad de su contenido.
+D. Que la Libreta debe ser legalizada ante notario de fe pública antes de entregarse a los padres de familia.
+Respuesta correcta: C
+Explicación: El Art. 9, IV, inciso g), señala que la Libreta se constituye en declaración jurada y su alteración será sujeta a sanciones administrativas; el inciso j) dispone que sea firmada y sellada por el Director y el asesor de curso, constituyéndose en declaración jurada.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 10 (de 27); página PDF: 14.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+43. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] La Disposición Adicional Quinta prohíbe "la compensación por error de registro de calificaciones". ¿Qué principio protege esta regla?
+A. La flexibilidad para favorecer a estudiantes con dificultades en el último trimestre.
+B. La veracidad del registro: el error se corrige, no se compensa con otros puntajes.
+C. La facultad de los padres para negociar la calificación final de sus hijos e hijas.
+D. La autonomía del maestro para ajustar notas según su criterio personal de equidad.
+Respuesta correcta: B
+Explicación: La Disposición Adicional Quinta prohíbe la manipulación para asignar valoraciones que no corresponden y la compensación por error de registro; en coherencia, el Art. 64, IV, exige imparcialidad y transparencia, y el Art. 9, IV, g), sanciona la alteración de la Libreta.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Quinta y Art. 64; páginas impresas: 24 y 26 (de 27); páginas PDF: 28 y 30.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+44. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] ¿Qué valor institucional persigue el intercambio pedagógico en evaluación con otra unidad de similares características?
+A. Sustituir la evaluación trimestral del maestro de aula por la de un maestro de otra unidad.
+B. Comparar el rendimiento para clasificar a las unidades del distrito según sus calificaciones promedio.
+C. Contrastar instrumentos y resultados para intercambiar experiencias y fortalecer la formación.
+D. Seleccionar a los mejores estudiantes para su traslado a unidades de mayor rendimiento.
+Respuesta correcta: C
+Explicación: El Art. 69 dispone que la Comisión, con el Director, realice mínimamente una vez por gestión un intercambio pedagógico en evaluación con otra unidad de similares características: los maestros elaboran evaluaciones para estudiantes de la otra unidad y los resultados se socializan para intercambiar experiencias y fortalecer la formación integral.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 69; páginas impresas: 24 y 25 (de 27); páginas PDF: 28 y 29.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+45. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] El Art. 27 dispone que las capacidades desarrolladas fuera de la escuela se consideren en la valoración. ¿Qué condición limita esta regla?
+A. Que correspondan a actividades planificadas por las maestras y maestros.
+B. Que sean propuestas por los padres y aprobadas por la junta escolar.
+C. Que sean certificadas por una institución externa reconocida por el Estado.
+D. Que se realicen durante las vacaciones con autorización de la Distrital.
+Respuesta correcta: A
+Explicación: El Art. 27 dispone que las capacidades y cualidades desarrolladas fuera de los espacios escolares, de acuerdo a actividades planificadas por maestras y maestros, deberán ser tomadas en cuenta en la valoración cualitativa y cuantitativa.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 27; página impresa: 15 (de 27); página PDF: 19.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+46. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO II] Un estudiante de Primaria obtiene en un trimestre: Ser 4, Saber 38, Hacer 30, Decidir 4 y autoevaluación 5. ¿Cuál es su calificación trimestral y en qué rango se ubica?
+A. 76 puntos, Desarrollo Óptimo (DO).
+B. 81 puntos, Desarrollo Pleno (DP).
+C. 81 puntos, Desarrollo Óptimo (DO).
+D. 86 puntos, Desarrollo Pleno (DP).
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 49, b), dispone que la calificación trimestral es la sumatoria de la evaluación del maestro en las cuatro dimensiones más la autoevaluación: 4 + 38 + 30 + 4 + 5 = 81. Según el Art. 50, 81 se ubica en el rango de 69 a 84, Desarrollo Óptimo.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo II, Arts. 49 y 50; página impresa: 20 (de 27); página PDF: 24.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+47. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO II] Un estudiante de Primaria termina el año con promedio anual de 50 en Matemática y más de 70 en las demás áreas. ¿Qué corresponde?
+A. Es promovido, porque su promedio general de todas las áreas supera 51.
+B. Es retenido, porque obtuvo menos de 51 en una de las áreas de saberes.
+C. Es promovido con observación, porque solo reprobó un área de saberes.
+D. Rinde una prueba de recuperación ante la Dirección Distrital Educativa.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 51, a), dispone que los estudiantes de Primaria que obtengan un promedio anual menor a 51 en una de las Áreas de Saberes y Conocimientos serán retenidos; el Art. 50 sitúa la calificación hasta 50 en el rango En Desarrollo (retenido).
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo II, Arts. 50 y 51; página impresa: 20 (de 27); página PDF: 24.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+48. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Una adolescente de 16 años en situación de calle solicita incorporarse en junio a una unidad de Educación Regular. ¿Qué corresponde según el Art. 11?
+A. Debe incorporarse de inmediato por tratarse de población en desventaja social.
+B. Puede incorporarse si la Defensoría de la Niñez emite un informe favorable.
+C. Puede incorporarse si la Comisión aprueba su valoración de conocimientos.
+D. No cumple la condición de edad, que exige ser menor de 15 años al 30 de junio.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 11 dispone que la población en desventaja social será incorporada al Subsistema de Educación Regular siempre y cuando cuente con una edad menor a 15 años al 30 de junio de la gestión.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 11; páginas impresas: 11 y 12 (de 27); páginas PDF: 15 y 16.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+49. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Un estudiante de Secundaria fue retenido dos años antes y ahora solicita nivelación por rezago escolar. ¿Qué corresponde?
+A. Puede nivelarse si aprueba la prueba escrita de la Comisión del nivel.
+B. Puede nivelarse una vez que la Defensoría de la Niñez lo recomiende.
+C. No puede ser considerado, porque tuvo retención en años anteriores.
+D. Puede nivelarse si tiene dos o más años de diferencia con su grupo.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 22, I, dispone que los estudiantes de Primaria y Secundaria que tuvieran retención en años anteriores no podrán ser considerados en la nivelación por rezago escolar.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 22; página impresa: 13 (de 27); página PDF: 17.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+50. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Un estudiante de quinto de Secundaria con rezago pide ser nivelado directamente a sexto año, que cursaría por evaluación. ¿Qué límite debe considerarse?
+A. La nivelación al sexto año requiere autorización del Ministerio.
+B. La nivelación solo se aplica a estudiantes de Educación Primaria.
+C. La nivelación al sexto año exige un promedio mínimo de 85 puntos.
+D. La nivelación por rezago no se aplica al sexto año de Secundaria.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 22, II, dispone que la nivelación por rezago escolar tampoco se aplicará al sexto año de escolaridad de Educación Secundaria Comunitaria Productiva.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 22; página impresa: 13 (de 27); página PDF: 17.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+51. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Una niña de 11 años nunca se incorporó al sistema educativo y desea ingresar a Primaria. ¿Qué condición exige el Art. 21 para su nivelación por rezago?
+A. Contar con libretas escolares de al menos dos años de escolaridad.
+B. Haber cursado al menos el primer año de escolaridad de Primaria.
+C. Presentar un informe psicológico del Centro de Educación Especial.
+D. Tener dos o más años de edad de diferencia respecto a su grupo etario.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 21, I, dispone que la nivelación consiste en promover al estudiante en uno o más años mediante una evaluación, siempre que tenga dos o más años de edad de diferencia respecto al grupo etario; el parágrafo III, a), la prevé para estudiantes de Primaria que no se incorporaron al sistema.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 21; página impresa: 13 (de 27); página PDF: 17.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+52. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Llega del extranjero un estudiante sin libretas escolares. ¿Qué mecanismo prevé el Reglamento para ubicarlo en el año que corresponde?
+A. La nivelación por rezago escolar, aplicable a quienes vienen del extranjero sin libretas.
+B. La inscripción condicional, sujeta a la entrega de libretas legalizadas en treinta días.
+C. La aceleración por talento extraordinario, previa evaluación del Centro de Educación Especial.
+D. La inscripción automática en primero de Primaria hasta que presente sus libretas originales.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 21, II, dispone que el Reglamento se aplica a estudiantes que provengan del extranjero y no cuenten con libretas escolares o excedieron el plazo para presentarlas; también a refugiados o solicitantes de refugio con certificación de CONARE. La Disposición Adicional Primera remite a los convenios de homologación.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Art. 21 y Disposición Adicional Primera; páginas impresas: 13 y 26 (de 27); páginas PDF: 17 y 30.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+53. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] Una estudiante embarazada requiere ausentarse por prescripción médica antes y después del parto. ¿Qué prevé el Reglamento?
+A. Su traslado obligatorio a un Centro de Educación Alternativa del distrito.
+B. Su retiro de la gestión y reinscripción en el mismo año en la siguiente.
+C. Una justificación de faltas limitada a cinco días hábiles por trimestre.
+D. Licencia temporal dentro del calendario escolar, según prescripción médica.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 26, IV, dispone que las estudiantes en situación de embarazo gozarán de licencia temporal (dentro del calendario escolar), según prescripción médica en el periodo pre y post parto, para garantizar su derecho a la educación.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 26; página impresa: 15 (de 27); página PDF: 19.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+54. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] Un estudiante faltó una semana con justificación. ¿Qué debe hacer el maestro según el Art. 26?
+A. Realizar la nivelación con adaptaciones curriculares y evaluarlo en el trimestre.
+B. Esperar al trimestre siguiente para evaluar los contenidos no desarrollados.
+C. Registrar la calificación mínima en las actividades que no realizó en su ausencia.
+D. Derivar el caso a la Comisión para que decida si corresponde evaluarlo o no.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 26, III, dispone que, si el estudiante se ausentare con justificación, el maestro deberá realizar la nivelación correspondiente mediante adaptaciones curriculares de acuerdo a su realidad y procederá a la evaluación en el trimestre que le corresponde.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 26; páginas impresas: 14 y 15 (de 27); páginas PDF: 18 y 19.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+55. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] La evaluación permanente revela bajo rendimiento de varios estudiantes de un curso. ¿Qué medida inmediata prevé el Art. 68?
+A. Aplicar de inmediato una segunda instancia de evaluación sin reforzamiento previo.
+B. Reducir los contenidos del trimestre para facilitar la aprobación de los estudiantes.
+C. Comunicar el caso a la Dirección Distrital para la retención anticipada de esos estudiantes.
+D. Implementar apoyo complementario: clases por pares o en grupo, tutorías y seguimiento.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 68 dispone que, si la evaluación permanente refleja bajo rendimiento, se diseñen e implementen de inmediato procesos de apoyo complementario según cronograma: clases de apoyo por pares o en grupo, tutorías y seguimiento del maestro.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 68; página impresa: 24 (de 27); página PDF: 28.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+56. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] Una unidad educativa asociada tiene solo tres maestros. ¿Cómo se conforma su Comisión Técnico Pedagógica?
+A. Se integra a la Comisión del núcleo, presidida por su Director.
+B. Se conforma con el Director Distrital y un maestro de la unidad.
+C. Los tres maestros son responsables de la Comisión Técnico Pedagógica.
+D. No requiere Comisión; sus funciones las asume la junta escolar.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 7, parágrafo III, dispone que en unidades educativas asociadas que cuenten con uno hasta cuatro maestros, estos serán responsables de la Comisión Técnico Pedagógica.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 7; página impresa: 8 (de 27); página PDF: 12.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+57. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] ¿Cuándo debe la Comisión Técnico Pedagógica convocar a los padres a reunión informativa sobre estudiantes con dificultades de aprendizaje?
+A. Un mes antes de la conclusión del trimestre.
+B. Al inicio de cada trimestre de la gestión.
+C. Una semana después de concluir el trimestre.
+D. Solo al finalizar la gestión educativa anual.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 8, inciso f), dispone que la Comisión convoque a madres y padres, en coordinación con el Director y los maestros, a reunión informativa para asumir responsabilidades compartidas de apoyo a estudiantes con dificultades, un mes antes de la conclusión del trimestre.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 8; página impresa: 8 (de 27); página PDF: 12.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+58. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] La Comisión detecta que un estudiante no cuenta con el apoyo de sus padres o tutores. ¿Qué acción prevé el Reglamento?
+A. Remitir el caso a la Dirección Distrital para que asigne un tutor educativo.
+B. Presentar, con el Director, un informe a la Defensoría de la Niñez y Adolescencia.
+C. Convocar a la junta escolar para que asuma la tutela del estudiante.
+D. Retener al estudiante hasta que los padres asuman su corresponsabilidad.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 8, inciso m), dispone que la Comisión, en coordinación con el Director, presente un informe a la Defensoría de la Niñez y Adolescencia sobre los estudiantes que no tienen el apoyo de sus padres de familia o tutores, precautelando su integridad y derecho a la educación.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 8; página impresa: 8 (de 27); página PDF: 12.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+59. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO I] En Educación Inicial, una maestra evalúa a los niños mediante la observación de su proceso de producción. ¿Qué tipo de evaluación aplica según el Art. 36?
+A. Evaluación oral, que valora argumentaciones y el lenguaje de los niños.
+B. Evaluación comunitaria, con participación de padres y de la Comisión.
+C. Evaluación de la producción, con la observación como herramienta primordial.
+D. Evaluación cuantitativa, con registro numérico en el cuaderno pedagógico.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 36, b), define la evaluación de la producción como la que evalúa el proceso, el resultado, las discusiones y las iniciativas, haciendo uso de la observación como herramienta primordial; el inciso a) define la evaluación oral.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo I, Art. 36; página impresa: 18 (de 27); página PDF: 22.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+60. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO I] En Inicial, un niño realiza algunas actividades curriculares en relación con las cuatro dimensiones. ¿Qué rango cualitativo le corresponde según el Art. 37?
+A. Desarrollo Pleno (DP).
+B. Desarrollo Aceptable (DA).
+C. Rango En Desarrollo (ED).
+D. Desarrollo Óptimo (DO).
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 37 asigna Desarrollo Aceptable (DA) cuando los niños realizan algunas actividades y acciones curriculares en relación a las cuatro dimensiones; DO cuando las realizan de acuerdo a lo esperado; ED cuando tienen dificultad; y DP cuando superan los criterios.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo I, Art. 37; página impresa: 18 (de 27); página PDF: 22.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+61. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO III] Un estudiante de tercero de Secundaria cierra el año con 48 en Física-Química y 47 en Matemática, y más de 60 en las demás áreas. ¿Qué decisión corresponde?
+A. Es retenido, porque obtuvo menos de 51 en una o más áreas de saberes.
+B. Es promovido con observación y rinde una prueba de recuperación en febrero.
+C. Es promovido, porque reprobó menos de tres áreas de saberes y conocimientos.
+D. Es retenido solo en las dos áreas reprobadas y promovido en las demás áreas.
+Respuesta correcta: A
+Explicación: El Art. 58, a), dispone que los estudiantes de Secundaria que obtengan promedios anuales menores a 51 puntos en una o más Áreas de Saberes y Conocimientos serán retenidos en el año de escolaridad correspondiente; el inciso b) exige informar a los padres para la reinscripción.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo III, Art. 58; página impresa: 22 (de 27); página PDF: 26.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+62. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO III] Un estudiante de Secundaria obtiene: Ser 5, Saber 40, Hacer 35, Decidir 5 y autoevaluación 5. ¿Cuál es su calificación y su valoración?
+A. 90 puntos, Desarrollo Pleno (DP).
+B. 90 puntos, Desarrollo Óptimo (DO).
+C. 80 puntos, Desarrollo Óptimo (DO).
+D. 85 puntos, Desarrollo Óptimo (DO).
+Respuesta correcta: A
+Explicación: Según el Art. 56, b), la calificación trimestral es la sumatoria de la evaluación del maestro en las cuatro dimensiones más la autoevaluación: 5 + 40 + 35 + 5 + 5 = 90. El Art. 57 sitúa de 85 a 100 en Desarrollo Pleno.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo III, Arts. 56 y 57; páginas impresas: 21 y 22 (de 27); páginas PDF: 25 y 26.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+63. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO II] Un maestro de Primaria califica en una prueba: Ser 5, Saber 45, Hacer 40, Decidir 5, y asigna 10 de autoevaluación "para premiar el esfuerzo". ¿Qué error comete?
+A. La autoevaluación no se incorpora a la calificación final del área de saberes.
+B. La autoevaluación la asigna el Director, no el maestro de aula.
+C. La autoevaluación vale solo 5 puntos, en las dimensiones Ser y Decidir.
+D. El Saber vale 40 puntos y el Hacer 45 en el cuadro de asignaciones.
+Respuesta correcta: C
+Explicación: El Art. 49, a) y b), dispone que la autoevaluación se realiza en las dimensiones del Ser y Decidir sobre 5 puntos para ambas, incorporándose al promedio final; el total del cuadro es 100. La Disposición Adicional Tercera prohíbe asignar puntaje como colaboración.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Art. 49 y Disposición Adicional Tercera; páginas impresas: 20 y 26 (de 27); páginas PDF: 24 y 30.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+64. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO II] Un estudiante de Primaria con discapacidad no alcanzó el promedio anual en una área pese a las adaptaciones curriculares aplicadas. ¿Qué corresponde?
+A. Retenerlo e informar a sus padres para su inscripción automática en el mismo año.
+B. Trasladarlo de inmediato a un Centro de Educación Especial para continuar el año.
+C. Promoverlo automáticamente, porque la discapacidad exime del promedio de aprobación.
+D. Asignarle puntaje de compensación hasta alcanzar los 51 puntos en el área reprobada.
+Respuesta correcta: A
+Explicación: El Art. 51, c), dispone que los estudiantes con discapacidad que no alcancen los perfiles de salida ni el promedio de aprobación en una de las áreas, tras aplicar acciones, estrategias y adaptaciones curriculares, serán retenidos y se informará a sus padres para su inscripción automática en el mismo año en la siguiente gestión.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo II, Art. 51; página impresa: 21 (de 27); página PDF: 25.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+65. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] Un estudiante entrega una maqueta impecable, elaborada en casa por un familiar. ¿Cómo debe proceder el maestro según el Reglamento?
+A. Aceptarla con un descuento del cincuenta por ciento sobre la calificación del trabajo práctico.
+B. Aceptarla si los padres firman una declaración de que el estudiante participó en su elaboración.
+C. No aceptarla, porque está prohibido entregar trabajos hechos fuera de la unidad o por terceros.
+D. Calificarla con el máximo puntaje, porque cumple los criterios estéticos del trabajo solicitado.
+Respuesta correcta: C
+Explicación: La Disposición Adicional Cuarta exige que los trabajos prácticos se realicen en la unidad y en presencia del maestro, y prohíbe entregar trabajos plagiados, adquiridos en el mercado, elaborados fuera de la unidad o realizados por padres, tutores u otras personas; su valoración debe ir más allá de lo estético.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Cuarta; página impresa: 26 (de 27); página PDF: 30.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+66. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] Un grupo de padres presiona a un maestro para que suba la nota de sus hijos y evite su reprobación. ¿Qué dispone el Reglamento?
+A. Está prohibida la manipulación para asignar una valoración que no corresponde.
+B. El Director puede autorizar el ajuste si la nota está a menos de cinco puntos.
+C. La Comisión puede compensar la nota con puntos de otras áreas de saberes.
+D. El maestro puede ajustar la nota si los padres justifican la dificultad familiar.
+Respuesta correcta: A
+Explicación: La Disposición Adicional Quinta, II, prohíbe la manipulación de madres, padres, tutores u otros actores para obligar a los maestros a asignar una valoración cualitativa o cuantitativa que no corresponde; el parágrafo I dispone atender los reclamos infundados en las instancias pertinentes.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Quinta; página impresa: 26 (de 27); página PDF: 30.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+67. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] Un maestro asigna 10 puntos a un examen escrito de un estudiante y 15 al mismo examen de otro con igual desempeño, "por su mejor actitud". ¿Qué disposición vulnera?
+A. La que exige una sola ponderación para un mismo tipo de trabajo, evitando discriminación.
+B. La que dispone que los exámenes sean corregidos por la Comisión Técnico Pedagógica.
+C. La que reserva la valoración de la actitud exclusivamente a la autoevaluación de cada estudiante.
+D. La que obliga a aplicar evaluaciones escritas solo una vez al finalizar cada trimestre.
+Respuesta correcta: A
+Explicación: La Disposición Adicional Segunda dispone que la valoración de evaluaciones (trabajos, exámenes teóricos, orales, escritos, productos) tenga una sola ponderación cuantitativa, sin diferencias en la valoración de un mismo tipo de trabajo, evitando la discriminación; el Art. 64, IV, prohíbe favoritismos.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Segunda y Art. 64; páginas impresas: 24 y 26 (de 27); páginas PDF: 28 y 30.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+68. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Se descubre que un maestro modificó calificaciones en la Libreta Escolar Electrónica después de su emisión. ¿Qué consecuencia prevé el Reglamento?
+A. Debe compensar el error en el trimestre siguiente con puntaje equivalente.
+B. Solo debe corregir la Libreta y comunicar el cambio a los padres de familia.
+C. Ninguna, si la modificación favorece al estudiante y no lo perjudica.
+D. Es pasible de sanciones administrativas, porque la Libreta es declaración jurada.
+Respuesta correcta: D
+Explicación: El Art. 9, IV, g), dispone que la Libreta Escolar Electrónica se constituye en declaración jurada y que su alteración o modificación será sujeta a sanciones administrativas; el Art. 63, b), sanciona igualmente la alteración de los informes presentados a la Dirección.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Arts. 9 y 63; páginas impresas: 10 y 23 (de 27); páginas PDF: 14 y 27.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+69. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Un niño de 12 años, hijo de padres privados de libertad, se incorpora a mitad de gestión. La Comisión lo valora y concluye que puede cursar quinto de Primaria. ¿Qué documento redacta la Comisión?
+A. Un informe a la Defensoría solicitando autorización para inscribirlo en el año propuesto.
+B. Una Libreta Escolar Electrónica provisional emitida por el Sistema de Información Educativa.
+C. Un Acta con los resultados de la valoración cualitativa y cuantitativa para su inscripción.
+D. Una Resolución Administrativa de inscripción excepcional dirigida a la Dirección Distrital.
+Respuesta correcta: C
+Explicación: El Art. 14 dispone que la Comisión elabore el informe de la sesión de valoración con la determinación del nivel y año; el Art. 16 dispone que redacte un Acta con los resultados de la valoración cualitativa y cuantitativa, para la inscripción en un determinado año de escolaridad.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Arts. 14 y 16; página impresa: 12 (de 27); página PDF: 16.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+70. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Para valorar los conocimientos de un estudiante en desventaja social, la Comisión debe elaborar un instrumento. ¿Con base en qué?
+A. En los estándares de evaluación definidos por la Dirección Departamental del lugar.
+B. En los resultados de la prueba diagnóstica aplicada a su grupo etario en la unidad.
+C. En el informe socioeconómico emitido por la Defensoría de la Niñez del municipio.
+D. En los objetivos holísticos de nivel, perfiles de salida y contenidos mínimos del año.
+Respuesta correcta: D
+Explicación: El Art. 15 dispone que la Comisión elabore una prueba escrita, guía de entrevista u otros instrumentos determinados con el Director, con base en los objetivos holísticos de nivel, perfiles de salida y contenidos mínimos de los programas del nivel y año de escolaridad.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 15; página impresa: 12 (de 27); página PDF: 16.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+71. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Una niña en desventaja social fue nivelada dos años y ya alcanzó el año de escolaridad de su grupo etario. Su madre pide seguir aplicando la promoción por nivelación. ¿Qué corresponde?
+A. Procede si la Defensoría de la Niñez certifica que la familia mantiene la desventaja social.
+B. Procede una vez más, porque el Reglamento permite hasta tres nivelaciones sucesivas por cada estudiante.
+C. No procede: la nivelación se aplica solo hasta alcanzar su grupo etario y año que le corresponde.
+D. Procede, siempre que la Comisión Técnico Pedagógica lo apruebe por consenso en la gestión.
+Respuesta correcta: C
+Explicación: El Art. 17, III, dispone que la promoción mediante estrategias de nivelación para la población en desventaja social se aplicará solamente hasta que la niña o niño alcance el grupo etario y año de escolaridad que le corresponde.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 17; página impresa: 12 (de 27); página PDF: 16.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+72. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Un maestro de aula detecta a un estudiante con posible talento extraordinario. ¿Qué paso le corresponde junto con la Comisión?
+A. Inscribirlo en un Centro de Educación Especial sin necesidad de realizar detección previa.
+B. Aplicar los instrumentos de detección del reglamento específico y recomendar o no su remisión.
+C. Solicitar a la Distrital una evaluación multidisciplinaria como único requisito previo.
+D. Promoverlo de inmediato al año superior mediante un Acta Supletoria firmada por el Director de la unidad.
+Respuesta correcta: B
+Explicación: El Art. 23, II, dispone que el maestro de aula o de especialidad, con la Comisión, realice la detección aplicando los instrumentos del Reglamento de atención a estudiantes con talento extraordinario, para luego recomendar o no su remisión al Centro de Educación Especial.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 23; página impresa: 14 (de 27); página PDF: 18.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+73. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Un estudiante con discapacidad intelectual cuenta con recomendaciones de evaluación integral de transitabilidad. ¿Qué valor tienen en su proceso educativo?
+A. Reemplazan los objetivos y contenidos de la planificación curricular del año.
+B. Solo se aplican si la junta escolar las aprueba en reunión ordinaria de padres.
+C. Son orientaciones optativas que el maestro aplica según su criterio pedagógico.
+D. Son el referente más importante y obligatorio para desarrollar procesos pertinentes.
+Respuesta correcta: D
+Explicación: El Art. 10, c), dispone que para estudiantes con discapacidad intelectual las recomendaciones de la evaluación integral de diagnóstico o transitabilidad son el referente más importante y obligatorio para procesos educativos pertinentes, sin afectar objetivos ni contenidos de la planificación curricular.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 10; página impresa: 11 (de 27); página PDF: 15.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+74. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Al finalizar el trimestre, el maestro convoca a los padres con participación de la Dirección. ¿Qué debe hacer en esa reunión según el Art. 9?
+A. Entregar solo el boletín provisional, pues la Libreta se entrega al finalizar la gestión.
+B. Informar logros y dificultades, entregar la Libreta y registrar en acta las conclusiones.
+C. Someter a votación de los padres las calificaciones finales de las áreas de saberes.
+D. Presentar la lista de estudiantes reprobados y obtener la firma de conformidad de padres.
+Respuesta correcta: B
+Explicación: El Art. 9, IV, inciso l), dispone que al finalizar el trimestre el maestro convoque a los padres, con participación de la dirección, para informar sobre logros y dificultades y diseñar estrategias de mejora; en esa reunión se entrega la Libreta Escolar Electrónica y los temas y conclusiones se registran en acta.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 10 (de 27); página PDF: 14.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+75. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Un estudiante deja de asistir a clases sin aviso durante varios días. ¿Qué responsabilidad tiene su maestro?
+A. Derivar el caso de inmediato a la Defensoría sin comunicar antes a la familia.
+B. Esperar a la evaluación comunitaria para tratar el caso con toda la comunidad.
+C. Registrar la deserción en el SIE al tercer día de ausencia sin justificación.
+D. Informar oportunamente al Director y a los padres o tutor sobre la inasistencia.
+Respuesta correcta: D
+Explicación: El Art. 9, IV, inciso m), dispone que los maestros informen oportunamente a la Directora o Director, madres, padres de familia y/o tutores los casos de estudiantes que no asistan a la unidad educativa; el Art. 26 regula la justificación de inasistencias.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 10 (de 27); página PDF: 14.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+76. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] Un tercero no vinculado a la familia solicita al Director el informe de calificaciones de un estudiante. ¿Qué debe hacer?
+A. Entregar solo el promedio general, sin el detalle de las calificaciones por cada área.
+B. Entregarlo, porque las calificaciones son información pública de la unidad educativa fiscal.
+C. Entregarlo con autorización de la junta escolar, que vela por la transparencia de la unidad educativa.
+D. Negarlo: el acceso es exclusivo del estudiante, sus padres o tutor e instituciones autorizadas.
+Respuesta correcta: D
+Explicación: El Art. 63, c) y d), dispone que la información presentada a la Dirección goza del derecho a la privacidad a favor de los estudiantes y que su acceso será exclusivamente para el estudiante, madre, padre, tutor e instituciones autorizadas y/o acreditadas.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Art. 63; páginas impresas: 23 y 24 (de 27); páginas PDF: 27 y 28.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+77. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] Al inicio de la gestión, una maestra aplica una evaluación diagnóstica. ¿Dónde debe registrar sus resultados y con qué fin?
+A. En el cuaderno pedagógico, para efectos de seguimiento.
+B. En el acta de la Comisión, para la retención anticipada.
+C. En la Libreta Escolar Electrónica, para su promedio anual.
+D. En el SIE, como primera nota cuantitativa del trimestre.
+Respuesta correcta: A
+Explicación: El Art. 59, II, dispone que, concluida la evaluación de inicio o diagnóstica, los maestros registren los resultados en el cuaderno pedagógico para efectos de seguimiento; el parágrafo I señala que permite ajustar la planificación curricular.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Art. 59; página impresa: 22 (de 27); página PDF: 26.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+78. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] Un maestro presenta a la Dirección un informe de valoraciones y luego un administrativo cambia algunos datos. ¿Qué consecuencia prevé el Art. 63?
+A. La anulación de las calificaciones del trimestre de todo el curso afectado.
+B. Solo la corrección del informe, sin consecuencias para el responsable.
+C. Ninguna, si el cambio fue autorizado verbalmente por el maestro del área.
+D. Inicio de acciones administrativas, pues los informes no deben ser alterados.
+Respuesta correcta: D
+Explicación: El Art. 63, b), dispone que los informes presentados a la Dirección por los maestros con las valoraciones respectivas no deberán ser alterados; caso contrario, serán sujetos al inicio de acciones administrativas en el marco de la normativa vigente.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Art. 63; página impresa: 23 (de 27); página PDF: 27.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+79. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] Una maestra detecta a un estudiante con dificultades en el aprendizaje. ¿Qué secuencia de actuación prevé el Art. 65?
+A. Desarrollar estrategias y adaptaciones con apoyo de la Comisión y de Educación Especial, informando a los padres.
+B. Derivarlo directamente a un Centro de Educación Especial, sin aplicar estrategias en el aula ni avisar a su familia.
+C. Solicitar a la Dirección Distrital su traslado a otra unidad con maestros de apoyo especializados.
+D. Esperar el cierre de la gestión para decidir su retención con base en el promedio anual del área.
+Respuesta correcta: A
+Explicación: El Art. 65 dispone que, detectadas dificultades en el aprendizaje, los maestros desarrollen estrategias educativas, apliquen adaptaciones curriculares y otras acciones con apoyo de la Comisión Técnico Pedagógica, en coordinación con instituciones de Educación Especial más próximas, en conocimiento de los padres.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 65; página impresa: 24 (de 27); página PDF: 28.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+80. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] Para organizar tutorías a estudiantes de bajo rendimiento, ¿quién puede desarrollarlas según el Art. 68?
+A. Únicamente un maestro de otra unidad, contratado por la junta escolar.
+B. El maestro del año o área, u otro maestro de la misma área o año.
+C. Únicamente los padres de familia, con material entregado por el maestro.
+D. Únicamente estudiantes de cursos superiores designados por el Director.
+Respuesta correcta: B
+Explicación: El Art. 68, b), dispone que las tutorías sean desarrolladas por el maestro del año de escolaridad o Área de Saberes y Conocimientos u otro maestro de la misma área o año de escolaridad; las clases de apoyo por pares las realiza el mismo maestro (inc. a).
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 68; página impresa: 24 (de 27); página PDF: 28.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Como Director, recibe el caso de un estudiante con bajo rendimiento persistente. ¿Qué decisión se ajusta al Reglamento?
+A. Derivarlo a la Comisión Técnico Pedagógica para que proponga alternativas técnico pedagógicas.
+B. Solicitar a los padres su traslado a otra unidad con menor exigencia académica.
+C. Asignarle puntaje de colaboración en las áreas en que presenta mayores dificultades.
+D. Disponer su retención anticipada para evitar que afecte el rendimiento general del curso y del nivel.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 9, II, e), asigna al Director derivar casos a la Comisión, y el Art. 9, III, a), dispone que la Comisión analice los casos remitidos por el Director de estudiantes con bajo rendimiento y proponga alternativas técnico pedagógicas. La Disposición Adicional Tercera prohíbe puntaje de colaboración.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 9 (de 27); página PDF: 13.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] Al planificar el trimestre, ¿cuándo debe el Director prever las reuniones de la Comisión para analizar dificultades de aprendizaje?
+A. Una vez por gestión, en coordinación con la Dirección Distrital Educativa.
+B. Únicamente cuando un padre de familia presente un reclamo formal por escrito.
+C. Solo al concluir la gestión, para decidir la promoción o retención de estudiantes.
+D. A mediados de cada trimestre, además de las reuniones trimestrales obligatorias.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 8, inciso e), dispone que la Comisión programe reuniones a mediados de cada trimestre para analizar y plantear soluciones a las dificultades de aprendizaje; el inciso g) le impone reuniones trimestrales obligatorias a convocatoria de la Dirección y extraordinarias si es necesario.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 8; página impresa: 8 (de 27); página PDF: 12.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] Un padre presenta un reclamo infundado y sin evidencias contra un maestro por la reprobación de su hijo. ¿Qué decisión debe adoptar el Director?
+A. Atenderlo oportunamente en las instancias pertinentes, conforme a la normativa vigente.
+B. Trasladar al maestro a otro curso mientras se resuelve el reclamo del padre.
+C. Archivar el reclamo sin trámite, por carecer de evidencias que lo respalden.
+D. Ordenar al maestro que revise la nota a favor del estudiante para evitar mayores conflictos.
+Respuesta correcta: A
+Explicación: Aplicación razonada: La Disposición Adicional Quinta, I, dispone que las acusaciones, coacciones y reclamos infundados sin evidencias contra los maestros por motivos de reprobación deberán ser atendidos de manera oportuna en las instancias pertinentes, de acuerdo a la normativa vigente; el parágrafo II prohíbe forzar una valoración que no corresponde.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Quinta; página impresa: 26 (de 27); página PDF: 30.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] Al revisar cuadernos pedagógicos, el Director encuentra registros que no reflejan el aprovechamiento real. ¿Qué exigencia debe hacer cumplir?
+A. Que la información del cuaderno se ajuste a los resultados esperados por la Dirección Distrital.
+B. Que el cuaderno sea reemplazado por el registro directo de calificaciones en el SIE del nivel.
+C. Que la información sea real y coherente, reflejando aprovechamiento y movimiento de estudiantes.
+D. Que el cuaderno registre solo los promedios finales, sin detalle de las evaluaciones parciales.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 64, III, dispone que la información del cuaderno pedagógico debe ser real y coherente, reflejando el nivel de aprovechamiento, número de estudiantes promovidos, abandonos, retirados y retenidos; el Art. 73 lo define como instrumento de uso obligatorio.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 64; página impresa: 24 (de 27); página PDF: 28.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] La familia de un estudiante en desventaja social no participa en su proceso formativo. ¿Qué decisión prevé el Reglamento si fuera necesario?
+A. Solicitar a la Distrital su traslado a un internado de la región.
+B. Suspender la inscripción hasta que la familia asuma su compromiso.
+C. Transferir la tutela educativa a la Comisión Técnico Pedagógica.
+D. Coordinar con la Defensoría de la Niñez y Adolescencia del municipio.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 19 dispone que los padres de población en desventaja social asumirán un compromiso de corresponsabilidad en el proceso formativo y que, en caso necesario, estas acciones se coordinarán con la Defensoría de la Niñez y Adolescencia del municipio correspondiente.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 19; página impresa: 13 (de 27); página PDF: 17.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] Para cumplir el Art. 69, ¿qué decisión de planificación debe adoptar el Director con la Comisión?
+A. Programar la evaluación externa de sus estudiantes por la Dirección Distrital cada año.
+B. Programar un intercambio por trimestre con la unidad de mejor rendimiento del distrito.
+C. Programar al menos un intercambio pedagógico en evaluación por gestión con otra unidad similar.
+D. Programar un concurso anual de conocimientos entre todas las unidades educativas del núcleo educativo.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 69 dispone que la Comisión, en coordinación con el Director, realice un intercambio pedagógico en evaluación, mínimamente una vez por gestión, con otra unidad educativa de similares características, socializando luego los resultados.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 69; páginas impresas: 24 y 25 (de 27); páginas PDF: 28 y 29.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] Una madre pide al Director un informe trimestral del desarrollo de su hijo. ¿Qué decisión corresponde según el Art. 63?
+A. Atender la solicitud, pues los informes se entregan a pedido del Director o del interesado.
+B. Derivarla a la Dirección Distrital, única instancia que puede emitir informes oficiales.
+C. Negarla, porque los informes solo se entregan al concluir la gestión educativa anual.
+D. Condicionarla a la aprobación previa de la Comisión Técnico Pedagógica de la unidad.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 63 dispone que la entrega de informes se realice a solicitud del Director y del interesado, durante la gestión, trimestral y anual; el acceso a la información corresponde al estudiante, madre, padre, tutor e instituciones autorizadas.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Art. 63; páginas impresas: 23 y 24 (de 27); páginas PDF: 27 y 28.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] La unidad recibe estudiantes trabajadores y con discapacidad, pero los maestros no se sienten preparados. ¿Qué prevé el Reglamento para su atención adecuada?
+A. Que la junta escolar contrate especialistas con recursos aportados por los padres.
+B. Que esos estudiantes se concentren en un solo paralelo con un maestro voluntario.
+C. Que maestros y personal administrativo reciban capacitación certificada por el Ministerio.
+D. Que la atención se delegue íntegramente a un Centro de Educación Especial del distrito educativo.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 20 dispone que, para la atención adecuada de estudiantes trabajadores, en desventaja social, con discapacidad, dificultades de aprendizaje y talento extraordinario, los maestros y personal administrativo recibirán cursos de capacitación certificados por el Ministerio de Educación.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 20; página impresa: 13 (de 27); página PDF: 17.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] Surge una duda técnico-administrativa de evaluación no prevista en el Reglamento. ¿Cómo debe resolverse?
+A. Mediante acuerdo del Consejo de maestros de la propia unidad educativa.
+B. Mediante consulta vinculante a la junta escolar de padres de familia.
+C. Mediante instructivos emitidos por el Viceministerio de Educación Regular.
+D. Mediante resolución de la Dirección Distrital Educativa de cada jurisdicción.
+Respuesta correcta: C
+Explicación: Aplicación razonada: La Disposición Adicional Séptima dispone que los aspectos técnico-administrativos no previstos en el Reglamento serán regulados mediante instructivos emitidos por el Viceministerio de Educación Regular.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Séptima; página impresa: 27 (de 27); página PDF: 31.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] Desde la gestión institucional, ¿quiénes son corresponsables de las acciones para la transición de los estudiantes de un año de escolaridad a otro?
+A. El Director con los maestros y la Comisión, con apoyo de madres, padres y tutores.
+B. Únicamente los maestros de aula, que asignan la calificación de cada área de saberes.
+C. Únicamente la Dirección Distrital, que consolida las calificaciones en el sistema SIE.
+D. Únicamente los padres de familia, responsables del seguimiento de sus hijos en casa.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 60, II, dispone que la transición de un año a otro es consecuencia de la valoración cualitativa y cuantitativa durante la gestión, y que el Director con los maestros, la Comisión Técnico Pedagógica y con el apoyo de madres, padres y/o tutores son corresponsables de realizar las acciones necesarias.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Art. 60; página impresa: 23 (de 27); página PDF: 27.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO VI] En un plan anual de mejora, ¿qué uso estratégico debe dar el Director a los resultados del informe técnico de seguimiento?
+A. Reducir los contenidos de las áreas con mayor índice de estudiantes retenidos.
+B. Organizar y desarrollar acciones pedagógicas que mejoren el rendimiento académico.
+C. Publicar el ranking de estudiantes para motivar la competencia entre cursos.
+D. Clasificar a los maestros por resultados y proponer su traslado a otras unidades.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 74 dispone que el Director, la Comisión y los maestros planifiquen y realicen el acompañamiento pedagógico y que, en función de los resultados del informe técnico, se organicen y desarrollen acciones pedagógicas que permitan mejorar el rendimiento académico.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo VI, Art. 74; páginas impresas: 25 y 26 (de 27); páginas PDF: 29 y 30.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Como estrategia de rendición de cuentas a la comunidad, ¿qué responsabilidad del Director debe institucionalizarse según el Art. 9?
+A. Informar a la comunidad educativa sobre los resultados de la formación integral de los estudiantes.
+B. Presentar a la junta escolar el desempeño individual de cada maestro para su evaluación.
+C. Publicar las calificaciones individuales de todos los estudiantes en la página web oficial de la unidad.
+D. Remitir mensualmente las calificaciones a los medios de comunicación de la localidad.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 9, II, inciso f), asigna al Director informar sobre los resultados de la formación integral y holística a la comunidad educativa, en coordinación con el maestro de aula o asesor; el inciso g) le encarga convocar reuniones para analizar resultados y plantear acciones. El Art. 63 protege la privacidad individual.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Arts. 9 y 63; páginas impresas: 9 y 23-24 (de 27); páginas PDF: 13, 27 y 28.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] Al diseñar la política institucional de evaluación, ¿qué principio debe garantizar el Director respecto de la evaluación comunitaria?
+A. Que sus resultados sustituyan la calificación trimestral otorgada por el maestro.
+B. Que sus resultados permitan reajustar la enseñanza y se consideren en la valoración.
+C. Que sus conclusiones queden en reserva y no se registren en ningún documento.
+D. Que se realice solo cuando haya conflictos entre maestros y padres de familia.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 28, II, dispone que los resultados de la evaluación comunitaria permitan reajustar o reorientar la enseñanza, los contenidos, la evaluación, los materiales y la organización, y sean tomados en cuenta en la evaluación cualitativa y cuantitativa; el parágrafo I exige registrarlos en el Cuaderno Pedagógico.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 28; página impresa: 15 (de 27); página PDF: 19.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Para una gestión inclusiva, ¿qué estrategias de evaluación prevé el Reglamento para estudiantes con discapacidad?
+A. Promoción automática sin calificación cuantitativa en todos los niveles y años.
+B. Adaptaciones curriculares, ajustes razonables, Lengua de Señas, Braille y materiales accesibles.
+C. Exámenes simplificados con menor puntaje máximo y exoneración de las áreas prácticas.
+D. Evaluación exclusiva por el Centro de Educación Especial, sin intervención alguna del maestro de aula.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 10, d), prevé procesos de evaluación pedagógica para personas con discapacidad mediante adaptaciones curriculares, ajustes razonables, sistemas de comunicación alternativa, Lengua de Señas Boliviana, Sistema Braille y materiales pertinentes y accesibles, en igualdad de oportunidades y equiparación de condiciones.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 10; página impresa: 11 (de 27); página PDF: 15.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] Para fortalecer las vocaciones de los estudiantes, ¿qué función de la Comisión Técnico Pedagógica debe aprovechar estratégicamente el Director?
+A. Seleccionar a los estudiantes con mejores notas para becas en universidades del exterior.
+B. Organizar ferias comerciales con productos elaborados por estudiantes para financiar la unidad.
+C. Asignar a cada estudiante una carrera técnica obligatoria según su rendimiento académico.
+D. Recoger y analizar información para identificar capacidades y fortalecer habilidades vocacionales.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 8, inciso n), asigna a la Comisión recoger y analizar la información para identificar y valorar capacidades, cualidades y potencialidades de los estudiantes, promoviendo y fortaleciendo sus habilidades vocacionales.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 8; página impresa: 9 (de 27); página PDF: 13.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] En una estrategia institucional contra la discriminación en la evaluación, ¿qué principios declara imprescindibles el Art. 64?
+A. La imparcialidad y la transparencia en los procesos de evaluación.
+B. La flexibilidad y la discrecionalidad del maestro en la calificación.
+C. La competitividad y la excelencia en los resultados académicos.
+D. La confidencialidad absoluta y la reserva frente a los padres.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 64, IV, prohíbe todo tipo de discriminación, influencias o favoritismos en los procesos de evaluación, siendo la imparcialidad y la transparencia factores imprescindibles en el proceso pedagógico; el Art. 5, g), caracteriza la evaluación como transparente.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 64; página impresa: 24 (de 27); página PDF: 28.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO I] Al alinear la evaluación institucional con los objetivos del Reglamento, ¿cuál de los siguientes es un objetivo expreso de la evaluación según el Art. 4?
+A. Seleccionar a los estudiantes más aptos para su ingreso a la educación superior de formación profesional.
+B. Determinar los incentivos económicos de los maestros en función de los resultados de sus estudiantes.
+C. Orientar la evaluación de estudiantes con necesidades educativas especiales en igualdad de oportunidades.
+D. Clasificar a las unidades educativas del distrito según el promedio de rendimiento de sus estudiantes.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 4 enumera como objetivos, entre otros: enfatizar la investigación y producción creativa, contribuir al desarrollo integral, brindar información a estudiantes y familias, orientar a la Comisión, apoyar a maestros y estudiantes, orientar la evaluación de estudiantes con necesidades educativas especiales en igualdad de oportunidades y promover la participación democrática.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo I, Art. 4; página impresa: 6 (de 27); página PDF: 10.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO I] Al formular la visión institucional de evaluación, ¿qué finalidad atribuye el Art. 3 a la evaluación de la formación integral y holística?
+A. Determinar al cierre de gestión qué estudiantes deben repetir, sin intervenir durante el proceso.
+B. Identificar logros y dificultades para tomar decisiones y reorientar oportunamente la práctica pedagógica.
+C. Controlar el desempeño de los maestros para fundamentar su permanencia o traslado en la unidad.
+D. Certificar el rendimiento de cada estudiante para ordenar a los cursos según sus promedios generales anuales.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 3 define la evaluación como proceso de valoración que permite a la comunidad educativa identificar logros, capacidades, potencialidades, limitaciones y dificultades, para la toma de decisiones mediante acciones dinámicas, permanentes y sistemáticas, reorientando oportunamente la práctica pedagógica.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo I, Art. 3; página impresa: 6 (de 27); página PDF: 10.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] Al diseñar la participación de las familias en la evaluación, ¿a qué norma debe sujetar el Director sus responsabilidades, según la Disposición Adicional Sexta?
+A. A los acuerdos de la asamblea general de padres de cada curso.
+B. Al Código Niña, Niño y Adolescente, como única norma aplicable.
+C. Al Reglamento de Participación Social Comunitaria en Educación.
+D. Al reglamento interno aprobado anualmente por la junta escolar.
+Respuesta correcta: C
+Explicación: Aplicación razonada: La Disposición Adicional Sexta dispone que la participación de madres, padres y/o tutores, en cuanto a sus responsabilidades en los procesos de evaluación del desarrollo curricular, estará sujeta al Reglamento de Participación Social Comunitaria en Educación.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Sexta; página impresa: 27 (de 27); página PDF: 31.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Tras un trimestre con resultados desiguales entre cursos, ¿qué acción de gestión institucional asigna el Art. 9 al Director?
+A. Reasignar a los maestros de los cursos con peores resultados a otras áreas de saberes.
+B. Reducir la exigencia de las evaluaciones en los cursos con mayor número de reprobados.
+C. Informar a la Dirección Distrital para que intervenga directamente en los cursos afectados.
+D. Convocar a los actores educativos para analizar resultados y plantear acciones de mejora.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 9, II, inciso g), asigna al Director convocar a reuniones a los actores educativos para analizar los resultados del proceso de evaluación y plantear acciones orientadas a superar las dificultades y consolidar los logros; el inciso b) le encarga evaluar la aplicación de metodologías por los maestros.
+Sustento: R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 9 (de 27); página PDF: 13.

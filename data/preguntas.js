@@ -23436,14 +23436,10422 @@ window.QUESTION_BANK = {
    "legal": "Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo I: Disposiciones generales. Art. 4 (página impresa s/n; página PDF 2)."
   }
  ],
- "ds-04688-general": [],
- "rs-212414-general": [],
- "rm-0864-2019-general": [],
- "rm-0069-2025-general": [],
- "rm-0020-2024-general": [],
- "rm-0190-2024-general": [],
- "rm-0800-2015-general": [],
- "rm-0001-general": [],
+ "ds-04688-general": [
+  {
+   "id": "3d80344dab3c",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO I] Según el Reglamento, el Escalafón Nacional del Servicio de Educación se define como:",
+   "options": [
+    "El registro sistemático, permanente y centralizado de datos personales y profesionales del personal.",
+    "El procedimiento de calificación anual de méritos y deméritos a cargo de las comisiones distritales.",
+    "La escala jerárquica que ordena los cargos docentes y administrativos del servicio de educación.",
+    "El sistema de remuneración por categorías del personal docente y administrativo de todo el país."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 1 define el Escalafón como el registro sistemático, permanente y centralizado de los datos personales y profesionales de maestros y funcionarios; las categorías, la calificación y la escala jerárquica son contenidos distintos que el Reglamento regula en otros capítulos.",
+   "legal": "D.S. 04688, Capítulo I, Art. 1; página impresa: sin numeración; página PDF: 2."
+  },
+  {
+   "id": "1cd1b4f96df8",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] La escala de promociones de categoría asigna, sobre el haber básico del cargo desempeñado, los siguientes porcentajes de bonificación:",
+   "options": [
+    "5.ª: 20%; 4.ª: 40%; 3.ª: 60%; 2.ª: 80%; 1.ª: 100%.",
+    "5.ª: 25%; 4.ª: 45%; 3.ª: 65%; 2.ª: 85%; 1.ª: 100%.",
+    "5.ª: 30%; 4.ª: 45%; 3.ª: 60%; 2.ª: 75%; 1.ª: 100%.",
+    "5.ª: 30%; 4.ª: 40%; 3.ª: 50%; 2.ª: 75%; 1.ª: 100%."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 37 establece la escala exacta: quinta categoría 30%, cuarta 45%, tercera 60%, segunda 75% y primera 100% sobre el haber básico del cargo.",
+   "legal": "D.S. 04688, Capítulo VI, Art. 37; página impresa: sin numeración; página PDF: 14."
+  },
+  {
+   "id": "e199eeb97c49",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO II] En mérito al grado de preparación y experiencia profesional, el Reglamento reconoce las siguientes clases de maestros:",
+   "options": [
+    "Normalistas, titulares e interinos.",
+    "Titulares, interinos y suplentes.",
+    "Normalistas, contratados e interinos.",
+    "Normalistas, titulares y técnicos."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 7 reconoce tres clases de maestros: normalistas, titulares e interinos. Las categorías de \"contratado\", \"suplente\" o \"técnico\" no constituyen clases de maestro en el Reglamento.",
+   "legal": "D.S. 04688, Capítulo II, Art. 7; página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "87120a1add7a",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] El tiempo de servicios se califica con la siguiente asignación:",
+   "options": [
+    "Dos puntos por cada año de servicio.",
+    "Un punto por cada semestre de trabajo.",
+    "Un punto por cada trimestre de trabajo.",
+    "Cinco puntos por cada año completo de servicio."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 27 dispone que el tiempo de servicios se califica con la asignación de 1 punto por cada trimestre de trabajo, con un tope de 100 puntos según el Art. 24.",
+   "legal": "D.S. 04688, Capítulo V, Arts. 24 y 27; página impresa: sin numeración; páginas PDF: 9 y 11."
+  },
+  {
+   "id": "15324bbb9fb7",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XI] Respecto de la inamovilidad, el Reglamento establece que los maestros inscritos en el Escalafón:",
+   "options": [
+    "Pueden ser suspendidos por la autoridad inmediata superior mientras dure la investigación.",
+    "Solo pueden ser destituidos por resolución de la Comisión Nacional del Escalafón en apelación.",
+    "Pueden ser destituidos por deméritos acumulados en la ficha de calificación del último año.",
+    "Solo pueden ser destituidos o suspendidos previa sentencia en proceso con derecho a defensa."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 73, en concordancia con el Art. 243 del Código de la Educación, declara inamovibles a los maestros inscritos; solo pueden ser destituidos o suspendidos por actos inmorales, indisciplinarios o delictuosos, previa sentencia tras proceso en que se reconozca defensa, bajo pena de nulidad.",
+   "legal": "D.S. 04688, Capítulo XI, Art. 73; página impresa: sin numeración; página PDF: 22."
+  },
+  {
+   "id": "314320bd3084",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO IV] El Reglamento concibe la carrera docente y administrativa en dos proyecciones complementarias. ¿Cuál es el criterio que rige cada una?",
+   "options": [
+    "Los ascensos de jerarquía responden a la antigüedad; las promociones, a los méritos y a los exámenes.",
+    "Los ascensos de jerarquía responden a necesidades, méritos y dotes; las promociones, a la antigüedad.",
+    "Los ascensos responden al concurso sindical; las promociones, a la disponibilidad presupuestaria.",
+    "Ambas proyecciones dependen del puntaje total obtenido en la ficha anual de calificación de méritos."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 18 distingue los ascensos de jerarquía, en función de las necesidades del servicio y de los méritos y dotes del personal, de las promociones de categoría, en función de la antigüedad en el servicio.",
+   "legal": "D.S. 04688, Capítulo IV, Art. 18; página impresa: sin numeración; página PDF: 7."
+  },
+  {
+   "id": "8534266391af",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO I] ¿Cuál de las siguientes NO figura entre las finalidades del Escalafón Nacional del Servicio de Educación?",
+   "options": [
+    "Valorar y recompensar la antigüedad y los méritos del personal del ramo.",
+    "Regular el ingreso y garantizar la continuidad de maestros y funcionarios.",
+    "Fijar el monto del haber básico de cada cargo del servicio educativo.",
+    "Establecer la Escala de Categoría y la Escala Jerárquica de la carrera."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 2 enumera como finalidades regular el ingreso y la continuidad, establecer las escalas de categoría y jerárquica, determinar normas de promociones y ascensos, y valorar la antigüedad y los méritos. La fijación del haber básico no es una finalidad del Escalafón; las categorías solo asignan porcentajes sobre ese haber.",
+   "legal": "D.S. 04688, Capítulo I, Art. 2 (y Art. 37); página impresa: sin numeración; páginas PDF: 2 y 14."
+  },
+  {
+   "id": "e7f2a03664c5",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] La valoración cuantitativa de los méritos del maestro comprende cuatro aspectos de hasta 100 puntos cada uno y un quinto aspecto. ¿Cuál es ese quinto aspecto?",
+   "options": [
+    "Los deméritos registrados en la ficha.",
+    "El examen de competencia aprobado.",
+    "La antigüedad acumulada en el cargo.",
+    "La evaluación realizada por los pares."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 24 señala que la valoración se refiere a estudios y títulos, condiciones personales y docentes, tiempo de servicios y méritos generales (hasta 100 puntos cada uno) y a los deméritos.",
+   "legal": "D.S. 04688, Capítulo V, Art. 24; página impresa: sin numeración; página PDF: 9."
+  },
+  {
+   "id": "07fe1519c411",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CONSIDERANDOS] De acuerdo con los considerandos del Decreto, el Reglamento del Escalafón de 1957 se dictó, entre otras razones, porque:",
+   "options": [
+    "La Contraloría observó pagos indebidos de categorías y exigió crear comisiones calificadoras.",
+    "La Federación de Maestros Rurales solicitó unificar el escalafón urbano con el escalafón rural.",
+    "El Código de la Educación Boliviana ordenó suprimir las categorías y crear una escala salarial única.",
+    "El Reglamento de 1936 resultó anacrónico ante las transformaciones económico-sociales del país."
+   ],
+   "answer": 3,
+   "explanation": "Los considerandos expresan que el Reglamento puesto en vigencia por Decreto Supremo de 24 de noviembre de 1936 resultó anacrónico frente a las transformaciones económico-sociales, que la Confederación Nacional de Maestros Urbanos pidió su modificación y que el nuevo texto guarda conformidad con el Código de la Educación Boliviana.",
+   "legal": "D.S. 04688, Considerandos; página impresa: sin numeración; página PDF: 1."
+  },
+  {
+   "id": "55dbab986b58",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Según el Reglamento, el puntaje final obtenido en la ficha de calificación de cada maestro constituye:",
+   "options": [
+    "El único requisito exigible para la promoción periódica a la categoría inmediata superior.",
+    "Un antecedente reservado que solo puede consultar la Comisión Nacional del Escalafón.",
+    "Un factor objetivo para definir los méritos en concursos de ascenso a cargos jerárquicos.",
+    "La base para fijar el porcentaje de bonificación de categoría que corresponde al maestro."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 34 establece que el puntaje final de la ficha es un factor objetivo para definir los méritos docentes en los concursos para el ascenso a cargos jerárquicos. La promoción de categoría se rige por la antigüedad (Arts. 38 y 39).",
+   "legal": "D.S. 04688, Capítulo V, Art. 34; página impresa: sin numeración; página PDF: 13."
+  },
+  {
+   "id": "68679445ed19",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] ¿Quién registra y califica los méritos profesionales de cada maestro en la ficha correspondiente?",
+   "options": [
+    "El propio maestro, mediante declaración jurada revisada por el Inspector del ciclo.",
+    "La Comisión Nacional del Escalafón, con informe del Departamento de Personal.",
+    "La autoridad inmediata superior, con revisión de las Juntas Calificadoras Distritales.",
+    "El Jefe de Distrito Escolar, con visto bueno del delegado sindical acreditado."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 23 dispone que los méritos se registran y califican en una ficha llevada por la autoridad inmediata superior y revisada por las Juntas Calificadoras Distritales; el Art. 35 lo ratifica al atribuirle la anotación de la ficha.",
+   "legal": "D.S. 04688, Capítulo V, Arts. 23 y 35; página impresa: sin numeración; páginas PDF: 9 y 13."
+  },
+  {
+   "id": "2af2a1115172",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] La autoridad inmediata superior anota la ficha de calificación en tres ejemplares. ¿Cuál es el destino correcto de esos ejemplares?",
+   "options": [
+    "Dos para el Departamento de Personal y uno para el archivo de la unidad donde trabaja el maestro.",
+    "Uno para la Comisión Distrital, uno para la Federación sindical y uno para el propio interesado.",
+    "Uno para el interesado, uno para la Comisión Distrital y uno para la Comisión Nacional del ramo.",
+    "Dos para la Comisión Distrital (uno se entrega al interesado) y uno al Departamento de Personal."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 35 dispone que la ficha se anota en tres ejemplares: dos para conocimiento de la Comisión Calificadora Distrital, de los cuales uno se entrega al interesado, y el tercero se remite al Departamento de Personal del Ministerio.",
+   "legal": "D.S. 04688, Capítulo V, Art. 35; página impresa: sin numeración; página PDF: 13."
+  },
+  {
+   "id": "a9d93c76d752",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VII] ¿Cómo está constituida la Comisión Calificadora Distrital?",
+   "options": [
+    "Inspector de ciclo (presidente), director de establecimiento (secretario) y delegado de padres.",
+    "Jefe de Estadística y Personal (presidente), Jefe del Escalafón (secretario) y delegado sindical.",
+    "Jefe de Distrito o Zona (presidente), Inspector de ciclo (secretario) y representante sindical (vocal).",
+    "Delegado de la Dirección General (presidente), Jefe de Distrito (secretario) y un Inspector de zona (vocal)."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 47 conforma la Comisión Distrital con el Jefe de Distrito Escolar o de Zona como presidente, el Inspector de ciclo como secretario y un representante sindical acreditado por la Federación respectiva como vocal.",
+   "legal": "D.S. 04688, Capítulo VII, Art. 47; página impresa: sin numeración; página PDF: 16."
+  },
+  {
+   "id": "893912543808",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO I] La Comisión Nacional del Escalafón, prevista dentro de las funciones de provisión de calificaciones, está integrada por:",
+   "options": [
+    "El Jefe de Estadística y Personal, un Inspector Distrital y un representante de la Federación de Maestros.",
+    "El Oficial Mayor de Educación, el Jefe del Escalafón y un representante del Instituto de Investigaciones.",
+    "El Director General de Educación, el Jefe de Distrito Escolar y un delegado de la Confederación de Maestros.",
+    "El Jefe de Estadística y Personal, el Jefe del Escalafón y un delegado de la Federación de Maestros Urbanos."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 3, numeral 2, inciso a), integra la Comisión Nacional del Escalafón con el Jefe del Departamento de Estadística y Personal, el Jefe del Escalafón del Ministerio y un Delegado de la Federación Nacional de Maestros Urbanos.",
+   "legal": "D.S. 04688, Capítulo I, Art. 3, num. 2, inc. a); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "3e4a756d3c84",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VII] En el régimen de calificación de servicios, la Comisión Nacional del Escalafón cumple el rol de:",
+   "options": [
+    "Instancia única de calificación de los expedientes distritales.",
+    "Comisión consultiva sin facultad de modificar calificaciones.",
+    "Órgano ejecutor del pago de las categorías a nivel nacional.",
+    "Tribunal de apelación, con facultades revisoras y supervisoras."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 46 establece que la calificación se efectúa por las Comisiones Calificadoras Distritales y por la Comisión Nacional del Escalafón, esta última como Tribunal de Apelación y con facultades revisoras y supervisoras.",
+   "legal": "D.S. 04688, Capítulo VII, Art. 46; página impresa: sin numeración; página PDF: 16."
+  },
+  {
+   "id": "ffdb1d8572e3",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO IX] El Tribunal que califica los concursos de méritos y los exámenes de competencia para cargos directivos está formado por:",
+   "options": [
+    "Jefe del Escalafón (presidente), Jefe de Distrito, Inspector del ciclo y delegado del Instituto.",
+    "Delegado de la Dirección General (presidente), Jefe de Distrito, Director saliente y un delegado de padres.",
+    "Delegado de la Dirección General (presidente), Jefe de Distrito, Inspector del ciclo y delegado sindical.",
+    "Jefe de Distrito (presidente), Inspector del ciclo, Director del establecimiento y delegado sindical."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 57 integra el Tribunal con un delegado de la Dirección General de Educación (presidente), el Jefe de Distrito o Zona (secretario), el Inspector del ciclo (vocal) y un delegado de la Federación Sindical de Maestros, local o nacional (vocal).",
+   "legal": "D.S. 04688, Capítulo IX, Art. 57; página impresa: sin numeración; página PDF: 19."
+  },
+  {
+   "id": "be98eb704428",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VII] ¿Qué responsabilidad asumen los miembros de las Comisiones Distritales por una calificación o un pago indebido de categorías?",
+   "options": [
+    "Solo responden administrativamente ante la Comisión Nacional, sin efecto patrimonial.",
+    "La responsabilidad recae en el maestro beneficiado, que debe devolver lo cobrado.",
+    "Responden únicamente si la Federación sindical formula denuncia escrita y fundada.",
+    "Quedan pasibles de sanciones penales, y el Estado puede repetir contra ellos lo pagado."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 49 declara responsables a los miembros de las Comisiones Distritales por la violación del Reglamento y señala que cualquier calificación o pago indebido los hace pasibles de sanciones penales, sin perjuicio de que el Estado repita contra ellos lo indebidamente pagado.",
+   "legal": "D.S. 04688, Capítulo VII, Art. 49; página impresa: sin numeración; página PDF: 16."
+  },
+  {
+   "id": "8efaed118fdd",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO I] Entre las funciones de registro de datos del Departamento de Estadística y Personal se encuentra la de:",
+   "options": [
+    "Aplicar los exámenes voluntarios de promoción de categoría mediante pruebas objetivas nacionales.",
+    "Designar a los directores de establecimientos según el puntaje obtenido en la ficha de calificación.",
+    "Disponer anualmente las promociones de categoría según las calificaciones distritales.",
+    "Resolver en última instancia las apelaciones de los maestros contra las calificaciones distritales."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 3, numeral 1, inciso c), atribuye al Departamento disponer anualmente las promociones de categoría en vista de las calificaciones definidas por las comisiones distritales. Las apelaciones corresponden a la Comisión Nacional (Art. 50) y los exámenes voluntarios al Instituto de Investigaciones Pedagógicas (Art. 41).",
+   "legal": "D.S. 04688, Capítulo I, Art. 3, num. 1, inc. c); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "c73c957874bb",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] ¿Qué instancia atiende los exámenes voluntarios para la promoción de categoría?",
+   "options": [
+    "El Departamento de Estadística y Personal, con el apoyo de las Federaciones sindicales.",
+    "El Instituto de Investigaciones Pedagógicas, según calendario de la Dirección General.",
+    "La Comisión Nacional del Escalafón, en su condición de tribunal de apelación.",
+    "La Comisión Calificadora Distrital, según calendario fijado por el Jefe de Distrito."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 41 dispone que los exámenes voluntarios son atendidos por el Instituto de Investigaciones Pedagógicas, de acuerdo con el calendario de la Dirección General de Educación, mediante pruebas objetivas con normas uniformes para todo el país.",
+   "legal": "D.S. 04688, Capítulo VI, Art. 41; página impresa: sin numeración; página PDF: 15."
+  },
+  {
+   "id": "2e3363bb136b",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XII] En la comprobación del tiempo de servicios prestados en planteles urbanos particulares, ¿qué rol cumple el Jefe de Distrito?",
+   "options": [
+    "Dicta el auto de legalización, en cuya vista se reconoce el tiempo por Resolución Suprema.",
+    "Expide directamente el certificado de servicios en reemplazo del director del plantel particular.",
+    "Califica el tiempo de servicios y fija la categoría que corresponde al interesado.",
+    "Remite los comprobantes a la Contraloría para que esta certifique los servicios."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 77 exige que los comprobantes sean autenticados y legalizados en la Jefatura por el Inspector del ciclo, previa comprobación del nombramiento y acta de posesión; el Jefe de Distrito dicta el auto de legalización y el tiempo se reconoce por Resolución Suprema para su calificación por las Comisiones Distritales.",
+   "legal": "D.S. 04688, Capítulo XII, Arts. 76 y 77; página impresa: sin numeración; página PDF: 23."
+  },
+  {
+   "id": "a2281e2e2f37",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO III] ¿Cuál es el alcance del deber de inscripción en el Escalafón establecido en el Reglamento?",
+   "options": [
+    "Es un registro estadístico que no produce efectos sobre los derechos del maestro inscrito.",
+    "Es requisito para gozar de las garantías, derechos y recompensas del personal de carrera.",
+    "Es un trámite facultativo que solo condiciona el pago de la bonificación de quinta categoría.",
+    "Es obligatorio solo para normalistas, pues interinos y administrativos están excluidos."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 12 obliga a maestros y funcionarios administrativos a inscribirse como requisito para el goce de las garantías, derechos y recompensas que el Reglamento reconoce al personal de carrera; interinos y administrativos tienen opción a inscribirse tras cinco años (Arts. 14 y 16).",
+   "legal": "D.S. 04688, Capítulo III, Art. 12; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "d1f737dbbd5f",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO III] Un maestro titular que, al cabo de 10 años de servicio, reprueba por segunda vez el examen de capacidad previsto en el Reglamento:",
+   "options": [
+    "Queda automáticamente retirado del servicio docente por resolución del Jefe de Distrito.",
+    "Puede repetir el examen sin consecuencias hasta aprobarlo en una tercera oportunidad.",
+    "Es promovido igualmente por antigüedad, con un año de diferimiento en su categoría.",
+    "Queda privado de las garantías que el Reglamento reconoce en favor del magisterio."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 15 dispone que, si el maestro no aprueba el examen, su declaratoria de titular se difiere un año y, ante una segunda reprobación, queda privado de las garantías que el Reglamento reconoce en favor del magisterio.",
+   "legal": "D.S. 04688, Capítulo III, Art. 15; página impresa: sin numeración; página PDF: 6."
+  },
+  {
+   "id": "be09d8f2636f",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO III] Para inscribirse en el Escalafón, el funcionario administrativo debe presentar los documentos de los incisos a), b) y d) del Art. 13. Esto implica que, a diferencia del maestro normalista, NO se le exige:",
+   "options": [
+    "El certificado de formación o títulos obtenidos.",
+    "Los documentos que acrediten su estado civil.",
+    "El documento que acredite su situación militar.",
+    "El certificado de nacimiento o prueba supletoria."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 16 remite a los incisos a), b) y d) del Art. 13 (nacimiento, estado civil y títulos), omitiendo el inciso c), que corresponde a los documentos que acreditan la situación militar.",
+   "legal": "D.S. 04688, Capítulo III, Arts. 13 y 16; página impresa: sin numeración; páginas PDF: 6 y 7."
+  },
+  {
+   "id": "907940f193b1",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] El Art. 27 permite a ciertos maestros computar los meses de vacaciones como parte del trimestre correspondiente. Este beneficio se reconoce a:",
+   "options": [
+    "Los maestros normalistas de quinta categoría.",
+    "Los maestros que hacen rendir exámenes.",
+    "Los maestros que acumulan cargos nocturnos.",
+    "Los maestros que prestan servicio en fronteras."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 27, tras fijar un punto por trimestre de trabajo, dispone que los maestros que hacen rendir exámenes tienen derecho al cómputo de los meses de vacaciones como parte del trimestre correspondiente.",
+   "legal": "D.S. 04688, Capítulo V, Art. 27; página impresa: sin numeración; página PDF: 11."
+  },
+  {
+   "id": "37e40ac98195",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] ¿Cuál es la regla del Reglamento sobre los años de servicio prestados a países extranjeros?",
+   "options": [
+    "Se computan a mitad de tiempo, previa legalización consular de los certificados.",
+    "No se computan para fines de jubilación ni de calificación de servicios.",
+    "Se computan solo para la promoción de categoría, no así para la jubilación.",
+    "Se computan íntegramente si el maestro acredita nacionalidad boliviana."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 31 establece expresamente que los años de servicios prestados a países extranjeros no se computan para fines de jubilación ni de calificación de servicios.",
+   "legal": "D.S. 04688, Capítulo V, Art. 31; página impresa: sin numeración; página PDF: 11."
+  },
+  {
+   "id": "6a84f83734b9",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] ¿Qué ocurre con el postulante que no aprueba el examen voluntario de promoción de categoría?",
+   "options": [
+    "Conserva la opción de ser promovido por el cómputo de antigüedad en el servicio.",
+    "Recibe deméritos en su ficha por resistencia a normas técnicas del servicio.",
+    "Queda inhabilitado para rendir nuevos exámenes voluntarios durante cinco años.",
+    "Pierde la categoría alcanzada y debe reiniciar el cómputo desde la quinta categoría."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 42 dispone que los postulantes no aprobados en el examen de promoción de categoría tienen opción a ser promovidos por el cómputo de antigüedad; el examen voluntario solo abrevia el proceso (Art. 40).",
+   "legal": "D.S. 04688, Capítulo VI, Arts. 40 y 42; página impresa: sin numeración; página PDF: 15."
+  },
+  {
+   "id": "85c536babf3e",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VII] En el trámite de apelación contra la calificación de la Comisión Distrital, ¿qué función limitada le corresponde a esta Comisión?",
+   "options": [
+    "Admitir pruebas nuevas y resolver la apelación en única instancia en 3 días.",
+    "Revisar el fondo de la calificación y modificarla dentro de los 10 días siguientes.",
+    "Verificar que se presentó dentro de 10 días y resolver la concesión en 3 días.",
+    "Emitir informe de descargo y esperar que la Comisión Nacional fije audiencia."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 51 limita a la Comisión Distrital a verificar la procedencia de la apelación en cuanto al término de 10 días y a resolverla, bajo responsabilidad, en el término de 3 días; la decisión de fondo corresponde a la Comisión Nacional (Arts. 46 y 50).",
+   "legal": "D.S. 04688, Capítulo VII, Arts. 50 y 51; página impresa: sin numeración; página PDF: 17."
+  },
+  {
+   "id": "bfb0a21a3060",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO IX] Cuando dos o más postulantes optan por un cargo directivo vacante y existe paridad en el concurso de méritos, la designación se define por:",
+   "options": [
+    "Mayor edad del postulante.",
+    "Examen de competencia.",
+    "Votación del ente sindical.",
+    "Sorteo ante el Tribunal."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 56, inciso d), dispone que, en los casos de paridad de varios postulantes en el concurso de méritos, la designación se define por examen de competencia.",
+   "legal": "D.S. 04688, Capítulo IX, Art. 56; página impresa: sin numeración; página PDF: 18."
+  },
+  {
+   "id": "a0273d3e15cc",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Según el Reglamento, la acumulación de cargos docentes consiste en:",
+   "options": [
+    "Atender cursos paralelos únicamente cuando equivalen a un curso completo adicional.",
+    "Desempeñar un cargo principal y otro cargo docente, completo o por horas excedentes.",
+    "Ejercer simultáneamente un cargo docente y uno administrativo en el mismo distrito.",
+    "Sumar la antigüedad de dos cargos para acelerar la promoción a la categoría superior."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 59 define la acumulación como el desempeño de un cargo principal y de otro cargo docente, completo o de cierto número de cursos paralelos y horas excedentes, aunque no equivalgan a un curso completo.",
+   "legal": "D.S. 04688, De la acumulación de cargos docentes, Art. 59; página impresa: sin numeración; página PDF: 19."
+  },
+  {
+   "id": "8458f34d8acb",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DISPOSICIONES GENERALES Y TRANSITORIAS] ¿Qué naturaleza atribuye el Reglamento a las asignaciones por categoría?",
+   "options": [
+    "Integran el haber solo durante el servicio activo y se excluyen al jubilarse.",
+    "Son bonos eventuales que no integran el haber ni se computan para la jubilación.",
+    "Son incentivos sujetos a evaluación anual y revocables por los deméritos acumulados.",
+    "Integran el haber y se consideran para jubilación, aguinaldo y beneficios sociales."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 78 establece que las asignaciones por categoría son parte integrante del haber y se toman en cuenta para la jubilación, el aguinaldo y todos los beneficios sociales.",
+   "legal": "D.S. 04688, Disposiciones generales y transitorias, Art. 78; página impresa: sin numeración; página PDF: 23."
+  },
+  {
+   "id": "c3a10a42c02a",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO II] ¿Qué distingue al maestro interino del maestro titular según el Reglamento?",
+   "options": [
+    "El interino ingresa provisionalmente sin formación regular; el titular es interino de 10 años que aprobó examen.",
+    "El interino tiene menos de 5 años de servicio; el titular es quien supera ese tiempo sin necesidad de examen.",
+    "El interino carece de título universitario; el titular es quien egresó de una normal y aprobó su examen.",
+    "El interino trabaja en el área rural; el titular es el interino que obtiene un cargo en el área urbana del ramo."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 9 define al interino como quien, careciendo de formación pedagógica regular, ingresa en forma provisional por emergencia; el Art. 10 define al titular como el interino que tras 10 años de servicios aprueba un examen de capacidad y obtiene el título por Resolución Suprema.",
+   "legal": "D.S. 04688, Capítulo II, Arts. 9 y 10; página impresa: sin numeración; páginas PDF: 4 y 5."
+  },
+  {
+   "id": "f5dd4cab377e",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Distinga correctamente el mecanismo de ascenso a direcciones del previsto para los demás ascensos jerárquicos:",
+   "options": [
+    "Direcciones: compulsa de méritos y años de servicio; demás: examen de competencia y concurso de méritos.",
+    "Direcciones: concurso de méritos y examen de competencia; demás: compulsa, concurso y años de servicio.",
+    "Direcciones: designación por terna sindical; demás: compulsa de méritos y examen de competencia.",
+    "Direcciones: puntaje de ficha y antigüedad; demás: examen voluntario ante el Instituto de Investigaciones."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 22 dispone que los ascensos a las direcciones se determinan por concurso de méritos y examen de competencia (Art. 228 del Código), mientras que los demás ascensos jerárquicos, becas y misiones especiales se definen por compulsa de méritos, sistema de concurso y años de servicio (Art. 252 del Código).",
+   "legal": "D.S. 04688, Capítulo V, Art. 22; página impresa: sin numeración; página PDF: 9."
+  },
+  {
+   "id": "382f24b952ea",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] ¿Cuál es la diferencia de cómputo de antigüedad en zonas declaradas fronterizas entre normalistas y titulares o interinos no oriundos del lugar?",
+   "options": [
+    "Normalista: 4 años computan 6; titular o interino: 2 años computan 4.",
+    "Normalista: 2 años computan 4; titular o interino: 2 años computan 3.",
+    "Normalista: 2 años computan 4; titular o interino: 4 años computan 6.",
+    "Normalista: 2 años computan 3; titular o interino: 3 años computan 5."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 29 reconoce a los normalistas no oriundos 4 años de antigüedad por 2 de servicio en frontera; el Art. 30 reconoce a titulares o interinos no oriundos 6 años por 4 de servicio, para jubilación, calificación de méritos y promoción de categoría.",
+   "legal": "D.S. 04688, Capítulo V, Arts. 29 y 30; página impresa: sin numeración; página PDF: 11."
+  },
+  {
+   "id": "4be53a272ac9",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XI] Distinga las causas de retiro del servicio activo calificadas como \"no culpables\" de las \"culpables\":",
+   "options": [
+    "No culpable: condena por delitos comunes; culpable: retiro por sentencia del proceso.",
+    "No culpable: llegar a 60 años; culpable: condena a pena corporal por delitos comunes.",
+    "No culpable: jubilación voluntaria; culpable: cesantía sin culpabilidad del maestro.",
+    "No culpable: deméritos graves acumulados; culpable: abandono de funciones por un año."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 75 califica como causas no culpables haber llegado a los 60 años (jubilación obligatoria, salvo excepciones) y acogerse voluntariamente a la jubilación; y como culpables la condena a pena corporal por delitos comunes y el retiro por sentencia dictada en proceso.",
+   "legal": "D.S. 04688, Capítulo XI, Art. 75; página impresa: sin numeración; página PDF: 22."
+  },
+  {
+   "id": "614cef056764",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] En la calificación de méritos, distinga entre \"condiciones personales y docentes\" y \"méritos generales\":",
+   "options": [
+    "Las primeras computan deméritos; los segundos computan el tiempo de servicio en zonas de frontera.",
+    "Las primeras se califican por trimestre trabajado; los segundos, por títulos académicos obtenidos.",
+    "Las primeras incluyen libros y publicaciones; los segundos, asistencia, puntualidad y disciplina.",
+    "Las primeras se basan en la ficha del superior; los segundos incluyen publicaciones, premios y cargos."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 26 califica las condiciones personales sobre la base de la ficha anotada por el inmediato superior (asistencia, personalidad, ascendencia moral, etc.), mientras que el Art. 32 incluye en méritos generales artículos, libros, publicaciones, funciones públicas, premios, fundación de cursos y desempeño de funciones jerárquicas.",
+   "legal": "D.S. 04688, Capítulo V, Arts. 26 y 32; página impresa: sin numeración; páginas PDF: 10 a 12."
+  },
+  {
+   "id": "aacce45dba84",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO II] El Art. 5 exige tener entre 18 y 50 años para ingresar al sector docente, mientras el Art. 11 impide la admisión a la docencia de los mayores de 60 años. ¿Cuál es la lectura crítica más consistente?",
+   "options": [
+    "Ambos fijan el mismo límite, ya que el de 60 años solo se aplica al personal administrativo del ramo educativo.",
+    "El segundo deroga tácitamente al primero, porque es posterior en el orden del articulado del decreto.",
+    "Ambos son contradictorios, por lo que prevalece siempre el límite más favorable de 60 años de edad.",
+    "El primero regula el ingreso a la carrera; el segundo, un impedimento absoluto para ejercer la docencia."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 5 fija requisitos para ingresar al sector docente (no menos de 18 ni más de 50 años), mientras el Art. 11 enumera impedimentos para la admisión en el ejercicio de la docencia, entre ellos ser mayor de 60 años, edad que el Art. 75 vincula con la jubilación obligatoria. Son reglas de naturaleza distinta y complementaria.",
+   "legal": "D.S. 04688, Capítulo II, Arts. 5 y 11; Capítulo XI, Art. 75; página impresa: sin numeración; páginas PDF: 4, 5 y 22."
+  },
+  {
+   "id": "0ec0caee58b8",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] El examen voluntario de promoción de categoría permite a un normalista llegar a la 1.ª categoría con 16 años, cuando por antigüedad lo haría con 20. ¿Qué propósito declara el Reglamento para esta opción?",
+   "options": [
+    "Estimular la mejor preparación profesional del magisterio.",
+    "Sustituir progresivamente la promoción por antigüedad.",
+    "Reducir el gasto presupuestario de las categorías altas.",
+    "Compensar a quienes prestan servicio en zonas alejadas."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 40 establece la opción del examen voluntario \"con el objeto de estimular la mejor preparación profesional del magisterio\" como medio para abreviar el proceso de promociones; la promoción por antigüedad se mantiene (Art. 42).",
+   "legal": "D.S. 04688, Capítulo VI, Arts. 38, 40 y 42; página impresa: sin numeración; páginas PDF: 14 y 15."
+  },
+  {
+   "id": "b393ea35f381",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] El Art. 64 prohíbe que un mismo curso en una misma asignatura sea atendido por más de un profesor. ¿Qué fundamento pedagógico expresa el propio artículo?",
+   "options": [
+    "Evitar que la acción educativa diaria se malogre por la dispersión de la labor docente.",
+    "Impedir que el director acumule horas en establecimientos ajenos al suyo propio.",
+    "Garantizar que los profesores de mayor categoría tengan prioridad en la asignación.",
+    "Asegurar que el pago de horas excedentes no se duplique en el mismo establecimiento."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 64 justifica la prohibición en que la acción educativa del profesor del ciclo medio, ejercida mediante su contacto diario con los alumnos, no quede malograda por la dispersión de la labor docente.",
+   "legal": "D.S. 04688, De la acumulación de cargos docentes, Art. 64; página impresa: sin numeración; página PDF: 20."
+  },
+  {
+   "id": "3ad6a0b24e44",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Entre los deméritos por \"faltas de rendimiento\" figura tener más de 30% de reprobados en el curso. Desde un análisis crítico, ¿qué rasgo del Reglamento revela esta previsión?",
+   "options": [
+    "Sanciona el rendimiento solo cuando existe sentencia ejecutoriada en proceso escolar.",
+    "Vincula la valoración del maestro con los resultados de aprendizaje de sus alumnos.",
+    "Atribuye la reprobación a los alumnos y excluye cualquier responsabilidad docente.",
+    "Reemplaza la ficha de méritos por indicadores estadísticos de promoción del curso."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 33 incluye, entre las faltas de rendimiento, \"más de 30% de reprobados en el curso\" (de 1 a 5 puntos), junto a deficiencias para el cargo y omisión de registros, lo que vincula la valoración docente con los resultados del curso sin reemplazar la ficha de calificación.",
+   "legal": "D.S. 04688, Capítulo V, Art. 33; página impresa: sin numeración; página PDF: 12."
+  },
+  {
+   "id": "1640fb294058",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Entre los deméritos por abusos contra los alumnos, ¿cuál tiene en el Reglamento el rango de puntaje más alto?",
+   "options": [
+    "El trato indebido que provoque deserción, de 1 a 15 puntos de demérito.",
+    "La instigación inmoral a los alumnos, de 1 a 20 puntos de demérito.",
+    "El uso de castigos corporales y vejaciones graves, de 1 a 20 puntos.",
+    "La explotación de alumnos en servicios indebidos, de 1 a 15 puntos."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 33, área 4, asigna de 1 a 20 puntos al uso de castigos corporales y vejaciones graves, de 1 a 15 a la instigación inmoral, y de 1 a 10 tanto al trato indebido que provoque deserción superior al 20% como a la explotación de alumnos.",
+   "legal": "D.S. 04688, Capítulo V, Art. 33, num. 4; página impresa: sin numeración; página PDF: 13."
+  },
+  {
+   "id": "7378d66dbd6f",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] El Art. 60 condiciona las acumulaciones a que no existan maestros normalistas o titulares sin colocación en el mismo ciclo o especialidad. ¿Qué principio subyace a esta regla?",
+   "options": [
+    "Asegurar que solo los maestros de primera categoría accedan a las horas adicionales disponibles.",
+    "Garantizar que las horas excedentes se asignen según el puntaje de deméritos.",
+    "Permitir que el director distribuya libremente las horas según su criterio.",
+    "Priorizar el empleo de maestros calificados disponibles antes que concentrar cargos."
+   ],
+   "answer": 3,
+   "explanation": "Al supeditar la acumulación a la inexistencia de normalistas o titulares sin colocación (Art. 60), y al encomendar preferentemente los cargos nocturnos y de alfabetización a normalistas sin colocación (Art. 66), el Reglamento prioriza el empleo de maestros calificados disponibles.",
+   "legal": "D.S. 04688, De la acumulación de cargos docentes, Arts. 60 y 66; página impresa: sin numeración; páginas PDF: 19 y 20."
+  },
+  {
+   "id": "92766e825c96",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] El Art. 70 niega la acumulación a quienes no sean jefes de familia o tengan rentas de otra fuente. ¿Qué criterio adopta el Reglamento para la acumulación?",
+   "options": [
+    "Un criterio de mérito académico, ligado al puntaje de estudios y títulos del maestro.",
+    "Un criterio territorial, ligado a la condición de oriundo de la zona de trabajo.",
+    "Un criterio de necesidad económica, ligado a tener al menos un hijo menor a cargo.",
+    "Un criterio de antigüedad, ligado a la categoría alcanzada en la escala de promoción."
+   ],
+   "answer": 2,
+   "explanation": "Los Arts. 70 y 71 excluyen de la acumulación a quienes no son jefes de familia (al menos un hijo menor a cargo) o tienen rentas de inmuebles, utilidades o ejercicio de otra profesión, lo que revela un criterio de necesidad económica, sin perjuicio de los límites por categoría del Art. 61.",
+   "legal": "D.S. 04688, De la acumulación de cargos docentes, Arts. 70 y 71; página impresa: sin numeración; página PDF: 21."
+  },
+  {
+   "id": "88127ef2d61d",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XI] El Art. 74 reconoce al maestro inscrito que queda cesante sin culpa el 100% del haber hasta su restitución. ¿Qué límite y qué condición contiene la disposición?",
+   "options": [
+    "Restitución en un cargo del mismo rango en un máximo de 180 días; pago con fondos del distrito.",
+    "Restitución en un cargo de rango inferior en un máximo de 90 días; pago al 50% de su haber.",
+    "Restitución en cualquier cargo disponible en un máximo de 60 días; pago por la Federación sindical.",
+    "Restitución en un cargo del mismo rango en un máximo de 90 días; partida global en el presupuesto."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 74 reconoce el 100% del haber hasta que se restituya al maestro en funciones del mismo rango en un máximo de 90 días, y prevé fijar una partida global en el Presupuesto de Educación para esos pagos.",
+   "legal": "D.S. 04688, Capítulo XI, Art. 74; página impresa: sin numeración; página PDF: 22."
+  },
+  {
+   "id": "0bca332a3e35",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VIII] Para formular las ternas de designación de directores, jefes e inspectores de distrito, el Reglamento ordena considerar las condiciones del Art. 54 y \"muy especialmente\":",
+   "options": [
+    "El ascendiente y la autoridad moral de los candidatos en las bases del magisterio.",
+    "El respaldo escrito de la Federación sindical del distrito al que postula el candidato.",
+    "La aprobación del examen voluntario de promoción ante el Instituto de Investigaciones.",
+    "La mayor categoría alcanzada por el candidato en la escala de promociones vigente."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 55 dispone que en las ternas se tengan en cuenta las condiciones del Art. 54 y, muy especialmente, el requisito del ascendiente y la autoridad moral que deben gozar los candidatos en las bases del magisterio.",
+   "legal": "D.S. 04688, Capítulo VIII, Art. 55; página impresa: sin numeración; página PDF: 18."
+  },
+  {
+   "id": "8b46a528dff4",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DISPOSICIONES GENERALES Y TRANSITORIAS] El Art. 86 anticipa un cambio en el régimen de promoción de categoría. ¿En qué consiste?",
+   "options": [
+    "Concluida la calificación nacional, las categorías se fijarán por la Federación de Maestros.",
+    "Concluida la calificación nacional, la antigüedad dejará de computarse para promover las categorías.",
+    "Concluida la calificación nacional, el examen voluntario será obligatorio para toda promoción.",
+    "Concluida la calificación nacional, los méritos serán factor necesario según escala del Ministerio."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 86 prevé que, una vez concluida la calificación de méritos del personal docente en todo el país, el puntaje de méritos pasará a ser un factor necesario para la promoción de categoría, de acuerdo con la escala de puntos que establezca el Ministerio de Educación.",
+   "legal": "D.S. 04688, Disposiciones generales y transitorias, Art. 86; página impresa: sin numeración; página PDF: 25."
+  },
+  {
+   "id": "d55e23d4f572",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] Un maestro interino con 15 años cumplidos de servicio, que nunca rindió exámenes voluntarios, ¿en qué categoría le corresponde estar por antigüedad?",
+   "options": [
+    "Segunda categoría.",
+    "Cuarta categoría.",
+    "Quinta categoría.",
+    "Tercera categoría."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 39 dispone que interinos, titulares y administrativos ascienden a la 5.ª categoría a los 5 años, a la 4.ª a los 10, a la 3.ª a los 15, a la 2.ª a los 20 y a la 1.ª a los 25 años cumplidos.",
+   "legal": "D.S. 04688, Capítulo VI, Art. 39; página impresa: sin numeración; página PDF: 14."
+  },
+  {
+   "id": "302578dc1ab8",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] Un maestro normalista con 10 años de servicio, sin exámenes voluntarios, ¿qué porcentaje de bonificación de categoría percibe sobre su haber básico?",
+   "options": [
+    "60%.",
+    "45%.",
+    "75%.",
+    "30%."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El normalista percibe la 5.ª categoría desde su inicio y asciende a los 5, 10, 15 y 20 años (Art. 38); con 10 años alcanza la 3.ª categoría, que asigna el 60% (Art. 37).",
+   "legal": "D.S. 04688, Capítulo VI, Arts. 37 y 38; página impresa: sin numeración; página PDF: 14."
+  },
+  {
+   "id": "35545c770cfd",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] Una maestra normalista con 12 años de servicio aprueba el examen voluntario. ¿Hasta qué categoría puede ser promovida en virtud del Art. 40?",
+   "options": [
+    "Cuarta categoría.",
+    "Primera categoría.",
+    "Tercera categoría.",
+    "Segunda categoría."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 40, inciso b), permite a los normalistas acceder a la 4.ª categoría con 4 años, a la 3.ª con 8, a la 2.ª con 12 y a la 1.ª con 16 años, siempre con examen aprobado.",
+   "legal": "D.S. 04688, Capítulo VI, Art. 40, inc. b); página impresa: sin numeración; página PDF: 15."
+  },
+  {
+   "id": "fc27ec583926",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] Un maestro titular con 18 años de servicio aprueba el examen voluntario. ¿A qué categoría puede ser promovido?",
+   "options": [
+    "Tercera categoría.",
+    "Segunda categoría.",
+    "Cuarta categoría.",
+    "Primera categoría."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 40, inciso a), permite a interinos y titulares acceder a la 3.ª categoría con 14 años, a la 2.ª con 18 y a la 1.ª con 22 años, con examen aprobado.",
+   "legal": "D.S. 04688, Capítulo VI, Art. 40, inc. a); página impresa: sin numeración; página PDF: 15."
+  },
+  {
+   "id": "23186e4f3822",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un maestro realizó alfabetización voluntaria y no remunerada de 50 personas. ¿Qué puntaje le corresponde por ese concepto en condiciones personales?",
+   "options": [
+    "10 puntos, por ser el tope del inciso.",
+    "15 puntos, por ajuste proporcional.",
+    "20 puntos, por ser el máximo previsto.",
+    "25 puntos, a razón de 5 por cada 10."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 26, inciso i), asigna 5 puntos por cada 10 sujetos alfabetizados de forma voluntaria y no remunerada, hasta un máximo de 20 puntos; los 25 puntos teóricos se limitan al tope.",
+   "legal": "D.S. 04688, Capítulo V, Art. 26, inc. i); página impresa: sin numeración; página PDF: 11."
+  },
+  {
+   "id": "0481eaaf2d17",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un maestro desempeñó un cargo asimilado al rango de Jefe de Distrito Escolar. ¿Cuántos puntos de méritos generales le corresponden por ese desempeño jerárquico?",
+   "options": [
+    "4 puntos.",
+    "8 puntos.",
+    "6 puntos.",
+    "2 puntos."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 32, inciso g), asigna por funciones jerárquicas: 2 puntos (director), 4 (Inspector Distrital), 6 (Jefe de Distrito Escolar), 8 (Director Nacional) y 10 (Director General y Oficial Mayor).",
+   "legal": "D.S. 04688, Capítulo V, Art. 32, inc. g); página impresa: sin numeración; página PDF: 12."
+  },
+  {
+   "id": "291f4922b872",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VIII] Un maestro con formación pedagógica, que fue director, tiene 9 años de servicio y 130 puntos de méritos. ¿A qué cargo jerárquico puede optar según el Art. 54?",
+   "options": [
+    "Director General, por haber ejercido cargo directivo.",
+    "Inspector de distrito, pero no Jefe de Distrito.",
+    "Ninguno, porque requiere quince años de servicio.",
+    "Jefe de Distrito, por cumplir ocho años de servicio."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 54 exige para inspector formación pedagógica, haber sido director, al menos 8 años y 120 puntos; para Jefe de Distrito, los mismos requisitos pero 150 puntos; para Director General, 15 años y 200 puntos. Con 130 puntos solo alcanza el requisito de inspector.",
+   "legal": "D.S. 04688, Capítulo VIII, Art. 54, incs. b) y c); página impresa: sin numeración; páginas PDF: 17 y 18."
+  },
+  {
+   "id": "f9472c53fb81",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VIII] Una maestra con título de formación pedagógica en el ciclo, capacidad directiva comprobada, 6 años de servicio y 95 puntos de méritos postula a dirección de escuela. ¿Cumple los requisitos?",
+   "options": [
+    "Sí, porque el puntaje solo se exige para cargos de inspección.",
+    "Sí, porque supera el mínimo de 5 años exigido para el cargo.",
+    "No, porque no alcanza el mínimo de 100 puntos de méritos.",
+    "No, porque se exigen al menos 8 años de servicio en el cargo."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 54, inciso a), exige para ser Director de Escuela título de formación pedagógica en el ciclo, capacidad directiva, no menos de 5 años de servicio y no menos de 100 puntos de méritos; las condiciones son concurrentes.",
+   "legal": "D.S. 04688, Capítulo VIII, Art. 54, inc. a); página impresa: sin numeración; página PDF: 17."
+  },
+  {
+   "id": "2ab6a5d075eb",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Un profesor normalista de secundaria, en segunda categoría, solicita acumular horas además de su cargo principal. ¿Cuál es el límite que le corresponde?",
+   "options": [
+    "Hasta 10 horas semanales.",
+    "Hasta 6 horas semanales.",
+    "Hasta 8 horas semanales.",
+    "Hasta 4 horas semanales."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 61 fija para el ciclo secundario: primera categoría hasta 10 horas, segunda hasta 8, tercera hasta 6 y cuarta hasta 4 horas semanales, además del cargo principal.",
+   "legal": "D.S. 04688, De la acumulación de cargos docentes, Art. 61; página impresa: sin numeración; páginas PDF: 19 y 20."
+  },
+  {
+   "id": "feda2325dab5",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] El director de un colegio secundario desea dictar 6 horas en un colegio particular nocturno distinto del suyo. Según el Art. 69, ¿qué corresponde?",
+   "options": [
+    "Es incompatible: el director solo acumula hasta 10 horas en su propio establecimiento.",
+    "Es incompatible solo si el colegio particular cobra pensiones que no son módicas.",
+    "Es procedente si no supera 10 horas y cuenta con autorización del Jefe de Distrito.",
+    "Es procedente, porque el Art. 68 permite trabajar en colegios particulares nocturnos."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 69 permite a los directores de colegios secundarios acumular hasta 10 horas semanales dentro del propio establecimiento y declara incompatible la acumulación en otro establecimiento, fiscal o particular. Esta regla específica para directores prevalece sobre la general del Art. 68.",
+   "legal": "D.S. 04688, De la acumulación de cargos docentes, Arts. 68 y 69; página impresa: sin numeración; página PDF: 21."
+  },
+  {
+   "id": "68461afc115e",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Una maestra de primaria en cuarta categoría solicita acumular un cargo en un centro de alfabetización. ¿Es procedente según el Art. 65?",
+   "options": [
+    "No, porque la acumulación en pre-escolar y primaria procede desde tercera categoría.",
+    "Sí, siempre que el segundo cargo no sea directivo ni se desarrolle en horario diurno.",
+    "Sí, porque los centros de alfabetización permiten acumular a cualquier categoría.",
+    "No, porque en primaria solo se acumulan horas dentro del mismo establecimiento."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 65 permite a los maestros de pre-escolar y primaria, desde tercera categoría, acumular un cargo docente dentro de su ciclo y en escuelas nocturnas o centros de alfabetización, sin que ambos cargos sean directivos ni diurnos. En cuarta categoría no cumple el requisito.",
+   "legal": "D.S. 04688, De la acumulación de cargos docentes, Art. 65; página impresa: sin numeración; página PDF: 20."
+  },
+  {
+   "id": "f5119ec50735",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un maestro con título de bachiller y título de abogado se inscribe en el Escalafón. Solo por estos tres conceptos (inscripción y ambos títulos), ¿cuántos puntos suma en estudios y títulos?",
+   "options": [
+    "25 puntos.",
+    "20 puntos.",
+    "10 puntos.",
+    "15 puntos."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 25 asigna 5 puntos por inscripción en el Escalafón, 5 por título de bachiller y 10 por título de médico, abogado, ingeniero u otro de igual nivel universitario, lo que suma 20 puntos.",
+   "legal": "D.S. 04688, Capítulo V, Art. 25; página impresa: sin numeración; página PDF: 10."
+  },
+  {
+   "id": "a15808537b1e",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO III] Un maestro interino, con 6 años de servicio, no rindió la prueba de idoneidad por razones imputables a su negligencia. ¿Qué consecuencia prevé el Reglamento?",
+   "options": [
+    "Queda inhabilitado para el ejercicio de la docencia.",
+    "Recibe deméritos por incumplimiento de sus comisiones.",
+    "Pierde un año de antigüedad para la promoción.",
+    "Debe rendir la prueba en un plazo improrrogable."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 43 dispone que los maestros interinos que después de 6 años de servicio no rindieron la prueba de idoneidad del Art. 232 del Código, por razones imputables a su negligencia, quedan inhabilitados para el ejercicio de la docencia.",
+   "legal": "D.S. 04688, Capítulo VI, Art. 43; página impresa: sin numeración; página PDF: 15."
+  },
+  {
+   "id": "4e2e701ba3fb",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DISPOSICIONES GENERALES Y TRANSITORIAS] Un maestro normalista egresó hace 3 años y aún no recabó su título ni la visación correspondiente. Cumple el tiempo para ascender de categoría. ¿Qué establece el Reglamento?",
+   "options": [
+    "No puede ascender de categoría hasta recabar el título y su visación.",
+    "Asciende, pero el ascenso queda sujeto a revisión de la Comisión.",
+    "Pierde la bonificación de quinta categoría hasta regularizarse.",
+    "Asciende normalmente, porque la antigüedad es el único requisito."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 81 obliga a los normalistas a recabar el título y su visación en el término de 2 años después de su egreso, requisitos sin los cuales no podrán ascender de categoría. La quinta categoría inicial no puede ser retirada (Art. 82).",
+   "legal": "D.S. 04688, Disposiciones generales y transitorias, Arts. 81 y 82; página impresa: sin numeración; página PDF: 24."
+  },
+  {
+   "id": "30e4d092e757",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VII] Un maestro fue notificado con su calificación distrital y presenta la apelación al día 12. ¿Qué debe hacer la Comisión Distrital?",
+   "options": [
+    "Remitirla a la Comisión Nacional, que es la única facultada para revisar plazos.",
+    "Verificar que la apelación es extemporánea por exceder el término de 10 días.",
+    "Resolverla en el fondo, porque los plazos no rigen para reclamos de antigüedad.",
+    "Concederla, porque el término de apelación es de 15 días desde la notificación."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: Los Arts. 50 y 51 fijan un término de 10 días desde la notificación para apelar ante la Comisión Nacional y encargan a la Comisión Distrital verificar la procedencia de la apelación en cuanto a ese término.",
+   "legal": "D.S. 04688, Capítulo VII, Arts. 50 y 51; página impresa: sin numeración; página PDF: 17."
+  },
+  {
+   "id": "6e0fb11ec303",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO II] Una persona de 52 años, con título universitario y amplia experiencia, solicita ingresar al sector docente fiscal como maestra interina de secundaria. ¿Qué corresponde según el Reglamento?",
+   "options": [
+    "No procede, porque los interinos solo pueden enseñar en el ciclo primario.",
+    "Procede, porque el impedimento de admisión rige solo para mayores de 60 años.",
+    "Procede, porque el título universitario la habilita para enseñar en secundaria.",
+    "No procede, porque el ingreso al sector docente exige tener entre 18 y 50 años."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 5, inciso c), exige para ingresar al sector docente tener no menos de 18 ni más de 50 años. El título universitario (Art. 9, inciso b) es un grado mínimo de instrucción del interino, pero no suple el requisito de edad para el ingreso.",
+   "legal": "D.S. 04688, Capítulo II, Arts. 5 y 9; página impresa: sin numeración; páginas PDF: 4 y 5."
+  },
+  {
+   "id": "cf8447015324",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO II] En una zona sin maestros normalistas disponibles, se propone admitir como interino de primaria a un postulante que no tiene diploma de bachiller, pero aprobó el examen de capacidad. ¿Qué corresponde?",
+   "options": [
+    "No admitirlo: el bachillerato es grado mínimo imprescindible para enseñar en primaria.",
+    "Admitirlo de forma provisional, con cargo a presentar el diploma en cinco años.",
+    "Admitirlo, porque la emergencia y el examen aprobado sustituyen el grado mínimo.",
+    "Admitirlo como titular, pues el examen de capacidad aprobado equivale al título pedagógico."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 9 exige \"imprescindiblemente\" para los interinos un examen de capacidad y el grado mínimo de instrucción; para el ciclo primario, el diploma de bachiller. Ambos requisitos son concurrentes.",
+   "legal": "D.S. 04688, Capítulo II, Art. 9; página impresa: sin numeración; páginas PDF: 4 y 5."
+  },
+  {
+   "id": "92c5e63c06e1",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO II] Un postulante a docente tiene sentencia ejecutoriada por un delito en materia penal. El director que recibe su postulación debe considerar que:",
+   "options": [
+    "Puede ser admitido si la Comisión Distrital califica favorablemente su ficha.",
+    "No puede ser admitido en el ejercicio de la docencia según el Reglamento.",
+    "Puede ser admitido si la sentencia no se refiere a delitos contra alumnos.",
+    "Puede ser admitido como interino si aprueba el examen de capacidad exigido."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 11, inciso d), establece que no pueden ser admitidos en el ejercicio de la docencia aquellos sobre quienes pese sentencia ejecutoriada por delitos en materia penal.",
+   "legal": "D.S. 04688, Capítulo II, Art. 11; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "50f97f685444",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO III] Un funcionario administrativo con 12 años de servicio pasa a cumplir funciones docentes y pide conservar su categoría. ¿Qué exige el Reglamento?",
+   "options": [
+    "Presentar únicamente su certificado de formación pedagógica vigente.",
+    "Reiniciar la escala desde la quinta categoría docente.",
+    "Obtener informe favorable del director del establecimiento.",
+    "Someterse a los exámenes previstos para interinos y titulares."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 17 dispone que el funcionario administrativo con más de 10 años de servicios que pase a funciones docentes, para mantener su categoría, deberá someterse a los exámenes para interinos y titulares.",
+   "legal": "D.S. 04688, Capítulo III, Art. 17; página impresa: sin numeración; página PDF: 7."
+  },
+  {
+   "id": "9ca2d02033f2",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO III] Un maestro interino con 5 años de buen ejercicio docente solicita su inscripción en el Escalafón, presentando sus documentos personales y el certificado de bachiller. ¿Qué requisito adicional debe cumplir según el Art. 14?",
+   "options": [
+    "Presentar la ficha de calificación con al menos cien puntos de méritos.",
+    "Acreditar diez años de servicio y un examen de capacidad aprobado.",
+    "Obtener el título de maestro titular por Resolución Suprema previa.",
+    "Aprobar el examen de idoneidad para continuar en la carrera docente."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 14 exige al interino, tras 5 años, presentar los documentos del Art. 13, acreditar el satisfactorio ejercicio durante 5 años, aprobar el examen de idoneidad y acreditar el grado mínimo de instrucción del Art. 9.",
+   "legal": "D.S. 04688, Capítulo III, Art. 14; página impresa: sin numeración; página PDF: 6."
+  },
+  {
+   "id": "67f3fe18f74e",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un maestro discrepa fundadamente de la valoración de su ficha anual. ¿Cuál es la vía que prevé el Reglamento?",
+   "options": [
+    "Recurrir a la Comisión Calificadora Distrital y, en última instancia, a la Comisión Nacional.",
+    "Recurrir al Tribunal Disciplinario Departamental y luego al Tribunal Disciplinario Nacional.",
+    "Recurrir directamente al Departamento de Estadística y Personal del Ministerio de Educación.",
+    "Recurrir a la Federación sindical, que resuelve en única instancia la valoración impugnada."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 36 dispone que los interesados fundadamente disconformes con la valoración de su ficha pueden recurrir ante las Comisiones Calificadoras Distritales y, en última instancia, a la Comisión Nacional.",
+   "legal": "D.S. 04688, Capítulo V, Art. 36; página impresa: sin numeración; página PDF: 14."
+  },
+  {
+   "id": "3ebc7b8c5ce4",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] La ficha anual de un maestro registra atrasos frecuentes y abandono de funciones. Como director que anota la ficha, ¿qué rangos de demérito debe aplicar a esas faltas de asistencia?",
+   "options": [
+    "Atrasos frecuentes: 1 a 5; abandono de funciones: 5 a 10.",
+    "Atrasos frecuentes: 1 a 5; abandono de funciones: 1 a 20.",
+    "Atrasos frecuentes: 1 a 10; abandono de funciones: 1 a 10.",
+    "Atrasos frecuentes: 1 a 10; abandono de funciones: 1 a 15."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 33, área 1, asigna de 1 a 5 puntos a los atrasos frecuentes, de 1 a 10 a las faltas injustificadas frecuentes y al incumplimiento de comisiones, y de 1 a 20 al abandono de funciones.",
+   "legal": "D.S. 04688, Capítulo V, Art. 33, num. 1; página impresa: sin numeración; página PDF: 12."
+  },
+  {
+   "id": "f604d1aad1c1",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO IX] Para la dirección vacante de una escuela se presentan tres postulantes. Uno de ellos no tiene título de formación pedagógica, pero sí la mayor antigüedad y el mejor puntaje. ¿Cómo debe proceder el Tribunal?",
+   "options": [
+    "Designarlo directamente, porque la antigüedad y los méritos prevalecen sobre el título.",
+    "Someter a los tres a examen de competencia, porque existe paridad entre postulantes.",
+    "Solicitar a la Federación sindical que defina la designación entre los tres postulantes.",
+    "Excluirlo, porque la idoneidad acreditada por título pedagógico es condición del concurso."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 56 exige verificar en el concurso la idoneidad acreditada por título de formación pedagógica, la antigüedad y los méritos de la ficha; el examen de competencia solo procede en caso de paridad. El Art. 54, inciso a), exige además título de formación pedagógica para ser director.",
+   "legal": "D.S. 04688, Capítulo IX, Art. 56; Capítulo VIII, Art. 54; página impresa: sin numeración; páginas PDF: 17 y 18."
+  },
+  {
+   "id": "b5b49eb8ddd4",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO IX] En la provisión de un cargo docente se omitieron las normas del Reglamento y una postulante resultó afectada. Además de la reclamación y la queja, ¿qué otra vía le reconoce el Reglamento?",
+   "options": [
+    "Pedir al Instituto de Investigaciones que aplique un nuevo examen de competencia.",
+    "Solicitar la gestión de las Federaciones Sindicales de Maestros ante las autoridades.",
+    "Interponer recurso directo ante el Tribunal Disciplinario Nacional del magisterio.",
+    "Solicitar a la Comisión Distrital que anule la designación en el término de 3 días."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 58 dispone que, si se omiten o infringen las normas en la provisión de cargos, los postulantes afectados, además de su derecho a la reclamación y queja, podrán solicitar la gestión de las Federaciones Sindicales para que las autoridades dispongan la correcta aplicación de los preceptos legales.",
+   "legal": "D.S. 04688, Capítulo IX, Art. 58; página impresa: sin numeración; página PDF: 19."
+  },
+  {
+   "id": "99336bd62ec5",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Un profesor de secundaria en primera categoría, sin hijos y con renta por alquiler de inmuebles, solicita acumular 10 horas. ¿Qué corresponde?",
+   "options": [
+    "Concederla, porque la primera categoría habilita a acumular hasta diez horas.",
+    "Concederla, porque el Art. 70 solo excluye rentas de utilidades comerciales.",
+    "Denegar la acumulación, porque no es jefe de familia y tiene rentas de inmuebles.",
+    "Concederla parcialmente hasta seis horas semanales, por tener ingresos de otra fuente."
+   ],
+   "answer": 2,
+   "explanation": "Aunque el Art. 61 permite a la primera categoría acumular hasta 10 horas, el Art. 70 niega la acumulación a quienes no son jefes de familia (Art. 71: al menos un hijo menor a cargo) y a quienes tienen rentas de bienes inmuebles.",
+   "legal": "D.S. 04688, De la acumulación de cargos docentes, Arts. 61, 70 y 71; página impresa: sin numeración; páginas PDF: 19 a 21."
+  },
+  {
+   "id": "192a4a5660f9",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] En una provincia alejada, con falta de personal idóneo, un profesor de música de secundaria pide acumular dos cargos completos con horarios compatibles. ¿Qué establece el Reglamento?",
+   "options": [
+    "Es procedente solo si el profesor se encuentra en primera o segunda categoría.",
+    "Es improcedente, porque las ramas técnicas solo pueden acumular horas excedentes.",
+    "Es improcedente, porque en provincias la acumulación es exclusiva de directores.",
+    "Es procedente, porque en esas zonas los de ramas técnicas pueden acumular dos cargos."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 72 permite, en provincias y distritos alejados con falta de personal idóneo, que los profesores de secundaria y primaria acumulen hasta dos cargos completos con compatibilidad de horario, y que los de ramas técnicas (Educación Física, Música, Economía Doméstica, etc.) también acumulen hasta dos cargos completos.",
+   "legal": "D.S. 04688, De la acumulación de cargos docentes, Art. 72; página impresa: sin numeración; página PDF: 21."
+  },
+  {
+   "id": "f2c40a3d86b6",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Un maestro de primaria sin acumulación, con un solo cargo principal, recibe una oferta para trabajar por las tardes como funcionario de la administración municipal. ¿Qué dispone el Reglamento?",
+   "options": [
+    "No puede aceptarla: la excepción no alcanza a funciones públicas o municipales.",
+    "Puede aceptarla, porque el Art. 67 permite actividades de horario compatible.",
+    "No puede aceptarla, porque el maestro fiscal no puede tener otra actividad.",
+    "Puede aceptarla, siempre que se trate de una institución autárquica municipal."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 67 permite a los maestros con un solo cargo principal atender otras actividades de horario compatible en instituciones autárquicas, semiautárquicas o privadas, \"no pudiendo ser funcionarios de la administración pública o municipal\".",
+   "legal": "D.S. 04688, De la acumulación de cargos docentes, Art. 67; página impresa: sin numeración; página PDF: 21."
+  },
+  {
+   "id": "78b45e5f5719",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XI] Se instruye suspender a un maestro inscrito en el Escalafón por denuncias de indisciplina, sin proceso previo. ¿Qué principio del Reglamento se vulnera?",
+   "options": [
+    "La promoción: la suspensión impide computar el tiempo para la categoría siguiente.",
+    "La inamovilidad: solo procede suspender previa sentencia en proceso con defensa.",
+    "La cesantía: el maestro tiene derecho al 100% del haber durante la suspensión.",
+    "La acumulación: el maestro suspendido no puede perder sus horas acumuladas."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 73 declara inamovibles a los maestros inscritos y exige, para su destitución o suspensión, la comisión de actos inmorales, indisciplinarios o delictuosos, previa sentencia tras proceso en que se reconozca defensa al acusado, bajo pena de nulidad.",
+   "legal": "D.S. 04688, Capítulo XI, Art. 73; página impresa: sin numeración; página PDF: 22."
+  },
+  {
+   "id": "ee437a7f58be",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XI] Un maestro cumple 60 años y desea continuar en servicio activo. Sin que exista una situación excepcional, ¿qué dispone el Reglamento?",
+   "options": [
+    "Puede continuar si la Comisión Distrital aprueba una prórroga anual.",
+    "Debe ser retirado por causa culpable, con pérdida de su categoría.",
+    "Puede continuar hasta los 65 años si conserva aptitud para el cargo.",
+    "Debe acogerse obligatoriamente a la jubilación, por causa no culpable."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 75, inciso a), dispone el retiro por causas no culpables de quienes llegan a los 60 años, que deben acogerse obligatoriamente a la jubilación, salvo casos excepcionales.",
+   "legal": "D.S. 04688, Capítulo XI, Art. 75; página impresa: sin numeración; página PDF: 22."
+  },
+  {
+   "id": "bae11c090ccb",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XII] Un maestro presenta un certificado de servicios en una escuela rural particular de hacienda para que se le compute ese tiempo. ¿Quién debe expedir ese certificado?",
+   "options": [
+    "El director de la escuela fiscal más cercana.",
+    "El Inspector Escolar de Distrito o de Zona.",
+    "El propietario o gerente de la hacienda.",
+    "La Contraloría u oficina pagadora fiscal."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 76, inciso b), dispone que en las escuelas rurales particulares, de hacienda o de comunidades campesinas, los servicios se acreditan mediante certificado de los Inspectores Escolares de Distrito o de Zona.",
+   "legal": "D.S. 04688, Capítulo XII, Art. 76; página impresa: sin numeración; página PDF: 23."
+  },
+  {
+   "id": "599099e72bbe",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DISPOSICIONES GENERALES Y TRANSITORIAS] Un maestro normalista se desempeñó 6 años en un cargo administrativo del ramo de Educación antes de volver al aula. ¿Cómo se trata ese tiempo?",
+   "options": [
+    "Es válido para el cómputo de antigüedad para categorización y jubilación.",
+    "Se computa a la mitad, por tratarse de funciones no docentes del ramo.",
+    "No se computa, porque la categoría docente exige servicio en aula.",
+    "Se computa solo para la jubilación, no para la promoción de categoría."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 79 establece que los servicios prestados por maestros normalistas en cargos administrativos del ramo de educación son válidos en el cómputo de su antigüedad para la categorización y la jubilación.",
+   "legal": "D.S. 04688, Disposiciones generales y transitorias, Art. 79; página impresa: sin numeración; página PDF: 23."
+  },
+  {
+   "id": "efb7733517e7",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DISPOSICIONES GENERALES Y TRANSITORIAS] Un egresado de una Escuela Normal Rural, con 3 años de servicio en escuelas campesinas, solicita pasar al servicio urbano. ¿Qué exige el Reglamento?",
+   "options": [
+    "Servir al menos 3 años en escuelas campesinas y rendir el examen de capacidad urbano.",
+    "Aprobar el examen voluntario de promoción ante el Instituto de Investigaciones.",
+    "Servir al menos 5 años en escuelas campesinas y aprobar los dos últimos cursos urbanos.",
+    "Obtener la autorización del Jefe de Distrito urbano y la visación de su título rural."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 80 dispone que los egresados de las Normales Rurales deben servir cuando menos cinco años en escuelas campesinas y, si desean pasar al servicio urbano, aprobar previamente los dos últimos cursos de las normales urbanas para obtener el título.",
+   "legal": "D.S. 04688, Disposiciones generales y transitorias, Art. 80; página impresa: sin numeración; página PDF: 24."
+  },
+  {
+   "id": "d14cea5a382d",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DISPOSICIONES GENERALES Y TRANSITORIAS] Un funcionario proveniente de otro servicio pasa a depender del Ministerio de Educación y reclama el cómputo de su antigüedad y el beneficio de categoría. ¿Qué requisito debe cumplir?",
+   "options": [
+    "Aprobar el examen voluntario de promoción en su primer año de servicio.",
+    "Acreditar diez años de servicio continuo en el sector público nacional.",
+    "Presentar la resolución de su anterior servicio que reconozca su categoría.",
+    "Inscribirse en el Escalafón conforme a las normas del Reglamento."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 83 exige que los funcionarios docentes y administrativos de otros servicios que pasen a depender del Ministerio de Educación se inscriban en el Escalafón para tener derecho al cómputo de antigüedad, méritos y categorías; el Art. 84 limita la categorización a los servicios en el ramo de Educación.",
+   "legal": "D.S. 04688, Disposiciones generales y transitorias, Arts. 83 y 84; página impresa: sin numeración; página PDF: 24."
+  },
+  {
+   "id": "62c783fe3097",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un maestro participó en cuatro reuniones pedagógicas internacionales, cada una valorada con 4 puntos. ¿Cuántos puntos le corresponden por ese concepto?",
+   "options": [
+    "10 puntos, por ser el tope del inciso.",
+    "20 puntos, por su alcance internacional.",
+    "16 puntos, por la suma de las reuniones.",
+    "8 puntos, por ser el mínimo por reunión."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 26, inciso g), asigna de 2 a 4 puntos por asistencia a reuniones pedagógicas y sindicales de alcance internacional, hasta 10 puntos.",
+   "legal": "D.S. 04688, Capítulo V, Art. 26, inc. g); página impresa: sin numeración; página PDF: 11."
+  },
+  {
+   "id": "108f1e09c370",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VII] Al iniciar el año lectivo, la Comisión Calificadora Distrital no ha elaborado las listas de categorizados y la Dirección Administrativa pregunta en qué plazo deben estar. ¿Qué establece el Reglamento?",
+   "options": [
+    "Durante el último trimestre del año anterior, con informe de la Federación.",
+    "Dentro de los 90 días del año lectivo, con aprobación de la Comisión Nacional.",
+    "Durante el primer mes del año lectivo, como base para pagar los beneficios.",
+    "En cualquier momento del año, porque las comisiones se reúnen cuando es necesario."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 48 dispone que las Comisiones se reúnen cuando es necesario para calificar los expedientes y que elaboran, durante el primer mes del año lectivo, las listas de categorizados del distrito, sobre cuya base se pagan los beneficios.",
+   "legal": "D.S. 04688, Capítulo VII, Art. 48; página impresa: sin numeración; página PDF: 16."
+  },
+  {
+   "id": "7212a10cc15f",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] Un director debe opinar sobre la inhabilitación de un interino inscrito en el Escalafón que tiene 11 años de servicio y no fue declarado titular. ¿Qué aspecto debe verificar antes de concluir?",
+   "options": [
+    "Si el maestro alcanzó al menos la cuarta categoría por cómputo de antigüedad.",
+    "Si la falta de declaratoria se debe a razones imputables a negligencia del maestro.",
+    "Si la Federación sindical respaldó su permanencia en el último año lectivo.",
+    "Si el maestro reprobó el examen voluntario de promoción en dos oportunidades."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 44 prevé la inhabilitación de los interinos inscritos que, con 11 años de servicios, no hubieran sido declarados titulares \"por razones imputables a su negligencia\". Sin ese elemento no procede la consecuencia.",
+   "legal": "D.S. 04688, Capítulo VI, Art. 44; página impresa: sin numeración; página PDF: 16."
+  },
+  {
+   "id": "7d1a83e28afb",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Al llenar la ficha de un maestro, el director debe valorar su \"ascendencia moral y disposición de ánimo estimulante para los alumnos\". ¿Cuál es la decisión correcta respecto del puntaje máximo?",
+   "options": [
+    "Asignar hasta 10 puntos, según lo anotado en la ficha.",
+    "Asignar hasta 15 puntos, en proporción a la categoría.",
+    "Asignar hasta 5 puntos, por ser un criterio subjetivo.",
+    "Asignar hasta 20 puntos, por su importancia pedagógica."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 26, inciso c), asigna hasta 10 puntos a la ascendencia moral y disposición de ánimo estimulante para los alumnos, sobre la base de la ficha anotada por el inmediato superior.",
+   "legal": "D.S. 04688, Capítulo V, Art. 26, inc. c); página impresa: sin numeración; página PDF: 10."
+  },
+  {
+   "id": "e35eb41ed2d1",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un maestro presenta certificados que acreditan servicio en la zona de operaciones de la Guerra del Chaco, debidamente calificado por el Tribunal Supremo de Justicia Militar. ¿Qué efecto debe reconocerse?",
+   "options": [
+    "Se computa con doble tiempo de servicios, para fines de jubilación.",
+    "Se computa como mérito general de hasta diez puntos en la ficha.",
+    "Se computa con doble tiempo, para la promoción de categoría docente.",
+    "Se computa con triple tiempo para todos los efectos del Escalafón."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 28 dispone que el tiempo de permanencia en la zona de operaciones de la Guerra del Chaco, calificado por el Tribunal Supremo de Justicia Militar, se computa para fines de jubilación con doble tiempo de servicios en el ramo de la educación.",
+   "legal": "D.S. 04688, Capítulo V, Art. 28; página impresa: sin numeración; página PDF: 11."
+  },
+  {
+   "id": "2ab38d7a78bd",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Un director de primaria pretende asignar el cargo vacante de una escuela nocturna a un maestro diurno, aunque en el distrito hay una normalista sin colocación. ¿Cuál es la decisión ajustada al Reglamento?",
+   "options": [
+    "Encomendarlo al maestro diurno, porque es una acumulación ordinaria.",
+    "Encomendarlo al maestro diurno, por tener mayor antigüedad docente.",
+    "Encomendar el cargo preferentemente a la normalista sin colocación.",
+    "Encomendarlo por concurso de méritos ante la Comisión Distrital."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 66 dispone que los cargos de escuelas nocturnas y centros de alfabetización se encomienden preferentemente a maestros normalistas sin colocación, y el Art. 60 condiciona la acumulación a que no haya normalistas o titulares sin colocación.",
+   "legal": "D.S. 04688, De la acumulación de cargos docentes, Arts. 60 y 66; página impresa: sin numeración; páginas PDF: 19 y 20."
+  },
+  {
+   "id": "361a1e340055",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Un profesor de un Instituto Normal, que percibe un haber mayor al de Director de Secundaria, solicita horas en un colegio fiscal distinto. ¿Qué corresponde resolver?",
+   "options": [
+    "Concederlo, porque el Art. 68 permite acumular en cualquier colegio nocturno.",
+    "Denegarlo, salvo que acredite ser jefe de familia con un hijo menor a cargo.",
+    "Concederlo hasta 10 horas semanales, según el límite de la primera categoría del Art. 61.",
+    "Denegarlo: solo puede acumular las horas disponibles de su propio establecimiento."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 63 dispone que los profesores de Institutos Normales, Industriales y Comerciales que perciben un haber igual o mayor al de Director de Secundaria acumulan solamente las horas disponibles en el plan de estudios del mismo establecimiento; no les es compatible acumular en otros establecimientos fiscales.",
+   "legal": "D.S. 04688, De la acumulación de cargos docentes, Art. 63; página impresa: sin numeración; página PDF: 20."
+  },
+  {
+   "id": "dcefd5eff3de",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] En un colegio, dos profesores proponen dividir entre ambos la misma asignatura de un mismo curso para equilibrar sus cargas horarias. ¿Qué debe decidir el director?",
+   "options": [
+    "Rechazarlo, porque un mismo curso y asignatura no puede ser atendido por dos profesores.",
+    "Aceptarlo, si ambos profesores pertenecen a la misma categoría de la escala vigente.",
+    "Aceptarlo, siempre que ninguno de los dos supere el límite de horas de su categoría.",
+    "Rechazarlo solo si uno de los dos profesores no tiene título de formación pedagógica."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 64 establece que en ningún caso un mismo curso en una misma asignatura podrá ser atendido por más de un profesor, para no malograr la acción educativa.",
+   "legal": "D.S. 04688, De la acumulación de cargos docentes, Art. 64; página impresa: sin numeración; página PDF: 20."
+  },
+  {
+   "id": "8d2484062ed9",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] Una dirección distrital propone retirar la bonificación de quinta categoría a una maestra normalista recién egresada mientras regulariza documentos. ¿Qué debe decidirse?",
+   "options": [
+    "Mantenerla: el normalista percibe 5.ª categoría desde su inicio y no puede ser privado.",
+    "Mantenerla solo si la Comisión Distrital incluye a la maestra en la lista anual.",
+    "Suspenderla hasta que cumpla cinco años de servicio, como el resto del personal.",
+    "Suspenderla, porque sin título visado no corresponde ningún beneficio de categoría."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: Los Arts. 38 y 82 disponen que los normalistas perciben la quinta categoría desde su iniciación y no pueden ser privados de ese beneficio por ningún motivo; el Art. 81 solo condiciona el ascenso a categorías superiores a recabar título y visación.",
+   "legal": "D.S. 04688, Capítulo VI, Art. 38; Disposiciones generales, Arts. 81 y 82; página impresa: sin numeración; páginas PDF: 14 y 24."
+  },
+  {
+   "id": "cd14c05a6666",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un maestro tiene 20 años de servicio continuo y reclama 80 puntos por tiempo de servicios. El director, al revisar la ficha, debe decidir:",
+   "options": [
+    "Reducirlos a 40 puntos, porque se computa un punto por semestre.",
+    "Reducirlos a 20 puntos, porque se computa un punto por cada año.",
+    "Confirmar los 80 puntos, a razón de un punto por trimestre trabajado.",
+    "Ampliarlos a 100 puntos, porque el tope se alcanza a los 20 años."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 27 asigna 1 punto por cada trimestre de trabajo; 20 años equivalen a 80 trimestres, es decir, 80 puntos, dentro del tope de 100 del Art. 24.",
+   "legal": "D.S. 04688, Capítulo V, Arts. 24 y 27; página impresa: sin numeración; páginas PDF: 9 y 11."
+  },
+  {
+   "id": "839ce5e398ca",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VIII] Para la terna de Director Nacional se propone a un maestro con formación pedagógica superior, cargos jerárquicos previos, 16 años de servicio y 180 puntos. ¿Qué decisión corresponde?",
+   "options": [
+    "Incluirlo, porque el puntaje mínimo exigido es de 150 puntos.",
+    "No incluirlo, porque no alcanza los 200 puntos de méritos exigidos.",
+    "No incluirlo, porque se requieren al menos 20 años de servicio.",
+    "Incluirlo, porque supera los 15 años de servicio exigidos al cargo."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 54, inciso d), exige para Director General, Director Nacional y cargos equivalentes formación pedagógica superior, cargos jerárquicos previos, no menos de 15 años de servicio ni menos de 200 puntos de méritos.",
+   "legal": "D.S. 04688, Capítulo VIII, Art. 54, inc. d); página impresa: sin numeración; página PDF: 18."
+  },
+  {
+   "id": "1dcb26399454",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VII] Un integrante de la Comisión Distrital propone incluir en la lista de categorizados a un maestro que no cumple la antigüedad, \"para no perjudicarlo\". ¿Qué debe advertir el presidente de la Comisión?",
+   "options": [
+    "Que una calificación indebida acarrea sanción penal y repetición de lo pagado.",
+    "Que solo procede si el maestro aprueba luego el examen voluntario de categoría.",
+    "Que la Comisión Nacional puede convalidarla en la siguiente revisión anual.",
+    "Que la decisión es válida si la aprueba por unanimidad la Comisión Distrital."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 49 hace responsables a los miembros de las Comisiones Distritales por la violación del Reglamento y los declara pasibles de sanciones penales por cualquier calificación o pago indebido, sin perjuicio de que el Estado repita contra ellos lo pagado.",
+   "legal": "D.S. 04688, Capítulo VII, Art. 49; página impresa: sin numeración; página PDF: 16."
+  },
+  {
+   "id": "b7115dfa086b",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Para orientar a su plantel sobre cómo mejorar el puntaje de méritos generales, un director debe saber que el Reglamento valora, entre otros:",
+   "options": [
+    "Organizar actividades extracurriculares sin aprobación oficial en el distrito.",
+    "Fundar y sostener cursos o escuelas con aprobación oficial y resultados eficientes.",
+    "Obtener la mayor cantidad de alumnos promovidos al final de cada gestión.",
+    "Participar como vocal en las comisiones calificadoras de otros distritos."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 32, inciso f), asigna hasta 10 puntos por fundar y sostener, por propia iniciativa, cursos o escuelas bajo aprobación oficial con resultados eficientes.",
+   "legal": "D.S. 04688, Capítulo V, Art. 32, inc. f); página impresa: sin numeración; página PDF: 12."
+  },
+  {
+   "id": "002fdfa031a6",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un director busca que la valoración anual de su plantel sea transparente y oportuna. ¿Qué práctica es coherente con lo dispuesto en el Reglamento?",
+   "options": [
+    "Delegar la valoración de las fichas en la Federación sindical para garantizar imparcialidad.",
+    "Renovar la valoración solo cuando el maestro solicite su promoción a una categoría superior.",
+    "Renovar la valoración de las fichas al finalizar cada período anual y entregar copia al interesado.",
+    "Reservar las fichas en la dirección y remitirlas únicamente si la Comisión Nacional las solicita por escrito."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 36 dispone que las autoridades escolares renueven la valoración de las fichas al finalizar cada período anual, y el Art. 35 ordena que uno de los ejemplares se entregue al interesado.",
+   "legal": "D.S. 04688, Capítulo V, Arts. 35 y 36; página impresa: sin numeración; páginas PDF: 13 y 14."
+  },
+  {
+   "id": "ba79d8f43cf4",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO I] Desde una perspectiva de gestión, ¿qué función del Departamento de Estadística y Personal permite planificar presupuestariamente las categorías?",
+   "options": [
+    "Elaborar nóminas e índices estadísticos para asignar las partidas de sobresueldos.",
+    "Recopilar las fichas de deméritos para descontarlas del presupuesto anual.",
+    "Determinar los límites de acumulación de horas en cada establecimiento fiscal.",
+    "Fijar el número de cargos directivos que se concursan en cada distrito escolar."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 3, numeral 2, inciso c), atribuye al Departamento la elaboración de nóminas e índices estadísticos necesarios para la oportuna asignación de las partidas de sobresueldos por categorías en el Presupuesto de Educación.",
+   "legal": "D.S. 04688, Capítulo I, Art. 3, num. 2, inc. c); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "b35389d8b3ee",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un director observa que en un curso más del 20% de los alumnos desertó por el trato indebido del maestro. Para anticiparse a consecuencias en la ficha, debe saber que esta situación se valora como:",
+   "options": [
+    "Demérito por fallo en proceso escolar, de 5 a 10 puntos.",
+    "Demérito por falta de rendimiento, de 1 a 5 puntos.",
+    "Demérito por falta de comportamiento, de 1 a 15 puntos.",
+    "Demérito por abuso contra los alumnos, de 1 a 10 puntos."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 33, área 4 (abusos contra los alumnos), incluye el trato indebido que provoque la deserción de los alumnos en más del 20%, con un demérito de 1 a 10 puntos.",
+   "legal": "D.S. 04688, Capítulo V, Art. 33, num. 4; página impresa: sin numeración; página PDF: 13."
+  },
+  {
+   "id": "9df73b08cd6d",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] Un director quiere incentivar que los maestros interinos de su unidad no pierdan su habilitación. ¿Qué plazos críticos del Reglamento debe monitorear?",
+   "options": [
+    "El examen voluntario antes de 14 años y la promoción a 3.ª categoría antes de 18.",
+    "La prueba de idoneidad antes de 6 años y la declaratoria de titular antes de 11.",
+    "La prueba de idoneidad antes de 10 años y la declaratoria de titular antes de 15.",
+    "La inscripción en el Escalafón antes de 2 años y el título visado antes de 5."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: Los Arts. 43 y 44 inhabilitan, por negligencia, al interino que tras 6 años no rindió la prueba de idoneidad y al interino inscrito que con 11 años no fue declarado titular.",
+   "legal": "D.S. 04688, Capítulo VI, Arts. 43 y 44; página impresa: sin numeración; páginas PDF: 15 y 16."
+  },
+  {
+   "id": "a4024032ceb4",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Un director de secundaria planifica la distribución de horas excedentes de su colegio. ¿Qué criterio estratégico es coherente con el Reglamento?",
+   "options": [
+    "Asignarlas en partes iguales a todos los profesores para equilibrar sus ingresos mensuales.",
+    "Asignarlas respetando los límites por categoría y sin dividir una asignatura de un mismo curso.",
+    "Asignarlas a los profesores de quinta categoría, por tener la menor bonificación salarial.",
+    "Asignarlas al propio director hasta completar veinte horas semanales en su colegio."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 61 fija límites de acumulación por categoría (sin prever acumulación para la quinta), el Art. 64 prohíbe que una misma asignatura de un curso sea atendida por más de un profesor y el Art. 69 limita al director a 10 horas en su propio establecimiento.",
+   "legal": "D.S. 04688, De la acumulación de cargos docentes, Arts. 61, 64 y 69; página impresa: sin numeración; páginas PDF: 19 a 21."
+  },
+  {
+   "id": "f9222a024b01",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XII] Para evitar observaciones en el reconocimiento de servicios prestados en un colegio privado religioso, ¿qué cadena documental debe asegurar el interesado?",
+   "options": [
+    "Declaración jurada del maestro, informe del Jefe de Distrito y resolución del Ministerio del ramo.",
+    "Certificado del director, visto bueno sindical y resolución de la Comisión Calificadora Distrital.",
+    "Certificado de la Contraloría, informe del Inspector del ciclo y aprobación de la Comisión Nacional del ramo.",
+    "Certificado del director, legalización por el Inspector, auto del Jefe de Distrito y Resolución Suprema."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: Según los Arts. 76 y 77, en planteles urbanos sostenidos por instituciones religiosas el certificado lo expide el director; es autenticado y legalizado por el Inspector del ciclo, el Jefe de Distrito dicta el auto de legalización y el tiempo se reconoce por Resolución Suprema para su calificación.",
+   "legal": "D.S. 04688, Capítulo XII, Arts. 76 y 77; página impresa: sin numeración; página PDF: 23."
+  },
+  {
+   "id": "71e99b4cfb46",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO IV] Al proponer un organigrama, un director debe ubicar correctamente a los cargos de su establecimiento en la escala jerárquica docente. ¿Qué rango ocupan los directores de establecimientos educativos?",
+   "options": [
+    "Un rango superior al de inspectores de distrito e igual al de jefes de distrito.",
+    "Un rango inferior al de inspectores de distrito y superior al de profesores.",
+    "Un rango inferior al de profesores ayudantes y superior al de nocturnas.",
+    "El mismo rango que los profesores de normales urbanas e institutos superiores."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 20 ordena la escala docente: e) inspectores de distrito o de zona; f) directores de establecimientos educativos en todos los ciclos; g) profesores y maestros; h) profesores ayudantes; i) profesores de nocturnas y alfabetización.",
+   "legal": "D.S. 04688, Capítulo IV, Art. 20; página impresa: sin numeración; páginas PDF: 7 y 8."
+  },
+  {
+   "id": "0f1c49b039c9",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO IV] Un director organiza al personal administrativo de su colegio según la escala jerárquica administrativa. ¿En qué rango se ubican los secretarios, regentes y habilitados de colegios y escuelas?",
+   "options": [
+    "En el mismo rango que los dactilógrafos, auxiliares de oficina y niñeras.",
+    "En un rango superior al de los secretarios de las jefaturas de distrito escolar del ramo.",
+    "En el mismo rango, junto con inspectores de establecimiento y visitadoras sociales.",
+    "En el mismo rango que los operadores técnicos y choferes del servicio."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 21, inciso f), agrupa a secretarios, inspectores, regentes y habilitados de institutos, colegios y escuelas, habilitados de las jefaturas de distrito y visitadoras sociales; el inciso d) ubica por encima a los secretarios de las jefaturas de distrito, y los incisos g) y h) a dactilógrafos, niñeras, operadores y choferes por debajo.",
+   "legal": "D.S. 04688, Capítulo IV, Art. 21; página impresa: sin numeración; páginas PDF: 8 y 9."
+  },
+  {
+   "id": "9d1714000cc6",
+   "q": "[D.S. 04688 Reglamento del Escalafón Nacional – DISPOSICIONES GENERALES Y TRANSITORIAS] Un director debe explicar a su plantel por qué las categorías obtenidas antes de 1957 no se perdieron con el nuevo Reglamento. ¿Qué disposición transitoria lo sustenta?",
+   "options": [
+    "Se reconoció la categoría previa examen voluntario ante el Instituto de Investigaciones.",
+    "Se reconoció la categoría solo a los normalistas, y el resto reinició la escala en 1957.",
+    "Se reconoció la categoría que gozaban, y los ascensos se calificaron desde enero de 1958.",
+    "Se reconoció la categoría solo a quienes tenían más de cinco años de servicio continuo."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 85 reconoce la categoría que gozaban los maestros y funcionarios categorizados según el sistema anterior (salvo normalistas con menos de 5 años, que perciben la 5.ª categoría) y dispone que los ascensos según el nuevo sistema se califican a partir de enero de 1958.",
+   "legal": "D.S. 04688, Disposiciones generales y transitorias, Art. 85; página impresa: sin numeración; página PDF: 24."
+  }
+ ],
+ "rs-212414-general": [
+  {
+   "id": "218744576845",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Según el Reglamento, las faltas o infracciones disciplinarias se clasifican en:",
+   "options": [
+    "Simples, graves y gravísimas.",
+    "Leves, graves y muy graves.",
+    "Leves, moderadas y graves.",
+    "Menores, mayores y penales."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 8 dispone expresamente que las faltas se clasifican en leves, graves y muy graves; los Arts. 9, 10 y 11 tipifican cada categoría.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 8; página impresa: sin numeración; página PDF: 2."
+  },
+  {
+   "id": "97927b4747d5",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] ¿Qué sanciones corresponden a las faltas muy graves?",
+   "options": [
+    "Destitución del cargo con opción de reincorporación a partir del año siguiente.",
+    "Descenso a un cargo inferior y postergación de ascenso por dos años.",
+    "Suspensión sin goce de haber de sesenta a noventa días y traslado.",
+    "Retiro definitivo del ejercicio del Magisterio o destitución del cargo."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 13, inciso c), establece como sanciones por faltas muy graves el retiro definitivo del ejercicio del Magisterio o la destitución del cargo.",
+   "legal": "R.S. 212414, Capítulo Cuarto, Art. 13, inc. c); página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "f3ea9e7b1239",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] Los tribunales disciplinarios, en los niveles nacional y departamental, se componen de:",
+   "options": [
+    "Un Presidente, un Juez instructor y un Fiscal Promotor.",
+    "Un Director, un Asesor jurídico y un Secretario de actas.",
+    "Un Presidente, un Vocal de la Federación y un Secretario-Actuario.",
+    "Un Presidente, un Fiscal Promotor y un Secretario-Actuario."
+   ],
+   "answer": 3,
+   "explanation": "Los Arts. 15 y 18 disponen que los tribunales disciplinarios, nacionales y departamentales, se componen de un Presidente, un Fiscal Promotor y un Secretario-Actuario.",
+   "legal": "R.S. 212414, Capítulo Quinto, Arts. 15 y 18; página impresa: sin numeración; páginas PDF: 4 y 5."
+  },
+  {
+   "id": "4f750912d5ec",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] ¿Quién preside el Tribunal Disciplinario Nacional?",
+   "options": [
+    "El Ministro de Educación y Cultura.",
+    "El Director General de Educación.",
+    "El Secretario General de la Confederación.",
+    "El Director Departamental de La Paz."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 16 dispone que el Tribunal Disciplinario Nacional, con sede en La Paz, está presidido por el Director General de Educación.",
+   "legal": "R.S. 212414, Capítulo Quinto, Art. 16; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "904fd1622ed4",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – RESOLUCIÓN APROBATORIA] ¿Qué norma anterior fue sustituida por la R.S. 212414, según sus considerandos?",
+   "options": [
+    "La R.M. 062/00 de 17 de febrero de 2000, por no regular el proceso disciplinario.",
+    "La R.S. 208138 de 25 de septiembre de 1990, por sus manifiestas deficiencias.",
+    "El D.S. 04688 de 18 de julio de 1957, por haberse vuelto un texto anacrónico.",
+    "La R.S. 208138 de 21 de abril de 1993, por contradecir la legislación penal."
+   ],
+   "answer": 1,
+   "explanation": "Los considerandos señalan que el Reglamento de Faltas y Sanciones puesto en vigencia mediante R.S. 208138 de 25 de septiembre de 1990 adolece de manifiestas deficiencias; la R.S. 212414 aprueba el nuevo Reglamento en ocho capítulos y veintinueve artículos y abroga las disposiciones contrarias.",
+   "legal": "R.S. 212414, Resolución aprobatoria (Vistos y Considerando, Primero y Segundo); página impresa: sin numeración; página PDF: 1."
+  },
+  {
+   "id": "3d871e6173a1",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] ¿Qué constituye una falta o infracción disciplinaria según el Art. 7?",
+   "options": [
+    "El incumplimiento de deberes constitucionales y educativos, y la inobservancia del Reglamento.",
+    "La conducta privada del maestro que afecte la imagen de la institución fuera de sus funciones.",
+    "Toda conducta tipificada como delito en el Código Penal cometida dentro del establecimiento.",
+    "El incumplimiento de órdenes verbales del superior, aunque no estén previstas en la normativa."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 7 define como faltas el incumplimiento de los deberes del Art. 8 de la Constitución (incisos a, f y h), de las obligaciones de la legislación educativa vigente y la inobservancia del Reglamento, cometidas en el ejercicio de las funciones. Los delitos se rigen por la legislación penal (Art. 2).",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 7; Capítulo Primero, Art. 2; página impresa: sin numeración; páginas PDF: 1 y 2."
+  },
+  {
+   "id": "a15d8753075d",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEGUNDO] ¿Cuál es el contenido esencial del derecho de defensa reconocido en el Art. 3?",
+   "options": [
+    "Nadie puede ser sancionado sin haber sido oído y juzgado; la defensa es ineludible.",
+    "La defensa solo es obligatoria en los procesos por faltas graves y muy graves.",
+    "El procesado debe ser defendido por un abogado designado por el sindicato.",
+    "El procesado puede renunciar a su defensa si acepta la sanción propuesta en forma escrita."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 3, con base en la Constitución, la legislación penal, la Declaración Universal y la Recomendación de la UNESCO de 1966, dispone que nadie puede ser sancionado sin haber sido oído y juzgado, y que el derecho de defensa en el proceso disciplinario es ineludible.",
+   "legal": "R.S. 212414, Capítulo Segundo, Art. 3; página impresa: sin numeración; página PDF: 1."
+  },
+  {
+   "id": "0283735b28ab",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEGUNDO] La presunción de inocencia del encausado, según el Reglamento, se mantiene:",
+   "options": [
+    "Hasta que concluya el periodo probatorio.",
+    "Mientras la falta sea de carácter leve.",
+    "Mientras no se pruebe su culpabilidad.",
+    "Hasta que se presente la denuncia formal."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 5 dispone que se presume la inocencia del encausado mientras no se pruebe su culpabilidad, conforme al Art. 70 del Código Penal citado por el Reglamento.",
+   "legal": "R.S. 212414, Capítulo Segundo, Art. 5; página impresa: sin numeración; página PDF: 2."
+  },
+  {
+   "id": "c0a9e87ff442",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEGUNDO] La prohibición de juzgamiento irregular del Art. 4 significa que ningún maestro, administrativo o autoridad educativa puede ser juzgado por:",
+   "options": [
+    "Comisiones especiales o tribunales extraordinarios.",
+    "El Tribunal Disciplinario Departamental competente.",
+    "El Tribunal Nacional en grado de apelación.",
+    "La autoridad inmediata superior en faltas leves."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 4 prohíbe que maestros, administrativos o autoridades educativas sean juzgados por comisiones especiales o tribunales extraordinarios por las faltas tipificadas en el Reglamento.",
+   "legal": "R.S. 212414, Capítulo Segundo, Art. 4; página impresa: sin numeración; página PDF: 2."
+  },
+  {
+   "id": "06728125adf6",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] ¿Qué efecto atribuye el Reglamento a la sanción disciplinaria impuesta sin cumplir las normas procesales?",
+   "options": [
+    "Es anulable únicamente a pedido de parte.",
+    "Se reduce de oficio a amonestación escrita.",
+    "Se tiene por inexistente en todo caso.",
+    "Queda en suspenso hasta su revisión."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 14 dispone que toda sanción disciplinaria impuesta sin el cumplimiento de las normas procesales especificadas en el Reglamento se tendrá por inexistente.",
+   "legal": "R.S. 212414, Capítulo Cuarto, Art. 14; página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "a542d5f3b803",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] ¿Quién sanciona las faltas leves según el Reglamento?",
+   "options": [
+    "La autoridad inmediata superior del infractor.",
+    "El Tribunal Disciplinario Departamental.",
+    "El Fiscal Promotor del tribunal departamental.",
+    "El Tribunal Disciplinario Nacional."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 22 dispone que las faltas leves serán sancionadas por la autoridad inmediata superior, mientras que las graves y muy graves serán sancionadas por el tribunal correspondiente.",
+   "legal": "R.S. 212414, Capítulo Quinto, Art. 22; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "ede1d1623d67",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] ¿Qué competencia tienen los tribunales disciplinarios departamentales y regionales?",
+   "options": [
+    "Conocer las faltas leves y, en apelación, los fallos dictados por el Tribunal Nacional.",
+    "Conocer, en primera instancia, denuncias de faltas graves y muy graves de su jurisdicción.",
+    "Conocer, en única instancia, todas las faltas leves, graves y muy graves del departamento.",
+    "Conocer las apelaciones contra sanciones de faltas leves impuestas por los directores."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 17 atribuye a los tribunales departamentales y regionales, con sede en la capital de cada departamento, competencia como tribunal de primera instancia para conocer denuncias de faltas graves y muy graves de su jurisdicción.",
+   "legal": "R.S. 212414, Capítulo Quinto, Art. 17; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "79e8392a427e",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] ¿Qué competencia tiene el Tribunal Disciplinario Nacional?",
+   "options": [
+    "Conocer las faltas leves de los directores departamentales y distritales.",
+    "Conocer en primera instancia las faltas muy graves de autoridades nacionales.",
+    "Conocer las apelaciones contra los fallos de los tribunales departamentales.",
+    "Conocer las denuncias que los tribunales departamentales no resolvieron."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 16 asigna al Tribunal Disciplinario Nacional, con sede en La Paz, competencia para conocer las apelaciones interpuestas contra los fallos pronunciados por los tribunales de primera instancia o departamentales.",
+   "legal": "R.S. 212414, Capítulo Quinto, Art. 16; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "1ed1b47522e8",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] Según el Art. 18, ¿cómo se designa a los miembros de los tribunales departamentales?",
+   "options": [
+    "Por elección de los maestros del departamento, con aval del Director Departamental del área.",
+    "Por el Director General de Educación, previa terna presentada por la Federación Departamental.",
+    "Por el Director Departamental, en corresponsabilidad con la Federación Departamental del área.",
+    "Por el Ministerio de Educación, en corresponsabilidad con la Confederación de Trabajadores."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 18 dispone que los tribunales se conforman con maestros-abogados de ascendencia y autoridad moral; los departamentales son designados por el Director Departamental de Educación (urbano o rural) de manera corresponsable con la Federación Departamental de Trabajadores de Educación del área; el nacional, por el Ministerio en corresponsabilidad con la Confederación.",
+   "legal": "R.S. 212414, Capítulo Quinto, Art. 18; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "a329d687eb64",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] ¿Qué perfil exige el Reglamento a quienes conforman los tribunales disciplinarios?",
+   "options": [
+    "Abogados externos sin vínculo con el magisterio.",
+    "Directores de unidades con más de diez años.",
+    "Dirigentes sindicales con formación jurídica.",
+    "Maestros-abogados de ascendencia y autoridad moral."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 18 establece que los tribunales estarán conformados por maestros-abogados de ascendencia y autoridad moral; el Art. 19 añade que deben ser de igual o superior jerarquía que los encausados.",
+   "legal": "R.S. 212414, Capítulo Quinto, Arts. 18 y 19; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "f7977309e0bb",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] Ante la renuncia, excusa o recusación de miembros del tribunal disciplinario, ¿quién procede a reemplazarlos y cómo?",
+   "options": [
+    "El presidente del tribunal, designando a un miembro suplente de su confianza.",
+    "El Tribunal Nacional, por sorteo entre los maestros-abogados habilitados del departamento.",
+    "La Federación sindical, previa consulta escrita al Director Departamental.",
+    "La autoridad designante, de inmediato, en coordinación con la Dirección Sindical."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 20 dispone que, en caso de renuncia, excusa o recusación, la autoridad designante procede a reemplazar al miembro de inmediato, en coordinación con la Dirección Sindical de los maestros y previa comprobación de la causal.",
+   "legal": "R.S. 212414, Capítulo Quinto, Art. 20; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "1bdeea7ba2c8",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO OCTAVO] ¿Quién ejecuta los fallos disciplinarios y en qué plazo?",
+   "options": [
+    "El Tribunal Nacional, en quince días desde la recepción de la apelación interpuesta.",
+    "El Tribunal Departamental, en cinco días desde que se notifica el fallo a la persona sancionada.",
+    "Las autoridades administrativas, en tres días desde que reciben la Resolución Ministerial.",
+    "La autoridad inmediata superior, en veinticuatro horas desde la emisión del fallo."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 28 dispone que la ejecución de los fallos corresponde a las autoridades administrativas pertinentes, que proceden a su cumplimiento dentro de tres días de la recepción de la copia de la Resolución Ministerial.",
+   "legal": "R.S. 212414, Capítulo Octavo, Art. 28; página impresa: sin numeración; página PDF: 6."
+  },
+  {
+   "id": "420ef880e3eb",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SÉPTIMO] ¿Mediante qué instrumento se emite la revocación o confirmación del fallo por el Tribunal Nacional?",
+   "options": [
+    "Resolución Ministerial del Ministerio de Educación, con autoridad de cosa juzgada.",
+    "Resolución Administrativa del Director Departamental, apelable al Ministerio.",
+    "Resolución Suprema del Presidente, con calidad de sentencia ejecutoriada.",
+    "Auto del Tribunal Nacional, revisable por el Tribunal Departamental de origen."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 27 dispone que la revocación o confirmación del fallo por el Tribunal Nacional será emitida por el Ministerio de Educación mediante Resolución Ministerial, que adquiere calidad de autoridad de cosa juzgada.",
+   "legal": "R.S. 212414, Capítulo Séptimo, Art. 27; página impresa: sin numeración; página PDF: 6."
+  },
+  {
+   "id": "43d3ac221c88",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO OCTAVO] Respecto del archivo y custodia de expedientes disciplinarios, el Reglamento dispone que:",
+   "options": [
+    "Se custodian en la unidad educativa del sancionado, con copia a la Federación sindical.",
+    "Se custodian en el Tribunal Departamental, sin copia en el expediente del interesado.",
+    "Se custodian en el archivo del Ministerio, con copia legalizada al expediente personal.",
+    "Se destruyen al cumplirse la sanción, conservando solo la Resolución Ministerial."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 29 dispone que los expedientes se guardan y custodian en el departamento de archivo del Ministerio, se incluye una copia legalizada en el expediente personal del interesado y se envía otra a las autoridades superiores inmediatas.",
+   "legal": "R.S. 212414, Capítulo Octavo, Art. 29; página impresa: sin numeración; página PDF: 6."
+  },
+  {
+   "id": "888e1fc1ea55",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] ¿Ante quién se interpone la denuncia por faltas disciplinarias?",
+   "options": [
+    "Ante la autoridad inmediata superior del imputado.",
+    "Ante el Fiscal Promotor del tribunal del distrito.",
+    "Ante la Federación de Trabajadores de Educación.",
+    "Directamente ante el Tribunal Disciplinario Nacional."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 23 dispone que la denuncia puede interponerse verbalmente o por escrito, por los damnificados o sus tutores o la autoridad educativa, ante la autoridad inmediata superior del imputado; el Art. 24 prevé su remisión al Tribunal Departamental en 48 horas.",
+   "legal": "R.S. 212414, Capítulo Sexto, Arts. 23 y 24; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "40d92f070b72",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO PRIMERO] ¿A qué personal se aplica el Reglamento según el Art. 1 (imputabilidad)?",
+   "options": [
+    "Solo a los directores y autoridades educativas comprendidos en la escala jerárquica docente.",
+    "Al personal docente y administrativo de unidades fiscales, de convenio y privadas, sin distinción alguna.",
+    "Al comprendido en los Arts. 20 y 21 del Escalafón y al de organismos desconcentrados y descentralizados.",
+    "Solo al personal docente con ítem fiscal, excluyendo a los funcionarios administrativos del ramo."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 1 dispone que el Reglamento se aplica a todo el personal comprendido en los Arts. 20 y 21 del Reglamento del Escalafón Nacional (escalas jerárquicas docente y administrativa), así como al de los organismos desconcentrados y descentralizados.",
+   "legal": "R.S. 212414, Capítulo Primero, Art. 1; página impresa: sin numeración; página PDF: 1."
+  },
+  {
+   "id": "575682239d5f",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO PRIMERO] ¿Cómo delimita el Art. 2 la materia que se sustancia mediante este Reglamento?",
+   "options": [
+    "Solo las faltas de los Arts. 9, 10 y 11; los delitos siguen el Código Penal y su procedimiento.",
+    "Las faltas y los delitos cometidos en funciones, con remisión posterior al Ministerio Público.",
+    "Las faltas de los Arts. 9, 10 y 11 y los delitos que la autoridad educativa califique de leves.",
+    "Todas las conductas del personal, salvo las que motiven una querella particular de la víctima."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 2 dispone que los delitos previstos en el Código Penal se sustancian según ese Código y el Código de Procedimiento Penal, correspondiendo sustanciar mediante el Reglamento únicamente las faltas tipificadas en los Arts. 9, 10 y 11.",
+   "legal": "R.S. 212414, Capítulo Primero, Art. 2; página impresa: sin numeración; página PDF: 1."
+  },
+  {
+   "id": "f2d9bd6ca633",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEGUNDO] Conforme al Art. 6, durante el proceso por faltas disciplinarias, el trabajador de la educación:",
+   "options": [
+    "Debe ser removido de su cargo si la falta denunciada se encuentra tipificada como grave o muy grave.",
+    "Puede ser trasladado preventivamente por la autoridad inmediata superior para facilitar la investigación.",
+    "Debe ser suspendido sin goce de haberes desde la presentación de la denuncia hasta el fallo del tribunal competente.",
+    "No puede ser suspendido ni removido mientras no se compruebe su culpabilidad, salvo la excepción prevista."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 6 establece que ningún trabajador de la educación podrá ser suspendido o removido durante el proceso mientras no se compruebe su culpabilidad, excepto en el inciso a) de la tipificación de faltas muy graves, donde procede la suspensión inmediata.",
+   "legal": "R.S. 212414, Capítulo Segundo, Art. 6; página impresa: sin numeración; página PDF: 2."
+  },
+  {
+   "id": "c8b5899e1b32",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] ¿Qué criterio debe considerar el tribunal al aplicar las sanciones a los infractores?",
+   "options": [
+    "La concurrencia de circunstancias atenuantes o agravantes.",
+    "La opinión de la Federación sindical sobre el procesado.",
+    "El número de denuncias acumuladas contra el procesado.",
+    "La antigüedad y la categoría del infractor en el Escalafón."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 12 dispone que los tribunales que tramiten los procesos aplicarán las sanciones a los infractores de acuerdo con la concurrencia de circunstancias atenuantes o agravantes.",
+   "legal": "R.S. 212414, Capítulo Cuarto, Art. 12; página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "9c5543e9800b",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] ¿Qué exige el Art. 19 respecto de la jerarquía de los miembros de los tribunales?",
+   "options": [
+    "Que sean de igual o superior jerarquía que la de los encausados.",
+    "Que pertenezcan al mismo distrito educativo que la persona encausada.",
+    "Que sean de igual jerarquía que el denunciante de la falta.",
+    "Que sean de jerarquía inferior para asegurar imparcialidad."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 19 dispone que los miembros componentes de los tribunales deben ser de igual o superior jerarquía a la de los encausados.",
+   "legal": "R.S. 212414, Capítulo Quinto, Art. 19; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "4f54cb1511fa",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] ¿En qué casos proceden las excusas y recusaciones de los miembros del tribunal?",
+   "options": [
+    "Cuando exista amistad íntima, enemistad manifiesta o interés directo en el resultado final del proceso.",
+    "Solo cuando exista parentesco consanguíneo hasta el cuarto grado o vínculo espiritual determinado.",
+    "Cuando el encausado lo solicite fundadamente, sin necesidad de acreditar una causal específica.",
+    "Solo cuando exista parentesco por afinidad hasta el segundo grado o relación laboral directa."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 21 limita las excusas y recusaciones a los casos en que exista parentesco consanguíneo hasta el cuarto grado o vínculo espiritual determinado.",
+   "legal": "R.S. 212414, Capítulo Quinto, Art. 21; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "ea7af579f44c",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] ¿Qué formalidad exige el Art. 23 cuando la denuncia se presenta verbalmente?",
+   "options": [
+    "El denunciante debe ratificarla por escrito.",
+    "Debe presentarse ante dos testigos hábiles.",
+    "El funcionario que la recibe debe sentar acta.",
+    "Debe ser registrada por el Fiscal Promotor."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 23 dispone que, si la denuncia es verbal, el funcionario que la reciba sentará acta; si es escrita, llevará firma o impresión digital que identifique al denunciante, con presencia de un testigo.",
+   "legal": "R.S. 212414, Capítulo Sexto, Art. 23; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "e23adf0a1943",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SÉPTIMO] Según el Art. 25, la apelación contra el fallo del tribunal de primera instancia debe presentarse:",
+   "options": [
+    "Dentro de cinco días, sin exposición de agravios, ante el Tribunal Disciplinario Nacional.",
+    "Dentro de tres días, sin exposición de agravios, ante el Director General de Educación.",
+    "Dentro de tres días, con exposición de agravios, ante el mismo tribunal que sentenció.",
+    "Dentro de quince días, con exposición de agravios, ante el Ministerio de Educación."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 25 dispone que la parte agraviada puede interponer recurso de apelación ante el Tribunal Nacional, presentándolo dentro de tres días, incluyendo la exposición de agravios, ante el mismo tribunal que sentenció la causa.",
+   "legal": "R.S. 212414, Capítulo Séptimo, Art. 25; página impresa: sin numeración; página PDF: 6."
+  },
+  {
+   "id": "2cd32dba673b",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] ¿Cómo regula el Reglamento el periodo probatorio del proceso disciplinario?",
+   "options": [
+    "Dura 20 días, prorrogable por razón de distancia a petición de parte o de oficio.",
+    "Dura 15 días, improrrogable, y comprende solo pruebas documentales y testificales.",
+    "Dura 10 días, prorrogable una vez por igual plazo a petición del denunciante.",
+    "Dura 20 días, prorrogable solo por acuerdo del tribunal con la Federación sindical."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 24, inciso c), fija un periodo probatorio de 20 días, prorrogable por razón de distancia a petición de parte o por determinación de oficio, que comprende instructiva, indagatoria, pruebas de cargo y descargo, cuestiones previas, excusas, recusaciones y alegatos.",
+   "legal": "R.S. 212414, Capítulo Sexto, Art. 24, inc. c); página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "dbc74272e087",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SÉPTIMO] ¿En qué plazo el tribunal de apelación debe confirmar o revocar el fallo?",
+   "options": [
+    "En 3 días contados desde la exposición de los agravios.",
+    "En 5 días contados desde la notificación de la apelación.",
+    "En 20 días contados desde la remisión de los obrados.",
+    "En 15 días contados desde la recepción de la apelación."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 26 dispone que el tribunal de apelación confirmará o revocará el fallo en el término de 15 días contados desde la recepción de la apelación.",
+   "legal": "R.S. 212414, Capítulo Séptimo, Art. 26; página impresa: sin numeración; página PDF: 6."
+  },
+  {
+   "id": "273d0d56958c",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Distinga el \"abandono injustificado de funciones\" del \"abandono del lugar de funciones hasta cinco días en escuelas urbanas sin licencia\":",
+   "options": [
+    "El primero es falta grave; el segundo, falta leve.",
+    "El primero es muy grave; el segundo, falta grave.",
+    "Ambos son faltas graves con la misma sanción.",
+    "El primero es falta leve; el segundo, falta grave."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 9, inciso f), tipifica como leve el abandono injustificado de funciones; el Art. 10, inciso h), tipifica como grave el abandono del lugar de funciones hasta cinco días en escuelas urbanas o siete en lugares alejados, sin licencia ni autorización.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 9, inc. f) y Art. 10, inc. h); página impresa: sin numeración; páginas PDF: 2 y 3."
+  },
+  {
+   "id": "bb7b4fa16383",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Distinga la \"falta de respeto a colegas o inferiores\" del \"apercibimiento grave a un inferior en presencia de maestros o alumnos que menoscabe su dignidad\":",
+   "options": [
+    "La primera es falta leve; la segunda es falta grave.",
+    "La primera es falta grave; la segunda, muy grave.",
+    "Ambas son faltas graves de competencia del tribunal.",
+    "Ambas son faltas leves sancionadas por el superior."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 9, inciso d), califica como leve la falta de respeto a colegas o inferiores; el Art. 10, inciso k), califica como grave el apercibimiento o la observación grave a un inferior en presencia de maestros o alumnos que menoscabe su autoridad o dignidad.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 9, inc. d) y Art. 10, inc. k); página impresa: sin numeración; páginas PDF: 2 y 3."
+  },
+  {
+   "id": "2686e2742aad",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Distinga el \"uso indebido de fondos recaudados por donativos o cuotas\" del \"no rendir cuentas de dineros recaudados por rifas o quermeses\":",
+   "options": [
+    "Ambas son faltas muy graves, porque implican manejo de dinero ajeno.",
+    "Ambas son faltas graves, porque recaen sobre fondos de la comunidad.",
+    "El uso indebido es falta muy grave; no rendir cuentas es falta grave.",
+    "El uso indebido es falta grave; no rendir cuentas es falta muy grave."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 10, inciso j), tipifica como grave el uso indebido de fondos recaudados por donativos, beneficencia, cuotas o suscripciones; el Art. 11, inciso b), tipifica como muy grave no rendir cuentas de dineros recaudados por rifas, quermeses y otras actividades, y omitir su depósito.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. j) y Art. 11, inc. b); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "236e7b8a577b",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Distinga la \"extorsión a los alumnos ofreciendo calificaciones\" de la \"venta de pruebas de exámenes\":",
+   "options": [
+    "Ambas son faltas graves sancionadas con suspensión sin goce de haber.",
+    "Ambas son faltas muy graves sancionadas con el retiro del magisterio.",
+    "La extorsión es falta grave; la venta de pruebas es falta muy grave.",
+    "La extorsión es falta muy grave; la venta de pruebas es falta grave."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 10, inciso b), tipifica como grave la extorsión a los alumnos ofreciendo calificaciones; el Art. 11, inciso d), tipifica como muy grave la venta de pruebas de exámenes.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. b) y Art. 11, inc. d); página impresa: sin numeración; páginas PDF: 2 y 4."
+  },
+  {
+   "id": "2e56d71aaef5",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Distinga la \"organización de fiestas con bebidas alcohólicas en el establecimiento\" de la \"autorización del expendio y consumo de bebidas alcohólicas o drogas en el establecimiento o sus alrededores\":",
+   "options": [
+    "Ambas son faltas muy graves de igual tipificación.",
+    "La primera es falta grave; la segunda es falta muy grave.",
+    "La primera es falta leve; la segunda es falta grave.",
+    "La primera es muy grave; la segunda es falta grave."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 10, inciso g), califica como grave la organización o asistencia a fiestas con uso de bebidas alcohólicas en el establecimiento; el Art. 11, inciso g), califica como muy grave la autorización del expendio y consumo de bebidas alcohólicas o drogas peligrosas en el establecimiento o sus alrededores.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. g) y Art. 11, inc. g); página impresa: sin numeración; páginas PDF: 3 y 4."
+  },
+  {
+   "id": "bc88647e3f02",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEGUNDO] El Art. 6 permite la suspensión inmediata durante el proceso solo en el \"inciso a)\" de las faltas muy graves. Leído literalmente con el Art. 11, ¿qué conducta habilita esa medida?",
+   "options": [
+    "El acoso sexual y la violación de alumnos.",
+    "La falsificación de datos y certificados.",
+    "La reincidencia voluntaria en faltas graves.",
+    "La simulación de enfermedad para licencias."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 6 remite al inciso a) de la tipificación de faltas muy graves; el inciso a) del Art. 11 corresponde a la reincidencia voluntaria en faltas graves. Las demás conductas figuran en otros incisos (m, l y e) y no están comprendidas en la excepción literal.",
+   "legal": "R.S. 212414, Capítulo Segundo, Art. 6; Capítulo Tercero, Art. 11, inc. a); página impresa: sin numeración; páginas PDF: 2 y 3."
+  },
+  {
+   "id": "74ec7ad1abae",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SÉPTIMO] El Capítulo Séptimo se titula \"De los recursos de apelación y revisión\". Desde un análisis crítico del texto, ¿qué se observa?",
+   "options": [
+    "Suprime la apelación y la sustituye por la revisión de oficio del Tribunal Nacional.",
+    "Regula ambos recursos con plazos, requisitos y órganos competentes diferenciados.",
+    "Regula en detalle la revisión; la apelación se remite al Código de Procedimiento Penal.",
+    "Regula en detalle la apelación; la revisión solo se menciona, sin procedimiento propio."
+   ],
+   "answer": 3,
+   "explanation": "Los Arts. 25 a 27 regulan la apelación (plazo de 3 días, agravios, resolución en 15 días y Resolución Ministerial). La revisión aparece en el título del capítulo y en el Art. 24, inciso g), sin que el Reglamento desarrolle su procedimiento.",
+   "legal": "R.S. 212414, Capítulo Sexto, Art. 24, inc. g); Capítulo Séptimo, Arts. 25 a 27; página impresa: sin numeración; páginas PDF: 5 y 6."
+  },
+  {
+   "id": "6d03dc80e806",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] ¿Qué técnica utiliza el Reglamento para graduar la gravedad de las faltas repetidas?",
+   "options": [
+    "La reincidencia duplica la sanción dentro de la misma categoría de falta.",
+    "La reincidencia voluntaria eleva la falta a la categoría inmediata superior.",
+    "La reincidencia solo se considera como agravante, sin cambiar la categoría de la falta.",
+    "La reincidencia se sanciona directamente con el retiro del magisterio."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 10, inciso a), tipifica como grave la reincidencia voluntaria en faltas leves, y el Art. 11, inciso a), tipifica como muy grave la reincidencia voluntaria en faltas graves; así, la reincidencia escala la falta a la categoría superior.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. a) y Art. 11, inc. a); página impresa: sin numeración; páginas PDF: 2 y 3."
+  },
+  {
+   "id": "7eb6e1498679",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] ¿Qué valoración crítica merece el Art. 14 como garantía del debido proceso disciplinario?",
+   "options": [
+    "Permite convalidar la sanción si el procesado no reclama en el plazo legal.",
+    "Convierte el respeto del procedimiento en condición de existencia de la sanción.",
+    "Faculta al superior a sancionar sin proceso cuando la falta es evidente.",
+    "Limita su alcance a las faltas muy graves que conoce el Tribunal Nacional."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 14 declara inexistente toda sanción impuesta sin cumplir las normas procesales del Reglamento, lo que, junto con el derecho de defensa (Art. 3), hace del procedimiento una condición de existencia de la sanción.",
+   "legal": "R.S. 212414, Capítulo Cuarto, Art. 14; Capítulo Segundo, Art. 3; página impresa: sin numeración; páginas PDF: 1 y 4."
+  },
+  {
+   "id": "136561dceddb",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] El Art. 18 establece que los tribunales se designan en \"corresponsabilidad\" con las organizaciones sindicales. ¿Qué rasgo del modelo disciplinario revela esta disposición?",
+   "options": [
+    "La exclusión de la autoridad educativa en la designación de los tribunales.",
+    "La sustitución de la autoridad educativa por el sindicato en la función de juzgar al personal.",
+    "La participación sindical en la conformación de los órganos que juzgan al magisterio.",
+    "La elección directa de los miembros del tribunal por los maestros procesados."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 18 dispone que los tribunales departamentales son designados por el Director Departamental de manera corresponsable con la Federación Departamental, y el nacional por el Ministerio en corresponsabilidad con la Confederación; el Art. 20 exige coordinar con la Dirección Sindical los reemplazos.",
+   "legal": "R.S. 212414, Capítulo Quinto, Arts. 18 y 20; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "583520eb70e8",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] El Art. 10, inciso e), tipifica como falta grave el hostigamiento, las represalias o la reprobación del año escolar a causa de reclamaciones de padres. ¿Qué bien jurídico protege principalmente?",
+   "options": [
+    "La autoridad del maestro frente a reclamos infundados de los padres.",
+    "La reserva de las calificaciones frente a la asociación de padres.",
+    "La estabilidad laboral del maestro frente a quejas de la comunidad.",
+    "El derecho de los padres a reclamar sin que sus hijos sufran represalias."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 10, inciso e), sanciona como grave el hostigamiento, las represalias o la reprobación del año escolar a causa de reclamaciones de padres o de sus asociaciones, lo que protege el derecho a reclamar frente a represalias contra los alumnos.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. e); página impresa: sin numeración; página PDF: 2."
+  },
+  {
+   "id": "897d1173f539",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] El Art. 11, inciso ll), califica como muy grave la subalternización de las instancias administrativas a intereses político-partidarios o sectarios. ¿Qué principio de gestión pretende resguardar?",
+   "options": [
+    "La orientación de la administración educativa a la docencia y no a intereses partidarios.",
+    "La facultad del Ministerio para designar autoridades sin consultar a los sindicatos.",
+    "La neutralidad religiosa obligatoria en todas las unidades educativas fiscales y de convenio del país.",
+    "La prohibición absoluta de que los maestros participen en organizaciones sindicales."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 11, inciso ll), tipifica como muy grave la subalternización de las instancias administrativas a los intereses político-partidarios o sectarios en desmedro de la docencia, resguardando la orientación de la gestión educativa a su finalidad.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 11, inc. ll); página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "5df1cd813255",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] Las causales de excusa y recusación del Art. 21 son taxativas y restringidas. ¿Qué consecuencia práctica deriva de ello?",
+   "options": [
+    "Otras situaciones de posible parcialidad no habilitan, por sí solas, la recusación.",
+    "Cualquier sospecha de parcialidad obliga al miembro del tribunal a excusarse.",
+    "El encausado puede recusar libremente a un miembro una vez durante el proceso.",
+    "La Federación sindical puede ampliar las causales mediante acuerdo con el tribunal."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 21 dispone que las excusas y recusaciones \"sólo procederán\" cuando exista parentesco consanguíneo hasta el cuarto grado o vínculo espiritual determinado, lo que excluye otras causales no previstas.",
+   "legal": "R.S. 212414, Capítulo Quinto, Art. 21; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "8b7ae00c6282",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] El Art. 9, inciso c), considera falta leve la no presentación oportuna o incorrecta de documentos como registros, planes de trabajo y libretas de calificación. ¿Qué lectura crítica es más adecuada?",
+   "options": [
+    "Reserva la sanción de esas omisiones solo al Tribunal Departamental competente.",
+    "Equipara esas omisiones a la falsificación de documentos de la categoría muy grave.",
+    "Trata la gestión documental como tarea opcional, sin consecuencias disciplinarias.",
+    "Reconoce la gestión documental como deber exigible cuyo incumplimiento es sancionable."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 9, inciso c), tipifica como leve el desorden, el incumplimiento o la negligencia, y la presentación inoportuna o incorrecta de documentos de la labor docente; el Art. 11, inciso l), reserva la categoría muy grave para la falsificación de datos o la alteración de certificados.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 9, inc. c) y Art. 11, inc. l); página impresa: sin numeración; páginas PDF: 2 y 4."
+  },
+  {
+   "id": "eabc3d0d83e1",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO PRIMERO] El Art. 11, inciso m), tipifica como falta muy grave el acoso sexual, el estupro y la violación, conductas que también constituyen delitos. Con el Art. 2, ¿cuál es la lectura más consistente?",
+   "options": [
+    "La vía disciplinaria debe suspenderse hasta que la justicia penal dicte sentencia ejecutoriada.",
+    "La conducta solo puede sustanciarse por la vía penal, lo que deja sin efecto el inciso m).",
+    "La conducta solo puede sustanciarse por el Reglamento, que desplaza a la legislación penal.",
+    "La falta se sustancia por el Reglamento; el delito, conforme al Código Penal y su procedimiento."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 2 dispone que los delitos del Código Penal se sustancian según ese Código y su procedimiento, y que el Reglamento sustancia las faltas de los Arts. 9, 10 y 11; el Art. 11, inciso m), tipifica esas conductas como falta muy grave. El Reglamento no prevé la suspensión de la vía disciplinaria a la espera del fallo penal.",
+   "legal": "R.S. 212414, Capítulo Primero, Art. 2; Capítulo Tercero, Art. 11, inc. m); página impresa: sin numeración; páginas PDF: 1 y 4."
+  },
+  {
+   "id": "e0e2b087d34f",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un plantel suspende las clases una tarde para agasajar al director por su cumpleaños. ¿Cómo se tipifica esta conducta?",
+   "options": [
+    "Falta grave, sancionable por el tribunal departamental.",
+    "Falta muy grave, sancionable por el tribunal departamental.",
+    "Falta leve, sancionable por la autoridad inmediata superior.",
+    "Conducta permitida, por tratarse de un acto de convivencia escolar."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 9, inciso a), tipifica como falta leve la suspensión de labores por cumpleaños y agasajos a directores o docentes.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 9, inc. a); página impresa: sin numeración; página PDF: 2."
+  },
+  {
+   "id": "57e4e3d79e19",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Una maestra envía regularmente a dos alumnos a realizar compras personales y tareas domésticas en su domicilio. ¿Cómo se tipifica?",
+   "options": [
+    "Falta grave: abandono de los alumnos durante actividades fuera del aula.",
+    "Falta leve: utilizar alumnos en mandados particulares o servicio doméstico.",
+    "Falta muy grave: intimidación psíquica ejercida contra los alumnos del curso.",
+    "Falta grave: explotación de alumnos con menoscabo de su dignidad personal."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 9, inciso h), tipifica como falta leve utilizar a los alumnos en mandados particulares o en el servicio doméstico.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 9, inc. h); página impresa: sin numeración; página PDF: 2."
+  },
+  {
+   "id": "81face29bf94",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un maestro cobra a los padres un monto no autorizado para \"entregar\" la libreta de calificaciones. ¿Cómo se tipifica?",
+   "options": [
+    "Falta muy grave por cobro de haberes sin servicio.",
+    "Falta leve por desorden y negligencia en el trabajo.",
+    "Falta leve por presentación incorrecta de libretas.",
+    "Falta grave por exacciones a los padres de familia."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 10, inciso d), tipifica como falta grave las exacciones a los padres de familia.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. d); página impresa: sin numeración; página PDF: 2."
+  },
+  {
+   "id": "dc7669be2786",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un maestro ridiculiza públicamente a un alumno y lo obliga a permanecer de pie frente a la clase como castigo humillante. ¿Cómo se tipifica?",
+   "options": [
+    "Falta grave: castigo corporal o psicológico contra la dignidad del alumno.",
+    "Falta leve: trato descortés y despótico a los dependientes y al público.",
+    "Falta grave: apercibimiento a un inferior en presencia de los alumnos.",
+    "Falta leve: indisciplina manifiesta y resistencia a órdenes superiores."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 10, inciso p), tipifica como falta grave el empleo de castigos corporales o psicológicos contra la dignidad del alumno.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. p); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "a5cf4525d156",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un regente vende a un club particular balones y equipos deportivos asignados al establecimiento. ¿Cómo se tipifica?",
+   "options": [
+    "Falta muy grave por cambio de equipos nuevos por usados.",
+    "Falta leve por negligencia en el cuidado del material escolar.",
+    "Falta grave por alquiler de mobiliario a terceras personas.",
+    "Falta grave por venta o uso indebido del material deportivo."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 10, inciso i), tipifica como falta grave la venta o uso indebido del material escolar, sanitario, deportivo o de trabajo destinado a la institución.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. i); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "3d3a317b2a77",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] En un certificado de estudios se detecta una nota corregida mediante raspado y enmienda no salvada. ¿Cómo se tipifica la conducta del responsable?",
+   "options": [
+    "Falta leve: presentación incorrecta de documentos.",
+    "Falta grave: ineptitud en la gestión administrativa.",
+    "Falta muy grave: alteración de certificados.",
+    "Falta grave: uso indebido de sellos oficiales."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 11, inciso l), tipifica como muy grave la falsificación de datos en informaciones oficiales y documentos y la alteración de certificados (raspado, borrado o enmienda no salvada).",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 11, inc. l); página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "dc0dde8b5b1c",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un profesor desempeña dos cargos docentes fiscales sin contar con Resolución Suprema que lo autorice. ¿Cómo se tipifica?",
+   "options": [
+    "Falta muy grave, sancionable con retiro o destitución.",
+    "Falta leve, sancionable con amonestación o descuento.",
+    "Falta grave, sancionable con suspensión de 15 a 60 días.",
+    "Conducta permitida, si cuenta con aval del director."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 11, inciso f), tipifica como falta muy grave la acumulación de cargos docentes sin autorización expresa mediante Resolución Suprema.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 11, inc. f); página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "9d4b7ff62660",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Al posesionar a nuevos maestros, una autoridad les exige firmar cartas de renuncia sin fecha \"por si acaso\". ¿Cómo se tipifica?",
+   "options": [
+    "Falta muy grave por obtención de renuncias en blanco.",
+    "Falta grave por usurpación de funciones del superior.",
+    "Falta leve por trato despótico hacia los dependientes.",
+    "Falta grave por uso indebido de membretes oficiales."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 11, inciso k), tipifica como falta muy grave la suplantación de firmas, el uso indebido de papeles oficiales membretados y la obtención de renuncias en blanco a los cargos.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 11, inc. k); página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "89c29a65f052",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] Un tribunal declara probada una falta grave. ¿Cuál de las siguientes sanciones puede imponer?",
+   "options": [
+    "Amonestación escrita con traslado del lugar de trabajo.",
+    "Retiro definitivo del ejercicio del Magisterio en el país.",
+    "Descuento de uno a cinco días de haber mensual al infractor.",
+    "Suspensión de funciones sin goce de haber de 15 a 60 días."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 13, inciso b), prevé para faltas graves la suspensión sin goce de haber de quince a sesenta días, la postergación de ascenso por un año o el descenso a un cargo inferior.",
+   "legal": "R.S. 212414, Capítulo Cuarto, Art. 13, inc. b); página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "30ea9d00cb57",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un maestro ya sancionado por falta grave vuelve a cometer voluntariamente otra falta grave. ¿Cómo se califica la nueva conducta?",
+   "options": [
+    "Como delito sujeto a la legislación penal vigente.",
+    "Como falta muy grave por reincidencia voluntaria.",
+    "Como falta grave con agravante de reincidencia.",
+    "Como falta grave con sanción en su grado máximo."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 11, inciso a), tipifica como falta muy grave la reincidencia voluntaria en faltas graves.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 11, inc. a); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "9dd34b9b4622",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Una secretaria conoce que un maestro \"extiende\" mejores calificaciones a cambio de dinero y decide encubrirlo. ¿Cómo se tipifica la conducta de la secretaria?",
+   "options": [
+    "Falta leve por negligencia en la presentación de documentos.",
+    "Falta muy grave por falsificación de datos en documentos oficiales.",
+    "No es falta, porque la secretaria no recibió el dinero entregado.",
+    "Falta grave por encubrimiento de la extensión de calificaciones."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 10, inciso c), tipifica como grave la participación o el encubrimiento de la extensión de calificaciones a cambio de sumas de dinero, especie o servicios.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. c); página impresa: sin numeración; página PDF: 2."
+  },
+  {
+   "id": "3a90431b72eb",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un funcionario figura en planillas y cobra su haber mensual sin prestar ningún servicio en el establecimiento. ¿Cómo se tipifica?",
+   "options": [
+    "Falta leve: abandono injustificado de funciones durante la jornada.",
+    "Falta grave: abandono del lugar de funciones sin licencia ni permiso.",
+    "Falta grave: ineptitud manifiesta en la función administrativa.",
+    "Falta muy grave: cobro de haberes sin contraprestación de servicios."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 11, inciso i), tipifica como falta muy grave el cobro de haberes y otros beneficios sin la correspondiente contraprestación de servicios, así como la autorización fraudulenta del cobro.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 11, inc. i); página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "668f0edce41b",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un administrativo entrega a una empresa privada listas con datos personales de estudiantes que no son de uso público. ¿Cómo se tipifica?",
+   "options": [
+    "Falta leve por presentación incorrecta de datos estadísticos.",
+    "Falta grave por coparticipación en la venta de útiles escolares.",
+    "Falta grave por entregar información no pública a personas ajenas.",
+    "Falta muy grave por falsificación de datos en informes oficiales."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 10, inciso l), tipifica como grave la entrega de informaciones o documentos que no son de uso público a personas ajenas al servicio.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. l); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "21a3ccac2571",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un maestro presenta un certificado médico falso para obtener licencia y viajar. ¿Cómo se tipifica?",
+   "options": [
+    "Falta grave por uso indebido de documentos con membrete oficial.",
+    "Falta muy grave por simulación de enfermedad con certificado falso.",
+    "Falta leve por inasistencia injustificada a sus horas de clase.",
+    "Falta grave por abandono del lugar de funciones sin licencia previa."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 11, inciso e), tipifica como muy grave la simulación de enfermedad para obtener licencia u otras ventajas, presentando certificados falsos.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 11, inc. e); página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "429cfda5a5cc",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] Una madre acude a la dirección y denuncia verbalmente que un maestro cobró dinero por mejorar la nota de su hijo. El director es el superior inmediato del maestro. ¿Qué debe hacer primero según el Reglamento?",
+   "options": [
+    "Remitirla a la Fiscalía como delito de cohecho.",
+    "Sentar acta de la denuncia verbal recibida.",
+    "Exigirle que presente la denuncia por escrito.",
+    "Imponer una amonestación escrita al maestro."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 23 permite la denuncia verbal ante la autoridad inmediata superior del imputado y dispone que, en ese caso, el funcionario que la reciba sentará acta. La conducta (Art. 10, inciso c) es grave y corresponde al tribunal (Art. 22).",
+   "legal": "R.S. 212414, Capítulo Sexto, Art. 23; Capítulo Quinto, Art. 22; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "33bbd20a3856",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] Un padre presenta una denuncia escrita contra un administrativo, pero el escrito no lleva firma ni impresión digital y no identifica al denunciante. ¿Qué requisitos del Art. 23 incumple?",
+   "options": [
+    "Firma o impresión digital que identifique al denunciante, con presencia de un testigo.",
+    "Firma del denunciante y certificación notarial de su identidad ante el tribunal.",
+    "Patrocinio de abogado y ratificación del escrito ante el Fiscal Promotor del tribunal.",
+    "Visto bueno de la junta escolar y copia dirigida a la Dirección Distrital Educativa."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 23 dispone que la denuncia escrita llevará firma o impresión digital, identificando a la persona que denuncia, con presencia de un testigo.",
+   "legal": "R.S. 212414, Capítulo Sexto, Art. 23; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "72503a85fa2c",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] Un director recibe el lunes a las 10:00 una denuncia por falta grave contra un maestro de su unidad. ¿Hasta cuándo debe remitirla al Tribunal Departamental?",
+   "options": [
+    "Hasta el viernes a las 10:00 (cinco días).",
+    "Hasta el jueves a las 10:00 (tres días).",
+    "Hasta el miércoles a las 10:00 (48 horas).",
+    "Hasta el martes a las 10:00 (24 horas)."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 24, inciso a), fija como término la remisión de la denuncia al Tribunal Departamental dentro de las 48 horas de recibida.",
+   "legal": "R.S. 212414, Capítulo Sexto, Art. 24, inc. a); página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "a5962b4949f3",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] Concluido el periodo probatorio de un proceso por falta muy grave, el tribunal departamental debe pronunciar el fallo. ¿En qué término?",
+   "options": [
+    "En 5 días.",
+    "En 15 días.",
+    "En 3 días.",
+    "En 20 días."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 24, inciso e), fija en 5 días el término para el fallo; 3 días corresponden a la apelación, 15 al tribunal de apelación y 20 al periodo probatorio.",
+   "legal": "R.S. 212414, Capítulo Sexto, Art. 24, inc. e); página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "8419b032c9da",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SÉPTIMO] Un maestro sancionado por el tribunal departamental presenta su apelación al cuarto día de notificado, con exposición de agravios. ¿Cómo debe considerarse?",
+   "options": [
+    "Fuera de término, porque la apelación debe presentarse dentro de tres días.",
+    "Fuera de término, porque debió presentarse directamente en el Tribunal Nacional.",
+    "Dentro de término, porque la apelación puede presentarse dentro de cinco días.",
+    "Dentro de término, porque el plazo se computa desde la remisión de obrados."
+   ],
+   "answer": 0,
+   "explanation": "Los Arts. 24, inciso f), y 25 fijan en tres días el plazo de apelación, que se presenta, con exposición de agravios, ante el mismo tribunal que sentenció.",
+   "legal": "R.S. 212414, Capítulo Sexto, Art. 24, inc. f); Capítulo Séptimo, Art. 25; página impresa: sin numeración; páginas PDF: 5 y 6."
+  },
+  {
+   "id": "0b42fa4517f4",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEGUNDO] Una maestra es denunciada por exacciones a padres (falta grave). Antes del fallo, la autoridad dispone suspenderla de funciones \"por precaución\". ¿Es procedente?",
+   "options": [
+    "No: solo el Tribunal Nacional puede ordenar la suspensión preventiva.",
+    "Sí: toda falta grave habilita la suspensión inmediata durante el proceso.",
+    "No: mientras no se compruebe su culpabilidad no puede ser suspendida ni removida.",
+    "Sí: la autoridad inmediata superior puede suspenderla preventivamente hasta por quince días."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 6 prohíbe suspender o remover durante el proceso mientras no se compruebe la culpabilidad, salvo el inciso a) de las faltas muy graves; el Art. 5 consagra la presunción de inocencia.",
+   "legal": "R.S. 212414, Capítulo Segundo, Arts. 5 y 6; página impresa: sin numeración; página PDF: 2."
+  },
+  {
+   "id": "27281c89a2f3",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] El encausado recusa a un miembro del tribunal alegando que es su compadre de bautizo de un hijo. ¿Cómo debe valorarse la recusación?",
+   "options": [
+    "Es procedente si se comprueba el vínculo espiritual alegado.",
+    "Es procedente automáticamente, sin necesidad de comprobar el vínculo.",
+    "Es improcedente, porque las recusaciones no se admiten en el proceso.",
+    "Es improcedente, porque solo procede por parentesco consanguíneo."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 21 admite excusas y recusaciones por parentesco consanguíneo hasta el cuarto grado o vínculo espiritual determinado; el Art. 20 exige la previa comprobación de la causal aducida para el reemplazo.",
+   "legal": "R.S. 212414, Capítulo Quinto, Arts. 20 y 21; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "6f34e7fc9a42",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] Para juzgar a un Director Distrital se propone un tribunal integrado por maestros de aula sin cargo jerárquico. ¿Qué disposición se vulnera?",
+   "options": [
+    "La que exige que los miembros pertenezcan al mismo distrito del encausado.",
+    "La que exige miembros de igual o superior jerarquía que el encausado.",
+    "La que exige que el tribunal sea presidido por el Director General.",
+    "La que exige que el Fiscal Promotor sea designado por la Confederación."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 19 dispone que los miembros de los tribunales deben ser de igual o superior jerarquía a la de los encausados.",
+   "legal": "R.S. 212414, Capítulo Quinto, Art. 19; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "df35714c37d1",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] Un tribunal sancionó a un maestro con suspensión sin goce de haber, pero nunca lo citó ni le permitió presentar descargos. ¿Qué situación jurídica tiene esa sanción?",
+   "options": [
+    "Se convalida si el maestro no apela dentro de los tres días.",
+    "Se tiene por inexistente por incumplir las normas procesales.",
+    "Es válida si la falta fue probada con documentos fehacientes.",
+    "Es válida, pero el maestro puede pedir su reducción en apelación."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 14 dispone que toda sanción impuesta sin cumplir las normas procesales del Reglamento se tendrá por inexistente; el Art. 3 exige que nadie sea sancionado sin ser oído y juzgado.",
+   "legal": "R.S. 212414, Capítulo Cuarto, Art. 14; Capítulo Segundo, Art. 3; página impresa: sin numeración; páginas PDF: 1 y 4."
+  },
+  {
+   "id": "caf5ad95f489",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEGUNDO] Ante un conflicto en un colegio, la Dirección Departamental conforma una \"comisión especial\" de tres maestros para juzgar y sancionar al director por faltas graves. ¿Es válido?",
+   "options": [
+    "No, porque las faltas graves de directores corresponden al Tribunal Disciplinario Nacional.",
+    "Sí, porque las faltas graves de directores se juzgan por la Dirección Departamental.",
+    "No, el Reglamento prohíbe juzgar por comisiones especiales o tribunales extraordinarios.",
+    "Sí, siempre que la comisión esté integrada por maestros-abogados de autoridad moral."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 4 prohíbe juzgar a maestros, administrativos o autoridades educativas por comisiones especiales o tribunales extraordinarios; las faltas graves corresponden en primera instancia al tribunal departamental (Arts. 17 y 22).",
+   "legal": "R.S. 212414, Capítulo Segundo, Art. 4; Capítulo Quinto, Arts. 17 y 22; página impresa: sin numeración; páginas PDF: 2 y 5."
+  },
+  {
+   "id": "ea06f6c95da7",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO PRIMERO] Un administrativo sustrae dinero de la caja del establecimiento y el hecho configura un delito del Código Penal. ¿Cómo se sustancia ese delito según el Art. 2?",
+   "options": [
+    "Ante la Comisión Calificadora Distrital del Escalafón.",
+    "Ante la autoridad inmediata superior como falta leve.",
+    "Según el proceso disciplinario del Reglamento de Faltas.",
+    "Según el Código Penal y el Código de Procedimiento Penal."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 2 dispone que los delitos previstos en el Código Penal se sustancian según ese Código y el Código de Procedimiento Penal; el Reglamento solo sustancia las faltas de los Arts. 9, 10 y 11.",
+   "legal": "R.S. 212414, Capítulo Primero, Art. 2; página impresa: sin numeración; página PDF: 1."
+  },
+  {
+   "id": "f326e5103c36",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] Un maestro fuma reiteradamente en el patio del colegio. El director, su superior inmediato, decide sancionarlo. ¿Qué sanción puede imponerle directamente?",
+   "options": [
+    "Descenso a un cargo inferior en el mismo plantel.",
+    "Suspensión sin goce de haber por quince días.",
+    "Postergación de su ascenso por el término de un año.",
+    "Amonestación escrita, por tratarse de falta leve."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 9, inciso e), tipifica como leve el consumo de cigarrillos en ambientes escolares; el Art. 22 asigna la sanción de faltas leves a la autoridad inmediata superior y el Art. 13, inciso a), prevé para ellas la amonestación privada o escrita, el descuento de 1 a 5 días o el traslado.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 9, inc. e); Capítulo Cuarto, Art. 13, inc. a); Capítulo Quinto, Art. 22; página impresa: sin numeración; páginas PDF: 2, 4 y 5."
+  },
+  {
+   "id": "d1ae48fd0063",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] Un director, ante una denuncia probada de exacciones a padres por parte de un maestro, decide suspenderlo él mismo 20 días sin goce de haber. ¿Es correcta su actuación?",
+   "options": [
+    "No: las faltas graves solo pueden ser sancionadas por el tribunal correspondiente.",
+    "No: las exacciones a padres son faltas muy graves que exigen el retiro del maestro.",
+    "Sí: la suspensión de 15 a 60 días es la sanción prevista para las faltas graves.",
+    "Sí: el director es la autoridad inmediata superior competente para sancionar."
+   ],
+   "answer": 0,
+   "explanation": "Las exacciones a los padres son falta grave (Art. 10, inciso d). El Art. 22 reserva la sanción de las faltas graves y muy graves al tribunal correspondiente; la autoridad inmediata superior solo sanciona faltas leves.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. d); Capítulo Quinto, Art. 22; página impresa: sin numeración; páginas PDF: 2 y 5."
+  },
+  {
+   "id": "d2023405f64c",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un maestro de una escuela urbana se ausenta cuatro días hábiles seguidos sin licencia ni autorización. ¿Cómo se tipifica?",
+   "options": [
+    "Conducta no sancionable, por no superar los cinco días.",
+    "Falta grave, de competencia del tribunal departamental.",
+    "Falta muy grave, de competencia del tribunal departamental.",
+    "Falta leve, de competencia de la autoridad inmediata superior."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 10, inciso h), tipifica como falta grave el abandono del lugar de funciones hasta cinco días en escuelas urbanas, o siete en lugares alejados, sin licencia ni autorización.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. h); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "07874975b970",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Una maestra de una escuela en un lugar alejado se ausenta seis días sin licencia. El director sostiene que el plazo para considerarlo falta grave es de cinco días en todos los casos. ¿Es correcta su apreciación?",
+   "options": [
+    "Sí, el umbral de cinco días se aplica igualmente en áreas urbanas y alejadas.",
+    "No, en lugares alejados la ausencia sin licencia constituye solo falta leve.",
+    "No, en lugares alejados el umbral de la falta grave llega hasta siete días.",
+    "Sí, y por exceder cinco días la conducta se califica como falta muy grave."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 10, inciso h), tipifica como grave el abandono del lugar de funciones hasta cinco días en escuelas urbanas o siete en lugares alejados, sin licencia ni autorización.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. h); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "c1669476605e",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un maestro se presenta en estado de ebriedad a un acto público de la unidad educativa. Probada la falta, ¿qué sanción corresponde según su categoría?",
+   "options": [
+    "Amonestación escrita y descuento de cinco días de haber.",
+    "Retiro definitivo del Magisterio o destitución del cargo.",
+    "Suspensión sin goce de haber de quince a sesenta días.",
+    "Postergación de ascenso por un año y traslado de cargo."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 11, inciso h), tipifica como muy grave la presentación en la escuela, oficina, centro de trabajo o acto público en estado de ebriedad; el Art. 13, inciso c), prevé para las faltas muy graves el retiro definitivo o la destitución.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 11, inc. h); Capítulo Cuarto, Art. 13, inc. c); página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "dd75b32370f5",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO OCTAVO] La Dirección Distrital recibe el viernes la copia de la Resolución Ministerial que confirma la destitución de un administrativo. ¿En qué plazo debe ejecutarla?",
+   "options": [
+    "Dentro de cinco días desde la notificación al sancionado.",
+    "Dentro de 48 horas desde la remisión de los obrados.",
+    "Dentro de tres días de la recepción de la copia.",
+    "Dentro de quince días desde la emisión de la RM."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 28 dispone que las autoridades administrativas pertinentes deben proceder al cumplimiento de los fallos dentro de tres días de la recepción de la copia de la Resolución Ministerial.",
+   "legal": "R.S. 212414, Capítulo Octavo, Art. 28; página impresa: sin numeración; página PDF: 6."
+  },
+  {
+   "id": "5b626e78bec4",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO OCTAVO] Concluido un proceso con sanción firme, un maestro pregunta qué constancia quedará en su expediente personal. ¿Qué dispone el Reglamento?",
+   "options": [
+    "Se incluirá la copia solo si la sanción corresponde a una falta muy grave.",
+    "Se incluirá una nota simple, que se elimina al cumplirse la sanción impuesta.",
+    "Se incluirá una copia legalizada del expediente en su expediente personal.",
+    "No quedará constancia, porque la sanción se archiva solo en el Ministerio."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 29 dispone que los expedientes se custodian en el archivo del Ministerio, que se incluirá una copia legalizada en el expediente personal del interesado y que se enviará otra a las autoridades superiores inmediatas.",
+   "legal": "R.S. 212414, Capítulo Octavo, Art. 29; página impresa: sin numeración; página PDF: 6."
+  },
+  {
+   "id": "8d14c7e7f340",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SÉPTIMO] El tribunal departamental concede la apelación de un maestro. ¿En qué término debe remitir los obrados al Tribunal Nacional?",
+   "options": [
+    "48 horas después de vencido el término de apelación.",
+    "24 horas después de presentada la apelación del maestro.",
+    "Cinco días después de notificado el fallo de primera instancia.",
+    "Quince días después de recibida la exposición de agravios."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 24, inciso g), fija la remisión de obrados para la apelación o revisión en 48 horas después del término de apelación (inciso f: 3 días).",
+   "legal": "R.S. 212414, Capítulo Sexto, Art. 24, incs. f) y g); página impresa: sin numeración; páginas PDF: 5 y 6."
+  },
+  {
+   "id": "2b2bf1d447b8",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Durante una excursión a un museo, una maestra deja solos a los alumnos por más de una hora para atender asuntos personales. ¿Cómo se tipifica?",
+   "options": [
+    "Falta muy grave por violencia o intimidación física a los alumnos.",
+    "Falta grave por descuido y abandono de alumnos durante visitas.",
+    "Falta leve por abandono injustificado de funciones en la jornada.",
+    "Falta leve por desorden y negligencia en el trabajo docente."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 10, inciso q), tipifica como grave el descuido y abandono de los alumnos durante las visitas a museos, centros culturales, excursiones y otras actividades deportivas o de recreación.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. q); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "0498e7d97ec2",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un director recibe de una distribuidora un porcentaje por cada uniforme que los padres compran en ese comercio por indicación del colegio. ¿Cómo se tipifica?",
+   "options": [
+    "Falta muy grave por cobro de haberes sin contraprestación alguna.",
+    "Falta leve por negligencia en la administración del establecimiento.",
+    "Falta grave por aceptación de fiestas escolares a cambio de favores.",
+    "Falta grave por coparticipación en la compra-venta de uniformes."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 10, inciso o), tipifica como grave la coparticipación en la compra-venta de útiles, textos escolares, uniformes, con establecimientos comerciales, editores o particulares.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. o); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "4dc8b6300bf8",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un maestro organiza grupos de estudiantes y los induce al consumo de sustancias peligrosas. ¿Cómo se tipifica y qué sanción corresponde?",
+   "options": [
+    "Falta grave; descenso a un cargo inferior y traslado de unidad.",
+    "Falta muy grave; retiro definitivo del Magisterio o destitución.",
+    "Falta grave; suspensión sin goce de haber de quince a sesenta días.",
+    "Falta muy grave; postergación de ascenso por un año y traslado."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 11, inciso m), tipifica como muy grave la invitación al uso de substancias indebidas y peligrosas, corrupción y organización de bandas delincuenciales; el Art. 13, inciso c), fija como sanción el retiro definitivo o la destitución.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 11, inc. m); Capítulo Cuarto, Art. 13, inc. c); página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "6e1a5682e3d3",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un director recibe la denuncia de que un maestro acosa sexualmente a una estudiante. Según el Reglamento, ¿cuál es la decisión correcta respecto de la vía disciplinaria?",
+   "options": [
+    "Archivarla, porque el acoso sexual solo puede ser conocido por la justicia penal ordinaria.",
+    "Tramitarla como falta grave, que el director puede sancionar con suspensión de funciones.",
+    "Tramitarla como falta leve, sancionable con amonestación escrita por la autoridad superior.",
+    "Tramitarla como falta muy grave, cuyo conocimiento corresponde al tribunal departamental."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 11, inciso m), tipifica el acoso sexual como falta muy grave; el Art. 17 asigna al tribunal departamental la primera instancia de las faltas graves y muy graves y el Art. 24 prevé la remisión en 48 horas. Si además constituye delito, el Art. 2 remite su sustanciación a la legislación penal.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 11, inc. m); Capítulo Quinto, Art. 17; Capítulo Sexto, Art. 24; página impresa: sin numeración; páginas PDF: 1, 4 y 5."
+  },
+  {
+   "id": "a6c5c1eac2b6",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] Como autoridad inmediata superior, un director debe sancionar una falta leve probada. ¿Cuál de estas decisiones excede las sanciones previstas para esa categoría?",
+   "options": [
+    "Disponer el traslado del lugar de trabajo.",
+    "Descontar diez días de haber al infractor.",
+    "Amonestarlo en privado en la dirección.",
+    "Descontar tres días de haber al infractor."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 13, inciso a), prevé para faltas leves la amonestación en privado, la amonestación escrita, el descuento de uno a cinco días de haber y el traslado del lugar de trabajo; diez días excede ese límite.",
+   "legal": "R.S. 212414, Capítulo Cuarto, Art. 13, inc. a); página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "d55d8c8b3f7d",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] Un director pretende sancionar una falta leve con la postergación del ascenso del maestro por un año. ¿Qué debe considerar?",
+   "options": [
+    "Esa sanción está prevista para faltas graves, no para faltas leves.",
+    "Esa sanción procede para leves con aprobación de la Federación sindical.",
+    "Esa sanción está prevista para faltas muy graves cometidas en funciones.",
+    "Esa sanción es válida si el maestro ya tiene amonestaciones previas."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 13, inciso b), incluye la postergación de ascenso por un año entre las sanciones por faltas graves; las leves solo admiten las sanciones del inciso a).",
+   "legal": "R.S. 212414, Capítulo Cuarto, Art. 13, incs. a) y b); página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "e847fbb532bb",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Tras una reunión en la que varios padres reclamaron por un maestro, este anuncia que reprobará a los hijos de quienes se quejaron. ¿Qué decisión debe tomar el director conforme al Reglamento?",
+   "options": [
+    "Mediar entre las partes, porque el anuncio no constituye una falta tipificada.",
+    "Activar la vía disciplinaria por falta grave de represalias por reclamos de padres.",
+    "Sancionar al maestro con amonestación privada por trato descortés al público.",
+    "Remitir el caso a la justicia penal, porque la amenaza es un delito de acción pública."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 10, inciso e), tipifica como grave el hostigamiento, las represalias o la reprobación del año escolar a causa de reclamaciones de padres o de sus asociaciones.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. e); página impresa: sin numeración; página PDF: 2."
+  },
+  {
+   "id": "2f7cac5c9cf0",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] La junta escolar pide al director autorizar la venta de cerveza en la kermés que se realizará en el patio del colegio. ¿Qué decisión debe tomar?",
+   "options": [
+    "Autorizarla solo si los estudiantes no participan del consumo de las bebidas.",
+    "Negarla, porque la kermés es una actividad prohibida en todos los establecimientos fiscales.",
+    "Negarla: autorizar el expendio de alcohol en el establecimiento es falta muy grave.",
+    "Autorizarla si los fondos se depositan en el banco dentro de los plazos de ley."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 11, inciso g), tipifica como muy grave la autorización del expendio y consumo de bebidas alcohólicas o drogas peligrosas en dependencias del establecimiento o sus alrededores.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 11, inc. g); página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "2d00445f9ce1",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un director evalúa utilizar las cuotas aportadas por los padres para un fin distinto del que motivó su recaudación. ¿Qué riesgo disciplinario debe ponderar?",
+   "options": [
+    "Incurrir en falta leve por negligencia en el cuidado del mobiliario escolar.",
+    "Ningún riesgo, porque las cuotas de padres no son fondos del establecimiento.",
+    "Incurrir en falta muy grave por cambio de equipos nuevos por otros usados.",
+    "Incurrir en falta grave por uso indebido de fondos recaudados por cuotas."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 10, inciso j), tipifica como grave el uso indebido de fondos recaudados por concepto de donativos, funciones de beneficencia, cuotas o suscripciones.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. j); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "67655642fa48",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un vecino ofrece pagar al director por alquilar el salón del colegio un sábado para un evento familiar. ¿Qué decisión es conforme al Reglamento?",
+   "options": [
+    "Aceptarla si el dinero se destina al mantenimiento del propio establecimiento escolar.",
+    "Rechazarla: alquilar locales escolares a terceros para fines particulares es falta grave.",
+    "Rechazarla solo si el evento incluye el consumo de bebidas alcohólicas dentro del local escolar.",
+    "Aceptarla porque se trata de un día no laborable sin actividades curriculares."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 10, inciso r), tipifica como falta grave el alquiler a favor de terceras personas de locales escolares, máquinas o mobiliario para fines particulares.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. r); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "380c90c68dff",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un grupo político local pide al director que la dirección distrital y la unidad educativa prioricen trámites de sus militantes. ¿Qué decisión corresponde?",
+   "options": [
+    "Rechazarlo: subordinar instancias administrativas a intereses partidarios es falta muy grave.",
+    "Aceptarlo si los trámites solicitados cumplen todos los requisitos de la normativa vigente.",
+    "Aceptarlo, porque la priorización de trámites es facultad discrecional de cada director.",
+    "Rechazarlo solo si la solicitud implica cobros de dinero a los militantes del grupo político."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 11, inciso ll), tipifica como muy grave la subalternización de las instancias administrativas a los intereses político-partidarios o sectarios en desmedro de la docencia.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 11, inc. ll); página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "162749da84f5",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Al final del año, unos padres ofrecen al director un regalo en dinero \"para que considere\" la promoción de su hijo. ¿Qué debe decidir?",
+   "options": [
+    "Aceptarlo si se entrega públicamente en el acto de clausura del año.",
+    "Aceptarlo y depositarlo en la cuenta de la unidad educativa fiscal.",
+    "Rechazarlo: aceptar regalos a cambio de favores es una falta grave.",
+    "Rechazarlo solo si el monto supera el haber mensual del director."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 10, inciso s), tipifica como grave la aceptación de fiestas escolares, regalos en dinero o en especie de alumnos, padres o intermediarios a cambio de favores; el inciso c) también sanciona la extensión de calificaciones por dinero.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, incs. c) y s); página impresa: sin numeración; páginas PDF: 2 y 3."
+  },
+  {
+   "id": "76da972b92fd",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] Un director debe decidir cómo actuar con una denuncia por falta muy grave que recibió hoy. ¿Cuál es la decisión ajustada a los términos procesales?",
+   "options": [
+    "Investigarla durante 20 días y luego remitir su informe al Tribunal.",
+    "Remitirla al Tribunal Nacional dentro de los 3 días de recibida.",
+    "Remitirla al Tribunal Departamental dentro de las 48 horas de recibida.",
+    "Notificar al denunciado y esperar su descargo antes de remitirla."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 24, inciso a), fija la remisión de la denuncia al Tribunal Departamental dentro de las 48 horas de recibida; el periodo probatorio (inciso c) corresponde al tribunal.",
+   "legal": "R.S. 212414, Capítulo Sexto, Art. 24, incs. a) y c); página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "928176cdc1e4",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Para prevenir faltas leves por gestión documental, ¿qué medida de gestión institucional tiene sustento directo en el Reglamento?",
+   "options": [
+    "Delegar la elaboración de datos estadísticos a la junta escolar del establecimiento.",
+    "Centralizar las libretas solo cuando la autoridad superior lo solicite por escrito.",
+    "Eximir a los maestros de presentar planes de trabajo durante el primer trimestre.",
+    "Calendarizar la entrega oportuna y correcta de registros, planes, listas y libretas."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 9, inciso c), tipifica como leve la no presentación oportuna o la presentación incorrecta de registros, planes de trabajo, listas, datos estadísticos, programas, libretas de calificación y otros documentos de la labor docente.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 9, inc. c); página impresa: sin numeración; página PDF: 2."
+  },
+  {
+   "id": "15d6ca0b9f66",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Una unidad educativa organiza rifas y quermeses cada año. ¿Qué control institucional previene una falta muy grave?",
+   "options": [
+    "Guardar el efectivo en la dirección hasta definir su destino final.",
+    "Rendir cuentas en los términos de ley y depositar en banco lo recaudado.",
+    "Distribuir lo recaudado entre los cursos antes del cierre de la gestión.",
+    "Entregar lo recaudado a la junta escolar sin registro documental."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 11, inciso b), tipifica como muy grave no rendir cuentas de dineros recaudados por rifas, quermeses y otras actividades en los términos fijados por ley, y omitir su depósito en bancos o ante autoridades competentes.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 11, inc. b); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "572cb21ccb74",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Para la gestión financiera de su unidad, ¿qué práctica de control interno debe asegurar el director, considerando las faltas muy graves del Reglamento?",
+   "options": [
+    "Consolidar los gastos del año en un único recibo al cierre de la gestión.",
+    "Reemplazar los comprobantes extraviados por declaraciones sin respaldo.",
+    "Respaldar todo gasto o pago con comprobantes existentes y sin alteraciones.",
+    "Registrar los gastos menores solo de forma verbal ante el plantel docente."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 11, inciso c), tipifica como muy grave la inexistencia o alteración de comprobantes de gastos o pagos con fondos económicos del establecimiento.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 11, inc. c); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "7fe171ae193b",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Al planificar la renovación de equipos de la unidad, ¿qué riesgo disciplinario debe prevenir el director en el manejo de bienes?",
+   "options": [
+    "El uso pedagógico de los equipos en aula, que constituye falta grave por uso indebido.",
+    "El cambio de equipos nuevos o en buen estado por otros usados, que es falta muy grave.",
+    "El inventario anual de los equipos, que constituye una falta leve de gestión documental.",
+    "La baja de equipos deteriorados, que es falta grave por negligencia en su conservación."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 11, inciso j), tipifica como muy grave el cambio de máquinas de escribir, equipos, mobiliarios, herramientas y otros nuevos o en buen estado por otros usados o en mal estado.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 11, inc. j); página impresa: sin numeración; página PDF: 4."
+  },
+  {
+   "id": "251f5593cfef",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Para planificar las salidas pedagógicas del año, ¿qué medida institucional previene directamente una falta grave tipificada en el Reglamento?",
+   "options": [
+    "Realizar las visitas solo en días no laborables para no afectar el calendario.",
+    "Asignar responsables de cuidado de los alumnos durante visitas y excursiones.",
+    "Exigir que los padres asuman el cuidado exclusivo de sus hijos en la salida.",
+    "Suspender todas las salidas para evitar cualquier riesgo de tipo disciplinario."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 10, inciso q), tipifica como grave el descuido y abandono de los alumnos durante visitas a museos, centros culturales, excursiones y otras actividades deportivas o de recreación.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. q); página impresa: sin numeración; página PDF: 3."
+  },
+  {
+   "id": "c4cd6ff48e91",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un director quiere asegurar la participación institucional en las fechas cívicas del año. ¿Qué disposición del Reglamento sustenta exigir la asistencia del personal?",
+   "options": [
+    "La que tipifica como grave la usurpación de funciones durante los actos oficiales del año.",
+    "La que tipifica como muy grave la promoción de reyertas en presencia de los alumnos.",
+    "La que tipifica como grave el uso indebido de títulos, sellos y membretes oficiales.",
+    "La que tipifica como leve la inasistencia a actos cívicos convocados por autoridades del ramo."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 9, inciso g), tipifica como leve la inasistencia a desfiles o actos oficiales cívicos patrióticos auspiciados o convocados por las autoridades del ramo.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 9, inc. g); página impresa: sin numeración; página PDF: 2."
+  },
+  {
+   "id": "c64276683fb7",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] Para estandarizar la recepción de denuncias en su unidad, ¿qué procedimiento interno es coherente con el Art. 23?",
+   "options": [
+    "Acta para denuncias verbales; firma o huella del denunciante y un testigo para las escritas.",
+    "Solo denuncias anónimas, para proteger la identidad de las personas denunciantes.",
+    "Solo denuncias escritas con patrocinio de abogado y ratificación ante el plantel docente.",
+    "Recepción exclusiva por la junta escolar y remisión mensual al tribunal departamental."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 23 admite la denuncia verbal o escrita; si es verbal, el funcionario que la recibe sienta acta; si es escrita, lleva firma o impresión digital que identifique al denunciante, con presencia de un testigo.",
+   "legal": "R.S. 212414, Capítulo Sexto, Art. 23; página impresa: sin numeración; página PDF: 5."
+  },
+  {
+   "id": "b7d0a1f3f24a",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Al organizar los sellos y papelería oficial de la unidad, ¿qué riesgo disciplinario busca prevenir un control estricto de su uso?",
+   "options": [
+    "La inasistencia a actos cívicos oficiales, tipificada como falta grave del personal.",
+    "El uso indebido de títulos, sellos o membretes oficiales, tipificado como falta grave.",
+    "La presentación incorrecta de datos estadísticos, tipificada como falta muy grave.",
+    "La entrega oportuna de informes al superior, tipificada como falta leve del plantel."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 10, inciso m), tipifica como grave el uso indebido de títulos, sellos o membretes de carácter oficial; el Art. 11, inciso k), califica como muy grave el uso indebido de papeles oficiales membretados junto con la suplantación de firmas.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. m) y Art. 11, inc. k); página impresa: sin numeración; páginas PDF: 3 y 4."
+  },
+  {
+   "id": "3330dd3629e9",
+   "q": "[R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un director detecta que la deserción de alumnos de un curso es elevada y obedece a malos tratos del maestro. Más allá de la sanción, ¿qué valor estratégico tiene esta tipificación para la gestión?",
+   "options": [
+    "Traslada a la junta escolar la responsabilidad de prevenir la deserción escolar.",
+    "Excluye la responsabilidad docente cuando la deserción supera el promedio distrital.",
+    "Atribuye la deserción a factores familiares ajenos a la gestión de la unidad educativa.",
+    "Vincula la permanencia de los estudiantes con la responsabilidad del trato docente."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 10, inciso f), tipifica como grave la deserción elevada de los alumnos causada por la ineptitud o los malos tratos del maestro, lo que vincula la permanencia estudiantil con el trato docente.",
+   "legal": "R.S. 212414, Capítulo Tercero, Art. 10, inc. f); página impresa: sin numeración; página PDF: 3."
+  }
+ ],
+ "rm-0864-2019-general": [
+  {
+   "id": "259ba92682de",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] Según el Protocolo, ¿qué es un protocolo?",
+   "options": [
+    "Un plan anual de convivencia que cada unidad educativa aprueba con su junta escolar de madres y padres.",
+    "Un instrumento de actuación que define los pasos a seguir en una situación, con base en normas.",
+    "Un acuerdo interinstitucional suscrito entre el Ministerio de Educación y las Defensorías.",
+    "Un reglamento disciplinario que tipifica faltas y sanciones aplicables al personal educativo."
+   ],
+   "answer": 1,
+   "explanation": "El Protocolo define el protocolo como un instrumento de actuación que define los pasos a seguir en una determinada situación, con base en normas establecidas, y que responde a las preguntas qué, cómo, dónde, quién, a quién y por qué.",
+   "legal": "R.M. 0864/2019, Aspectos generales del protocolo, «¿Qué es un protocolo?»; página impresa: 13; página PDF: 15."
+  },
+  {
+   "id": "30f9b3d86fe5",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] ¿En qué plazo máximo deben denunciar los integrantes de la comunidad educativa los hechos de violencia contra niñas, niños o adolescentes?",
+   "options": [
+    "Cinco (5) días hábiles de conocido el hecho.",
+    "Veinticuatro (24) horas de conocido el hecho.",
+    "Cuarenta y ocho (48) horas de conocido el hecho.",
+    "Setenta y dos (72) horas de conocido el hecho."
+   ],
+   "answer": 1,
+   "explanation": "El apartado 3.4 dispone que cualquier integrante de la comunidad educativa que conozca hechos de violencia contra niñas, niños o adolescentes está obligado a denunciarlos en un plazo máximo de veinticuatro (24) horas ante la DNA o cualquier autoridad competente, como el Ministerio Público o la FELCV, usando el Anexo 2.",
+   "legal": "R.M. 0864/2019, Parte III, 3.4 Denuncia; página impresa: 40; página PDF: 42."
+  },
+  {
+   "id": "50ba902cf8d0",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] ¿Cuál de los siguientes NO figura entre los principios que rigen el Protocolo?",
+   "options": [
+    "Interés superior de la niña, niño y adolescente.",
+    "Corresponsabilidad de la comunidad educativa.",
+    "Reserva de la reputación institucional.",
+    "Oportunidad y celeridad en la prevención."
+   ],
+   "answer": 2,
+   "explanation": "Los principios del Protocolo son: interés superior, cultura de paz, lucha contra el racismo y la discriminación, respeto a la identidad, integridad y dignidad, prioridad absoluta, equidad de género, desarrollo integral, oportunidad y celeridad, corresponsabilidad y participación. El apartado 3.2 ubica el interés superior incluso por encima de la reputación de la institución.",
+   "legal": "R.M. 0864/2019, Aspectos generales, «¿Bajo qué principios se rige…?»; Parte III, 3.2; páginas impresas: 13 y 37; páginas PDF: 15 y 39."
+  },
+  {
+   "id": "9a3357d67ba4",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] ¿Qué anexos prevé el Protocolo y cuál es su función?",
+   "options": [
+    "Anexo 1: derivación; Anexo 2: registro de casos; Anexo 3: informe de situación del estudiante.",
+    "Anexo 1: registro de casos; Anexo 2: informe de situación; Anexo 3: formulario de contención.",
+    "Anexo 1: acta de denuncia; Anexo 2: informe técnico-legal; Anexo 3: plan de convivencia anual de la unidad.",
+    "Anexo 1: informe de situación; Anexo 2: derivación y contrarreferencia; Anexo 3: registro de casos."
+   ],
+   "answer": 3,
+   "explanation": "El Anexo 1 es el formato de informe de situación; el Anexo 2, el formulario de derivación (referencia) con seguimiento (contrarreferencia); y el Anexo 3, la plantilla para el registro de casos.",
+   "legal": "R.M. 0864/2019, Anexos 1, 2 y 3; páginas impresas: 50 a 52; páginas PDF: 52 a 54."
+  },
+  {
+   "id": "df2816f625be",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] Según la definición que recoge el Protocolo (Art. 147 de la Ley N.º 548), constituye violencia:",
+   "options": [
+    "Solo la acción intencional que provoque lesiones físicas visibles en la niña, niño o adolescente.",
+    "Toda acción con contacto físico realizada por un adulto sin consentimiento de la NNA.",
+    "La acción u omisión que ocasione privaciones, lesiones, daños o sufrimientos a la NNA.",
+    "La conducta reiterada de un adulto que afecte la autoestima de la NNA en el ámbito escolar."
+   ],
+   "answer": 2,
+   "explanation": "El Protocolo cita el Art. 147, parágrafo I, de la Ley N.º 548: constituye violencia la acción u omisión, por cualquier medio, que ocasione privaciones, lesiones, daños, sufrimientos, perjuicios en la salud física, mental, afectiva, sexual, desarrollo deficiente e incluso la muerte de la niña, niño o adolescente.",
+   "legal": "R.M. 0864/2019, Aspectos generales, «¿Qué es Violencia?»; página impresa: 14; página PDF: 16."
+  },
+  {
+   "id": "91402f04a683",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] ¿Cuál es el objeto del Protocolo?",
+   "options": [
+    "Establecer el régimen de evaluación de los estudiantes víctimas de violencia durante su recuperación psicoafectiva.",
+    "Definir lineamientos y procedimientos de prevención, actuación, denuncia y protección ante violencia de adultos contra estudiantes.",
+    "Definir las faltas y sanciones aplicables a estudiantes que ejercen violencia contra sus pares en la unidad educativa.",
+    "Regular la intervención de la Policía en las unidades educativas ante hechos de violencia de cualquier tipo."
+   ],
+   "answer": 1,
+   "explanation": "El objeto es definir lineamientos, directrices y procedimientos para la prevención, actuación, denuncia y protección a las víctimas en casos de violencia física, psicológica y sexual ejercida por cualquier miembro adulto de la comunidad educativa hacia las y los estudiantes.",
+   "legal": "R.M. 0864/2019, Aspectos generales, «¿Cuál es el objeto del protocolo?»; página impresa: 13; página PDF: 15."
+  },
+  {
+   "id": "34975686cd39",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] ¿Qué caracteriza a la violencia psicológica según el Protocolo?",
+   "options": [
+    "Se ejerce sin contacto físico y atenta contra la salud mental y el desarrollo integral.",
+    "Se limita a los insultos verbales directos, excluyendo rumores y sobrenombres.",
+    "Requiere al menos un acto de contacto físico acompañado de expresiones humillantes o descalificadoras.",
+    "Solo se configura cuando deja secuelas diagnosticadas por un profesional de salud."
+   ],
+   "answer": 0,
+   "explanation": "El Protocolo define la violencia psicológica como agresión verbal, amenazas, manipulación, chantaje, aislamiento u hostigamiento que se ejerce sin la intervención del contacto físico y atenta contra la salud mental y el desarrollo integral; incluye sarcasmos, sobrenombres, burlas y difusión de rumores.",
+   "legal": "R.M. 0864/2019, Aspectos generales, «¿Qué es Violencia Psicológica?»; página impresa: 14; página PDF: 16."
+  },
+  {
+   "id": "127c74dc2c52",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] La violencia por omisión o negligencia es definida por el Protocolo como:",
+   "options": [
+    "Una forma de violencia psicológica que requiere expresiones verbales descalificadoras.",
+    "Una falta administrativa leve que no se considera violencia contra la niña o el niño.",
+    "Una forma activa de violencia que solo pueden ejercer madres, padres o tutores en el hogar.",
+    "Una forma pasiva de violencia por descuido de los adultos en sus obligaciones de cuidado."
+   ],
+   "answer": 3,
+   "explanation": "El Protocolo define la violencia por omisión o negligencia como una forma pasiva de violencia, correspondiente a la omisión o descuido de las personas adultas (en el ámbito educativo: maestros, autoridades, personal administrativo o de servicio, madre, padre o tutor) en el cumplimiento de sus obligaciones de atención y cuidado.",
+   "legal": "R.M. 0864/2019, Aspectos generales, «¿Qué es violencia por omisión o negligencia?»; páginas impresas: 14 y 15; páginas PDF: 16 y 17."
+  },
+  {
+   "id": "937674b7b7b1",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] Respecto de la violencia sexual contra niñas, niños y adolescentes, el Protocolo sostiene que:",
+   "options": [
+    "Es un hecho privado cuando ocurre fuera del ámbito y del horario educativo.",
+    "Es un asunto familiar que la unidad educativa solo atiende a pedido de los padres.",
+    "No es un hecho privado, porque su desarrollo integral es de interés público.",
+    "Solo es delito cuando existe penetración y uso comprobado de la fuerza física."
+   ],
+   "answer": 2,
+   "explanation": "El Protocolo señala que la violencia sexual o su tentativa se considera delito y vulneración de derechos fundamentales, y que no se trata de un hecho privado porque todo lo concerniente al desarrollo integral de la niña, niño o adolescente es de interés público.",
+   "legal": "R.M. 0864/2019, Aspectos generales, «¿Qué es Violencia Sexual?»; páginas impresas: 15 y 16; páginas PDF: 17 y 18."
+  },
+  {
+   "id": "dfba8a8a8f7f",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PRESENTACIÓN] Según la Presentación, ¿cuál es la expresión de la educación de calidad para Vivir Bien que orienta las políticas del Ministerio?",
+   "options": [
+    "El \"Vivir Bien entre nosotros\", una convivencia comunitaria sin asimetrías de poder.",
+    "La \"neutralidad institucional\", que separa la escuela de los problemas de la comunidad.",
+    "La \"disciplina escolar\", entendida como obediencia a las normas de la unidad educativa.",
+    "El \"vivir mejor\", entendido como éxito individual frente a los demás estudiantes."
+   ],
+   "answer": 0,
+   "explanation": "La Presentación expresa que la educación de calidad para Vivir Bien se expresa en el \"Vivir Bien entre nosotros\", una convivencia comunitaria con interculturalidad y sin asimetrías de poder, diferente del \"vivir mejor\" individual.",
+   "legal": "R.M. 0864/2019, Presentación; página impresa: 9; página PDF: 11."
+  },
+  {
+   "id": "ca6800315fa4",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] ¿A quién corresponde coordinar la construcción de los Planes de Convivencia Armónica y Pacífica en la unidad educativa?",
+   "options": [
+    "A la junta escolar de madres y padres de familia.",
+    "Al Director Departamental de Educación del área.",
+    "A la Defensoría de la Niñez y Adolescencia municipal.",
+    "A la Directora o el Director de la unidad educativa."
+   ],
+   "answer": 3,
+   "explanation": "El apartado 2.2, inciso b), asigna a las Directoras o Directores coordinar la construcción de los Planes de Convivencia Armónica y Pacífica; el Director Departamental garantiza que las unidades cuenten con dicho plan (1.2 b).",
+   "legal": "R.M. 0864/2019, Parte II, 2.2, inc. b); Parte I, 1.2, inc. b); páginas impresas: 28 y 24; páginas PDF: 30 y 26."
+  },
+  {
+   "id": "e0df109e9978",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] ¿Quién puede recepcionar en la Dirección de la unidad educativa las denuncias por violencia física y psicológica?",
+   "options": [
+    "Solo la Directora o el Director, en coordinación con la DNA.",
+    "La junta escolar, que luego informa a la Dirección.",
+    "La secretaria o el secretario de la unidad, bajo acta.",
+    "Cualquier maestra o maestro del plantel que esté de turno ese día."
+   ],
+   "answer": 0,
+   "explanation": "El apartado 3.4 dispone que las denuncias por violencia física y psicológica realizadas en la Dirección solo pueden ser recepcionadas por la Directora o el Director, quien en coordinación con la DNA realizará el seguimiento e informará a la Dirección Distrital.",
+   "legal": "R.M. 0864/2019, Parte III, 3.4 Denuncia; página impresa: 40; página PDF: 42."
+  },
+  {
+   "id": "05b667ce4020",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] A conocimiento de una falta grave relativa a violencia física, psicológica o de un delito sexual por parte del personal de la unidad, ¿qué corresponde a la Directora o Director Distrital?",
+   "options": [
+    "Esperar la imputación formal del Ministerio Público antes de cualquier actuación.",
+    "Remitir el caso a la junta escolar para que decida sobre la continuidad del maestro.",
+    "Iniciar el proceso disciplinario hasta su culminación e informar a la Dirección Departamental.",
+    "Suspender de inmediato al denunciado sin goce de haberes hasta la sentencia penal."
+   ],
+   "answer": 2,
+   "explanation": "El apartado 1.3, inciso g), dispone que la Directora o Director Distrital, a conocimiento de una falta grave relativa a violencia física, psicológica o delito sexual, inicie el proceso disciplinario hasta su culminación y ponga en conocimiento de la Dirección Departamental el hecho denunciado.",
+   "legal": "R.M. 0864/2019, Parte I, 1.3, inc. g); página impresa: 26; página PDF: 28."
+  },
+  {
+   "id": "01444a4be3db",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] ¿Qué función asigna el Protocolo a la Directora o Director Departamental de Educación respecto de los Planes de Convivencia?",
+   "options": [
+    "Elaborar y aprobar directamente el Plan de Convivencia de cada unidad educativa del departamento.",
+    "Sancionar a las unidades que no remitan su Plan de Convivencia dentro del primer trimestre del año.",
+    "Garantizar que las unidades cuenten con un Plan que incluya la prevención y la aplicación del Protocolo.",
+    "Delegar la elaboración del Plan a la Defensoría de la Niñez y Adolescencia de cada municipio."
+   ],
+   "answer": 2,
+   "explanation": "El apartado 1.2, inciso b), asigna al Director Departamental garantizar que las Unidades Educativas y Centros de Educación Especial cuenten con un Plan de Convivencia Armónica y Pacífica que incluya la prevención de la violencia en todas sus formas y la aplicación del Protocolo.",
+   "legal": "R.M. 0864/2019, Parte I, 1.2, inc. b); página impresa: 24; página PDF: 26."
+  },
+  {
+   "id": "baeca1d72463",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] Según el Protocolo, ¿qué función cumple el Ministerio de Educación a través de sus Abogados Defensores ante nuevos hechos de violencia sexual?",
+   "options": [
+    "Denunciar en máximo 48 horas y formalizar la querella en las 72 horas siguientes.",
+    "Remitir el caso a la DNA en 48 horas y esperar la imputación del Ministerio Público.",
+    "Denunciar en máximo 24 horas y formalizar la querella en los 5 días siguientes.",
+    "Iniciar el proceso disciplinario en 24 horas y suspender al denunciado en 48 horas."
+   ],
+   "answer": 0,
+   "explanation": "El apartado 1.1, numeral 4, dispone que los Abogados Defensores denuncien nuevos hechos de violencia sexual ante la autoridad competente en un plazo máximo de 48 horas y que, en las siguientes 72 horas, formalicen la denuncia mediante la querella correspondiente.",
+   "legal": "R.M. 0864/2019, Parte I, 1.1, num. 4; página impresa: 24; página PDF: 26."
+  },
+  {
+   "id": "e732ba3fac98",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] Una vez obtenida la imputación formal, ¿qué deben hacer los Abogados Defensores del Ministerio según el Protocolo?",
+   "options": [
+    "Notificar al Tribunal Disciplinario Nacional para que dicte el retiro definitivo de la persona denunciada.",
+    "Remitir copia legalizada a la DDE y a la Unidad de Gestión de Personal del SEP para la suspensión.",
+    "Remitir copia simple a la unidad educativa para que el director suspenda al denunciado.",
+    "Archivar la imputación hasta que exista sentencia condenatoria ejecutoriada en el proceso."
+   ],
+   "answer": 1,
+   "explanation": "El apartado 1.1, numeral 5, dispone que, obtenida la imputación formal, se remita copia legalizada a la Dirección Departamental y a la Unidad de Gestión de Personal del SEP para implementar la medida de seguridad (suspensión de funciones sin goce de haberes) de los D.S. 1302 y 1320.",
+   "legal": "R.M. 0864/2019, Parte I, 1.1, num. 5; página impresa: 24; página PDF: 26."
+  },
+  {
+   "id": "a76fa6575435",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] ¿Qué deber específico asigna el Protocolo a las porteras y porteros?",
+   "options": [
+    "Controlar el ingreso de los estudiantes que llegan tarde y negarles la entrada a la unidad.",
+    "Atender la puerta solo en horas de ingreso, pudiendo delegarla a estudiantes durante el recreo escolar.",
+    "Permanecer en la puerta de ingreso en horas de entrada, recreo y salida, sin delegar la función.",
+    "Recibir visitas personales solo durante el recreo, previo registro en el libro de portería."
+   ],
+   "answer": 2,
+   "explanation": "El apartado 2.3 dispone que porteras y porteros permanezcan al cuidado de la puerta en horas de ingreso, recreo y salida, sin abandonar la función; no pueden recibir visitas de personas ajenas ni delegar sus funciones a terceros. Además, no se debe restringir el ingreso de los estudiantes.",
+   "legal": "R.M. 0864/2019, Parte II, 2.3, incs. f), g), h) y j); páginas impresas: 30 y 31; páginas PDF: 32 y 33."
+  },
+  {
+   "id": "b5bddd3ac9ab",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] ¿Qué función asigna el Protocolo al Ministerio de Educación respecto de la información de casos de violencia?",
+   "options": [
+    "Consolidar anualmente la información remitida por las direcciones para formular políticas.",
+    "Publicar mensualmente la lista de maestros denunciados en la página web oficial del Ministerio.",
+    "Registrar directamente cada caso detectado en las unidades educativas en tiempo real.",
+    "Reservar la información de casos sin uso para la formulación de políticas educativas."
+   ],
+   "answer": 0,
+   "explanation": "El apartado 1.1, inciso c), asigna al Ministerio consolidar anualmente la información de casos remitida por las Direcciones Departamentales y Distritales para formular políticas, planes y programas de prevención.",
+   "legal": "R.M. 0864/2019, Parte I, 1.1, inc. c); página impresa: 23; página PDF: 25."
+  },
+  {
+   "id": "19cce6549703",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Cuando la autoridad o personal de la unidad educativa está implicado en un caso de violencia sexual, ¿quién debe realizar los procedimientos del Protocolo?",
+   "options": [
+    "El propio director, con apoyo de la junta escolar de padres y madres de familia.",
+    "El maestro de mayor antigüedad del plantel, en coordinación con la Defensoría municipal.",
+    "La Defensoría de la Niñez de manera exclusiva, sin intervención educativa.",
+    "La Dirección Distrital, en coordinación con la Dirección Departamental de Educación."
+   ],
+   "answer": 3,
+   "explanation": "El apartado 3.1 dispone que, si la autoridad o cualquier maestra, maestro o personal administrativo está implicado en el caso de violencia sexual, los procedimientos deben ser realizados por la Dirección Distrital en coordinación con la Dirección Departamental correspondiente.",
+   "legal": "R.M. 0864/2019, Parte III, 3.1 Detección; página impresa: 37; página PDF: 39."
+  },
+  {
+   "id": "7fc5ccecf713",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] ¿Qué deber tiene cada unidad educativa respecto del registro de casos?",
+   "options": [
+    "Registrar los casos en el cuaderno pedagógico de cada maestro y archivarlos en la unidad.",
+    "Llevar un registro anual en el Anexo 3 y enviarlo consolidado a la Distrital al fin de gestión.",
+    "Registrar los casos en el RDA del personal y remitirlos de inmediato al Ministerio de Educación.",
+    "Llevar un registro reservado que solo puede ser consultado por la Defensoría de la Niñez."
+   ],
+   "answer": 1,
+   "explanation": "El apartado 3.10 dispone que cada unidad lleve un registro anual de casos en el Anexo 3, enviado a fin de gestión de manera consolidada a la Dirección Distrital y de esta a la Departamental, con propósito principalmente estadístico.",
+   "legal": "R.M. 0864/2019, Parte III, 3.10; página impresa: 43; página PDF: 45."
+  },
+  {
+   "id": "1fd0f4a263bc",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Según el Protocolo, ¿qué implica que la denuncia de violencia \"no es opcional\"?",
+   "options": [
+    "Que la denuncia debe esperar la confirmación de la víctima para evitar denuncias falsas.",
+    "Quien no denuncia vulnera la normativa penal y puede ser acusado de complicidad por omisión.",
+    "Que la denuncia procede solo si existen evidencias físicas visibles del hecho de violencia denunciado.",
+    "Que la denuncia solo es obligatoria para el director, siendo facultativa para los demás."
+   ],
+   "answer": 1,
+   "explanation": "El apartado 3.4 señala que la denuncia no es opcional y que quien no ponga en conocimiento de la autoridad competente una situación de violencia vulnera la normativa penal (Art. 286 del Código Penal y Art. 155 de la Ley N.º 548) y puede ser acusado de complicidad por omisión de denuncia.",
+   "legal": "R.M. 0864/2019, Parte III, 3.4 Denuncia; página impresa: 40; página PDF: 42."
+  },
+  {
+   "id": "57f0cf8c0f74",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] En el proceso de intervención, ¿cómo debe priorizar la Directora o el Director el interés superior de la niña, niño o adolescente?",
+   "options": [
+    "Por encima del interés del personal, de los padres e incluso de la reputación de la institución.",
+    "Solo cuando la DNA lo instruya expresamente mediante una resolución escrita al director.",
+    "Por encima del interés del personal, pero por debajo de la decisión de los padres de familia.",
+    "En equilibrio con la reputación institucional, para no afectar la imagen de la unidad educativa."
+   ],
+   "answer": 0,
+   "explanation": "El apartado 3.2 dispone que la Directora o el Director debe asegurar que todas las acciones garanticen el interés superior de la niña, niño o adolescente, por encima del interés del personal docente y administrativo, de madres, padres y representantes legales, inclusive por encima de la reputación de la institución.",
+   "legal": "R.M. 0864/2019, Parte III, 3.2 Intervención; página impresa: 37; página PDF: 39."
+  },
+  {
+   "id": "e581709b5f7f",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] El Protocolo exige confidencialidad en la intervención. ¿Cuál es la excepción que admite para proporcionar información del caso?",
+   "options": [
+    "Toda la información que pidan los maestros del curso para conocer la situación de su estudiante.",
+    "La información que la junta escolar requiera para evaluar el desempeño del personal denunciado.",
+    "La información específica necesaria para el informe, la denuncia, las direcciones y los familiares no agresores.",
+    "La información que soliciten los medios de comunicación para alertar a la comunidad educativa local."
+   ],
+   "answer": 2,
+   "explanation": "El apartado 3.2 prohíbe divulgar información del caso salvo la información específica y concreta requerida para elaborar el informe, efectuar la denuncia, informar a la Dirección Distrital y Departamental y poner en conocimiento a familiares o representantes legales que no sean los presuntos agresores.",
+   "legal": "R.M. 0864/2019, Parte III, 3.2 Intervención; página impresa: 37; página PDF: 39."
+  },
+  {
+   "id": "c62b8438e80d",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Al elaborar el informe del hecho (Anexo 1), ¿qué prohibición expresa establece el Protocolo para evitar la revictimización?",
+   "options": [
+    "No firmar el informe hasta contar con la declaración de dos testigos.",
+    "No elaborar el informe sin la presencia del abogado de la familia.",
+    "No consignar el nombre del presunto agresor en el informe del caso.",
+    "No realizar bajo ningún concepto preguntas adicionales a la víctima."
+   ],
+   "answer": 3,
+   "explanation": "El apartado 3.2 dispone que el Director elabore el informe con el Anexo 1 con la información disponible, y que bajo ningún concepto se realicen preguntas adicionales a la víctima, garantizando la no revictimización; el informe debe ser objetivo, sin juicios de valor.",
+   "legal": "R.M. 0864/2019, Parte III, 3.2 Intervención; página impresa: 38; página PDF: 40."
+  },
+  {
+   "id": "b2894cad4876",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] En los casos de violencia sexual, ¿quién debe realizar el proceso de contención según el Protocolo?",
+   "options": [
+    "La maestra o el maestro de confianza de la víctima.",
+    "El personal capacitado de la DNA o de los SLIM.",
+    "La Directora o el Director de la unidad educativa.",
+    "El psicólogo contratado por la junta escolar."
+   ],
+   "answer": 1,
+   "explanation": "El apartado 3.3 señala que la contención en violencia sexual requiere mayor capacidad y que el personal capacitado de la Defensoría de la Niñez y Adolescencia (DNA) o de los Servicios Legales Integrales Municipales (SLIM) son las instancias que deben realizarla, por lo que se les debe comunicar de inmediato.",
+   "legal": "R.M. 0864/2019, Parte III, 3.3 Contención, inc. f); páginas impresas: 38 y 39; páginas PDF: 40 y 41."
+  },
+  {
+   "id": "9ff3524c8a31",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Si existe sospecha de violencia intrafamiliar, ¿qué advertencia expresa contiene el Protocolo?",
+   "options": [
+    "Solicitar al estudiante que relate los hechos frente a sus progenitores.",
+    "Esperar a que el estudiante presente indicadores físicos visibles de la violencia.",
+    "Citar a ambos padres a una reunión conjunta para aclarar los hechos.",
+    "No confrontar a las partes y reportar el caso a la DNA de la jurisdicción."
+   ],
+   "answer": 3,
+   "explanation": "El apartado 3.3 advierte: si existe sospecha o se detecta violencia intrafamiliar, no confronte a las partes para no arriesgar a la víctima ni al proceso de investigación, y reporte a la DNA de su jurisdicción.",
+   "legal": "R.M. 0864/2019, Parte III, 3.3 Contención (recuadro «CUIDADO»); página impresa: 39; página PDF: 41."
+  },
+  {
+   "id": "145917c78098",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] ¿Qué establece el Protocolo sobre la continuidad educativa de la víctima que debe ausentarse por su recuperación?",
+   "options": [
+    "La víctima debe repetir el año si sus inasistencias superan el límite fijado por el reglamento.",
+    "La víctima queda exenta de evaluación hasta su retorno definitivo a la unidad educativa.",
+    "La víctima debe ser trasladada obligatoriamente a otra unidad educativa del mismo distrito.",
+    "Los maestros deben realizar adaptaciones curriculares para compensar los días de inasistencia."
+   ],
+   "answer": 3,
+   "explanation": "El apartado 3.6, medida 3, ordena garantizar que la o el estudiante continúe ejerciendo su derecho a la educación y que, si debe ausentarse, los maestros realicen adaptaciones curriculares para compensar los días de inasistencia por la recuperación psicoafectiva o la restitución de derechos.",
+   "legal": "R.M. 0864/2019, Parte III, 3.6, num. 3; página impresa: 41; página PDF: 43."
+  },
+  {
+   "id": "3bbfa803274a",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] ¿Qué es la \"contrarreferencia\" en el marco del Protocolo?",
+   "options": [
+    "La denuncia que la víctima presenta contra la unidad educativa por no haber actuado a tiempo.",
+    "La comunicación de la instancia receptora al director sobre acciones y recomendaciones de protección.",
+    "El informe que el director remite a la Distrital sobre el estado del proceso disciplinario.",
+    "La devolución del caso a la unidad educativa cuando la DNA considera que no existe violencia de ningún tipo."
+   ],
+   "answer": 1,
+   "explanation": "El apartado 3.9 dispone que la instancia receptora (DNA, SLIM, SEPDAVI u otra) comunique al Director las acciones realizadas y las recomendaciones para la protección de la víctima; el Anexo 2 incluye la sección de seguimiento (contrarreferencia).",
+   "legal": "R.M. 0864/2019, Parte III, 3.9; Anexo 2; páginas impresas: 43 y 51; páginas PDF: 45 y 53."
+  },
+  {
+   "id": "3e30b9b2a68a",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 2] La nota de la Ruta 2 señala que, si la violencia sexual detectada en la unidad ocurrió fuera del ámbito educativo, la ruta:",
+   "options": [
+    "Continúa con el proceso disciplinario contra los familiares de la víctima.",
+    "Concluye con la denuncia ante la DNA y la aplicación de las medidas de protección.",
+    "Se remite íntegramente al Tribunal Disciplinario Departamental del magisterio.",
+    "Se suspende hasta que los padres decidan si desean formalizar la denuncia penal respectiva."
+   ],
+   "answer": 1,
+   "explanation": "La nota de la Ruta 2 establece que, si la violencia sexual detectada ocurrió fuera del ámbito educativo, la ruta concluye con la denuncia ante la DNA y se implementan las medidas de protección que determine la autoridad competente.",
+   "legal": "R.M. 0864/2019, Ruta 2 (Nota); página impresa: 47; página PDF: 49."
+  },
+  {
+   "id": "a387097e685a",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Según el apartado 3.8, ¿qué instancia atiende el caso cuando la violencia ejercida no constituye delito?",
+   "options": [
+    "El Ministerio Público de la jurisdicción.",
+    "El Tribunal Disciplinario Departamental.",
+    "La Comisión Técnico Pedagógica de la unidad.",
+    "El Juzgado de la Niñez y Adolescencia."
+   ],
+   "answer": 3,
+   "explanation": "El apartado 3.8 dispone que, si la violencia no constituye delito, será atendida por el Juzgado de la Niñez y Adolescencia; si es delito, por el Ministerio Público y, en su caso, adicionalmente por dicho Juzgado. En ambos casos se usa el Anexo 2.",
+   "legal": "R.M. 0864/2019, Parte III, 3.8; página impresa: 42; página PDF: 44."
+  },
+  {
+   "id": "f7e127068881",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] Distinga la violación de infante, niña, niño o adolescente del estupro, según la tabla de delitos del Protocolo:",
+   "options": [
+    "La primera se refiere a menores de 14 años aun alegando consentimiento; el estupro, a mayores de 14 y menores de 18 por seducción o engaño.",
+    "La primera exige siempre violencia física; el estupro se configura con cualquier persona menor de 16 años que preste consentimiento.",
+    "La primera se refiere a menores de 18 años con uso de fuerza; el estupro, a menores de 14 años mediante intimidación psicológica.",
+    "La primera se refiere a menores de 12 años; el estupro, a mayores de 12 y menores de 16 mediante amenaza o chantaje."
+   ],
+   "answer": 0,
+   "explanation": "La tabla del Protocolo describe la violación de infante, niña, niño o adolescente cuando la víctima es menor de 14 años, así no haya uso de fuerza y se alegue consentimiento; y el estupro como el acceso carnal mediante seducción o engaño con persona mayor de 14 y menor de 18 años.",
+   "legal": "R.M. 0864/2019, Aspectos generales, tabla «Delitos contra la libertad e integridad sexual»; página impresa: 17; página PDF: 19."
+  },
+  {
+   "id": "f222deb4a5c6",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 3] Distinga el rótulo \"Observado Preventivo\" del \"Observado Preventivo – Medida Cautelar\":",
+   "options": [
+    "El primero impide todo trámite y ascenso; el segundo solo impide el ascenso de categoría del maestro.",
+    "El primero no impide trámites salvo ascenso de categoría; el segundo impide todo trámite y ascenso.",
+    "Ambos impiden únicamente el ascenso de categoría mientras dure el proceso administrativo o penal.",
+    "El primero determina el retiro definitivo; el segundo permite todos los trámites del Escalafón."
+   ],
+   "answer": 1,
+   "explanation": "Según la Ruta 3, el Observado Preventivo (auto inicial de proceso administrativo o sentencia del JPNA) no impide trámites de Escalafón o RDA, salvo el ascenso de categoría; el Observado Preventivo – Medida Cautelar (imputación formal en casos de violencia sexual) implica suspensión por mandato legal y no permite ningún trámite ni ascenso.",
+   "legal": "R.M. 0864/2019, Ruta 3; página impresa: 48; página PDF: 50."
+  },
+  {
+   "id": "138994135239",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Distinga la \"detección\" de la \"contención\" en la actuación ante la violencia:",
+   "options": [
+    "La detección la realiza solo la DNA; la contención la realiza solo la Dirección Distrital.",
+    "La detección identifica indicios de violencia; la contención acoge y protege a quien la relata.",
+    "La detección es el registro del caso en el Anexo 3; la contención es la remisión al juzgado.",
+    "La detección es la denuncia ante la DNA; la contención es el inicio del proceso disciplinario respectivo."
+   ],
+   "answer": 1,
+   "explanation": "El apartado 3.1 presenta la detección temprana como identificación de indicios (indicadores físicos, emocionales y conductuales); el apartado 3.3 define la contención como el acto de recibir, acoger, proteger o cuidar a una persona que requiere ayuda en una situación difícil.",
+   "legal": "R.M. 0864/2019, Parte III, 3.1 y 3.3; páginas impresas: 35 y 38; páginas PDF: 37 y 40."
+  },
+  {
+   "id": "55a43645f943",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 3] Distinga los supuestos que generan el rótulo \"Observado definitivo\" de los que generan el \"Observado Preventivo\":",
+   "options": [
+    "Definitivo: fallo de retiro o sentencia condenatoria ejecutoriados; Preventivo: auto inicial o sentencia del JPNA.",
+    "Definitivo: auto inicial de proceso administrativo; Preventivo: sentencia condenatoria ejecutoriada.",
+    "Definitivo: sentencia del JPNA; Preventivo: fallo ejecutoriado del Tribunal Disciplinario Administrativo.",
+    "Definitivo: imputación formal por violencia sexual; Preventivo: denuncia presentada ante la DNA o la FELCV."
+   ],
+   "answer": 0,
+   "explanation": "La Ruta 3 asigna el Observado definitivo al fallo ejecutoriado del Tribunal Disciplinario que determine retiro definitivo o a la sentencia condenatoria ejecutoriada; el Observado Preventivo, al auto inicial de proceso administrativo o a la sentencia del JPNA; y la Medida Cautelar, a la imputación formal en violencia sexual.",
+   "legal": "R.M. 0864/2019, Ruta 3; página impresa: 48; página PDF: 50."
+  },
+  {
+   "id": "3194c9ad71f0",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] Distinga el acoso sexual del abuso sexual según la tabla de delitos del Protocolo:",
+   "options": [
+    "El acoso solo puede ser cometido por servidores públicos; el abuso solo por familiares de la víctima menor de edad.",
+    "El acoso se configura con acceso carnal mediante engaño; el abuso, con exhibición de material pornográfico a menores.",
+    "El acoso se vale de posición jerárquica o poder para exigir conductas sexuales; el abuso implica actos sexuales sin acceso carnal.",
+    "El acoso implica actos sexuales sin acceso carnal; el abuso se vale de una posición jerárquica para obtener beneficios sexuales."
+   ],
+   "answer": 2,
+   "explanation": "La tabla describe el acoso sexual como hostigar, exigir o condicionar beneficios valiéndose de una posición jerárquica o de poder para obtener conductas sexuales no consentidas (agravado para servidores públicos), y el abuso sexual como actos sexuales no constitutivos de penetración o acceso carnal en las circunstancias de los Arts. 308 y 308 bis.",
+   "legal": "R.M. 0864/2019, Aspectos generales, tabla de delitos; páginas impresas: 17 y 18; páginas PDF: 19 y 20."
+  },
+  {
+   "id": "99e77e265b41",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] El Protocolo incluye la \"inasistencia e impuntualidad de las y los maestros en sus horas de clase\" entre los ejemplos de violencia por omisión. ¿Qué lectura crítica se desprende?",
+   "options": [
+    "Amplía la noción de violencia a incumplimientos de cuidado que dejan desatendidos a los estudiantes.",
+    "Limita la violencia por omisión a los actos cometidos por madres y padres en el entorno familiar.",
+    "Considera la impuntualidad docente como un asunto laboral sin ninguna relación con la protección de la NNA.",
+    "Equipara la impuntualidad docente con la violencia física, con las mismas consecuencias penales."
+   ],
+   "answer": 0,
+   "explanation": "Entre los ejemplos de violencia por omisión o negligencia figuran la inasistencia e impuntualidad de los maestros que deja desatendidos a los estudiantes, prolongar recreos sin vigilancia y no hacer seguimiento a estudiantes con necesidades educativas especiales.",
+   "legal": "R.M. 0864/2019, Aspectos generales, «¿Qué es violencia por omisión o negligencia?»; página impresa: 15; página PDF: 17."
+  },
+  {
+   "id": "edc3c64eab15",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] El Protocolo incluye como manifestación de violencia sexual los toqueteos \"consentidos o no por parte de la víctima\" y \"sobre cualquier parte del cuerpo\". ¿Qué implicancia crítica tiene esta precisión?",
+   "options": [
+    "Exige acreditar la falta de consentimiento de la víctima para que el hecho sea considerado violencia.",
+    "Restringe la violencia sexual a los contactos en zonas íntimas como senos, genitales o nalgas.",
+    "Considera violencia sexual solo los contactos reiterados, no los episodios aislados de toqueteo.",
+    "Excluye el consentimiento de la NNA como justificación y no limita la conducta a zonas íntimas."
+   ],
+   "answer": 3,
+   "explanation": "El Protocolo enumera como manifestación los toqueteos, caricias o manoseos hacia una niña, niño o adolescente, consentidos o no por la víctima, sobre cualquier parte del cuerpo y no exclusivamente en zonas íntimas.",
+   "legal": "R.M. 0864/2019, Aspectos generales, «¿Qué es Violencia Sexual?», inc. a); página impresa: 16; página PDF: 18."
+  },
+  {
+   "id": "d3fd1ac05400",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] El Protocolo prohíbe la comunicación individual de maestros con estudiantes por teléfono o redes sociales. ¿Qué fundamento preventivo subyace a esta regla?",
+   "options": [
+    "Reducir espacios de relación no supervisada que faciliten situaciones de riesgo para la NNA.",
+    "Evitar que los estudiantes utilicen dispositivos móviles durante el horario de clases.",
+    "Impedir que los padres conozcan las actividades pedagógicas planificadas por el maestro del curso.",
+    "Garantizar que toda tarea escolar se entregue en forma impresa y nunca digital."
+   ],
+   "answer": 0,
+   "explanation": "Los apartados 2.2, inciso n), y 2.4, inciso h), prohíben la comunicación individual de maestros con estudiantes por teléfono o redes; si es estrictamente necesaria, se canaliza a través de los padres y la Dirección. Junto con la prohibición de permanecer a solas, buscan cerrar espacios de relación no supervisada.",
+   "legal": "R.M. 0864/2019, Parte II, 2.2, inc. n) y 2.4, inc. h); páginas impresas: 29 y 31; páginas PDF: 31 y 33."
+  },
+  {
+   "id": "c781fc61382e",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] \"Muchas personas creen que porque la NNA no habla sobre lo ocurrido ya lo olvidó\". ¿Qué postura crítica asume el Protocolo frente a esa creencia?",
+   "options": [
+    "La acepta: hablar del hecho siempre revictimiza, por lo que debe evitarse cualquier tipo de apoyo.",
+    "La acepta: el silencio de la víctima indica que el hecho no tuvo consecuencias duraderas.",
+    "La matiza: si la víctima no habla, la unidad educativa no debe intervenir en el caso.",
+    "La rechaza: la violencia sexual no se olvida fácilmente y requiere apoyo integral oportuno."
+   ],
+   "answer": 3,
+   "explanation": "El Protocolo afirma que la violencia sexual no es fácil de olvidar, que lo aparentemente olvidado queda \"guardado\" y marca la vida futura de la víctima, y que es importante que reciba apoyo integral para una recuperación psicoafectiva oportuna.",
+   "legal": "R.M. 0864/2019, Aspectos generales, «¿Cuáles son los efectos de la violencia?»; páginas impresas: 19 y 20; páginas PDF: 21 y 22."
+  },
+  {
+   "id": "d7bab7d0341e",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] El Protocolo indica que \"es poco frecuente que niñas, niños y adolescentes manifiesten espontáneamente que son víctimas\". ¿Qué consecuencia práctica deriva para el personal educativo?",
+   "options": [
+    "Debe esperar el relato espontáneo de la víctima antes de iniciar cualquier actuación.",
+    "Debe conocer e identificar oportunamente los indicadores físicos, emocionales y conductuales.",
+    "Debe interrogar periódicamente a todos los estudiantes sobre posibles hechos de violencia sufridos.",
+    "Debe delegar toda la detección en la Defensoría de la Niñez y Adolescencia municipal."
+   ],
+   "answer": 1,
+   "explanation": "El Protocolo señala que existe mayor posibilidad de detectar la violencia mediante la observación de indicadores físicos, emocionales y de comportamiento, por lo que es importante conocerlos e identificarlos oportunamente; el apartado 3.1 los enumera.",
+   "legal": "R.M. 0864/2019, Aspectos generales, «¿Cómo detectar la violencia…?»; Parte III, 3.1; páginas impresas: 21 y 35; páginas PDF: 23 y 37."
+  },
+  {
+   "id": "a02268d22671",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] El Protocolo sostiene que, cuando se refiere un caso a otra instancia, la responsabilidad con la víctima \"NO concluye\". ¿Qué principio de gestión expresa?",
+   "options": [
+    "Corresponsabilidad sostenida: la unidad sigue garantizando protección y respuesta oportuna.",
+    "Delegación total: la instancia receptora asume en exclusiva la protección del estudiante.",
+    "Reserva institucional: la unidad solo vuelve a intervenir si la DNA lo solicita por escrito.",
+    "Desvinculación procesal: la unidad cesa toda intervención al remitir el Anexo 2 firmado."
+   ],
+   "answer": 0,
+   "explanation": "El recuadro del apartado 3.10 recuerda que, al referir un caso, la responsabilidad con la víctima no concluye y que debe continuarse garantizando su protección y una respuesta oportuna, intersectorial e interinstitucional; la corresponsabilidad es principio del Protocolo.",
+   "legal": "R.M. 0864/2019, Parte III, 3.10 (recuadro «RECUERDE»); Aspectos generales, principios; páginas impresas: 43 y 13; páginas PDF: 45 y 15."
+  },
+  {
+   "id": "dbd016d0ee6c",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Según el apartado 3.7, cuando la denuncia no corresponde a una falta grave ni constituye delito, el director amonesta por escrito al maestro \"para que reflexione\". ¿Qué enfoque revela esta medida?",
+   "options": [
+    "Un enfoque sindical que traslada la decisión sobre el maestro a su organización gremial.",
+    "Un enfoque formativo que acompaña la sanción con orientación y alternativas de manejo.",
+    "Un enfoque punitivo que reemplaza el proceso disciplinario por una sanción ejemplar.",
+    "Un enfoque de impunidad que impide a los padres acudir a otras instancias de protección."
+   ],
+   "answer": 1,
+   "explanation": "El apartado 3.7 dispone que el director amoneste por escrito al maestro que ejerció malos tratos para que reflexione, informándole alternativas de manejo, lugares de orientación y apoyo y actividades para reducir el estrés; los padres conservan su derecho de acudir a la DNA o al Juzgado.",
+   "legal": "R.M. 0864/2019, Parte III, 3.7; página impresa: 42; página PDF: 44."
+  },
+  {
+   "id": "fd4d6d98927f",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] El apartado 2.2, inciso o), prohíbe restringir el ingreso de estudiantes que llegan fuera de horario. Desde el enfoque del Protocolo, ¿por qué?",
+   "options": [
+    "Porque dejar al estudiante fuera de la unidad lo expone a riesgos que la escuela debe prevenir.",
+    "Porque el ingreso de estudiantes es competencia exclusiva de la Defensoría de la Niñez municipal.",
+    "Porque la puntualidad no forma parte de las responsabilidades de los estudiantes en el Protocolo.",
+    "Porque la sanción por atraso corresponde únicamente a los padres de familia y no a la unidad."
+   ],
+   "answer": 0,
+   "explanation": "El apartado 2.2, inciso o), ordena supervisar que ningún estudiante quede fuera de la unidad y recuerda que no está permitido restringir el ingreso por llegar fuera de horario; el 2.3, inciso f), reitera que el personal no debe restringir el ingreso durante la jornada.",
+   "legal": "R.M. 0864/2019, Parte II, 2.2, inc. o) y 2.3, inc. f); páginas impresas: 29 y 30; páginas PDF: 31 y 32."
+  },
+  {
+   "id": "27dc94442856",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PRESENTACIÓN] La Presentación afirma que aún persisten hábitos violentos en la comunidad educativa. ¿A qué origen los atribuye?",
+   "options": [
+    "A la falta de cámaras de seguridad en la mayoría de las unidades educativas del país.",
+    "A la ausencia de normas disciplinarias que sancionen a los estudiantes violentos.",
+    "A la insuficiente participación de la Policía Boliviana en las unidades educativas.",
+    "A la herencia de sistemas educativos coloniales y neoliberales marcados por racismo y exclusión."
+   ],
+   "answer": 3,
+   "explanation": "La Presentación señala que persisten hábitos y comportamientos violentos, herencia de los sistemas educativos coloniales y neoliberales marcados por el racismo, la discriminación y la exclusión.",
+   "legal": "R.M. 0864/2019, Presentación; página impresa: 9; página PDF: 11."
+  },
+  {
+   "id": "0860de6cd367",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] El objeto del Protocolo se centra en la violencia ejercida por adultos de la comunidad educativa contra estudiantes. ¿Cómo trata el documento la violencia sexual identificada entre estudiantes?",
+   "options": [
+    "La regula en un capítulo específico con una ruta propia de actuación para cada nivel educativo.",
+    "La excluye de cualquier actuación de la unidad educativa por tratarse de conflictos entre pares.",
+    "Remite a la R.M. 1204/2018 de prevención de violencia entre pares, mediante una nota al pie.",
+    "La equipara a la violencia ejercida por adultos y le aplica la Ruta 3 de proceso administrativo."
+   ],
+   "answer": 2,
+   "explanation": "El objeto del Protocolo se refiere a la violencia de cualquier miembro adulto hacia los estudiantes; la nota 5 del apartado 2.2 indica que, en caso de identificar violencia sexual entre estudiantes, se revise la R.M. 1204/2018 de prevención de violencia entre pares.",
+   "legal": "R.M. 0864/2019, Aspectos generales (objeto); Parte II, 2.2, nota 5; páginas impresas: 13 y 29; páginas PDF: 15 y 31."
+  },
+  {
+   "id": "39385de2c724",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un maestro necesita conversar a solas con una estudiante sobre su rendimiento. ¿Qué procedimiento exige el Protocolo?",
+   "options": [
+    "Conversar con la estudiante en el aula con la puerta abierta, sin necesidad de informar a nadie.",
+    "Informar al director para que convoque a la madre, padre o tutor y esté presente en la reunión.",
+    "Comunicarse con ella por mensajería privada para fijar la reunión fuera del horario escolar.",
+    "Citarla en la sala de maestros al término de la jornada, con conocimiento del regente."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El apartado 2.4, inciso g), dispone que, si el maestro requiere dialogar con un estudiante en particular, debe informar a la Directora o Director para que convoque a la madre, padre o tutor y estar presentes en la reunión; el inciso h) prohíbe permanecer a solas con el estudiante.",
+   "legal": "R.M. 0864/2019, Parte II, 2.4, incs. g) y h); página impresa: 31; página PDF: 33."
+  },
+  {
+   "id": "c10d30d80b1e",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Una maestra propone reunir a un grupo de estudiantes en su domicilio el sábado para terminar una maqueta. ¿Qué establece el Protocolo?",
+   "options": [
+    "Está prohibido solo si la actividad se realiza fuera del calendario escolar aprobado.",
+    "Es permitido siempre que la maestra no permanezca a solas con ninguno de los estudiantes invitados.",
+    "Está prohibido programar actividades en el domicilio del maestro o en la casa del estudiante.",
+    "Es permitido si cuenta con la autorización escrita de la mayoría de los padres del curso."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El apartado 2.4, inciso m), establece que el maestro no podrá programar actividades para ser desarrolladas en sus domicilios u oficinas, ni en la casa del estudiante; el inciso n) dispone que los trabajos que requieran apoyo extra-aula se realicen en lo posible en grupo y con consentimiento de los padres.",
+   "legal": "R.M. 0864/2019, Parte II, 2.4, incs. m) y n); página impresa: 32; página PDF: 34."
+  },
+  {
+   "id": "2f4b69ce6a69",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un maestro crea un grupo de WhatsApp con sus estudiantes sin autorización de la Dirección. ¿Qué dispone el Protocolo sobre los canales de comunicación?",
+   "options": [
+    "Son de libre creación del maestro, siempre que solo se usen para fines pedagógicos del curso.",
+    "Requieren autorización de la Dirección Distrital y de la Defensoría de la Niñez municipal.",
+    "Están prohibidos en todos los casos, aun con autorización de la Dirección de la unidad.",
+    "Deben ser aprobados por la Dirección y representantes de padres, y la Dirección debe formar parte."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El apartado 2.2, inciso m), asigna al director establecer rutas de comunicación aprobadas por la Dirección y representantes de padres, autorizar el uso de redes sociales para actividades pedagógicas y ser parte de ellas (grupos de WhatsApp, Facebook y similares).",
+   "legal": "R.M. 0864/2019, Parte II, 2.2, inc. m); página impresa: 29; página PDF: 31."
+  },
+  {
+   "id": "3afc490ec715",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Un estudiante relata a su maestra que su compañera es víctima de violencia sexual en su casa. ¿Qué debe garantizarse respecto del estudiante que hace el relato?",
+   "options": [
+    "Mantenerlo al margen, porque solo la víctima tiene derecho a protección.",
+    "Citarlo como testigo obligatorio ante la Policía al día siguiente del relato.",
+    "Salvaguardar su integridad, asegurándole orientación y apoyo si lo requiere.",
+    "Exigirle que repita el relato ante los padres de la víctima para confirmarlo."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El apartado 3.2 dispone que, cuando el relato lo realiza una compañera o compañero de la víctima, se debe salvaguardar la integridad de la niña, niño o adolescente testigo, asegurándole orientación y apoyo en caso de requerirlo, así como a la víctima.",
+   "legal": "R.M. 0864/2019, Parte III, 3.2 Intervención; página impresa: 37; página PDF: 39."
+  },
+  {
+   "id": "10ef95860ec4",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Una maestra recibe el relato de un estudiante que dice sufrir violencia física. ¿Cuál es la reacción inicial correcta según el Protocolo?",
+   "options": [
+    "Contrastar el relato con la versión del presunto agresor antes de comunicarlo al director de la unidad.",
+    "Pedir pruebas del relato y advertir que una denuncia falsa tiene consecuencias graves.",
+    "Prometer al estudiante que nadie sabrá lo ocurrido y que el problema se resolverá pronto.",
+    "Agradecer la confianza, no dudar del relato e informar que se tomarán medidas de protección."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El apartado 3.2 dispone que quien escuche el relato debe agradecer la confianza, nunca poner en duda el relato e informar que se tomarán todas las medidas para protegerlo. El apartado 3.3 prohíbe generar promesas o expectativas falsas.",
+   "legal": "R.M. 0864/2019, Parte III, 3.2 y 3.3, inc. g); páginas impresas: 37 y 39; páginas PDF: 39 y 41."
+  },
+  {
+   "id": "52dfc669a778",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Durante la contención, una maestra desea expresar afecto a una estudiante víctima de violencia sexual. ¿Cómo debe hacerlo?",
+   "options": [
+    "Evitando cualquier expresión, para no influir en el relato del hecho.",
+    "Con un abrazo, porque el contacto físico transmite seguridad inmediata.",
+    "Por escrito, mediante una nota entregada a través de sus compañeros.",
+    "Verbalmente, porque el contacto físico puede recordar las situaciones vividas."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El apartado 3.3, inciso g), señala que, si la maestra o maestro desea expresar afecto, debe hacerlo verbalmente, porque el contacto físico puede recordar a la víctima las situaciones desagradables vividas.",
+   "legal": "R.M. 0864/2019, Parte III, 3.3 Contención, inc. g); página impresa: 39; página PDF: 41."
+  },
+  {
+   "id": "0994e603d29d",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] En la contención de una víctima, un maestro comenta: \"ese desgraciado pagará por lo que te hizo\". ¿Qué indicación del Protocolo incumple?",
+   "options": [
+    "No hablar de sentimientos con la víctima durante la contención.",
+    "No realizar la contención sin la presencia de la madre, padre o tutor.",
+    "No expresar juicios de valor sobre la víctima ni sobre la persona agresora.",
+    "No comunicar el hecho a la Dirección antes de 24 horas de conocido."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El apartado 3.3, inciso c), advierte que hablar de sentimientos no significa emitir juicios de valor y cita expresiones como \"ese desgraciado\"; recomienda no expresar juicios de valor sobre la víctima ni sobre el agresor.",
+   "legal": "R.M. 0864/2019, Parte III, 3.3 Contención, inc. c); página impresa: 39; página PDF: 41."
+  },
+  {
+   "id": "df678ae012f4",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] En una comunidad rural no existe DNA, Ministerio Público ni FELCV. ¿Ante quién puede presentarse la denuncia de violencia?",
+   "options": [
+    "Ante la Dirección Distrital, que podrá resolver la denuncia sin derivarla a otra instancia.",
+    "Ante el director de la unidad educativa, que resolverá el caso con la junta escolar del lugar.",
+    "Ante el Tribunal Disciplinario Departamental, que actuará como autoridad de protección.",
+    "Ante las Autoridades Indígena Originario Campesinas, que la remitirán a las instancias competentes."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El apartado 3.4 dispone que, ante la ausencia de DNA, Ministerio Público o FELCV, se puede acudir a las Autoridades Indígena Originario Campesinas, quienes según el caso deberán remitir la denuncia a las instancias competentes; la nota 9 recuerda que la jurisdicción indígena no alcanza los delitos contra la integridad de NNA.",
+   "legal": "R.M. 0864/2019, Parte III, 3.4 Denuncia (y nota 9); página impresa: 40; página PDF: 42."
+  },
+  {
+   "id": "1a69d62d7333",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] La denuncia por violencia física señala como presunto agresor al propio director de la unidad. ¿Ante quién puede presentarse?",
+   "options": [
+    "Ante el propio director, que debe excusarse y delegar el caso al maestro más antiguo.",
+    "Solo ante el Tribunal Disciplinario Nacional, por tratarse de una autoridad educativa.",
+    "Ante la DNA y la Dirección Distrital, por cualquier maestro, padre, madre o estudiante.",
+    "Ante la junta escolar, que resolverá el caso antes de informar a la Dirección Distrital."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El apartado 3.4 dispone que, si el denunciado es el director, la denuncia puede ser presentada por cualquier maestra, maestro, padre, madre o estudiante ante la DNA y la Dirección Distrital Educativa correspondiente.",
+   "legal": "R.M. 0864/2019, Parte III, 3.4 Denuncia; página impresa: 40; página PDF: 42."
+  },
+  {
+   "id": "eef45d9e0b4b",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Un maestro identifica en un estudiante temor a permanecer en la escuela, resistencia a cambiarse para Educación Física y rechazo repentino a un adulto. ¿Qué debe hacer?",
+   "options": [
+    "Observar al estudiante durante un trimestre antes de reportar los indicadores.",
+    "Comunicarlo de inmediato al director, salvo que este sea el presunto agresor.",
+    "Pedir al estudiante una explicación escrita de su cambio de conducta.",
+    "Confrontar al adulto rechazado para conocer su versión de los hechos."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El apartado 3.1 enumera indicadores como temor a permanecer en el establecimiento, resistencia a cambiarse de ropa para Educación Física y rechazo repentino a alguien, y dispone que toda persona que detecte una posible víctima comunique inmediatamente al director, salvo que sea el presunto agresor.",
+   "legal": "R.M. 0864/2019, Parte III, 3.1 Detección; páginas impresas: 35 y 36; páginas PDF: 37 y 38."
+  },
+  {
+   "id": "6beba10a9fe3",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Concluido el análisis, la DNA considera que la conducta de un maestro hacia un estudiante no constituye infracción ni delito. Según la Ruta 1, ¿qué corresponde al director?",
+   "options": [
+    "Emitir una amonestación escrita al maestro para evitar situaciones similares.",
+    "Remitir el caso al Juzgado de la Niñez para que defina la sanción aplicable.",
+    "Archivar el caso sin ninguna medida, por no existir infracción ni delito.",
+    "Iniciar el proceso disciplinario ante el Tribunal Disciplinario Departamental."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: La Ruta 1 señala que, si la DNA considera que la falta no constituye infracción ni delito, el director emitirá una amonestación escrita al maestro para evitar situaciones similares; el apartado 3.7 desarrolla esta orientación.",
+   "legal": "R.M. 0864/2019, Ruta 1; Parte III, 3.7; páginas impresas: 45 y 42; páginas PDF: 47 y 44."
+  },
+  {
+   "id": "030b73777b03",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 3] Un maestro es imputado formalmente por violencia sexual contra una estudiante. ¿Qué medida prevé el Protocolo mientras dure el proceso penal?",
+   "options": [
+    "Traslado a funciones administrativas en otra unidad, con goce íntegro de haberes.",
+    "Suspensión de funciones sin goce de haberes, como medida de seguridad y protección.",
+    "Licencia con goce de haberes hasta que el Tribunal Disciplinario emita su fallo.",
+    "Continuidad en el cargo hasta la sentencia, en aplicación de la presunción de inocencia."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: La Ruta 3 señala que el director, docente o administrativo imputado formalmente por delitos de agresión y violencia sexual contra estudiantes será suspendido de sus funciones sin goce de haberes mientras dure el proceso penal, como medida de seguridad y protección (D.S. 1320); se registra el rótulo Observado Preventivo – Medida Cautelar.",
+   "legal": "R.M. 0864/2019, Ruta 3; Parte I, 1.1, num. 5; páginas impresas: 48 y 24; páginas PDF: 50 y 26."
+  },
+  {
+   "id": "2aff42184224",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Una adolescente víctima de violencia sexual es referida a un servicio externo. ¿Qué instancias señala el Protocolo para su apoyo emocional y tratamiento psicológico sostenido?",
+   "options": [
+    "La junta escolar, que gestiona la atención con recursos de la unidad.",
+    "El Tribunal Disciplinario, que dispone el tratamiento de la víctima.",
+    "La DNA o el CEPAT, junto a su familia, mediante el formato del Anexo 2.",
+    "El gabinete psicológico de la unidad educativa, con informe al director."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El apartado 3.6, medida 5, dispone que en casos de violencia sexual el director refiera a la víctima a un espacio externo: DNA o Centro Especializado de Prevención y Atención Terapéutica (CEPAT), donde junto a su familia reciba apoyo emocional y tratamiento psicológico sostenido, usando el Anexo 2.",
+   "legal": "R.M. 0864/2019, Parte III, 3.6, num. 5; páginas impresas: 41 y 42; páginas PDF: 43 y 44."
+  },
+  {
+   "id": "8a6b64d572e9",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 2] Ante un caso de violencia sexual que produjo embarazo, ¿qué información debe brindarse a la víctima y sus tutores según la nota de la Ruta 2?",
+   "options": [
+    "La SC 0206/2014, que autoriza la interrupción del embarazo en estos casos sin proceso judicial.",
+    "Que solo un juez puede autorizar la interrupción del embarazo previa sentencia condenatoria.",
+    "Que la decisión sobre el embarazo corresponde a la junta escolar junto con la Dirección.",
+    "Que la unidad educativa debe tramitar la licencia de maternidad de la estudiante ante la DNA municipal."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: La nota de la Ruta 2 dispone que en ambos casos se informe a la víctima y sus tutores sobre la Sentencia Constitucional 0206/2014, que autoriza la interrupción del embarazo en casos de violencia sexual en cualquier centro médico sin necesidad de proceso judicial.",
+   "legal": "R.M. 0864/2019, Ruta 2 (Nota); página impresa: 47; página PDF: 49."
+  },
+  {
+   "id": "9dfef23e2675",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] La DNA recomienda la inasistencia temporal de una estudiante víctima. Cuando el profesional competente recomienda su retorno, ¿qué debe garantizar el director?",
+   "options": [
+    "Que la estudiante rinda todas las evaluaciones pendientes en la primera semana de retorno.",
+    "Que la estudiante repita el trimestre en el que se produjo la inasistencia.",
+    "Que se realicen las adecuaciones curriculares necesarias para su reincorporación.",
+    "Que la estudiante sea inscrita en otra unidad para evitar la revictimización."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El apartado 3.9 dispone que, si la instancia receptora recomienda la inasistencia temporal, el director debe garantizar las adecuaciones curriculares en el momento en que el profesional recomiende el retorno de la víctima a clases.",
+   "legal": "R.M. 0864/2019, Parte III, 3.9; página impresa: 43; página PDF: 45."
+  },
+  {
+   "id": "41cfbbc4b567",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] Un maestro prolonga el recreo de su curso sin vigilancia y un estudiante sufre un accidente. ¿Cómo califica el Protocolo esta situación?",
+   "options": [
+    "Como violencia por omisión o negligencia de los adultos responsables del cuidado.",
+    "Como un accidente fortuito sin responsabilidad de los adultos de la unidad educativa.",
+    "Como violencia física intencional atribuible al estudiante que sufrió el accidente.",
+    "Como violencia psicológica, por la angustia generada en los demás estudiantes."
+   ],
+   "answer": 0,
+   "explanation": "Entre los ejemplos de violencia por omisión o negligencia figuran prolongar los periodos de recreo sin vigilancia y descuidar a las niñas, niños y adolescentes en la unidad educativa ocasionando un accidente o enfermedad.",
+   "legal": "R.M. 0864/2019, Aspectos generales, «¿Qué es violencia por omisión o negligencia?»; página impresa: 15; página PDF: 17."
+  },
+  {
+   "id": "8ceed266aa36",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Un lunes a las 8:00, la directora recibe el relato de una estudiante que denuncia violencia física por parte de un maestro. ¿Hasta cuándo debe presentarse la denuncia ante la instancia competente?",
+   "options": [
+    "Hasta la siguiente reunión de la Comisión Técnico Pedagógica de la unidad.",
+    "Hasta el miércoles a las 8:00, dentro de las 48 horas de conocido el hecho.",
+    "Hasta el martes a las 8:00, dentro de las 24 horas de conocido el hecho.",
+    "Hasta el viernes, dentro de los cinco días hábiles de conocido el hecho."
+   ],
+   "answer": 2,
+   "explanation": "El apartado 3.4 establece la obligación de denunciar en un plazo máximo de veinticuatro (24) horas de conocido el hecho ante la DNA o cualquier autoridad competente; la Ruta 3 reitera \"denuncia máx. 24 horas\".",
+   "legal": "R.M. 0864/2019, Parte III, 3.4; Ruta 3; páginas impresas: 40 y 48; páginas PDF: 42 y 50."
+  },
+  {
+   "id": "497f5b0b01ae",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Una maestra conoce un hecho de violencia sexual contra una estudiante ocurrido en la unidad. El presunto agresor no es familiar. ¿Cuál es la secuencia que exige el Protocolo para su actuación inmediata?",
+   "options": [
+    "Comunicar el hecho a los compañeros del curso para prevenir nuevas agresiones.",
+    "Comunicar al familiar de preferencia de la víctima y, de inmediato, al director de la unidad.",
+    "Esperar a que la víctima confirme el hecho por escrito y luego comunicarlo al distrito.",
+    "Interrogar a la víctima sobre los detalles y luego informar a la junta escolar del curso."
+   ],
+   "answer": 1,
+   "explanation": "El apartado 3.2 dispone que cualquier persona que conozca un hecho de violencia sexual debe comunicarlo al familiar de preferencia de la víctima (si no es el agresor), informando las medidas del Sistema Educativo y, de inmediato, comunicar lo sucedido al director.",
+   "legal": "R.M. 0864/2019, Parte III, 3.2 Intervención; página impresa: 38; página PDF: 40."
+  },
+  {
+   "id": "57de4b925013",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] El director recibe la comunicación de un caso de violencia sexual contra una estudiante cometido en la unidad. ¿Qué debe hacer de inmediato según el apartado 3.2 y la Ruta 2?",
+   "options": [
+    "Trasladar a la estudiante a otra unidad educativa y archivar el caso en la dirección.",
+    "Realizar una investigación interna y denunciar solo si se reúnen pruebas suficientes.",
+    "Convocar a la junta escolar para que decida si se presenta la denuncia contra el maestro.",
+    "Denunciar de inmediato a la DNA, solicitar contención y elaborar el informe del Anexo 1."
+   ],
+   "answer": 3,
+   "explanation": "El apartado 3.2 dispone que el director realice la denuncia inmediata a la DNA y elabore el informe con el Anexo 1; la Ruta 2 indica que denuncia inmediatamente a la DNA y solicita apoyo para la contención a la víctima, e informa a la Dirección Distrital.",
+   "legal": "R.M. 0864/2019, Parte III, 3.2; Ruta 2; páginas impresas: 38 y 47; páginas PDF: 40 y 49."
+  },
+  {
+   "id": "dd61c9380149",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Un padre exige al director conocer el nombre de la estudiante víctima de violencia \"para proteger a su hija\". ¿Qué debe hacer el director?",
+   "options": [
+    "Proporcionarlo, porque la comunidad tiene derecho a conocer los riesgos existentes.",
+    "Proporcionarlo solo si el padre firma un compromiso de confidencialidad escrito.",
+    "Negarse, porque debe impedir la divulgación de nombres de víctimas y testigos.",
+    "Remitirlo a la junta escolar, que decide sobre la difusión de la información."
+   ],
+   "answer": 2,
+   "explanation": "El apartado 3.6, medida 1, dispone que el director impida la divulgación de los nombres de los estudiantes víctimas y testigos para evitar su revictimización; el 3.2 exige confidencialidad.",
+   "legal": "R.M. 0864/2019, Parte III, 3.6, num. 1; página impresa: 41; página PDF: 43."
+  },
+  {
+   "id": "6584ddf47c50",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Un hecho de violencia contra una estudiante se hizo público en la unidad. ¿Qué orientación debe dar el director a la comunidad educativa?",
+   "options": [
+    "Apoyar a la víctima con trato habitual, sin interrogarla, sobreprotegerla ni ignorarla.",
+    "Vigilar constantemente a la víctima para registrar cambios en su conducta.",
+    "Evitar todo contacto con la víctima hasta que concluya el proceso correspondiente.",
+    "Organizar una reunión del curso para que la víctima explique lo ocurrido."
+   ],
+   "answer": 0,
+   "explanation": "El apartado 3.6, medida 2, dispone que, si el hecho es de conocimiento público, se oriente a la comunidad para que comprenda y apoye a la víctima sin revictimizarla (evitando interrogarla, sobreprotegerla, observarla constantemente o ignorarla), con comportamiento habitual y buen trato.",
+   "legal": "R.M. 0864/2019, Parte III, 3.6, num. 2; página impresa: 41; página PDF: 43."
+  },
+  {
+   "id": "5f09362367a6",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Una madre decide acudir al Juzgado de la Niñez por el maltrato de un maestro hacia su hijo. Un maestro del plantel propone \"bajar las notas\" a los hermanos del estudiante. ¿Qué establece el Protocolo?",
+   "options": [
+    "Ningún integrante de la comunidad puede asumir represalias contra la víctima, sus hermanos o familiares.",
+    "El maestro puede ajustar las calificaciones si la madre presentó una denuncia sin fundamento.",
+    "La madre debe agotar primero la vía administrativa ante la Dirección antes de acudir al Juzgado.",
+    "Las represalias académicas solo están prohibidas si el Juzgado emite una medida de protección expresa."
+   ],
+   "answer": 0,
+   "explanation": "El apartado 3.7 reconoce el derecho de la madre, padre o tutor de acudir a la DNA o al Juzgado de la Niñez y Adolescencia, y dispone que ningún integrante de la comunidad educativa puede asumir represalias contra la víctima, sus hermanos o familiares.",
+   "legal": "R.M. 0864/2019, Parte III, 3.7; página impresa: 42; página PDF: 44."
+  },
+  {
+   "id": "cb3ae9fff66d",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un administrativo es encontrado a solas con un estudiante en la bodega de la unidad. ¿Qué deber del Protocolo incumplió?",
+   "options": [
+    "Vigilar los ambientes para evitar la presencia de personas extrañas en la unidad.",
+    "No permanecer a solas con un estudiante en un ambiente de la unidad ni citarlo a solas fuera.",
+    "Comunicar al director cualquier infracción al Protocolo cometida por los padres de familia.",
+    "Controlar que las personas autorizadas no ingresen a baños, aulas, pasillos y laboratorios."
+   ],
+   "answer": 1,
+   "explanation": "El apartado 2.3, inciso b), dispone que el personal administrativo y auxiliar no permanezca a solas con un estudiante en un ambiente de la unidad ni lo cite a solas en ambientes externos.",
+   "legal": "R.M. 0864/2019, Parte II, 2.3, inc. b); página impresa: 30; página PDF: 32."
+  },
+  {
+   "id": "705cf9cb233a",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un portero suele recibir en la puerta la visita de amigos y, en ocasiones, deja a un estudiante encargado de la puerta durante el recreo. ¿Qué disposiciones incumple?",
+   "options": [
+    "La obligación de cerrar la puerta durante el recreo para evitar fugas de estudiantes.",
+    "La obligación de registrar en el libro de portería a todos los padres de familia.",
+    "La prohibición de permitir el ingreso de estudiantes que llegan después del horario.",
+    "La prohibición de recibir visitas ajenas y la de delegar sus funciones a terceros."
+   ],
+   "answer": 3,
+   "explanation": "El apartado 2.3 dispone que los porteros no pueden por ningún motivo recibir visitas de personas ajenas (inciso h) ni delegar el cumplimiento de sus funciones a terceros (inciso j), y deben permanecer en la puerta en horas de ingreso, recreo y salida (inciso g).",
+   "legal": "R.M. 0864/2019, Parte II, 2.3, incs. g), h) y j); páginas impresas: 30 y 31; páginas PDF: 32 y 33."
+  },
+  {
+   "id": "5686ed9bbeb3",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Los padres de un curso organizan una actividad de convivencia fuera de la unidad sin coordinar con la Dirección. ¿Qué responsabilidad del Protocolo omitieron?",
+   "options": [
+    "Presentar un seguro de accidentes ante la Dirección Distrital antes de cada actividad escolar.",
+    "Contratar personal de seguridad privada para las actividades realizadas con estudiantes.",
+    "Solicitar autorización a la Defensoría de la Niñez para cualquier actividad con estudiantes.",
+    "Coordinar y programar con el director la realización de las actividades dentro de los predios."
+   ],
+   "answer": 3,
+   "explanation": "El apartado 2.5, inciso c), dispone que madres, padres y tutores coordinen y programen con el director la realización de todas las actividades dentro de los predios de la unidad; el 2.2, inciso g), asigna al director programar y coordinar con ellos que las actividades se realicen dentro de los predios.",
+   "legal": "R.M. 0864/2019, Parte II, 2.5, inc. c) y 2.2, inc. g); páginas impresas: 32 y 28; páginas PDF: 34 y 30."
+  },
+  {
+   "id": "80e3d07a03e7",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Para un festival, el comité organizador propone un concurso de baile con vestuario y coreografías sugestivas para estudiantes de primaria. ¿Qué debe hacer el director?",
+   "options": [
+    "Prohibir la actividad, porque fomenta la hipersexualización de los estudiantes.",
+    "Autorizarla, porque las actividades culturales no están reguladas por el Protocolo.",
+    "Remitir la decisión a la Dirección Distrital, que es la competente en estos casos.",
+    "Autorizarla si los padres firman su consentimiento por escrito para participar."
+   ],
+   "answer": 0,
+   "explanation": "El apartado 2.2, inciso t), asigna al director prohibir cualquier actividad que fomente la hipersexualización de las y los estudiantes.",
+   "legal": "R.M. 0864/2019, Parte II, 2.2, inc. t); página impresa: 30; página PDF: 32."
+  },
+  {
+   "id": "e4f6124ac4bb",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Una estudiante relata violencia intrafamiliar ejercida por su padrastro. El director piensa citar a la madre y al padrastro juntos. ¿Qué debe hacer según el Protocolo?",
+   "options": [
+    "Citar a ambos para aclarar los hechos antes de cualquier denuncia o derivación.",
+    "Esperar a que la madre presente la denuncia, por tratarse de un asunto estrictamente familiar.",
+    "Comunicarse con la DNA para la atención de la víctima, sin confrontar a las partes.",
+    "Informar al padrastro sobre la denuncia para garantizar su derecho a la defensa."
+   ],
+   "answer": 2,
+   "explanation": "El apartado 3.3, inciso e), dispone que, si el relato corresponde a violencia intrafamiliar, el director se comunique con la DNA para la atención de la víctima y la restitución de sus derechos; el recuadro de cuidado advierte no confrontar a las partes.",
+   "legal": "R.M. 0864/2019, Parte III, 3.3, inc. e) y recuadro «CUIDADO»; página impresa: 39; página PDF: 41."
+  },
+  {
+   "id": "a34a13f5e2b3",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 2] Una estudiante llega a la unidad con una emergencia médica tras sufrir violencia sexual. ¿Qué indica la Ruta 2 como primera acción ante la emergencia?",
+   "options": [
+    "Esperar la llegada de la madre para decidir si se la traslada al centro de salud más cercano.",
+    "Realizar primero el informe del Anexo 1 y luego gestionar la atención médica.",
+    "Llamar a la Policía y retener a la estudiante en la dirección hasta su llegada.",
+    "Acompañar a la víctima al centro de salud, o delegar a una maestra de su confianza."
+   ],
+   "answer": 3,
+   "explanation": "La Ruta 2 indica que, en caso de emergencia médica, se debe acompañar a la víctima al centro de salud o delegar a una maestra o maestro de confianza de la víctima.",
+   "legal": "R.M. 0864/2019, Ruta 2; página impresa: 46; página PDF: 48."
+  },
+  {
+   "id": "3488963a8811",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Un maestro ve a un colega golpeando a un estudiante en el patio. Según la Ruta 1, ¿qué debe hacer primero?",
+   "options": [
+    "Detener la agresión y seguir la ruta de actuación prevista.",
+    "Registrar el hecho y comunicarlo en la siguiente reunión.",
+    "Fotografiar la agresión como prueba para la denuncia.",
+    "Retirarse para no interferir en la autoridad del colega docente."
+   ],
+   "answer": 0,
+   "explanation": "La Ruta 1 dispone que, si el agresor es sorprendido en el momento del hecho, se debe detener la agresión en caso de presenciarla y seguir la ruta; el apartado 2.4, inciso j), exige no ser observador pasivo e intervenir inmediatamente.",
+   "legal": "R.M. 0864/2019, Ruta 1; Parte II, 2.4, inc. j); páginas impresas: 44 y 31; páginas PDF: 46 y 33."
+  },
+  {
+   "id": "c0925a2b0330",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Un padre sospecha que su hijo sufre violencia psicológica de un maestro y no sabe qué hacer. Según el Protocolo, ¿qué orientación debe darle la unidad educativa?",
+   "options": [
+    "Orientarlo sobre los pasos para la denuncia, según lo definido con la DNA.",
+    "Pedirle que resuelva el conflicto directamente con el maestro durante la clase.",
+    "Recomendarle no denunciar hasta que existan lesiones físicas visibles.",
+    "Indicarle que la denuncia solo puede presentarla el propio estudiante."
+   ],
+   "answer": 0,
+   "explanation": "El apartado 3.2 dispone comunicar a la madre, padre o tutor (salvo que sean agresores) y a la DNA, y orientarlos sobre los pasos para la denuncia y posteriores, de acuerdo con lo definido con la DNA.",
+   "legal": "R.M. 0864/2019, Parte III, 3.2 Intervención; página impresa: 38; página PDF: 40."
+  },
+  {
+   "id": "2e0e80a2a2ec",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] El director decide derivar a una estudiante víctima a la DNA. ¿Qué formato del Protocolo debe utilizar y qué contiene?",
+   "options": [
+    "El Anexo 3, con el registro anual de casos detectados y las acciones realizadas por la unidad.",
+    "Un acta libre redactada por la Dirección, con la versión de la víctima y del presunto agresor.",
+    "El Anexo 1, con datos del agresor, pruebas del hecho y firma de testigos presenciales del caso.",
+    "El Anexo 2, con datos institucionales, de la persona referida, valoración del caso y contrarreferencia."
+   ],
+   "answer": 3,
+   "explanation": "El Anexo 2 es el formulario de derivación (referencia), que contiene datos institucionales, datos de la persona derivada, valoración del caso (tipo y ámbito de violencia) y la sección de seguimiento (contrarreferencia).",
+   "legal": "R.M. 0864/2019, Anexo 2; página impresa: 51; página PDF: 53."
+  },
+  {
+   "id": "eb0a00b1b193",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 3] Un maestro sancionado con fallo ejecutoriado de retiro definitivo por violencia contra estudiantes solicita el retiro del rótulo de su RDA. ¿Qué establece la Ruta 3?",
+   "options": [
+    "Procede, si transcurrieron tres años desde la ejecutoria del fallo disciplinario de retiro.",
+    "No procede: el retiro solo procede para los rótulos Observado Preventivo y Preventivo–Medida Cautelar.",
+    "Procede, previa resolución de la Dirección Departamental que acredite su rehabilitación.",
+    "No procede, salvo que el maestro obtenga una sentencia absolutoria en la vía penal ordinaria."
+   ],
+   "answer": 1,
+   "explanation": "La Ruta 3 asigna el Observado definitivo al fallo ejecutoriado de retiro definitivo, que determina el retiro definitivo del maestro de la Educación Pública, y aclara que el retiro del rótulo procede solo para el Observado Preventivo y el Observado Preventivo – Medida Cautelar.",
+   "legal": "R.M. 0864/2019, Ruta 3; página impresa: 48; página PDF: 50."
+  },
+  {
+   "id": "d006f9a9fb4e",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 3] La Dirección Distrital recibe el reporte de un caso de violencia por parte del director de una unidad. Según la Ruta 3, ¿en qué plazo debe reportar a la Dirección Departamental?",
+   "options": [
+    "En un máximo de 48 horas.",
+    "En un máximo de 5 días.",
+    "En un máximo de 24 horas.",
+    "En un máximo de 72 horas."
+   ],
+   "answer": 0,
+   "explanation": "La Ruta 3 establece que la Dirección Distrital reporta a la Dirección Departamental en un máximo de 48 horas; la Dirección Departamental instruye el inicio del proceso disciplinario en máximo 24 horas.",
+   "legal": "R.M. 0864/2019, Ruta 3; página impresa: 48; página PDF: 50."
+  },
+  {
+   "id": "9d2dc5f97744",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] El proceso disciplinario contra un maestro por violencia concluye con resolución sancionatoria ejecutoriada. ¿Qué registro prevé el Protocolo?",
+   "options": [
+    "Su publicación en el periódico mural de la unidad.",
+    "Su archivo reservado en la Defensoría municipal.",
+    "Su registro en el RDA del maestro sancionado.",
+    "Su anotación en la libreta escolar de la víctima."
+   ],
+   "answer": 2,
+   "explanation": "El apartado 3.5 dispone que, a quienes cuenten con Resolución Sancionatoria o Sentencia Condenatoria Ejecutoriadas, se registrará en su RDA.",
+   "legal": "R.M. 0864/2019, Parte III, 3.5; página impresa: 41; página PDF: 43."
+  },
+  {
+   "id": "d6c17ff61291",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un grupo de estudiantes de secundaria quiere organizar una campaña contra la violencia y propone vender rifas para financiarla. ¿Qué indica el Protocolo sobre sus acciones de prevención?",
+   "options": [
+    "Las acciones de prevención están reservadas a los maestros y no pueden ser organizadas por los estudiantes.",
+    "Las acciones no deben generar erogación de recursos y se coordinan con centros y gobiernos estudiantiles.",
+    "Las acciones solo pueden realizarse con autorización expresa de la Defensoría de la Niñez municipal.",
+    "Las acciones deben financiarse con aportes de los padres aprobados por la junta escolar de la unidad."
+   ],
+   "answer": 1,
+   "explanation": "El apartado 2.6, inciso k), dispone que los estudiantes desarrollen acciones de prevención desde su perspectiva, movilizando a sus pares, sin generar erogación de recursos económicos y en coordinación con los centros y gobiernos estudiantiles.",
+   "legal": "R.M. 0864/2019, Parte II, 2.6, inc. k); página impresa: 33; página PDF: 35."
+  },
+  {
+   "id": "d22172acafee",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un director constata que la puerta de la unidad queda abierta sin control durante la jornada. ¿Qué decisión debe adoptar conforme al Protocolo?",
+   "options": [
+    "Encargar la vigilancia de la puerta a los estudiantes de los últimos cursos por turnos.",
+    "Cerrar la puerta con llave toda la jornada e impedir el ingreso de los estudiantes que llegan tarde.",
+    "Instruir que la puerta no permanezca abierta sin control del portero ni ingresen personas ajenas.",
+    "Permitir el libre ingreso de padres en horario de clases para que colaboren con la vigilancia."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El apartado 2.2, inciso v), asigna al director instruir que las puertas bajo ningún motivo permanezcan abiertas sin control del portero, ni permitir el ingreso de personas ajenas salvo visitas programadas; el inciso o) prohíbe restringir el ingreso de estudiantes.",
+   "legal": "R.M. 0864/2019, Parte II, 2.2, incs. o) y v); páginas impresas: 29 y 30; páginas PDF: 31 y 32."
+  },
+  {
+   "id": "b67221b20e54",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] El director identifica que los baños y la cancha son espacios poco visibles donde se han reportado conflictos. ¿Qué decisión respalda el Protocolo?",
+   "options": [
+    "Gestionar medidas de seguridad, como supervisión, vigilancia o cámaras, con la comunidad educativa.",
+    "Encomendar la vigilancia exclusiva de esos espacios a la junta escolar de madres y padres.",
+    "Clausurar los baños y la cancha durante toda la jornada escolar hasta nuevo aviso de la Dirección Distrital.",
+    "Limitar el uso de esos espacios a los estudiantes que tengan autorización escrita de sus padres."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El apartado 2.2, inciso f), asigna al director identificar los lugares inseguros y gestionar mejoras de seguridad en coordinación con la comunidad educativa (cámaras, habilitación de espacios, supervisión y vigilancia de espacios poco visibles y de uso común: baños, canchas y otros).",
+   "legal": "R.M. 0864/2019, Parte II, 2.2, inc. f); página impresa: 28; página PDF: 30."
+  },
+  {
+   "id": "b2c1dbe17c64",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un maestro propone realizar tutorías personalizadas a estudiantes por las tardes, fuera del horario escolar, en un aula vacía. ¿Qué debe decidir el director?",
+   "options": [
+    "Autorizarlo, porque el apoyo pedagógico adicional siempre beneficia a los estudiantes.",
+    "Remitir la decisión a la junta escolar, que es la competente en actividades extracurriculares de la unidad.",
+    "Autorizarlo solo si el maestro registra la asistencia de los estudiantes en un libro.",
+    "Garantizar que las actividades se desarrollen en la jornada educativa y en el marco pedagógico."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El apartado 2.2, inciso h), asigna al director garantizar que todas las actividades de los maestros con los estudiantes se desarrollen en horarios de la jornada educativa y en el marco estrictamente pedagógico; el 2.4, inciso h), prohíbe permanecer a solas con un estudiante.",
+   "legal": "R.M. 0864/2019, Parte II, 2.2, inc. h) y 2.4, inc. h); páginas impresas: 29 y 31; páginas PDF: 31 y 33."
+  },
+  {
+   "id": "3c5de18a7193",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Una maestra le pide al director \"no llevar el caso más allá\" para no dañar el prestigio del colegio, ante una denuncia de violencia física de un colega. ¿Qué decisión es conforme al Protocolo?",
+   "options": [
+    "Denunciar solo si los padres de la víctima lo exigen por escrito ante la Dirección.",
+    "Resolver internamente el caso para proteger la imagen de la unidad ante la comunidad.",
+    "Continuar con la denuncia, porque el interés superior prevalece sobre la reputación institucional.",
+    "Suspender la actuación hasta que la junta escolar evalúe el impacto en la institución."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El apartado 3.2 exige garantizar el interés superior de la NNA por encima del interés del personal, de los padres e inclusive de la reputación de la institución; el 3.4 dispone que la denuncia no es opcional.",
+   "legal": "R.M. 0864/2019, Parte III, 3.2 y 3.4; páginas impresas: 37 y 40; páginas PDF: 39 y 42."
+  },
+  {
+   "id": "7c559bf31a3c",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un visitante autorizado por el director para una reunión pide recorrer las aulas y los baños de la unidad. ¿Qué debe controlar el personal administrativo?",
+   "options": [
+    "Que su recorrido se realice solo durante el recreo, cuando las aulas están vacías.",
+    "Que no ingrese a baños, aulas, pasillos, laboratorios u otros espacios educativos.",
+    "Que lo acompañe un estudiante del último curso durante su recorrido por la unidad.",
+    "Que se registre en el libro de visitas y luego pueda recorrer libremente la unidad."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El apartado 2.3, inciso i), dispone que el personal administrativo controle que las personas que ingresan con autorización del director no ingresen a baños, aulas, pasillos, laboratorios, salas de computación u otros espacios educativos.",
+   "legal": "R.M. 0864/2019, Parte II, 2.3, inc. i); página impresa: 31; página PDF: 33."
+  },
+  {
+   "id": "bd58e4751968",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] La DNA informa al director sobre las acciones que realiza en un caso derivado. ¿Qué uso institucional prevé el Protocolo para esta contrarreferencia?",
+   "options": [
+    "Cerrar el caso en la unidad educativa y retirar la derivación del registro anual.",
+    "Iniciar el proceso disciplinario contra la víctima por las inasistencias acumuladas en la gestión.",
+    "Conocer el estado de la denuncia e informar a la DDE para su seguimiento y monitoreo.",
+    "Publicar el resultado del caso para prevenir nuevos hechos en la comunidad."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El apartado 3.9 señala que la contrarreferencia permite a la Dirección de la unidad conocer el estado de situación de la denuncia e informar a la Dirección Departamental para que tome las acciones de seguimiento y monitoreo que correspondan.",
+   "legal": "R.M. 0864/2019, Parte III, 3.9; página impresa: 43; página PDF: 45."
+  },
+  {
+   "id": "1ce77e462aef",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un director debe socializar el Protocolo. ¿A quiénes debe alcanzar esta socialización según el apartado 2.2, inciso x)?",
+   "options": [
+    "Maestros, administrativos, estudiantes, padres, tutores y Juntas Escolares o CEPOs.",
+    "Solo a la junta escolar, que replica la información a los demás padres.",
+    "Solo a los maestros y al personal administrativo de la unidad educativa.",
+    "Solo a los estudiantes de secundaria, por ser los de mayor riesgo."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El apartado 2.2, inciso x), asigna al director socializar el Protocolo con maestras y maestros, personal administrativo, estudiantes, madres, padres de familia y tutores, Juntas Escolares y/o Consejos Educativos de Pueblos Originarios.",
+   "legal": "R.M. 0864/2019, Parte II, 2.2, inc. x); página impresa: 30; página PDF: 32."
+  },
+  {
+   "id": "b168f7729181",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un director debe definir el contenido del Plan de Convivencia Armónica y Pacífica. ¿Qué elemento metodológico exige transversalizar el Protocolo?",
+   "options": [
+    "El enfoque de seguridad, con presencia policial permanente en la unidad educativa.",
+    "El enfoque disciplinario, con un reglamento de faltas idéntico al del magisterio.",
+    "El enfoque punitivo, con sanciones crecientes para cada conflicto que surja entre estudiantes.",
+    "El enfoque restaurativo, principalmente en la metodología de resolución de conflictos."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El apartado 2.1, inciso n), señala que en la elaboración del Plan de Convivencia se construyan acuerdos y consensos entre los actores y se transversalice el enfoque restaurativo, principalmente en la metodología de resolución de conflictos.",
+   "legal": "R.M. 0864/2019, Parte II, 2.1, inc. n); página impresa: 28; página PDF: 30."
+  },
+  {
+   "id": "2e4ca0b95b9e",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Si la violencia es identificada como problemática de la unidad, ¿qué herramienta de gestión promueve el Protocolo para intervenir?",
+   "options": [
+    "Un programa de expulsión de estudiantes con conductas violentas.",
+    "Un Proyecto Sociocomunitario Productivo de prevención de la violencia.",
+    "Un convenio de vigilancia con empresas privadas de seguridad.",
+    "Un reglamento interno de sanciones aprobado por la junta escolar."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El apartado 1.2, inciso f), prevé promover la implementación del Proyecto Sociocomunitario Productivo sobre prevención de la violencia cuando se identifique como problemática; el 2.2, inciso u), asigna al director promover Proyectos Sociocomunitarios Productivos de Prevención de la Violencia.",
+   "legal": "R.M. 0864/2019, Parte I, 1.2, inc. f); Parte II, 2.2, inc. u); páginas impresas: 24 y 30; páginas PDF: 26 y 32."
+  },
+  {
+   "id": "5c7e3fc8c6fe",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Al cierre de gestión, ¿qué uso estratégico prevé el Protocolo para el registro de casos de la unidad (Anexo 3)?",
+   "options": [
+    "Determinar las sanciones que se aplicarán a los maestros denunciados durante la gestión escolar.",
+    "Calificar el desempeño de los estudiantes víctimas en la siguiente gestión escolar.",
+    "Elaborar la lista pública de agresores para conocimiento de la comunidad educativa.",
+    "Orientar las acciones de prevención a partir de su propósito principalmente estadístico."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El apartado 3.10 señala que el propósito del registro es principalmente estadístico y que permitirá orientar a la Dirección de la unidad sobre las acciones de prevención a realizar.",
+   "legal": "R.M. 0864/2019, Parte III, 3.10; página impresa: 43; página PDF: 45."
+  },
+  {
+   "id": "ea1945062b27",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] Para planificar la capacitación de su plantel, ¿qué función del Director Departamental puede aprovechar el director de unidad?",
+   "options": [
+    "Designar a los porteros y regentes de las unidades educativas fiscales del departamento.",
+    "Generar condiciones para la formación continua en derechos humanos, prevención y protocolos.",
+    "Aprobar el Plan de Convivencia de cada unidad sin participación de la comunidad educativa.",
+    "Financiar la contratación de psicólogos permanentes en cada unidad educativa del departamento."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El apartado 1.2, inciso d), asigna al Director Departamental generar las condiciones para que autoridades, maestros, administrativos y padres se formen y actualicen continuamente en derechos humanos, prevención de violencia, protocolos y normativa vigente.",
+   "legal": "R.M. 0864/2019, Parte I, 1.2, inc. d); página impresa: 24; página PDF: 26."
+  },
+  {
+   "id": "680f93577474",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] Un director planifica coordinar con la Defensoría municipal y SEDEGES. ¿Qué función de la Dirección Distrital respalda esa articulación?",
+   "options": [
+    "Mantener la coordinación interinstitucional con instancias de protección para derivar casos.",
+    "Sustituir a la DNA en la atención de casos cuando esta no responde dentro de 24 horas.",
+    "Dirigir directamente las Defensorías de la Niñez y Adolescencia de su jurisdicción territorial.",
+    "Asignar presupuesto a los SEDEGES para la atención de víctimas de las unidades educativas."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El apartado 1.3, inciso d), asigna a la Dirección Distrital mantener la coordinación interinstitucional con las instancias de protección (DNA de los Gobiernos Municipales, SEDEGES/SEDEPOS) para facilitar la derivación y atención de casos, en especial el proceso terapéutico en los CEPAT.",
+   "legal": "R.M. 0864/2019, Parte I, 1.3, inc. d); página impresa: 25; página PDF: 27."
+  },
+  {
+   "id": "b9a3617d3b70",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Al diseñar actividades formativas con estudiantes de primaria, ¿qué contenido preventivo recomienda expresamente el Protocolo?",
+   "options": [
+    "Que los conflictos entre pares deben resolverse siempre con sanciones del director.",
+    "Que deben obedecer sin cuestionar las indicaciones de cualquier persona adulta.",
+    "Que su cuerpo es su territorio privado y nadie puede tocarlo sin su permiso.",
+    "Que los temas de sexualidad se abordan solo a partir de la educación secundaria."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El apartado 2.1, inciso i), recomienda enseñar que su cuerpo es su territorio privado y nadie puede tocarlo sin su permiso, reconocer sus partes íntimas, diferenciar caricias y desarrollar la autoprotección; el inciso j) promueve el pensamiento crítico y no la obediencia a ciegas.",
+   "legal": "R.M. 0864/2019, Parte II, 2.1, incs. i) y j); página impresa: 27; página PDF: 29."
+  },
+  {
+   "id": "7a2a69358f2d",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] ¿Qué estrategia institucional encomienda el Protocolo a la Dirección Departamental para que las acciones de prevención de las unidades tengan impacto?",
+   "options": [
+    "Encargar la prevención a empresas de seguridad privada en todas las unidades educativas del departamento.",
+    "Establecer acuerdos y alianzas con instituciones públicas y privadas especializadas en prevención.",
+    "Centralizar en la DDE todas las actividades de prevención que antes realizaban las unidades.",
+    "Sustituir los Planes de Convivencia por campañas publicitarias en medios de comunicación."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El apartado 1.2, inciso i), asigna a la Dirección Departamental establecer acuerdos y alianzas con instituciones públicas y privadas especializadas en prevención de la violencia, en el marco de los lineamientos del Ministerio, para que las acciones de las unidades tengan impacto.",
+   "legal": "R.M. 0864/2019, Parte I, 1.2, inc. i); página impresa: 25; página PDF: 27."
+  },
+  {
+   "id": "35a85477953e",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] Una unidad educativa privada sostiene que el Protocolo solo rige para unidades fiscales. ¿Qué función de la Dirección Distrital desvirtúa esa posición?",
+   "options": [
+    "Supervisar las privadas únicamente cuando exista una denuncia formal de violencia.",
+    "Supervisar solo unidades fiscales, dejando a las privadas bajo control de sus propietarios.",
+    "Supervisar unidades fiscales, privadas y de convenio para reducir riesgos de violencia.",
+    "Supervisar solo unidades de convenio, por recibir personal financiado por el Estado."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El apartado 1.3, inciso a), asigna a la Dirección Distrital supervisar el funcionamiento de las unidades educativas, centros de educación especial y centros educativos fiscales, privados y de convenio de su jurisdicción para reducir riesgos de violencia; el inciso i) le encarga socializar y hacer cumplir el Protocolo en todas ellas.",
+   "legal": "R.M. 0864/2019, Parte I, 1.3, incs. a) e i); páginas impresas: 25 y 26; páginas PDF: 27 y 28."
+  },
+  {
+   "id": "9a8d650303ed",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] ¿Para qué debe sistematizar la Dirección Departamental la información de los casos de violencia del departamento?",
+   "options": [
+    "Para asignar a cada unidad educativa una calificación de riesgo que condicione su presupuesto.",
+    "Para sustituir el registro anual de casos que cada unidad educativa debe llevar en el Anexo 3.",
+    "Para gestionar con autoridades municipales y departamentales la respuesta a la violencia predominante.",
+    "Para publicar los nombres de los agresores y prevenir su contratación en otras unidades educativas del país."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El apartado 1.2, inciso h), asigna a la Dirección Departamental sistematizar la información de los casos a nivel del departamento para hacer gestión con autoridades municipales y departamentales sobre la prevención, actuación y denuncia del tipo de violencia predominante.",
+   "legal": "R.M. 0864/2019, Parte I, 1.2, inc. h); página impresa: 25; página PDF: 27."
+  },
+  {
+   "id": "7d77c1441699",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] Además de la denuncia, ¿qué aporte preventivo asigna el Protocolo al Ministerio de Educación para mejorar la convivencia escolar?",
+   "options": [
+    "Designar un psicólogo permanente en cada unidad educativa para atender a todas las víctimas de violencia.",
+    "Aprobar directamente el Plan de Convivencia de cada unidad educativa del Sistema Educativo.",
+    "Instalar cámaras de seguridad en todas las unidades educativas fiscales y de convenio del país.",
+    "Proporcionar herramientas para prevenir, detectar, gestionar y resolver pacíficamente los conflictos."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El apartado 1.1, inciso b), asigna al Ministerio proporcionar herramientas para la resolución pacífica de conflictos que permitan prevenir, detectar, gestionar y resolver situaciones de conflicto, mejorar la convivencia y reforzar vínculos afectivos.",
+   "legal": "R.M. 0864/2019, Parte I, 1.1, inc. b); página impresa: 23; página PDF: 25."
+  },
+  {
+   "id": "a9543ee8a886",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un director quiere que los planes y proyectos de prevención de su unidad tengan legitimidad entre los estudiantes. ¿Qué acción respalda el Protocolo?",
+   "options": [
+    "Encargar su diseño exclusivo a la junta escolar y comunicarlo luego a los estudiantes del curso.",
+    "Reservar su elaboración a la Comisión Técnico Pedagógica sin consulta estudiantil.",
+    "Limitar la participación estudiantil a la firma del Plan de Convivencia aprobado.",
+    "Promover la participación de niñas, niños y adolescentes en su definición e implementación."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El apartado 2.2, inciso q), asigna al director promover la participación de niñas, niños y adolescentes en la definición e implementación de planes, programas y proyectos de prevención; el 2.6, incisos e) y g), prevé su participación activa en el Plan de Convivencia y en las actividades de prevención.",
+   "legal": "R.M. 0864/2019, Parte II, 2.2, inc. q) y 2.6, incs. e) y g); páginas impresas: 29 y 33; páginas PDF: 31 y 35."
+  },
+  {
+   "id": "e104c0bd6fe7",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – ANEXOS] Al atender un caso, la unidad identifica además otras vulneraciones de derechos del estudiante y su familia. ¿Qué orientación da el Protocolo?",
+   "options": [
+    "No limitarse al caso específico y apoyar una respuesta integral e interinstitucional.",
+    "Atender solo el hecho denunciado para no exceder las competencias de la unidad.",
+    "Registrar las otras vulneraciones y esperar a que la familia presente nuevas denuncias.",
+    "Remitir todas las vulneraciones al Tribunal Disciplinario para su conocimiento."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: La nota «Para tomar en cuenta» del Anexo 3 señala que, al identificarse otras condiciones de vulnerabilidad o violaciones de derechos, la unidad no debe limitarse al caso específico y debe apoyar con una respuesta integral e interinstitucional a la víctima y su familia.",
+   "legal": "R.M. 0864/2019, Anexo 3 («Para tomar en cuenta»); página impresa: 52; página PDF: 54."
+  },
+  {
+   "id": "ea28276f374c",
+   "q": "[R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] Al orientar la estrategia de prevención de su unidad, ¿hacia qué deben dirigirse las acciones según el apartado «¿Cómo prevenir la violencia en el ámbito educativo?»?",
+   "options": [
+    "A la vigilancia policial de las NNA durante el ingreso y la salida de la unidad educativa.",
+    "Al empoderamiento de las NNA para decidir sus proyectos de vida y desarrollar autocuidado.",
+    "Al control disciplinario estricto de las NNA mediante sanciones graduales y ejemplares.",
+    "A la restricción de las actividades de las NNA fuera del aula para reducir los riesgos."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Protocolo señala que las acciones de prevención deben facilitar que las NNA se empoderen y tomen decisiones sobre sus proyectos de vida de manera consciente, libre y autónoma, adquieran valores, desarrollen habilidades de autocuidado y reconozcan factores de riesgo, con corresponsabilidad de toda la comunidad educativa.",
+   "legal": "R.M. 0864/2019, Aspectos generales, «¿Cómo prevenir la violencia en el ámbito educativo?»; página impresa: 21; página PDF: 23."
+  }
+ ],
+ "rm-0069-2025-general": [
+  {
+   "id": "7366271fca1b",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] ¿Cuál es el objeto del Reglamento para el Fortalecimiento de la Educación Inclusiva – Modalidad Indirecta?",
+   "options": [
+    "Establecer los requisitos para la acreditación de equipos multidisciplinarios que evalúan a estudiantes con necesidades educativas.",
+    "Normar el régimen disciplinario aplicable a maestras y maestros que rechacen la inscripción de estudiantes con discapacidad.",
+    "Regular la creación y el funcionamiento de los Centros de Educación Especial bajo la modalidad directa en todo el territorio nacional del Estado.",
+    "Garantizar el acceso, permanencia y conclusión educativa de estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 1 dispone que el Reglamento tiene por objeto garantizar el acceso, permanencia y conclusión de procesos educativos de estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario matriculados en Educación Regular, Superior y Alternativa, fiscales, de convenio o privadas, mediante lineamientos pedagógicos y la organización de funciones.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo I, Art. 1; página impresa: 5 (de 26); página PDF: 9."
+  },
+  {
+   "id": "25f4fdc9e9b4",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] Según el Art. 4, el \"Diseño Plural para los Aprendizajes\" es:",
+   "options": [
+    "Un currículo específico y separado que se aplica solo a estudiantes con discapacidad intelectual leve o moderada.",
+    "Un conjunto de orientaciones curriculares que generan condiciones inclusivas para todos los estudiantes.",
+    "Un plan individual elaborado por el maestro de apoyo que reemplaza la planificación de aula.",
+    "Un instrumento de evaluación psicométrica que aplican los equipos multidisciplinarios del CEE."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 4, inciso g), define el Diseño Plural para los Aprendizajes como un conjunto de orientaciones para el desarrollo del currículo que genera condiciones educativas en el marco de la Educación Inclusiva y alcanza a todos los estudiantes en la mayor medida posible, sin excluir ayudas técnicas para grupos particulares.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. g); página impresa: 6 (de 26); página PDF: 10."
+  },
+  {
+   "id": "26ca79b0b1d7",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] ¿Qué comprende la \"Comunicación Alternativa y Aumentativa\" según el Reglamento?",
+   "options": [
+    "Las plataformas digitales que la unidad utiliza para comunicarse con las familias de estudiantes.",
+    "Los informes que el maestro de apoyo remite al Centro de Educación Especial cada trimestre.",
+    "Las estrategias orales que el maestro de aula usa para explicar contenidos abstractos.",
+    "Sistemas como la Lengua de Señas Boliviana, el Braille u otras formas que favorecen aprendizajes."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 4, inciso i), define la Comunicación Alternativa y Aumentativa como sistemas lingüísticos y comunicacionales que facilitan el aprendizaje de estudiantes con discapacidad, como la Lengua de Señas Boliviana, el Sistema Braille u otras formas de comunicación.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. i); página impresa: 7 (de 26); página PDF: 11."
+  },
+  {
+   "id": "aadbfb1dd42b",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – RESOLUCIÓN MINISTERIAL] ¿Con qué estructura aprueba la R.M. 0069/2025 el Reglamento para el Fortalecimiento de la Educación Inclusiva?",
+   "options": [
+    "Doce capítulos, setenta y cuatro artículos y una disposición final.",
+    "Ocho capítulos, sesenta y tres artículos y dos disposiciones finales.",
+    "Diez capítulos, sesenta artículos y tres disposiciones transitorias.",
+    "Diez capítulos, sesenta y tres artículos y tres disposiciones finales."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 1 de la R.M. 0069/2025 aprueba el Reglamento en sus diez (10) capítulos, sesenta y tres (63) artículos y tres (3) disposiciones finales.",
+   "legal": "R.M. 0069/2025, Resolución Ministerial, Art. 1; página impresa: 3 (de 3); página PDF: 3."
+  },
+  {
+   "id": "c857249c551f",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] ¿Qué es la \"Trayectoria Educativa\" según el Reglamento?",
+   "options": [
+    "El conjunto de calificaciones trimestrales del estudiante registradas en la libreta escolar electrónica desde el primer año.",
+    "El historial secuencial e individual del recorrido educativo del estudiante, registrado en un Archivo Personal.",
+    "El informe anual del maestro de apoyo sobre los avances de los estudiantes que tiene a su cargo.",
+    "El plan de nivelación elaborado por la Comisión Técnico Pedagógica para estudiantes con rezago."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 4, inciso j), define la Trayectoria Educativa como el historial secuencial, cronológico e individual del recorrido educativo del estudiante con discapacidad, dificultades en el aprendizaje o talento extraordinario, registrado en un Archivo Personal con sus potencialidades, logros, dificultades, intervenciones y recomendaciones.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. j); página impresa: 7 (de 26); página PDF: 11."
+  },
+  {
+   "id": "630635c5a264",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] ¿Cómo concibe el Reglamento la Educación Inclusiva?",
+   "options": [
+    "Como una modalidad transitoria que se aplica hasta que el estudiante supere sus dificultades.",
+    "Como un subsistema autónomo que funciona en paralelo a la Educación Regular y a la Alternativa.",
+    "Como parte indisoluble del Modelo Sociocomunitario Productivo, fundada en el derecho a la educación de todos.",
+    "Como un programa complementario del Modelo Educativo, dirigido solo a estudiantes con discapacidad o con dificultades."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 4, inciso h), define la Educación Inclusiva como parte indisoluble del Modelo Educativo Sociocomunitario Productivo, política educativa del Estado, fundamentada en el ejercicio del derecho a la educación para todas y todos, con respuestas oportunas a necesidades, ritmos, estilos y potencialidades.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. h); páginas impresas: 6 y 7 (de 26); páginas PDF: 10 y 11."
+  },
+  {
+   "id": "d96debdb371a",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] Según la definición del Reglamento, las dificultades en el aprendizaje se caracterizan porque:",
+   "options": [
+    "No son provocadas por factores intelectuales o sensoriales, pero interfieren en el rendimiento.",
+    "Son siempre permanentes y requieren currículo específico en un Centro de Educación Especial.",
+    "Son provocadas por una discapacidad intelectual leve diagnosticada por un equipo profesional.",
+    "Se presentan solo en los primeros años de primaria y desaparecen sin apoyo especializado."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 4, inciso e), define a los estudiantes con dificultades en el aprendizaje como quienes presentan necesidades educativas temporales o permanentes en una o varias áreas, que no están provocadas por factores intelectuales o sensoriales, pero interfieren significativamente en su rendimiento académico.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. e); página impresa: 6 (de 26); página PDF: 10."
+  },
+  {
+   "id": "f1ebaef87777",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] ¿Cómo define el Reglamento a los estudiantes con talento extraordinario?",
+   "options": [
+    "Quienes superan los objetivos holísticos de todas las áreas sin necesidad de apoyo pedagógico.",
+    "Quienes obtienen las calificaciones más altas de su curso durante dos gestiones educativas consecutivas en la misma unidad.",
+    "Quienes presentan mayor desarrollo de capacidades superiores a lo esperado para su edad y año de escolaridad.",
+    "Quienes son seleccionados por la Comisión Técnico Pedagógica para representar a la unidad en eventos."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 4, inciso f), define a los estudiantes con talento extraordinario como aquellos que presentan mayor desarrollo de capacidades superiores y transformadoras, potencialidades, aptitudes y habilidades extraordinarias a lo esperado para su edad y año de escolaridad, en uno o varios campos y dimensiones.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. f); página impresa: 6 (de 26); página PDF: 10."
+  },
+  {
+   "id": "83b4572dea89",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] Los \"Maestros de Apoyo Educativo\" desarrollan procesos de Apoyo Técnico Pedagógico en Modalidad Indirecta. ¿Cuál es su propósito?",
+   "options": [
+    "Atender a los estudiantes en aulas separadas dentro de la unidad educativa regular.",
+    "Sustituir al maestro de aula en el desarrollo curricular de los estudiantes con discapacidad de la unidad.",
+    "Calificar en forma exclusiva el rendimiento de los estudiantes con necesidades educativas.",
+    "Equiparar y fortalecer las condiciones de acceso a los procesos de aula de los estudiantes del ámbito."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 4, inciso b), define a los Maestros de Apoyo Educativo como responsables de orientación, asesoramiento, sensibilización, coordinación, capacitación, interpretación y transcripción, con el propósito de equiparar y fortalecer las condiciones de acceso a los procesos educativos de aula de los estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. b); página impresa: 6 (de 26); página PDF: 10."
+  },
+  {
+   "id": "c43a72740f2e",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] ¿Qué es el Plan de Apoyo Técnico Pedagógico?",
+   "options": [
+    "El plan anual del CEE aprobado por la Dirección Departamental de Educación.",
+    "El informe de evaluación integral emitido por el equipo multidisciplinario.",
+    "El instrumento de planificación del maestro de apoyo, coordinado con el maestro de aula.",
+    "La planificación curricular de aula que elabora el maestro para todo su curso y sus estudiantes."
+   ],
+   "answer": 2,
+   "explanation": "Los Arts. 4, inciso c), y 59 lo definen como el instrumento de planificación de acciones operativas de apoyo educativo que realiza el maestro de apoyo en coordinación con el maestro de aula, y que vincula a los Centros de Educación Especial con las Instituciones Educativas Inclusivas.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. c); Capítulo X, Art. 59; páginas impresas: 6 y 25 (de 26); páginas PDF: 10 y 29."
+  },
+  {
+   "id": "1ed325085869",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] ¿Qué responsabilidad tienen las directoras y directores de instituciones de Educación Regular, Alternativa y Superior respecto de la inscripción?",
+   "options": [
+    "Autorizar la inscripción solo si el CEE emite previamente un informe favorable de ingreso.",
+    "Derivar la inscripción de estos estudiantes al Centro de Educación Especial más cercano.",
+    "Limitar la inscripción a un estudiante con discapacidad por paralelo y año de escolaridad.",
+    "Garantizar la inscripción o matriculación de estos estudiantes según la normativa vigente."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 12, inciso a), asigna a las directoras y directores garantizar la inscripción o matriculación de estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario, de acuerdo a la normativa o convocatoria vigente; el Art. 6, inciso b), señala que la inscripción previa en Educación Especial no es prerrequisito.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 12, inc. a); Capítulo II, Art. 6; páginas impresas: 8 y 10 (de 26); páginas PDF: 12 y 14."
+  },
+  {
+   "id": "33095708b55c",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] ¿Qué deber tienen las directoras y directores de las instituciones educativas frente a los requerimientos del maestro de apoyo?",
+   "options": [
+    "Proporcionarle las planificaciones curriculares e institucionales con fines de apoyo técnico pedagógico.",
+    "Asignarle un curso propio para que desarrolle la planificación curricular de aula del año.",
+    "Aprobar su Plan de Apoyo Técnico Pedagógico como requisito para su ingreso a las aulas.",
+    "Supervisar su asistencia diaria y descontar sus inasistencias del haber que percibe en la unidad."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 12, inciso i), asigna a las directoras y directores proporcionar las planificaciones curriculares e institucionales a los maestros de apoyo cuando las requieran con fines de Apoyo Técnico Pedagógico; el control de los maestros de apoyo corresponde a los directores de los CEE (Art. 56).",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 12, inc. i); Capítulo X, Art. 56; páginas impresas: 10 y 24 (de 26); páginas PDF: 14 y 28."
+  },
+  {
+   "id": "23801608f64d",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Respecto de la infraestructura, ¿qué debe viabilizar la dirección de la institución educativa ante las instancias correspondientes?",
+   "options": [
+    "El financiamiento directo de las obras con aportes de los padres de los estudiantes del ámbito.",
+    "La reubicación de los estudiantes con discapacidad en Centros de Educación Especial cercanos.",
+    "La construcción de aulas separadas para estudiantes con discapacidad dentro de la misma unidad educativa de destino.",
+    "El diseño o remodelación bajo el enfoque de \"Usos Universales\" para eliminar barreras arquitectónicas."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 12, inciso f), asigna a las directoras y directores viabilizar ante las instancias correspondientes el diseño o remodelación de la infraestructura bajo el enfoque de \"Usos Universales\" para eliminar todas las barreras arquitectónicas.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 12, inc. f); página impresa: 10 (de 26); página PDF: 14."
+  },
+  {
+   "id": "3ac99d599ed5",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] ¿Qué responsabilidad asigna el Reglamento a las directoras y directores de Centros de Educación Especial en la modalidad indirecta?",
+   "options": [
+    "Organizar y planificar cada gestión las acciones técnico pedagógicas de los maestros de apoyo.",
+    "Calificar el rendimiento de los estudiantes inscritos en las unidades de Educación Regular.",
+    "Elaborar la planificación curricular de aula de las unidades educativas inclusivas.",
+    "Inscribir a todos los estudiantes con discapacidad del distrito en la modalidad directa."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 16 asigna a los directores de CEE organizar y planificar las acciones técnico pedagógicas de los maestros de la Modalidad Indirecta en cada gestión, coordinar con los directores de instituciones inclusivas, garantizar apoyos oportunos y realizar el seguimiento a los maestros de apoyo.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 16; página impresa: 11 (de 26); página PDF: 15."
+  },
+  {
+   "id": "ad0c5fe369fe",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] ¿Qué instancias del nivel departamental son responsables de planificar, organizar, monitorear y evaluar las disposiciones del Reglamento?",
+   "options": [
+    "Las Direcciones Distritales, a través de los técnicos de Educación Especial asignados a cada núcleo de su distrito.",
+    "Los Centros de Educación Especial acreditados, a través de sus equipos multidisciplinarios.",
+    "La Dirección General de Educación Especial, a través de sus profesionales en cada departamento.",
+    "Las Direcciones Departamentales, a través de las Subdirecciones de Alternativa y Especial, Regular y Superior."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 10, inciso a), asigna a las Direcciones Departamentales, a través de las Subdirecciones de Educación Alternativa y Especial, de Educación Regular y de Educación Superior, la responsabilidad de planificar, organizar, monitorear y evaluar las disposiciones del Reglamento.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 10, inc. a); página impresa: 9 (de 26); página PDF: 13."
+  },
+  {
+   "id": "1966047536cf",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] ¿Qué responsabilidades asigna el Reglamento a las Direcciones Distritales Educativas?",
+   "options": [
+    "Realizar la evaluación integral multidisciplinaria de los estudiantes con sospecha de discapacidad.",
+    "Dar seguimiento al apoyo educativo, promover el acceso y ampliar servicios para estos estudiantes.",
+    "Designar a los maestros de apoyo de cada unidad y controlar diariamente su asistencia laboral.",
+    "Aprobar las adaptaciones curriculares de cada maestro de aula antes de su aplicación en clase."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 11 asigna a las Direcciones Distritales desarrollar procesos de seguimiento para garantizar el apoyo educativo, promover el acceso a la educación de estudiantes con discapacidad y desarrollar acciones para ampliar los servicios educativos de esta población.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 11; páginas impresas: 9 y 10 (de 26); páginas PDF: 13 y 14."
+  },
+  {
+   "id": "ed3a5ec74ead",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] ¿Cuándo debe presentar el maestro de apoyo sus fichas de seguimiento o control?",
+   "options": [
+    "Al cierre de la gestión educativa anual.",
+    "Al concluir cada semestre académico.",
+    "El primer día hábil de cada trimestre.",
+    "El último día hábil de cada mes."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 17, inciso g), dispone que los maestros de apoyo presenten fichas de seguimiento o de control el último día hábil de cada mes, para fines de asistencia, reportes, informes semestrales o técnicos y otros requeridos.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 17, inc. g); página impresa: 12 (de 26); página PDF: 16."
+  },
+  {
+   "id": "f55c6bd974c6",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] ¿De quién dependen los maestros de apoyo de la Modalidad Indirecta que trabajan en Educación Regular y Alternativa?",
+   "options": [
+    "De la Comisión Técnico Pedagógica de cada unidad educativa inclusiva.",
+    "Directamente del Centro de Educación Especial, bajo control de su director.",
+    "Del director de la unidad educativa donde realizan el apoyo pedagógico.",
+    "De la Dirección Distrital, bajo control del técnico de Educación Especial."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 56, inciso a), dispone que, en el marco de la Ley N.º 070 y del D.S. 813, los maestros de apoyo que actúan en Educación Regular y Alternativa dependen directamente del Centro de Educación Especial y su control está a cargo de sus directores.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Art. 56, inc. a); página impresa: 24 (de 26); página PDF: 28."
+  },
+  {
+   "id": "3e7527342d28",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IX] Cuando hay estudiantes con discapacidad físico-motora inscritos en un paralelo, ¿qué deben prever las direcciones de las unidades?",
+   "options": [
+    "Ubicar el paralelo en la planta alta para reducir el tránsito de otros estudiantes.",
+    "Trasladar al estudiante al paralelo con menor número de estudiantes de la unidad.",
+    "Reducir la carga horaria del paralelo para facilitar la movilidad de los estudiantes.",
+    "Ubicar el paralelo cerca de la puerta principal y de los baños de uso estudiantil."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 53 dispone que, en paralelos con estudiantes con discapacidad físico-motora, las direcciones prevean que su ubicación sea próxima a la puerta principal de entrada o salida y a los baños destinados al uso de los estudiantes.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo IX, Art. 53; página impresa: 23 (de 26); página PDF: 27."
+  },
+  {
+   "id": "c36474a7d554",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] ¿Bajo qué condiciones deben coordinar las directoras y directores la atención educativa de estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario?",
+   "options": [
+    "Bajo condiciones definidas exclusivamente por el maestro de apoyo enviado por el CEE de la zona.",
+    "En horarios diferenciados del resto del curso, para no interferir en el avance de sus compañeros del curso.",
+    "Bajo las mismas condiciones pedagógicas que sus pares, según los principios de la Educación Inclusiva.",
+    "En aulas especiales de la unidad, con un currículo distinto aprobado por la Dirección Distrital."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 12, inciso b), asigna a las directoras y directores coordinar los procesos de atención educativa de estos estudiantes bajo las mismas condiciones pedagógicas que sus pares, en el marco de los principios de la Educación Inclusiva.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 12, inc. b); página impresa: 10 (de 26); página PDF: 14."
+  },
+  {
+   "id": "9fd0b2958d2a",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] Según el Art. 6, inciso b), ¿cómo pueden inscribirse los estudiantes con discapacidad, dificultades en el aprendizaje o talento extraordinario?",
+   "options": [
+    "Solo en Educación Regular, quedando el CEE limitado a brindar asesoramiento externo sin inscripción.",
+    "Simultáneamente en Educación Especial y en Regular o Alternativa, con el mismo RUDE, sin requisito previo.",
+    "Primero en Educación Especial y luego, previa evaluación, en Regular o Alternativa con un RUDE nuevo de registro.",
+    "Simultáneamente en ambos ámbitos, pero con códigos RUDE distintos para cada subsistema educativo."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 6, inciso b), permite la inscripción simultánea en el Ámbito de Educación Especial y en instituciones de Educación Alternativa o Regular, con el mismo Código de Registro Único de Estudiante, sin que la inscripción previa en Educación Especial sea prerrequisito.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo II, Art. 6, inc. b); página impresa: 8 (de 26); página PDF: 12."
+  },
+  {
+   "id": "fc041f858aed",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] En Educación Inicial y Primaria, los estudiantes con discapacidad intelectual pueden inscribirse con una diferencia de edad respecto de sus pares. ¿En qué condiciones?",
+   "options": [
+    "Hasta 36 meses, con autorización de la Comisión Técnico Pedagógica de la unidad educativa.",
+    "Hasta 24 meses, con la sola solicitud escrita de la madre, padre o tutor del estudiante.",
+    "Hasta 24 meses, previa presentación del informe multidisciplinario que confirme esa posibilidad.",
+    "Sin límite de edad, siempre que el estudiante esté inscrito en un Centro de Educación Especial."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 6, inciso d), permite a los estudiantes con discapacidad intelectual inscribirse en Educación Inicial y Primaria con una diferencia de hasta 24 meses respecto de la edad de sus pares, previa presentación del informe de evaluación multidisciplinaria que confirme esa posibilidad.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo II, Art. 6, inc. d); página impresa: 8 (de 26); página PDF: 12."
+  },
+  {
+   "id": "d8a34ad323b4",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] Cuando un estudiante con discapacidad se traslada a otra institución, ¿qué obligación establece el Reglamento?",
+   "options": [
+    "La unidad de origen debe remitir el archivo de trayectoria educativa a la institución de destino.",
+    "La Dirección Distrital debe autorizar el traslado previo informe del maestro de apoyo asignado.",
+    "La institución de destino debe solicitar al CEE un nuevo Plan de Apoyo Técnico Pedagógico.",
+    "La familia debe tramitar una nueva evaluación integral antes de la inscripción en la nueva unidad."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 7, inciso a), dispone que, en traslados de estudiantes con discapacidad, dificultades en el aprendizaje o talento extraordinario, la unidad de origen está obligada a remitir el archivo de trayectoria educativa a la institución fiscal, de convenio o privada de destino.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo II, Art. 7, inc. a); página impresa: 8 (de 26); página PDF: 12."
+  },
+  {
+   "id": "f20658b36bc2",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] ¿Qué busca evitar el Reglamento en el proceso de interpretación de la LSB a la lengua oral y viceversa?",
+   "options": [
+    "La participación del maestro de aula en la planificación de los contenidos interpretados.",
+    "El uso de señas provisionales para conceptos nuevos que aún no existen en la LSB vigente.",
+    "La interpretación en actos y eventos institucionales ajenos al desarrollo curricular del aula.",
+    "La traducción literal o español señado, y la incoherencia, infra o sobreproducción del mensaje."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 22 fija como objetivo eliminar las barreras de comunicación y transmitir información de forma accesible, clara, precisa y confiable, evitando la \"traducción literal\" o español señado, así como la incoherencia en el mensaje, la infra y la sobreproducción.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo IV, Art. 22; página impresa: 13 (de 26); página PDF: 17."
+  },
+  {
+   "id": "a2ade82dcb62",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VII] ¿Cómo se organiza la cobertura del apoyo a estudiantes con dificultades en el aprendizaje en Primaria?",
+   "options": [
+    "Con énfasis reeducativo en 1.º, 2.º y 3.º, y preventivo en 4.º, 5.º y 6.º de escolaridad.",
+    "Con énfasis preventivo en Inicial y reeducativo en todos los años de Primaria y Secundaria.",
+    "Con énfasis preventivo solo en 1.º y reeducativo a partir de 2.º año de escolaridad primaria.",
+    "Con énfasis preventivo en 1.º, 2.º y 3.º, y reeducativo en 4.º, 5.º y 6.º de escolaridad."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 41 dispone que la cobertura alcance a unidades fiscales, de convenio o privadas del nivel Primario con énfasis en 1.ro, 2.do y 3.ro en sentido preventivo y en 4.to, 5.to y 6.to en sentido reeducativo.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VII, Art. 41; página impresa: 20 (de 26); página PDF: 24."
+  },
+  {
+   "id": "9a63b15255d7",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] ¿A qué estudiantes con Trastorno del Espectro Autista se dirige el objetivo del proceso de apoyo educativo del Art. 37?",
+   "options": [
+    "A estudiantes con TEA con discapacidad intelectual moderada o grave diagnosticada.",
+    "A estudiantes con TEA sin compromiso intelectual ni trastornos funcionales del lenguaje.",
+    "Solo a estudiantes con TEA inscritos en el nivel de Educación Inicial en Familia.",
+    "A todos los estudiantes con TEA, cualquiera sea su nivel de compromiso intelectual diagnosticado."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 37 fija como objetivo garantizar el acceso, permanencia y conclusión de estudiantes con Trastornos del Espectro Autista sin compromiso intelectual ni trastornos funcionales del lenguaje matriculados en Educación Regular, Alternativa y Superior.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VI, Sección II, Art. 37; página impresa: 18 (de 26); página PDF: 22."
+  },
+  {
+   "id": "7988924d0f1b",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] ¿En qué situaciones puede el apoyo de la Modalidad Indirecta extenderse a un radio intermunicipal o interdistrital?",
+   "options": [
+    "Sin CEE en el municipio, sin acreditación en el área requerida o por proximidad en zonas de difícil acceso.",
+    "Cuando la Dirección Departamental disponga una redistribución de maestros por razones presupuestarias del área.",
+    "Cuando el maestro de apoyo lo solicite por razones de domicilio o de comodidad en su desplazamiento.",
+    "Cuando la unidad educativa cuente con más de veinte estudiantes con discapacidad en un mismo nivel."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 57 permite extender el apoyo en radio intermunicipal o interdistrital ante la inexistencia de CEE en el municipio o distrito, la falta de acreditación en el área de atención requerida o la proximidad por distancia que favorezca al estudiante en lugares dispersos o de difícil acceso.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Art. 57; páginas impresas: 24 y 25 (de 26); páginas PDF: 28 y 29."
+  },
+  {
+   "id": "4f749ddab7a2",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] La cobertura mediante maestros de apoyo o itinerantes en lugares de difícil acceso, ¿de qué depende según el Art. 58, parágrafo II?",
+   "options": [
+    "De la aprobación del Viceministerio, que define la ruta anual de los maestros itinerantes.",
+    "De las posibilidades del CEE y del maestro, y de la necesidad del estudiante, con informe técnico previo.",
+    "De la solicitud de la Dirección Distrital, sin que sea necesario un informe técnico pedagógico de la zona.",
+    "Del financiamiento que aporten las familias para el traslado del maestro de apoyo itinerante."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 58, parágrafo II, dispone que esa cobertura depende de las posibilidades del Centro de Educación Especial, del maestro de apoyo o itinerante y de la necesidad del estudiante con discapacidad, previo informe técnico pedagógico que la justifique.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Art. 58; página impresa: 25 (de 26); página PDF: 29."
+  },
+  {
+   "id": "a13592e30b24",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – DISPOSICIONES FINALES] Según la Disposición Final Segunda, ¿qué efecto tienen los artículos del Reglamento sobre el Escalafón docente?",
+   "options": [
+    "No lo modifican, en el marco de los artículos 36 y 67 de la Ley N.º 070.",
+    "Crean una categoría especial para los maestros de apoyo de la modalidad.",
+    "Lo modifican solo respecto de la carga horaria de los maestros de apoyo.",
+    "Reconocen puntos adicionales a los maestros que trabajan con inclusión."
+   ],
+   "answer": 0,
+   "explanation": "La Disposición Final Segunda establece que, en el marco de los Arts. 36 y 67 de la Ley N.º 070, los artículos del Reglamento no modifican el Escalafón docente.",
+   "legal": "R.M. 0069/2025, Reglamento, Disposición Final Segunda; página impresa: 26 (de 26); página PDF: 30."
+  },
+  {
+   "id": "0bb1e9827f45",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] Según el Art. 7, inciso b), ¿qué valor tienen las recomendaciones del Informe de Evaluación Integral para estudiantes con discapacidad intelectual?",
+   "options": [
+    "Son referenciales y pueden ser modificadas por la familia en cada gestión escolar.",
+    "Son decisivas para proyectar el recorrido educativo más pertinente del estudiante.",
+    "Son obligatorias solo para el maestro de apoyo, no así para la unidad educativa.",
+    "Solo se consideran al momento de egresar del nivel de Educación Secundaria."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 7, inciso b), dispone que los estudiantes con discapacidad intelectual deben contar con el Informe de Evaluación Integral de los Equipos Multidisciplinarios, cuyas recomendaciones son decisivas para proyectar el recorrido educativo más pertinente; el Art. 35, inciso d), obliga al maestro de apoyo a cumplirlas.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo II, Art. 7, inc. b); Capítulo VI, Art. 35; páginas impresas: 9, 17 y 18 (de 26); páginas PDF: 13, 21 y 22."
+  },
+  {
+   "id": "3dfad5847235",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Distinga la Planificación Curricular de Aula del Plan de Apoyo Técnico Pedagógico:",
+   "options": [
+    "La primera la aprueba el CEE; el segundo lo aprueba la Dirección Distrital de cada jurisdicción.",
+    "Ambas son elaboradas por el maestro de apoyo y validadas por la Comisión Técnico Pedagógica.",
+    "La primera la elabora el maestro de aula con el Diseño Plural; el segundo, el maestro de apoyo coordinado.",
+    "La primera la elabora el maestro de apoyo; el segundo, el director de la unidad educativa inclusiva de la zona."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 60 dispone que la Planificación Curricular de Aula es elaborada por el maestro de aula en el marco del Diseño Plural para los Aprendizajes; el Art. 59 define el Plan de Apoyo Técnico Pedagógico como instrumento del maestro de apoyo en coordinación con el maestro de aula.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Arts. 59 y 60; página impresa: 25 (de 26); página PDF: 29."
+  },
+  {
+   "id": "0064fc5756de",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Distinga de quién dependen los maestros de apoyo según el ámbito en que trabajan:",
+   "options": [
+    "Todos dependen del CEE más cercano, cualquiera sea el subsistema o la dependencia institucional.",
+    "Regular: del CEE; Alternativa y Superior: de la Dirección Departamental; privadas: del Ministerio de Educación.",
+    "Regular y Alternativa: de la unidad; Superior: del CEE; privadas: de la Dirección Distrital.",
+    "Regular y Alternativa: del CEE; Superior: planilla de la institución; privadas: la propia institución."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 56 dispone que en Regular y Alternativa dependen del CEE; en Educación Superior están bajo el techo presupuestario de la planilla de las Instituciones de Educación Superior; en instituciones privadas están a cargo y bajo responsabilidad de la institución privada.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Art. 56; página impresa: 24 (de 26); página PDF: 28."
+  },
+  {
+   "id": "3e27a271c473",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] Distinga el perfil exigido al maestro de apoyo en discapacidad intelectual del exigido en TEA:",
+   "options": [
+    "DI: formación post gradual en el área; TEA: maestro o profesional con formación especializada.",
+    "DI: dominio de LSB y Braille; TEA: formación inicial docente sin especialización adicional.",
+    "Ambos exigen únicamente formación inicial docente y conocimiento del currículo regular.",
+    "DI: título de psicólogo clínico; TEA: experiencia mínima de cinco años en educación especial."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 32 exige al maestro de apoyo en discapacidad intelectual formación post gradual inherente al área y formación continua; el Art. 36 permite que el apoyo en TEA sea desarrollado por un maestro, maestra o profesional con formación especializada inherente al área y formación continua.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VI, Arts. 32 y 36; páginas impresas: 17 y 18 (de 26); páginas PDF: 21 y 22."
+  },
+  {
+   "id": "366def9c776e",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VIII] En el área de talento extraordinario, distinga la \"detección\" de la \"identificación\":",
+   "options": [
+    "La detección corresponde al equipo multidisciplinario; la identificación, a los maestros de aula del curso.",
+    "Ambas corresponden al profesional de apoyo, con visto bueno de la Comisión Técnico Pedagógica.",
+    "La detección corresponde a las familias; la identificación, a la Dirección Distrital Educativa.",
+    "La detección corresponde a los maestros de aula; la identificación, a los equipos multidisciplinarios."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 48 responsabiliza a los maestros de aula de la detección de señales de alerta (con primera evaluación por la Comisión Técnica Pedagógica); el Art. 49 asigna la identificación a los Equipos Multidisciplinarios mediante evaluación psicológica o psicopedagógica integral con pruebas estandarizadas.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VIII, Arts. 48 y 49; página impresa: 22 (de 26); página PDF: 26."
+  },
+  {
+   "id": "1af5e5a9dc94",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Distinga las responsabilidades de los estudiantes que requieren apoyo educativo de las de quienes no lo requieren:",
+   "options": [
+    "Los primeros están exentos de tareas; los segundos asumen tareas de tutoría académica obligatoria del curso.",
+    "Ambos cumplen las mismas tareas sin adecuaciones, porque la inclusión exige trato idéntico.",
+    "Los primeros cumplen tareas reducidas; los segundos evalúan el avance de sus compañeros.",
+    "Los primeros cumplen las tareas de su grado con adecuaciones; los segundos previenen violencia y acoso."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 14 dispone que los estudiantes con necesidades o potencialidades que requieren apoyo cumplan las tareas propias de su grado con las adecuaciones necesarias; los que no las presentan promoverán acciones que prevengan violencia, acoso o bullying, y todos practicarán valores de respeto.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 14; página impresa: 11 (de 26); página PDF: 15."
+  },
+  {
+   "id": "a9513cac7c88",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – RESOLUCIÓN MINISTERIAL] Según los considerandos de la R.M. 0069/2025, ¿a qué observaciones busca responder el Reglamento?",
+   "options": [
+    "A las de los Gobiernos Municipales sobre la dotación de mobiliario para estudiantes con discapacidad.",
+    "A las del Comité de la ONU sobre Discapacidad y al Informe Defensorial sobre exclusión y segregación.",
+    "A las de la Confederación de maestros sobre la carga horaria de los maestros de apoyo educativo.",
+    "A las de la Contraloría General sobre el uso de recursos asignados a los Centros de Educación Especial."
+   ],
+   "answer": 1,
+   "explanation": "El Considerando II señala que los informes técnicos recomendaron conformar un equipo para delinear estrategias de Educación Inclusiva, tanto para responder a las observaciones del Comité sobre los Derechos de las Personas con Discapacidad de las Naciones Unidas como al Informe Defensorial \"La Exclusión y Segregación de las Personas con Discapacidad en el Sistema Educativo Plurinacional\".",
+   "legal": "R.M. 0069/2025, Resolución Ministerial, Considerando II; página impresa: 2 (de 3); página PDF: 2."
+  },
+  {
+   "id": "ec299b9acd52",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IX] El Art. 52 dispone que las instituciones deben \"solicitar\" a los Gobiernos Subnacionales la aplicación del Reglamento de Accesibilidad. ¿Qué rasgo del modelo revela esta formulación?",
+   "options": [
+    "Que el Ministerio de Educación asume directamente la construcción de rampas y adecuaciones.",
+    "Que cada unidad educativa debe financiar y ejecutar directamente las obras de accesibilidad del sistema.",
+    "Que la accesibilidad es una recomendación sin obligación para ninguna instancia del Estado.",
+    "Que la eliminación de barreras depende de la gestión institucional ante quienes tienen la competencia."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 52 ordena a las instituciones solicitar a los Gobiernos Subnacionales la aplicación del Reglamento de Accesibilidad (R.M. 0410/2016); el Art. 54 atribuye a los Gobiernos Autónomos Municipales la dotación de mobiliario, y el Art. 5, inciso f), alude a sus competencias concurrentes.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo IX, Arts. 52 y 54; Capítulo I, Art. 5; páginas impresas: 7 y 23 (de 26); páginas PDF: 11 y 27."
+  },
+  {
+   "id": "6b39ad9942b1",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] El Art. 24, inciso h), pide al maestro de apoyo promover la independencia del estudiante sordo \"sin caer en el error de hacer las tareas\". ¿Qué riesgo pedagógico advierte?",
+   "options": [
+    "Que el estudiante pierda el dominio de la LSB por usar castellano escrito.",
+    "Que el apoyo sustituya al estudiante y limite su autonomía y responsabilidad.",
+    "Que el maestro de aula delegue la evaluación del estudiante en el de apoyo.",
+    "Que la familia deje de participar en las tareas escolares de su hijo sordo."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 24, inciso h), asigna al maestro de apoyo promover la independencia y responsabilidad en las tareas asignadas, sin caer en el error de hacer las tareas de los estudiantes; el riesgo advertido es la sustitución del estudiante.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo IV, Art. 24, inc. h); página impresa: 14 (de 26); página PDF: 18."
+  },
+  {
+   "id": "bb830acac3dd",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] Aunque recibe apoyo técnico del CEE, ¿a quién corresponde calificar el rendimiento del estudiante con discapacidad intelectual o TEA en el aula regular?",
+   "options": [
+    "Al equipo multidisciplinario, con base en el informe de evaluación integral anual.",
+    "A la Comisión Técnico Pedagógica, con informe previo del Centro de Educación Especial acreditado.",
+    "Al maestro de aula, según los objetivos del grado y los perfiles de salida del currículo.",
+    "Al maestro de apoyo, que conoce mejor las necesidades educativas del estudiante."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 39, inciso f), asigna al maestro de aula aplicar procesos, metodologías e instrumentos de evaluación pertinentes y calificar el rendimiento sobre los objetivos de grado del currículo que corresponde, según los perfiles de salida; el Art. 13, inciso d), le asigna emitir las calificaciones.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VI, Sección III, Art. 39, inc. f); Capítulo III, Art. 13; páginas impresas: 10 y 20 (de 26); páginas PDF: 14 y 24."
+  },
+  {
+   "id": "6bdafd23673f",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] En la tabla del Art. 55, para discapacidad intelectual no se fija un número de estudiantes por ítem completo (\"no aplica\"), pero sí 4 horas mensuales promedio. ¿Qué lectura es la más consistente?",
+   "options": [
+    "El apoyo en DI no corresponde a la modalidad indirecta y solo se brinda en la modalidad directa del centro.",
+    "El apoyo en DI se organiza por carga horaria individualizada y no por una ratio mínima de estudiantes.",
+    "El apoyo en DI se otorga solo si hay más de veinte estudiantes por unidad educativa inclusiva.",
+    "El maestro de apoyo en DI puede atender ilimitadamente, sin considerar ninguna carga horaria."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 55 fija, para discapacidad intelectual, \"no aplica\" en número de estudiantes por ítem completo y 4 horas mensuales promedio de carga individualizada; el inciso b) indica que el apoyo se desarrolla tomando en cuenta la carga horaria individualizada.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Art. 55; página impresa: 24 (de 26); página PDF: 28."
+  },
+  {
+   "id": "33ab3ee01094",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] El Art. 18 exige que el personal administrativo y de servicio se capacite progresivamente para apoyar a estos estudiantes. ¿Qué concepción de inclusión revela?",
+   "options": [
+    "Una tarea exclusiva del maestro de apoyo enviado por el CEE a la unidad.",
+    "Una responsabilidad de toda la institución, no solo del personal docente.",
+    "Una función técnica que corresponde solo a los equipos multidisciplinarios.",
+    "Una obligación de la familia, a la que la unidad solo brinda información."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 18 dispone que, para garantizar una interacción comunicacional y convivencia comunitaria, el personal administrativo y de servicio, al igual que el docente, se capacite progresivamente para apoyar a estos estudiantes con un trato de respeto y calidez.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 18; página impresa: 12 (de 26); página PDF: 16."
+  },
+  {
+   "id": "528bd00c821f",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] El Art. 23 regula la vestimenta y apariencia del maestro intérprete (sin joyas vistosas, colores llamativos ni dispositivos). ¿Qué fundamento expresa la norma?",
+   "options": [
+    "La uniformidad de la imagen institucional de los maestros del Centro de Educación Especial.",
+    "La diferenciación visual entre el maestro de apoyo y el maestro de aula del curso.",
+    "El uso adecuado de los recursos de la LSB en el marco del respeto a la cultura sorda.",
+    "La prevención de riesgos de seguridad durante las actividades en aula y en los eventos."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 23 exige utilizar adecuadamente los recursos comunicativos y lingüísticos de la LSB, con vestimenta adecuada y sin distractores visuales, dentro del marco del respeto hacia la cultura sorda.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo IV, Art. 23; página impresa: 13 (de 26); página PDF: 17."
+  },
+  {
+   "id": "059a14564ae7",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] El Art. 6, inciso a), ordena inscribir a todos los estudiantes \"independientemente de sus condiciones del neurodesarrollo\". ¿Qué principio expresa?",
+   "options": [
+    "La selección de estudiantes según su nivel de desarrollo para formar grupos homogéneos.",
+    "La preferencia de los Centros de Educación Especial para estudiantes con discapacidad.",
+    "La admisión condicionada a la disponibilidad de un maestro de apoyo en la unidad.",
+    "La no discriminación en el acceso a todas las instituciones del Sistema Educativo."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 6, inciso a), dispone que las instituciones del Sistema Educativo inscriban a todas las niñas, niños, adolescentes, jóvenes y adultos, independientemente de sus condiciones del neurodesarrollo, personales, culturales, económicas o sociales; el Art. 5, inciso d), promueve la inscripción sin discriminación alguna.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo II, Art. 6, inc. a); Capítulo I, Art. 5, inc. d); páginas impresas: 7 y 8 (de 26); páginas PDF: 11 y 12."
+  },
+  {
+   "id": "c6e943862ccd",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] El Art. 4, inciso g), aclara que el Diseño Plural \"no excluye las ayudas técnicas para grupos particulares\". ¿Qué tensión resuelve esta precisión?",
+   "options": [
+    "Limita las ayudas técnicas a los Centros de Educación Especial de modalidad directa.",
+    "Elimina las ayudas técnicas, porque el diseño general las hace innecesarias.",
+    "Sustituye el diseño para todos por un currículo exclusivo para cada discapacidad.",
+    "Concilia un diseño para todos con apoyos específicos para quienes los necesiten."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 4, inciso g), define el Diseño Plural como orientaciones que alcanzan a todos los estudiantes en la mayor medida posible y aclara que no excluye las ayudas técnicas para grupos particulares de personas con discapacidad, cuando las necesiten.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. g); página impresa: 6 (de 26); página PDF: 10."
+  },
+  {
+   "id": "e9eb5371d007",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] El Art. 6, inciso b), señala que la inscripción previa en Educación Especial no es prerrequisito, mientras el Art. 61 exige la matriculación simultánea en el CEE como requisito para recibir apoyo. ¿Cuál es la lectura más consistente?",
+   "options": [
+    "La inscripción en la unidad no se condiciona; la doble matrícula solo condiciona el acceso al apoyo del CEE.",
+    "Ambas normas se contradicen, por lo que prevalece siempre la exigencia de matrícula previa en el CEE.",
+    "El Art. 61 deroga al Art. 6, porque es posterior en el orden del articulado del Reglamento aprobado.",
+    "La doble matrícula es requisito para inscribirse en la unidad regular, no para recibir el apoyo del CEE de la zona."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 6, inciso b), permite la inscripción simultánea sin exigir la inscripción previa en Educación Especial; el Art. 61 dispone que, para acceder a los apoyos de los CEE, el estudiante debe matricularse simultáneamente en el CEE y en la institución, con el mismo RUDE. Una regla rige el acceso a la unidad; la otra, el acceso al apoyo.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo II, Art. 6, inc. b); Capítulo X, Art. 61; páginas impresas: 8 y 25 (de 26); páginas PDF: 12 y 29."
+  },
+  {
+   "id": "b6fbc076c444",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] El informe multidisciplinario de un estudiante con TEA recomienda el currículo de Secundaria Comunitaria Productiva. ¿Cómo procede su inscripción?",
+   "options": [
+    "Debe inscribirse primero en el CEE durante un año antes de pasar a la unidad de Secundaria.",
+    "Debe inscribirse en Regular con un nuevo RUDE distinto al asignado en Educación Especial.",
+    "Puede inscribirse simultáneamente en el CEE y en la unidad de Regular, con el mismo RUDE.",
+    "Solo puede inscribirse en el CEE, porque Secundaria no admite estudiantes con TEA."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 6, inciso e), permite a estudiantes con TEA, según el informe multidisciplinario que recomiende Educación Inicial, Primaria o Secundaria, inscribirse simultáneamente en Educación Especial y en Educación Regular con el mismo RUDE, sin prerrequisito de inscripción previa.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo II, Art. 6, inc. e); página impresa: 8 (de 26); página PDF: 12."
+  },
+  {
+   "id": "acb1f7e40aaf",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] Un niño con discapacidad intelectual tiene 20 meses más que la edad establecida para primer año de Primaria y cuenta con informe multidisciplinario favorable. ¿Puede inscribirse?",
+   "options": [
+    "No, porque la diferencia admitida para Primaria es de hasta 12 meses con informe.",
+    "Sí, pero solo en Educación Inicial, por exceder la edad permitida para Primaria.",
+    "Sí, porque la diferencia admitida es de hasta 24 meses con informe que lo confirme.",
+    "No, porque solo puede inscribirse en un Centro de Educación Especial a esa edad."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 6, inciso d), permite a estudiantes con discapacidad intelectual inscribirse en Inicial y Primaria con diferencia de hasta 24 meses respecto de sus pares, previa presentación del informe multidisciplinario que lo confirme.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo II, Art. 6, inc. d); página impresa: 8 (de 26); página PDF: 12."
+  },
+  {
+   "id": "e86b82b5e6e7",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO V] Un estudiante ciego recibe una guía de lectura impresa en tinta. ¿Qué función del maestro de apoyo en discapacidad visual corresponde aplicar?",
+   "options": [
+    "Solicitar al maestro de aula que retire la guía de lectura del plan del curso.",
+    "Derivarlo al CEE para que reciba esa clase en la modalidad directa del centro.",
+    "Leerle la guía en voz alta y eximirlo de la evaluación escrita del contenido.",
+    "Acompañarlo con la transcripción de la escritura en tinta al Sistema Braille."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 30, inciso f), asigna al maestro de apoyo en discapacidad visual acompañar al estudiante en aspectos de signografía Braille o macrotipo y en la transcripción del Sistema Braille a la escritura en tinta o viceversa.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo V, Art. 30, inc. f); página impresa: 16 (de 26); página PDF: 20."
+  },
+  {
+   "id": "4e56bee0080b",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO V] Una maestra de aula debe evaluar a una estudiante con baja visión. ¿Cómo debe hacerlo según el Reglamento?",
+   "options": [
+    "Con instrumentos en Braille, macrotipo o digital, según corresponda, y emitir la calificación.",
+    "Delegando la evaluación y la calificación en el maestro de apoyo de discapacidad visual.",
+    "Eximiéndola de la evaluación escrita y calificándola solo por su asistencia a las clases.",
+    "Con la misma prueba impresa del curso, otorgando tiempo adicional fijo de quince minutos para todos."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 31, inciso b), dispone que el maestro de aula desarrolle procesos de evaluación aplicando estrategias, instrumentos y materiales en Sistema Braille, macrotipo o digital, según corresponda, y emita las calificaciones.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo V, Art. 31, inc. b); página impresa: 16 (de 26); página PDF: 20."
+  },
+  {
+   "id": "2c0fc6a845a5",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VII] Un maestro de primaria observa señales de alerta de posibles dificultades en el aprendizaje en un estudiante. ¿Qué debe hacer primero?",
+   "options": [
+    "Comunicar a los padres que el estudiante debe repetir el año para superar sus dificultades.",
+    "Inscribir al estudiante en el CEE para que reciba de inmediato el programa de modalidad directa del distrito.",
+    "Solicitar al director que traslade al estudiante a una unidad con maestro de apoyo asignado.",
+    "Aplicar la \"Guía de Observación – Detección de Signos de Riesgo\" y derivar según su Ficha de Reporte."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 44, inciso c), dispone que, una vez que el maestro observe señales de alerta, aplique la \"Guía de Observación – Detección de Signos de Riesgo de Dificultades en el Aprendizaje\" y derive según las conclusiones de la Ficha de Reporte para la evaluación multidisciplinaria integral.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VII, Art. 44, inc. c); página impresa: 21 (de 26); página PDF: 25."
+  },
+  {
+   "id": "afb880140838",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VII] La evaluación integral confirma dificultades específicas en el aprendizaje en una estudiante. ¿Cómo puede recibir el apoyo correspondiente?",
+   "options": [
+    "Recibiendo el apoyo solo durante el recreo, para no afectar su carga horaria en la unidad.",
+    "Abandonando la unidad regular para cursar el año completo en el Centro de Educación Especial más cercano.",
+    "Inscribiéndose en un CEE con un RUDE distinto, en el mismo turno de su unidad educativa.",
+    "Inscribiéndose con el mismo RUDE en un CEE y, en turno alterno, en programas de modalidad directa."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 44, inciso d), dispone que, identificada la presencia de Dificultades Específicas en el Aprendizaje y considerando la evaluación integral, los estudiantes podrán inscribirse con el mismo código RUDE en Centros de Educación Especial para recibir el apoyo y, en turno alterno, para los programas de Modalidad Directa.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VII, Art. 44, inc. d); página impresa: 21 (de 26); página PDF: 25."
+  },
+  {
+   "id": "b1558aebd8fe",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VIII] Una maestra de aula detecta señales de talento extraordinario en un estudiante. ¿Qué paso sigue según el Art. 48?",
+   "options": [
+    "La inscripción directa del estudiante en una universidad pública del departamento.",
+    "La aplicación de pruebas psicométricas por la propia maestra de aula.",
+    "Una primera evaluación educativa mediante la Comisión Técnica Pedagógica.",
+    "La aceleración inmediata del estudiante al año de escolaridad siguiente."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 48 dispone que los maestros de aula son responsables de la detección de señales de alerta y que, mediante la Comisión Técnica Pedagógica, procederán a una primera evaluación educativa en el marco del Reglamento de Talento Extraordinario; la identificación corresponde a los equipos multidisciplinarios (Art. 49).",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VIII, Art. 48; página impresa: 22 (de 26); página PDF: 26."
+  },
+  {
+   "id": "93ef8b98f055",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VIII] Para confirmar si un estudiante tiene talento extraordinario, ¿cómo debe realizarse la identificación?",
+   "options": [
+    "Por el maestro de aula, mediante las calificaciones de los dos últimos trimestres.",
+    "Por equipos multidisciplinarios, con evaluación integral y pruebas estandarizadas.",
+    "Por la Comisión Técnico Pedagógica, mediante una entrevista con la familia.",
+    "Por la Dirección Distrital, mediante un concurso de conocimientos entre unidades."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 49 dispone que la identificación de estudiantes con talento extraordinario se realice por los Equipos Multidisciplinarios mediante procesos de evaluación psicológica o psicopedagógica integral con pruebas e instrumentos estandarizados y registro de talento extraordinario.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VIII, Art. 49; página impresa: 22 (de 26); página PDF: 26."
+  },
+  {
+   "id": "39a50e4b07a8",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Una familia quiere que su hija con discapacidad auditiva reciba los apoyos de un CEE sin inscribirla allí. ¿Qué establece el Art. 61?",
+   "options": [
+    "El apoyo requiere matriculación en el CEE con un código RUDE distinto al de la unidad.",
+    "El apoyo se brinda sin matriculación en el CEE, con solo el informe médico de la estudiante del CEE.",
+    "La matriculación simultánea en el CEE y en la institución, con el mismo RUDE, es requisito del apoyo.",
+    "La matriculación en el CEE es opcional y solo se exige para la modalidad directa del centro."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 61 dispone que los estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario, para acceder a los apoyos de los CEE, deben matricularse en forma simultánea en el CEE y en la institución de otro subsistema, como requisito para recibir el apoyo, con el mismo RUDE.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Art. 61; página impresa: 25 (de 26); página PDF: 29."
+  },
+  {
+   "id": "0a3b44a0ee09",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] La Comisión Técnica Pedagógica de una unidad necesita orientación para atender a un estudiante con TEA. ¿Qué puede hacer según el Art. 62?",
+   "options": [
+    "Elaborar por sí misma el informe de evaluación integral del estudiante con TEA.",
+    "Remitir al estudiante al CEE para que reciba allí todas sus clases curriculares.",
+    "Convocar a maestros de apoyo para información, orientación, asesoramiento y capacitación.",
+    "Solicitar a la Dirección Distrital la designación de un maestro de apoyo exclusivo para la unidad."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 62 dispone que, en casos de estudiantes con discapacidad, dificultades en el aprendizaje o talento extraordinario, la comisión técnica pedagógica de las instituciones podrá convocar a maestros de apoyo educativo para fines de información, orientación, asesoramiento y capacitación.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Art. 62; páginas impresas: 25 y 26 (de 26); páginas PDF: 29 y 30."
+  },
+  {
+   "id": "57753e716d48",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Una unidad educativa privada requiere un maestro de apoyo para estudiantes con discapacidad visual. ¿Quién asume esa responsabilidad?",
+   "options": [
+    "La propia institución privada, en el marco del Reglamento.",
+    "El Centro de Educación Especial fiscal más cercano a la unidad.",
+    "El Gobierno Autónomo Municipal, con recursos de su presupuesto.",
+    "La Dirección Distrital, con ítem del presupuesto departamental."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 56, inciso c), dispone que, en las instituciones educativas de carácter privado, los maestros de apoyo educativo estarán a cargo y bajo la responsabilidad de la institución privada, en el marco del Reglamento.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Art. 56, inc. c); página impresa: 24 (de 26); página PDF: 28."
+  },
+  {
+   "id": "5d7f7a2caf0c",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] Un joven con discapacidad intelectual postula a un instituto de Educación Superior. ¿Qué documento exige el Reglamento?",
+   "options": [
+    "Un certificado del CEE que acredite haber cursado la modalidad directa durante dos años del centro.",
+    "Una carta de compromiso de la familia sobre el acompañamiento durante la carrera.",
+    "Una autorización de la Dirección Departamental para su ingreso a la carrera elegida.",
+    "Un informe multidisciplinario que corrobore el perfil de entrada y las capacidades profesionales."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 33, inciso c), dispone que en Educación Superior se cuente con un Informe Multidisciplinario que corrobore el cumplimiento del perfil de entrada y las capacidades para el ejercicio profesional.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VI, Sección I, Art. 33, inc. c); página impresa: 17 (de 26); página PDF: 21."
+  },
+  {
+   "id": "967951891bc2",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] La unidad educativa organiza la clausura de gestión y tiene un estudiante sordo. ¿Qué función del maestro de apoyo en discapacidad auditiva corresponde?",
+   "options": [
+    "Interpretar en LSB en todos los actos y eventos organizados por la institución.",
+    "Elaborar un resumen escrito del acto para entregarlo al estudiante al día siguiente.",
+    "Interpretar solo durante las clases, por ser actos ajenos al desarrollo curricular.",
+    "Solicitar al estudiante que no asista para evitar barreras de comunicación en el acto."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 24, inciso k), asigna al maestro de apoyo de estudiantes con discapacidad auditiva interpretar en Lengua de Señas Boliviana en todos los actos y eventos organizados por la Institución Educativa.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo IV, Art. 24, inc. k); página impresa: 14 (de 26); página PDF: 18."
+  },
+  {
+   "id": "e454ad8af627",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Unos padres detectan en su hijo señales de alerta de una posible discapacidad. ¿Qué vía les reconoce el Reglamento?",
+   "options": [
+    "Exigir a la unidad la asignación de un maestro de aula exclusivo para su hijo durante la jornada.",
+    "Solicitar la aplicación de pruebas de detección o evaluación por el conducto regular.",
+    "Solicitar el traslado inmediato de su hijo a una unidad con maestro de apoyo.",
+    "Inscribir directamente a su hijo en la modalidad directa del CEE más cercano."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 15, inciso c), dispone que las madres y padres que detecten señales de alerta relacionadas con dificultades en el aprendizaje o discapacidad podrán solicitar la aplicación de pruebas de detección o evaluación mediante el conducto regular al Centro o Unidad Educativa correspondiente.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 15, inc. c); página impresa: 11 (de 26); página PDF: 15."
+  },
+  {
+   "id": "741dbf0db20b",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VII] Una maestra de aula detecta signos de alerta de dificultades en el aprendizaje en tres estudiantes. ¿Qué responsabilidades le asigna el Art. 45?",
+   "options": [
+    "Diagnosticar por sí misma el tipo de dificultad y comunicarlo a la Dirección Distrital.",
+    "Esperar al cierre del trimestre para confirmar las dificultades con las calificaciones.",
+    "Solicitar la evaluación multidisciplinaria y cumplir luego las recomendaciones del informe.",
+    "Derivar a los estudiantes al CEE para que cursen allí el resto del año escolar."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 45 asigna al maestro de aula desarrollar procesos de detección de signos de alerta (inc. a), solicitar la evaluación multidisciplinaria de los posibles casos (inc. b) y cumplir las recomendaciones del informe de evaluación (inc. c).",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VII, Art. 45, incs. a), b) y c); página impresa: 21 (de 26); página PDF: 25."
+  },
+  {
+   "id": "2b504b9b9082",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] Una unidad educativa fiscal niega la inscripción de una niña sorda argumentando que \"no tiene maestro de apoyo\". ¿Qué disposición del Reglamento se vulnera?",
+   "options": [
+    "La que obliga a inscribir a todos los estudiantes sin importar sus condiciones del neurodesarrollo.",
+    "La que dispone la inscripción previa en un CEE como requisito para la unidad regular.",
+    "La que asigna a la Dirección Distrital la inscripción de estudiantes con discapacidad.",
+    "La que exige que cada unidad cuente con un maestro de apoyo antes de inscribir estudiantes del distrito."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 6, inciso a), ordena inscribir a todos los estudiantes independientemente de sus condiciones; el Art. 12, inciso a), asigna a los directores garantizar su inscripción; el Art. 6, inciso b), aclara que la inscripción previa en Educación Especial no es prerrequisito.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo II, Art. 6; Capítulo III, Art. 12, inc. a); páginas impresas: 8 y 10 (de 26); páginas PDF: 12 y 14."
+  },
+  {
+   "id": "dd98c14ee844",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Un maestro de apoyo decide visitar una unidad no prevista en su planificación porque \"le queda de paso\". ¿Qué disposición debe observar?",
+   "options": [
+    "Trasladarse a las instituciones según la planificación aprobada y autorizada por su inmediato superior.",
+    "Registrar la visita en su ficha mensual, sin necesidad de autorización ni planificación previa.",
+    "Visitar libremente las unidades que considere necesarias, informando luego al director del CEE de su jurisdicción.",
+    "Solicitar autorización verbal del director de la unidad visitada al momento de su llegada."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 17, inciso f), dispone que el maestro de apoyo se traslade periódicamente a las instituciones donde estén matriculados los estudiantes, según la planificación aprobada y autorizada por su inmediato superior.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 17, inc. f); página impresa: 12 (de 26); página PDF: 16."
+  },
+  {
+   "id": "4770a21d8d4d",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] El director observa que el maestro de apoyo resuelve directamente las tareas del estudiante sordo para que las entregue a tiempo. ¿Qué disposición se incumple?",
+   "options": [
+    "Planificar con el maestro de aula los contenidos curriculares de cada clase.",
+    "Interpretar en LSB en todos los actos y eventos organizados por la institución.",
+    "Sensibilizar sobre la discapacidad a toda la comunidad educativa de la unidad.",
+    "Promover la independencia y responsabilidad del estudiante, sin hacer sus tareas."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 24, inciso h), asigna al maestro de apoyo promover la independencia y responsabilidad en las tareas asignadas, sin caer en el error de hacer las tareas de los estudiantes.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo IV, Art. 24, inc. h); página impresa: 14 (de 26); página PDF: 18."
+  },
+  {
+   "id": "9fbc5006dee1",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] Durante la interpretación en clase, la maestra de apoyo usa aretes grandes que se mueven y revisa su celular con frecuencia. ¿Qué disposición incumple?",
+   "options": [
+    "El perfil profesional que exige experiencia mínima en la docencia de aula regular.",
+    "Las condiciones para la interpretación sin distractores visuales ni uso de dispositivos.",
+    "El procedimiento de evaluación diagnóstica del dominio de la LSB del estudiante.",
+    "La obligación de presentar las fichas de seguimiento el último día de cada mes."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 23 exige vestimenta adecuada sin distractores visuales (joyas vistosas que se muevan, prendas llamativas, peinado suelto) y no usar dispositivos u otros distractores durante el acto interpretativo, en respeto a la cultura sorda.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo IV, Art. 23; página impresa: 13 (de 26); página PDF: 17."
+  },
+  {
+   "id": "425c0f74e092",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IX] Una estudiante usuaria de silla de ruedas fue asignada a un paralelo en el tercer piso, lejos de los baños. ¿Qué debe hacer la dirección?",
+   "options": [
+    "Reducir su asistencia presencial y complementar con trabajos para la casa.",
+    "Trasladar a la estudiante a otra unidad que cuente con ascensor y rampas propias.",
+    "Reubicar el paralelo próximo a la puerta principal y a los baños estudiantiles.",
+    "Mantener la ubicación y asignar a compañeros para que la ayuden a desplazarse."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 53 dispone que, en paralelos con estudiantes o participantes con discapacidad físico-motora, la dirección prevea su ubicación próxima a la puerta principal de entrada o salida y a los baños destinados al uso estudiantil.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo IX, Art. 53; página impresa: 23 (de 26); página PDF: 27."
+  },
+  {
+   "id": "2aaa690133a7",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IX] Una unidad fiscal carece de mobiliario adecuado para estudiantes con discapacidad. ¿Qué instancia debe garantizar su dotación según el Art. 54?",
+   "options": [
+    "La Dirección Departamental.",
+    "El Centro de Educación Especial.",
+    "El Gobierno Autónomo Municipal.",
+    "La junta escolar de la unidad."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 54, en el marco del Art. 80, numeral 2, de la Ley N.º 070, dispone que los Gobiernos Autónomos Municipales garanticen la dotación de equipamiento mobiliario adecuado y pertinente para estudiantes con discapacidad.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo IX, Art. 54; página impresa: 23 (de 26); página PDF: 27."
+  },
+  {
+   "id": "4909446cc890",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] En un municipio no existe Centro de Educación Especial y una unidad educativa tiene un estudiante ciego. ¿Qué prevé el Reglamento?",
+   "options": [
+    "Que el estudiante sea exento del apoyo hasta que el municipio cree su propio CEE.",
+    "Que el estudiante deba trasladarse obligatoriamente al municipio que cuente con CEE.",
+    "Que la unidad contrate con sus recursos un maestro de apoyo de manera directa.",
+    "Que el apoyo de un CEE pueda extenderse en un radio intermunicipal o interdistrital."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 57, inciso a), permite que el apoyo de la Modalidad Indirecta se extienda en un radio territorial intermunicipal o interdistrital ante la inexistencia de CEE en el municipio o distrito correspondiente.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Art. 57, inc. a); página impresa: 24 (de 26); página PDF: 28."
+  },
+  {
+   "id": "a89949e412f9",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] El CEE del distrito no está acreditado en el área de discapacidad visual y una unidad del mismo distrito tiene una estudiante con baja visión. ¿Qué solución prevé el Reglamento?",
+   "options": [
+    "Que el CEE no acreditado brinde el apoyo de todas formas con su personal disponible.",
+    "Extender el apoyo desde otro distrito o municipio por falta de acreditación en el área.",
+    "Que la maestra de aula asuma las funciones del maestro de apoyo en discapacidad visual.",
+    "Que la estudiante espere a que el CEE del distrito obtenga la acreditación respectiva."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 57, inciso b), permite extender el apoyo en radio intermunicipal o interdistrital por falta de acreditación en el área de atención requerida en los CEE del municipio o distrito.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Art. 57, inc. b); página impresa: 25 (de 26); página PDF: 29."
+  },
+  {
+   "id": "ec73eec43fbc",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Un niño con discapacidad vive en una zona ribereña dispersa y, por razones socioeconómicas extremas, no puede asistir al CEE más cercano. ¿Qué cobertura prevé el Reglamento?",
+   "options": [
+    "Apoyo mediante maestros de apoyo o itinerantes, según posibilidades del CEE y previo informe técnico.",
+    "Ninguna, porque el apoyo solo se brinda a quienes asisten de forma presencial al CEE del distrito o municipio.",
+    "Traslado del niño a un internado especial financiado por el Gobierno Autónomo Departamental.",
+    "Apoyo virtual obligatorio mediante plataformas digitales administradas por la Dirección Distrital."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 58 prevé cobertura mediante maestros de apoyo o itinerantes en lugares de difícil acceso, zonas dispersas, fronterizas y riberas, y para personas que por razones fortuitas, legales, patológicas o socioeconómicas extremas no pueden apersonarse al CEE, según las posibilidades del CEE y previo informe técnico pedagógico.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Art. 58; página impresa: 25 (de 26); página PDF: 29."
+  },
+  {
+   "id": "19dbd7501e9b",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Un maestro de apoyo del área de dificultades específicas en el aprendizaje, con ítem completo, atiende a 25 estudiantes. ¿Qué carga horaria individualizada referencial le corresponde por estudiante?",
+   "options": [
+    "12 horas mensuales promedio.",
+    "4 horas mensuales promedio.",
+    "2 horas mensuales promedio.",
+    "8 horas mensuales promedio."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 55 fija para Dificultades Específicas en el Aprendizaje más de 20 estudiantes por ítem completo y una carga horaria individualizada de 4 horas mensuales promedio.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Art. 55; página impresa: 24 (de 26); página PDF: 28."
+  },
+  {
+   "id": "ed1d680ea50c",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Una maestra de apoyo en discapacidad visual, con ítem completo, debe organizar su trabajo. ¿Qué relación y carga horaria individualizada fija el Art. 55?",
+   "options": [
+    "Más de 4 estudiantes por ítem y 8 horas mensuales promedio por estudiante.",
+    "Más de 5 estudiantes por ítem y 12 horas mensuales promedio por estudiante.",
+    "Más de 15 estudiantes por ítem y 4 horas mensuales promedio por estudiante.",
+    "Más de 20 estudiantes por ítem y 12 horas mensuales promedio por estudiante."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 55 establece para Discapacidad Visual más de 5 estudiantes por ítem completo y 12 horas mensuales promedio de carga individualizada; para Auditiva, más de 4 y 8 horas; para Talento, más de 15 (no aplica carga); para DEA, más de 20 y 4 horas.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Art. 55; página impresa: 24 (de 26); página PDF: 28."
+  },
+  {
+   "id": "69b8ca0fb1a3",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Un maestro con horas desglosadas destinadas a la modalidad indirecta atiende a un estudiante con discapacidad auditiva. ¿Qué carga horaria individualizada debe tomar en cuenta?",
+   "options": [
+    "8 horas mensuales promedio.",
+    "6 horas mensuales promedio.",
+    "12 horas mensuales promedio.",
+    "4 horas mensuales promedio."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 55, inciso b), dispone que los maestros con horas destinadas a la modalidad indirecta desarrollen el apoyo según la \"carga horaria individualizada\" del cuadro, que para Discapacidad Auditiva es de 8 horas mensuales promedio.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Art. 55, incs. a) y b); página impresa: 24 (de 26); página PDF: 28."
+  },
+  {
+   "id": "6a9ce6b49a4e",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Un maestro de aula se niega a adaptar los instrumentos de evaluación para un estudiante con discapacidad y le aplica la misma prueba que al resto. ¿Qué responsabilidad incumple?",
+   "options": [
+    "Presentar sus fichas de seguimiento el último día hábil de cada mes al maestro de apoyo de la unidad.",
+    "Evaluar con estrategias, instrumentos y materiales adecuados para emitir las calificaciones.",
+    "Realizar la evaluación integral multidisciplinaria del estudiante con discapacidad.",
+    "Interpretar en LSB los contenidos curriculares durante el desarrollo de cada clase."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 13, inciso d), asigna a los maestros de aula desarrollar procesos de evaluación aplicando estrategias, instrumentos y materiales adecuados para emitir las calificaciones; el inciso a) les exige procesos accesibles en el marco del Diseño Plural.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 13, incs. a) y d); página impresa: 10 (de 26); página PDF: 14."
+  },
+  {
+   "id": "3e6fece1bd0f",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] Una maestra de aula recibe sugerencias del maestro de apoyo para un estudiante con discapacidad intelectual leve, pero decide no aplicarlas. ¿Qué función del Art. 39 desatiende?",
+   "options": [
+    "Presentar el Plan de Apoyo Técnico Pedagógico al director del Centro de Educación Especial.",
+    "Elaborar el informe de evaluación integral con el equipo multidisciplinario del CEE.",
+    "Desarrollar procesos educativos incorporando las sugerencias del apoyo técnico pedagógico.",
+    "Aplicar pruebas psicométricas estandarizadas al estudiante cada trimestre de la gestión."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 39, inciso b), asigna al maestro de aula desarrollar procesos educativos incorporando las sugerencias del apoyo técnico pedagógico para estudiantes con DI leve o TEA sin compromiso intelectual, con adaptaciones, metodologías y recursos pertinentes; el inciso d) exige coordinación estrecha con el maestro de apoyo.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VI, Sección III, Art. 39, incs. b) y d); página impresa: 19 (de 26); página PDF: 23."
+  },
+  {
+   "id": "d2a82c5130f1",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Un director de unidad se niega a facilitar las planificaciones curriculares al maestro de apoyo, alegando reserva institucional. ¿Qué responsabilidad incumple?",
+   "options": [
+    "Controlar la asistencia diaria del maestro de apoyo enviado por el Centro de Educación Especial.",
+    "Aprobar el Plan de Apoyo Técnico Pedagógico del maestro de apoyo antes de su ejecución.",
+    "Proporcionar las planificaciones cuando el maestro de apoyo las requiera con fines técnicos.",
+    "Garantizar la inscripción de estudiantes con discapacidad según la convocatoria vigente."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 12, inciso i), asigna a los directores proporcionar las planificaciones curriculares e institucionales a los maestros de apoyo cuando las requieran con fines de Apoyo Técnico Pedagógico; el inciso h) les pide viabilizar espacios de coordinación.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 12, incs. h) e i); página impresa: 10 (de 26); página PDF: 14."
+  },
+  {
+   "id": "c096fd025a8a",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Un maestro de apoyo concluye su intervención en una unidad. ¿Cómo debe reportar el proceso de apoyo técnico pedagógico?",
+   "options": [
+    "Mediante informe escrito a la Dirección Distrital, sin intervención del CEE.",
+    "Mediante informe escrito al CEE, con visto bueno de la institución educativa.",
+    "Mediante anotación en la libreta escolar electrónica del estudiante apoyado.",
+    "Mediante informe verbal al director de la unidad, sin necesidad de registro."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 17, inciso h), dispone que el maestro de apoyo reporte informe escrito del proceso de apoyo técnico pedagógico al Centro de Educación Especial con visto bueno de la Institución Educativa correspondiente.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 17, inc. h); página impresa: 12 (de 26); página PDF: 16."
+  },
+  {
+   "id": "e02f4f37ce4a",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VII] El director de una unidad pregunta con qué periodicidad recibirá informes del maestro de apoyo de dificultades en el aprendizaje sobre los avances de los estudiantes. ¿Qué dispone el Reglamento?",
+   "options": [
+    "Informes trimestrales sobre desarrollo, avances y logros, presentados a la dirección.",
+    "Informes mensuales a las familias, sin copia para la dirección de la unidad.",
+    "Informes semestrales presentados exclusivamente al director del CEE del distrito.",
+    "Un único informe anual al cierre de gestión remitido a la Dirección Distrital."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 43, inciso g), asigna al maestro de apoyo de dificultades en el aprendizaje realizar informes trimestrales sobre el desarrollo educativo, avances y logros del estudiante y presentarlos a la dirección de la unidad educativa.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VII, Art. 43, inc. g); página impresa: 21 (de 26); página PDF: 25."
+  },
+  {
+   "id": "e94e9b7b2662",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VIII] Un profesional de apoyo en talento extraordinario recibe el caso de una estudiante destacada en matemática. ¿Con quién debe coordinar para aplicar las evaluaciones por área y derivarla?",
+   "options": [
+    "Con la Comisión Pedagógica de la unidad, para derivarla a un CEE acreditado.",
+    "Con la universidad pública, para su admisión directa en la carrera elegida.",
+    "Con la Dirección Distrital, para aplicar un examen de aceleración inmediata.",
+    "Con la junta escolar, para definir la beca que corresponde a la estudiante."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 47, inciso a), asigna al profesional de apoyo en talento extraordinario coordinar con la Comisión Pedagógica de cada unidad para aplicar las evaluaciones por área y derivar al Centro de Educación Especial acreditado.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VIII, Art. 47, inc. a); página impresa: 22 (de 26); página PDF: 26."
+  },
+  {
+   "id": "83bbed982302",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VIII] Los padres de un estudiante identificado con talento extraordinario piden saber qué atención recibirá su hijo. ¿Qué prevé el Art. 51?",
+   "options": [
+    "Que deban gestionar por su cuenta los programas extracurriculares que requiera su hijo.",
+    "Que reciban solo el informe anual de calificaciones emitido por la unidad educativa.",
+    "Que reciban asesoramiento individualizado e información sobre la atención educativa.",
+    "Que firmen una autorización para que el estudiante sea promovido dos años de escolaridad."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 51, inciso b), dispone que el profesional de apoyo, en coordinación con los CEE, adopte medidas para que los padres reciban asesoramiento individualizado e información necesaria sobre la atención educativa que recibirán sus hijos.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VIII, Art. 51, inc. b); página impresa: 23 (de 26); página PDF: 27."
+  },
+  {
+   "id": "81efd4d1c954",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] En una clase de química, el maestro de apoyo advierte que un concepto nuevo no existe en el vocabulario de la LSB. ¿Qué procedimiento prevé el Reglamento?",
+   "options": [
+    "Identificar las señas o encontrar modos de definir el sentido y significado del concepto.",
+    "Omitir el concepto en la interpretación y explicarlo por escrito al final del trimestre.",
+    "Solicitar al maestro de aula que excluya el contenido del plan para el estudiante sordo.",
+    "Interpretar el concepto letra por letra mediante dactilología, sin contextualizarlo."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 26, inciso c), dispone identificar las señas para los contenidos de cada clase o encontrar modos para definir el sentido y significado de conceptos que aún no existen en la LSB; el Art. 24, inciso e), permite recursos como señas provisionales y la contextualización.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo IV, Arts. 24 y 26; página impresa: 14 (de 26); página PDF: 18."
+  },
+  {
+   "id": "4c95ea82dee5",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] El informe multidisciplinario de un niño con discapacidad intelectual recomienda el currículo de Educación Regular. ¿Qué decisión de inscripción corresponde?",
+   "options": [
+    "Inscribirlo directamente en Secundaria, según la edad cronológica que presenta.",
+    "Inscribirlo en Inicial o Primaria y, si corresponde, simultáneamente en Educación Especial.",
+    "Inscribirlo solo en el CEE hasta que alcance el perfil de salida del nivel Inicial.",
+    "Inscribirlo en Educación Alternativa, por tratarse de un estudiante con discapacidad del distrito."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 6, inciso c), dispone que, en estudiantes con discapacidad intelectual cuyo informe establezca que el currículo más adecuado es el de Educación Regular, deben inscribirse en Educación Inicial o Primaria y simultáneamente en Educación Especial, si corresponde, para recibir el apoyo.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo II, Art. 6, inc. c); página impresa: 8 (de 26); página PDF: 12."
+  },
+  {
+   "id": "e00e2d03732b",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] El director constata burlas reiteradas contra un estudiante con TEA. Conforme al Reglamento, ¿qué responsabilidad de los estudiantes sin necesidades educativas debe reforzar?",
+   "options": [
+    "Promover acciones que prevengan todo tipo de violencia, acoso o bullying.",
+    "Informar a la junta escolar sobre las conductas del compañero con TEA.",
+    "Ayudar al compañero con TEA a realizar todas sus tareas en clase.",
+    "Evitar el contacto con el compañero con TEA para no generar conflictos."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 14, inciso b), dispone que los estudiantes que no presentan necesidades o potencialidades educativas promuevan acciones que prevengan todo tipo de violencia, acoso o bullying, respetando la individualidad de todos; el inciso c) exige practicar valores de respeto y tolerancia.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 14, incs. b) y c); página impresa: 11 (de 26); página PDF: 15."
+  },
+  {
+   "id": "a5a6b6bd15cf",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] La unidad necesita lectores de pantalla y equipos de tiflotecnología. ¿Qué decisión corresponde al director según el Reglamento?",
+   "options": [
+    "Solicitar que el estudiante traiga su propio equipo para utilizarlo en el aula.",
+    "Gestionar ante las instancias correspondientes la dotación de equipamiento accesible.",
+    "Adquirir el equipamiento con cuotas extraordinarias de las familias de la unidad educativa inclusiva.",
+    "Postergar la atención del estudiante hasta que el municipio dote el equipamiento."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 12, inciso g), asigna a los directores gestionar ante las instancias correspondientes la dotación de equipamiento técnico y tecnológico bajo el criterio de accesibilidad.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 12, inc. g); página impresa: 10 (de 26); página PDF: 14."
+  },
+  {
+   "id": "063c7f69e574",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] Ingresa a la unidad un estudiante sordo. Antes de definir el apoyo, ¿qué decisión técnica corresponde según el Art. 26?",
+   "options": [
+    "Solicitar a la familia un certificado de dominio de LSB emitido por el CEE.",
+    "Aplicarle las mismas pruebas del curso y decidir el apoyo según sus calificaciones.",
+    "Realizar una evaluación diagnóstica de su LSB, castellano escrito y conocimientos cotidianos.",
+    "Ubicarlo en el curso inferior hasta que demuestre dominio del castellano oral."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 26, inciso a), dispone realizar una evaluación diagnóstica del estudiante sordo respecto del dominio de la primera lengua (LSB), de su escritura y lectura de la segunda lengua (castellano escrito) y de los conocimientos que aplica en su vida cotidiana, para precisar el apoyo pertinente.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo IV, Art. 26, inc. a); página impresa: 14 (de 26); página PDF: 18."
+  },
+  {
+   "id": "cd770b8f1d01",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO V] Para que el apoyo al estudiante con discapacidad visual sea pertinente, ¿qué coordinación debe asegurar el maestro de apoyo con el maestro de aula?",
+   "options": [
+    "Coordinar únicamente con el director, que transmite la información al aula.",
+    "Coordinar solo al finalizar el trimestre la calificación final del estudiante.",
+    "Coordinar a pedido del maestro de aula cuando surjan dificultades en clase.",
+    "Coordinar previa y obligatoriamente el avance de los contenidos planificados."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 30, inciso g), dispone que el maestro de apoyo coordine previa y obligatoriamente con los maestros de aula el avance de contenidos planificados, a fin de consolidar condiciones educativas pertinentes.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo V, Art. 30, inc. g); página impresa: 16 (de 26); página PDF: 20."
+  },
+  {
+   "id": "4ed8deb54f79",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] La Comisión Técnica Pedagógica analizará los avances de un estudiante con discapacidad intelectual. ¿Qué decisión es coherente con las funciones del maestro de apoyo?",
+   "options": [
+    "Que participe en la reunión para orientar el desarrollo de los procesos educativos.",
+    "Que sustituya al maestro de aula en la exposición de las calificaciones.",
+    "Que remita un informe escrito y se abstenga de participar en la reunión.",
+    "Que presida la reunión y defina por sí solo la promoción del estudiante ante los padres."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 35, inciso f), asigna al maestro de apoyo en discapacidad intelectual participar en las reuniones necesarias de la comisión técnica pedagógica de la institución, junto a los maestros, con la finalidad de orientar el desarrollo de los procesos educativos.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VI, Sección I, Art. 35, inc. f); página impresa: 18 (de 26); página PDF: 22."
+  },
+  {
+   "id": "3ce46685a101",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] Para definir el apoyo a un estudiante con TEA, ¿con quién debe coordinar el maestro de apoyo según el Art. 38?",
+   "options": [
+    "Con la Defensoría de la Niñez, que define el tipo de apoyo que corresponde.",
+    "Con la junta escolar, que aprueba los apoyos asignados a cada estudiante.",
+    "Con la Dirección Departamental, que define la carga horaria individualizada del estudiante.",
+    "Con el equipo multidisciplinario que realiza la evaluación integral del estudiante."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 38, inciso d), asigna al maestro de apoyo coordinar con el equipo multidisciplinario que realiza la evaluación integral del estudiante con TEA para determinar sus características, potencialidades, intereses y necesidades educativas y el contexto.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VI, Sección II, Art. 38, inc. d); página impresa: 19 (de 26); página PDF: 23."
+  },
+  {
+   "id": "eddfe3b6a374",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – DISPOSICIONES FINALES] Surge un aspecto técnico pedagógico del apoyo educativo que el Reglamento no prevé. ¿Cómo se resuelve?",
+   "options": [
+    "Mediante instructivos del Viceministerio respectivo, con informe técnico de la Dirección General.",
+    "Mediante resolución de la Dirección Departamental, con dictamen de la Dirección Distrital de la jurisdicción.",
+    "Mediante acuerdo entre el director del CEE y el director de la unidad educativa inclusiva.",
+    "Mediante consulta a la junta escolar, que define el criterio aplicable en cada caso."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: La Disposición Final Tercera establece que los aspectos técnico pedagógicos de apoyo educativo no previstos serán resueltos mediante instructivos emitidos por el Viceministerio respectivo, previo informe técnico de la Dirección General correspondiente.",
+   "legal": "R.M. 0069/2025, Reglamento, Disposición Final Tercera; página impresa: 26 (de 26); página PDF: 30."
+  },
+  {
+   "id": "8943ac33ec82",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – DISPOSICIONES FINALES] Un director pregunta desde cuándo es exigible el Reglamento en su unidad. ¿Qué establece la Disposición Final Primera?",
+   "options": [
+    "Rige desde el inicio de la gestión educativa siguiente a su aprobación por el Ministerio vigente.",
+    "Rige desde su publicación en la Gaceta Oficial y la aprobación de su reglamento interno.",
+    "Rige desde la emisión de la Resolución Ministerial y su publicación por los medios del Ministerio.",
+    "Rige desde su socialización por la Dirección Distrital en cada unidad educativa."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: La Disposición Final Primera establece que el Reglamento entra en vigencia a partir de la emisión de la Resolución Ministerial de aprobación y su publicación por los medios definidos por el Ministerio de Educación.",
+   "legal": "R.M. 0069/2025, Reglamento, Disposición Final Primera; página impresa: 26 (de 26); página PDF: 30."
+  },
+  {
+   "id": "5593834cdadd",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] La familia de una adolescente con discapacidad intelectual duda sobre la continuidad educativa de su hija. ¿Qué decisión corresponde al maestro de apoyo según el Art. 35?",
+   "options": [
+    "Remitir a la familia a la Dirección Distrital, que define la continuidad de la estudiante.",
+    "Orientar a la familia sobre la proyección educativa más favorable según tipo y grado de discapacidad.",
+    "Decidir por la familia el subsistema en el que debe continuar la estudiante el siguiente año de escolaridad.",
+    "Recomendar el retiro de la estudiante del sistema educativo al concluir la Primaria."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 35, inciso h), asigna al maestro de apoyo en discapacidad intelectual orientar a las familias, madres, padres o tutores sobre la proyección educativa más favorable para estos estudiantes, según tipo y grado de discapacidad.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VI, Sección I, Art. 35, inc. h); página impresa: 18 (de 26); página PDF: 22."
+  },
+  {
+   "id": "a697e2970640",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] En la planificación estratégica de su unidad, ¿cómo debe incorporar el director el Diseño Plural para los Aprendizajes según el Art. 8?",
+   "options": [
+    "Progresivamente, en su Proyecto Educativo y en la Planificación Curricular, en todos sus componentes.",
+    "De manera inmediata, sustituyendo el currículo base por el currículo específico de Especial.",
+    "Como anexo opcional del POA, sujeto a la aprobación de la junta escolar de la unidad educativa.",
+    "Solo en los cursos que tengan inscritos estudiantes con discapacidad diagnosticada formalmente del curso."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 8, inciso a), dispone que las instituciones fiscales, de convenio y privadas, así como su personal docente, incorporen progresivamente en su Proyecto Educativo y Planificación Curricular el \"Diseño Plural para los Aprendizajes\" en todos sus componentes.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 8, inc. a); página impresa: 9 (de 26); página PDF: 13."
+  },
+  {
+   "id": "0b0627ad2d87",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Para garantizar la accesibilidad comunicacional de su institución, ¿qué medida estratégica exige el Art. 8, inciso b)?",
+   "options": [
+    "Contratar intérpretes externos solo para actos oficiales y eventos de la unidad educativa educativa.",
+    "Concentrar a los estudiantes con discapacidad sensorial en un mismo paralelo de la unidad.",
+    "Aplicar la LSB, el Braille, sistemas aumentativos o alternativos y otras formas de comunicación.",
+    "Limitar la comunicación al castellano oral y escrito para unificar los procesos de aula."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 8, inciso b), dispone que las unidades, centros e instituciones fiscales, de convenio o privadas apliquen la Lengua de Señas Boliviana, el Sistema Braille, los Sistemas de Comunicación Aumentativa o Alternativa y otras formas de comunicación, según corresponda.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 8, inc. b); página impresa: 9 (de 26); página PDF: 13."
+  },
+  {
+   "id": "6728ffefeab8",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Para articular su unidad con el CEE de la zona, ¿qué prevé el Art. 9 sobre la interacción interinstitucional?",
+   "options": [
+    "Que el director del CEE asuma la dirección pedagógica de la unidad educativa inclusiva vecina de su distrito.",
+    "Que la interacción se limite a un informe anual del CEE al director de la unidad educativa.",
+    "Que los directores de CEE e instituciones coordinen y definan acciones pedagógicas y administrativas.",
+    "Que la Dirección Distrital defina todas las acciones sin participación de los directores."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 9 dispone que las y los directores de los Centros de Educación Especial e Instituciones Educativas coordinen y definan acciones pedagógicas y administrativas que garanticen una atención educativa de calidad a estos estudiantes.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 9; página impresa: 9 (de 26); página PDF: 13."
+  },
+  {
+   "id": "fd226c174a58",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VIII] Las Direcciones Departamentales y Distritales deben planificar la atención al talento extraordinario. ¿Qué deben incluir en su POA según el Art. 50?",
+   "options": [
+    "Un concurso anual que reemplace la evaluación de los equipos multidisciplinarios.",
+    "Acciones de sensibilización, capacitación, seguimiento y fomento, coordinadas con CEE acreditados.",
+    "La creación de unidades educativas exclusivas para estudiantes con talento extraordinario del departamento.",
+    "Un presupuesto para becas universitarias de los estudiantes con talento identificado."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 50, inciso b), dispone que las Direcciones Departamentales y Distritales incluyan en su POA acciones de sensibilización, capacitación, seguimiento y fomento a estudiantes del área de Talento Extraordinario, en coordinación con los CEE acreditados.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VIII, Art. 50, inc. b); página impresa: 23 (de 26); página PDF: 27."
+  },
+  {
+   "id": "d8e7c82a919b",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VIII] En una estrategia departamental para estudiantes con talento extraordinario, ¿qué acción asigna el Art. 50, inciso a)?",
+   "options": [
+    "Generar oportunidades académicas en instituciones educativas, culturales, científicas y universidades.",
+    "Trasladar a estos estudiantes a unidades privadas con financiamiento del Estado.",
+    "Eximir a estos estudiantes de la evaluación regular durante su permanencia en el programa.",
+    "Seleccionar a los mejores estudiantes para que representen al departamento en el extranjero."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 50, inciso a), dispone que las Direcciones Departamentales, en coordinación con las Subdirecciones y Direcciones Distritales, generen oportunidades académicas en instituciones educativas, culturales, científicas y universidades a nivel nacional y departamental.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo VIII, Art. 50, inc. a); páginas impresas: 22 y 23 (de 26); páginas PDF: 26 y 27."
+  },
+  {
+   "id": "c0acc46aa321",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] Para consolidar una cultura inclusiva en la comunidad educativa, ¿a quiénes deben dirigirse los programas de sensibilización y capacitación según el Art. 5, inciso g)?",
+   "options": [
+    "Solo a los maestros de apoyo de los Centros de Educación Especial del distrito.",
+    "Solo a las familias de estudiantes con discapacidad inscritos en la unidad.",
+    "A maestros, madres, padres, estudiantes y otros actores educativos en general.",
+    "Solo a los directores de unidades educativas fiscales del área urbana."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 5, inciso g), fija como finalidad implementar programas de sensibilización y capacitación permanente dirigidos a las comunidades educativas compuestas por maestras, maestros, madres y padres, estudiantes y otros actores educativos en general.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo I, Art. 5, inc. g); página impresa: 7 (de 26); página PDF: 11."
+  },
+  {
+   "id": "096129c95c69",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] Desde la gestión institucional, ¿qué valor estratégico tiene mantener actualizado el archivo de trayectoria educativa de cada estudiante con discapacidad?",
+   "options": [
+    "Reemplaza la libreta escolar electrónica en los trámites de traslado entre unidades educativas.",
+    "Asegura la continuidad del apoyo al documentar logros, dificultades y recomendaciones al trasladarse.",
+    "Permite seleccionar a los estudiantes que serán derivados a la modalidad directa de forma definitiva.",
+    "Sirve como único documento para la promoción del estudiante al siguiente año de escolaridad."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 4, inciso j), define la trayectoria educativa como el historial que registra potencialidades, logros, dificultades, intervenciones y recomendaciones; el Art. 7, inciso a), obliga a remitir ese archivo a la institución de destino en caso de traslado.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. j); Capítulo II, Art. 7, inc. a); páginas impresas: 7 y 8 (de 26); páginas PDF: 11 y 12."
+  },
+  {
+   "id": "98c62bda6a26",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] ¿Qué previsión contiene el Reglamento para su propia mejora a partir de la experiencia de aplicación?",
+   "options": [
+    "Las Direcciones Departamentales pueden modificarlo mediante resolución administrativa propia del área.",
+    "Su revisión requiere el acuerdo previo de la Confederación de maestros de educación especial.",
+    "El Ministerio, a través del Viceministerio de Alternativa y Especial, debe revisarlo y actualizarlo.",
+    "Los Centros de Educación Especial pueden adaptarlo libremente a la realidad de cada distrito."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 63 dispone que el Ministerio de Educación, a través del Viceministerio de Educación Alternativa y Especial, revise y actualice el Reglamento basándose en la experiencia de su aplicación y la normativa vigente.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo X, Art. 63; página impresa: 26 (de 26); página PDF: 30."
+  },
+  {
+   "id": "40c55b0d4431",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Para que los estudiantes con discapacidad transiten entre niveles y subsistemas sin rupturas, ¿qué función estratégica asigna el Art. 10, inciso b), a las Direcciones Departamentales?",
+   "options": [
+    "Promover la coordinación entre niveles y ámbitos de Regular, Superior, Alternativa y Especial.",
+    "Centralizar las inscripciones de estos estudiantes en la propia Dirección Departamental.",
+    "Unificar en un solo subsistema la atención de todos los estudiantes con discapacidad.",
+    "Asignar a cada estudiante con discapacidad un CEE de referencia durante toda su trayectoria."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 10, inciso b), dispone que las Direcciones Departamentales promuevan acciones de coordinación entre los diferentes niveles y ámbitos de los Subsistemas de Educación Regular, Superior, Alternativa y Especial en sus jurisdicciones.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 10, inc. b); página impresa: 9 (de 26); página PDF: 13."
+  },
+  {
+   "id": "f38be674a17c",
+   "q": "[R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Un director diseña un plan anual de cultura inclusiva para su unidad. ¿Qué acción del Art. 12 sustenta capacitar y concientizar a toda la comunidad?",
+   "options": [
+    "Promover la capacitación y concientización de maestros, padres, estudiantes y otros en derechos y diversidad.",
+    "Exigir a cada familia de estudiantes con discapacidad un aporte para financiar las capacitaciones de la unidad.",
+    "Delegar toda la capacitación a la junta escolar, que define los temas y los facilitadores.",
+    "Restringir la capacitación a los maestros que tengan estudiantes con discapacidad en su curso."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 12, inciso e), asigna a las directoras y directores promover procesos de capacitación y concientización de maestras, maestros, madres, padres, estudiantes y otros en temáticas del derecho a la educación y respeto a la diversidad; el inciso c) les asigna sensibilizar a la comunidad.",
+   "legal": "R.M. 0069/2025, Reglamento, Capítulo III, Art. 12, incs. c) y e); página impresa: 10 (de 26); página PDF: 14."
+  }
+ ],
+ "rm-0020-2024-general": [
+  {
+   "id": "6f2aa4ea6650",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO I] Según el Art. 6 del Reglamento de unidades educativas fiscales, ¿qué es requisito imprescindible para su funcionamiento?",
+   "options": [
+    "Resolución Administrativa vigente de la DDE y Certificado de Registro de Unidades Educativas (RUE).",
+    "Acta de fundación aprobada por la comunidad y POA firmado por el Director Distrital de Educación.",
+    "Certificado RUE emitido por la Dirección Distrital y aval del Gobierno Autónomo Municipal.",
+    "Resolución Ministerial de creación y acta de compromiso firmada por la junta escolar de la unidad educativa."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 6 dispone que para el funcionamiento de la unidad educativa fiscal es requisito imprescindible contar con la Resolución Administrativa vigente de autorización de funcionamiento, emitida por la Dirección Departamental de Educación, y el Certificado de Registro de Unidades Educativas (RUE).",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo I, Art. 6; página impresa: 3 (de 9); página PDF: 6."
+  },
+  {
+   "id": "a0f1179e8be9",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] ¿En qué periodo debe registrarse en el Sistema portal de trámites Web la solicitud de apertura, modificación o cierre de unidades educativas fiscales?",
+   "options": [
+    "Del 1 de julio al 31 de octubre, para su vigencia en la gestión siguiente.",
+    "Del 1 de enero al 31 de marzo, para su vigencia desde el segundo trimestre.",
+    "Del 1 de febrero al 30 de abril, para su vigencia en la misma gestión educativa.",
+    "Del 1 de junio al 30 de septiembre, para su vigencia en la gestión siguiente."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 16, parágrafo I, dispone que el registro de solicitudes de apertura, modificación y cierre se realice desde el 1 de junio hasta el 30 de septiembre, para su entrada en vigencia en la siguiente gestión educativa.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 16; página impresa: 7 (de 9); página PDF: 10."
+  },
+  {
+   "id": "c51f45a3b3ac",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] ¿Cuáles son los requisitos para la apertura de una unidad educativa fiscal?",
+   "options": [
+    "Solicitud de apertura, acta de fundación y acta de compromiso del GAM o del Gobierno IOC.",
+    "Solicitud de apertura, POA firmado por el Distrital y declaración jurada notariada.",
+    "Solicitud de apertura, reglamento interno y manual de organización y funciones aprobado por la DDE.",
+    "Solicitud de apertura, convenio vigente y certificación de registro de culto de RR.EE."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 7 fija tres requisitos: solicitud de apertura presentada por personas naturales o jurídicas, acta de fundación y acta de compromiso del Gobierno Autónomo Municipal o Gobierno Indígena Originario Campesino que garantice la responsabilidad del Art. 80 de la Ley de la Educación.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 7; página impresa: 4 (de 9); página PDF: 7."
+  },
+  {
+   "id": "68ba46f6d2e4",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO IV] ¿Cuál de las siguientes es causal de cierre definitivo de una unidad educativa fiscal?",
+   "options": [
+    "Contar con menos de 21 estudiantes por paralelo en dos gestiones consecutivas.",
+    "Contar con menos de 10 estudiantes, salvo en zonas fronterizas y de difícil acceso.",
+    "Registrar un rendimiento académico inferior al promedio del distrito educativo.",
+    "No contar con la actualización trienal del Certificado de Registro de la unidad educativa."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 19 establece como causales: cantidad de estudiantes menor a 10, con excepción de zonas fronterizas y de difícil acceso; incurrir en prohibiciones; no contar con estudiantes inscritos; caso fortuito o fuerza mayor con pérdida total de infraestructura; y reordenamiento administrativo distrital.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo IV, Art. 19; página impresa: 9 (de 9); página PDF: 12."
+  },
+  {
+   "id": "e98c586e1c39",
+   "q": "[R.M. 0534/2025 Modificación del Reglamento de U.E. Privadas – RESOLUCIÓN MINISTERIAL] ¿Qué modificó la R.M. 0534/2025 en el Reglamento de unidades educativas privadas?",
+   "options": [
+    "Las causales de cierre definitivo del Art. 15 y el procedimiento sancionatorio del Art. 22.",
+    "Los incisos b) y c) de los Arts. 20 y 21 sobre faltas graves, gravísimas y sus sanciones.",
+    "El periodo de trámites del Art. 13 y la gratuidad del Registro de Unidades Educativas.",
+    "Los requisitos de apertura del Art. 7 para asociaciones, cooperativas y sociedades."
+   ],
+   "answer": 1,
+   "explanation": "La R.M. 0534/2025, de 14 de agosto de 2025, modifica los incisos b) y c) del Art. 20 (faltas graves y gravísimas) y del Art. 21 (sanciones) del Reglamento aprobado por R.M. 0022/2024, y abroga la R.M. 023/11.",
+   "legal": "R.M. 0534/2025, Arts. 1, 2 y 4; páginas impresas: 2 a 4 (de 4); páginas PDF: 49 a 51."
+  },
+  {
+   "id": "19ee4b57e839",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO I] ¿Qué naturaleza jurídica atribuye el Reglamento a las unidades educativas fiscales?",
+   "options": [
+    "Entidades autónomas municipales que administran la educación de su territorio.",
+    "Instituciones privadas que prestan un servicio público por su carácter binario.",
+    "Personas jurídicas de derecho mixto que prestan un servicio público en virtud de convenio.",
+    "Instituciones públicas que brindan un servicio público bajo supervisión del Estado."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 2 define a las unidades educativas fiscales como instituciones públicas que brindan un servicio público, bajo supervisión del Estado, basadas en el derecho fundamental a la educación; el Art. 3 añade que son de enseñanza gratuita y sostenidas por el Estado.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo I, Arts. 2 y 3; página impresa: 3 (de 9); página PDF: 6."
+  },
+  {
+   "id": "588b7af45fdb",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO I] Según el Art. 3, las unidades educativas de convenio se constituyen en:",
+   "options": [
+    "Instituciones públicas sostenidas íntegramente por el Estado y administradas por él.",
+    "Personas jurídicas de derecho mixto, de servicio social, libre acceso y sin fines de lucro.",
+    "Personas jurídicas de derecho privado que prestan servicio público con fines de lucro propio.",
+    "Entidades religiosas autónomas exentas de las políticas del Sistema Educativo."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 3 define a las unidades educativas de convenio como personas jurídicas de derecho mixto, con fines educativos de servicio social, de libre acceso y sin fines de lucro, administradas por iglesias u otras instituciones, que prestan servicio público en función de un convenio vigente, con personal docente y administrativo financiado por el Estado.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo I, Art. 3; página impresa: 4 (de 15); página PDF: 19."
+  },
+  {
+   "id": "88b6f89c92ee",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO I] ¿Por qué el Reglamento califica de \"binario\" el carácter del servicio que prestan las unidades educativas privadas?",
+   "options": [
+    "Porque atiende a estudiantes de dos niveles: Primaria y Secundaria Comunitaria.",
+    "Porque depende a la vez de la Dirección Distrital y del Gobierno Municipal.",
+    "Porque combina financiamiento estatal con administración de entidades religiosas.",
+    "Porque la educación es a la vez un derecho fundamental y un servicio público."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 2 señala que las unidades educativas privadas son instituciones privadas que brindan un servicio público, dado su carácter binario, pues la educación no solo constituye un derecho fundamental, sino también un servicio público, bajo regulación, gestión y supervisión del Estado.",
+   "legal": "R.M. 0022/2024, Reglamento (privadas), Capítulo I, Art. 2; página impresa: 3 (de 13); página PDF: 37."
+  },
+  {
+   "id": "3e21112b150d",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO I] ¿Qué control periódico sobre el Certificado RUE prevén los reglamentos de unidades de convenio y privadas?",
+   "options": [
+    "Revisión anual por la junta escolar y actualización cada dos años.",
+    "Revisión semestral por el Ministerio y actualización cada cinco años.",
+    "Revisión trimestral por la DDE y actualización obligatoria al inicio de cada gestión.",
+    "Revisión anual por las direcciones distritales y actualización cada tres años."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 5, parágrafo II, de ambos reglamentos dispone que las direcciones distritales revisen anualmente los Certificados RUE, que deben ser actualizados cada tres años para garantizar la mejora de los servicios.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Art. 5, pág. impresa 4 (de 15), PDF 19; R.M. 0022/2024, Reglamento (privadas), Art. 5, pág. impresa 3 (de 13), PDF 37."
+  },
+  {
+   "id": "f1fd12cd67ac",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – DISPOSICIONES FINALES] ¿Qué establece la Disposición Final Primera del Reglamento de unidades educativas fiscales sobre el Registro de Unidades Educativas?",
+   "options": [
+    "Que el RUE es gratuito para las unidades educativas fiscales.",
+    "Que el RUE es gratuito solo en zonas fronterizas y rurales.",
+    "Que el RUE se renueva anualmente con pago de un arancel mínimo.",
+    "Que el RUE tiene un costo fijado por la Dirección Departamental."
+   ],
+   "answer": 0,
+   "explanation": "La Disposición Final Primera del Reglamento de fiscales establece que el Registro de Unidades Educativas (RUE) es gratuito para las unidades educativas fiscales.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Disposición Final Primera; página impresa: 9 (de 9); página PDF: 12."
+  },
+  {
+   "id": "551d4b178623",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] En el procedimiento de apertura de una unidad fiscal, ¿qué corresponde a la Dirección Distrital Educativa?",
+   "options": [
+    "Revisar y verificar in situ en máximo 8 días y emitir el informe técnico de viabilidad.",
+    "Habilitar el registro y la firma electrónica en el sistema en un plazo de 2 días hábiles.",
+    "Emitir la Resolución Administrativa de apertura en un plazo máximo de 3 días hábiles.",
+    "Imprimir y entregar el Certificado RUE original en un plazo máximo de 2 días hábiles."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 8, inciso b), dispone que la Dirección Distrital, en un plazo no mayor a 8 días, realice la revisión, análisis y verificación in situ de infraestructura, equipamiento y estadística y emita el informe técnico de viabilidad; la Resolución corresponde al Director Departamental y la habilitación al Ministerio.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 8, inc. b); página impresa: 4 (de 9); página PDF: 7."
+  },
+  {
+   "id": "f9b5e192911c",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] ¿Qué instancia aprueba y habilita en el sistema el registro de apertura, la firma electrónica y la autorización de impresión del Certificado RUE?",
+   "options": [
+    "La Dirección Departamental de Educación, a través de la Subdirección de Educación Regular del área.",
+    "La Dirección Distrital Educativa, a través del técnico responsable del Sistema de Información Educativa (SIE).",
+    "El Ministerio de Educación, a través de la Unidad de Gestión de Personal del SEP y Sistemas Informáticos.",
+    "La Jefatura de Asuntos Jurídicos de la DDE, mediante su informe legal y proyecto de resolución."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 8, inciso f), dispone que el Ministerio de Educación, a través de la Unidad de Gestión de Personal del SEP y Sistemas Informáticos, en un plazo no mayor a 2 días hábiles, apruebe y habilite el registro, la firma electrónica y la autorización de impresión del Certificado RUE original.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 8, inc. f); página impresa: 4 (de 9); página PDF: 7."
+  },
+  {
+   "id": "fc415a55165f",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO IV] ¿Quiénes pueden solicitar el cierre definitivo de una unidad educativa fiscal según el Art. 18?",
+   "options": [
+    "Solo el Director Departamental, previa evaluación del rendimiento académico de la unidad.",
+    "El Gobierno Autónomo Municipal, cuando decida dejar de financiar los servicios básicos.",
+    "Solo la junta escolar de padres y madres de familia, con el aval del Gobierno Autónomo Municipal del lugar.",
+    "El Director de la unidad o Director Encargado; o el Director Distrital de oficio o a pedido superior."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 18, numeral 1, establece que la solicitud de cierre la dirige al Director Distrital el Director de la unidad o Director Encargado, especificando las causales; y, en caso de incumplimiento a normativa, el Director Distrital realiza la solicitud de oficio o a solicitud de autoridad superior.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo IV, Art. 18; página impresa: 8 (de 9); página PDF: 11."
+  },
+  {
+   "id": "acf2dbd6552f",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO IV] ¿Qué deber periódico asigna el Reglamento al Director Distrital respecto de las unidades de convenio y privadas de su jurisdicción?",
+   "options": [
+    "Designar anualmente al director de cada unidad de convenio y privada del distrito.",
+    "Auditar anualmente los estados financieros de cada unidad de convenio y privada.",
+    "Aprobar anualmente el reglamento interno y los montos de pensiones de cada unidad de su jurisdicción.",
+    "Elaborar anualmente un cronograma de inspecciones para verificar el cumplimiento de la norma."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 22 (convenio) y el Art. 18 (privadas) disponen que el Director Distrital elabore anualmente un cronograma de inspecciones a las unidades de su jurisdicción para verificar el cumplimiento de la normativa sobre apertura, modificación y cierre.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Art. 22, pág. impresa 12 (de 15), PDF 27; R.M. 0022/2024, Reglamento (privadas), Art. 18, pág. impresa 10 (de 13), PDF 44."
+  },
+  {
+   "id": "1366cd1bfca7",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] Cuando el denunciante de un hecho irregular en una unidad de convenio o privada es un estudiante, ¿qué deber tiene el Director Distrital?",
+   "options": [
+    "Remitir la denuncia a la junta escolar para su verificación.",
+    "Exigir la presencia de sus padres para validar la denuncia.",
+    "Mantener en reserva su identidad, para evitar represalias.",
+    "Hacer pública la denuncia para garantizar la transparencia."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 23, parágrafo II (convenio), y el Art. 19, parágrafo II (privadas), disponen que los Directores Distritales mantengan en reserva la identidad cuando los denunciantes sean estudiantes, a fin de evitar represalias; de lo contrario, serán pasibles de acciones administrativas.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Art. 23, pág. impresa 12 (de 15), PDF 27; R.M. 0022/2024, Reglamento (privadas), Art. 19, pág. impresa 10 (de 13), PDF 44."
+  },
+  {
+   "id": "1d3e814fc315",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO IV] ¿Quiénes son pasibles de sanciones si incurren en las prohibiciones del Reglamento de unidades fiscales?",
+   "options": [
+    "Solo los directores de unidades educativas, por ser los responsables del funcionamiento institucional.",
+    "Solo los técnicos del sistema RUE que registren datos erróneos en el portal de trámites Web.",
+    "Solo los miembros de la junta escolar que hayan suscrito el acta de fundación de la unidad.",
+    "Directores de unidades, directores distritales, técnicos, subdirectores y directores departamentales."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 21 dispone que los directores de unidades educativas, directores distritales, técnicos, subdirectores de educación y directores departamentales que incurran en las prohibiciones serán pasibles de las sanciones establecidas en la normativa vigente.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo IV, Art. 21; página impresa: 9 (de 9); página PDF: 12."
+  },
+  {
+   "id": "28cef6883e97",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] En la apertura de una unidad fiscal, ¿qué debe hacer la Dirección Departamental una vez devuelto el trámite por el Ministerio?",
+   "options": [
+    "Publicar la Resolución Administrativa y archivar el trámite en la Dirección Distrital Educativa.",
+    "Devolver el trámite al solicitante para que imprima el Certificado RUE en su propia unidad.",
+    "Remitir el trámite a la Jefatura de Asuntos Jurídicos para un nuevo informe legal en el plazo de 3 días hábiles.",
+    "Imprimir y entregar el Certificado RUE a la Distrital en 2 días hábiles y custodiar la documentación."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 8, inciso g), dispone que, devuelto el trámite, la Dirección Departamental en el plazo de 2 días hábiles imprima y entregue el Certificado RUE a la Dirección Distrital y mantenga bajo su custodia toda la documentación del trámite.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 8, inc. g); página impresa: 4 (de 9); página PDF: 7."
+  },
+  {
+   "id": "2bc88b6a5ac2",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] ¿Qué instancia inicia el procedimiento sancionatorio contra unidades educativas de convenio o privadas que incurren en faltas?",
+   "options": [
+    "El Ministerio de Educación, a través de la Dirección General de Asuntos Jurídicos.",
+    "La Dirección Departamental, a través de las Direcciones Distritales Educativas.",
+    "La junta escolar de la unidad, con el aval del Gobierno Autónomo Municipal.",
+    "El Tribunal Disciplinario Departamental, a denuncia del Director Distrital."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 24 (convenio) y el Art. 20 (privadas) disponen que las Direcciones Departamentales, a través de las Direcciones Distritales, inicien el procedimiento sancionatorio a las unidades que incurran en las faltas previstas.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Art. 24, pág. impresa 12 (de 15), PDF 27; R.M. 0022/2024, Reglamento (privadas), Art. 20, pág. impresa 10 (de 13), PDF 44."
+  },
+  {
+   "id": "a1aaf4868ae9",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] ¿Qué régimen disciplinario se aplica a los directores, maestros o personal administrativo responsables de una unidad de convenio?",
+   "options": [
+    "El Reglamento de la Carrera Administrativa y el Reglamento de Faltas y Sanciones del Magisterio.",
+    "La Ley N.º 2341 de Procedimiento Administrativo, mediante los recursos de revocatoria y jerárquico.",
+    "El reglamento interno aprobado por la entidad religiosa que administra la unidad de convenio.",
+    "El régimen sancionatorio de multas porcentuales sobre pensiones previsto para las privadas."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 28, parágrafo I, dispone que el régimen disciplinario aplicable a directores, responsables, maestros o personal administrativo de la unidad de convenio es el previsto en el Reglamento de la Carrera Administrativa del Servicio de Educación Pública y en el Reglamento de Faltas y Sanciones del Magisterio; la Ley N.º 2341 rige la impugnación de los propietarios.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo V, Art. 28; página impresa: 15 (de 15); página PDF: 30."
+  },
+  {
+   "id": "6b24ea1bb399",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] ¿Qué requisitos exige el Reglamento para el cambio de jurisdicción administrativa de una unidad fiscal?",
+   "options": [
+    "Solicitud, informe de la junta escolar, resolución del Gobierno Municipal y Certificado RUE original.",
+    "Solicitud, informe del Gobierno Municipal, FORM-001 y declaración jurada notariada del director.",
+    "Solicitud, informe técnico distrital, Resolución Bi-Distrital, FORM-002 y acta de compromiso del GAM.",
+    "Solicitud, informe técnico departamental, Resolución Ministerial y acta de fundación actualizada."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 12 exige: solicitud dirigida al Director Distrital, informe técnico de justificación del Director Distrital, Resolución Bi-Distrital que autoriza el cambio, Formulario FORM-002 y acta de compromiso del Gobierno Autónomo Municipal (incluidas cámaras de seguridad, si corresponde).",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 12; página impresa: 6 (de 9); página PDF: 9."
+  },
+  {
+   "id": "b2d09f347817",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] ¿Qué ocurre con los trámites registrados en el sistema que no culminan hasta el 31 de diciembre de la gestión en que se iniciaron?",
+   "options": [
+    "Se dan de baja en el sistema y, si hubo atrasos injustificados, se procesa a los responsables.",
+    "Se trasladan automáticamente a la gestión siguiente con la misma prioridad de atención.",
+    "Se aprueban de oficio por silencio administrativo positivo de la Dirección Departamental de Educación.",
+    "Se suspenden hasta el nuevo periodo de registro del 1 de junio de la gestión siguiente."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 16, parágrafos III y IV, dispone que todos los trámites deben culminar hasta el 31 de diciembre de la gestión en que se iniciaron; los pendientes son dados de baja, y si la baja se debe a atrasos administrativos injustificados, los servidores responsables serán pasibles de procesos administrativos.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 16; páginas impresas: 7 y 8 (de 9); páginas PDF: 10 y 11."
+  },
+  {
+   "id": "f57a21b2e7a7",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] Si la Dirección Distrital observa la solicitud de apertura y el solicitante no subsana en el plazo previsto, ¿qué consecuencia establece el Reglamento?",
+   "options": [
+    "El trámite continúa y la observación se subsana ante la Dirección Departamental.",
+    "El trámite se archiva temporalmente hasta la siguiente gestión educativa.",
+    "El trámite se aprueba con observaciones y se condiciona el Certificado RUE.",
+    "El trámite se da de baja en el sistema y se registra como no presentado."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 8, inciso b), dispone que, existiendo observaciones, el trámite se devuelve al solicitante, quien debe subsanar en el plazo máximo de 5 días hábiles, en físico y por sistema; caso contrario, el trámite será dado de baja y se registrará como no presentado.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 8, inc. b); página impresa: 4 (de 9); página PDF: 7."
+  },
+  {
+   "id": "86567312ea5e",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] ¿Qué debe reconocer la Resolución Administrativa que aprueba la fusión de unidades educativas fiscales?",
+   "options": [
+    "El nombre de la unidad más antigua de las fusionadas.",
+    "La antigüedad de funcionamiento de la unidad educativa.",
+    "El número de estudiantes de la unidad con más matrícula.",
+    "La categoría docente de los maestros de ambas unidades."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 13, parágrafo II, dispone que la Resolución Administrativa que aprueba la fusión deberá reconocer la antigüedad de funcionamiento de la unidad educativa; el parágrafo I exige priorizar la unidad que imparte el Bachillerato Técnico Humanístico.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 13; páginas impresas: 6 y 7 (de 9); páginas PDF: 9 y 10."
+  },
+  {
+   "id": "3eddc16d86f4",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] ¿Qué limitación territorial impone el Reglamento al cambio de infraestructura de una unidad fiscal?",
+   "options": [
+    "Solo procede cuando el cambio se realiza dentro del mismo Distrito Educativo.",
+    "Solo procede cuando el cambio se realiza dentro del mismo núcleo o red escolar.",
+    "Solo procede cuando el cambio se realiza con acuerdo de la Dirección Bi-Distrital.",
+    "Solo procede cuando el cambio se realiza hacia un municipio colindante del mismo departamento."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 14, parágrafo II, dispone que el trámite de cambio de infraestructura educativa solamente se realizará cuando sea en un mismo Distrito Educativo; el cambio de un municipio a otro sin autorización expresa está prohibido (Art. 17, num. 5).",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Arts. 14 y 17; páginas impresas: 7 y 8 (de 9); páginas PDF: 10 y 11."
+  },
+  {
+   "id": "97842a13a385",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] ¿Qué debe establecer el acta de fundación de un Módulo Tecnológico Productivo?",
+   "options": [
+    "Su funcionamiento para Primaria y Secundaria en turnos alternos.",
+    "Su implementación exclusiva para el Bachillerato Técnico Humanístico.",
+    "Su apertura como unidad educativa independiente con nuevo RUE.",
+    "Su administración compartida con una entidad privada de formación técnica."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 9, inciso a), numeral 3, exige un acta de fundación del Módulo Tecnológico Productivo que establezca la implementación exclusiva del Bachillerato Técnico Humanístico.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 9; página impresa: 5 (de 9); página PDF: 8."
+  },
+  {
+   "id": "982a9fc83efd",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Entre los requisitos para ampliar o reducir niveles de una unidad fiscal, el informe técnico del Director Distrital debe establecer, entre otros aspectos:",
+   "options": [
+    "La demanda educativa, el techo presupuestario, aspectos técnicos y de infraestructura.",
+    "El convenio vigente, la certificación de culto y la declaración jurada del director.",
+    "El rendimiento académico, la antigüedad del plantel y el número de padres de familia afiliados.",
+    "El reglamento interno, las pensiones vigentes y el manual de funciones de la unidad."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 10, numeral 2, exige un informe técnico del Director Distrital que establezca la demanda educativa, el techo presupuestario, aspectos técnicos, de infraestructura y registro en el sistema; el techo presupuestario no figura en el requisito equivalente para convenio y privadas.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 10; páginas impresas: 5 y 6 (de 9); páginas PDF: 8 y 9."
+  },
+  {
+   "id": "37c8a87a1c12",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] En el procedimiento sancionatorio para unidades de convenio y privadas, ¿qué efecto tiene la ausencia del propietario o responsable en la audiencia pública?",
+   "options": [
+    "Implica la aceptación tácita de las faltas.",
+    "No suspende el acto de audiencia pública.",
+    "Obliga a reprogramar la audiencia una vez.",
+    "Determina la nulidad de todo lo actuado."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 27, inciso a) (convenio), y el Art. 22, inciso a) (privadas), disponen que la ausencia del propietario o responsable de la unidad no suspenderá el acto de audiencia pública, cuya participación del denunciante y del propietario es optativa.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Art. 27, pág. impresa 14 (de 15), PDF 29; R.M. 0022/2024, Reglamento (privadas), Art. 22, pág. impresa 12 (de 13), PDF 46."
+  },
+  {
+   "id": "2403b09f637b",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] ¿Qué naturaleza tiene la Resolución Administrativa sancionatoria que establece sumas líquidas y exigibles?",
+   "options": [
+    "Es instrumento con fuerza coactiva para iniciar el proceso coactivo fiscal.",
+    "Es un título que solo puede ejecutarse con acuerdo del propietario.",
+    "Es un acto sin efecto mientras no lo confirme expresamente el Ministerio de Educación.",
+    "Es una recomendación que requiere ratificación judicial para cobrarse."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 30 (convenio) y el Art. 25 (privadas) disponen que la Resolución Administrativa sancionatoria que establezca sumas líquidas y exigibles se constituye en instrumento con fuerza coactiva para el inicio del proceso coactivo fiscal, conforme a la Ley de Procedimiento Coactivo Fiscal.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Art. 30, pág. impresa 15 (de 15), PDF 30; R.M. 0022/2024, Reglamento (privadas), Art. 25, pág. impresa 13 (de 13), PDF 47."
+  },
+  {
+   "id": "94e24c917a47",
+   "q": "[R.M. 0534/2025 Modificación del Reglamento de U.E. Privadas – RESOLUCIÓN MINISTERIAL] Según los considerandos de la R.M. 0534/2025, ¿por qué se modificó el régimen sancionatorio de las unidades privadas?",
+   "options": [
+    "Porque el régimen anterior no preveía ninguna sanción por cobros indebidos.",
+    "Porque el cierre directo por incrementar pensiones era gravoso y no proporcional.",
+    "Porque se debía unificar el régimen de las unidades privadas con el de las unidades fiscales.",
+    "Porque las multas sobre pensiones vulneraban la autonomía de las privadas."
+   ],
+   "answer": 1,
+   "explanation": "Los considerandos señalan que el Reglamento no preveía de manera gradual las sanciones por incremento de pensiones, que la sanción gravísima de cierre directo resultaba gravosa y no proporcional, y que era necesario un procedimiento de sanción más equitativo y efectivo.",
+   "legal": "R.M. 0534/2025, Considerando II; página impresa: 2 (de 4); página PDF: 49."
+  },
+  {
+   "id": "e542e3f4d6b8",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] ¿Cómo se regulan las faltas y sanciones de las unidades educativas de convenio suscritas entre otros países y el Estado Plurinacional?",
+   "options": [
+    "Se rigen por la legislación del país que suscribe el convenio.",
+    "Se rigen por el régimen sancionatorio general del Art. 25.",
+    "Están exentas de cualquier régimen de faltas y sanciones.",
+    "Se circunscriben al marco legal vigente, según el Art. 26."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 26 del Reglamento de convenio dispone que las faltas y sanciones correspondientes a las unidades educativas de convenio entre otros países y el Estado Plurinacional se circunscribirán al marco legal vigente.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Art. 26; página impresa: 14 (de 15); página PDF: 29."
+  },
+  {
+   "id": "81946efc18fe",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO III] Distinga la prohibición de cambio de dependencia según el tipo de unidad educativa:",
+   "options": [
+    "Fiscales: no pueden pasar a privada; convenio: pueden pasar a privada con autorización distrital.",
+    "Fiscales: pueden pasar a convenio; convenio: no pueden pasar a fiscal en ningún caso.",
+    "Fiscales: no pueden pasar a convenio o privada; convenio: no pueden pasar a fiscal o privada.",
+    "Ambas pueden cambiar libremente de dependencia si cuentan con el aval de la junta escolar."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 17, numeral 3 (fiscales), prohíbe cambiar de dependencia a convenio o a privada; el Art. 18, numeral 3 (convenio), prohíbe cambiar de dependencia a fiscal o a privada. El Art. 11 de convenio regula el registro del cambio de dependencia de convenio a fiscal en los casos que prevé.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Art. 17, pág. impresa 8 (de 9), PDF 11; R.M. 0021/2024, Reglamento (convenio), Arts. 11 y 18, págs. impresas 8 y 10 (de 15), PDF 23 y 25."
+  },
+  {
+   "id": "b15f087eb600",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] Distinga las sanciones por faltas leves en unidades de convenio y en unidades privadas:",
+   "options": [
+    "Convenio: descuentos de haber a director y propietario; privadas: multa del 5% de las pensiones.",
+    "Ambas: amonestación escrita al director y descuento del 10% al propietario de la unidad.",
+    "Convenio: multa del 5% de las pensiones; privadas: descuento de tres a cinco días de haber al director.",
+    "Convenio: suspensión de 15 días al director; privadas: multa del 20% de las pensiones."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 25, inciso a) (convenio), fija descuento de 3 a 5 días al director o responsable y del 10% del haber al propietario o representante; el Art. 21, inciso a) (privadas), fija multa del 5% del ingreso mensual por pensiones de la totalidad de estudiantes.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Art. 25, pág. impresa 12 (de 15), PDF 27; R.M. 0022/2024, Reglamento (privadas), Art. 21, pág. impresa 12 (de 13), PDF 46."
+  },
+  {
+   "id": "dbef77fbd412",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] Distinga el régimen de impugnación de los propietarios de unidades privadas del de los propietarios de unidades de convenio:",
+   "options": [
+    "Privadas: vía judicial ordinaria; convenio: recurso ante el Tribunal Disciplinario.",
+    "En ambos casos se sustancia conforme a la Ley N.º 2341 de Procedimiento Administrativo.",
+    "Privadas: recurso ante la junta escolar; convenio: recurso ante la entidad religiosa.",
+    "Privadas: Ley N.º 2341; convenio: Reglamento de Faltas y Sanciones del Magisterio."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 23 (privadas) remite los recursos de revocatoria y jerárquico a la Ley N.º 2341; el Art. 28, parágrafo II (convenio), dispone que los medios de impugnación de los propietarios se sustancian según la misma Ley. El Reglamento de Faltas rige el régimen disciplinario del personal de convenio, no la impugnación del propietario.",
+   "legal": "R.M. 0022/2024, Reglamento (privadas), Art. 23, pág. impresa 12 (de 13), PDF 46; R.M. 0021/2024, Reglamento (convenio), Art. 28, pág. impresa 15 (de 15), PDF 30."
+  },
+  {
+   "id": "9cb6b4ce0a2b",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Distinga el formulario que se usa para registrar la apertura del que se usa para modificación o cierre:",
+   "options": [
+    "Apertura y modificación: FORM-001; cierre: FORM-003.",
+    "Apertura: FORM-002; modificación y cierre: FORM-001.",
+    "Apertura: FORM-001; modificación y cierre: FORM-002.",
+    "Apertura: FORM-001; modificación: FORM-002; cierre: FORM-003."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 8, inciso a), indica que la apertura genera el Formulario RUE (FORM-001); los Arts. 10 a 15 y 18 exigen el Formulario de trámite de Modificación o de cierre definitivo (FORM-002).",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Arts. 8, 10 y 18; páginas impresas: 4, 6 y 8 (de 9); páginas PDF: 7, 9 y 11."
+  },
+  {
+   "id": "82810c4ad617",
+   "q": "[R.M. 0534/2025 Modificación del Reglamento de U.E. Privadas – RESOLUCIÓN MINISTERIAL] Distinga cómo trataba el incremento de pensiones por encima de lo dispuesto por el Ministerio la R.M. 0022/2024 y cómo lo trata tras la R.M. 0534/2025:",
+   "options": [
+    "Antes, falta leve con multa del 5%; después, falta grave con multa del 20%.",
+    "Antes, falta grave con multa del 20%; después, falta gravísima con cierre definitivo.",
+    "Antes, falta gravísima con cierre definitivo; después, falta grave con multa del 10%.",
+    "Antes y después, falta gravísima sancionada con el cierre definitivo de la unidad."
+   ],
+   "answer": 2,
+   "explanation": "El texto original del Art. 20, inciso c), numeral 7, tipificaba el incremento de pensiones como falta gravísima (sancionada con cierre). La R.M. 0534/2025 lo traslada al inciso b) como falta grave (num. 11) y fija la sanción de faltas graves en multa del 10% del ingreso mensual por pensiones.",
+   "legal": "R.M. 0022/2024, Reglamento (privadas), Arts. 20 y 21, págs. impresas 11 y 12 (de 13), PDF 45 y 46; R.M. 0534/2025, Art. 2, pág. impresa 3 (de 4), PDF 50."
+  },
+  {
+   "id": "8efa29f42336",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO IV] En el Reglamento de convenio, el Art. 21 remite el procedimiento de modificación y cierre \"de unidades educativas privadas\" al Art. 8. Desde un análisis crítico, ¿qué se advierte?",
+   "options": [
+    "Una imprecisión de redacción, pues el reglamento regula unidades de convenio.",
+    "Una delegación del cierre de unidades de convenio a las unidades privadas vecinas.",
+    "Una derogación tácita del procedimiento de cierre para las unidades de convenio.",
+    "Una remisión deliberada que somete a las unidades de convenio al régimen privado."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 21 del Reglamento de convenio, titulado \"Procedimiento de modificación y cierre de unidades educativas de convenio\", menciona en su texto el \"cierre de unidades educativas privadas\"; dentro de un reglamento cuyo objeto son las unidades de convenio (Art. 1), constituye una imprecisión de redacción.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Arts. 1 y 21; páginas impresas: 4 y 12 (de 15); páginas PDF: 19 y 27."
+  },
+  {
+   "id": "aee62e6b1b90",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – DISPOSICIONES FINALES] La Disposición Final Primera del Reglamento de unidades privadas declara gratuito el RUE \"para las unidades educativas de convenio\". ¿Qué observación crítica corresponde?",
+   "options": [
+    "Es una regla deliberada que impone un costo del RUE solo a las unidades de convenio.",
+    "Es una regla correcta, porque las unidades privadas no requieren Certificado RUE para funcionar.",
+    "Es una inconsistencia: el reglamento regula privadas y no menciona la gratuidad para ellas.",
+    "Es una remisión al Reglamento de fiscales, que declara gratuito el RUE para todas."
+   ],
+   "answer": 2,
+   "explanation": "La Disposición Final Primera del Reglamento de privadas (R.M. 0022/2024) establece que el RUE es gratuito \"para las unidades educativas de convenio\", pese a que el Reglamento regula unidades privadas (Art. 1) y estas requieren Certificado RUE para funcionar (Art. 5).",
+   "legal": "R.M. 0022/2024, Reglamento (privadas), Arts. 1 y 5 y Disposición Final Primera; páginas impresas: 3 y 13 (de 13); páginas PDF: 37 y 47."
+  },
+  {
+   "id": "f37ab9ebea2c",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] Cuando a un propietario de unidad de convenio se le impone el cierre definitivo por falta gravísima y la infraestructura depende del GAM, ¿qué solución prevé el Reglamento?",
+   "options": [
+    "La entrega de la infraestructura a la junta escolar.",
+    "El traslado de los estudiantes a unidades privadas.",
+    "El cambio de dependencia a unidad educativa fiscal.",
+    "La suspensión del cierre hasta renovar el convenio."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 25, inciso c), numeral 3, dispone el cierre definitivo para el propietario, efectivo en la siguiente gestión para no perjudicar a los estudiantes; si la infraestructura depende del Gobierno Autónomo Municipal, se procede al cambio de dependencia a unidad educativa fiscal.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Art. 25; página impresa: 14 (de 15); página PDF: 29."
+  },
+  {
+   "id": "f61b42fb1cf3",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] Los reglamentos de convenio y privadas disponen que el cierre definitivo por falta gravísima se haga efectivo en la gestión siguiente. ¿Qué principio prioriza esta regla?",
+   "options": [
+    "La recaudación de las pensiones pendientes de la gestión en curso.",
+    "La continuidad y el acceso al derecho a la educación de los estudiantes.",
+    "El derecho del personal docente a concluir su contrato hasta el final de la gestión.",
+    "La protección del patrimonio del propietario de la unidad sancionada."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 21, inciso c) de privadas (en su texto modificado por la R.M. 0534/2025), dispone que el cierre se ejecute en la siguiente gestión \"a fin de dar continuidad y garantizar el acceso al derecho a la educación de los estudiantes\"; el reglamento de convenio usa la fórmula \"a fin de no perjudicar a los estudiantes\".",
+   "legal": "R.M. 0534/2025, Art. 2, II, pág. impresa 3 (de 4), PDF 50; R.M. 0021/2024, Reglamento (convenio), Art. 25, pág. impresa 14 (de 15), PDF 29."
+  },
+  {
+   "id": "35a0bb5f4538",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO III] Los reglamentos de convenio y privadas prohíben prestar servicios con personal sin certificados REJAP y SIPPASE actualizados en cada gestión. ¿Qué finalidad de protección expresa esta prohibición, en relación con la prohibición precedente?",
+   "options": [
+    "Prevenir que presten servicios personas con antecedentes penales, de violencia o abuso.",
+    "Verificar que el personal esté afiliado al sistema de seguridad social de corto plazo.",
+    "Asegurar que el personal no mantenga otro empleo público en la misma gestión educativa.",
+    "Garantizar que el personal cuente con título profesional de maestro y pertinencia académica."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 18 (convenio) y el Art. 14 (privadas) prohíben prestar servicio con personal que tenga antecedentes penales, de violencia o abuso, en cumplimiento de los D.S. 1302 y 1320 (num. 13), y sin certificados REJAP y SIPPASE actualizados en cada gestión (num. 14), lo que asegura la verificación periódica de esos antecedentes.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Art. 18, págs. impresas 10 y 11 (de 15), PDF 25 y 26; R.M. 0022/2024, Reglamento (privadas), Art. 14, pág. impresa 9 (de 13), PDF 43."
+  },
+  {
+   "id": "822b3d10c341",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] En unidades de convenio, el cobro de matrícula y/o pensiones es falta grave, mientras que en privadas lo es solo el cobro de matrícula. ¿Qué explica esta diferencia según la naturaleza de cada una?",
+   "options": [
+    "Ambas pueden cobrar libremente; la diferencia solo refleja un error material del reglamento.",
+    "Las de convenio reciben pensiones del Estado; las privadas cobran matrícula al Ministerio.",
+    "Las de convenio son de libre acceso y sin fines de lucro; las privadas cobran pensiones reguladas.",
+    "Las de convenio pueden cobrar pensiones con aval eclesiástico; las privadas no pueden cobrarlas."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 3 de convenio las define como de libre acceso y sin fines de lucro; su Art. 24, inciso b), numeral 2, tipifica como grave cobrar matrícula y/o pensiones. En privadas, el Art. 20, inciso b), numeral 2, sanciona el cobro de matrícula, mientras las pensiones existen y se regulan (incremento por encima de lo dispuesto por el Ministerio).",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Arts. 3 y 24, págs. impresas 4 y 13 (de 15), PDF 19 y 28; R.M. 0022/2024, Reglamento (privadas), Art. 20, pág. impresa 11 (de 13), PDF 45."
+  },
+  {
+   "id": "f227b8ec148b",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Los tres reglamentos prohíben anteponer al nombre propio denominativos como \"escuela\", \"colegio\" o \"liceo\", y llevar nombres de personas vivas. ¿Qué finalidad institucional resulta coherente con estas prohibiciones?",
+   "options": [
+    "Evitar confusiones en la identificación de las unidades y reservar homenajes a personas fallecidas meritorias.",
+    "Favorecer que las unidades adopten nombres comerciales atractivos para captar más estudiantes.",
+    "Garantizar que todas las unidades lleven nombres de autoridades educativas en ejercicio.",
+    "Permitir que las unidades cambien de nombre en cada gestión según la decisión de la junta escolar de padres."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 17 (fiscales), el Art. 18 (convenio) y el Art. 14 (privadas) prohíben anteponer denominativos genéricos, llevar el nombre de otra unidad del mismo distrito, nombres de personas vivas (solo de fallecidas meritorias) y nombres extranjeros que generen confusión.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Art. 17, pág. impresa 8 (de 9), PDF 11; R.M. 0022/2024, Reglamento (privadas), Art. 14, pág. impresa 9 (de 13), PDF 43."
+  },
+  {
+   "id": "8c4a5a084fdd",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO II] El Reglamento de privadas diferencia los requisitos legales de apertura según el tipo de persona jurídica (ONG, institución religiosa, sociedad, unipersonal, cooperativa, convenio entre Estados). ¿Qué rasgo del diseño normativo revela?",
+   "options": [
+    "Adecúa la acreditación jurídica a la naturaleza de cada tipo de propietario.",
+    "Exige idénticos documentos a todos, sin considerar su naturaleza jurídica.",
+    "Reserva la apertura de privadas a instituciones religiosas y cooperativas.",
+    "Exime a las unidades unipersonales de acreditar a su representante legal."
+   ],
+   "answer": 0,
+   "explanation": "La tabla del Art. 7 exige, por ejemplo, testimonio de personalidad jurídica a ONG, religiosas, sociedades y convenios entre Estados; resolución de AFCOOP a cooperativas; certificación de culto a instituciones religiosas; y copia del convenio entre Estados, adecuando la acreditación a cada tipo de propietario.",
+   "legal": "R.M. 0022/2024, Reglamento (privadas), Capítulo II, Art. 7 (tabla de requisitos legales); páginas impresas: 4 y 5 (de 13); páginas PDF: 38 y 39."
+  },
+  {
+   "id": "b4a432b5b479",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] Para la apertura de unidades fiscales y de Módulos Tecnológicos Productivos se exige un acta de compromiso del Gobierno Autónomo Municipal. ¿Qué lectura crítica explica esta exigencia?",
+   "options": [
+    "Permite al municipio designar al director y al personal de la nueva unidad educativa fiscal.",
+    "Traslada al municipio la competencia de autorizar y supervisar el funcionamiento de las unidades educativas.",
+    "Sustituye el informe técnico de viabilidad que debe emitir la Dirección Distrital Educativa.",
+    "Vincula la apertura con el compromiso de quien debe garantizar servicios, infraestructura y equipamiento."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 7 exige un acta de compromiso del GAM o GIOC que garantice la responsabilidad del Art. 80 de la Ley de la Educación, y el Art. 9 exige un acta del GAM para dotar, financiar y garantizar servicios básicos, infraestructura, mobiliario, material y equipamiento del Módulo. La autorización sigue en manos de la DDE.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Arts. 7, 8 y 9; páginas impresas: 4 y 5 (de 9); páginas PDF: 7 y 8."
+  },
+  {
+   "id": "52bd654c58d1",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] El procedimiento de apertura de unidades fiscales fija plazos breves para cada instancia (8 días, 7, 3, 3, 2 y 2 días hábiles). ¿Qué lectura crítica explica este diseño?",
+   "options": [
+    "Busca reducir el control técnico, pues la verificación in situ resulta opcional para la Distrital.",
+    "Busca habilitar la apertura en la misma gestión, siempre que el trámite se inicie en febrero.",
+    "Busca trasladar la decisión al municipio, que emite la autorización final de funcionamiento.",
+    "Busca que los trámites concluyan en la gestión, pues los pendientes al 31 de diciembre se dan de baja."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 8 fija plazos máximos para la Distrital (8 días), la Subdirección (7), Jurídica (3), el Director Departamental (3), el Ministerio (2) y la impresión del RUE (2); el Art. 16 dispone que los trámites deben culminar hasta el 31 de diciembre y que los pendientes se dan de baja, con responsabilidad por atrasos injustificados.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Arts. 8 y 16; páginas impresas: 4, 7 y 8 (de 9); páginas PDF: 7, 10 y 11."
+  },
+  {
+   "id": "168d8e0dd6af",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Un director desea cambiar el nombre de su unidad fiscal. ¿Qué requisitos debe presentar?",
+   "options": [
+    "Solicitud al Ministerio, Resolución Bi-Distrital y acta de compromiso municipal.",
+    "Solicitud a la DDE, acta de la junta escolar y Certificado RUE original.",
+    "Solicitud al Director Distrital y Formulario FORM-002 generado en el sistema.",
+    "Solicitud al Director Distrital, convenio vigente y poder del representante."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 11 del Reglamento de fiscales exige solo la solicitud del Director de la unidad al Director Distrital pidiendo el cambio de nombre y el Formulario FORM-002 generado por el Sistema portal de trámites Web.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 11; página impresa: 6 (de 9); página PDF: 9."
+  },
+  {
+   "id": "6154d3d9ef93",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Una comunidad propone llamar a la nueva unidad fiscal con el nombre de su alcalde en ejercicio. ¿Qué corresponde?",
+   "options": [
+    "Es posible si se antepone el denominativo genérico \"Colegio\".",
+    "Es posible si el Concejo Municipal aprueba el homenaje respectivo.",
+    "No es posible: está prohibido llevar nombres de personas vivas.",
+    "No es posible solo si otra unidad del distrito lleva ese nombre."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 17, numeral 9, prohíbe a las unidades llevar nombres de personas vivas; solo pueden llevar nombre de personas fallecidas meritorias. El numeral 7 prohíbe además anteponer denominativos genéricos.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 17; página impresa: 8 (de 9); página PDF: 11."
+  },
+  {
+   "id": "a45f7ace4b6a",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Una unidad fiscal decide cerrar en septiembre por problemas internos, antes de concluir la gestión educativa. ¿Cómo se califica esta decisión?",
+   "options": [
+    "Prohibida solo si la unidad tiene más de diez estudiantes inscritos.",
+    "Prohibida: no se puede cerrar la unidad antes de concluir la gestión educativa.",
+    "Permitida, si se tramita el FORM-002 entre junio y septiembre de la gestión.",
+    "Permitida, si la junta escolar aprueba el cierre mediante un acta firmada."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 17, numeral 6, prohíbe a las unidades fiscales cerrar la unidad educativa antes de la conclusión de la gestión educativa; el Art. 16 dispone que los trámites concluidos entran en vigencia en la gestión siguiente.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Arts. 16 y 17; páginas impresas: 7 y 8 (de 9); páginas PDF: 10 y 11."
+  },
+  {
+   "id": "bee6a5a23219",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO IV] Un incendio destruyó totalmente la infraestructura de una unidad fiscal. ¿Qué causal de cierre definitivo podría invocarse?",
+   "options": [
+    "Incumplimiento de las prohibiciones previstas en el Reglamento.",
+    "Reordenamiento administrativo distrital por falta de estudiantes.",
+    "Caso fortuito o fuerza mayor con pérdida total de la infraestructura.",
+    "Ausencia del acta de compromiso del Gobierno Autónomo Municipal."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 19, numeral 4, prevé como causal de cierre definitivo el caso fortuito o fuerza mayor cuando ocasione pérdida total de la infraestructura educativa.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo IV, Art. 19; página impresa: 9 (de 9); página PDF: 12."
+  },
+  {
+   "id": "f66d40fd34b2",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Dos unidades fiscales de un mismo edificio solicitan fusionarse; solo una imparte el Bachillerato Técnico Humanístico. ¿Qué criterio debe aplicarse?",
+   "options": [
+    "Priorizar la unidad con mayor número de estudiantes inscritos.",
+    "Priorizar la unidad que cuente con la Resolución Administrativa más antigua.",
+    "Priorizar la unidad que imparte el Bachillerato Técnico Humanístico.",
+    "Priorizar la unidad que proponga la junta escolar de ambas."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 13, numeral 1, exige que la solicitud de fusión priorice la Unidad Educativa que imparte el Bachillerato Técnico Humanístico; la Resolución que aprueba la fusión debe reconocer la antigüedad de funcionamiento.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 13; página impresa: 6 (de 9); página PDF: 9."
+  },
+  {
+   "id": "4417b2acafa6",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Un director extravió el Certificado RUE de su unidad fiscal. ¿Qué requisitos exige el Reglamento para su reposición?",
+   "options": [
+    "Denuncia policial del extravío y nueva Resolución Administrativa de funcionamiento.",
+    "Solicitud al Ministerio con acta de la junta escolar y fotografías de la unidad.",
+    "Declaración jurada notariada y pago del arancel por emisión del nuevo certificado.",
+    "Informe técnico al Director Distrital con datos de la unidad y Formulario FORM-002."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 15 exige un informe técnico dirigido al Director Distrital con nombre, código, dependencia, niveles y red de la unidad, y el Formulario FORM-002; el RUE es gratuito para fiscales (Disposición Final Primera).",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 15; página impresa: 7 (de 9); página PDF: 10."
+  },
+  {
+   "id": "0881fb558c2d",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] En un área dispersa, ¿quiénes pueden presentar la solicitud de apertura de un Módulo Tecnológico Productivo fiscal?",
+   "options": [
+    "Solo el Director Distrital de Educación, por tratarse de un área sin juntas de madres y padres de familia.",
+    "Solo el Gobierno Autónomo Municipal, por ser quien financia la infraestructura y el equipamiento.",
+    "Organizaciones IOC, afrobolivianas, juntas o consejos educativos, en coordinación con gobiernos o distritales.",
+    "Cualquier persona natural o jurídica, sin necesidad de coordinar con otras instancias del lugar."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 9, inciso a), numeral 2, dispone que en el área dispersa la solicitud la presenten las organizaciones indígena originario campesinas, afrobolivianas, juntas de madres y padres o consejos educativos social comunitarios, en coordinación con los gobiernos autónomos municipales, indígena originario campesinos o direcciones distritales.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 9; página impresa: 5 (de 9); página PDF: 8."
+  },
+  {
+   "id": "099c46c3b122",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO II] Una iglesia solicita abrir una unidad de convenio. Además de la solicitud y el acta de fundación, ¿qué documento legal específico puede exigírsele?",
+   "options": [
+    "Contrato de servicios educativos aprobado por la Dirección Distrital del lugar.",
+    "Resolución de personalidad jurídica emitida por la AFCOOP e inscrita en el Registro de Cooperativas.",
+    "Testimonio de constitución como sociedad de responsabilidad limitada ante notario.",
+    "Certificación de registro de culto del Ministerio de Relaciones Exteriores, si corresponde."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 7, inciso a), del Reglamento de convenio exige, entre los requisitos legales, la certificación de registro de culto emitida por el Ministerio de Relaciones Exteriores, si corresponde, además de la copia legalizada del convenio entre Estados, si corresponde, y la declaración jurada notariada.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo II, Art. 7; página impresa: 5 (de 15); página PDF: 20."
+  },
+  {
+   "id": "a9ed8a7fa6fd",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO II] En la declaración jurada notariada para abrir una unidad de convenio, ¿a qué debe comprometerse el solicitante?",
+   "options": [
+    "A no cobrar pensiones durante los tres primeros años de funcionamiento de la unidad educativa.",
+    "A financiar con recursos propios el haber de todo el personal docente y administrativo de la unidad.",
+    "A ceder la infraestructura al Estado al término del convenio suscrito con la entidad religiosa.",
+    "A garantizar infraestructura adecuada y su adecuación progresiva para la población con discapacidad."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 7, inciso a), numeral 5, exige una Declaración Jurada Notariada del solicitante o representante legal por la que se compromete a garantizar la infraestructura adecuada para las actividades curriculares y que contemple la adecuación progresiva para la atención a la población con discapacidad.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo II, Art. 7; página impresa: 5 (de 15); página PDF: 20."
+  },
+  {
+   "id": "e0451176b09a",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO III] Una unidad de convenio incumple reiteradamente el convenio y el Director Distrital considera su paso a fiscal. ¿Cómo puede iniciarse ese trámite?",
+   "options": [
+    "De oficio por el Director Distrital o a solicitud de autoridad superior.",
+    "Solo a pedido de la junta escolar con las firmas de la mayoría de padres de familia.",
+    "Solo mediante resolución del Gobierno Autónomo Municipal del lugar.",
+    "Solo a solicitud de la entidad religiosa que administra la unidad."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 11, numeral 1, del Reglamento de convenio prevé que, en caso de cambio de dependencia por incumplimiento u otros, el Director Distrital, de oficio o a solicitud de autoridad superior, realice la solicitud de cambio de dependencia de convenio a fiscal.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo III, Art. 11; página impresa: 8 (de 15); página PDF: 23."
+  },
+  {
+   "id": "37b37984cdd5",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO III] Para el cambio de jurisdicción administrativa de una unidad de convenio, ¿en qué se basa la Resolución Bi-Distrital?",
+   "options": [
+    "En el acta de conformidad firmada por los dos directores distritales de educación.",
+    "En el acuerdo entre la entidad religiosa y la junta escolar de la unidad.",
+    "En el informe del Gobierno Municipal sobre la nueva ubicación de la unidad.",
+    "En la resolución del Director Departamental que aprueba el cambio al nuevo distrito."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 13, numeral 3, del Reglamento de convenio exige una Resolución Bi-Distrital que autoriza el cambio de jurisdicción, con base en el Acta de conformidad firmada por los dos directores distritales de educación; además se exige convenio vigente.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo III, Art. 13; página impresa: 8 (de 15); página PDF: 23."
+  },
+  {
+   "id": "bd7fd1e6daa8",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO II] Una cooperativa educativa solicita abrir una unidad privada. ¿Qué documento acredita su personalidad jurídica según la tabla de requisitos legales?",
+   "options": [
+    "Testimonio de personalidad jurídica otorgado por el Ministerio de Relaciones Exteriores y Culto.",
+    "Copia legalizada del convenio vigente suscrito entre el Estado y otro Estado extranjero.",
+    "Certificado de registro de culto emitido por el Ministerio de Relaciones Exteriores.",
+    "Resolución de personalidad jurídica emitida por AFCOOP e inscrita en el Registro Estatal."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: La tabla del Art. 7 (requisitos legales) exige a las cooperativas la fotocopia legalizada de la Resolución de Personalidad Jurídica emitida por AFCOOP e inscrita en el Registro Estatal de Cooperativas.",
+   "legal": "R.M. 0022/2024, Reglamento (privadas), Capítulo II, Art. 7, tabla 1; página impresa: 4 (de 13); página PDF: 38."
+  },
+  {
+   "id": "bc830f446928",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO II] Un propietario unipersonal pretende abrir una unidad privada. Según la tabla de requisitos legales, ¿cómo se trata el testimonio de poder del representante legal?",
+   "options": [
+    "Es opcional para la persona unipersonal.",
+    "No se exige a ningún tipo de propietario.",
+    "Es obligatorio sin excepción para todos.",
+    "Solo se exige a las sociedades anónimas."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: La tabla de requisitos legales del Art. 7 marca la fotocopia legalizada del testimonio de poder del representante legal como requisito para todos los tipos de propietario, con la indicación \"SI (opcional)\" para el unipersonal.",
+   "legal": "R.M. 0022/2024, Reglamento (privadas), Capítulo II, Art. 7, tabla 1; página impresa: 4 (de 13); página PDF: 38."
+  },
+  {
+   "id": "76f50d111196",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO II] ¿Qué documentos administrativos deben presentar todos los tipos de propietarios para abrir una unidad educativa privada?",
+   "options": [
+    "Estados financieros auditados, certificado de solvencia fiscal y balance de apertura de la unidad.",
+    "Plan Operativo Anual firmado por el Director Distrital y acta de compromiso del Gobierno Municipal.",
+    "Contrato de servicios educativos, tabla de pensiones aprobada y póliza de seguro de accidentes.",
+    "Reglamento interno, reglamento de convivencia armónica y pacífica y manual de organización y funciones."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: La tabla de requisitos administrativos del Art. 7 exige a todos: Reglamento Interno (becas, pensiones, representantes de padres, régimen disciplinario), Reglamento de Convivencia armónica y pacífica y Manual de Organización y Funciones.",
+   "legal": "R.M. 0022/2024, Reglamento (privadas), Capítulo II, Art. 7, tabla 3; página impresa: 6 (de 13); página PDF: 40."
+  },
+  {
+   "id": "bacf40d56c34",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO III] Una unidad privada contrata a un docente sin contrato, kárdex ni hoja de vida con pertinencia académica. ¿Qué disposición incumple?",
+   "options": [
+    "La obligación de presentar el manual de funciones dentro del primer trimestre.",
+    "La prohibición de prestar servicios sin contrato, kárdex y hoja de vida del personal.",
+    "La prohibición de registrar estudiantes provenientes de otras unidades educativas del mismo distrito.",
+    "La obligación de actualizar el Certificado RUE cada tres años ante la Distrital."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 14, numeral 15, del Reglamento de privadas prohíbe prestar servicios sin contar con el contrato, kárdex y hoja de vida del personal docente y administrativo con pertinencia académica; su incumplimiento es además causal de cierre (Art. 15, num. 1).",
+   "legal": "R.M. 0022/2024, Reglamento (privadas), Capítulo III, Arts. 14 y 15; página impresa: 9 (de 13); página PDF: 43."
+  },
+  {
+   "id": "763c2c69a0d5",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] Una unidad privada aplica exámenes de ingreso a los postulantes y reserva plazas para inscribirlos. ¿Cómo se tipifican estas conductas?",
+   "options": [
+    "Ninguna constituye falta.",
+    "Faltas gravísimas en ambos casos.",
+    "Faltas graves en ambos casos.",
+    "Faltas leves en ambos casos."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 20, inciso a), del Reglamento de privadas tipifica como faltas leves realizar reserva de plazas para la inscripción (num. 1) y aplicar exámenes de ingreso (num. 2).",
+   "legal": "R.M. 0022/2024, Reglamento (privadas), Capítulo V, Art. 20, inc. a); página impresa: 11 (de 13); página PDF: 45."
+  },
+  {
+   "id": "aeb6c5483d53",
+   "q": "[R.M. 0534/2025 Modificación del Reglamento de U.E. Privadas – RESOLUCIÓN MINISTERIAL] Una unidad privada cobra un monto por \"derecho de ingreso\" a los estudiantes nuevos. Probada la falta, ¿qué sanción corresponde según el texto vigente tras la R.M. 0534/2025?",
+   "options": [
+    "Multa del 20% del ingreso mensual por pensiones de todos los estudiantes.",
+    "Multa del 10% del ingreso mensual por pensiones de todos los estudiantes.",
+    "Multa del 5% del ingreso mensual por pensiones de todos los estudiantes.",
+    "Cierre definitivo de la unidad educativa privada en la gestión siguiente."
+   ],
+   "answer": 1,
+   "explanation": "El cobro por derecho de ingreso a estudiantes nuevos es falta grave (Art. 20, inc. b, num. 5). La R.M. 0534/2025 modificó el Art. 21, inciso b), fijando para faltas graves una multa del 10% del ingreso mensual por pensiones de la totalidad de estudiantes inscritos.",
+   "legal": "R.M. 0534/2025, Art. 2, I y II; página impresa: 3 (de 4); página PDF: 50."
+  },
+  {
+   "id": "397e91e3c863",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] Una unidad privada omitió informar a la Dirección Distrital un hecho irregular que constituía delito dentro de la unidad. ¿Qué sanción corresponde?",
+   "options": [
+    "Multa del 10% del ingreso mensual por pensiones de los estudiantes.",
+    "Suspensión de actividades educativas durante treinta días hábiles de gestión.",
+    "Cierre definitivo de la unidad, efectivo en la siguiente gestión educativa.",
+    "Multa del 5% del ingreso mensual por pensiones de los estudiantes."
+   ],
+   "answer": 2,
+   "explanation": "Omitir informar hechos irregulares a la Distrital y omitir la remisión de la denuncia por delitos son faltas gravísimas (Art. 20, inc. c, nums. 5 y 6, texto de la R.M. 0534/2025), sancionadas con el cierre definitivo de la unidad privada, ejecutado en la siguiente gestión (Art. 21, inc. c).",
+   "legal": "R.M. 0534/2025, Art. 2, I y II; página impresa: 3 (de 4); página PDF: 50."
+  },
+  {
+   "id": "24c3ebc432f4",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] Una comunidad presenta en marzo la solicitud de apertura de una unidad fiscal para que funcione ese mismo año. ¿Qué debe advertir el Director Distrital?",
+   "options": [
+    "Que la solicitud procede de inmediato si el municipio firma el acta de compromiso.",
+    "Que la unidad puede funcionar ese año con autorización provisional del Distrital.",
+    "Que el registro se realiza del 1 de junio al 30 de septiembre y rige para la gestión siguiente.",
+    "Que la solicitud se aprueba si se presenta antes del inicio del segundo trimestre."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 16 dispone que el registro de solicitudes de apertura se realice del 1 de junio al 30 de septiembre para su vigencia en la siguiente gestión; el Art. 17, numeral 1, prohíbe prestar servicios sin Resolución Administrativa y Certificado RUE.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Arts. 16 y 17; páginas impresas: 7 y 8 (de 9); páginas PDF: 10 y 11."
+  },
+  {
+   "id": "8fd590913da6",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] La Dirección Distrital devolvió con observaciones una solicitud de apertura. El solicitante subsana al octavo día hábil. ¿Qué ocurre con el trámite?",
+   "options": [
+    "Se da de baja en el sistema y se registra como no presentado, por exceder 5 días hábiles.",
+    "Continúa, pero la Dirección Departamental debe emitir una autorización de subsanación tardía.",
+    "Continúa normalmente, porque el plazo de subsanación es de 8 días hábiles para el solicitante.",
+    "Se suspende hasta la siguiente gestión, conservando la prioridad de la solicitud original."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 8, inciso b), dispone que el solicitante debe subsanar la observación en un plazo máximo de 5 días hábiles; caso contrario, el trámite será dado de baja en el sistema y se registrará como no presentado.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 8, inc. b); página impresa: 4 (de 9); página PDF: 7."
+  },
+  {
+   "id": "85c440106dfa",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] La Subdirección de Educación Regular recibe un trámite de apertura derivado por la DDE. ¿En qué plazo máximo debe emitir su informe técnico de viabilidad?",
+   "options": [
+    "En 3 días hábiles.",
+    "En 7 días hábiles.",
+    "En 8 días hábiles.",
+    "En 5 días hábiles."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 8, inciso c), dispone que la Dirección Departamental derive el trámite a la Subdirección de Educación Regular para la emisión del informe técnico de viabilidad en un plazo máximo de 7 días hábiles; 8 días corresponden a la Distrital, 5 a la subsanación y 3 al informe legal.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 8, inc. c); página impresa: 4 (de 9); página PDF: 7."
+  },
+  {
+   "id": "d2e15e136890",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] La Jefatura de Asuntos Jurídicos de la DDE recibe un trámite de apertura. ¿Qué debe emitir y en qué plazo?",
+   "options": [
+    "Informe legal y proyecto de Resolución Administrativa en máximo 3 días hábiles.",
+    "Resolución Administrativa definitiva de apertura en máximo 7 días hábiles.",
+    "Informe técnico de viabilidad y verificación in situ en máximo 8 días.",
+    "Certificado RUE original y firma electrónica en máximo 2 días hábiles."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 8, inciso d), dispone que la Jefatura de la Unidad de Asuntos Jurídicos emita el informe legal y el proyecto de Resolución Administrativa en el plazo máximo de 3 días hábiles, para su aprobación por el Director Departamental en no más de 3 días hábiles.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 8, inc. d); página impresa: 4 (de 9); página PDF: 7."
+  },
+  {
+   "id": "26a4087a4c17",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO IV] Una unidad fiscal en una zona de frontera cuenta con 7 estudiantes. El técnico distrital propone su cierre por tener menos de 10. ¿Qué debe considerar el Director Distrital?",
+   "options": [
+    "Que la causal por menos de 10 estudiantes exceptúa a las zonas fronterizas y de difícil acceso.",
+    "Que la causal se aplica a toda unidad, sin excepción, al cumplirse dos gestiones con baja matrícula.",
+    "Que el cierre procede, pero debe ejecutarse en la gestión siguiente para no afectar a estudiantes.",
+    "Que el cierre requiere además el informe de rendimiento académico del último trimestre."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 19, numeral 1, establece como causal de cierre la cantidad de estudiantes menor a 10, con excepción de unidades ubicadas en zonas fronterizas y de difícil acceso.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo IV, Art. 19; página impresa: 9 (de 9); página PDF: 12."
+  },
+  {
+   "id": "6e064dc9d887",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO IV] Se tramita el cierre definitivo de una unidad fiscal. ¿Qué documentación sobre los estudiantes debe acompañarse?",
+   "options": [
+    "Un informe de la junta escolar sobre el destino asignado a cada uno de los estudiantes.",
+    "Archivos electrónicos e impresos actualizados: RUDE, centralizadores, boletines y otros.",
+    "Las libretas originales de todos los estudiantes que cursaron sus estudios en la unidad educativa.",
+    "Solo la lista de estudiantes inscritos en la última gestión educativa concluida."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 18, numeral 3, exige archivos electrónicos e impresos actualizados de toda la documentación de estudiantes que cursaron sus estudios en la unidad (RUDE, centralizador de calificaciones, boletines y otros).",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo IV, Art. 18; página impresa: 8 (de 9); página PDF: 11."
+  },
+  {
+   "id": "111e371cc665",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Una unidad fiscal comienza a inscribir estudiantes que ya están registrados en otra unidad privada del distrito. ¿Qué disposición vulnera?",
+   "options": [
+    "La prohibición de anteponer denominativos genéricos al nombre propio de la unidad.",
+    "La prohibición de prestar servicios en otros subsistemas de educación sin autorización.",
+    "La prohibición de cambiar de ubicación geográfica de un municipio a otro.",
+    "La prohibición de registrar estudiantes de otras unidades fiscales, privadas o de convenio."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 17, numeral 11, prohíbe a las unidades fiscales registrar estudiantes de otras unidades educativas fiscales, privadas o de convenio.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 17; página impresa: 8 (de 9); página PDF: 11."
+  },
+  {
+   "id": "e87f551f36fb",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] El director de una unidad fiscal impide el ingreso de técnicos de la DDE que acuden a supervisar. ¿Qué consecuencia puede tener?",
+   "options": [
+    "Ninguna, porque la supervisión requiere notificación previa con treinta días.",
+    "Solo una amonestación verbal de la Dirección Distrital por falta de cortesía institucional.",
+    "Incurre en una prohibición, que es causal de cierre y lo hace pasible de sanción.",
+    "La suspensión automática del Certificado RUE hasta la siguiente gestión."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 17, numeral 12, prohíbe impedir el ejercicio de control, supervisión o fiscalización del Ministerio o de la DDE; el Art. 19, numeral 2, hace de las prohibiciones causal de cierre, y el Art. 21 hace pasibles de sanción a los directores que incurran en ellas.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Arts. 17, 19 y 21; páginas impresas: 8 y 9 (de 9); páginas PDF: 11 y 12."
+  },
+  {
+   "id": "8b6b8efbfb69",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] En una unidad de convenio se comprueba que el director movilizó a estudiantes a una marcha no oficial sin autorización distrital. ¿Qué sanción corresponde al director?",
+   "options": [
+    "Descuento del 20% del haber mensual del director.",
+    "Descuento del 10% del haber mensual del director.",
+    "Suspensión de quince a treinta días sin goce de haber.",
+    "Descuento de tres a cinco días del haber mensual."
+   ],
+   "answer": 3,
+   "explanation": "Movilizar estudiantes a marchas no oficiales sin autorización es falta leve (Art. 24, inc. a, num. 4); el Art. 25, inciso a), fija para el director o responsable el descuento de 3 a 5 días del haber mensual (el 10% corresponde al propietario).",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Arts. 24 y 25; páginas impresas: 12 y 13 (de 15); páginas PDF: 27 y 28."
+  },
+  {
+   "id": "617533bcd5f5",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] Una unidad de convenio registró erróneamente las calificaciones de varios estudiantes. ¿Qué sanción corresponde al propietario o representante legal?",
+   "options": [
+    "Descuento del 10% del haber mensual.",
+    "Multa del 5% de las pensiones.",
+    "Cierre definitivo de la unidad.",
+    "Descuento del 20% del haber mensual."
+   ],
+   "answer": 3,
+   "explanation": "Registrar erróneamente calificaciones es falta grave (Art. 24, inc. b, num. 7); el Art. 25, inciso b), fija para el propietario o representante legal el descuento del 20% del haber mensual (el 10% se aplica al director).",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Arts. 24 y 25; páginas impresas: 13 y 14 (de 15); páginas PDF: 28 y 29."
+  },
+  {
+   "id": "977a35a482c8",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] Se comprueba que un maestro de una unidad de convenio alteró calificaciones a cambio de dinero (falta gravísima). ¿Qué sanción prevé el Reglamento para el maestro responsable?",
+   "options": [
+    "Suspensión de 15 a 30 días sin goce de haberes y traslado a otra unidad educativa.",
+    "Suspensión de 30 a 60 días sin goce, postergación de ascenso por un año o destitución.",
+    "Descuento de tres a cinco días del haber mensual y amonestación escrita.",
+    "Descuento del 20% del haber mensual o descenso a un cargo inferior de la unidad."
+   ],
+   "answer": 1,
+   "explanation": "Alterar calificaciones a cambio de dinero es falta gravísima (Art. 24, inc. c, num. 2); el Art. 25, inciso c), numeral 2, fija para el maestro o personal responsable la suspensión sin goce de 30 a 60 días, la postergación de ascenso por un año o la destitución.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Arts. 24 y 25; páginas impresas: 13 y 14 (de 15); páginas PDF: 28 y 29."
+  },
+  {
+   "id": "1ebb70dc7c0d",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] El Director Distrital se constituye en una unidad de convenio, instala audiencia y comprueba la falta denunciada. ¿En qué plazo debe emitir y notificar la Resolución Administrativa sancionatoria?",
+   "options": [
+    "Emitirla en 5 días hábiles y notificarla en los 3 días hábiles siguientes.",
+    "Emitirla en 3 días hábiles y notificarla en los 2 días hábiles siguientes.",
+    "Emitirla en 10 días hábiles y notificarla en los 5 días hábiles siguientes.",
+    "Emitirla en el acto y notificarla dentro de las 24 horas siguientes."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 27, inciso e) (convenio), y el Art. 22, inciso e) (privadas), disponen que dentro de los tres días hábiles siguientes a la audiencia se emita la Resolución Administrativa sancionatoria y se notifique dentro de los dos días hábiles siguientes a su emisión.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Art. 27, pág. impresa 15 (de 15), PDF 30; R.M. 0022/2024, Reglamento (privadas), Art. 22, pág. impresa 12 (de 13), PDF 46."
+  },
+  {
+   "id": "6b7484e34f7a",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] En la audiencia pública, la unidad de convenio denunciada desvirtúa las faltas con pruebas de descargo. ¿Cómo concluye el procedimiento?",
+   "options": [
+    "Con una Resolución Administrativa de absolución remitida al Ministerio de Educación.",
+    "Con la remisión del caso al Tribunal Disciplinario para su revisión.",
+    "Con un acta circunstanciada que deja constancia de la inspección realizada.",
+    "Con una amonestación preventiva al director de la unidad educativa."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 27, inciso c), dispone que, si no se comprueban o se desvirtúan las faltas, se levante un acta circunstanciada que deje constancia de la inspección realizada, dando por concluida la audiencia.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo V, Art. 27; página impresa: 14 (de 15); página PDF: 29."
+  },
+  {
+   "id": "433ae85e9398",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] Una unidad de convenio fue multada mediante Resolución Administrativa sancionatoria. ¿Cómo debe efectivizarse el pago de la multa?",
+   "options": [
+    "Mediante pago en efectivo en la Dirección Distrital, contra recibo oficial.",
+    "Mediante descuento directo en las planillas del Ministerio de Educación.",
+    "Mediante depósito bancario en la cuenta fiscal de la Dirección Departamental.",
+    "Mediante depósito en la cuenta de la junta escolar de la unidad sancionada."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 29 (convenio) y el Art. 24 (privadas) disponen que las multas se efectivicen mediante depósito bancario en la cuenta fiscal correspondiente de la Dirección Departamental de Educación respectiva.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Art. 29, pág. impresa 15 (de 15), PDF 30; R.M. 0022/2024, Reglamento (privadas), Art. 24, pág. impresa 12 (de 13), PDF 46."
+  },
+  {
+   "id": "06163e2cd189",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO IV] Una unidad de convenio presenta su solicitud de cierre definitivo, pero extravió el Certificado RUE original. ¿Qué exige el Reglamento?",
+   "options": [
+    "Presentar una denuncia policial y una declaración jurada notariada.",
+    "Suspender el cierre hasta que se emita un nuevo Certificado RUE.",
+    "Tramitar primero la reposición del Certificado RUE con el pago de un arancel previo.",
+    "Respaldar el extravío con los informes de justificación correspondientes."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 20, numeral 4, del Reglamento de convenio exige el original del Certificado RUE y, en caso de extravío, respaldarlo con los informes de justificación correspondientes.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Art. 20; página impresa: 12 (de 15); página PDF: 27."
+  },
+  {
+   "id": "4f70ac1f11d5",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO IV] En una inspección se constata que las cámaras de seguridad de una unidad de convenio no funcionan desde hace meses. ¿Qué consecuencia prevé el Reglamento?",
+   "options": [
+    "No tiene consecuencias, porque las cámaras son responsabilidad exclusiva del municipio.",
+    "Es causal de cierre definitivo por incumplimiento al uso o funcionamiento de cámaras.",
+    "Es una observación que se subsana en la actualización trienal del RUE.",
+    "Es una falta leve sancionada con descuento de tres a cinco días al director."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 19, numeral 13, del Reglamento de convenio establece como causal de cierre el incumplimiento al adecuado uso o funcionamiento de cámaras de seguridad en infraestructuras educativas.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Art. 19; página impresa: 11 (de 15); página PDF: 26."
+  },
+  {
+   "id": "f42dd98ce223",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] Una unidad privada exige a las familias comprar uniformes en una única tienda vinculada a la unidad. Probada la falta, ¿qué sanción corresponde según el texto vigente?",
+   "options": [
+    "Cierre definitivo de la unidad privada, efectivo en la gestión siguiente.",
+    "Multa del 5% del ingreso mensual por pensiones de la totalidad de estudiantes.",
+    "Multa del 20% del ingreso mensual por pensiones de la totalidad de estudiantes.",
+    "Multa del 10% del ingreso mensual por pensiones de la totalidad de estudiantes."
+   ],
+   "answer": 3,
+   "explanation": "Exigir la compra de uniformes y otros a proveedores exclusivos es falta grave (Art. 20, inc. b, num. 4); tras la R.M. 0534/2025, la sanción por falta grave es multa del 10% del ingreso mensual por pensiones de todos los estudiantes inscritos.",
+   "legal": "R.M. 0534/2025, Art. 2, I y II; página impresa: 3 (de 4); página PDF: 50."
+  },
+  {
+   "id": "89153c5ecbc0",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO III] El Director Distrital constata que una unidad privada no reportó población estudiantil durante toda una gestión. ¿Qué debe considerar al decidir el curso de acción?",
+   "options": [
+    "Que no corresponde actuar si la unidad está al día en sus obligaciones fiscales.",
+    "Que se trata de una causal expresa de cierre definitivo de la unidad privada.",
+    "Que se trata de una falta leve, sancionable con multa del 5% de las pensiones.",
+    "Que se trata de una falta grave, sancionable con multa del 10% de las pensiones."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 15, numeral 8, del Reglamento de privadas establece como causal de cierre definitivo no reportar población estudiantil durante una gestión educativa.",
+   "legal": "R.M. 0022/2024, Reglamento (privadas), Capítulo III, Art. 15; página impresa: 9 (de 13); página PDF: 43."
+  },
+  {
+   "id": "de74fdd5eb56",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] El propietario de una unidad privada multada consulta al Director Distrital cómo impugnar la Resolución. ¿Qué orientación debe darle?",
+   "options": [
+    "Que puede pedir revisión ante la Comisión Calificadora del Escalafón Nacional.",
+    "Que puede apelar ante el Tribunal Disciplinario Departamental del Magisterio.",
+    "Que puede interponer recursos de revocatoria y jerárquico conforme a la Ley N.º 2341.",
+    "Que debe presentar una queja ante la junta escolar y luego ante el Distrital."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 23 del Reglamento de privadas dispone que los recursos de revocatoria y jerárquico se sustancien según la Ley N.º 2341 de Procedimiento Administrativo.",
+   "legal": "R.M. 0022/2024, Reglamento (privadas), Capítulo V, Art. 23; página impresa: 12 (de 13); página PDF: 46."
+  },
+  {
+   "id": "f0783d1812e3",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Un director de unidad fiscal quiere ampliar el nivel de Secundaria. ¿Qué decisión inicial le corresponde según el Reglamento?",
+   "options": [
+    "Abrir el nuevo nivel en febrero y regularizar el trámite durante el primer trimestre.",
+    "Presentar al Director Distrital una nota justificando la ampliación y registrarla en el sistema.",
+    "Solicitar directamente a la DDE la Resolución de ampliación de nivel, sin pasar por la Distrital.",
+    "Obtener la aprobación de la junta escolar como único requisito para la ampliación."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 10, numeral 1, exige como primer requisito una nota de solicitud dirigida al Director Distrital por el Director de la unidad, justificando la ampliación o reducción de nivel, y su registro en el Sistema portal de trámites Web.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 10; página impresa: 5 (de 9); página PDF: 8."
+  },
+  {
+   "id": "44d590c0b1e5",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Para ampliar niveles en una unidad bajo la Modalidad de Atención Modular Multigrado de Secundaria, ¿qué decisión técnica debe asegurar el informe?",
+   "options": [
+    "Especificar la atención educativa en dicha Modalidad.",
+    "Excluir la verificación in situ de la Subdirección.",
+    "Justificar el cambio a la modalidad presencial regular.",
+    "Incluir el convenio con una unidad privada cercana."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 10, numeral 6, dispone que, para unidades bajo la Modalidad de Atención Modular Multigrado de Secundaria, el informe técnico debe especificar la atención educativa en dicha Modalidad.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 10; página impresa: 6 (de 9); página PDF: 9."
+  },
+  {
+   "id": "d9ea98abc806",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] El municipio entrega a una unidad fiscal un nuevo edificio en otro distrito educativo. ¿Qué decisión es correcta respecto del trámite de cambio de infraestructura?",
+   "options": [
+    "Tramitarlo como cambio de infraestructura con el acta de compromiso del municipio.",
+    "Tramitarlo como cambio de infraestructura con aprobación de la junta escolar.",
+    "No tramitarlo como cambio de infraestructura, porque solo procede dentro del mismo distrito.",
+    "Tramitarlo como cambio de infraestructura con visto bueno de ambos distritales."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 14, parágrafo II, dispone que el cambio de infraestructura educativa solamente se realiza cuando sea en un mismo Distrito Educativo; el cambio de jurisdicción tiene requisitos propios (Art. 12).",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Arts. 12 y 14; páginas impresas: 6 y 7 (de 9); páginas PDF: 9 y 10."
+  },
+  {
+   "id": "2a75e6c96ebb",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] Un estudiante denuncia ante la Distrital cobros indebidos en su unidad de convenio y pide reserva de su nombre. ¿Qué decisión debe tomar el Director Distrital?",
+   "options": [
+    "Mantener en reserva su identidad para evitar represalias contra el estudiante.",
+    "Exigir que la denuncia la ratifiquen sus padres con firma e identificación.",
+    "Rechazar la denuncia por ser presentada por un menor de edad.",
+    "Comunicar su nombre a la unidad para que esta presente su descargo."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 23 del Reglamento de convenio impone a cualquier persona la obligación de denunciar hechos irregulares y obliga a los Directores Distritales a mantener en reserva la identidad de los estudiantes denunciantes; de lo contrario, serán pasibles de acciones administrativas.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo V, Art. 23; página impresa: 12 (de 15); página PDF: 27."
+  },
+  {
+   "id": "4343dda54920",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO III] El director de una unidad de convenio recibe la postulación de un docente con antecedentes de violencia. ¿Qué decisión debe tomar?",
+   "options": [
+    "Contratarlo si cuenta con título profesional de maestro y con pertinencia académica acreditada.",
+    "Contratarlo de forma temporal mientras se actualiza su certificado REJAP.",
+    "Remitir la decisión a la entidad religiosa que administra la unidad educativa.",
+    "No contratarlo: prestar servicio con personal con esos antecedentes está prohibido."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 18, numeral 13, del Reglamento de convenio prohíbe prestar servicio con personal docente y administrativo que tenga antecedentes penales, de violencia y/o abuso (D.S. 1302 y 1320); contratarlo es además causal de cierre (Art. 19, num. 6).",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo III, Arts. 18 y 19; páginas impresas: 10 y 11 (de 15); páginas PDF: 25 y 26."
+  },
+  {
+   "id": "703340e10ca7",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] El director de una unidad privada tolera que un maestro ejerza intimidación psicológica contra estudiantes y no lo denuncia. ¿Qué riesgo institucional debe ponderar?",
+   "options": [
+    "Incurrir en falta leve, sancionable con multa del 5% de las pensiones.",
+    "Ningún riesgo institucional, porque la responsabilidad recae solo en el maestro agresor.",
+    "Incurrir en falta gravísima, sancionable con el cierre definitivo de la unidad.",
+    "Incurrir en falta grave, sancionable con multa del 10% de las pensiones."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: Permitir o tolerar violencia o intimidación física o psicológica es falta gravísima (Art. 20, inc. c, num. 4, texto de la R.M. 0534/2025), sancionada con el cierre definitivo de la unidad privada (Art. 21, inc. c).",
+   "legal": "R.M. 0534/2025, Art. 2, I y II; página impresa: 3 (de 4); página PDF: 50."
+  },
+  {
+   "id": "211c6a5bd2a5",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO III] Los propietarios de una unidad privada deciden cerrarla por razones económicas. ¿Qué decisión procedimental es la correcta?",
+   "options": [
+    "Solicitar el cierre directamente al Ministerio, sin intervención de la Dirección Distrital.",
+    "Cerrar al concluir el primer trimestre y comunicar la decisión a los padres de familia.",
+    "Presentar solicitud oficial a la Distrital para su aprobación por la DDE mediante Resolución.",
+    "Transferir a los estudiantes a otra unidad privada y archivar la documentación propia."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 15, numeral 11, prevé el cierre por razones económico-sociales previa solicitud oficial del director o representante a la Dirección Distrital y aprobación de la DDE mediante Resolución Administrativa; el Art. 14, numeral 6, prohíbe cerrar antes de la conclusión de la gestión.",
+   "legal": "R.M. 0022/2024, Reglamento (privadas), Capítulo III, Arts. 14 y 15; páginas impresas: 9 y 10 (de 13); páginas PDF: 43 y 44."
+  },
+  {
+   "id": "cc78ce521260",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO III] Una unidad privada quiere cambiarse a otro municipio. ¿Qué decisión se ajusta al Reglamento?",
+   "options": [
+    "Mudarse libremente, porque la restricción solo rige para las unidades fiscales.",
+    "Contar con autorización expresa, porque está prohibido cambiar de municipio sin ella.",
+    "Tramitarlo como cambio de infraestructura, sin requisitos adicionales de autorización.",
+    "Mudarse al cierre de la gestión y luego actualizar los datos en el sistema RUE."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 14, numeral 5, del Reglamento de privadas prohíbe cambiar de ubicación geográfica de un Gobierno Autónomo Municipal a otro sin autorización expresa; el cambio de infraestructura solo procede dentro del mismo distrito (Art. 11, II).",
+   "legal": "R.M. 0022/2024, Reglamento (privadas), Capítulo III, Arts. 11 y 14; páginas impresas: 8 y 9 (de 13); páginas PDF: 42 y 43."
+  },
+  {
+   "id": "5df12dce0598",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – DISPOSICIONES FINALES] Surge un aspecto técnico-administrativo de apertura de unidades fiscales que el Reglamento no regula. ¿Cómo debe resolverse?",
+   "options": [
+    "Mediante aplicación supletoria del reglamento de unidades educativas privadas.",
+    "Mediante instructivos emitidos por el Viceministerio de Educación Regular.",
+    "Mediante resolución administrativa de la Dirección Departamental de Educación.",
+    "Mediante acuerdo entre el Director Distrital y el Gobierno Autónomo Municipal."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: La Disposición Final Segunda de los reglamentos dispone que los aspectos técnico-administrativos no previstos sean regulados mediante instructivos emitidos por el Viceministerio de Educación Regular.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Disposición Final Segunda; página impresa: 9 (de 9); página PDF: 12."
+  },
+  {
+   "id": "c86ecff9a3a0",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Para que una nueva unidad fiscal entre en funcionamiento al inicio de la próxima gestión, ¿qué hito del calendario de trámites debe cumplirse?",
+   "options": [
+    "Concluir con Resolución Administrativa y registro RUE hasta el 31 de diciembre.",
+    "Presentar la solicitud hasta el 31 de diciembre de la gestión en curso.",
+    "Registrar la unidad en el sistema hasta el último día de la inscripción.",
+    "Obtener la Resolución Administrativa hasta el 15 de febrero siguiente."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 16, parágrafo II, dispone que los trámites que concluyan con la emisión de Resolución Administrativa y Registro de Unidad Educativa hasta el 31 de diciembre entrarán en funcionamiento en la siguiente gestión educativa; el registro de solicitudes se hace del 1 de junio al 30 de septiembre.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 16; página impresa: 7 (de 9); página PDF: 10."
+  },
+  {
+   "id": "6ad236385cb3",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO II] Al planificar la infraestructura de una nueva unidad de convenio, ¿qué compromiso estratégico exige el Reglamento a la institución solicitante?",
+   "options": [
+    "Financiar la infraestructura con aportes de los padres aprobados por la junta escolar.",
+    "Transferir la infraestructura al Gobierno Autónomo Municipal antes de iniciar las actividades educativas.",
+    "Dotar y garantizar servicios, infraestructura, mobiliario y equipamiento, con cámaras de seguridad.",
+    "Utilizar exclusivamente infraestructura fiscal cedida por la Dirección Distrital del lugar."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 7, inciso b), del Reglamento de convenio exige el compromiso de la institución solicitante de dotar, financiar y garantizar servicios básicos, infraestructura, mobiliario, material educativo y equipamiento, contemplando la implementación de cámaras de seguridad.",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo II, Art. 7; página impresa: 5 (de 15); página PDF: 20."
+  },
+  {
+   "id": "f5a22be9c52c",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO IV] Para asegurar la continuidad de una unidad de convenio, ¿qué condición jurídica debe gestionar permanentemente su dirección?",
+   "options": [
+    "Contar con un número mínimo de 21 estudiantes por cada paralelo.",
+    "Contar con el convenio vigente y cumplir lo establecido en él.",
+    "Contar con el aval anual de la junta escolar de padres y madres.",
+    "Contar con la aprobación anual del Gobierno Autónomo Municipal."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 19, numerales 11 y 12, del Reglamento de convenio establece como causales de cierre no contar con el convenio vigente e incumplir lo establecido en él; el convenio vigente es además requisito de varios trámites (Arts. 12, 13 y 15).",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Art. 19; página impresa: 11 (de 15); página PDF: 26."
+  },
+  {
+   "id": "27eb94f8819a",
+   "q": "[R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO III] Desde la gestión institucional, ¿qué obligación anual de información debe garantizar el representante de una unidad privada para no incurrir en causal de cierre?",
+   "options": [
+    "Reportar la información de cada cierre de gestión educativa.",
+    "Remitir la nómina de padres morosos a la Dirección Distrital.",
+    "Publicar los estados financieros en la página web de la unidad.",
+    "Informar al Ministerio el número de becas otorgadas cada mes."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 15, numeral 6, del Reglamento de privadas (y el Art. 19, numeral 10, del de convenio) establece como causal de cierre no reportar información de cada cierre de gestión educativa.",
+   "legal": "R.M. 0022/2024, Reglamento (privadas), Capítulo III, Art. 15, pág. impresa 9 (de 13), PDF 43; R.M. 0021/2024, Reglamento (convenio), Art. 19, pág. impresa 11 (de 15), PDF 26."
+  },
+  {
+   "id": "7390f06a6ec9",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Desde la planificación distrital, ¿qué instrumento técnico debe actualizarse en el sistema cuando una unidad fiscal amplía o reduce niveles?",
+   "options": [
+    "El reglamento interno de convivencia aprobado por la junta escolar.",
+    "El contrato de servicios educativos suscrito con las familias.",
+    "El inventario de bienes muebles registrado en la Contraloría.",
+    "Los datos de infraestructura en el sistema SIE de Infraestructura Educativa."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 10, numeral 5, exige la actualización de datos de infraestructura en el sistema SIE de Infraestructura Educativa; el numeral 7 exige además la certificación del GAM sobre la distribución de ambientes pedagógicos, administrativos y de recreación.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 10; página impresa: 6 (de 9); página PDF: 9."
+  },
+  {
+   "id": "b2c2d3087e5c",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO IV] Un Director Distrital diseña una política de reordenamiento de su distrito. ¿Qué causal de cierre le permite el Reglamento considerar, y con qué condición?",
+   "options": [
+    "La fusión obligatoria de unidades educativas cercanas, sin necesidad de valoración técnica previa alguna.",
+    "El reordenamiento administrativo distrital, previa valoración conforme a normativa vigente.",
+    "La baja demanda en zonas urbanas, con el solo acuerdo de la junta escolar de padres.",
+    "La transferencia de unidades fiscales a la administración de entidades privadas."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 19, numeral 5, prevé como causal de cierre el reordenamiento administrativo distrital, previa valoración de acuerdo a normativa vigente; el Art. 17, numeral 3, prohíbe cambiar la dependencia de fiscales a convenio o privada.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo IV, Arts. 17 y 19; páginas impresas: 8 y 9 (de 9); páginas PDF: 11 y 12."
+  },
+  {
+   "id": "1d98f2f3210e",
+   "q": "[R.M. 0534/2025 Modificación del Reglamento de U.E. Privadas – RESOLUCIÓN MINISTERIAL] En una estrategia de supervisión distrital de unidades privadas, ¿cómo debe graduarse la respuesta ante un incremento de pensiones no autorizado, según la reforma de 2025?",
+   "options": [
+    "Como falta grave con multa; el cierre queda para la reincidencia en faltas graves.",
+    "Como falta leve con multa del 5%, sin consecuencias adicionales en caso de reincidencia.",
+    "Como falta gravísima con cierre inmediato en la misma gestión educativa.",
+    "Sin sanción, porque las pensiones se rigen exclusivamente por el contrato."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: Tras la R.M. 0534/2025, incrementar pensiones por encima de lo dispuesto por el Ministerio es falta grave (Art. 20, inc. b, num. 11) con multa del 10%; la reincidencia en faltas graves es falta gravísima (inc. c, num. 1), sancionada con cierre definitivo en la siguiente gestión.",
+   "legal": "R.M. 0534/2025, Art. 2, I y II; página impresa: 3 (de 4); página PDF: 50."
+  },
+  {
+   "id": "5b20c99ec56c",
+   "q": "[R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Un Director Departamental quiere evitar que los trámites de apertura se den de baja por demoras internas. ¿Qué medida de gestión es coherente con el Reglamento?",
+   "options": [
+    "Autorizar el funcionamiento provisional de las unidades cuyo trámite no concluya en la gestión.",
+    "Controlar los plazos de cada instancia, porque los atrasos injustificados generan procesos administrativos.",
+    "Ampliar por instructivo departamental el periodo de registro de solicitudes hasta el 31 de diciembre.",
+    "Trasladar de oficio los trámites pendientes a la gestión siguiente, conservando su orden de ingreso."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 16 dispone que el registro se realiza del 1 de junio al 30 de septiembre, que los trámites deben culminar hasta el 31 de diciembre, que los pendientes se dan de baja y que, si la baja obedece a atrasos administrativos injustificados, los servidores responsables serán pasibles de procesos administrativos. El Art. 17 prohíbe funcionar sin Resolución y RUE.",
+   "legal": "R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Arts. 16 y 17; páginas impresas: 7 y 8 (de 9); páginas PDF: 10 y 11."
+  },
+  {
+   "id": "532022a33a24",
+   "q": "[R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] Al diseñar un plan anual de control de las unidades de convenio y privadas de su jurisdicción, ¿qué instrumentos le ofrecen los reglamentos al Director Distrital?",
+   "options": [
+    "Evaluación del desempeño docente, control de planillas y aprobación de reglamentos.",
+    "Auditoría financiera anual, aprobación de pensiones y designación de directores.",
+    "Cronograma anual de inspecciones, revisión anual del RUE y procedimiento sancionatorio.",
+    "Intervención temporal de la unidad, nombramiento de interventores y cierre inmediato."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: Los reglamentos prevén la revisión anual de los Certificados RUE por las direcciones distritales (Art. 5, II), el cronograma anual de inspecciones (Art. 22 de convenio; Art. 18 de privadas) y el inicio del procedimiento sancionatorio a través de las Direcciones Distritales (Art. 24 de convenio; Art. 20 de privadas).",
+   "legal": "R.M. 0021/2024, Reglamento (convenio), Arts. 5, 22 y 24, págs. impresas 4 y 12 (de 15), PDF 19 y 27; R.M. 0022/2024, Reglamento (privadas), Arts. 5, 18 y 20, págs. impresas 3, 10 y 11 (de 13), PDF 37, 44 y 45."
+  }
+ ],
+ "rm-0190-2024-general": [
+  {
+   "id": "6414b0775b7e",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO II] Según el cuadro del Art. 49, ¿cómo se distribuyen los 100 puntos de la calificación trimestral por área en Educación Primaria Comunitaria Vocacional?",
+   "options": [
+    "Ser 5, Saber 45, Hacer 40, Decidir 5 y autoevaluación 5.",
+    "Ser 5, Saber 40, Hacer 45, Decidir 5 y autoevaluación 5.",
+    "Ser 10, Saber 45, Hacer 40, Decidir 0 y autoevaluación 5.",
+    "Ser 10, Saber 40, Hacer 40, Decidir 5 y autoevaluación 5."
+   ],
+   "answer": 0,
+   "explanation": "El cuadro del Art. 49, inciso b), asigna a la evaluación del maestro: Ser 5, Saber 45, Hacer 40 y Decidir 5; y 5 puntos a la autoevaluación (Ser y Decidir), con un total de 100. El Art. 56 reproduce la misma asignación para Secundaria.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo II, Art. 49; página impresa: 20 (de 27); página PDF: 24."
+  },
+  {
+   "id": "7bc406d60bab",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO II] ¿Qué rango cuantitativo corresponde a la valoración \"Desarrollo Óptimo\" (DO) según el Art. 50?",
+   "options": [
+    "De 51 a 68 puntos, con condición de promovido.",
+    "De 85 a 100 puntos, con condición de promovido.",
+    "De 69 a 84 puntos, con condición de promovido.",
+    "De 61 a 80 puntos, con condición de promovido."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 50, parágrafo II, establece: ED (En Desarrollo) hasta 50, retenido; DA (Desarrollo Aceptable) de 51 a 68; DO (Desarrollo Óptimo) de 69 a 84; DP (Desarrollo Pleno) de 85 a 100, todos estos últimos promovidos.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo II, Art. 50; página impresa: 20 (de 27); página PDF: 24."
+  },
+  {
+   "id": "7b16001d1f4f",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Según el Art. 11, ¿hasta qué edad pueden ser incorporados al Subsistema de Educación Regular las niñas, niños y adolescentes en desventaja social?",
+   "options": [
+    "Siempre que tengan una edad menor a 16 años al inicio de la gestión escolar.",
+    "Siempre que tengan una edad menor a 14 años al 31 de diciembre de la gestión.",
+    "Siempre que tengan una edad menor a 15 años al 30 de junio de la gestión.",
+    "Siempre que tengan una edad menor a 18 años al 31 de marzo de la gestión."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 11 dispone que la población en desventaja social (trabajadores, víctimas de violencia, trata, hijos de privados de libertad, en situación de calle, entre otros) deberá ser incorporada al Subsistema de Educación Regular siempre que cuente con una edad menor a 15 años al 30 de junio de la gestión.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 11; páginas impresas: 11 y 12 (de 27); páginas PDF: 15 y 16."
+  },
+  {
+   "id": "80cb3b8cb72b",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – RESOLUCIÓN MINISTERIAL] ¿Qué norma abrogó la R.M. 0190/2024 al aprobar el Reglamento de Evaluación del Desarrollo Curricular – Versión 01?",
+   "options": [
+    "La R.M. N.º 750/2014, de 30 de septiembre de 2014.",
+    "La R.M. N.º 1000/2015, de 22 de diciembre de 2015.",
+    "La R.M. N.º 1040/2022, de 22 de noviembre de 2022.",
+    "La R.M. N.º 0473/2021, de 20 de agosto de 2021."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 3 de la R.M. 0190/2024 abroga la Resolución Ministerial N.º 0473/2021 de 20 de agosto de 2021, que aprobaba el anterior Reglamento de Evaluación del Desarrollo Curricular. La R.M. 1040/2022 aprueba el Currículo Base y la R.M. 750/2014 el reglamento de juntas escolares.",
+   "legal": "R.M. 0190/2024, Art. 3; página impresa: 4 (de 4); página PDF: 4."
+  },
+  {
+   "id": "d111b7dcbeee",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] Ante una inasistencia justificada, ¿en qué plazo la madre, padre o tutor debe hacer conocer los motivos?",
+   "options": [
+    "En los primeros cinco días hábiles después de la ausencia.",
+    "En los primeros tres días hábiles después de la ausencia.",
+    "En las primeras cuarenta y ocho horas de la ausencia.",
+    "Antes de la conclusión del trimestre en que se produjo."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 26, parágrafo III, dispone que en los primeros cinco días hábiles después de su ausencia la madre, padre y/o tutor deberá hacer conocer los motivos; el maestro realizará la nivelación correspondiente mediante adaptaciones curriculares.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 26; páginas impresas: 14 y 15 (de 27); páginas PDF: 18 y 19."
+  },
+  {
+   "id": "81e1de973c9a",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] ¿Cómo define el Reglamento a la Comisión Técnico Pedagógica?",
+   "options": [
+    "Instancia de participación social que reúne a padres y maestros para fiscalizar las calificaciones del curso.",
+    "Instancia de la unidad que brinda apoyo técnico pedagógico a la gestión curricular para atender casos específicos.",
+    "Instancia disciplinaria de la unidad que resuelve reclamos de padres por reprobación o pérdida del año escolar.",
+    "Instancia distrital que supervisa la evaluación de las unidades educativas y aprueba sus calificaciones finales anuales."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 6, parágrafo I, define a la Comisión Técnico Pedagógica como la instancia en la unidad educativa que brinda apoyo técnico pedagógico a la gestión curricular, para atender casos de estudiantes con discapacidad, dificultades de aprendizaje, talento extraordinario y rezago escolar.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 6; página impresa: 7 (de 27); página PDF: 11."
+  },
+  {
+   "id": "9167198d0cb6",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO I] Según el Art. 5, la evaluación es \"orientadora\" porque:",
+   "options": [
+    "Permite aplicar una variedad de estrategias, técnicas e instrumentos según las necesidades educativas.",
+    "Se aplica de forma continua durante todo el desarrollo curricular de la gestión educativa vigente.",
+    "Integra métodos, estrategias, materiales y horarios inherentes a la realidad de cada contexto.",
+    "A partir de la información generada se toman decisiones para el ajuste de los procesos educativos."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 5, inciso d), califica la evaluación de orientadora porque, a partir de la información generada, se toman decisiones para el ajuste de los procesos educativos según las necesidades emergentes; las demás opciones describen las características flexible, permanente y sistemática.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo I, Art. 5; página impresa: 7 (de 27); página PDF: 11."
+  },
+  {
+   "id": "9bcad2196462",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO VI] ¿Qué naturaleza atribuye el Art. 71 a la Libreta Escolar Electrónica?",
+   "options": [
+    "Instrumento interno del maestro para registrar el avance de contenidos y los criterios de evaluación del curso.",
+    "Documento oficial de certificación, comunicación y acreditación de los resultados de los estudiantes.",
+    "Registro informativo sin valor de acreditación, complementario al centralizador de calificaciones.",
+    "Documento provisional que solo adquiere validez cuando lo firma el Director Distrital de Educación."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 71, parágrafo I, define la Libreta Escolar Electrónica como el documento oficial de certificación, comunicación y acreditación de los resultados logrados por las y los estudiantes; el Art. 73 reserva al cuaderno pedagógico el registro de avance de contenidos.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo VI, Arts. 71 y 73; página impresa: 25 (de 27); página PDF: 29."
+  },
+  {
+   "id": "5e23682f5398",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] ¿Cómo define el Reglamento las adaptaciones curriculares?",
+   "options": [
+    "Sustituciones del plan de estudios por programas especiales aprobados por la Distrital.",
+    "Modificaciones o ajustes a los elementos del currículo, sin afectar objetivos ni contenidos.",
+    "Asignaciones de puntaje adicional para compensar las dificultades de aprendizaje.",
+    "Reducciones de objetivos y contenidos mínimos para estudiantes con bajo rendimiento persistente."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 66 define las adaptaciones curriculares como modificaciones y/o ajustes a los elementos del currículo (organización pedagógica, estrategias metodológicas, materiales educativos y evaluación), en la planificación y en el desarrollo curricular, sin afectar objetivos ni contenidos.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 66; página impresa: 24 (de 27); página PDF: 28."
+  },
+  {
+   "id": "9cb5ef958ea2",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO VI] ¿Qué describe el \"perfil de salida\" según el Art. 33?",
+   "options": [
+    "Las capacidades, cualidades y potencialidades alcanzadas al concluir un año de escolaridad.",
+    "Las competencias laborales certificadas al concluir el Bachillerato Técnico Humanístico.",
+    "Los contenidos mínimos que el maestro debe desarrollar en cada trimestre del año escolar.",
+    "Las calificaciones mínimas exigidas para la promoción en cada área de saberes y conocimientos."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 33 dispone que el perfil de salida describe y explica las capacidades, cualidades y potencialidades alcanzadas por las y los estudiantes al concluir un determinado año de escolaridad, en el marco de los objetivos holísticos de nivel.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo VI, Art. 33; página impresa: 17 (de 27); página PDF: 21."
+  },
+  {
+   "id": "386ea03ce7b4",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Entre las responsabilidades de la Directora o Director en la evaluación, el Art. 9 establece:",
+   "options": [
+    "Aprobar las calificaciones finales de cada estudiante antes de su remisión a la Dirección Distrital.",
+    "Elaborar los instrumentos de evaluación oral y escrita que aplicarán los maestros en cada trimestre.",
+    "Revisar y centralizar los resultados de la evaluación por año de escolaridad presentados por los maestros.",
+    "Registrar personalmente las calificaciones de todos los estudiantes en el Sistema de Información Educativa."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 9, parágrafo II, inciso d), asigna al Director revisar y centralizar la información de los resultados de la evaluación por año de escolaridad presentada por los maestros; el registro en el SIE corresponde a los maestros o al tutor (Art. 9, IV, h e i).",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 9 (de 27); página PDF: 13."
+  },
+  {
+   "id": "3086d2db79a4",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] ¿Quién es responsable de generar el archivo digital e imprimir la Libreta Escolar Electrónica al finalizar el trimestre?",
+   "options": [
+    "La Directora o Director de la unidad o núcleo, en coordinación con la asesora o asesor de curso.",
+    "El presidente de la Comisión Técnico Pedagógica, en coordinación con la junta escolar.",
+    "La maestra o maestro de cada área de saberes, con la supervisión del técnico distrital del sistema SIE.",
+    "La secretaria de la unidad educativa, con el visto bueno de la Comisión Técnico Pedagógica."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 9, parágrafo IV, inciso j), dispone que la generación del archivo digital y la impresión de la Libreta Escolar Electrónica, al finalizar el trimestre, es responsabilidad de la Directora o Director de la unidad educativa o núcleo, en coordinación con el asesor de curso, debidamente firmada y sellada por ambos, constituyéndose en declaración jurada.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 10 (de 27); página PDF: 14."
+  },
+  {
+   "id": "21b5f75bea76",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] ¿Qué deber de participación impone el Art. 9 a la Directora o Director con carácter de obligatoriedad?",
+   "options": [
+    "Participar en las reuniones mensuales de la Dirección Distrital sobre rendimiento académico.",
+    "Participar en reuniones periódicas de informes de aprovechamiento con maestros y padres de familia.",
+    "Participar en las sesiones de evaluación comunitaria de todas las unidades educativas del núcleo escolar.",
+    "Participar en los tribunales de evaluación de la segunda instancia de cada área de saberes."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 9, parágrafo II, inciso h), dispone que el Director participe con carácter de obligatoriedad en reuniones periódicas de informes de aprovechamiento con los maestros responsables de cada año de escolaridad y padres de familia.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 9 (de 27); página PDF: 13."
+  },
+  {
+   "id": "54f839cbc5d3",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] ¿A qué instancias debe derivar el Director los casos de estudiantes con discapacidad, dificultades de aprendizaje o talento extraordinario?",
+   "options": [
+    "A la Defensoría de la Niñez y Adolescencia y al Servicio Departamental de Gestión Social del lugar.",
+    "A la Comisión Técnico Pedagógica y/o a Centros Integrales Multisectoriales y de Educación Especial.",
+    "A la Dirección Distrital Educativa y a la junta escolar, para su tratamiento en asamblea general.",
+    "Al Ministerio de Educación, a través de la Dirección General de Educación Especial y Regular."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 9, parágrafo II, inciso e), asigna al Director conocer, analizar y derivar los casos de estudiantes con discapacidad, dificultades de aprendizaje, talento extraordinario, desventaja social y otros a la Comisión Técnico Pedagógica y/o Centros Integrales Multisectoriales y Centros de Educación Especial, según corresponda.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 9 (de 27); página PDF: 13."
+  },
+  {
+   "id": "878b629ab89b",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] En la incorporación de población en desventaja social, ¿qué documento redacta la Directora o Director y qué valor legal tiene?",
+   "options": [
+    "El informe de valoración, que requiere homologación posterior de la Dirección Distrital.",
+    "El Acta de Inscripción, que tiene valor provisional hasta la conclusión del trimestre.",
+    "El Acta Supletoria, que reemplaza a la Libreta Electrónica y tiene su mismo valor legal.",
+    "La Libreta Escolar Electrónica, emitida con una observación de carácter excepcional."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 17 dispone que, con base en las valoraciones de los maestros, el Director redacte el Acta Supletoria que reemplazará a la Libreta Electrónica Escolar; el Art. 18 le reconoce valor legal igual a la Libreta. El Acta de Inscripción (Art. 16) la redacta la Comisión Técnico Pedagógica.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Arts. 16 a 18; página impresa: 12 (de 27); página PDF: 16."
+  },
+  {
+   "id": "93ac28b99d7d",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] ¿Quiénes deben firmar y archivar el Acta Supletoria de promoción?",
+   "options": [
+    "La Comisión Técnico Pedagógica y la madre, padre o tutor de la o el estudiante promovido.",
+    "La Dirección Departamental de Educación y la Defensoría de la Niñez y Adolescencia local.",
+    "El maestro del año de escolaridad y el presidente de la junta escolar de la unidad educativa.",
+    "La Directora o Director de la unidad educativa y la Dirección Distrital Educativa respectiva."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 17, parágrafo II, dispone que el Acta Supletoria deberá ser firmada y archivada por la Directora o Director de la unidad educativa y la Dirección Distrital Educativa respectiva, junto a los centralizadores de calificaciones de los demás estudiantes.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 17; página impresa: 12 (de 27); página PDF: 16."
+  },
+  {
+   "id": "8398bcb0cc13",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Para la atención de estudiantes con talento extraordinario, ¿qué debe emitir la Directora o Director?",
+   "options": [
+    "Un informe a la Dirección Distrital solicitando la valoración por un equipo multidisciplinario.",
+    "Un memorándum o instructivo para que la Comisión Técnico Pedagógica realice la evaluación.",
+    "Una Resolución Administrativa que autorice la promoción directa al año de escolaridad superior.",
+    "Una convocatoria a la junta escolar para aprobar la aceleración del año de escolaridad."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 23, parágrafo III, dispone que el Director emita un memorándum o instructivo para que la Comisión Técnico Pedagógica, con los maestros de aula y de especialidad, realice bajo cronograma una evaluación y luego se llene el Acta Supletoria de aceleración y se remita el informe a la dirección.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 23; página impresa: 14 (de 27); página PDF: 18."
+  },
+  {
+   "id": "49e21926c2ab",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] ¿Qué controla y verifica la Directora o Director respecto de las evaluaciones escritas, orales y productivas?",
+   "options": [
+    "Que sean aprobadas previamente por la junta escolar y archivadas en la dirección de la unidad.",
+    "Que se apliquen una sola vez por trimestre y que sus resultados se publiquen en la unidad educativa.",
+    "Que sean idénticas para todos los paralelos y que se apliquen en fechas fijadas por la Distrital.",
+    "Que sean recurrentes y que sus resultados se registren sistemáticamente en el cuaderno pedagógico."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 60, parágrafo III, dispone que las evaluaciones escritas, orales y productivas sean actividades recurrentes, registradas de manera sistemática en los cuadernos pedagógicos, acciones que corresponde controlar y verificar a la Directora o Director, evitando la improvisación.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Art. 60; página impresa: 23 (de 27); página PDF: 27."
+  },
+  {
+   "id": "9fde66d9923e",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO II] Una vez registradas por el maestro en el SIE, ¿a dónde deben remitirse las calificaciones y con qué fin?",
+   "options": [
+    "A la Comisión Técnico Pedagógica, para su revisión y eventual ajuste de notas.",
+    "A la Dirección de la unidad educativa, para su consolidación en el sistema.",
+    "A la Dirección Distrital Educativa, para su aprobación y publicación final.",
+    "A la junta escolar, para su conocimiento y conformidad antes de la libreta."
+   ],
+   "answer": 1,
+   "explanation": "Los Arts. 50 y 57, parágrafo I, disponen que las calificaciones, una vez registradas por el maestro en el SIE, deberán ser remitidas a la Dirección de la unidad educativa para la consolidación en el sistema, en cumplimiento a sus responsabilidades.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulos II y III, Arts. 50 y 57; páginas impresas: 20 y 22 (de 27); páginas PDF: 24 y 26."
+  },
+  {
+   "id": "aeb1d3ea4bf2",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] ¿Qué responsabilidad asigna el Art. 64 a la Directora o Director en materia de seguimiento?",
+   "options": [
+    "Aprobar por escrito cada instrumento de evaluación antes de su aplicación por los maestros de aula del nivel.",
+    "Realizar el apoyo y seguimiento oportuno a la elaboración y aplicación de instrumentos de evaluación.",
+    "Remitir los instrumentos de evaluación a la Dirección Distrital para su validación trimestral.",
+    "Elaborar los instrumentos de evaluación de todas las áreas para asegurar su uniformidad técnica."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 64, parágrafo I, dispone que la Directora o Director realice el apoyo y seguimiento oportuno a la elaboración y aplicación de instrumentos de evaluación; el parágrafo II exige que los instrumentos orales y escritos sean previamente planificados según criterios técnico pedagógicos.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 64; página impresa: 24 (de 27); página PDF: 28."
+  },
+  {
+   "id": "56fb4fe1456e",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO I] ¿Cuál es el ámbito de aplicación del Reglamento de Evaluación?",
+   "options": [
+    "Todos los subsistemas del Sistema Educativo Plurinacional, incluida la Alternativa.",
+    "Inicial, Primaria y Secundaria, solo en las unidades educativas fiscales del Subsistema Regular.",
+    "Primaria y Secundaria en unidades fiscales y de convenio, excluyendo a las privadas.",
+    "Inicial escolarizada, Primaria y Secundaria en unidades fiscales, privadas y de convenio."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 2 dispone que el Reglamento se aplica en Educación Inicial en Familia Comunitaria (etapa escolarizada), Educación Primaria Comunitaria Vocacional y Educación Secundaria Comunitaria Productiva, en unidades educativas fiscales, privadas y de convenio del Subsistema de Educación Regular.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo I, Art. 2; página impresa: 6 (de 27); página PDF: 10."
+  },
+  {
+   "id": "f7d28430c7bf",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] ¿Cómo se toman las decisiones de la Comisión Técnico Pedagógica y qué efecto tienen?",
+   "options": [
+    "Por votación de los padres, y obligan solo a los maestros del año de escolaridad.",
+    "Por decisión del presidente, y requieren la ratificación del Director Distrital.",
+    "Por mayoría simple, y tienen carácter de sugerencia que cada maestro puede decidir no aplicar.",
+    "Por consenso, y deben ser asumidas por los maestros de los diferentes niveles y áreas."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 6, parágrafo III, dispone que las decisiones y recomendaciones de la Comisión Técnico Pedagógica se tomarán por consenso, debiendo ser asumidas por las maestras y maestros de los diferentes niveles, Áreas y Campos de Saberes y Conocimientos.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 6; página impresa: 7 (de 27); página PDF: 11."
+  },
+  {
+   "id": "3e555b55b1f3",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] ¿En qué momento deben realizarse las acciones de apoyo pedagógico propuestas por la Comisión Técnico Pedagógica (reforzamiento, adaptaciones, segunda instancia)?",
+   "options": [
+    "Al finalizar la gestión, antes del cierre anual.",
+    "Antes de la conclusión de cada trimestre.",
+    "Durante el descanso pedagógico de invierno.",
+    "Durante el primer mes de la gestión siguiente."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 6, parágrafo II, dispone que la Comisión propondrá apoyo pedagógico con sesiones de reforzamiento, adaptaciones curriculares y/o segunda instancia de evaluación teórico-práctica, debiendo realizarse todas estas acciones antes de la conclusión de cada trimestre.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 6; página impresa: 7 (de 27); página PDF: 11."
+  },
+  {
+   "id": "4a9690656c0e",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] ¿Con qué frecuencia se realiza la evaluación cualitativa según el Art. 24?",
+   "options": [
+    "Dos veces por trimestre, al inicio y al cierre.",
+    "Una vez al año, al concluir la gestión educativa.",
+    "Una vez por trimestre y por año de escolaridad.",
+    "Mensualmente, en cada reunión con los padres."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 24, parágrafo II, dispone que la evaluación cualitativa se realizará una vez por trimestre y por año de escolaridad, aplicando instrumentos que valoren capacidades, potencialidades y cualidades según el perfil de salida.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 24; página impresa: 14 (de 27); página PDF: 18."
+  },
+  {
+   "id": "6ee6f2715e24",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] ¿Hacia qué dimensiones debe orientarse la autoevaluación del estudiante y cuándo se realiza?",
+   "options": [
+    "Al Hacer y al Decidir, al inicio de cada trimestre de la gestión.",
+    "A las cuatro dimensiones, una sola vez al concluir la gestión.",
+    "Al Saber y al Hacer, al concluir cada trimestre de la gestión.",
+    "Al Ser y al Decidir, de forma paralela a la evaluación trimestral."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 29, parágrafo V, dispone que la autoevaluación esté orientada a la valoración de las dimensiones del Ser y Decidir, realizándose de forma paralela a la evaluación trimestral; los Arts. 49 y 56 le asignan 5 puntos.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 29; página impresa: 16 (de 27); página PDF: 20."
+  },
+  {
+   "id": "89b75b818031",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] ¿Quién convoca la evaluación comunitaria en Educación Secundaria Comunitaria Productiva y con qué periodicidad se realiza?",
+   "options": [
+    "La junta escolar de la unidad educativa, al cierre de cada semestre.",
+    "La Comisión Técnico Pedagógica, a mediados de cada trimestre escolar.",
+    "La asesora o asesor de curso del año de escolaridad, trimestralmente.",
+    "La Directora o Director de la unidad educativa, una vez por gestión."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 28, parágrafo I, dispone que la evaluación comunitaria se realice trimestralmente, a convocatoria del maestro del año de escolaridad en Inicial y Primaria y/o del asesor de curso en Secundaria, con participación del Director, maestros, padres, estudiantes y la Comisión.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 28; página impresa: 15 (de 27); página PDF: 19."
+  },
+  {
+   "id": "23f6be63ea3c",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO I] ¿Cómo se produce la promoción del año de escolaridad en Educación Inicial en Familia Comunitaria?",
+   "options": [
+    "Requiere un promedio mínimo de 51 puntos en cada uno de los campos de saberes y conocimientos del año.",
+    "Es automática, previo cumplimiento de las actividades programadas y según valoración cualitativa.",
+    "Exige una evaluación final de logros aplicada por un maestro distinto al del año de escolaridad.",
+    "Depende de la aprobación expresa de la Comisión Técnico Pedagógica al concluir la gestión."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 44 dispone que la promoción en Educación Inicial es automática, previo cumplimiento de las actividades programadas, con seguimiento del maestro, según valoración cualitativa, con base en la formación integral y holística; el Art. 34 señala que la evaluación en este nivel es cualitativa.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo I, Arts. 34 y 44; páginas impresas: 17 y 19 (de 27); páginas PDF: 21 y 23."
+  },
+  {
+   "id": "ded69efff737",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO VI] ¿Qué valoración expresa la Libreta Escolar Electrónica en Educación Inicial frente a Primaria y Secundaria?",
+   "options": [
+    "En Inicial, la cualitativa; en Primaria y Secundaria, la cuantitativa.",
+    "En todos los niveles, únicamente la valoración cuantitativa de áreas.",
+    "En Inicial, la cuantitativa; en Primaria y Secundaria, la cualitativa.",
+    "En todos los niveles, únicamente la valoración cualitativa de logros."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 71 dispone que en Educación Inicial la Libreta es documento de acreditación promocional que expresa la valoración cualitativa; en Primaria y Secundaria expresa la valoración cuantitativa, constituyéndose en documento de acreditación promocional.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo VI, Art. 71; página impresa: 25 (de 27); página PDF: 29."
+  },
+  {
+   "id": "b8733fb61493",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] ¿Qué establece la Disposición Adicional Tercera sobre la asignación de puntaje \"como forma de colaboración\"?",
+   "options": [
+    "Que procede únicamente en el último trimestre, para evitar la retención de los estudiantes.",
+    "Que procede solo con aprobación de la Comisión Técnico Pedagógica y por una única vez en cada gestión.",
+    "Que procede hasta un máximo de cinco puntos por área, para estudiantes en desventaja social.",
+    "Que está prohibida bajo cualquier circunstancia, porque no existe la compensación de calificación."
+   ],
+   "answer": 3,
+   "explanation": "La Disposición Adicional Tercera dispone que bajo ninguna circunstancia se asignará puntaje como forma de colaboración; la Comisión Técnico Pedagógica debe sugerir acciones para solucionar la dificultad del estudiante, puesto que no existe la compensación de calificación.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Tercera; página impresa: 26 (de 27); página PDF: 30."
+  },
+  {
+   "id": "baa1f5ce32c7",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES TRANSITORIAS] Según la Disposición Transitoria Única, ¿cómo procede la evaluación en casos extremos de crisis sanitaria o desastres naturales?",
+   "options": [
+    "Se realiza tomando en cuenta las contingencias, previa recomendación del Ministerio de Salud.",
+    "Se realiza según lo que decida cada Dirección Departamental, sin necesidad de instrucción.",
+    "Se reemplaza por la promoción automática de todos los estudiantes del año de escolaridad respectivo.",
+    "Se suspende hasta que el Ministerio de Educación emita un nuevo reglamento de evaluación."
+   ],
+   "answer": 0,
+   "explanation": "La Disposición Transitoria Única dispone que en casos extremos de crisis sanitaria, desastres naturales u otras emergencias, previa recomendación del Ministerio de Salud, la evaluación se realizará tomando en cuenta las contingencias.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Disposición Transitoria Única; página impresa: 27 (de 27); página PDF: 31."
+  },
+  {
+   "id": "8d175e0928a0",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULOS II y III] Distinga el criterio de retención en Primaria y en Secundaria según los Arts. 51 y 58:",
+   "options": [
+    "Primaria: promedio menor a 61 en una área; Secundaria: menor a 51 en una o más áreas.",
+    "Primaria: promedio menor a 51 en dos áreas; Secundaria: menor a 51 en tres o más áreas.",
+    "Primaria: promedio anual general menor a 51; Secundaria: menor a 51 en una sola área.",
+    "Primaria: promedio menor a 51 en una de las áreas; Secundaria: menor a 51 en una o más áreas."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 51, inciso a), retiene en Primaria a quien obtenga promedio anual menor a 51 puntos en una de las Áreas de Saberes y Conocimientos; el Art. 58, inciso a), retiene en Secundaria a quien obtenga promedios anuales menores a 51 en una o más Áreas.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Arts. 51 y 58; páginas impresas: 20 y 22 (de 27); páginas PDF: 24 y 26."
+  },
+  {
+   "id": "cb614b80c939",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] Distinga la composición de la Comisión Técnico Pedagógica en Primaria y en Secundaria:",
+   "options": [
+    "Primaria: Director y representantes por Campo; Secundaria: Director y un representante por año de escolaridad.",
+    "Primaria: Director y un representante por año de escolaridad; Secundaria: Director y representantes por Campo.",
+    "Primaria: todos los maestros de la unidad; Secundaria: Director y representantes de los padres de familia.",
+    "En ambos niveles: Director, un maestro por área y un representante de la junta escolar de la unidad."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 7 dispone que en Primaria la Comisión la conforman el Director y un representante de los maestros por año de escolaridad, y en Secundaria el Director y representantes de los maestros por cada Campo de Saberes y Conocimientos. En unidades con uno a cuatro maestros, estos son responsables de la Comisión.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 7; páginas impresas: 7 y 8 (de 27); páginas PDF: 11 y 12."
+  },
+  {
+   "id": "9b5b5dab6769",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Distinga quién registra las calificaciones en el SIE en Inicial y Primaria frente a Secundaria:",
+   "options": [
+    "Inicial y Primaria: el Director; Secundaria: cada maestro de área, sin intervención del tutor.",
+    "Inicial y Primaria: maestros de aula; Secundaria: el tutor, en coordinación con el maestro de área.",
+    "Inicial y Primaria: el tutor; Secundaria: la secretaría de la unidad con el visto bueno del Director.",
+    "En todos los niveles: el técnico distrital del SIE, con base en los centralizadores entregados."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 9, parágrafo IV, inciso h), atribuye a los maestros de aula de Inicial y Primaria el registro de calificaciones en el SIE; el inciso i) dispone que en Secundaria es responsabilidad del tutor, en coordinación con el maestro de Área de Saberes y Conocimientos.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 10 (de 27); página PDF: 14."
+  },
+  {
+   "id": "ebe6da780f71",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] Distinga la evaluación de inicio o diagnóstica de la evaluación de logros de aprendizaje:",
+   "options": [
+    "La diagnóstica se aplica al cierre de gestión; la de logros, al inicio de cada trimestre escolar.",
+    "Ambas se aplican al finalizar el trimestre y se registran solo en la Libreta Escolar Electrónica.",
+    "La diagnóstica es cuantitativa y define la promoción; la de logros es cualitativa y solo tiene fin informativo.",
+    "La diagnóstica se aplica al inicio para ajustar la planificación; la de logros, al finalizar el trimestre."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 59 define la evaluación diagnóstica como valoración al inicio de la gestión que permite ajustar la planificación curricular; el Art. 61 dispone que la evaluación de logros se realiza al finalizar el trimestre para diseñar estrategias inmediatas de nivelación.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Arts. 59 y 61; páginas impresas: 22 y 23 (de 27); páginas PDF: 26 y 27."
+  },
+  {
+   "id": "cef33d4c91da",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO VI] Distinga el cuaderno pedagógico de la Libreta Escolar Electrónica:",
+   "options": [
+    "El cuaderno es de uso obligatorio del maestro para registrar avance y resultados; la Libreta acredita.",
+    "El cuaderno acredita oficialmente la promoción; la Libreta es un registro interno de uso del maestro.",
+    "El cuaderno lo elabora el Director; la Libreta la elabora la Comisión Técnico Pedagógica del nivel.",
+    "Ambos son documentos oficiales de acreditación con idéntico valor legal ante la Dirección Distrital."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 73, parágrafo II, define el cuaderno pedagógico como instrumento de uso obligatorio del maestro, donde registra avance de contenidos, criterios, programación y resultados; el Art. 71 define la Libreta como documento oficial de certificación, comunicación y acreditación.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo VI, Arts. 71 y 73; página impresa: 25 (de 27); página PDF: 29."
+  },
+  {
+   "id": "508c97137213",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] El Art. 24 menciona los rangos \"(ED – DA – DO – DF)\", mientras los Arts. 37, 50 y 57 usan ED, DA, DO y DP. Desde un análisis crítico, ¿qué se advierte?",
+   "options": [
+    "Una imprecisión de redacción: el cuarto rango definido en el Reglamento es Desarrollo Pleno (DP).",
+    "Un quinto rango adicional, \"DF\", aplicable solo a la evaluación cualitativa de Educación Secundaria.",
+    "Un rango exclusivo de Educación Inicial, distinto de los rangos de Primaria y Secundaria.",
+    "Una derogación tácita del rango DP, sustituido por DF desde la vigencia del Reglamento."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 24, II, menciona \"(ED – DA – DO – DF)\", pero los Arts. 37 (Inicial), 50 (Primaria) y 57 (Secundaria) definen como cuarto rango el Desarrollo Pleno (DP); no existe en el Reglamento un rango \"DF\", por lo que se trata de una imprecisión de redacción.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Arts. 24, 37, 50 y 57; páginas impresas: 14, 18, 20 y 22 (de 27); páginas PDF: 18, 22, 24 y 26."
+  },
+  {
+   "id": "076eff9d1832",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULOS II y III] En el cuadro de asignaciones, Ser y Decidir reciben 5 puntos de la evaluación del maestro, y la autoevaluación (5 puntos) se orienta a esas mismas dimensiones. ¿Qué lectura crítica es coherente con el Reglamento?",
+   "options": [
+    "La valoración del Ser y Decidir no incide en la calificación final del área de saberes.",
+    "Las dimensiones actitudinales se valoran combinando la mirada del maestro y la del propio estudiante.",
+    "El Reglamento suprime la evaluación del maestro en Ser y Decidir y la delega en el estudiante.",
+    "La autoevaluación sustituye la calificación del Saber cuando el estudiante tiene un bajo rendimiento sostenido."
+   ],
+   "answer": 1,
+   "explanation": "Los Arts. 49 y 56 asignan al maestro 5 puntos en Ser y 5 en Decidir, y la autoevaluación del estudiante (5 puntos) en Ser y Decidir se incorpora al promedio final del área; el Art. 29, V, orienta la autoevaluación a esas dimensiones.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Arts. 29, 49 y 56; páginas impresas: 16, 20 y 21-22 (de 27); páginas PDF: 20, 24, 25 y 26."
+  },
+  {
+   "id": "1b539e6daefd",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULOS II y III] El Art. 51, c) dispone que el estudiante de Primaria con discapacidad que no alcanza el promedio, tras aplicar adaptaciones, \"será retenido\"; el Art. 58, c), para Secundaria, solo dispone informar a los padres para su inscripción en el mismo año. ¿Qué observación crítica corresponde?",
+   "options": [
+    "En Secundaria el estudiante con discapacidad es promovido automáticamente al año siguiente.",
+    "En Primaria la retención solo procede si la Defensoría de la Niñez y Adolescencia lo autoriza expresamente.",
+    "Aunque la redacción difiere, ambos conducen a la reinscripción en el mismo año de escolaridad.",
+    "Ambos artículos eximen al estudiante con discapacidad de cualquier calificación numérica."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 51, c), dice que el estudiante con discapacidad \"será retenido\" y se informará a los padres para su inscripción automática en el mismo año; el Art. 58, c), omite la palabra \"retenido\", pero dispone igualmente informar a los padres para la inscripción automática en el mismo año de escolaridad.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Arts. 51 y 58; páginas impresas: 21 y 22 (de 27); páginas PDF: 25 y 26."
+  },
+  {
+   "id": "ae993ea866b9",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] ¿Qué finalidad protectora explica que la nivelación por rezago escolar se aplique por única vez y previo análisis psicosocial individualizado?",
+   "options": [
+    "Reducir la carga de trabajo de la Comisión Técnico Pedagógica durante la gestión.",
+    "Sustituir la evaluación pedagógica por el informe de la Defensoría de la Niñez.",
+    "Evitar su uso reiterado como atajo y valorar la situación integral de cada estudiante.",
+    "Permitir que el estudiante avance varios años de escolaridad en cada gestión según su rendimiento."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 22, I, dispone que la evaluación para la nivelación por rezago se realiza por única vez en Primaria o Secundaria, previo análisis psicosocial individualizado coordinado, si es necesario, con la Defensoría de la Niñez; no aplica a estudiantes con retención previa ni al sexto de Secundaria.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 22; página impresa: 13 (de 27); página PDF: 17."
+  },
+  {
+   "id": "e36bd1ae1f6f",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] La Disposición Adicional Cuarta exige que los trabajos prácticos se realicen en la unidad y en presencia del maestro. ¿Qué lectura crítica explica esta exigencia?",
+   "options": [
+    "Busca reducir el gasto de las familias en materiales escolares durante toda la gestión educativa.",
+    "Asegura que el producto evaluado refleje las capacidades del estudiante y no de terceros.",
+    "Pretende uniformar la estética de los trabajos de todos los estudiantes del curso.",
+    "Busca liberar al maestro de supervisar los trabajos fuera del horario escolar."
+   ],
+   "answer": 1,
+   "explanation": "La Disposición Adicional Cuarta dispone que los trabajos se realicen en la unidad y en presencia del maestro, por su finalidad de desarrollar capacidades del Saber y Hacer; prohíbe trabajos plagiados, comprados o hechos por padres u otros, y exige valorar su utilidad y funcionalidad más allá de lo estético.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Cuarta; página impresa: 26 (de 27); página PDF: 30."
+  },
+  {
+   "id": "f4659d764856",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] El Art. 63 dispone que la información presentada a la Dirección goza del derecho a la privacidad. ¿Qué consecuencia práctica se deriva?",
+   "options": [
+    "Solo puede conocerla la Dirección Distrital, sin acceso de los padres de familia.",
+    "Debe publicarse en el periódico mural de la unidad para garantizar la transparencia de la gestión.",
+    "Solo puede proporcionarse al estudiante, sus padres o tutor e instituciones autorizadas.",
+    "Puede compartirse con toda la comunidad educativa en la evaluación comunitaria."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 63, incisos c) y d), dispone que la información presentada a la Dirección gozará del derecho a la privacidad a favor de los estudiantes y que el acceso deberá ser exclusivamente proporcionado al estudiante, madre, padre, tutor e instituciones autorizadas y/o acreditadas.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Art. 63; páginas impresas: 23 y 24 (de 27); páginas PDF: 27 y 28."
+  },
+  {
+   "id": "17494fc3f7d1",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] El Art. 9 califica la Libreta Escolar Electrónica como \"declaración jurada\" y sujeta a sanciones su alteración. ¿Qué implica para la gestión directiva?",
+   "options": [
+    "Que la Libreta solo puede modificarse con autorización de la junta escolar de la unidad.",
+    "Que las calificaciones registradas no pueden comunicarse a los padres hasta fin de gestión.",
+    "Que el Director y el asesor que la firman y sellan responden por la veracidad de su contenido.",
+    "Que la Libreta debe ser legalizada ante notario de fe pública antes de entregarse a los padres de familia."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 9, IV, inciso g), señala que la Libreta se constituye en declaración jurada y su alteración será sujeta a sanciones administrativas; el inciso j) dispone que sea firmada y sellada por el Director y el asesor de curso, constituyéndose en declaración jurada.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 10 (de 27); página PDF: 14."
+  },
+  {
+   "id": "cec03c92ac71",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] La Disposición Adicional Quinta prohíbe \"la compensación por error de registro de calificaciones\". ¿Qué principio protege esta regla?",
+   "options": [
+    "La flexibilidad para favorecer a estudiantes con dificultades en el último trimestre.",
+    "La veracidad del registro: el error se corrige, no se compensa con otros puntajes.",
+    "La facultad de los padres para negociar la calificación final de sus hijos e hijas.",
+    "La autonomía del maestro para ajustar notas según su criterio personal de equidad."
+   ],
+   "answer": 1,
+   "explanation": "La Disposición Adicional Quinta prohíbe la manipulación para asignar valoraciones que no corresponden y la compensación por error de registro; en coherencia, el Art. 64, IV, exige imparcialidad y transparencia, y el Art. 9, IV, g), sanciona la alteración de la Libreta.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Quinta y Art. 64; páginas impresas: 24 y 26 (de 27); páginas PDF: 28 y 30."
+  },
+  {
+   "id": "886bee280abe",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] ¿Qué valor institucional persigue el intercambio pedagógico en evaluación con otra unidad de similares características?",
+   "options": [
+    "Sustituir la evaluación trimestral del maestro de aula por la de un maestro de otra unidad.",
+    "Comparar el rendimiento para clasificar a las unidades del distrito según sus calificaciones promedio.",
+    "Contrastar instrumentos y resultados para intercambiar experiencias y fortalecer la formación.",
+    "Seleccionar a los mejores estudiantes para su traslado a unidades de mayor rendimiento."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 69 dispone que la Comisión, con el Director, realice mínimamente una vez por gestión un intercambio pedagógico en evaluación con otra unidad de similares características: los maestros elaboran evaluaciones para estudiantes de la otra unidad y los resultados se socializan para intercambiar experiencias y fortalecer la formación integral.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 69; páginas impresas: 24 y 25 (de 27); páginas PDF: 28 y 29."
+  },
+  {
+   "id": "5483bd37630e",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] El Art. 27 dispone que las capacidades desarrolladas fuera de la escuela se consideren en la valoración. ¿Qué condición limita esta regla?",
+   "options": [
+    "Que correspondan a actividades planificadas por las maestras y maestros.",
+    "Que sean propuestas por los padres y aprobadas por la junta escolar.",
+    "Que sean certificadas por una institución externa reconocida por el Estado.",
+    "Que se realicen durante las vacaciones con autorización de la Distrital."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 27 dispone que las capacidades y cualidades desarrolladas fuera de los espacios escolares, de acuerdo a actividades planificadas por maestras y maestros, deberán ser tomadas en cuenta en la valoración cualitativa y cuantitativa.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 27; página impresa: 15 (de 27); página PDF: 19."
+  },
+  {
+   "id": "3a91634ed657",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO II] Un estudiante de Primaria obtiene en un trimestre: Ser 4, Saber 38, Hacer 30, Decidir 4 y autoevaluación 5. ¿Cuál es su calificación trimestral y en qué rango se ubica?",
+   "options": [
+    "76 puntos, Desarrollo Óptimo (DO).",
+    "81 puntos, Desarrollo Pleno (DP).",
+    "81 puntos, Desarrollo Óptimo (DO).",
+    "86 puntos, Desarrollo Pleno (DP)."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 49, b), dispone que la calificación trimestral es la sumatoria de la evaluación del maestro en las cuatro dimensiones más la autoevaluación: 4 + 38 + 30 + 4 + 5 = 81. Según el Art. 50, 81 se ubica en el rango de 69 a 84, Desarrollo Óptimo.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo II, Arts. 49 y 50; página impresa: 20 (de 27); página PDF: 24."
+  },
+  {
+   "id": "73870ab7e12f",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO II] Un estudiante de Primaria termina el año con promedio anual de 50 en Matemática y más de 70 en las demás áreas. ¿Qué corresponde?",
+   "options": [
+    "Es promovido, porque su promedio general de todas las áreas supera 51.",
+    "Es retenido, porque obtuvo menos de 51 en una de las áreas de saberes.",
+    "Es promovido con observación, porque solo reprobó un área de saberes.",
+    "Rinde una prueba de recuperación ante la Dirección Distrital Educativa."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 51, a), dispone que los estudiantes de Primaria que obtengan un promedio anual menor a 51 en una de las Áreas de Saberes y Conocimientos serán retenidos; el Art. 50 sitúa la calificación hasta 50 en el rango En Desarrollo (retenido).",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo II, Arts. 50 y 51; página impresa: 20 (de 27); página PDF: 24."
+  },
+  {
+   "id": "dd665a058784",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Una adolescente de 16 años en situación de calle solicita incorporarse en junio a una unidad de Educación Regular. ¿Qué corresponde según el Art. 11?",
+   "options": [
+    "Debe incorporarse de inmediato por tratarse de población en desventaja social.",
+    "Puede incorporarse si la Defensoría de la Niñez emite un informe favorable.",
+    "Puede incorporarse si la Comisión aprueba su valoración de conocimientos.",
+    "No cumple la condición de edad, que exige ser menor de 15 años al 30 de junio."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 11 dispone que la población en desventaja social será incorporada al Subsistema de Educación Regular siempre y cuando cuente con una edad menor a 15 años al 30 de junio de la gestión.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 11; páginas impresas: 11 y 12 (de 27); páginas PDF: 15 y 16."
+  },
+  {
+   "id": "56f85cdf30d6",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Un estudiante de Secundaria fue retenido dos años antes y ahora solicita nivelación por rezago escolar. ¿Qué corresponde?",
+   "options": [
+    "Puede nivelarse si aprueba la prueba escrita de la Comisión del nivel.",
+    "Puede nivelarse una vez que la Defensoría de la Niñez lo recomiende.",
+    "No puede ser considerado, porque tuvo retención en años anteriores.",
+    "Puede nivelarse si tiene dos o más años de diferencia con su grupo."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 22, I, dispone que los estudiantes de Primaria y Secundaria que tuvieran retención en años anteriores no podrán ser considerados en la nivelación por rezago escolar.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 22; página impresa: 13 (de 27); página PDF: 17."
+  },
+  {
+   "id": "49daa23a942f",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Un estudiante de quinto de Secundaria con rezago pide ser nivelado directamente a sexto año, que cursaría por evaluación. ¿Qué límite debe considerarse?",
+   "options": [
+    "La nivelación al sexto año requiere autorización del Ministerio.",
+    "La nivelación solo se aplica a estudiantes de Educación Primaria.",
+    "La nivelación al sexto año exige un promedio mínimo de 85 puntos.",
+    "La nivelación por rezago no se aplica al sexto año de Secundaria."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 22, II, dispone que la nivelación por rezago escolar tampoco se aplicará al sexto año de escolaridad de Educación Secundaria Comunitaria Productiva.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 22; página impresa: 13 (de 27); página PDF: 17."
+  },
+  {
+   "id": "37fdd3a793d0",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Una niña de 11 años nunca se incorporó al sistema educativo y desea ingresar a Primaria. ¿Qué condición exige el Art. 21 para su nivelación por rezago?",
+   "options": [
+    "Contar con libretas escolares de al menos dos años de escolaridad.",
+    "Haber cursado al menos el primer año de escolaridad de Primaria.",
+    "Presentar un informe psicológico del Centro de Educación Especial.",
+    "Tener dos o más años de edad de diferencia respecto a su grupo etario."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 21, I, dispone que la nivelación consiste en promover al estudiante en uno o más años mediante una evaluación, siempre que tenga dos o más años de edad de diferencia respecto al grupo etario; el parágrafo III, a), la prevé para estudiantes de Primaria que no se incorporaron al sistema.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 21; página impresa: 13 (de 27); página PDF: 17."
+  },
+  {
+   "id": "4ac909ad2d99",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Llega del extranjero un estudiante sin libretas escolares. ¿Qué mecanismo prevé el Reglamento para ubicarlo en el año que corresponde?",
+   "options": [
+    "La nivelación por rezago escolar, aplicable a quienes vienen del extranjero sin libretas.",
+    "La inscripción condicional, sujeta a la entrega de libretas legalizadas en treinta días.",
+    "La aceleración por talento extraordinario, previa evaluación del Centro de Educación Especial.",
+    "La inscripción automática en primero de Primaria hasta que presente sus libretas originales."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 21, II, dispone que el Reglamento se aplica a estudiantes que provengan del extranjero y no cuenten con libretas escolares o excedieron el plazo para presentarlas; también a refugiados o solicitantes de refugio con certificación de CONARE. La Disposición Adicional Primera remite a los convenios de homologación.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Art. 21 y Disposición Adicional Primera; páginas impresas: 13 y 26 (de 27); páginas PDF: 17 y 30."
+  },
+  {
+   "id": "5424b35b76bc",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] Una estudiante embarazada requiere ausentarse por prescripción médica antes y después del parto. ¿Qué prevé el Reglamento?",
+   "options": [
+    "Su traslado obligatorio a un Centro de Educación Alternativa del distrito.",
+    "Su retiro de la gestión y reinscripción en el mismo año en la siguiente.",
+    "Una justificación de faltas limitada a cinco días hábiles por trimestre.",
+    "Licencia temporal dentro del calendario escolar, según prescripción médica."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 26, IV, dispone que las estudiantes en situación de embarazo gozarán de licencia temporal (dentro del calendario escolar), según prescripción médica en el periodo pre y post parto, para garantizar su derecho a la educación.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 26; página impresa: 15 (de 27); página PDF: 19."
+  },
+  {
+   "id": "936ffebbc44b",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] Un estudiante faltó una semana con justificación. ¿Qué debe hacer el maestro según el Art. 26?",
+   "options": [
+    "Realizar la nivelación con adaptaciones curriculares y evaluarlo en el trimestre.",
+    "Esperar al trimestre siguiente para evaluar los contenidos no desarrollados.",
+    "Registrar la calificación mínima en las actividades que no realizó en su ausencia.",
+    "Derivar el caso a la Comisión para que decida si corresponde evaluarlo o no."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 26, III, dispone que, si el estudiante se ausentare con justificación, el maestro deberá realizar la nivelación correspondiente mediante adaptaciones curriculares de acuerdo a su realidad y procederá a la evaluación en el trimestre que le corresponde.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 26; páginas impresas: 14 y 15 (de 27); páginas PDF: 18 y 19."
+  },
+  {
+   "id": "fa8b736c9207",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] La evaluación permanente revela bajo rendimiento de varios estudiantes de un curso. ¿Qué medida inmediata prevé el Art. 68?",
+   "options": [
+    "Aplicar de inmediato una segunda instancia de evaluación sin reforzamiento previo.",
+    "Reducir los contenidos del trimestre para facilitar la aprobación de los estudiantes.",
+    "Comunicar el caso a la Dirección Distrital para la retención anticipada de esos estudiantes.",
+    "Implementar apoyo complementario: clases por pares o en grupo, tutorías y seguimiento."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 68 dispone que, si la evaluación permanente refleja bajo rendimiento, se diseñen e implementen de inmediato procesos de apoyo complementario según cronograma: clases de apoyo por pares o en grupo, tutorías y seguimiento del maestro.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 68; página impresa: 24 (de 27); página PDF: 28."
+  },
+  {
+   "id": "090675f58d96",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] Una unidad educativa asociada tiene solo tres maestros. ¿Cómo se conforma su Comisión Técnico Pedagógica?",
+   "options": [
+    "Se integra a la Comisión del núcleo, presidida por su Director.",
+    "Se conforma con el Director Distrital y un maestro de la unidad.",
+    "Los tres maestros son responsables de la Comisión Técnico Pedagógica.",
+    "No requiere Comisión; sus funciones las asume la junta escolar."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 7, parágrafo III, dispone que en unidades educativas asociadas que cuenten con uno hasta cuatro maestros, estos serán responsables de la Comisión Técnico Pedagógica.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 7; página impresa: 8 (de 27); página PDF: 12."
+  },
+  {
+   "id": "b452e3d167fd",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] ¿Cuándo debe la Comisión Técnico Pedagógica convocar a los padres a reunión informativa sobre estudiantes con dificultades de aprendizaje?",
+   "options": [
+    "Un mes antes de la conclusión del trimestre.",
+    "Al inicio de cada trimestre de la gestión.",
+    "Una semana después de concluir el trimestre.",
+    "Solo al finalizar la gestión educativa anual."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 8, inciso f), dispone que la Comisión convoque a madres y padres, en coordinación con el Director y los maestros, a reunión informativa para asumir responsabilidades compartidas de apoyo a estudiantes con dificultades, un mes antes de la conclusión del trimestre.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 8; página impresa: 8 (de 27); página PDF: 12."
+  },
+  {
+   "id": "ae8c1505fd29",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] La Comisión detecta que un estudiante no cuenta con el apoyo de sus padres o tutores. ¿Qué acción prevé el Reglamento?",
+   "options": [
+    "Remitir el caso a la Dirección Distrital para que asigne un tutor educativo.",
+    "Presentar, con el Director, un informe a la Defensoría de la Niñez y Adolescencia.",
+    "Convocar a la junta escolar para que asuma la tutela del estudiante.",
+    "Retener al estudiante hasta que los padres asuman su corresponsabilidad."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 8, inciso m), dispone que la Comisión, en coordinación con el Director, presente un informe a la Defensoría de la Niñez y Adolescencia sobre los estudiantes que no tienen el apoyo de sus padres de familia o tutores, precautelando su integridad y derecho a la educación.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 8; página impresa: 8 (de 27); página PDF: 12."
+  },
+  {
+   "id": "adb842f99930",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO I] En Educación Inicial, una maestra evalúa a los niños mediante la observación de su proceso de producción. ¿Qué tipo de evaluación aplica según el Art. 36?",
+   "options": [
+    "Evaluación oral, que valora argumentaciones y el lenguaje de los niños.",
+    "Evaluación comunitaria, con participación de padres y de la Comisión.",
+    "Evaluación de la producción, con la observación como herramienta primordial.",
+    "Evaluación cuantitativa, con registro numérico en el cuaderno pedagógico."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 36, b), define la evaluación de la producción como la que evalúa el proceso, el resultado, las discusiones y las iniciativas, haciendo uso de la observación como herramienta primordial; el inciso a) define la evaluación oral.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo I, Art. 36; página impresa: 18 (de 27); página PDF: 22."
+  },
+  {
+   "id": "807b60458d69",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO I] En Inicial, un niño realiza algunas actividades curriculares en relación con las cuatro dimensiones. ¿Qué rango cualitativo le corresponde según el Art. 37?",
+   "options": [
+    "Desarrollo Pleno (DP).",
+    "Desarrollo Aceptable (DA).",
+    "Rango En Desarrollo (ED).",
+    "Desarrollo Óptimo (DO)."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 37 asigna Desarrollo Aceptable (DA) cuando los niños realizan algunas actividades y acciones curriculares en relación a las cuatro dimensiones; DO cuando las realizan de acuerdo a lo esperado; ED cuando tienen dificultad; y DP cuando superan los criterios.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo I, Art. 37; página impresa: 18 (de 27); página PDF: 22."
+  },
+  {
+   "id": "9a6394ce9090",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO III] Un estudiante de tercero de Secundaria cierra el año con 48 en Física-Química y 47 en Matemática, y más de 60 en las demás áreas. ¿Qué decisión corresponde?",
+   "options": [
+    "Es retenido, porque obtuvo menos de 51 en una o más áreas de saberes.",
+    "Es promovido con observación y rinde una prueba de recuperación en febrero.",
+    "Es promovido, porque reprobó menos de tres áreas de saberes y conocimientos.",
+    "Es retenido solo en las dos áreas reprobadas y promovido en las demás áreas."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 58, a), dispone que los estudiantes de Secundaria que obtengan promedios anuales menores a 51 puntos en una o más Áreas de Saberes y Conocimientos serán retenidos en el año de escolaridad correspondiente; el inciso b) exige informar a los padres para la reinscripción.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo III, Art. 58; página impresa: 22 (de 27); página PDF: 26."
+  },
+  {
+   "id": "9086fb839520",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO III] Un estudiante de Secundaria obtiene: Ser 5, Saber 40, Hacer 35, Decidir 5 y autoevaluación 5. ¿Cuál es su calificación y su valoración?",
+   "options": [
+    "90 puntos, Desarrollo Pleno (DP).",
+    "90 puntos, Desarrollo Óptimo (DO).",
+    "80 puntos, Desarrollo Óptimo (DO).",
+    "85 puntos, Desarrollo Óptimo (DO)."
+   ],
+   "answer": 0,
+   "explanation": "Según el Art. 56, b), la calificación trimestral es la sumatoria de la evaluación del maestro en las cuatro dimensiones más la autoevaluación: 5 + 40 + 35 + 5 + 5 = 90. El Art. 57 sitúa de 85 a 100 en Desarrollo Pleno.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo III, Arts. 56 y 57; páginas impresas: 21 y 22 (de 27); páginas PDF: 25 y 26."
+  },
+  {
+   "id": "e29c57b045fd",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO II] Un maestro de Primaria califica en una prueba: Ser 5, Saber 45, Hacer 40, Decidir 5, y asigna 10 de autoevaluación \"para premiar el esfuerzo\". ¿Qué error comete?",
+   "options": [
+    "La autoevaluación no se incorpora a la calificación final del área de saberes.",
+    "La autoevaluación la asigna el Director, no el maestro de aula.",
+    "La autoevaluación vale solo 5 puntos, en las dimensiones Ser y Decidir.",
+    "El Saber vale 40 puntos y el Hacer 45 en el cuadro de asignaciones."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 49, a) y b), dispone que la autoevaluación se realiza en las dimensiones del Ser y Decidir sobre 5 puntos para ambas, incorporándose al promedio final; el total del cuadro es 100. La Disposición Adicional Tercera prohíbe asignar puntaje como colaboración.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Art. 49 y Disposición Adicional Tercera; páginas impresas: 20 y 26 (de 27); páginas PDF: 24 y 30."
+  },
+  {
+   "id": "404bed3b4612",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO II] Un estudiante de Primaria con discapacidad no alcanzó el promedio anual en una área pese a las adaptaciones curriculares aplicadas. ¿Qué corresponde?",
+   "options": [
+    "Retenerlo e informar a sus padres para su inscripción automática en el mismo año.",
+    "Trasladarlo de inmediato a un Centro de Educación Especial para continuar el año.",
+    "Promoverlo automáticamente, porque la discapacidad exime del promedio de aprobación.",
+    "Asignarle puntaje de compensación hasta alcanzar los 51 puntos en el área reprobada."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 51, c), dispone que los estudiantes con discapacidad que no alcancen los perfiles de salida ni el promedio de aprobación en una de las áreas, tras aplicar acciones, estrategias y adaptaciones curriculares, serán retenidos y se informará a sus padres para su inscripción automática en el mismo año en la siguiente gestión.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo II, Art. 51; página impresa: 21 (de 27); página PDF: 25."
+  },
+  {
+   "id": "8d72ec4ab1fb",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] Un estudiante entrega una maqueta impecable, elaborada en casa por un familiar. ¿Cómo debe proceder el maestro según el Reglamento?",
+   "options": [
+    "Aceptarla con un descuento del cincuenta por ciento sobre la calificación del trabajo práctico.",
+    "Aceptarla si los padres firman una declaración de que el estudiante participó en su elaboración.",
+    "No aceptarla, porque está prohibido entregar trabajos hechos fuera de la unidad o por terceros.",
+    "Calificarla con el máximo puntaje, porque cumple los criterios estéticos del trabajo solicitado."
+   ],
+   "answer": 2,
+   "explanation": "La Disposición Adicional Cuarta exige que los trabajos prácticos se realicen en la unidad y en presencia del maestro, y prohíbe entregar trabajos plagiados, adquiridos en el mercado, elaborados fuera de la unidad o realizados por padres, tutores u otras personas; su valoración debe ir más allá de lo estético.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Cuarta; página impresa: 26 (de 27); página PDF: 30."
+  },
+  {
+   "id": "afbc6a84f635",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] Un grupo de padres presiona a un maestro para que suba la nota de sus hijos y evite su reprobación. ¿Qué dispone el Reglamento?",
+   "options": [
+    "Está prohibida la manipulación para asignar una valoración que no corresponde.",
+    "El Director puede autorizar el ajuste si la nota está a menos de cinco puntos.",
+    "La Comisión puede compensar la nota con puntos de otras áreas de saberes.",
+    "El maestro puede ajustar la nota si los padres justifican la dificultad familiar."
+   ],
+   "answer": 0,
+   "explanation": "La Disposición Adicional Quinta, II, prohíbe la manipulación de madres, padres, tutores u otros actores para obligar a los maestros a asignar una valoración cualitativa o cuantitativa que no corresponde; el parágrafo I dispone atender los reclamos infundados en las instancias pertinentes.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Quinta; página impresa: 26 (de 27); página PDF: 30."
+  },
+  {
+   "id": "8e1ba4f9a416",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] Un maestro asigna 10 puntos a un examen escrito de un estudiante y 15 al mismo examen de otro con igual desempeño, \"por su mejor actitud\". ¿Qué disposición vulnera?",
+   "options": [
+    "La que exige una sola ponderación para un mismo tipo de trabajo, evitando discriminación.",
+    "La que dispone que los exámenes sean corregidos por la Comisión Técnico Pedagógica.",
+    "La que reserva la valoración de la actitud exclusivamente a la autoevaluación de cada estudiante.",
+    "La que obliga a aplicar evaluaciones escritas solo una vez al finalizar cada trimestre."
+   ],
+   "answer": 0,
+   "explanation": "La Disposición Adicional Segunda dispone que la valoración de evaluaciones (trabajos, exámenes teóricos, orales, escritos, productos) tenga una sola ponderación cuantitativa, sin diferencias en la valoración de un mismo tipo de trabajo, evitando la discriminación; el Art. 64, IV, prohíbe favoritismos.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Segunda y Art. 64; páginas impresas: 24 y 26 (de 27); páginas PDF: 28 y 30."
+  },
+  {
+   "id": "d80387a45aba",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Se descubre que un maestro modificó calificaciones en la Libreta Escolar Electrónica después de su emisión. ¿Qué consecuencia prevé el Reglamento?",
+   "options": [
+    "Debe compensar el error en el trimestre siguiente con puntaje equivalente.",
+    "Solo debe corregir la Libreta y comunicar el cambio a los padres de familia.",
+    "Ninguna, si la modificación favorece al estudiante y no lo perjudica.",
+    "Es pasible de sanciones administrativas, porque la Libreta es declaración jurada."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 9, IV, g), dispone que la Libreta Escolar Electrónica se constituye en declaración jurada y que su alteración o modificación será sujeta a sanciones administrativas; el Art. 63, b), sanciona igualmente la alteración de los informes presentados a la Dirección.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Arts. 9 y 63; páginas impresas: 10 y 23 (de 27); páginas PDF: 14 y 27."
+  },
+  {
+   "id": "799e12c4c608",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Un niño de 12 años, hijo de padres privados de libertad, se incorpora a mitad de gestión. La Comisión lo valora y concluye que puede cursar quinto de Primaria. ¿Qué documento redacta la Comisión?",
+   "options": [
+    "Un informe a la Defensoría solicitando autorización para inscribirlo en el año propuesto.",
+    "Una Libreta Escolar Electrónica provisional emitida por el Sistema de Información Educativa.",
+    "Un Acta con los resultados de la valoración cualitativa y cuantitativa para su inscripción.",
+    "Una Resolución Administrativa de inscripción excepcional dirigida a la Dirección Distrital."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 14 dispone que la Comisión elabore el informe de la sesión de valoración con la determinación del nivel y año; el Art. 16 dispone que redacte un Acta con los resultados de la valoración cualitativa y cuantitativa, para la inscripción en un determinado año de escolaridad.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Arts. 14 y 16; página impresa: 12 (de 27); página PDF: 16."
+  },
+  {
+   "id": "213a82884eb0",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Para valorar los conocimientos de un estudiante en desventaja social, la Comisión debe elaborar un instrumento. ¿Con base en qué?",
+   "options": [
+    "En los estándares de evaluación definidos por la Dirección Departamental del lugar.",
+    "En los resultados de la prueba diagnóstica aplicada a su grupo etario en la unidad.",
+    "En el informe socioeconómico emitido por la Defensoría de la Niñez del municipio.",
+    "En los objetivos holísticos de nivel, perfiles de salida y contenidos mínimos del año."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 15 dispone que la Comisión elabore una prueba escrita, guía de entrevista u otros instrumentos determinados con el Director, con base en los objetivos holísticos de nivel, perfiles de salida y contenidos mínimos de los programas del nivel y año de escolaridad.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 15; página impresa: 12 (de 27); página PDF: 16."
+  },
+  {
+   "id": "c741dbcdd8e0",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Una niña en desventaja social fue nivelada dos años y ya alcanzó el año de escolaridad de su grupo etario. Su madre pide seguir aplicando la promoción por nivelación. ¿Qué corresponde?",
+   "options": [
+    "Procede si la Defensoría de la Niñez certifica que la familia mantiene la desventaja social.",
+    "Procede una vez más, porque el Reglamento permite hasta tres nivelaciones sucesivas por cada estudiante.",
+    "No procede: la nivelación se aplica solo hasta alcanzar su grupo etario y año que le corresponde.",
+    "Procede, siempre que la Comisión Técnico Pedagógica lo apruebe por consenso en la gestión."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 17, III, dispone que la promoción mediante estrategias de nivelación para la población en desventaja social se aplicará solamente hasta que la niña o niño alcance el grupo etario y año de escolaridad que le corresponde.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 17; página impresa: 12 (de 27); página PDF: 16."
+  },
+  {
+   "id": "77fd7fda277a",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Un maestro de aula detecta a un estudiante con posible talento extraordinario. ¿Qué paso le corresponde junto con la Comisión?",
+   "options": [
+    "Inscribirlo en un Centro de Educación Especial sin necesidad de realizar detección previa.",
+    "Aplicar los instrumentos de detección del reglamento específico y recomendar o no su remisión.",
+    "Solicitar a la Distrital una evaluación multidisciplinaria como único requisito previo.",
+    "Promoverlo de inmediato al año superior mediante un Acta Supletoria firmada por el Director de la unidad."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 23, II, dispone que el maestro de aula o de especialidad, con la Comisión, realice la detección aplicando los instrumentos del Reglamento de atención a estudiantes con talento extraordinario, para luego recomendar o no su remisión al Centro de Educación Especial.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 23; página impresa: 14 (de 27); página PDF: 18."
+  },
+  {
+   "id": "09ae13c2ca96",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Un estudiante con discapacidad intelectual cuenta con recomendaciones de evaluación integral de transitabilidad. ¿Qué valor tienen en su proceso educativo?",
+   "options": [
+    "Reemplazan los objetivos y contenidos de la planificación curricular del año.",
+    "Solo se aplican si la junta escolar las aprueba en reunión ordinaria de padres.",
+    "Son orientaciones optativas que el maestro aplica según su criterio pedagógico.",
+    "Son el referente más importante y obligatorio para desarrollar procesos pertinentes."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 10, c), dispone que para estudiantes con discapacidad intelectual las recomendaciones de la evaluación integral de diagnóstico o transitabilidad son el referente más importante y obligatorio para procesos educativos pertinentes, sin afectar objetivos ni contenidos de la planificación curricular.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 10; página impresa: 11 (de 27); página PDF: 15."
+  },
+  {
+   "id": "c405a26934a4",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Al finalizar el trimestre, el maestro convoca a los padres con participación de la Dirección. ¿Qué debe hacer en esa reunión según el Art. 9?",
+   "options": [
+    "Entregar solo el boletín provisional, pues la Libreta se entrega al finalizar la gestión.",
+    "Informar logros y dificultades, entregar la Libreta y registrar en acta las conclusiones.",
+    "Someter a votación de los padres las calificaciones finales de las áreas de saberes.",
+    "Presentar la lista de estudiantes reprobados y obtener la firma de conformidad de padres."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 9, IV, inciso l), dispone que al finalizar el trimestre el maestro convoque a los padres, con participación de la dirección, para informar sobre logros y dificultades y diseñar estrategias de mejora; en esa reunión se entrega la Libreta Escolar Electrónica y los temas y conclusiones se registran en acta.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 10 (de 27); página PDF: 14."
+  },
+  {
+   "id": "587203909735",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Un estudiante deja de asistir a clases sin aviso durante varios días. ¿Qué responsabilidad tiene su maestro?",
+   "options": [
+    "Derivar el caso de inmediato a la Defensoría sin comunicar antes a la familia.",
+    "Esperar a la evaluación comunitaria para tratar el caso con toda la comunidad.",
+    "Registrar la deserción en el SIE al tercer día de ausencia sin justificación.",
+    "Informar oportunamente al Director y a los padres o tutor sobre la inasistencia."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 9, IV, inciso m), dispone que los maestros informen oportunamente a la Directora o Director, madres, padres de familia y/o tutores los casos de estudiantes que no asistan a la unidad educativa; el Art. 26 regula la justificación de inasistencias.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 10 (de 27); página PDF: 14."
+  },
+  {
+   "id": "6a5313eaccd7",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] Un tercero no vinculado a la familia solicita al Director el informe de calificaciones de un estudiante. ¿Qué debe hacer?",
+   "options": [
+    "Entregar solo el promedio general, sin el detalle de las calificaciones por cada área.",
+    "Entregarlo, porque las calificaciones son información pública de la unidad educativa fiscal.",
+    "Entregarlo con autorización de la junta escolar, que vela por la transparencia de la unidad educativa.",
+    "Negarlo: el acceso es exclusivo del estudiante, sus padres o tutor e instituciones autorizadas."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 63, c) y d), dispone que la información presentada a la Dirección goza del derecho a la privacidad a favor de los estudiantes y que su acceso será exclusivamente para el estudiante, madre, padre, tutor e instituciones autorizadas y/o acreditadas.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Art. 63; páginas impresas: 23 y 24 (de 27); páginas PDF: 27 y 28."
+  },
+  {
+   "id": "6d61718e3b15",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] Al inicio de la gestión, una maestra aplica una evaluación diagnóstica. ¿Dónde debe registrar sus resultados y con qué fin?",
+   "options": [
+    "En el cuaderno pedagógico, para efectos de seguimiento.",
+    "En el acta de la Comisión, para la retención anticipada.",
+    "En la Libreta Escolar Electrónica, para su promedio anual.",
+    "En el SIE, como primera nota cuantitativa del trimestre."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 59, II, dispone que, concluida la evaluación de inicio o diagnóstica, los maestros registren los resultados en el cuaderno pedagógico para efectos de seguimiento; el parágrafo I señala que permite ajustar la planificación curricular.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Art. 59; página impresa: 22 (de 27); página PDF: 26."
+  },
+  {
+   "id": "27c72fe0063c",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] Un maestro presenta a la Dirección un informe de valoraciones y luego un administrativo cambia algunos datos. ¿Qué consecuencia prevé el Art. 63?",
+   "options": [
+    "La anulación de las calificaciones del trimestre de todo el curso afectado.",
+    "Solo la corrección del informe, sin consecuencias para el responsable.",
+    "Ninguna, si el cambio fue autorizado verbalmente por el maestro del área.",
+    "Inicio de acciones administrativas, pues los informes no deben ser alterados."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 63, b), dispone que los informes presentados a la Dirección por los maestros con las valoraciones respectivas no deberán ser alterados; caso contrario, serán sujetos al inicio de acciones administrativas en el marco de la normativa vigente.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Art. 63; página impresa: 23 (de 27); página PDF: 27."
+  },
+  {
+   "id": "598a4056d8e1",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] Una maestra detecta a un estudiante con dificultades en el aprendizaje. ¿Qué secuencia de actuación prevé el Art. 65?",
+   "options": [
+    "Desarrollar estrategias y adaptaciones con apoyo de la Comisión y de Educación Especial, informando a los padres.",
+    "Derivarlo directamente a un Centro de Educación Especial, sin aplicar estrategias en el aula ni avisar a su familia.",
+    "Solicitar a la Dirección Distrital su traslado a otra unidad con maestros de apoyo especializados.",
+    "Esperar el cierre de la gestión para decidir su retención con base en el promedio anual del área."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 65 dispone que, detectadas dificultades en el aprendizaje, los maestros desarrollen estrategias educativas, apliquen adaptaciones curriculares y otras acciones con apoyo de la Comisión Técnico Pedagógica, en coordinación con instituciones de Educación Especial más próximas, en conocimiento de los padres.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 65; página impresa: 24 (de 27); página PDF: 28."
+  },
+  {
+   "id": "f4ad02f6b34b",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] Para organizar tutorías a estudiantes de bajo rendimiento, ¿quién puede desarrollarlas según el Art. 68?",
+   "options": [
+    "Únicamente un maestro de otra unidad, contratado por la junta escolar.",
+    "El maestro del año o área, u otro maestro de la misma área o año.",
+    "Únicamente los padres de familia, con material entregado por el maestro.",
+    "Únicamente estudiantes de cursos superiores designados por el Director."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 68, b), dispone que las tutorías sean desarrolladas por el maestro del año de escolaridad o Área de Saberes y Conocimientos u otro maestro de la misma área o año de escolaridad; las clases de apoyo por pares las realiza el mismo maestro (inc. a).",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 68; página impresa: 24 (de 27); página PDF: 28."
+  },
+  {
+   "id": "5298552f94fe",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Como Director, recibe el caso de un estudiante con bajo rendimiento persistente. ¿Qué decisión se ajusta al Reglamento?",
+   "options": [
+    "Derivarlo a la Comisión Técnico Pedagógica para que proponga alternativas técnico pedagógicas.",
+    "Solicitar a los padres su traslado a otra unidad con menor exigencia académica.",
+    "Asignarle puntaje de colaboración en las áreas en que presenta mayores dificultades.",
+    "Disponer su retención anticipada para evitar que afecte el rendimiento general del curso y del nivel."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 9, II, e), asigna al Director derivar casos a la Comisión, y el Art. 9, III, a), dispone que la Comisión analice los casos remitidos por el Director de estudiantes con bajo rendimiento y proponga alternativas técnico pedagógicas. La Disposición Adicional Tercera prohíbe puntaje de colaboración.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 9 (de 27); página PDF: 13."
+  },
+  {
+   "id": "f6d27d8fc0ce",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] Al planificar el trimestre, ¿cuándo debe el Director prever las reuniones de la Comisión para analizar dificultades de aprendizaje?",
+   "options": [
+    "Una vez por gestión, en coordinación con la Dirección Distrital Educativa.",
+    "Únicamente cuando un padre de familia presente un reclamo formal por escrito.",
+    "Solo al concluir la gestión, para decidir la promoción o retención de estudiantes.",
+    "A mediados de cada trimestre, además de las reuniones trimestrales obligatorias."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 8, inciso e), dispone que la Comisión programe reuniones a mediados de cada trimestre para analizar y plantear soluciones a las dificultades de aprendizaje; el inciso g) le impone reuniones trimestrales obligatorias a convocatoria de la Dirección y extraordinarias si es necesario.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 8; página impresa: 8 (de 27); página PDF: 12."
+  },
+  {
+   "id": "52aa0dcf6346",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] Un padre presenta un reclamo infundado y sin evidencias contra un maestro por la reprobación de su hijo. ¿Qué decisión debe adoptar el Director?",
+   "options": [
+    "Atenderlo oportunamente en las instancias pertinentes, conforme a la normativa vigente.",
+    "Trasladar al maestro a otro curso mientras se resuelve el reclamo del padre.",
+    "Archivar el reclamo sin trámite, por carecer de evidencias que lo respalden.",
+    "Ordenar al maestro que revise la nota a favor del estudiante para evitar mayores conflictos."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: La Disposición Adicional Quinta, I, dispone que las acusaciones, coacciones y reclamos infundados sin evidencias contra los maestros por motivos de reprobación deberán ser atendidos de manera oportuna en las instancias pertinentes, de acuerdo a la normativa vigente; el parágrafo II prohíbe forzar una valoración que no corresponde.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Quinta; página impresa: 26 (de 27); página PDF: 30."
+  },
+  {
+   "id": "755dce931080",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] Al revisar cuadernos pedagógicos, el Director encuentra registros que no reflejan el aprovechamiento real. ¿Qué exigencia debe hacer cumplir?",
+   "options": [
+    "Que la información del cuaderno se ajuste a los resultados esperados por la Dirección Distrital.",
+    "Que el cuaderno sea reemplazado por el registro directo de calificaciones en el SIE del nivel.",
+    "Que la información sea real y coherente, reflejando aprovechamiento y movimiento de estudiantes.",
+    "Que el cuaderno registre solo los promedios finales, sin detalle de las evaluaciones parciales."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 64, III, dispone que la información del cuaderno pedagógico debe ser real y coherente, reflejando el nivel de aprovechamiento, número de estudiantes promovidos, abandonos, retirados y retenidos; el Art. 73 lo define como instrumento de uso obligatorio.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 64; página impresa: 24 (de 27); página PDF: 28."
+  },
+  {
+   "id": "b2f757e2c2fc",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] La familia de un estudiante en desventaja social no participa en su proceso formativo. ¿Qué decisión prevé el Reglamento si fuera necesario?",
+   "options": [
+    "Solicitar a la Distrital su traslado a un internado de la región.",
+    "Suspender la inscripción hasta que la familia asuma su compromiso.",
+    "Transferir la tutela educativa a la Comisión Técnico Pedagógica.",
+    "Coordinar con la Defensoría de la Niñez y Adolescencia del municipio."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 19 dispone que los padres de población en desventaja social asumirán un compromiso de corresponsabilidad en el proceso formativo y que, en caso necesario, estas acciones se coordinarán con la Defensoría de la Niñez y Adolescencia del municipio correspondiente.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 19; página impresa: 13 (de 27); página PDF: 17."
+  },
+  {
+   "id": "fcad69fccc36",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] Para cumplir el Art. 69, ¿qué decisión de planificación debe adoptar el Director con la Comisión?",
+   "options": [
+    "Programar la evaluación externa de sus estudiantes por la Dirección Distrital cada año.",
+    "Programar un intercambio por trimestre con la unidad de mejor rendimiento del distrito.",
+    "Programar al menos un intercambio pedagógico en evaluación por gestión con otra unidad similar.",
+    "Programar un concurso anual de conocimientos entre todas las unidades educativas del núcleo educativo."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 69 dispone que la Comisión, en coordinación con el Director, realice un intercambio pedagógico en evaluación, mínimamente una vez por gestión, con otra unidad educativa de similares características, socializando luego los resultados.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 69; páginas impresas: 24 y 25 (de 27); páginas PDF: 28 y 29."
+  },
+  {
+   "id": "c337a091925f",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] Una madre pide al Director un informe trimestral del desarrollo de su hijo. ¿Qué decisión corresponde según el Art. 63?",
+   "options": [
+    "Atender la solicitud, pues los informes se entregan a pedido del Director o del interesado.",
+    "Derivarla a la Dirección Distrital, única instancia que puede emitir informes oficiales.",
+    "Negarla, porque los informes solo se entregan al concluir la gestión educativa anual.",
+    "Condicionarla a la aprobación previa de la Comisión Técnico Pedagógica de la unidad."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 63 dispone que la entrega de informes se realice a solicitud del Director y del interesado, durante la gestión, trimestral y anual; el acceso a la información corresponde al estudiante, madre, padre, tutor e instituciones autorizadas.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Art. 63; páginas impresas: 23 y 24 (de 27); páginas PDF: 27 y 28."
+  },
+  {
+   "id": "c25b3d49c056",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] La unidad recibe estudiantes trabajadores y con discapacidad, pero los maestros no se sienten preparados. ¿Qué prevé el Reglamento para su atención adecuada?",
+   "options": [
+    "Que la junta escolar contrate especialistas con recursos aportados por los padres.",
+    "Que esos estudiantes se concentren en un solo paralelo con un maestro voluntario.",
+    "Que maestros y personal administrativo reciban capacitación certificada por el Ministerio.",
+    "Que la atención se delegue íntegramente a un Centro de Educación Especial del distrito educativo."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 20 dispone que, para la atención adecuada de estudiantes trabajadores, en desventaja social, con discapacidad, dificultades de aprendizaje y talento extraordinario, los maestros y personal administrativo recibirán cursos de capacitación certificados por el Ministerio de Educación.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 20; página impresa: 13 (de 27); página PDF: 17."
+  },
+  {
+   "id": "55c889fa1abf",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] Surge una duda técnico-administrativa de evaluación no prevista en el Reglamento. ¿Cómo debe resolverse?",
+   "options": [
+    "Mediante acuerdo del Consejo de maestros de la propia unidad educativa.",
+    "Mediante consulta vinculante a la junta escolar de padres de familia.",
+    "Mediante instructivos emitidos por el Viceministerio de Educación Regular.",
+    "Mediante resolución de la Dirección Distrital Educativa de cada jurisdicción."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: La Disposición Adicional Séptima dispone que los aspectos técnico-administrativos no previstos en el Reglamento serán regulados mediante instructivos emitidos por el Viceministerio de Educación Regular.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Séptima; página impresa: 27 (de 27); página PDF: 31."
+  },
+  {
+   "id": "d63b9341c8e3",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO IV] Desde la gestión institucional, ¿quiénes son corresponsables de las acciones para la transición de los estudiantes de un año de escolaridad a otro?",
+   "options": [
+    "El Director con los maestros y la Comisión, con apoyo de madres, padres y tutores.",
+    "Únicamente los maestros de aula, que asignan la calificación de cada área de saberes.",
+    "Únicamente la Dirección Distrital, que consolida las calificaciones en el sistema SIE.",
+    "Únicamente los padres de familia, responsables del seguimiento de sus hijos en casa."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 60, II, dispone que la transición de un año a otro es consecuencia de la valoración cualitativa y cuantitativa durante la gestión, y que el Director con los maestros, la Comisión Técnico Pedagógica y con el apoyo de madres, padres y/o tutores son corresponsables de realizar las acciones necesarias.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo IV, Art. 60; página impresa: 23 (de 27); página PDF: 27."
+  },
+  {
+   "id": "47b2f19017dc",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO VI] En un plan anual de mejora, ¿qué uso estratégico debe dar el Director a los resultados del informe técnico de seguimiento?",
+   "options": [
+    "Reducir los contenidos de las áreas con mayor índice de estudiantes retenidos.",
+    "Organizar y desarrollar acciones pedagógicas que mejoren el rendimiento académico.",
+    "Publicar el ranking de estudiantes para motivar la competencia entre cursos.",
+    "Clasificar a los maestros por resultados y proponer su traslado a otras unidades."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 74 dispone que el Director, la Comisión y los maestros planifiquen y realicen el acompañamiento pedagógico y que, en función de los resultados del informe técnico, se organicen y desarrollen acciones pedagógicas que permitan mejorar el rendimiento académico.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo VI, Art. 74; páginas impresas: 25 y 26 (de 27); páginas PDF: 29 y 30."
+  },
+  {
+   "id": "9ef31bb5c846",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Como estrategia de rendición de cuentas a la comunidad, ¿qué responsabilidad del Director debe institucionalizarse según el Art. 9?",
+   "options": [
+    "Informar a la comunidad educativa sobre los resultados de la formación integral de los estudiantes.",
+    "Presentar a la junta escolar el desempeño individual de cada maestro para su evaluación.",
+    "Publicar las calificaciones individuales de todos los estudiantes en la página web oficial de la unidad.",
+    "Remitir mensualmente las calificaciones a los medios de comunicación de la localidad."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 9, II, inciso f), asigna al Director informar sobre los resultados de la formación integral y holística a la comunidad educativa, en coordinación con el maestro de aula o asesor; el inciso g) le encarga convocar reuniones para analizar resultados y plantear acciones. El Art. 63 protege la privacidad individual.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Arts. 9 y 63; páginas impresas: 9 y 23-24 (de 27); páginas PDF: 13, 27 y 28."
+  },
+  {
+   "id": "24c9cbf402bb",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO V] Al diseñar la política institucional de evaluación, ¿qué principio debe garantizar el Director respecto de la evaluación comunitaria?",
+   "options": [
+    "Que sus resultados sustituyan la calificación trimestral otorgada por el maestro.",
+    "Que sus resultados permitan reajustar la enseñanza y se consideren en la valoración.",
+    "Que sus conclusiones queden en reserva y no se registren en ningún documento.",
+    "Que se realice solo cuando haya conflictos entre maestros y padres de familia."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 28, II, dispone que los resultados de la evaluación comunitaria permitan reajustar o reorientar la enseñanza, los contenidos, la evaluación, los materiales y la organización, y sean tomados en cuenta en la evaluación cualitativa y cuantitativa; el parágrafo I exige registrarlos en el Cuaderno Pedagógico.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo V, Art. 28; página impresa: 15 (de 27); página PDF: 19."
+  },
+  {
+   "id": "2f73e57d98a4",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO IV] Para una gestión inclusiva, ¿qué estrategias de evaluación prevé el Reglamento para estudiantes con discapacidad?",
+   "options": [
+    "Promoción automática sin calificación cuantitativa en todos los niveles y años.",
+    "Adaptaciones curriculares, ajustes razonables, Lengua de Señas, Braille y materiales accesibles.",
+    "Exámenes simplificados con menor puntaje máximo y exoneración de las áreas prácticas.",
+    "Evaluación exclusiva por el Centro de Educación Especial, sin intervención alguna del maestro de aula."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 10, d), prevé procesos de evaluación pedagógica para personas con discapacidad mediante adaptaciones curriculares, ajustes razonables, sistemas de comunicación alternativa, Lengua de Señas Boliviana, Sistema Braille y materiales pertinentes y accesibles, en igualdad de oportunidades y equiparación de condiciones.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo IV, Art. 10; página impresa: 11 (de 27); página PDF: 15."
+  },
+  {
+   "id": "af9bd2006bae",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO II] Para fortalecer las vocaciones de los estudiantes, ¿qué función de la Comisión Técnico Pedagógica debe aprovechar estratégicamente el Director?",
+   "options": [
+    "Seleccionar a los estudiantes con mejores notas para becas en universidades del exterior.",
+    "Organizar ferias comerciales con productos elaborados por estudiantes para financiar la unidad.",
+    "Asignar a cada estudiante una carrera técnica obligatoria según su rendimiento académico.",
+    "Recoger y analizar información para identificar capacidades y fortalecer habilidades vocacionales."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 8, inciso n), asigna a la Comisión recoger y analizar la información para identificar y valorar capacidades, cualidades y potencialidades de los estudiantes, promoviendo y fortaleciendo sus habilidades vocacionales.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo II, Art. 8; página impresa: 9 (de 27); página PDF: 13."
+  },
+  {
+   "id": "88b829009908",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO II, CAPÍTULO V] En una estrategia institucional contra la discriminación en la evaluación, ¿qué principios declara imprescindibles el Art. 64?",
+   "options": [
+    "La imparcialidad y la transparencia en los procesos de evaluación.",
+    "La flexibilidad y la discrecionalidad del maestro en la calificación.",
+    "La competitividad y la excelencia en los resultados académicos.",
+    "La confidencialidad absoluta y la reserva frente a los padres."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 64, IV, prohíbe todo tipo de discriminación, influencias o favoritismos en los procesos de evaluación, siendo la imparcialidad y la transparencia factores imprescindibles en el proceso pedagógico; el Art. 5, g), caracteriza la evaluación como transparente.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título II, Capítulo V, Art. 64; página impresa: 24 (de 27); página PDF: 28."
+  },
+  {
+   "id": "d89018471183",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO I] Al alinear la evaluación institucional con los objetivos del Reglamento, ¿cuál de los siguientes es un objetivo expreso de la evaluación según el Art. 4?",
+   "options": [
+    "Seleccionar a los estudiantes más aptos para su ingreso a la educación superior de formación profesional.",
+    "Determinar los incentivos económicos de los maestros en función de los resultados de sus estudiantes.",
+    "Orientar la evaluación de estudiantes con necesidades educativas especiales en igualdad de oportunidades.",
+    "Clasificar a las unidades educativas del distrito según el promedio de rendimiento de sus estudiantes."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 4 enumera como objetivos, entre otros: enfatizar la investigación y producción creativa, contribuir al desarrollo integral, brindar información a estudiantes y familias, orientar a la Comisión, apoyar a maestros y estudiantes, orientar la evaluación de estudiantes con necesidades educativas especiales en igualdad de oportunidades y promover la participación democrática.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo I, Art. 4; página impresa: 6 (de 27); página PDF: 10."
+  },
+  {
+   "id": "c0ad22510a59",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO I] Al formular la visión institucional de evaluación, ¿qué finalidad atribuye el Art. 3 a la evaluación de la formación integral y holística?",
+   "options": [
+    "Determinar al cierre de gestión qué estudiantes deben repetir, sin intervenir durante el proceso.",
+    "Identificar logros y dificultades para tomar decisiones y reorientar oportunamente la práctica pedagógica.",
+    "Controlar el desempeño de los maestros para fundamentar su permanencia o traslado en la unidad.",
+    "Certificar el rendimiento de cada estudiante para ordenar a los cursos según sus promedios generales anuales."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 3 define la evaluación como proceso de valoración que permite a la comunidad educativa identificar logros, capacidades, potencialidades, limitaciones y dificultades, para la toma de decisiones mediante acciones dinámicas, permanentes y sistemáticas, reorientando oportunamente la práctica pedagógica.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo I, Art. 3; página impresa: 6 (de 27); página PDF: 10."
+  },
+  {
+   "id": "85b35e459896",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – DISPOSICIONES ADICIONALES] Al diseñar la participación de las familias en la evaluación, ¿a qué norma debe sujetar el Director sus responsabilidades, según la Disposición Adicional Sexta?",
+   "options": [
+    "A los acuerdos de la asamblea general de padres de cada curso.",
+    "Al Código Niña, Niño y Adolescente, como única norma aplicable.",
+    "Al Reglamento de Participación Social Comunitaria en Educación.",
+    "Al reglamento interno aprobado anualmente por la junta escolar."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: La Disposición Adicional Sexta dispone que la participación de madres, padres y/o tutores, en cuanto a sus responsabilidades en los procesos de evaluación del desarrollo curricular, estará sujeta al Reglamento de Participación Social Comunitaria en Educación.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Disposición Adicional Sexta; página impresa: 27 (de 27); página PDF: 31."
+  },
+  {
+   "id": "66794241e717",
+   "q": "[R.M. 0190/2024 Reglamento de Evaluación del Desarrollo Curricular – TÍTULO I, CAPÍTULO III] Tras un trimestre con resultados desiguales entre cursos, ¿qué acción de gestión institucional asigna el Art. 9 al Director?",
+   "options": [
+    "Reasignar a los maestros de los cursos con peores resultados a otras áreas de saberes.",
+    "Reducir la exigencia de las evaluaciones en los cursos con mayor número de reprobados.",
+    "Informar a la Dirección Distrital para que intervenga directamente en los cursos afectados.",
+    "Convocar a los actores educativos para analizar resultados y plantear acciones de mejora."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 9, II, inciso g), asigna al Director convocar a reuniones a los actores educativos para analizar los resultados del proceso de evaluación y plantear acciones orientadas a superar las dificultades y consolidar los logros; el inciso b) le encarga evaluar la aplicación de metodologías por los maestros.",
+   "legal": "R.M. 0190/2024, Reglamento de Evaluación, Título I, Capítulo III, Art. 9; página impresa: 9 (de 27); página PDF: 13."
+  }
+ ],
+ "rm-0800-2015-general": [
+  {
+   "id": "cd86a9f366b6",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] ¿Qué instrumentos regula el Reglamento aprobado por la R.M. 800/2015?",
+   "options": [
+    "Títulos de Bachiller Técnico Humanístico y diplomas académicos de Educación Superior del Estado.",
+    "Libretas Escolares Electrónicas de Educación Regular y boletines de unidades educativas fiscales.",
+    "Libretas electrónicas del área Humanística y Certificados electrónicos del área Técnica de los CEA.",
+    "Certificados de Educación Especial y libretas de los Centros Integrales Multisectoriales de todo el país."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 1 dispone que el Reglamento regula el procedimiento para la emisión de Libretas de Calificaciones Electrónicas para el área Humanística y Certificados de Calificaciones Electrónicas para el área Técnica de los Centros de Educación Alternativa, en el Sistema de Información Educativa (SIE).",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 1; página impresa: 1; página PDF: 7."
+  },
+  {
+   "id": "e2babea2bd0d",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – RESOLUCIÓN MINISTERIAL] ¿Cuántos capítulos y artículos tiene el Reglamento aprobado por la R.M. 800/2015?",
+   "options": [
+    "Cinco capítulos y treinta y dos artículos.",
+    "Siete capítulos y treinta y cuatro artículos.",
+    "Seis capítulos y treinta y cuatro artículos.",
+    "Seis capítulos y cuarenta y dos artículos."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 1 de la R.M. 800/2015, de 23 de octubre de 2015, aprueba el Reglamento de Procedimientos para la Emisión de Libretas de Calificaciones Electrónicas y Certificados de Calificaciones Electrónicas en sus seis (6) Capítulos y treinta y cuatro (34) Artículos.",
+   "legal": "R.M. 800/2015, Art. 1; página PDF: 6 (la Resolución no tiene numeración impresa)."
+  },
+  {
+   "id": "edb73890ffec",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] ¿Qué datos encripta el código QR de seguridad de las Libretas y Certificados electrónicos?",
+   "options": [
+    "Código RUDE, nombre de los padres, domicilio y número de teléfono del estudiante.",
+    "Notas finales, promedio semestral, código del área y nombre del CEA emisor.",
+    "Nombre del Director, código del maestro, firma digital y número de resolución.",
+    "Códigos RUE y RUDEAL, Cédula de Identidad y fecha de nacimiento del estudiante."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 10 dispone que las Libretas y Certificados electrónicos cuentan con un sistema de seguridad QR que encripta los códigos del RUE, RUDEAL, Cédula de Identidad y fecha de nacimiento del estudiante/participante, para certificar su autenticidad.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 10; páginas impresas: 2 y 3; páginas PDF: 8 y 9."
+  },
+  {
+   "id": "1fec20e6b419",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Tras la consolidación de la base de datos del semestre, ¿cuánto dura el periodo ordinario de modificación y/o inclusión de notas?",
+   "options": [
+    "Un plazo de seis meses.",
+    "Un plazo de tres meses.",
+    "Un plazo de dos meses.",
+    "Un plazo de un mes."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 20 dispone que el proceso de modificación y/o inclusión de notas se realiza una vez concluida la consolidación de la base de datos (fin de gestión-semestral) y tiene una duración de dos meses.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 20; página impresa: 6; página PDF: 12."
+  },
+  {
+   "id": "b1593d52536d",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] Si un CEA no cuenta con internet, ¿en qué plazo máximo debe el Director remitir la información de calificaciones en medio magnético a la Dirección Distrital?",
+   "options": [
+    "En un tiempo máximo de 15 días hábiles.",
+    "En un tiempo máximo de 5 días calendario.",
+    "En un tiempo máximo de 10 días calendario.",
+    "En un tiempo máximo de 5 días hábiles."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 18, numeral 5, dispone que los CEA sin internet remitan la información del registro de calificaciones en medio magnético a la Dirección Distrital en un tiempo máximo de 5 días calendario; el Director Distrital la remite vía web de manera inmediata.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 18; páginas impresas: 5 y 6; páginas PDF: 11 y 12."
+  },
+  {
+   "id": "ef43e57862f3",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] ¿Cómo define el Art. 6 a la Libreta de Calificaciones (área Humanística) y al Certificado de Calificaciones (área Técnica)?",
+   "options": [
+    "Documentos colectivos de registro semestral de calificaciones por área de saberes.",
+    "Instrumentos internos de seguimiento del maestro, sin valor de acreditación oficial.",
+    "Instrumentos individuales de acreditación promocional y comunicación oficial de resultados.",
+    "Registros acumulados de calificaciones de cada estudiante diferenciados por nivel, etapa o especialidad."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 6, I, los define como instrumentos individuales de acreditación promocional y comunicación oficial de los resultados cualitativos y cuantitativos; el registro acumulado corresponde al Historial Académico (II) y el registro colectivo semestral al Centralizador (IV).",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 6; página impresa: 2; página PDF: 8."
+  },
+  {
+   "id": "e61c53a65b59",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] ¿Qué es el Centralizador de Calificaciones según el Reglamento?",
+   "options": [
+    "El formulario que permite corregir las notas registradas de manera errada en el SIE.",
+    "El documento oficial semestral del registro de calificaciones por semestre y áreas.",
+    "El reporte anual que acumula todas las calificaciones obtenidas por el estudiante.",
+    "El instrumento individual que acredita la promoción de cada estudiante del CEA."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 6, IV, dispone que el Centralizador de Calificaciones se constituye en el documento oficial semestral del registro de calificaciones de los estudiantes, por semestre y por áreas de saberes y conocimientos.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 6; página impresa: 2; página PDF: 8."
+  },
+  {
+   "id": "513c429e6cb5",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] ¿Bajo qué principios se rige el procedimiento de emisión de Libretas y Certificados electrónicos?",
+   "options": [
+    "Accesibilidad, disponibilidad, autenticidad, confidencialidad, transparencia, equidad, confiabilidad y consistencia técnica.",
+    "Celeridad, economía procesal, informalismo, publicidad, buena fe, imparcialidad, legalidad y sometimiento pleno a la ley.",
+    "Descolonización, despatriarcalización, intraculturalidad, plurilingüismo, productividad, calidad, equidad y participación.",
+    "Gratuidad, universalidad, integralidad, interculturalidad, oportunidad, publicidad, legalidad y eficiencia administrativa."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 5 dispone que el procedimiento se rige bajo los principios de accesibilidad, disponibilidad, autenticidad, confidencialidad, transparencia, equidad, confiabilidad y consistencia técnica.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 5; página impresa: 1; página PDF: 7."
+  },
+  {
+   "id": "a3408292babd",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] ¿Qué tipo de código de acceso se asigna a las y los estudiantes/participantes?",
+   "options": [
+    "Código de legalización, para firmar digitalmente sus Libretas de Calificaciones.",
+    "Código de registro y actualización, para modificar sus datos personales en el SIE.",
+    "Código de administración, para gestionar sus calificaciones y su Historial Académico.",
+    "Código de consulta, que permite acceder a información específica de la base de datos."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 15, II, numeral 1, dispone que el código de consulta permite acceder a información específica bajo la modalidad de consulta y se asigna a los estudiantes/participantes y al Técnico de Adultos de la Subdirección; el de registro y actualización se asigna a maestros, directores y técnicos SIE.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 15; página impresa: 4; página PDF: 10."
+  },
+  {
+   "id": "ec6abbe3ac02",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] ¿Qué se entiende por \"inclusión de calificación\" según el Art. 19?",
+   "options": [
+    "Sumar puntaje de nivelación a las notas finales registradas en el semestre anterior.",
+    "Agregar a un estudiante nuevo en el Centralizador después del cierre del semestre.",
+    "Incorporar notas que por algún motivo no se registraron en la base de datos del SIE.",
+    "Corregir notas que se registraron de manera errada en la base de datos del SIE."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 19, II, define la inclusión como la incorporación de notas del área Humanística o Técnica que por algún motivo no se hubieran registrado en la base de datos del SIE; el parágrafo I define la modificación como la corrección de notas registradas de manera errada.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 19; página impresa: 6; página PDF: 12."
+  },
+  {
+   "id": "70944b52a97d",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Según el Art. 28, ¿quién es el único responsable de asignar y dar de baja los Códigos de Acceso de maestros y estudiantes de un CEA?",
+   "options": [
+    "La Directora o el Director del Centro de Educación Alternativa.",
+    "La Secretaria o el Secretario del Centro de Educación Alternativa.",
+    "La Técnica o el Técnico SIE o Polivalente de la Dirección Distrital.",
+    "La Subdirección de Educación Alternativa y Especial de la DDE."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 28, numeral 1, dispone que la Directora o el Director asigne o dé de baja en la gestión un Código de Acceso a maestros (para el registro de calificaciones) y a estudiantes (para información y seguimiento), siendo el único responsable de su asignación y baja.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18."
+  },
+  {
+   "id": "c75d05bd5b52",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] ¿Qué obligación impone el Art. 11 a la Directora o Director del CEA respecto de la Libreta o Certificado electrónico?",
+   "options": [
+    "Extenderlo sin condición alguna al estudiante, a la finalización de cada semestre.",
+    "Extenderlo una vez al año, al concluir la gestión, junto al Historial Académico.",
+    "Extenderlo únicamente cuando el estudiante lo solicite por escrito con anticipación.",
+    "Extenderlo solo al estudiante que acredite estar al día en sus aportes al Centro."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 11, numeral 2, dispone que el Director del CEA tiene la obligación de extender sin condición alguna la Libreta y/o Certificado electrónico al estudiante a la finalización de cada semestre; el Art. 7 declara gratuita su entrega.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Arts. 7 y 11; páginas impresas: 2 y 3; páginas PDF: 8 y 9."
+  },
+  {
+   "id": "529d5d227d93",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Cuántas copias del Centralizador de Calificaciones semestral, sellado y firmado, debe remitir el Director del CEA a la Dirección Distrital?",
+   "options": [
+    "Una copia simple, quedando el original en el CEA.",
+    "Tres copias originales, sin dejar copia en el CEA.",
+    "Una copia original, quedando dos copias en el propio CEA.",
+    "Dos copias originales, quedando una copia en el CEA."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 28, numeral 8, dispone que el Director selle y firme los Centralizadores semestrales, debiendo quedar una copia en el CEA, y remita dos copias originales a la Dirección Distrital, realizando el seguimiento hasta verificar que el documento se encuentre en la DDE.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18."
+  },
+  {
+   "id": "936f0fbebdd6",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Qué debe organizar el Director del CEA al final de cada semestre para estudiantes que reprobaron o postergaron un área?",
+   "options": [
+    "Un curso de recuperación a cargo de un maestro de otro Centro del distrito.",
+    "La convalidación del área con base en el promedio de las demás áreas.",
+    "La realización y el registro del examen de nivelación de notas.",
+    "La inscripción obligatoria en el mismo semestre de la gestión siguiente."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 28, numeral 4, dispone que el Director organice la realización y el registro del examen de nivelación de notas al final de cada semestre, en caso de estudiantes que hubiesen reprobado o postergado un área en el primer y/o segundo semestre; el Art. 32 lo reconoce como derecho del estudiante.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 28 y 32; páginas impresas: 12 y 14; páginas PDF: 18 y 20."
+  },
+  {
+   "id": "89ef03fc27c8",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Qué reuniones debe organizar el Director del CEA con maestros y personal administrativo según el Art. 28?",
+   "options": [
+    "Reuniones trimestrales con la Distrital para planificar los operativos de inscripción.",
+    "Reuniones anuales con la junta de participantes para rendir cuentas del presupuesto.",
+    "Reuniones mensuales para aprobar las calificaciones antes de su registro en la Libreta electrónica.",
+    "Reuniones para evaluar la información del SIE antes y después del registro del Centralizador."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 28, numeral 2, dispone que el Director organice reuniones con maestros y personal administrativo para evaluar la información registrada en el SIE antes y después del proceso de registro del Centralizador de Calificaciones.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18."
+  },
+  {
+   "id": "a86f89fb3c64",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] En el procedimiento de registro de calificaciones, ¿qué corresponde a la Directora o Director una vez que los maestros presentan sus calificaciones impresas y firmadas?",
+   "options": [
+    "Centralizar la documentación y consolidar vía web la información en el SIE de inmediato.",
+    "Remitir la documentación a la Unidad de Transparencia para su validación previa.",
+    "Archivar la documentación y esperar la habilitación del periodo de modificación.",
+    "Revisar las notas y modificar las que considere injustas antes de enviarlas al sistema SIE."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 18, numerales 3 y 4, dispone que el Director centralice la documentación del registro de calificaciones de todos los maestros y viabilice, gestione y/o consolide vía web la información digital en el SIE de manera inmediata.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 18; página impresa: 5; página PDF: 11."
+  },
+  {
+   "id": "b0d7b31392d3",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] En el procedimiento de modificación de notas, ¿qué tareas corresponden a la Directora o Director y al personal administrativo del CEA?",
+   "options": [
+    "Emitir la Resolución Administrativa que autoriza la modificación y remitirla a la DDE.",
+    "Modificar directamente en el SIE las notas observadas y comunicar luego el cambio a la Distrital.",
+    "Recepcionar los informes de la Distrital y archivarlos para eventuales auditorías.",
+    "Centralizar, revisar minuciosamente y remitir el informe y documentación validada a la Distrital."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 22, numeral 1, dispone que el Director y el personal administrativo centralicen y documenten la información, revisen minuciosamente la documentación y remitan el informe y la documentación validada a la Dirección Distrital; la modificación en el SIE la realizan los técnicos SIE.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 22; página impresa: 7; página PDF: 13."
+  },
+  {
+   "id": "e44a3d474864",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Cómo deben archivarse los Centralizadores de Calificaciones Semestrales en la Dirección del CEA?",
+   "options": [
+    "En formato digital únicamente, eliminando los ejemplares impresos al fin de gestión.",
+    "En sobres cerrados entregados a la junta de participantes para su custodia anual.",
+    "Organizadamente y a buen resguardo, debidamente foliados, rotulados y empastados.",
+    "En hojas valoradas adquiridas por el CEA, con la firma de cada maestro del área."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 28, numeral 12, dispone que el Director archive organizadamente y a buen resguardo los Centralizadores semestrales debidamente foliados, rotulados y empastados; el Art. 12 exige que se impriman en hojas blancas no valoradas.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 12 y 28; páginas impresas: 3 y 12; páginas PDF: 9 y 18."
+  },
+  {
+   "id": "3118372aa78c",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Qué responsabilidad tiene el Director del CEA en el operativo de inicio de gestión?",
+   "options": [
+    "Inscribir solo a estudiantes con libretas del Subsistema Regular debidamente legalizadas.",
+    "Esperar la habilitación del SIE por la DDE para recién convocar a los nuevos estudiantes.",
+    "Delegar a la Dirección Distrital la inscripción de todos los estudiantes del Centro a su cargo.",
+    "Organizar con docentes y secretaría el registro de inscripción, previendo su llenado correcto."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 28, numeral 3, dispone que el Director, en coordinación con su personal docente y secretario(a), organice el proceso de registro de inscripción de estudiantes y/o el operativo de inicio de gestión de manera oportuna, previendo el llenado correcto.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18."
+  },
+  {
+   "id": "60b221ae7ab2",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Concluido el registro del Centralizador de Calificaciones, ¿qué debe hacer la Directora o Director del CEA con la documentación?",
+   "options": [
+    "Revisarla y remitir el informe correspondiente a la Dirección Distrital Educativa.",
+    "Archivarla en el CEA sin informar, hasta que la Distrital la solicite por escrito.",
+    "Remitirla sin revisión a la DDE, que es la instancia que debe verificar los datos.",
+    "Entregarla a la junta de participantes para su aprobación antes de enviarla."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 28, numeral 5, dispone que la Directora o Director revise la documentación del proceso de registro del Centralizador de Calificaciones y remita el informe del mismo a la Dirección Distrital Educativa correspondiente.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18."
+  },
+  {
+   "id": "1f59d3c9c7fb",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] ¿Cuál es el ámbito de aplicación del Reglamento?",
+   "options": [
+    "Los Centros de Educación Alternativa y los Institutos Técnicos Tecnológicos.",
+    "Todos los Centros de Educación Alternativa fiscales, de convenio y privados.",
+    "Solo los Centros de Educación Alternativa fiscales del ámbito de Adultos.",
+    "Las unidades educativas de Educación Regular y los Centros de Educación Especial."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 2 dispone que el Reglamento se aplica en todos los Centros de Educación Alternativa fiscales, de convenios y privados del ámbito de Educación Alternativa.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 2; página impresa: 1; página PDF: 7."
+  },
+  {
+   "id": "1c1588be839f",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] ¿Cómo se previó la entrada en vigencia del Reglamento?",
+   "options": [
+    "A partir de la gestión 2017, tras un periodo de prueba en centros piloto.",
+    "De manera paulatina, con ejecución obligatoria en todo el ámbito desde 2016.",
+    "De forma inmediata y obligatoria desde el primer semestre de la gestión 2015.",
+    "Solo en los CEA con internet, quedando optativo para los demás centros."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 4 dispone que el Reglamento entra en vigencia de manera paulatina desde su aprobación (para los operativos de primer y segundo semestre 2015 el estudiante debía contar con su Libreta o Certificado electrónico) y que, a partir de la gestión 2016, debe ejecutarse obligatoriamente en todo el ámbito de Educación Alternativa.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 4; página impresa: 1; página PDF: 7."
+  },
+  {
+   "id": "f8d2ed7d5da3",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] ¿Qué alcance tiene la gratuidad prevista en el Art. 7?",
+   "options": [
+    "Solo el registro en el SIE; la legalización en la DDE tiene un costo establecido.",
+    "Solo la primera emisión; las reposiciones posteriores se cobran por cada ejemplar.",
+    "Registro en el SIE, entrega, impresión, firma y modificación o inclusión de notas.",
+    "Solo la entrega de la Libreta; la impresión y la firma tienen un arancel mínimo."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 7 declara gratuitos el registro de datos en el SIE y la entrega de Libretas y Certificados (I); su impresión y firma en el CEA y en el área de legalizaciones de la DDE (II); y la modificación y/o inclusión de notas (III).",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 7; página impresa: 2; página PDF: 8."
+  },
+  {
+   "id": "7675f2d7cd6a",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] ¿Qué instancia está autorizada para diseñar las Libretas y Certificados de Calificaciones?",
+   "options": [
+    "Cada Dirección Departamental de Educación, según su contexto.",
+    "La Dirección General de Planificación, a través del Equipo del SIE.",
+    "Únicamente el Viceministerio de Educación Alternativa y Especial.",
+    "Cada Centro de Educación Alternativa, con aprobación distrital."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 8 dispone que el Viceministerio de Educación Alternativa y Especial es la única instancia autorizada para diseñar las Libretas de Calificaciones (área Humanística) y los Certificados de Calificaciones (área Técnica).",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 8; página impresa: 2; página PDF: 8."
+  },
+  {
+   "id": "1cf770bf2f7d",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] ¿Qué validez tiene la Libreta o Certificado electrónico debidamente firmado y sellado por el Director del CEA?",
+   "options": [
+    "Plena validez legal en todo el territorio nacional.",
+    "Validez provisional hasta su legalización distrital.",
+    "Validez solo para trámites internos del propio CEA.",
+    "Validez solo en el departamento donde se emitió."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 13, I, dispone que la Libreta y/o Certificado de Calificación Electrónicas tienen plena validez legal en todo el territorio nacional, debidamente firmados y sellados por la o el Director del Centro de Educación Alternativa.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 13; página impresa: 3; página PDF: 9."
+  },
+  {
+   "id": "2b66e7568a21",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] ¿Con qué periodicidad se imprime el Historial Académico electrónico?",
+   "options": [
+    "Solo cuando lo requiera una institución de educación superior.",
+    "Anualmente o de acuerdo a la necesidad del estudiante.",
+    "Semestralmente, junto con cada Libreta de Calificaciones.",
+    "Solo al concluir el nivel o la especialidad del estudiante."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 11, numeral 3, dispone que la impresión del Historial Académico electrónico se realice anualmente o de acuerdo a la necesidad del estudiante; la Libreta o Certificado puede imprimirse al final de cada semestre o según necesidad (num. 1).",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 11; página impresa: 3; página PDF: 9."
+  },
+  {
+   "id": "f3b53ec4672d",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] ¿Qué instancia genera los códigos de acceso a la plataforma del SIE del ámbito de Educación Alternativa?",
+   "options": [
+    "El Ministerio de Educación, a través de la Dirección General de Planificación.",
+    "La Dirección General de Educación de Adultos, a través de sus técnicos nacionales.",
+    "Cada Dirección Distrital, a través del Técnico SIE o Técnico Polivalente.",
+    "Cada Dirección Departamental, a través de su Unidad de Asuntos Jurídicos."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 15, I, dispone que los códigos de acceso son generados por el Ministerio de Educación a través de la Dirección General de Planificación; el Art. 24, numeral 11, precisa que se entregan a las Subdirecciones de Educación Alternativa y Especial.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 15; página impresa: 4; página PDF: 10."
+  },
+  {
+   "id": "ea7290ae4a19",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Qué naturaleza adquiere el Centralizador de Calificaciones que imprime, firma y sella el maestro por las áreas que regenta?",
+   "options": [
+    "Se constituye en un borrador interno.",
+    "Se constituye en Declaración Jurada.",
+    "Se constituye en un acta de conformidad.",
+    "Se constituye en una copia sin valor."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 29, numeral 4, dispone que el maestro imprima el Centralizador por las áreas que regenta y lo presente al Director firmado, sellado y de manera inmediata, constituyéndose en Declaración Jurada.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 29; página impresa: 13; página PDF: 19."
+  },
+  {
+   "id": "8fb63ecfdf02",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] ¿Qué norma rige el registro y actualización de datos de los estudiantes/participantes?",
+   "options": [
+    "La R.M. 873/2014, que aprueba la certificación técnica.",
+    "La R.M. 001/2015, que aprueba las Normas Generales.",
+    "La R.M. 069/2013, que aprueba el Currículo Base.",
+    "La R.M. 026/2009, que aprueba el Formulario RUDEAL."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 16, I, dispone que el registro y actualización de datos de los estudiantes se rige por la R.M. 026/2009 de 16 de enero de 2009, que aprueba el Formulario de Inscripción – Registro Único de Estudiantes de Educación Alternativa (RUDEAL).",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 16; página impresa: 5; página PDF: 11."
+  },
+  {
+   "id": "43e167fad7cf",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – RESOLUCIÓN MINISTERIAL] Según el Art. 2 de la R.M. 800/2015, ¿conforme a qué normas se sanciona el incumplimiento del Reglamento?",
+   "options": [
+    "Reglamento de Escalafón Nacional y Normas Generales de la Gestión Educativa de cada gestión.",
+    "Reglamento de Faltas y Sanciones del Magisterio, Reglamento de Carrera Administrativa y D.S. 23318-A.",
+    "Código Penal y Código Niña, Niño y Adolescente, sin aplicación de normas administrativas.",
+    "Ley N.º 2341 de Procedimiento Administrativo y Reglamento Interno de cada Centro de Educación Alternativa."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 2 de la R.M. 800/2015 dispone que el incumplimiento constituye faltas sancionadas conforme al Reglamento de Faltas y Sanciones del Magisterio (R.S. 212414), al Reglamento de la Carrera Administrativa del SEP (R.M. 062/00) y al D.S. 23318-A, según corresponda.",
+   "legal": "R.M. 800/2015, Art. 2; página PDF: 6 (la Resolución no tiene numeración impresa)."
+  },
+  {
+   "id": "69d79026d42b",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Distinga el trámite de modificación de notas dentro del plazo ordinario del trámite posterior a ese plazo:",
+   "options": [
+    "Dentro de los dos meses: aprobación del Director del CEA; después: procede sin ningún requisito adicional.",
+    "Dentro de los dos meses: Resolución Ministerial; después: solo con informe del Técnico SIE distrital.",
+    "Dentro de los dos meses: procedimiento del Art. 22; después: solo con Resolución Administrativa de la DDE.",
+    "En ambos casos: Resolución Administrativa de la Distrital, con un arancel en el trámite posterior."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 20 fija un periodo de dos meses tras la consolidación semestral; posteriormente, en casos excepcionales, la modificación o inclusión se realiza únicamente con Resolución Administrativa de la DDE, de carácter gratuito. El Art. 22 regula el procedimiento ordinario.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Arts. 20 y 22; páginas impresas: 6 y 7; páginas PDF: 12 y 13."
+  },
+  {
+   "id": "5da4a7bb4645",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] Distinga quién emite la Libreta en condiciones normales y quién puede emitirla en caso de extravío o deterioro:",
+   "options": [
+    "Normal: el Técnico SIE distrital; extravío o deterioro: la Unidad de Transparencia de la DDE.",
+    "Normal: la Dirección Distrital; extravío o deterioro: únicamente el Ministerio de Educación.",
+    "Normal: el maestro de área; extravío o deterioro: el Director del CEA con una resolución distrital.",
+    "Normal: el Director del CEA; extravío o deterioro: también el área de legalizaciones de las DDE."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 13, I, reconoce validez a la Libreta firmada y sellada por el Director del CEA; el parágrafo II dispone que, en caso de extravío y/o deterioro, también podrá ser emitida y autorizada por el área de legalizaciones de las DDE a nivel nacional.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 13; página impresa: 3; página PDF: 9."
+  },
+  {
+   "id": "244d7bf0249c",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Distinga la función del Técnico SIE distrital y la del Técnico SIE – Ciencia y Tecnología departamental en la modificación de notas:",
+   "options": [
+    "Ambos pueden modificar notas, pero el departamental lo hace solo a solicitud de la Distrital con informe.",
+    "Solo el departamental puede modificar notas; el distrital se limita a recibir las solicitudes.",
+    "Solo el distrital puede modificar notas; el departamental se limita a archivar la documentación recibida.",
+    "Ninguno modifica notas; la modificación la realiza el maestro con su código de registro."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 27, II, numeral 5, faculta al Técnico SIE distrital a modificar e incluir notas previa verificación de requisitos; el Art. 26, II, numeral 5, faculta al Técnico SIE – CyT departamental a hacerlo únicamente a solicitud de la Dirección Distrital y con informe justificativo.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 26 y 27; páginas impresas: 10 y 11; páginas PDF: 16 y 17."
+  },
+  {
+   "id": "b23c960647e4",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Distinga ante quién puede el estudiante denunciar irregularidades en el registro de sus calificaciones según los Arts. 31 y 32:",
+   "options": [
+    "Ante la junta de participantes del CEA, que remite la denuncia a la Defensoría del Pueblo.",
+    "Solo ante la Unidad de Transparencia del Ministerio, sin intervención de la Dirección Distrital.",
+    "Solo ante la Dirección del CEA, que es la única instancia competente para conocer la denuncia.",
+    "Ante la Unidad de Transparencia de la DDE, o ante la Dirección del CEA o la Dirección Distrital."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 31, numeral 4, prevé que el estudiante denuncie irregularidades ante la Unidad de Transparencia de la DDE; el Art. 32, derecho 4, le permite denunciarlas ante la Dirección del CEA o la Dirección Distrital Educativa.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 31 y 32; páginas impresas: 13 y 14; páginas PDF: 19 y 20."
+  },
+  {
+   "id": "a922b5c20457",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Distinga los niveles e instancias del Art. 23 en el procedimiento de emisión:",
+   "options": [
+    "Central (DGP-SIE), Departamental (Unidad de Transparencia) y Centro, sin nivel distrital.",
+    "Central (Viceministerio y DGAJ), Departamental (Jurídica), Distrital (Juntas) y Centro (maestros).",
+    "Nacional (Ministerio), Regional (Gobernación), Municipal (Alcaldía) y Comunal (Centro educativo).",
+    "Central (DGP-SIE y DGEA), Departamental (Subdirección y Técnico SIE-CyT), Distrital y Centro."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 23 distingue los niveles Central (Dirección General de Planificación – Equipo SIE y Dirección General de Educación de Adultos), Departamental (Subdirección de Educación Alternativa y Especial y Técnico SIE – CyT), Distrital (Director Distrital y Técnico SIE o Polivalente) y el CEA (Director, personal administrativo y maestros).",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 23; página impresa: 8; página PDF: 14."
+  },
+  {
+   "id": "704c8b4fe09f",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] El Art. 31 dispone que el estudiante denuncie ante la Unidad de Transparencia de la DDE, mientras el Art. 32 menciona la Dirección del CEA o la Distrital. Desde un análisis crítico, ¿cómo se armonizan?",
+   "options": [
+    "Como contradicción insalvable que obliga a aplicar únicamente el artículo posterior.",
+    "Como vías concurrentes: el estudiante puede acudir a cualquiera de esas instancias.",
+    "Como jerarquía obligatoria: primero el CEA, luego la Distrital y al final la DDE.",
+    "Como derogación del Art. 31 por el Art. 32, al estar ubicado en el mismo capítulo."
+   ],
+   "answer": 1,
+   "explanation": "Los Arts. 31 (num. 4) y 32 (derecho 4) prevén instancias distintas para denunciar irregularidades en el registro de calificaciones; el Reglamento no establece orden de prelación ni derogación entre ellos, por lo que operan como vías concurrentes a favor del estudiante.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 31 y 32; páginas impresas: 13 y 14; páginas PDF: 19 y 20."
+  },
+  {
+   "id": "c43c577914bd",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] ¿Qué lectura crítica explica que, concluido el procedimiento de modificación de notas, la DDE ordene el inicio de un proceso administrativo?",
+   "options": [
+    "Toda modificación implica un delito penal que debe ser denunciado de oficio ante el Ministerio Público.",
+    "Toda modificación revela un error u omisión cuyo responsable debe ser identificado y, si corresponde, sancionado.",
+    "El proceso sirve para cobrar al estudiante el costo administrativo de la modificación de sus notas.",
+    "La modificación es ilegal en sí misma, por lo que debe revertirse mediante el proceso administrativo."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 19, III, señala que la modificación subsana inconsistencias por errores cometidos por el maestro; el Art. 22, numeral 4, dispone que la DDE remita el expediente ordenando el inicio del proceso administrativo que permita identificar y sancionar a los infractores. El Art. 7, III, declara gratuita la modificación.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Arts. 19 y 22; páginas impresas: 6 y 8; páginas PDF: 12 y 14."
+  },
+  {
+   "id": "e973b0477d33",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] El Art. 12 exige imprimir los Centralizadores en hojas blancas no valoradas, rubricados y sellados, y resguardarlos en CEA, Distrital y DDE. ¿Qué finalidad persigue?",
+   "options": [
+    "Permitir que cada instancia modifique las notas sin pasar por el sistema SIE.",
+    "Sustituir el registro digital del SIE por un archivo impreso de carácter exclusivo y permanente.",
+    "Contar con respaldo legal y físico y atender solicitudes de legalización de documentos.",
+    "Generar ingresos al CEA mediante la venta de hojas para cada Centralizador."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 12 dispone que, con el objeto de contar con documentación legal y física de respaldo y atender solicitudes de legalización, los Centralizadores descargados se impriman en hojas blancas no valoradas, rubricados y sellados, y se resguarden en el CEA, la Distrital y la DDE.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 12; página impresa: 3; página PDF: 9."
+  },
+  {
+   "id": "d50eaf701f45",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Qué riesgo institucional busca prevenir la regla de que el Director del CEA sea el único responsable de asignar y dar de baja los códigos de acceso?",
+   "options": [
+    "El retraso en la entrega de libretas por falta de técnicos en la Dirección Distrital.",
+    "La pérdida de autonomía del Ministerio para generar nuevos códigos en cada gestión.",
+    "El uso indebido de códigos por personas no autorizadas, al concentrar la responsabilidad.",
+    "La sobrecarga de trabajo de los maestros al registrar las calificaciones de sus áreas de saberes."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 28, numeral 1, hace del Director el único responsable de la asignación y baja de códigos; en coherencia, el Art. 33 prohíbe el acceso al SIE por personas ajenas, con sanciones administrativas y penales, y el Art. 29 exige al maestro custodiar su código.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V y VI, Arts. 28, 29 y 33; páginas impresas: 12, 13 y 15; páginas PDF: 18, 19 y 21."
+  },
+  {
+   "id": "2b90a3db9058",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] El Art. 24 exige a la DGP-SIE realizar registros automáticos de las transacciones que modifiquen información en la base de datos. ¿Qué valor aporta esta medida?",
+   "options": [
+    "Mayor velocidad del sistema, al eliminar la verificación humana de los registros de calificaciones.",
+    "Reducción del número de usuarios autorizados para registrar calificaciones.",
+    "Sustitución de los Centralizadores impresos por registros digitales automáticos.",
+    "Trazabilidad de los cambios, que facilita el control y la identificación de responsables."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 24, numerales 9 y 10, asigna a la DGP-SIE desarrollar procesos de control de calidad de datos y realizar registros automáticos de las transacciones que modifiquen información en la base de datos, lo que se articula con el proceso administrativo previsto en el Art. 22, numeral 4.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 24; página impresa: 9; página PDF: 15."
+  },
+  {
+   "id": "e280456600ea",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] El Art. 9 dispone que las Libretas sean bilingües según los contextos lingüísticos, con aplicación paulatina. ¿Qué lectura crítica corresponde?",
+   "options": [
+    "Impone de inmediato el uso exclusivo de lenguas originarias en todas las Libretas.",
+    "Exige traducir las Libretas a idiomas extranjeros para trámites en el exterior.",
+    "Deja a cada maestro decidir el idioma en que registra las calificaciones.",
+    "Reconoce la diversidad lingüística del Estado, pero su implementación es gradual."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 9 establece que las Libretas y Certificados electrónicos serán bilingües de acuerdo a los contextos lingüísticos del Estado Plurinacional, y que su aplicación será de manera paulatina.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 9; página impresa: 2; página PDF: 8."
+  },
+  {
+   "id": "6762b72f1b2e",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] El Art. 17 exige registrar las notas de nivelación inmediatamente obtenida la nota final, en el periodo habilitado. ¿Qué lectura crítica explica esta exigencia?",
+   "options": [
+    "Evita rezagos en el SIE y asegura que el Historial refleje oportunamente la situación real.",
+    "Permite que el maestro modifique libremente las notas del semestre ya consolidado en el SIE.",
+    "Exime al Director de consolidar la información de nivelación en la base de datos.",
+    "Reemplaza el procedimiento de modificación de notas para los casos de reprobación."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 17, II, exige que las calificaciones de quienes postergaron un área y fueron habilitados para nivelación se registren inmediatamente obtenida la nota final, en el periodo habilitado; el Art. 16, III, dispone que el registro permite contar con el Historial Académico consolidado.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Arts. 16 y 17; página impresa: 5; página PDF: 11."
+  },
+  {
+   "id": "fbe9a91c986c",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO VI] El Art. 33 prohíbe el acceso al SIE por personas ajenas a los interesados. ¿Qué bien jurídico protege principalmente?",
+   "options": [
+    "La exclusividad comercial del proveedor de servicios de internet.",
+    "La autonomía de los Centros para fijar sus propios procedimientos.",
+    "La propiedad intelectual del software desarrollado por el Ministerio de Educación.",
+    "La privacidad de la información de la base de datos de calificaciones."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 33 dispone que queda prohibido el acceso al SIE por personas ajenas a los interesados, hecho que vulneraría la privacidad de la información de la base de datos y está sujeto a sanciones administrativas y penales.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo VI, Art. 33; página impresa: 15; página PDF: 21."
+  },
+  {
+   "id": "98159f44cd3f",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] La R.M. 800/2015 remite las sanciones a normas de 1992, 1993 y 2000 (D.S. 23318-A, R.S. 212414 y R.M. 062/00). ¿Qué observación crítica corresponde a un directivo?",
+   "options": [
+    "Debe aplicar únicamente la sanción penal, al ser la única mencionada en el Art. 34 del Reglamento.",
+    "Puede aplicar sanciones propias del CEA, porque el Reglamento no fija ninguna remisión normativa.",
+    "Debe verificar la vigencia de esas normas antes de aplicarlas, pues el Reglamento solo remite a ellas.",
+    "Debe omitir cualquier sanción, porque las normas citadas son anteriores al Reglamento de 2015."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 2 de la R.M. remite a la R.S. 212414 (1993), a la R.M. 062/00 (2000) y al D.S. 23318-A (1992), y el Art. 34 del Reglamento remite a la normativa administrativa y penal vigente; el Reglamento no tipifica sanciones propias, por lo que su aplicación depende de esas normas.",
+   "legal": "R.M. 800/2015, Art. 2 (PDF 6); Reglamento, Capítulo VI, Art. 34; página impresa: 15; página PDF: 21."
+  },
+  {
+   "id": "1a5b46733114",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] El Art. 21 exige que el Formulario de Declaración Jurada sea firmado y sellado por el maestro y por el Director. ¿Qué finalidad tiene esta doble firma?",
+   "options": [
+    "Que el maestro renuncie a cualquier responsabilidad por el error cometido.",
+    "Que la modificación se considere aprobada sin intervención de la Distrital.",
+    "Que ambos den fe de la veracidad de los datos y de la documentación presentada.",
+    "Que el Director autorice por sí solo la modificación directa de notas en el SIE."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 21 exige el Formulario de Declaración Jurada debidamente llenado, firmado y sellado por el maestro respectivo y por el Director del CEA, dando fe y veracidad de los datos del formulario y de la documentación presentada; la modificación se procesa luego en la Distrital (Art. 22).",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 21; páginas impresas: 6 y 7; páginas PDF: 12 y 13."
+  },
+  {
+   "id": "ecef7a5dd38a",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Un estudiante solicita corregir una nota mal registrada. ¿Qué documentos debe presentar según el Art. 21?",
+   "options": [
+    "Memorial al Director Departamental, fotocopia legalizada del título y comprobante de pago del trámite.",
+    "Formulario de Declaración Jurada firmado y sellado, fotocopia del certificado de nacimiento y del C.I.",
+    "Declaración notariada del estudiante, informe de la junta de participantes y Libreta del año anterior.",
+    "Solicitud escrita al Director Distrital, Libreta original y certificado de antecedentes del maestro."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 21 exige: Formulario de Declaración Jurada firmado y sellado por el maestro y el Director del CEA; fotocopia simple del Certificado de Nacimiento; y fotocopia simple de la Cédula de Identidad, si cuenta con ella. El trámite es gratuito (Art. 7, III).",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 21; páginas impresas: 6 y 7; páginas PDF: 12 y 13."
+  },
+  {
+   "id": "dbd9b01eacbf",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Una estudiante no tiene Cédula de Identidad y desea tramitar la inclusión de una nota omitida. ¿Puede hacerlo?",
+   "options": [
+    "Sí; la fotocopia del C.I. se exige solo si cuenta con ese documento.",
+    "No; la Cédula de Identidad es requisito indispensable sin excepciones.",
+    "No; debe esperar a obtener su C.I. y reiniciar el trámite en el SIE.",
+    "Sí, pero debe pagar un arancel por la falta del documento de identidad."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 21 exige la fotocopia simple de la Cédula de Identidad del estudiante \"si cuenta con este documento\", junto con el Formulario de Declaración Jurada y la fotocopia del Certificado de Nacimiento.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 21; página impresa: 7; página PDF: 13."
+  },
+  {
+   "id": "963f911d18d5",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Han pasado cuatro meses desde la consolidación del semestre y se detecta una nota errada. ¿Cómo procede la corrección?",
+   "options": [
+    "Mediante Resolución Ministerial, previo pago del arancel por trámite fuera de plazo.",
+    "Excepcionalmente, solo mediante Resolución Administrativa de la DDE, de carácter gratuito.",
+    "Ya no procede ninguna corrección, porque el plazo de dos meses ha vencido definitivamente.",
+    "Mediante corrección directa del maestro en el SIE con su código de registro y actualización."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 20 dispone que, transcurrido el periodo de dos meses, en casos excepcionales, la modificación y/o inclusión de notas se realizará únicamente con la emisión de una Resolución Administrativa en la DDE correspondiente, la cual debe ser de carácter gratuito.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 20; página impresa: 6; página PDF: 12."
+  },
+  {
+   "id": "d7a6edf61546",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] Un egresado necesita su Libreta electrónica para un trámite en el exterior. ¿En qué orden deben firmarla las autoridades?",
+   "options": [
+    "Director Departamental, Ministerio de Educación y Consulado del país de destino del egresado.",
+    "Director del CEA, Director Distrital y Ministerio de Relaciones Exteriores, sin firma departamental.",
+    "Ministerio de Relaciones Exteriores, Ministerio de Educación, Director Departamental y Director del CEA.",
+    "Director Distrital, Director Departamental, Ministerio de Educación y Ministerio de Relaciones Exteriores."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 13, III, dispone que la Libreta, el Certificado y el Historial Académico para trámites en el exterior deben ser firmados en orden de jerarquía por el Director Distrital, el Director Departamental, el Ministerio de Educación y el Ministerio de Relaciones Exteriores.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 13; página impresa: 3; página PDF: 9."
+  },
+  {
+   "id": "02370f35c675",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] Un estudiante perdió su Libreta electrónica y su CEA cerró temporalmente. ¿Dónde puede obtenerla?",
+   "options": [
+    "En la Dirección General de Educación de Adultos del Ministerio de Educación del Estado.",
+    "En cualquier unidad educativa fiscal del Subsistema de Educación Regular.",
+    "En la Unidad de Transparencia de la Dirección Departamental correspondiente.",
+    "En el área de legalizaciones de las Direcciones Departamentales de Educación."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 13, II, dispone que, en caso de extravío y/o deterioro, la Libreta y/o Certificado electrónicos también podrán ser emitidos y autorizados por el área de legalizaciones de las DDE a nivel nacional; su impresión y firma allí es gratuita (Art. 7, II).",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Arts. 7 y 13; páginas impresas: 2 y 3; páginas PDF: 8 y 9."
+  },
+  {
+   "id": "5f0ae681d5f7",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] Un estudiante proveniente del exterior se inscribe en un CEA. ¿Cómo se lo registra en el SIE?",
+   "options": [
+    "Previo cumplimiento de requisitos de inscripción, mediante el Formulario RUDEAL.",
+    "Mediante el Formulario RUDE de Educación Regular, con homologación previa.",
+    "Mediante un registro provisional que se regulariza al final de la gestión.",
+    "Solo después de que el Ministerio de Relaciones Exteriores valide su identidad y su procedencia."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 16, II, dispone que los estudiantes provenientes del exterior serán registrados en el SIE previo cumplimiento de los requisitos para su inscripción en el CEA, a través del Formulario de Inscripción – RUDEAL.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 16; página impresa: 5; página PDF: 11."
+  },
+  {
+   "id": "b3660ab1c180",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un maestro de un CEA se jubila a mitad de gestión. ¿Qué debe hacer el Director respecto de su código de acceso?",
+   "options": [
+    "Transferirlo al maestro reemplazante, conservando la misma contraseña de acceso.",
+    "Darlo de baja, pues es el único responsable de la asignación y baja de los códigos.",
+    "Solicitar a la DGP su baja, porque el Director no tiene competencia para hacerlo.",
+    "Mantenerlo activo hasta fin de gestión para no afectar el registro de calificaciones."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 28, numeral 1, dispone que el Director asigne o dé de baja en la gestión los Códigos de Acceso, siendo el único responsable de su asignación y baja; el Art. 33 prohíbe el acceso al SIE por personas ajenas.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18."
+  },
+  {
+   "id": "0599d6a056e4",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un estudiante presta su código de acceso a un amigo para que revise sus notas. ¿Qué obligación incumple?",
+   "options": [
+    "La de verificar sus calificaciones semestrales solo desde los equipos del CEA.",
+    "La de solicitar autorización del maestro antes de consultar sus calificaciones en el SIE.",
+    "Ninguna, porque el código de consulta no permite modificar la información.",
+    "La de resguardar el código, que no puede transferirse a terceros por ningún motivo."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 32, obligación 1, dispone que el estudiante resguarde el Código de Acceso para velar por la confidencialidad y seguridad de sus calificaciones, el cual no podrá ser transferido a terceros por ningún motivo; la obligación 2 le exige modificar la contraseña.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 32; página impresa: 14; página PDF: 20."
+  },
+  {
+   "id": "fedcd05b2e4a",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Al recibir su código de acceso, ¿qué debe hacer el estudiante para garantizar su uso privado?",
+   "options": [
+    "Solicitar un segundo código a la Distrital.",
+    "Modificar la contraseña del Código de Acceso.",
+    "Compartir el código con sus padres o tutores.",
+    "Registrar el código en la secretaría del CEA."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 32, obligación 2, dispone que el estudiante modifique la contraseña del Código de Acceso para garantizar su uso privado; la obligación 1 prohíbe transferirlo a terceros.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 32; página impresa: 14; página PDF: 20."
+  },
+  {
+   "id": "585f6900ce6c",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un maestro advierte una irregularidad en la modificación de datos de un estudiante en el SIE. ¿A quién debe hacerla conocer?",
+   "options": [
+    "Al Técnico SIE distrital, para que revierta la modificación sin informar.",
+    "A la Unidad de Transparencia de la Dirección Departamental de Educación.",
+    "Al Ministerio Público, mediante denuncia penal directa y sin otro trámite.",
+    "A la junta de participantes del CEA, para que decida las acciones a tomar."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 29, numeral 7, dispone que el maestro haga conocer a la Unidad de Transparencia de la DDE correspondiente cualquier irregularidad en la modificación y/o inclusión de datos personales de estudiantes sobre su registro de calificaciones.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 29; página impresa: 13; página PDF: 19."
+  },
+  {
+   "id": "870b796b1900",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Una madre reconoció tardíamente a su hijo, estudiante de un CEA, y este cambió su apellido. ¿Quién modifica los datos personales en el SIE a nivel distrital?",
+   "options": [
+    "El maestro de área, a solicitud escrita del propio estudiante.",
+    "La secretaria del CEA, con autorización verbal del Director.",
+    "El Director del CEA, con su código de registro y actualización.",
+    "El Técnico SIE o Polivalente, con la documentación presentada."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 27, II, numeral 4, inciso b), asigna al Técnico SIE o Polivalente distrital la modificación de datos propios del certificado de nacimiento por reconocimiento de padre y/o madre o por cambio voluntario de nombre o apellido, de estudiantes que presentaron su documentación.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 27; página impresa: 11; página PDF: 17."
+  },
+  {
+   "id": "9f3cee1ff745",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] La secretaria de un CEA recibe los Centralizadores de cada maestro al final del semestre. ¿Qué debe hacer con ellos?",
+   "options": [
+    "Archivarlos en secretaría sin conocimiento de la Dirección.",
+    "Firmarlos y remitirlos directamente a la Dirección Distrital Educativa.",
+    "Corregirlos y registrarlos en el SIE con su código de acceso.",
+    "Recepcionarlos y remitirlos a la Directora o Director del CEA."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 30, numeral 1, dispone que la Secretaria o Secretario recepcione y remita a la Directora o Director del CEA los Centralizadores presentados por cada maestro en cada semestre; además revisa la documentación de modificación de notas y deriva los centralizadores firmados a la Distrital.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 30; página impresa: 13; página PDF: 19."
+  },
+  {
+   "id": "b96d6dd2bf1c",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un estudiante considera injusta la nota de un área. ¿Qué derecho le reconoce el Art. 32 antes del registro en el SIE?",
+   "options": [
+    "Solicitar la anulación del semestre completo y su reinscripción sin costo alguno.",
+    "Rendir un examen ante la Distrital en reemplazo de la evaluación del maestro.",
+    "Reclamar sobre la valoración efectuada según las actividades evaluativas realizadas.",
+    "Exigir que el Director modifique la nota sin consultar al maestro del área afectada."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 32, derecho 3, reconoce al estudiante el derecho a reclamar sobre la valoración efectuada por el maestro de acuerdo a las actividades evaluativas realizadas con instrumentos de evaluación, antes del registro de sus calificaciones en el SIE.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 32; página impresa: 14; página PDF: 20."
+  },
+  {
+   "id": "d190b28eb54c",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] A mitad de semestre, un estudiante necesita imprimir su Libreta electrónica para un trámite laboral. ¿Puede hacerlo?",
+   "options": [
+    "Sí, pero solo con autorización escrita de la Dirección Distrital Educativa.",
+    "No; la Libreta solo se imprime una vez al año junto al Historial Académico.",
+    "No; solo el Director puede imprimirla y únicamente al final del semestre.",
+    "Sí; puede imprimirla al final de cada semestre o de acuerdo a su necesidad."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 11, numeral 1, dispone que el estudiante podrá imprimir la Libreta y/o Certificado electrónico a la culminación de cada semestre o de acuerdo a su necesidad.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 11; página impresa: 3; página PDF: 9."
+  },
+  {
+   "id": "2413e6b9643d",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] En el proceso del SIE, ¿qué momento corresponde al registro de las evaluaciones de nivelación de un estudiante que reprobó un área?",
+   "options": [
+    "El registro y/o actualización de datos de los Centros de Educación Alternativa.",
+    "El Registro Único de Estudiantes de Educación Alternativa en la inscripción.",
+    "La entrega y resguardo del Centralizador a las instancias respectivas.",
+    "El registro de evaluación del desarrollo curricular o de las evaluaciones de nivelación."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 14, inciso d), prevé como momento del procesamiento el registro de evaluación del desarrollo curricular o registro de las evaluaciones del proceso de nivelación, en caso de que el estudiante hubiera reprobado o postergado un área en el primer y/o segundo semestre.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 14; página impresa: 4; página PDF: 10."
+  },
+  {
+   "id": "e557a302547c",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] Un Director de CEA condiciona la entrega de la Libreta al pago de una cuota \"de impresión\". ¿Qué disposiciones vulnera?",
+   "options": [
+    "La gratuidad de impresión y entrega, y la obligación de extenderla sin condición alguna.",
+    "Ninguna, si la cuota fue aprobada en asamblea por la junta de participantes del CEA.",
+    "Solo la gratuidad del registro en el SIE, porque la impresión puede tener un costo propio del CEA.",
+    "Solo la obligación de entregarla al final del semestre, no la gratuidad del documento."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 7, I y II, declara gratuitas la entrega, impresión y firma de Libretas y Certificados; el Art. 11, numeral 2, obliga al Director a extenderlos sin condición alguna al final de cada semestre.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I y II, Arts. 7 y 11; páginas impresas: 2 y 3; páginas PDF: 8 y 9."
+  },
+  {
+   "id": "e651ef0c9dca",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] Un CEA rural sin internet terminó el registro el 10 de julio. El Director envía el medio magnético a la Distrital el 18 de julio. ¿Cumplió el plazo?",
+   "options": [
+    "Sí; el Reglamento no fija un plazo máximo.",
+    "No; el plazo máximo es de 5 días calendario.",
+    "Sí; el plazo máximo es de 5 días hábiles.",
+    "Sí; el plazo máximo es de 10 días calendario."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 18, numeral 5, dispone que los CEA sin acceso a internet remitan la información en medio magnético a la Distrital en un tiempo máximo de 5 días calendario; del 10 al 18 de julio transcurren 8 días calendario.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 18; páginas impresas: 5 y 6; páginas PDF: 11 y 12."
+  },
+  {
+   "id": "405584cc4b76",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] Recibida la información en medio magnético de un CEA sin internet, ¿qué debe hacer la Directora o Director Distrital?",
+   "options": [
+    "Archivarla en la Distrital hasta la consolidación anual de la gestión educativa.",
+    "Enviarla en físico a la DDE dentro de los 5 días hábiles siguientes.",
+    "Remitirla vía web al SIE del Ministerio de Educación de manera inmediata.",
+    "Devolverla al CEA para que la cargue cuando cuente con internet."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 18, numeral 6, dispone que la Directora o Director Distrital remita la información del registro de calificaciones vía web al SIE del Ministerio de Educación de manera inmediata.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 18; página impresa: 6; página PDF: 12."
+  },
+  {
+   "id": "f0b2c53df846",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] La Distrital recibe un lunes los Centralizadores semestrales de un CEA. ¿En qué plazo debe remitir una copia original firmada y sellada a la DDE?",
+   "options": [
+    "En el lapso máximo de 5 días calendario desde su recepción.",
+    "Al final de la gestión, junto con los demás Centralizadores.",
+    "En el lapso máximo de 5 días hábiles desde su recepción.",
+    "En el lapso máximo de 10 días hábiles desde su recepción."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 27, I, numeral 4, dispone que el Director Distrital remita una copia original de los Centralizadores semestrales firmados y sellados a la DDE en el lapso máximo de 5 días hábiles, luego de recepcionado el documento en el Distrito.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 27; página impresa: 11; página PDF: 17."
+  },
+  {
+   "id": "03622fceb9b9",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Un maestro registró 45 en lugar de 54 en un área. Detectado el error, ¿qué formulario debe llenar y quién lo firma?",
+   "options": [
+    "El de modificación y/o inclusión de notas, que verifica, sella y firma el maestro junto al Director.",
+    "Un acta de rectificación firmada solo por el estudiante y aprobada por la junta de participantes del CEA.",
+    "Una nota simple al Técnico SIE, firmada únicamente por el maestro que cometió el error.",
+    "Un memorial a la DDE firmado por el estudiante, con firma de abogado y timbre de ley."
+   ],
+   "answer": 0,
+   "explanation": "Los Arts. 29 (nums. 5 y 6) y 21 disponen que el maestro llene, verifique, selle y firme los formularios de modificación y/o inclusión de notas en caso de error u omisión, y que el Formulario de Declaración Jurada sea firmado y sellado también por el Director del CEA.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV y V, Arts. 21 y 29; páginas impresas: 7 y 13; páginas PDF: 13 y 19."
+  },
+  {
+   "id": "7c2f2c64ae43",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] El Técnico SIE distrital recibe documentación validada de un CEA para modificar notas. Tras modificarlas en el SIE, ¿qué le corresponde?",
+   "options": [
+    "Emitir la Resolución Administrativa que convalida la modificación ante el Ministerio.",
+    "Devolver toda la documentación al CEA y eliminar del sistema el registro de la modificación realizada.",
+    "Remitir informe y documentación a la DDE y resguardar lo procesado para control y auditoría.",
+    "Iniciar de oficio el proceso administrativo contra el maestro que cometió el error."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 22, numeral 2, dispone que la Distrital, a través del Técnico SIE o Polivalente, recepcione y valide la documentación, modifique o incluya las notas, remita informe y documentación a la DDE y resguarde la documentación para cualquier control y/o auditoría. El inicio del proceso lo ordena la DDE (num. 4).",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 22; páginas impresas: 7 y 8; páginas PDF: 13 y 14."
+  },
+  {
+   "id": "5977455611db",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Concluido el procedimiento de modificación de notas, ¿qué acción final corresponde a la Dirección Departamental de Educación?",
+   "options": [
+    "Publicar la corrección en la página web del Ministerio para conocimiento de toda la comunidad educativa.",
+    "Remitir el expediente legalizado ordenando el proceso administrativo para sancionar a los infractores.",
+    "Archivar definitivamente el expediente, dado que la nota ya fue corregida en el sistema SIE.",
+    "Devolver el expediente al CEA para que el Director aplique una sanción interna al maestro."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 22, numeral 4, dispone que la DDE, concluido el procedimiento, remita el expediente de copias legalizadas a la instancia correspondiente ordenando el inicio del proceso administrativo que permita identificar y sancionar a los infractores.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 22; página impresa: 8; página PDF: 14."
+  },
+  {
+   "id": "9f651c9228ad",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] El Técnico SIE distrital compara los datos del SIE con los Centralizadores impresos y encuentra diferencias. ¿Qué debe hacer con el resultado?",
+   "options": [
+    "Enviar el informe de los resultados de la comparación a la Dirección Departamental.",
+    "Corregir el SIE para que coincida con el Centralizador, sin informar a otra instancia.",
+    "Corregir el Centralizador impreso para que coincida con los datos del sistema SIE.",
+    "Devolver el Centralizador al maestro para que lo vuelva a firmar con los datos del SIE."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 27, II, numerales 2 y 3, asigna al Técnico SIE o Polivalente comparar minuciosamente la información del SIE con la documentación impresa remitida por los CEA y enviar el informe de los resultados a la DDE correspondiente.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 27; página impresa: 11; página PDF: 17."
+  },
+  {
+   "id": "7897a6a07a83",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un Director de CEA envió dos originales del Centralizador a la Distrital. ¿Concluye ahí su responsabilidad?",
+   "options": [
+    "Sí, siempre que la secretaría del CEA haya registrado el envío en el libro de correspondencia.",
+    "No; debe hacer el seguimiento hasta verificar que el documento se encuentre en la DDE.",
+    "No; además debe entregar personalmente una tercera copia al Ministerio de Educación.",
+    "Sí; la responsabilidad pasa íntegramente a la Distrital desde el momento del envío."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 28, numeral 8, dispone que el Director, tras dejar una copia en el CEA y remitir dos originales a la Distrital, realice el seguimiento hasta verificar que dicho documento se encuentre en la DDE.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18."
+  },
+  {
+   "id": "24cf21c545f5",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Una DDE debe distribuir los códigos de acceso a los Directores de los CEA de su departamento. ¿Qué instancia los entrega?",
+   "options": [
+    "La Dirección General de Educación de Adultos, directamente a cada Director de CEA.",
+    "El Técnico SIE distrital, sin intervención de la Dirección Departamental de Educación.",
+    "La Subdirección de Educación Alternativa y Especial, por encargo del Director Departamental.",
+    "La Unidad de Transparencia de la DDE, tras verificar los antecedentes personales de cada Director."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 26, I, numeral 6, dispone que el Director Departamental, a través de la Subdirección de Educación Alternativa y Especial, entregue los códigos de acceso a los Directores de los CEA; el Art. 24, numeral 11, dispone que la DGP los genere y los entregue a las Subdirecciones.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 24 y 26; páginas impresas: 9 y 10; páginas PDF: 15 y 16."
+  },
+  {
+   "id": "455024a16684",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO VI] Un familiar de un maestro ingresa al SIE con el código de este para \"ayudar\" a registrar notas. ¿Qué consecuencia prevé el Reglamento?",
+   "options": [
+    "Es válido si el maestro supervisa el registro y luego firma el Centralizador impreso.",
+    "Es válido si el Director del CEA autoriza por escrito la colaboración del familiar.",
+    "Es acceso de persona ajena, prohibido y sujeto a sanciones administrativas y penales.",
+    "Solo amerita una llamada de atención verbal del Director del CEA al maestro titular."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 33 prohíbe el acceso al SIE por personas ajenas a los interesados, sujeto a sanciones administrativas y penales; el Art. 29, numeral 1, obliga al maestro a custodiar su código velando por su confidencialidad.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulos V y VI, Arts. 29 y 33; páginas impresas: 13 y 15; páginas PDF: 19 y 21."
+  },
+  {
+   "id": "57441d156521",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un participante reprobó un área en el primer semestre. Antes del registro final, pregunta qué derecho tiene. ¿Qué le responde el Director?",
+   "options": [
+    "Puede pedir que se promedie el área con las demás para aprobarla.",
+    "Puede rendir el examen de nivelación de notas al final del semestre.",
+    "Debe repetir obligatoriamente todo el semestre en la gestión siguiente.",
+    "Puede solicitar a la Distrital que lo exima de cursar el área reprobada."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 32, derecho 2, reconoce al estudiante el derecho a dar el examen de nivelación de notas al final del semestre si hubiera reprobado o postergado un área en el primer y/o segundo semestre; el Art. 28, numeral 4, obliga al Director a organizarlo.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 28 y 32; páginas impresas: 12 y 14; páginas PDF: 18 y 20."
+  },
+  {
+   "id": "d6332d317dc9",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] El Técnico SIE – CyT departamental recibe directamente de un estudiante una solicitud de modificación de notas. ¿Qué debe hacer?",
+   "options": [
+    "Procesarla de inmediato, porque tiene competencia directa para modificar cualquier nota del SIE.",
+    "No procesarla directamente: solo modifica notas a solicitud de la Distrital y con informe justificativo.",
+    "Procesarla si el estudiante adjunta su Libreta original y una fotocopia simple de su Cédula de Identidad.",
+    "Remitirla a la Unidad de Transparencia para que esta modifique la nota en el sistema SIE."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 26, II, numeral 5, dispone que el Técnico SIE – CyT departamental modifique y/o incluya notas previa verificación de requisitos del Art. 21, únicamente a solicitud de la Dirección Distrital y con informe justificativo; el trámite se inicia en el CEA (Art. 22).",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 26; página impresa: 10; página PDF: 16."
+  },
+  {
+   "id": "f44711ca8097",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] Un maestro registra sus calificaciones en el SIE. ¿Qué debe hacer a continuación según el Art. 18?",
+   "options": [
+    "Entregarlas a los estudiantes para que verifiquen y firmen su conformidad.",
+    "Enviarlas por correo al Técnico SIE distrital para su consolidación.",
+    "Imprimirlas y presentarlas firmadas a la Directora o Director del CEA.",
+    "Esperar a que la DDE habilite la opción de impresión del Centralizador."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 18, numeral 2, dispone que el maestro registre en el SIE las calificaciones de sus áreas, las cuales deberán ser impresas y presentadas al Director del CEA, debidamente firmadas.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 18; página impresa: 5; página PDF: 11."
+  },
+  {
+   "id": "6c6d18740e50",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Un CEA privado detecta errores en notas registradas en el SIE. ¿Puede acceder al procedimiento de modificación?",
+   "options": [
+    "Sí; el procedimiento rige para CEA fiscales, de convenio y privados.",
+    "No; el procedimiento solo rige para los CEA fiscales del distrito.",
+    "No; los CEA privados corrigen sus notas con su propio reglamento.",
+    "Sí, pero debe pagar el trámite por tratarse de un centro privado."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 19, IV, dispone que la modificación y/o inclusión de notas se realizará para todas las solicitudes de CEA fiscales, de convenio o privados que hubieran detectado inconsistencias; el Art. 7, III, declara gratuito el trámite y el Art. 2 incluye a todos los CEA.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 19; página impresa: 6; página PDF: 12."
+  },
+  {
+   "id": "c3a7bff9ef75",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] Un CEA imprime los Centralizadores en hojas valoradas compradas por los estudiantes. ¿Qué disposición incumple?",
+   "options": [
+    "La que prohíbe imprimir Centralizadores en el propio Centro de Educación.",
+    "La que exige imprimirlos únicamente en la Dirección Distrital Educativa.",
+    "La que exige imprimirlos en papel membretado del Ministerio de Educación.",
+    "La que exige imprimirlos en hojas blancas no valoradas, rubricados y sellados."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 12 dispone que los Centralizadores descargados de la página Web del Ministerio se impriman en hojas blancas no valoradas, debidamente rubricados y sellados; el Art. 7 garantiza la gratuidad del proceso.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Arts. 7 y 12; páginas impresas: 2 y 3; páginas PDF: 8 y 9."
+  },
+  {
+   "id": "d0ebf8189fab",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] La secretaria de un CEA recibe de un estudiante documentos para modificar una nota. ¿Qué le corresponde?",
+   "options": [
+    "Modificar la nota en el SIE con el código del Director, para agilizar el trámite.",
+    "Remitir la documentación directamente a la DDE, sin pasar por la Distrital.",
+    "Recepcionar, revisar y validar la documentación y luego derivarla a la Distrital.",
+    "Rechazarla, porque solo el maestro puede iniciar la modificación de notas."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 30, numerales 2 y 3, dispone que la Secretaria o Secretario recepcione, revise y valide la documentación presentada por el estudiante para la modificación y/o inclusión de notas, y derive los centralizadores firmados y la documentación a la Dirección Distrital.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 30; página impresa: 13; página PDF: 19."
+  },
+  {
+   "id": "a357c400eda0",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un CEA registra con error la fecha de nacimiento de un participante durante la inscripción. ¿Quién corrige el dato en el SIE?",
+   "options": [
+    "El maestro de área, con su código de registro, sin necesidad de documentación.",
+    "El propio participante, con su código de consulta, desde cualquier computadora del CEA.",
+    "El Técnico SIE o Polivalente distrital, por error del personal administrativo del CEA.",
+    "La DGEA del Ministerio, mediante resolución expresa de corrección de datos."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 27, II, numeral 4, inciso a), asigna al Técnico SIE o Polivalente distrital la modificación y/o inclusión de datos propios del certificado de nacimiento por errores cometidos por el personal administrativo del CEA en el proceso de inscripción.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 27; página impresa: 11; página PDF: 17."
+  },
+  {
+   "id": "abb266b874be",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] Una institución verifica la autenticidad de una Libreta electrónica presentada por un egresado. ¿Qué elemento de seguridad la respalda?",
+   "options": [
+    "El holograma adherido por la Dirección Departamental de Educación.",
+    "El código QR que encripta RUE, RUDEAL, C.I. y fecha de nacimiento.",
+    "El número de serie impreso en la hoja valorada del Ministerio.",
+    "La firma manuscrita del maestro de cada área de saberes del CEA."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 10 dispone que las Libretas y Certificados electrónicos cuentan con un sistema de seguridad QR que encripta los códigos RUE, RUDEAL, Cédula de Identidad y fecha de nacimiento, y que permite certificar de forma exacta su autenticidad.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 10; páginas impresas: 2 y 3; páginas PDF: 8 y 9."
+  },
+  {
+   "id": "ab79c3f1d91b",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] El Técnico de Adultos de la Subdirección de Educación Alternativa y Especial pide un código para revisar los datos de un CEA. ¿Qué tipo de código le corresponde según el Art. 15?",
+   "options": [
+    "Un código de consulta, que permite acceder a información específica de la base de datos.",
+    "Un código de registro y actualización, que le permite corregir directamente las notas.",
+    "Un código de administración, que le permite asignar y dar de baja códigos de maestros.",
+    "Ninguno, porque el Reglamento solo asigna códigos a maestros, directores y estudiantes."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 15, II, numeral 1, dispone que el código de consulta se asigna a los estudiantes/participantes y al Técnico de Adultos de la Subdirección de Educación Alternativa y Especial; el de registro y actualización, a maestros, directores de CEA y técnicos SIE distritales y departamentales.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 15; página impresa: 4; página PDF: 10."
+  },
+  {
+   "id": "191f2adb5ef0",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Como Director de CEA, ¿qué decisión debe tomar antes de consolidar los Centralizadores para su impresión?",
+   "options": [
+    "Imprimirlos primero y validarlos al siguiente semestre, en la reunión de maestros.",
+    "Verificarlos y validarlos previamente, centralizándolos por semestre, nivel y área.",
+    "Enviarlos sin revisar, porque cada maestro ya firmó su Centralizador como declaración.",
+    "Encargar su validación a la junta de participantes para evitar conflictos de interés."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 28, numeral 6, dispone que el Director centralice los Centralizadores por semestre, niveles y áreas previa verificación y validación para su impresión; el numeral 5 le asigna revisar la documentación del registro y remitir informe a la Distrital.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18."
+  },
+  {
+   "id": "842b925d03bb",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un maestro informa al Director que perdió la confidencialidad de su código. ¿Qué decisión es coherente con el Reglamento?",
+   "options": [
+    "Entregar al maestro el código del Director para continuar el registro.",
+    "Dar de baja el código comprometido y asignar uno nuevo al maestro.",
+    "Mantener el código y pedir al maestro que no lo vuelva a compartir.",
+    "Suspender el registro de notas de todo el CEA hasta fin de gestión."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 28, numeral 1, faculta al Director a asignar o dar de baja los códigos, siendo el único responsable; el Art. 29, numeral 1, exige al maestro custodiar su código velando por su confidencialidad, y el Art. 33 prohíbe el acceso de personas ajenas.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulos V y VI, Arts. 28, 29 y 33; páginas impresas: 12, 13 y 15; páginas PDF: 18, 19 y 21."
+  },
+  {
+   "id": "b633c40e3b6b",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Como Director, recibe una solicitud de modificación de notas con el formulario incompleto. ¿Qué decisión corresponde?",
+   "options": [
+    "Remitirla tal como está a la Distrital, que es la instancia que debe revisar los requisitos.",
+    "Rechazarla definitivamente, sin posibilidad de que el estudiante la vuelva a presentar.",
+    "Revisar minuciosamente y no remitirla hasta que la documentación esté completa y validada.",
+    "Completar el formulario con los datos que considere correctos y firmarlo como maestro."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 22, numeral 1, dispone que el Director y el personal administrativo revisen minuciosamente la documentación y remitan a la Distrital el informe y la documentación validada; el Art. 28, numeral 9, le asigna revisar, verificar, sellar y firmar dicha documentación.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulos IV y V, Arts. 22 y 28; páginas impresas: 7 y 12; páginas PDF: 13 y 18."
+  },
+  {
+   "id": "cf7484f1fb9f",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un Director Distrital detecta que varios CEA reportan tarde la información semestral. ¿Qué decisión prevé el Reglamento?",
+   "options": [
+    "Realizar monitoreo y seguimiento constante y organizar reuniones y talleres periódicos.",
+    "Asumir él mismo el registro de calificaciones de todos los CEA del distrito.",
+    "Solicitar al Ministerio la suspensión del uso del SIE en los CEA atrasados.",
+    "Sancionar directamente a los Directores de CEA con descuentos de sus haberes mensuales."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 27, I, numerales 1 y 7, asigna al Director Distrital organizar reuniones y talleres periódicos con Directores y personal de los CEA para el seguimiento del reporte al SIE, y realizar monitoreo y seguimiento constante para el reporte oportuno cada semestre.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 27; páginas impresas: 10 y 11; páginas PDF: 16 y 17."
+  },
+  {
+   "id": "68788380452d",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un Director de CEA concluye el trámite interno de una modificación de notas. ¿A qué instancia debe elevar el informe y la documentación?",
+   "options": [
+    "A la Unidad de Transparencia del Ministerio.",
+    "A la Dirección Distrital de Educación correspondiente.",
+    "A la Dirección General de Educación de Adultos.",
+    "Al Viceministerio de Educación Alternativa."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 28, numeral 11, dispone que el Director eleve informe y remita la documentación del proceso de modificación y/o inclusión de notas a la Dirección Distrital de Educación correspondiente; en igual sentido, el Art. 22, numeral 1, inciso c).",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18."
+  },
+  {
+   "id": "0e5b3eb5deae",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un Director Departamental quiere asegurar el archivo de los Centralizadores semestrales en su DDE. ¿Qué decisión debe instruir a la Subdirección?",
+   "options": [
+    "Verificar que estén foliados, rotulados, empastados y archivados en el área de legalizaciones.",
+    "Remitirlos al Ministerio de Educación para su custodia centralizada a nivel nacional.",
+    "Devolverlos a los CEA para que cada Centro sea el único responsable de su custodia.",
+    "Digitalizarlos y destruir los originales impresos para liberar espacio en el archivo departamental."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 26, I, numeral 5, dispone que el Director Departamental, a través de la Subdirección de Educación Alternativa y Especial, verifique que los Centralizadores semestrales foliados, rotulados y empastados sean archivados y resguardados en el área de legalizaciones.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 26; página impresa: 10; página PDF: 16."
+  },
+  {
+   "id": "af82b91d230b",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] La DGEA advierte que datos de varios CEA no se procesan oportunamente. ¿Qué decisión le corresponde según el Art. 25?",
+   "options": [
+    "Sustituir a los técnicos SIE distritales en el registro de calificaciones de todos los CEA afectados.",
+    "Emitir Resoluciones Administrativas para modificar de oficio las notas de esos CEA.",
+    "Monitorear la consolidación en el SIE y coordinar con las Subdirecciones de Educación Alternativa.",
+    "Cerrar temporalmente los CEA que no reportan su información de manera oportuna."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 25 asigna a la DGEA el monitoreo y seguimiento constante a la consolidación y actualización de la información en el SIE para que los datos de los CEA se procesen correcta y oportunamente, y coordinar con las Subdirecciones de Educación Alternativa y Especial.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 25; página impresa: 9; página PDF: 15."
+  },
+  {
+   "id": "8eb3cd5365b6",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] El personal técnico de una Distrital no conoce bien la aplicación del SIE. ¿Quién debe capacitarlo según el Reglamento?",
+   "options": [
+    "La Directora o el Director del Centro de Educación Alternativa.",
+    "La junta de participantes de cada Centro del distrito educativo.",
+    "La Unidad de Transparencia de la Dirección Departamental.",
+    "La Técnica o el Técnico SIE – Ciencia y Tecnología Departamental."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 26, II, numeral 2, asigna al Técnico SIE – CyT Departamental capacitar al personal técnico de las Direcciones Distritales sobre el uso y manejo de la aplicación informática; el Art. 24, numeral 5, encarga a la DGP-SIE capacitar a los usuarios en general.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 24 y 26; páginas impresas: 9 y 10; páginas PDF: 15 y 16."
+  },
+  {
+   "id": "82dda2acf0e7",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Al terminar el semestre, un Director de CEA decide cuándo entregar las Libretas. ¿Qué decisión se ajusta al Reglamento?",
+   "options": [
+    "Imprimirlas, sellarlas, firmarlas y entregarlas a la finalización de cada semestre.",
+    "Entregarlas solo a los estudiantes que aprobaron todas las áreas de saberes del semestre.",
+    "Entregarlas cuando la Distrital confirme la recepción de los Centralizadores.",
+    "Entregarlas solo al final de la gestión, junto con el Historial Académico."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 28, numeral 7, dispone que el Director imprima, selle, firme y entregue la Libreta y/o Certificado electrónico a los estudiantes a la finalización de cada semestre; el Art. 11, numeral 2, exige hacerlo sin condición alguna.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulos II y V, Arts. 11 y 28; páginas impresas: 3 y 12; páginas PDF: 9 y 18."
+  },
+  {
+   "id": "7cfa080e772c",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Al cierre del semestre, ¿qué decisión debe tomar el Director Distrital respecto de los informes de registro, impresión y entrega de Libretas de los CEA?",
+   "options": [
+    "Devolverlos a los CEA para que los presenten nuevamente al inicio del semestre siguiente.",
+    "Revisar la documentación e informes e informar a la Dirección Departamental sobre los resultados.",
+    "Remitirlos directamente a la DGEA, sin informar a la Dirección Departamental de Educación.",
+    "Archivarlos sin revisión, porque la responsabilidad del proceso es exclusiva de cada Director de CEA."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 27, I, numeral 2, dispone que el Director Distrital revise la documentación e informes referentes al proceso de registro, impresión y entrega de la Libreta y/o Certificado de Calificación e informe a la Dirección Departamental de Educación sobre los resultados.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 27; página impresa: 11; página PDF: 17."
+  },
+  {
+   "id": "641f92daa552",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Desde una visión sistémica, ¿cómo fluyen los códigos de acceso desde su generación hasta los maestros de un CEA?",
+   "options": [
+    "DGP los genera y entrega a las Subdirecciones; la DDE los da a los Directores, y estos a los maestros.",
+    "Cada Distrital los genera y los entrega a los maestros sin ninguna intervención del Director del CEA.",
+    "El Director del CEA los genera en el SIE y los reporta luego a la Distrital para su registro.",
+    "La DGEA los genera y los entrega directamente a cada maestro registrado en el SIE del país."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 15, I, y el Art. 24, numeral 11, disponen que la DGP genera los códigos y los entrega a las Subdirecciones de Educación Alternativa y Especial; el Art. 26, I, numeral 6, que la DDE los entregue a los Directores de CEA; y el Art. 28, numeral 1, que el Director los asigne a maestros y estudiantes.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Arts. 15, 24, 26 y 28; páginas impresas: 4, 9, 10 y 12; páginas PDF: 10, 15, 16 y 18."
+  },
+  {
+   "id": "ab99e910da2b",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Al planificar la gestión de un CEA, ¿qué estrategia de calidad de datos se desprende del Art. 28?",
+   "options": [
+    "Evaluar la información del SIE con el personal antes y después del registro del Centralizador.",
+    "Registrar las calificaciones una sola vez al año para reducir errores de transcripción.",
+    "Delegar la calidad de los datos exclusivamente a los técnicos SIE de la Dirección Distrital.",
+    "Restringir el acceso de los estudiantes al SIE para evitar reclamos sobre sus notas."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 28, numeral 2, dispone que el Director organice reuniones con maestros y personal administrativo para evaluar la información registrada en el SIE antes y después del registro del Centralizador; el Art. 32 reconoce al estudiante el derecho a verificar sus calificaciones.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 28 y 32; páginas impresas: 12 y 14; páginas PDF: 18 y 20."
+  },
+  {
+   "id": "35f896fddcc7",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Qué responsabilidad de la DGP-SIE sustenta, a nivel estratégico, el seguimiento que realizan las DDE, Distritales y CEA?",
+   "options": [
+    "Diseñar las Libretas y Certificados de Calificaciones del área Humanística.",
+    "Implementar módulos de seguimiento y monitoreo para esas Direcciones y Centros.",
+    "Aprobar los presupuestos anuales de los Centros de Educación Alternativa.",
+    "Designar a los Directores Distritales y Departamentales de Educación Alternativa."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 24, numeral 6, asigna a la DGP-SIE implementar módulos de seguimiento y monitoreo para las Direcciones Departamentales, Distritales y CEA; el diseño de Libretas corresponde al Viceministerio de Educación Alternativa y Especial (Art. 8).",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 24; página impresa: 9; página PDF: 15."
+  },
+  {
+   "id": "648a3f60b880",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] En un plan departamental de mejora del registro, ¿qué reuniones debe organizar el Director Departamental a través de la Subdirección?",
+   "options": [
+    "Con Directores Distritales y técnicos SIE, para evaluar la información antes y después del registro.",
+    "Con la DGEA, para transferirle la responsabilidad de consolidar la información departamental.",
+    "Con la junta de participantes, para definir los plazos de entrega de las Libretas electrónicas.",
+    "Con los maestros de todos los CEA, para aprobar las calificaciones finales de cada semestre."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 26, I, numeral 1, dispone que el Director Departamental, a través de la Subdirección de Educación Alternativa y Especial, organice reuniones con Directores Distritales y personal técnico del SIE o Polivalente para evaluar la información del SIE previo y posterior al registro de calificaciones.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 26; páginas impresas: 9 y 10; páginas PDF: 15 y 16."
+  },
+  {
+   "id": "d89fed86ec33",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] Al asumir la dirección de un CEA, ¿qué instancias señala el Art. 3 como responsables directas de la aplicación, cumplimiento y difusión del Reglamento?",
+   "options": [
+    "Ministerio (VEAE y Direcciones Generales), DDE, Distritales y Direcciones de CEA.",
+    "Solo las Direcciones de CEA, con apoyo técnico de la Dirección General de Planificación.",
+    "Solo el Ministerio de Educación, a través del Viceministerio de Educación Alternativa.",
+    "Las juntas de participantes, los maestros y la Unidad de Transparencia de la DDE."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 3 dispone que el Ministerio de Educación a través del Viceministerio de Educación Alternativa y Especial, las Direcciones Generales correspondientes, las DDE, las Direcciones Distritales y las Direcciones de CEA son directos responsables de la aplicación, cumplimiento y difusión del Reglamento.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 3; página impresa: 1; página PDF: 7."
+  },
+  {
+   "id": "c5b68af75172",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] Para garantizar la integridad del Historial Académico de los participantes, ¿qué condición sistémica debe asegurar la gestión institucional?",
+   "options": [
+    "El resguardo de las Libretas originales en el CEA, sin entregarlas a los estudiantes.",
+    "La aprobación del Historial por la junta de participantes al final de cada gestión.",
+    "La emisión anual de Historiales impresos firmados por cada maestro de área del CEA.",
+    "El registro completo de calificaciones en el SIE, que consolida el Historial Académico."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 16, III, dispone que el registro de calificaciones permitirá contar con el Historial Académico consolidado en el SIE para el área Humanística y la Técnica; el Art. 6, II y III, lo define como reporte del SIE que registra las calificaciones acumuladas.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulos I y III, Arts. 6 y 16; páginas impresas: 2 y 5; páginas PDF: 8 y 11."
+  },
+  {
+   "id": "e35d7ff1dde5",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Ante una dificultad técnica del SIE durante el registro, ¿qué compromiso del nivel central permite al Director planificar con seguridad?",
+   "options": [
+    "La DDE debe ampliar automáticamente el plazo de registro en todos los CEA afectados.",
+    "El CEA puede registrar las notas en un sistema propio y migrarlas al SIE más tarde.",
+    "La Distrital debe asumir el registro de todas las notas mientras dure la dificultad.",
+    "La DGP-SIE debe asignar personal para resolver dificultades técnicas en tiempo real."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 24, numerales 4 y 7, asigna a la DGP-SIE asignar personal para resolver dificultades técnicas del sistema en tiempo real y mantener la disponibilidad del SIE en línea para el uso continuo de los usuarios.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 24; página impresa: 9; página PDF: 15."
+  },
+  {
+   "id": "9e993b781dca",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] Si la Libreta, el Certificado y el Historial Académico son \"reportes generados por el SIE\" (Art. 6, III), ¿qué conclusión estratégica debe asumir la dirección de un CEA?",
+   "options": [
+    "Que la calidad del registro en el SIE determina la calidad de los documentos que acreditan.",
+    "Que los documentos impresos prevalecen siempre sobre la información registrada en el SIE.",
+    "Que los errores del SIE no afectan la validez legal de los documentos que se entregan.",
+    "Que el registro en el SIE es optativo cuando el CEA emite sus propios documentos impresos y firmados."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 6, III, define las Libretas, Certificados e Historial como reportes generados por el SIE; el Art. 16, III, dispone que el registro de calificaciones permite contar con el Historial consolidado, y el Art. 19, III, prevé subsanar inconsistencias de la base de datos.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Arts. 6, 16 y 19; páginas impresas: 2, 5 y 6; páginas PDF: 8, 11 y 12."
+  },
+  {
+   "id": "64215bdc7652",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – RESOLUCIÓN MINISTERIAL] Según la parte considerativa de la R.M. 800/2015, ¿qué utilidad de largo plazo tienen los Centralizadores Semestrales, que justifica su gestión cuidadosa?",
+   "options": [
+    "Determinar la categoría docente y los ascensos de los maestros de cada Centro.",
+    "Seleccionar a los estudiantes que recibirán becas de la Gobernación departamental.",
+    "Calcular el presupuesto anual que el Ministerio asigna a cada Centro de Educación.",
+    "Verificar años de escolaridad y extender Historiales para educación superior o el exterior."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: La parte considerativa de la R.M. 800/2015 (Informe Técnico IN/VEAE/DGEA N.º 0243/2015) señala que los Centralizadores Semestrales incorporan información que sirve para verificar los años de escolaridad y extender Historiales Académicos para la incorporación a instituciones de educación superior o salidas al exterior.",
+   "legal": "R.M. 800/2015, Considerandos; página PDF: 5 (la Resolución no tiene numeración impresa)."
+  },
+  {
+   "id": "c8904274c14b",
+   "q": "[R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] Al diseñar el protocolo de un CEA para la custodia de códigos y la reserva de calificaciones, ¿qué principio del Art. 5 se fortalece principalmente?",
+   "options": [
+    "La confidencialidad.",
+    "La accesibilidad.",
+    "La disponibilidad.",
+    "La transparencia."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 5 enumera los principios de accesibilidad, disponibilidad, autenticidad, confidencialidad, transparencia, equidad, confiabilidad y consistencia técnica; los Arts. 29 y 32 vinculan la custodia del código con la confidencialidad, y el Art. 33 protege la privacidad de la base de datos.",
+   "legal": "R.M. 800/2015, Reglamento de Libretas Electrónicas, Arts. 5, 29, 32 y 33; páginas impresas: 1, 13, 14 y 15; páginas PDF: 7, 19, 20 y 21."
+  }
+ ],
+ "rm-0001-general": [
+  {
+   "id": "2d98a29bc833",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Cuántos días hábiles trabajados contempla el calendario educativo 2026 y cómo se organizan?",
+   "options": [
+    "Doscientos días hábiles, organizados en tres trimestres de 66, 68 y 66 días.",
+    "Doscientos días hábiles, organizados en tres trimestres de 68, 66 y 66 días.",
+    "Doscientos días hábiles, organizados en cuatro bimestres de cincuenta días.",
+    "Ciento ochenta días hábiles, organizados en dos semestres de noventa días."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 4, I, dispone que el calendario contempla doscientos (200) días hábiles trabajados, organizados en tres trimestres: primero 66 días (2 de febrero a 8 de mayo), segundo 68 días (11 de mayo a 31 de agosto, con 10 días de descanso pedagógico) y tercero 66 días (1 de septiembre al 2 de diciembre).",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 4; página impresa: 10; página PDF: 10."
+  },
+  {
+   "id": "fcb0fa335447",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] ¿Qué edad cumplida al 31 de marzo de 2026 se exige para inscribirse en el primer año de Educación Primaria Comunitaria Vocacional?",
+   "options": [
+    "Siete años cumplidos.",
+    "Cuatro años cumplidos.",
+    "Cinco años cumplidos.",
+    "Seis años cumplidos."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 15, III, fija las edades cronológicas al 31 de marzo de 2026: Inicial, primer año 4 años y segundo año 5 años; Primaria, primer año 6 años.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 15; página impresa: 16; página PDF: 16."
+  },
+  {
+   "id": "93cae6b6f7ed",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] ¿Cuál es el número mínimo de estudiantes para abrir un nuevo paralelo durante el periodo de inscripción?",
+   "options": [
+    "Veintiún estudiantes.",
+    "Veinticinco estudiantes.",
+    "Quince estudiantes.",
+    "Treinta estudiantes."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 21, I, dispone que la apertura de un nuevo paralelo será con un mínimo de veintiún (21) estudiantes, aprobada mediante informe del director con el visto bueno de la dirección distrital; el parágrafo II la flexibiliza ante estudiantes con discapacidad certificada.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 21; página impresa: 18; página PDF: 18."
+  },
+  {
+   "id": "94db99aaab0a",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Cuánto dura la hora pedagógica en las unidades educativas nocturnas de Primaria y Secundaria?",
+   "options": [
+    "Treinta minutos, en siete horas pedagógicas diarias.",
+    "Cuarenta y cinco minutos, en cinco horas pedagógicas.",
+    "Treinta y cinco minutos, en seis horas pedagógicas.",
+    "Cuarenta minutos, en seis horas pedagógicas diarias."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 7, c), dispone que las unidades nocturnas de Primaria y Secundaria cumplan seis (6) horas pedagógicas de treinta y cinco (35) minutos; en los turnos mañana y tarde son seis horas de 40 minutos y en Inicial cinco horas de 40 minutos.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 7; página impresa: 12; página PDF: 12."
+  },
+  {
+   "id": "7953b6e914ba",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO IV, CAPÍTULO I] ¿Hasta qué fecha deben remitir las unidades educativas privadas su contrato de servicios educativos 2026 a la Dirección Distrital?",
+   "options": [
+    "Hasta el 31 de marzo de 2026.",
+    "Hasta el 27 de febrero de 2026.",
+    "Hasta el 30 de enero de 2026.",
+    "Hasta el 15 de febrero de 2026."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 74, III, dispone que las unidades educativas privadas remitan el contrato de servicios educativos para la gestión 2026 a las direcciones distritales educativas hasta el 27 de febrero de 2026.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título IV, Capítulo I, Art. 74; página impresa: 35; página PDF: 35."
+  },
+  {
+   "id": "52702a87e4e0",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Qué instrumentos de planificación sustituyen y unifican la intencionalidad del Proyecto Socioproductivo (PSP) y del Plan de Convivencia Pacífica y Armónica (PCPA)?",
+   "options": [
+    "El Plan de Clase trimestral y el Cuaderno Pedagógico de cada maestro de aula.",
+    "El Plan Operativo Anual (POA) y el Plan de Desarrollo Curricular (PDC).",
+    "El Proyecto Educativo Institucional (PEI) y el Plan Anual Bimestralizado.",
+    "El Proyecto Educativo Comunitario y el Reglamento Interno de la unidad educativa."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 5, II, dispone que el POA y el PDC sustituyen y unifican la intencionalidad que antes cumplían el Proyecto Socioproductivo (PSP) y el Plan de Convivencia Pacífica y Armónica (PCPA), en el marco de la Ley 548, el D.S. 1302, el D.S. 1320 y normas conexas.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 5; página impresa: 11; página PDF: 11."
+  },
+  {
+   "id": "1bc42797070c",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Qué prioriza el Plan Operativo Anual (POA) según el Art. 5?",
+   "options": [
+    "El fortalecimiento de la escritura, la comprensión lectora y el pensamiento lógico-matemático.",
+    "La organización de actividades extracurriculares, cívicas y deportivas de toda la gestión educativa.",
+    "La programación mensual de contenidos y criterios de evaluación de cada maestro de área.",
+    "La ejecución de proyectos socioproductivos financiados por los gobiernos municipales."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 5, I, a), define el POA como instrumento anual que articula la gestión administrativa, pedagógica y sociocomunitaria, y que prioriza el fortalecimiento de la escritura, comprensión lectora y pensamiento lógico-matemático en todos los niveles; debe incluir acciones de contingencia de riesgos.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 5; página impresa: 11; página PDF: 11."
+  },
+  {
+   "id": "c30fa6c24040",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Cómo define el Art. 6 el Cuaderno Pedagógico?",
+   "options": [
+    "Instrumento optativo del maestro para registrar observaciones de conducta de los estudiantes del curso escolar.",
+    "Documento oficial de acreditación de los resultados de los estudiantes ante la Dirección Distrital.",
+    "Instrumento obligatorio y único del maestro para registrar avance, criterios, evaluaciones y resultados.",
+    "Instrumento del director para registrar el control de asistencia y puntualidad del personal docente."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 6 dispone que el Cuaderno Pedagógico es de uso obligatorio y el único instrumento del maestro donde se registra el avance de contenidos, criterios de evaluación, programación de evaluaciones y resultados, con cuadros de filiación, asistencia, evaluación, horario, centralizadores, autoevaluaciones y cuadro estadístico.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 6; página impresa: 12; página PDF: 12."
+  },
+  {
+   "id": "6dfbf0827480",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] ¿Quién es \"estudiante regular\" según el Art. 16?",
+   "options": [
+    "Aquel que asistió a clases durante toda la gestión anterior.",
+    "Aquel que aprobó todas las áreas del año de escolaridad previo.",
+    "Aquel que cuenta con código RUDE asignado en el SIE.",
+    "Aquel que está inscrito en la misma unidad desde Educación Inicial."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 16, I, define al estudiante regular como aquel que cuenta con código RUDE asignado en el SIE; su inscripción en la misma unidad es automática y debe ratificarse dentro de los 15 días de iniciado el desarrollo curricular (II).",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 16; página impresa: 16; página PDF: 16."
+  },
+  {
+   "id": "5c7303f972e1",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO I] ¿Cuál es el ámbito de aplicación de las Normas Generales 2026?",
+   "options": [
+    "La gestión administrativa de las direcciones departamentales y distritales, sin alcanzar a las privadas.",
+    "Todos los subsistemas del Sistema Educativo Plurinacional, incluida la Educación Superior de Formación.",
+    "Solo la gestión curricular de las unidades educativas fiscales de Educación Regular y de Alternativa.",
+    "Toda la gestión administrativa y curricular de Educación Regular en unidades fiscales, privadas y de convenio."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 2 dispone que la norma es de cumplimiento obligatorio en toda la gestión administrativa y curricular del Subsistema de Educación Regular en unidades educativas fiscales, privadas y de convenio; el Art. 1 la define como instrumento técnico, administrativo y de gestión.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo I, Arts. 1 y 2; página impresa: 9; página PDF: 9."
+  },
+  {
+   "id": "6f14fa5f7fed",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Quién es responsable de elaborar el Plan Operativo Anual (POA) de la unidad educativa?",
+   "options": [
+    "El director distrital de educación, en coordinación con la Subdirección Regular.",
+    "El director de la unidad educativa, en coordinación con la comunidad educativa.",
+    "La Comisión Técnico Pedagógica, en coordinación con los maestros de cada área.",
+    "La junta escolar de padres y madres, con el visto bueno de la Dirección Distrital."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 5, I, a), dispone que la elaboración del POA es responsabilidad del director de la unidad educativa, en coordinación con la comunidad educativa, asegurando la coherencia entre decisiones institucionales e intervenciones pedagógicas.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 5; página impresa: 11; página PDF: 11."
+  },
+  {
+   "id": "3291358b3d33",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] ¿Qué responsabilidad atribuye el Art. 12 al director respecto de la información del RUDE?",
+   "options": [
+    "Registrar solo a los estudiantes nuevos, ya que los regulares se actualizan de oficio en el sistema.",
+    "Reportar al SIE a todos sus estudiantes evitando duplicidades, y responder por la calidad de la información.",
+    "Delegar en los padres el registro de datos en el SIE, quedando exento de responsabilidad por errores de registro.",
+    "Remitir los formularios a la Distrital, que es la única responsable de la calidad de la información."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 12, VI y VIII, dispone que la información reportada se considera declaración jurada y oficial, que cada director es responsable de reportar al SIE a todos sus estudiantes evitando duplicidades del código RUDE, y que la calidad de la información recopilada es responsabilidad del director.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 12; página impresa: 14; página PDF: 14."
+  },
+  {
+   "id": "0641f020ffef",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] ¿Qué deben garantizar los directores en los procesos de preinscripción e inscripción, según los Arts. 13 y 14?",
+   "options": [
+    "La transparencia del proceso; los actos irregulares hacen pasibles de sanción a los infractores.",
+    "El cobro de un derecho de preinscripción destinado al mantenimiento de la infraestructura.",
+    "La selección de estudiantes según su rendimiento académico y la capacidad de pago de sus familias.",
+    "La prioridad de los hijos del personal docente y administrativo sobre los demás postulantes."
+   ],
+   "answer": 0,
+   "explanation": "Los Arts. 13, III, y 14, III, disponen que los directores son responsables de garantizar la transparencia de los procesos de preinscripción (alta demanda) e inscripción; en caso de actos irregulares, los infractores serán pasibles de sanción conforme a normativa vigente.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Arts. 13 y 14; páginas impresas: 14 y 15; páginas PDF: 14 y 15."
+  },
+  {
+   "id": "de724d8a2961",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Ante documentos presuntamente falsificados presentados por un padre de familia, ¿qué deber tienen el director y el personal administrativo?",
+   "options": [
+    "Retener los documentos y comunicar el hecho al Ministerio de Educación al finalizar la gestión.",
+    "Inscribir al estudiante de forma provisional y remitir el caso a la junta escolar para su análisis.",
+    "Verificarlos y, previa indagación, denunciar ante la instancia competente, bajo pena de proceso disciplinario.",
+    "Devolverlos al padre de familia y solicitarle nuevos documentos, sin otra consecuencia para nadie."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 39 dispone que los directores y el personal administrativo verifiquen los documentos presentados; en caso de identificar documentos presuntamente falsificados, previa indagación, deben denunciar ante la instancia competente; de no hacerlo, serán sometidos a proceso disciplinario.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 39; página impresa: 24; página PDF: 24."
+  },
+  {
+   "id": "98cecf4918aa",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO I] ¿Cómo deben centralizarse las horas de los maestros que trabajan en más de una unidad educativa?",
+   "options": [
+    "En la unidad más antigua del distrito, por sorteo entre los directores de las unidades involucradas.",
+    "En la Dirección Distrital, que asigna libremente las horas sin consultar a los directores.",
+    "En la unidad con más horas, por decisión del propio maestro y con aviso a la junta escolar del lugar respectivo.",
+    "En una de las unidades, por el director, con pertinencia académica y en coordinación con el distrital."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 54 dispone que las horas de los maestros que trabajan en más de una unidad sean centralizadas en una de ellas por el director de la unidad educativa, con pertinencia académica y en coordinación con el director distrital; el ente sindical puede velar por la transparencia del proceso.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo I, Art. 54; página impresa: 28; página PDF: 28."
+  },
+  {
+   "id": "387e69642f1c",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO II] ¿Qué responsabilidad tiene el director sobre el equipamiento de la unidad educativa?",
+   "options": [
+    "Promover y controlar su uso adecuado y obligatorio en el proceso educativo, debidamente inventariado.",
+    "Resguardarlo bajo llave para evitar su deterioro, utilizándolo solo en actos y eventos oficiales de la unidad.",
+    "Cobrar al personal docente la depreciación anual del equipamiento asignado a su aula.",
+    "Transferirlo a la junta escolar, que asume la responsabilidad de su custodia e inventario."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 57, I y II, dispone que el director promueva y controle el uso adecuado del equipamiento, que debe utilizarse obligatoriamente en el proceso educativo y estar inventariado; el desgaste o depreciación en ningún caso se cobrará al personal docente o a los estudiantes.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo II, Art. 57; página impresa: 29; página PDF: 29."
+  },
+  {
+   "id": "17a44a464f75",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO III] ¿En función de qué deben desarrollar los directores la evaluación institucional según el Art. 61?",
+   "options": [
+    "En función de los resultados de las olimpiadas científicas del distrito.",
+    "En función de las metas de matrícula fijadas por la Dirección Departamental.",
+    "En función de los acuerdos de la junta escolar sobre aportes y festejos.",
+    "En función de la planificación institucional que contempla el POA y el PDC."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 61, I, dispone que los directores de unidades fiscales, privadas y de convenio desarrollen la evaluación institucional en función de la planificación institucional que contempla el POA y PDC; sus conclusiones se consideran para la planificación de la gestión siguiente (II).",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo III, Art. 61; página impresa: 30; página PDF: 30."
+  },
+  {
+   "id": "8544b6665f21",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Si en la unidad existe servicio de transporte escolar, ¿qué debe exigir el director al conductor, entre otros requisitos?",
+   "options": [
+    "Contrato notariado con la unidad y póliza de seguro privado contratada por los padres.",
+    "Certificado de antecedentes policiales y aval firmado por la junta escolar de padres y madres.",
+    "Certificados REJAP y CENVI actualizados y licencia de conducir según la normativa de tránsito.",
+    "Título de bachiller y certificado médico emitido por el centro de salud más cercano."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 73 exige: certificación de la Unidad Operativa de Tránsito, autorización del GAM, SOAT vigente, certificados REJAP y CENVI actualizados del conductor, distintivo de \"transporte escolar\" y licencia de conducir conforme a la normativa de tránsito.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 73; páginas impresas: 34 y 35; páginas PDF: 34 y 35."
+  },
+  {
+   "id": "6b8069a94a38",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] ¿Qué responsabilidad tiene el director respecto de los quioscos de expendio de alimentos?",
+   "options": [
+    "Administrar directamente el quiosco y destinar sus ganancias a la compra de material escolar del curso.",
+    "Adjudicar el quiosco a la junta escolar, que fija libremente los productos a la venta.",
+    "Autorizar la venta de productos importados siempre que tengan un precio accesible.",
+    "Supervisar su calidad y buen funcionamiento y coordinar controles de calidad de los alimentos."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 69, IV y V, dispone que el director coordine con las instancias competentes controles de calidad a los alimentos y supervise la calidad y buen funcionamiento de los quioscos; el parágrafo I señala que solo los porteros pueden expender alimentación, y el III prohíbe productos importados sin registro sanitario.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 69; página impresa: 33; página PDF: 33."
+  },
+  {
+   "id": "28d49d07b32c",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Un estudiante representará al país en un evento coordinado con el Ministerio. ¿Qué debe otorgarle el director?",
+   "options": [
+    "Un permiso sin goce de calificación, debiendo recuperar el trimestre en vacaciones.",
+    "La licencia respectiva para que los maestros reprogramen trabajos y evaluaciones.",
+    "Una exención de las evaluaciones del trimestre con la nota máxima en todas las áreas.",
+    "Una autorización condicionada a la aprobación previa de la junta escolar de padres."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 42 dispone que los estudiantes que realicen representaciones municipales, distritales, departamentales, nacionales o internacionales en actividades convocadas o coordinadas con el Ministerio reciban del director la licencia respectiva para que los maestros reprogramen la entrega de trabajos y evaluaciones.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 42; página impresa: 25; página PDF: 25."
+  },
+  {
+   "id": "5aaf8cb74ee2",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] El Art. 14 fija la inscripción de estudiantes que cambian de unidad \"el 21 y 23 de enero de 2026\". ¿Qué explica la omisión del 22 de enero?",
+   "options": [
+    "Que el 22 de enero está reservado a la inscripción de estudiantes extranjeros.",
+    "Que el 22 de enero corresponde al sorteo de unidades de alta demanda.",
+    "Que el 22 de enero es feriado nacional por el Día del Estado Plurinacional.",
+    "Que el 22 de enero se destina a la planificación del distrito educativo."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 11 reconoce como feriado nacional el Día del Estado Plurinacional, jueves 22 de enero de 2026; el Art. 14, II, fija la inscripción de estudiantes que cambian de unidad el 21 y el 23 de enero, dentro del periodo de inscripción del 19 al 23 de enero (Art. 3).",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Arts. 3, 11 y 14; páginas impresas: 9, 13 y 15; páginas PDF: 9, 13 y 15."
+  },
+  {
+   "id": "7ec0b24891f4",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] ¿Qué efecto tiene la falta del carnet de vacunas en la inscripción de un estudiante nuevo?",
+   "options": [
+    "Permite una inscripción provisional que se anula si el carnet no se presenta en el primer trimestre.",
+    "No tiene ninguna consecuencia, porque el carnet de vacunas no es requisito para la inscripción.",
+    "Impide la inscripción hasta que los padres presenten el carnet con el esquema de vacunación completo y vigente.",
+    "No impide la inscripción, pero el director debe gestionar el esquema completo antes del fin de gestión."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 15, I, numeral 3, dispone que la ausencia del certificado o carnet de vacunas no impide la inscripción; sin embargo, el director, en coordinación con los padres, obligatoriamente debe gestionar que los estudiantes tengan el esquema completo antes de culminar la gestión.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 15; página impresa: 15; página PDF: 15."
+  },
+  {
+   "id": "ecd72ac461f8",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Pueden computarse los aniversarios de la unidad educativa como días trabajados del calendario?",
+   "options": [
+    "No; no se computan dentro de los 200 días hábiles y la asistencia no es obligatoria.",
+    "Sí; se computan si la Dirección Distrital los autoriza mediante instructivo.",
+    "Sí; se computan como días trabajados si se realizan actividades culturales.",
+    "No; pero la asistencia de estudiantes y maestros a esos actos es obligatoria para todos."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 11, II, dispone que los días de fiestas patronales, feriados municipales, regionales, provinciales, aniversarios de instituciones o de unidades educativas y otros no se computan como días trabajados dentro de los 200 días hábiles, y que la participación en esos actos no es obligatoria.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 11; página impresa: 13; página PDF: 13."
+  },
+  {
+   "id": "f1f96ceae833",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Qué instancias definen la programación del descanso pedagógico de 10 días hábiles?",
+   "options": [
+    "Cada director de unidad educativa, según las condiciones climáticas y sanitarias de su comunidad local.",
+    "El Ministerio de Educación, con una fecha única para todo el territorio nacional.",
+    "Las direcciones distritales, en coordinación con las departamentales y las autoridades de salud.",
+    "Las juntas escolares de cada distrito, en coordinación con los gobiernos municipales."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 9, III, dispone que la programación del descanso pedagógico sea definida por las direcciones distritales educativas, en coordinación con las direcciones departamentales y las autoridades de salud; las departamentales centralizan la programación (IV) y gestionan un comité de vigilancia epidemiológica (II).",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 9; páginas impresas: 12 y 13; páginas PDF: 12 y 13."
+  },
+  {
+   "id": "c1515220f209",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] ¿Hasta cuándo puede realizarse la fusión o el desglose de niveles en una unidad educativa?",
+   "options": [
+    "Hasta el final del periodo ordinario de inscripción, el 23 de enero de 2026.",
+    "En cualquier momento, con autorización de la Dirección Distrital.",
+    "Hasta antes de la emisión de la libreta electrónica del primer trimestre.",
+    "Hasta la conclusión del segundo trimestre de la gestión educativa."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 22 prohíbe a las unidades fiscales, privadas y de convenio realizar fusiones o desgloses de niveles posterior a la emisión de la libreta electrónica del primer trimestre.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 22; página impresa: 19; página PDF: 19."
+  },
+  {
+   "id": "ad2fe4fb2ddb",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] En el área urbana, ¿cuál es el máximo de estudiantes por paralelo en Primaria y en Secundaria?",
+   "options": [
+    "Treinta en Primaria y treinta y cinco en Secundaria.",
+    "Treinta en Primaria y cuarenta en Secundaria.",
+    "Treinta y cinco en Primaria y treinta en Secundaria.",
+    "Veinticinco en Primaria y treinta en Secundaria."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 23 fija como máximos por paralelo y año de escolaridad en el área urbana: Inicial 25, Primaria 30 y Secundaria 35 estudiantes; en unidades nocturnas, el mínimo es de 10 si existe un solo paralelo.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 23; página impresa: 19; página PDF: 19."
+  },
+  {
+   "id": "dd34d6fcefc3",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO IV] ¿Qué niveles pueden realizar actos de promoción en la gestión 2026?",
+   "options": [
+    "Todos los niveles, siempre que no impliquen gastos para los padres.",
+    "Únicamente el sexto año de Educación Secundaria Comunitaria Productiva.",
+    "Inicial, sexto de Primaria y sexto de Secundaria, con autorización distrital.",
+    "Solo el segundo año de Inicial y el sexto año de Primaria Vocacional."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 28 prohíbe los actos de promoción en Educación Inicial y Primaria, y únicamente autoriza actos de promoción del sexto año de escolaridad de Educación Secundaria Comunitaria Productiva.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo IV, Art. 28; página impresa: 20; página PDF: 20."
+  },
+  {
+   "id": "9e132bcb6ba5",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] ¿Hasta cuándo pueden trasladarse los estudiantes regulares (no vulnerables) y en qué plazo debe concluir el trámite?",
+   "options": [
+    "Hasta el fin del primer mes de clases, con un trámite que no exceda diez días hábiles como máximo.",
+    "Durante toda la gestión, con un trámite que no exceda quince días calendario.",
+    "Hasta el descanso pedagógico, con un trámite que no exceda tres días hábiles.",
+    "Hasta el inicio del segundo trimestre, con un trámite que no exceda cinco días hábiles."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 41, I, dispone que los traslados de estudiantes regulares (no vulnerables) se realicen hasta el inicio del segundo trimestre de la gestión 2026, y que el trámite de traslado y registro en el SIE no exceda los cinco (5) días hábiles.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 41; página impresa: 24; página PDF: 24."
+  },
+  {
+   "id": "930029471c5e",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VI] ¿Qué régimen establece el Art. 43 sobre el uso del uniforme escolar?",
+   "options": [
+    "No es obligatorio ni impide el ingreso; su adopción requiere el consenso de la comunidad.",
+    "No es obligatorio, pero la junta escolar puede exigir un proveedor exclusivo.",
+    "Es obligatorio en las unidades privadas y optativo en las unidades fiscales y de convenio.",
+    "Es obligatorio, pero se admite un plazo de gracia hasta el segundo trimestre."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 43 dispone que el uso del uniforme no es obligatorio ni impide el ingreso a clases; las unidades que opten por él deben hacerlo con el consenso de la comunidad educativa; está prohibido exigir la compra en un lugar determinado o exclusivo, y se respeta la vestimenta de los pueblos indígenas y afrobolivianos.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VI, Art. 43; página impresa: 25; página PDF: 25."
+  },
+  {
+   "id": "6b6a551e8276",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] ¿Qué límite establece el Art. 70 a la participación de las juntas escolares?",
+   "options": [
+    "Solo pueden participar si los padres aportan una cuota anual para su funcionamiento.",
+    "Se les prohíbe intervenir en asuntos técnico-pedagógicos, que son competencia del director.",
+    "Solo pueden participar en la evaluación de los maestros de la unidad educativa.",
+    "Se les prohíbe coordinar cualquier actividad con la unidad educativa durante toda la gestión educativa."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 70, IV, prohíbe la participación de las Juntas Escolares o Consejos Educativos Social Comunitarios en asuntos técnico-pedagógicos, ya que la gestión de la unidad es competencia exclusiva del director; el parágrafo III les prohíbe pedir aportes para festejos y gastos innecesarios.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 70; página impresa: 33; página PDF: 33."
+  },
+  {
+   "id": "7082a1568b15",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Distinga el mínimo de estudiantes para funcionar según el contexto de la unidad educativa:",
+   "options": [
+    "Rural: 21 por año o aula multigrado; Modular Multigrado en difícil acceso: 10; dispersa: 8.",
+    "Rural: 8 por año o aula multigrado; Modular Multigrado en difícil acceso: 5; población dispersa: hasta 1.",
+    "Rural: 10 por año o aula multigrado; Modular Multigrado en difícil acceso: 8; población dispersa: hasta 5.",
+    "Rural: 5 por año o aula multigrado; Modular Multigrado en difícil acceso: 8; dispersa: hasta 3."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 24 dispone que en población dispersa, de difícil acceso o vulnerable las unidades pueden funcionar hasta con un estudiante, previo informe del director distrital; en contexto rural el mínimo es 8 por año o aula multigrado; y con atención Modular Multigrado en lugares de difícil acceso, 5.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 24; página impresa: 19; página PDF: 19."
+  },
+  {
+   "id": "d4e76514c4b8",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] Distinga el POA del PDC según el Art. 5:",
+   "options": [
+    "El POA es trimestral y distrital; el PDC es anual y lo aprueba la Dirección Departamental.",
+    "Ambos son institucionales y los aprueba la junta escolar al inicio de la gestión educativa.",
+    "El POA es institucional y lo elabora el director; el PDC es pedagógico y lo elaboran los maestros.",
+    "El POA es pedagógico y lo elaboran los maestros; el PDC es institucional y lo elabora el director."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 5, I, define el POA como instrumento anual que articula la gestión institucional, elaborado por el director con la comunidad, y el PDC como instrumento pedagógico-curricular con programación mensual y/o trimestral, elaborado por los maestros del año o área.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 5; página impresa: 11; página PDF: 11."
+  },
+  {
+   "id": "ebc89644259c",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Distinga el régimen de traslado de estudiantes regulares del de hijos de militares, policías, personal de salud y maestros:",
+   "options": [
+    "Regulares: hasta el inicio del segundo trimestre; hijos de esos servidores: durante toda la gestión.",
+    "Ambos grupos: hasta el descanso pedagógico, con autorización de la Dirección Distrital.",
+    "Regulares: durante toda la gestión; hijos de esos servidores: solo hasta el primer trimestre.",
+    "Regulares: hasta fin del primer mes; hijos de esos servidores: hasta el inicio del tercer trimestre."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 41, I, limita el traslado de estudiantes regulares (no vulnerables) hasta el inicio del segundo trimestre; el parágrafo II dispone que, para hijos de militares, policías, personal de salud y maestros, se dará curso al traslado durante toda la gestión.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 41; página impresa: 24; página PDF: 24."
+  },
+  {
+   "id": "f9d576a62d58",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Distinga las edades de inscripción en primer año de Inicial para 2026 y la dispuesta a partir de 2027:",
+   "options": [
+    "2026: tres años al 31 de marzo de 2026; desde 2027: cuatro años al 30 de junio de 2027.",
+    "2026: cinco años al 31 de marzo de 2026; desde 2027: cuatro años al 31 de marzo de 2027.",
+    "2026: cuatro años al 31 de diciembre de 2025; desde 2027: cinco años cumplidos al 31 de marzo de 2027.",
+    "2026: cuatro años al 31 de marzo de 2026; desde 2027: cuatro años al 31 de diciembre de 2026."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 15, III, fija para 2026 cuatro años cumplidos al 31 de marzo de 2026 para el primer año de Inicial; el Art. 26, II, dispone que a partir de la gestión 2027 la edad será de cuatro años cumplidos al 31 de diciembre de 2026.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Arts. 15 y 26; páginas impresas: 16 y 20; páginas PDF: 16 y 20."
+  },
+  {
+   "id": "c3bf1e2585b9",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Distinga el tratamiento de faltas y de delitos según el Art. 66:",
+   "options": [
+    "Las faltas del reglamento interno se procesan en la unidad; los delitos se remiten a la autoridad competente.",
+    "Las faltas y los delitos se procesan internamente por la junta escolar con apoyo de la Dirección.",
+    "Ni las faltas ni los delitos se procesan en la unidad; todos se remiten a la Dirección Distrital.",
+    "Las faltas se remiten a la Fiscalía; los delitos se procesan en el reglamento interno de la unidad."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 66 dispone que los actos considerados faltas contemplados en el reglamento interno de cada unidad tendrán su procesamiento y sanción (I), y que las personas con conductas tipificadas como delitos civiles y penales deberán ser remitidas ante la autoridad competente (II).",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 66; página impresa: 32; página PDF: 32."
+  },
+  {
+   "id": "2ceb71d659f7",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO IV] La tabla del Art. 29 asigna Ser 10, Saber 45, Hacer 40 y autoevaluación 5 (total 100), mientras el parágrafo III remite al Reglamento de Evaluación. Desde un análisis crítico, ¿qué se advierte en la tabla?",
+   "options": [
+    "Excluye la autoevaluación del estudiante, que queda a criterio de cada maestro de aula.",
+    "Suma más de 100 puntos, por lo que debe recalcularse proporcionalmente en cada área.",
+    "Asigna a Hacer un puntaje mayor que a Saber, contrariando la práctica de la gestión educativa anterior.",
+    "No asigna puntaje propio a la dimensión Decidir, pese a que la evaluación se rige por dimensiones."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 29, II, contiene una tabla de \"Evaluación del maestro – Dimensiones\" con Ser 10, Saber 45 y Hacer 40, más autoevaluación 5 (total 100), sin columna para Decidir; el parágrafo III dispone que la evaluación se realice en el marco del Reglamento de Evaluación del Desarrollo Curricular, por lo que el directivo debe armonizar ambas fuentes.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo IV, Art. 29; página impresa: 20; página PDF: 20."
+  },
+  {
+   "id": "8e1b60056d1b",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Qué lectura crítica justifica que el POA y el PDC sustituyan al PSP y al PCPA?",
+   "options": [
+    "Suprime la planificación curricular del maestro, que pasa a ser responsabilidad exclusiva del director.",
+    "Unifica la planificación en menos instrumentos, sin perder la convivencia ni la protección integral.",
+    "Elimina la convivencia pacífica como objetivo de la gestión educativa de las unidades.",
+    "Traslada la planificación institucional a las direcciones distritales del Subsistema."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 5, II, dispone que el POA y el PDC sustituyen y unifican la intencionalidad del PSP y del PCPA, en el marco de la Ley 548, el D.S. 1302 y el D.S. 1320 (normas de protección), y el Art. 62 ordena desburocratizar evitando informes innecesarios.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Arts. 5 y 62; páginas impresas: 11 y 31; páginas PDF: 11 y 31."
+  },
+  {
+   "id": "3e93197779ac",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – DISPOSICIONES FINALES] La Disposición Final Séptima dispone que el POA y su cronograma serán instrumentos imprescindibles para evaluar la gestión del director. ¿Qué consecuencia práctica tiene?",
+   "options": [
+    "El director queda liberado de cumplir el calendario oficial si su POA establece otras fechas.",
+    "El POA se convierte en referente de rendición de cuentas y límite a exigencias externas no planificadas.",
+    "Las direcciones distritales pueden añadir libremente actividades extracurriculares al POA.",
+    "La evaluación del director depende solo de la opinión de la junta escolar sobre su gestión."
+   ],
+   "answer": 1,
+   "explanation": "La Disposición Final Séptima prohíbe a las direcciones departamentales y distritales imponer actividades extracurriculares; solo debe exigirse el cumplimiento del POA y su cronograma, instrumentos imprescindibles para evaluar la gestión del director. El Art. 53 no autoriza actividades extracurriculares no contempladas en el POA.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Art. 53 y Disposición Final Séptima; páginas impresas: 28 y 37; páginas PDF: 28 y 37."
+  },
+  {
+   "id": "41972ae72ad1",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] El Art. 15 dispone que ninguna limitación documental impedirá la inscripción de estudiantes extranjeros, \"independientemente del estatus migratorio\". ¿Qué principio prevalece?",
+   "options": [
+    "El acceso y ejercicio del derecho a la educación sobre las formalidades documentales.",
+    "La seguridad documental: sin pasaporte vigente no procede ninguna inscripción.",
+    "El control migratorio del Estado sobre el derecho de acceso a la educación pública y gratuita.",
+    "La reciprocidad: solo se inscribe a extranjeros de países con convenio educativo."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 15, I, numeral 2, admite documentos del Estado boliviano o del país de origen y, en situación extrema, la Declaración Jurada de Buena Fe, señalando que en ningún caso se limitará el acceso y ejercicio del derecho a la educación, independientemente del estatus migratorio; el Art. 63, III, obliga a inscribir a migrantes y refugiados.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Arts. 15 y 63; páginas impresas: 15 y 31; páginas PDF: 15 y 31."
+  },
+  {
+   "id": "441e77528ec0",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] ¿Qué práctica busca erradicar el Art. 40 al prohibir los traslados obligatorios?",
+   "options": [
+    "Autorizar traslados de hijos de militares y policías fuera del periodo ordinario.",
+    "Condicionar la aprobación del año al traslado del estudiante por indisciplina o bajo rendimiento.",
+    "Registrar en el SIE los traslados de estudiantes en un plazo mayor a cinco días hábiles.",
+    "Permitir traslados de estudiantes vulnerables durante toda la gestión educativa vigente del distrito."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 40 prohíbe terminantemente condicionar u obligar a los estudiantes o a sus padres a trasladar al estudiante a otra unidad a cambio de la aprobación del año escolar, ya sea por razones de indisciplina o bajo rendimiento escolar.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 40; página impresa: 24; página PDF: 24."
+  },
+  {
+   "id": "ebc9588aa9fd",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VI] El Art. 44 obliga a implementar un \"ingreso seguro\" evitando retener a los estudiantes por llegar tarde. ¿Qué bien prioriza la norma?",
+   "options": [
+    "La disciplina institucional, permitiendo que el retraso se sancione con el cierre de puertas.",
+    "La autoridad de los padres, que deben recoger al estudiante si llega fuera del horario.",
+    "La seguridad y el derecho a la educación del estudiante sobre la sanción por impuntualidad.",
+    "La puntualidad del maestro, que no debe interrumpir la clase por el ingreso de estudiantes."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 44 dispone que, para garantizar el desarrollo académico y resguardar la seguridad de los estudiantes, la dirección implemente mecanismos que faciliten el ingreso seguro y oportuno, evitando retener a los estudiantes fuera o al interior de la unidad por llegar tarde.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VI, Art. 44; página impresa: 26; página PDF: 26."
+  },
+  {
+   "id": "981b441cc04c",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO IV, CAPÍTULO I] El Art. 76 congela las pensiones durante el periodo de inscripciones y remite a una comisión mixta en abril. ¿Qué lectura crítica corresponde?",
+   "options": [
+    "Prohíbe definitivamente cualquier incremento de pensiones durante toda la gestión 2026.",
+    "Protege a las familias en la inscripción, sin descartar un incremento posterior evaluado técnicamente.",
+    "Autoriza a cada unidad privada a fijar libremente su incremento desde el mes de abril.",
+    "Delega la fijación de pensiones a las juntas escolares de cada unidad educativa privada."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 76, I, congela las pensiones durante el periodo de inscripciones y dispone que en abril una comisión mixta (Ministerio de Educación, Ministerio de Economía y Finanzas Públicas y ANDECOP) analice la posibilidad del incremento, considerando la situación económica y la política salarial.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título IV, Capítulo I, Art. 76; página impresa: 35; página PDF: 35."
+  },
+  {
+   "id": "b099fe9a0ec9",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – DISPOSICIONES FINALES] La Disposición Final Quinta califica como Declaración Jurada la información generada por las direcciones. ¿Qué implica para un director de unidad educativa?",
+   "options": [
+    "Que responde por la veracidad de la información, con responsabilidades administrativas y legales.",
+    "Que la información solo tiene valor si la ratifica la junta escolar de la unidad.",
+    "Que puede corregir la información reportada sin consecuencias hasta fin de gestión.",
+    "Que la responsabilidad por la información recae solo en la Dirección Distrital."
+   ],
+   "answer": 0,
+   "explanation": "La Disposición Final Quinta dispone que la información generada por las direcciones departamentales, subdirecciones, distritales y de unidades educativas se constituye en Declaración Jurada, y que el incumplimiento deriva en responsabilidades según el Reglamento del Escalafón, el de Faltas y Sanciones, la Ley 1178 y la Ley 004.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Disposición Final Quinta; página impresa: 37; página PDF: 37."
+  },
+  {
+   "id": "03b5865531e8",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] El Art. 64 obliga a denunciar los actos de violencia, y su parágrafo II dispone que el Ministerio velará por el debido proceso y la presunción de inocencia. ¿Cómo se armonizan ambas reglas?",
+   "options": [
+    "La presunción de inocencia impide denunciar hasta contar con una sentencia ejecutoriada.",
+    "El director debe investigar y sancionar por sí mismo antes de realizar cualquier denuncia.",
+    "Se denuncia sin demora, pero el proceso posterior debe respetar las garantías del denunciado.",
+    "El deber de denunciar suspende las garantías del denunciado mientras dure la investigación del caso."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 64, I, obliga a los directores a aplicar el Protocolo y denunciar a las instancias correspondientes los actos de violencia detectados; el parágrafo II, y el Art. 65, I, garantizan el debido proceso y la presunción de inocencia del denunciado.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Arts. 64 y 65; páginas impresas: 31 y 32; páginas PDF: 31 y 32."
+  },
+  {
+   "id": "64b46aee9957",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] El Art. 45 prohíbe el uso de celulares en el aula a estudiantes y maestros, mientras el Art. 59 permite medios tecnológicos de apoyo curricular. ¿Cómo se armonizan?",
+   "options": [
+    "La prohibición del celular alcanza solo a los estudiantes, no a los maestros de aula.",
+    "El celular se permite en el aula siempre que el maestro lo autorice para fines personales.",
+    "Ambos artículos prohíben cualquier medio tecnológico dentro de la unidad educativa.",
+    "La tecnología se admite solo como apoyo al desarrollo curricular; el celular en el aula está prohibido."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 45 prohíbe terminantemente el uso de celulares en el aula por estudiantes y maestros; el Art. 59, III, dispone que el uso de medios tecnológicos en el aula será exclusivo de apoyo al desarrollo curricular.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Arts. 45 y 59; páginas impresas: 26 y 30; páginas PDF: 26 y 30."
+  },
+  {
+   "id": "a9b0b95875c6",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Una niña cumple seis años el 15 de abril de 2026. ¿Puede inscribirse en primer año de Primaria en la gestión 2026?",
+   "options": [
+    "No; debe tener seis años cumplidos al 31 de marzo de 2026.",
+    "Sí; basta con cumplir seis años durante la gestión 2026.",
+    "Sí; basta con cumplir seis años antes del 30 de junio de 2026.",
+    "No; la edad exigida para primero de Primaria es de siete años."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 15, III, exige para el primer año de Primaria seis años cumplidos al 31 de marzo de 2026; quien los cumple el 15 de abril no alcanza la edad a la fecha de corte.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 15; página impresa: 16; página PDF: 16."
+  },
+  {
+   "id": "59bf4cd132ee",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Un niño de siete años nunca cursó Inicial. ¿Dónde debe inscribírselo?",
+   "options": [
+    "En segundo año de Inicial, para completar ese nivel primero.",
+    "En un Centro de Educación Alternativa hasta nivelar su edad.",
+    "En primer año de Inicial, con autorización de la Distrital.",
+    "De manera excepcional y directa en primer año de Primaria."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 15, II, dispone que los estudiantes que por diferentes factores no cursaron Educación Inicial en Familia Comunitaria deberán ser inscritos de manera excepcional y directa al primer año de Educación Primaria Comunitaria Vocacional.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 15; página impresa: 16; página PDF: 16."
+  },
+  {
+   "id": "905c9832ed2f",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Un estudiante regular no ratifica su inscripción con presencia física de su madre en los primeros días de clase. ¿Hasta cuándo tiene plazo?",
+   "options": [
+    "Hasta 30 días hábiles desde el inicio de las clases.",
+    "Hasta 15 días de iniciado el desarrollo curricular.",
+    "Hasta el inicio del segundo trimestre de la gestión.",
+    "Hasta el final del periodo de inscripción de enero."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 16, II, dispone que la inscripción de estudiantes regulares en la misma unidad es automática, debiendo ratificarse con la presencia física del estudiante y del padre, madre o tutor hasta 15 días de iniciado el desarrollo curricular.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 16; página impresa: 16; página PDF: 16."
+  },
+  {
+   "id": "e89027f900d1",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Un estudiante llega del exterior sin documentos que acrediten su grado. ¿Cómo se determina su año de escolaridad?",
+   "options": [
+    "En primer año de Primaria, hasta que presente sus libretas debidamente apostilladas y legalizadas.",
+    "Según el último grado que declaren sus padres, sin necesidad de evaluación alguna.",
+    "Mediante examen de la Dirección Distrital, que asigna el año de forma definitiva.",
+    "Según su edad, con evaluación de la Comisión Técnico Pedagógica para un plan de nivelación."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 18, II, dispone que, en caso de no contar con documentos que acrediten el grado o nivel, la asignación será de acuerdo con su edad, debiendo la Comisión Técnico Pedagógica desarrollar la evaluación para elaborar un plan de nivelación según corresponda.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 18; página impresa: 17; página PDF: 17."
+  },
+  {
+   "id": "0a42aa33bcc7",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] En agosto llega una adolescente en situación de vulnerabilidad sin libreta. ¿Puede inscribírsela y qué plazo tiene para presentar sus calificaciones?",
+   "options": [
+    "Sí, pero debe presentar la libreta el mismo día de la inscripción o se anula su registro.",
+    "Sí, con un plazo de 90 días calendario para presentar su libreta legalizada por la Distrital.",
+    "No; las inscripciones excepcionales solo proceden hasta el inicio del segundo trimestre de la gestión educativa.",
+    "Sí; la inscripción es durante toda la gestión y tiene hasta 30 días hábiles para presentar la libreta."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 19, II, dispone que la inscripción de estudiantes vulnerables será durante toda la gestión; el IV, b), da flexibilidad en la presentación de la Libreta, sin exceder 30 días hábiles desde la inscripción provisional (en el tercer trimestre se sigue el conducto regular).",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 19; páginas impresas: 17 y 18; páginas PDF: 17 y 18."
+  },
+  {
+   "id": "b1b0e3c58ff5",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Una unidad urbana quiere abrir un cuarto paralelo de primero de Secundaria por exceso de demanda. ¿Qué corresponde?",
+   "options": [
+    "Es posible si se trata de una unidad educativa de alta demanda.",
+    "Es posible si la junta escolar financia el ítem del maestro adicional.",
+    "No es posible: se prohíbe crear más de tres paralelos por año de escolaridad.",
+    "Es posible con un mínimo de veintiún estudiantes y el visto bueno distrital."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 21, III, prohíbe la creación de más de tres (3) paralelos por año de escolaridad en las unidades educativas; el mínimo de 21 estudiantes (I) rige para abrir un nuevo paralelo dentro de ese límite.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 21; páginas impresas: 18 y 19; páginas PDF: 18 y 19."
+  },
+  {
+   "id": "7540307df05a",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Una unidad fiscal necesita abrir un nuevo paralelo. Además del mínimo de estudiantes, ¿qué exige el Art. 21?",
+   "options": [
+    "Informe de la Comisión Técnico Pedagógica y aval del sindicato de maestros.",
+    "Resolución ministerial y certificación de infraestructura del gobierno autónomo municipal.",
+    "SICH actualizado, informe técnico distrital y resolución administrativa de la DDE.",
+    "Aprobación de la junta escolar y compromiso del municipio de pagar al maestro."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 21, IV, dispone que para la apertura de paralelos en unidades fiscales y de convenio se debe contar con el Sistema de Información de Carga Horaria (SICH) actualizado, informe técnico de la dirección distrital que justifique la necesidad, y aprobación mediante resolución administrativa de la dirección departamental.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 21; página impresa: 19; página PDF: 19."
+  },
+  {
+   "id": "f6c42d8261a5",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Un padre inscribe a su hijo con discapacidad. ¿Qué plazo tiene para presentar la certificación de la discapacidad?",
+   "options": [
+    "Antes de la inscripción, como requisito previo para la matrícula del estudiante nuevo.",
+    "Hasta el final de la gestión, junto con la Libreta Escolar Electrónica del año.",
+    "Durante el segundo trimestre, con aval de la Comisión Técnico Pedagógica.",
+    "Durante el primer trimestre, debidamente certificada por la instancia competente."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 34, II, dispone que el padre, madre o tutor presente durante el primer trimestre la documentación certificada por la instancia competente que acredite la discapacidad; el Art. 20 prohíbe rechazar estudiantes por discapacidad.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 34; página impresa: 22; página PDF: 22."
+  },
+  {
+   "id": "55e8166684a4",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Un estudiante con discapacidad muy grave no puede asistir a la unidad. ¿Qué opción ofrece el programa \"Educación Sociocomunitaria en Casa\"?",
+   "options": [
+    "Que reciba clases virtuales grabadas, sin necesidad de inscripción en ninguna unidad educativa del sistema.",
+    "Que un maestro acuda a su domicilio, con inscripción simultánea en un CEE y en una unidad regular.",
+    "Que asista solo a las evaluaciones trimestrales en la unidad, con un acompañante autorizado.",
+    "Que los padres impartan la enseñanza y la unidad valide sus avances al cierre de la gestión."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 34, III, b), prevé el Programa \"Educación Sociocomunitaria en Casa\" (D.S. 2950), en el que un maestro acude al domicilio; el padre debe inscribir al estudiante en un centro de educación especial y simultáneamente en una unidad regular para la emisión de la Libreta, sin asistencia presencial.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 34; página impresa: 22; página PDF: 22."
+  },
+  {
+   "id": "ef8da92bc0ae",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Un maestro detecta características de talento extraordinario en un estudiante. ¿Cuál es el conducto previsto en el Art. 20?",
+   "options": [
+    "Remitir directamente al estudiante a un centro de educación especial sin informar al director.",
+    "Informar a la junta escolar, que solicita la evaluación al Gobierno Autónomo Municipal.",
+    "Promover al estudiante al año superior por decisión de la Comisión Técnico Pedagógica.",
+    "Informar al director, quien remite el informe a la Subdirección de Alternativa y Especial para derivación."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 20, II, dispone que el maestro informe al director, quien remite el informe a la Subdirección de Educación Alternativa y Especial para su derivación a un centro de educación especial o equipo multidisciplinario de la DDE, donde se realiza la evaluación psicopedagógica integral.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 20; página impresa: 18; página PDF: 18."
+  },
+  {
+   "id": "c0f901304bf6",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Una madre inscribe a su hijo con Trastorno del Espectro Autista. ¿Qué debe presentar durante el primer trimestre?",
+   "options": [
+    "Una declaración jurada de que el estudiante no requiere apoyo especializado.",
+    "Un informe profesional con recomendaciones para mejorar su atención educativa.",
+    "Un compromiso de inscribirlo en un centro de educación especial exclusivamente.",
+    "Un certificado de discapacidad emitido por la Dirección Distrital Educativa."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 37 dispone que todos los estudiantes con TEA sean inscritos sin restricción, pudiendo inscribirse simultáneamente en centros de educación especial, y que el padre, madre o tutor presente durante el primer trimestre un informe profesional con recomendaciones pertinentes para mejorar su atención.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 37; página impresa: 23; página PDF: 23."
+  },
+  {
+   "id": "be7b43722810",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VII] Un maestro organiza una excursión con su curso. ¿Qué autorizaciones requiere?",
+   "options": [
+    "Solo la autorización escrita de los padres, que asumen toda responsabilidad del viaje.",
+    "La de la junta escolar y la del gobierno municipal, que financia el transporte escolar.",
+    "Del director de la unidad y del director distrital, y la autorización escrita de los padres.",
+    "Solo la del director de la unidad, porque la excursión es una actividad interna del propio curso."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 46 dispone que las excursiones, viajes de servicio social o actividades deportivas deban tener la autorización del director de la unidad y del director distrital, contribuir a los logros de aprendizaje, y que el estudiante cuente con la autorización escrita del padre, madre o tutor.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VII, Art. 46; página impresa: 26; página PDF: 26."
+  },
+  {
+   "id": "7a42b2a14f08",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VII] Los estudiantes de sexto de Secundaria proponen un viaje de promoción a otro departamento. ¿Qué responde el director?",
+   "options": [
+    "Que procede si se programa en el descanso pedagógico de invierno.",
+    "Que procede si se presenta como viaje de intercambio en el POA.",
+    "Que procede con autorización distrital y permiso escrito de padres.",
+    "Que los viajes de promoción están terminantemente prohibidos."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 47 dispone que quedan terminantemente prohibidos los viajes de promoción; los viajes de intercambio cultural (Art. 48) requieren un plan de actividades programado en el POA y fines interculturales, por lo que no pueden usarse para encubrir un viaje de promoción.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VII, Arts. 47 y 48; página impresa: 26; página PDF: 26."
+  },
+  {
+   "id": "2255e365f176",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO IV, CAPÍTULO I] Una unidad privada quiere cobrar, además de las pensiones, un monto por \"material educativo\". ¿Qué dispone el Art. 76?",
+   "options": [
+    "Está prohibido cualquier cobro adicional a las diez pensiones anuales, incluido el material educativo.",
+    "Está permitido solo para estudiantes nuevos, como parte del derecho de inscripción anual.",
+    "Está permitido si el cobro se incluye en el contrato y se aprueba por la junta escolar de la unidad educativa.",
+    "Está permitido hasta un monto equivalente a una pensión mensual por cada gestión educativa."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 76, II, prohíbe terminantemente a las unidades privadas cualquier cobro adicional a las diez (10) pensiones anuales, sea por reserva de plaza, matrícula o derecho de inscripción, material educativo, gastos administrativos u otros, lo cual debe contemplarse en los contratos.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título IV, Capítulo I, Art. 76; página impresa: 35; página PDF: 35."
+  },
+  {
+   "id": "38ef7aff4f1a",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO IV, CAPÍTULO I] Una unidad privada debe definir su régimen de becas por excelencia. ¿Qué mínimo exige el Art. 78?",
+   "options": [
+    "Beca del 50% al mejor estudiante de cada curso de Primaria y de Secundaria de la unidad.",
+    "Beca del 100% al mejor estudiante de toda la unidad, elegido por la junta escolar.",
+    "Beca del 25% a los cinco mejores estudiantes de Secundaria, según el promedio del último trimestre.",
+    "Beca del 100% a los tres mejores estudiantes de Primaria y a los tres mejores de Secundaria."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 78, I, exige becas del 100% de la mensualidad a los tres (3) mejores estudiantes de Primaria y a los tres (3) mejores de Secundaria; el parágrafo II toma el promedio anual de la gestión anterior, y el III exige becas a partir del tercer hermano, previo estudio socioeconómico.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título IV, Capítulo I, Art. 78; página impresa: 36; página PDF: 36."
+  },
+  {
+   "id": "87cdb377844b",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO IV, CAPÍTULO I] Una unidad privada quiere contratar como docente a un ingeniero con título universitario. ¿Qué exige el Art. 79?",
+   "options": [
+    "Título universitario y aprobación de la junta escolar de la unidad.",
+    "Únicamente Título Profesional de Maestro otorgado por el Ministerio.",
+    "Título universitario o técnico superior y experiencia en el ámbito educativo.",
+    "Título universitario y un curso de pedagogía aprobado por la Dirección Distrital."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 79 dispone que para ser docente de una unidad privada se requiere Título Profesional de Maestro otorgado por el Ministerio, o título universitario y/o de Técnico Superior de otras profesiones y experiencia en el ámbito educativo.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título IV, Capítulo I, Art. 79; página impresa: 36; página PDF: 36."
+  },
+  {
+   "id": "9ae206e3b13a",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO IV, CAPÍTULO I] Una unidad privada impide a un estudiante rendir su evaluación trimestral porque sus padres adeudan tres pensiones. ¿Cómo se califica esta medida?",
+   "options": [
+    "Está permitida a partir de la tercera pensión impaga, con aviso previo a la Distrital.",
+    "Está permitida si el contrato de servicios lo prevé expresamente y fue firmado por los padres.",
+    "Está permitida solo en el tercer trimestre, para asegurar el cobro antes del cierre.",
+    "Está prohibida: no se puede excluir de evaluaciones por retraso en el pago de pensiones."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 77, I, prohíbe en unidades privadas suspender, expulsar y excluir a estudiantes de clases, evaluaciones o cualquier actividad curricular por retraso en el pago de pensiones; el Art. 76, III, dispone que los padres incumplidos regularicen el pago con la unidad.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título IV, Capítulo I, Arts. 76 y 77; páginas impresas: 35 y 36; páginas PDF: 35 y 36."
+  },
+  {
+   "id": "ff0dc8989e1e",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO IV, CAPÍTULO I] Al cierre de gestión, una unidad privada se niega a entregar la Libreta de un estudiante. ¿Qué puede hacer la Dirección Distrital?",
+   "options": [
+    "Previa verificación del incumplimiento, emitir la Libreta y proceder a la sanción que corresponda.",
+    "Remitir el caso al Ministerio, única instancia que puede emitir Libretas de unidades privadas.",
+    "Solo exhortar a la unidad privada, pues carece de competencia para emitir la Libreta del estudiante.",
+    "Ordenar a los padres pagar la deuda pendiente como condición para emitir la Libreta."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 77, II, dispone que, en caso de que la unidad privada no entregue la Libreta Escolar Electrónica, la dirección distrital educativa, previa verificación del incumplimiento, podrá emitir la misma y procederá a la sanción que corresponda.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título IV, Capítulo I, Art. 77; página impresa: 36; página PDF: 36."
+  },
+  {
+   "id": "31a66f661a73",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Una maestra conoce que un estudiante fue víctima de abuso sexual. ¿Ante qué instancias debe denunciar de forma inmediata?",
+   "options": [
+    "Ante el director, quien decide al cierre del trimestre si corresponde denunciar.",
+    "Ante la junta escolar y la Dirección Distrital, para que decidan si denunciar.",
+    "Ante la Comisión Técnico Pedagógica, para su valoración previa a la denuncia.",
+    "Ante la Defensoría de la Niñez y Adolescencia, la Fiscalía o la FELCC."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 65, I, dispone que quienes conozcan casos de violación, estupro, abuso deshonesto, acoso sexual y otros delitos sexuales contra estudiantes tienen la obligación de denunciar de forma inmediata ante la Defensoría de la Niñez y Adolescencia, la Fiscalía o la Fuerza Especial de Lucha Contra el Crimen, conforme al Protocolo.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 65; página impresa: 32; página PDF: 32."
+  },
+  {
+   "id": "b4c6457eb5f6",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Conocido un caso de abuso sexual contra un estudiante por parte de un maestro, ¿qué debe hacer la Dirección Distrital en el ámbito administrativo?",
+   "options": [
+    "Remitir el caso a la junta escolar para que proponga la sanción administrativa aplicable.",
+    "Iniciar el proceso sumarial a los responsables conforme al Reglamento de Faltas y Sanciones.",
+    "Trasladar al maestro a otra unidad educativa del distrito para evitar mayores conflictos.",
+    "Esperar la sentencia penal antes de iniciar cualquier actuación administrativa disciplinaria."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 65, III, dispone que la dirección distrital, una vez conocido el hecho, inicie el proceso sumarial a los responsables en el marco del Reglamento de Faltas y Sanciones del Magisterio; el parágrafo II asigna a las unidades jurídicas de las DDE representar a las distritales en el seguimiento de los procesos.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 65; página impresa: 32; página PDF: 32."
+  },
+  {
+   "id": "2c097e0304bf",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Una estudiante de quinto de Secundaria informa que está embarazada y un grupo de padres pide su retiro. ¿Qué debe hacer el director?",
+   "options": [
+    "Sugerir a la familia su traslado a otra unidad educativa para evitar conflictos con los padres.",
+    "Rechazar el pedido, brindarle apoyo para que continúe sus estudios y aplicar el reglamento específico.",
+    "Convocar a la junta escolar para que decida su permanencia mediante votación de padres.",
+    "Suspender su asistencia presencial y evaluarla a distancia hasta el nacimiento del bebé."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 67 prohíbe rechazar o expulsar a estudiantes embarazadas, debiendo brindarles apoyo para garantizar la continuidad y culminación de sus estudios, y obliga al director a socializar, cumplir y hacer cumplir el Reglamento de Prevención de Embarazos y Parentalidades Tempranas; el Art. 63, II, prohíbe rechazar a adolescentes embarazadas.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Arts. 63 y 67; páginas impresas: 31, 32 y 33; páginas PDF: 31, 32 y 33."
+  },
+  {
+   "id": "de508ae15c6a",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Un dirigente político pide al director que los estudiantes participen en una marcha de protesta. ¿Qué dispone la norma?",
+   "options": [
+    "Está prohibido obligar a los estudiantes a participar en movilizaciones, bajo sanción.",
+    "Es posible si se realiza fuera del horario de clases y con un maestro responsable del curso.",
+    "Es posible si la junta escolar aprueba la participación en asamblea de padres.",
+    "Es posible si la movilización defiende intereses del sector educativo nacional."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 71 prohíbe terminantemente que directores, maestros, padres y autoridades políticas obliguen a los estudiantes a participar en movilizaciones de protesta, reclamos o actos políticos; los infractores serán sancionados conforme al Reglamento de Faltas y Sanciones y otras normas.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 71; página impresa: 34; página PDF: 34."
+  },
+  {
+   "id": "fc0a5391f1f3",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] La junta escolar pide a los padres una cuota para el agasajo del Día del Maestro. ¿Qué corresponde según el Art. 70?",
+   "options": [
+    "Es válido si el director autoriza el aporte y supervisa su rendición de cuentas.",
+    "Es válido si la cuota es voluntaria y aprobada por la mayoría de los padres.",
+    "Es válido solo para festejos oficiales incluidos en el calendario del Ministerio de Educación.",
+    "Está prohibido solicitar aportes para festejos, agasajos u otros gastos innecesarios."
+   ],
+   "answer": 3,
+   "explanation": "El Art. 70, III, prohíbe a la Junta Escolar de Padres y Madres de Familia o Consejo Educativo Social Comunitario solicitar a los padres o tutores aportes para festejos, agasajos u otros gastos innecesarios.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 70; página impresa: 33; página PDF: 33."
+  },
+  {
+   "id": "856a1f1441d8",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Un padre se presenta en horario de clases para hablar con un maestro dentro del aula, sin previo aviso. ¿Qué dispone la norma?",
+   "options": [
+    "Se prohíbe su ingreso en todo momento, incluso fuera del horario de clases de la unidad.",
+    "Puede ingresar si es miembro de la junta escolar o del consejo educativo social comunitario.",
+    "Se prohíbe el ingreso en horas de clases, salvo autorización del director en situaciones justificadas.",
+    "Puede ingresar libremente, porque la participación de los padres está garantizada por ley."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 70, II, prohíbe el ingreso de padres, madres, tutores y personas ajenas a la unidad en hora de clases, salvo previa autorización del director y en situaciones plenamente justificadas.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 70; página impresa: 33; página PDF: 33."
+  },
+  {
+   "id": "4e2f6a0d9108",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Se denuncia que una unidad fiscal rechazó la inscripción de una niña porque su padre está privado de libertad. ¿Cómo se califica el hecho?",
+   "options": [
+    "Es válido si la unidad no tiene cupos disponibles en el año de escolaridad solicitado.",
+    "Es una conducta terminantemente prohibida por la norma de medidas no discriminatorias.",
+    "Es una falta leve que se subsana inscribiendo a la niña en el trimestre siguiente.",
+    "Es válido si la junta escolar lo decidió por razones de seguridad de la comunidad."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 63, II, prohíbe terminantemente rechazar la inscripción de niñas, niños o adolescentes de madres o padres solteros, divorciados o privados de libertad, o por cualquier otra condición social; el Art. 19 obliga a atender prioritariamente a estudiantes en desventaja social.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 63; página impresa: 31; página PDF: 31."
+  },
+  {
+   "id": "f6b6e2919fa7",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO II] Un estudiante rompió intencionalmente un pupitre. ¿Quién debe reponerlo según el Art. 56?",
+   "options": [
+    "El director, con recursos de la unidad educativa.",
+    "El padre, madre, tutor o el propio estudiante.",
+    "El maestro de aula, por falta de supervisión.",
+    "El Gobierno Municipal, como dotador del mobiliario."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 56, IV, dispone que, si el bien es dañado intencionalmente o por uso inadecuado, será responsabilidad del padre, madre, tutor o el propio estudiante reponer los bienes dañados; el director, maestros y personal deben garantizar su cuidado y conservación.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo II, Art. 56; página impresa: 29; página PDF: 29."
+  },
+  {
+   "id": "a5d01ac5ce6e",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO II] Una unidad comparte infraestructura con un Centro de Educación Alternativa y decide cerrar con llave los baños por la tarde. ¿Qué dispone el Art. 56?",
+   "options": [
+    "Está prohibido cerrar ambientes comunes; ambos asumen iguales derechos y responsabilidades.",
+    "Es válido si la unidad regular es la propietaria registrada de la infraestructura.",
+    "Es válido si el Centro no aporta al mantenimiento de los ambientes comunes.",
+    "Es válido si la Dirección Distrital autoriza el horario de cierre de baños."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 56, II, dispone que los actores de unidades que comparten ambientes y mobiliario con centros de educación alternativa y especial asumen los mismos derechos y responsabilidades de uso y cuidado, quedando prohibido el cierre de ambientes comunes como baños, patios y otros.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo II, Art. 56; página impresa: 29; página PDF: 29."
+  },
+  {
+   "id": "d414408ac003",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VI] Durante la clase, un maestro revisa constantemente su celular. ¿Qué disposición incumple?",
+   "options": [
+    "Ninguna, si el maestro usa el celular para comunicarse con la Dirección.",
+    "La norma de uso de laboratorios, que prohíbe dispositivos electrónicos.",
+    "La prohibición de usar celulares en el aula, que alcanza a estudiantes y maestros.",
+    "Ninguna, porque la prohibición de celulares alcanza solo a los estudiantes de la unidad."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 45 dispone que queda terminantemente prohibido el uso de celulares en el aula por parte de estudiantes y maestros.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VI, Art. 45; página impresa: 26; página PDF: 26."
+  },
+  {
+   "id": "0326554b2e16",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] En una unidad nocturna, un año de escolaridad con un solo paralelo tiene ocho estudiantes. ¿Cumple el mínimo del Art. 23?",
+   "options": [
+    "Sí; las unidades nocturnas no tienen un número mínimo de estudiantes por año.",
+    "No; el mínimo en unidades nocturnas es de diez estudiantes con un solo paralelo.",
+    "Sí; el mínimo en unidades nocturnas es de cinco estudiantes por año de escolaridad.",
+    "No; el mínimo en unidades nocturnas es de veintiún estudiantes por paralelo."
+   ],
+   "answer": 1,
+   "explanation": "El Art. 23, IV, dispone que en unidades nocturnas el número mínimo por año de escolaridad será de diez (10) estudiantes, siempre y cuando exista un solo paralelo.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 23; página impresa: 19; página PDF: 19."
+  },
+  {
+   "id": "a0599799aa1c",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Un estudiante extranjero llega sin ningún documento de identidad y su madre teme no poder inscribirlo. ¿Qué responde el director?",
+   "options": [
+    "Que la falta de documentos no impide la inscripción y, en casos extremos, se admite la Declaración Jurada de Buena Fe.",
+    "Que puede asistir como oyente, sin registro en el SIE, hasta que presente su documentación completa.",
+    "Que debe inscribirlo en un Centro de Educación Alternativa, porque Regular exige documento de identidad.",
+    "Que debe regularizar primero su situación migratoria ante la autoridad competente para inscribirlo."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 15, I, numeral 2, dispone que la no existencia de documentos de identidad no impedirá la inscripción; en casos de situación extrema se acepta la Declaración Jurada de Buena Fe adjunta al RUDE, y en ningún caso se limita el derecho a la educación por el estatus migratorio; el Art. 12, VII, prevé la firma de la declaración jurada por el padre.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Arts. 12 y 15; páginas impresas: 14 y 15; páginas PDF: 14 y 15."
+  },
+  {
+   "id": "1b9200e2b4bd",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Una estudiante vulnerable se retira en septiembre por migración de su familia. ¿Qué debe entregar la unidad?",
+   "options": [
+    "Nada, porque el retiro antes de culminar la gestión anula su registro en el SIE.",
+    "Únicamente la Libreta del último trimestre concluido, sin ningún informe adicional.",
+    "Un informe que acredite sus estudios hasta el último día, que acompaña a la Libreta del trimestre.",
+    "Un certificado de retiro que la inhabilita para inscribirse en la misma gestión."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 19, IV, e), dispone que, en caso de estudiante extranjero o en situación de vulnerabilidad que se retire durante o antes de culminar la gestión, la unidad entregue un informe que acredite sus estudios hasta el último día de permanencia, que acompañará a la Libreta Escolar Electrónica hasta el trimestre que corresponde.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 19; página impresa: 18; página PDF: 18."
+  },
+  {
+   "id": "21f677d90d82",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Una unidad fiscal ubicada en una avenida de alto tránsito no cuenta con resguardo policial en la salida de clases. ¿Qué debe hacer la dirección?",
+   "options": [
+    "Coordinar con la junta escolar y solicitar a la Policía personal de resguardo en ingreso y salida.",
+    "Solicitar a la Dirección Distrital el cambio de ubicación de la unidad educativa.",
+    "Contratar seguridad privada con aportes obligatorios de los padres de familia de la unidad.",
+    "Prolongar la jornada hasta que los padres recojan personalmente a todos los estudiantes."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 72, I, dispone que las direcciones de unidades ubicadas en zonas urbanas de alto tránsito o poca iluminación coordinen con las juntas escolares y consejos educativos para solicitar a la Policía Boliviana personal de resguardo en horarios de ingreso y salida, y con el GAM la instalación de señalización y otros.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 72; página impresa: 34; página PDF: 34."
+  },
+  {
+   "id": "4724592688e9",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Durante un acto cívico en la unidad, algunos asistentes consumen bebidas alcohólicas. ¿Quién es responsable de hacer cumplir la prohibición?",
+   "options": [
+    "El director distrital de educación.",
+    "El maestro que organizó el acto cívico.",
+    "El director de la unidad educativa.",
+    "El presidente de la junta escolar."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 56, III, prohíbe a la comunidad educativa el consumo de tabaco, bebidas alcohólicas y estupefacientes en instalaciones e inmediaciones de las unidades, en actos cívicos, académicos y otros, siendo el director de la unidad educativa el responsable de su cumplimiento.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo II, Art. 56; página impresa: 29; página PDF: 29."
+  },
+  {
+   "id": "599a0f9e5cbc",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Un director sugiere a una madre trasladar a su hijo a otra unidad \"para que apruebe el año\", por su mal comportamiento. ¿Qué disposición vulnera?",
+   "options": [
+    "La obligación de reportar a todos los estudiantes al SIE sin duplicidades.",
+    "La prohibición de usar celulares en el aula durante el desarrollo de las clases.",
+    "La prohibición de condicionar u obligar traslados a cambio de la aprobación del año escolar.",
+    "La prohibición de fusionar niveles después del primer trimestre de la gestión."
+   ],
+   "answer": 2,
+   "explanation": "El Art. 40 prohíbe terminantemente condicionar u obligar a estudiantes o padres a trasladar al estudiante a otra unidad a cambio de la aprobación del año escolar, ya sea por indisciplina o bajo rendimiento escolar.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 40; página impresa: 24; página PDF: 24."
+  },
+  {
+   "id": "422b9db93c21",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Una unidad fiscal no cuenta con cámaras de vigilancia. ¿Qué gestión obligatoria debe realizar su dirección?",
+   "options": [
+    "Gestionar ante el Gobierno Autónomo Municipal la instalación de cámaras de vigilancia.",
+    "Comprar las cámaras con aportes extraordinarios de los padres de familia de todos los cursos.",
+    "Esperar que la Dirección Departamental instale las cámaras en todas las unidades.",
+    "Solicitar a la Policía Boliviana la instalación y el monitoreo de las cámaras."
+   ],
+   "answer": 0,
+   "explanation": "El Art. 72, II, dispone que las direcciones de unidades fiscales y de convenio gestionen de manera obligatoria ante los Gobiernos Autónomos Municipales la instalación de cámaras de vigilancia, en cumplimiento de la Ley del Sistema Nacional de Seguridad Ciudadana.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 72; página impresa: 34; página PDF: 34."
+  },
+  {
+   "id": "6e30a47945d4",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] Una contingencia climática obliga a suspender clases dos semanas en un distrito. ¿Qué decisión corresponde respecto de la conclusión de la gestión?",
+   "options": [
+    "Se suprime el descanso pedagógico de invierno sin otra modificación.",
+    "Se reduce el calendario a ciento ochenta días hábiles en ese distrito.",
+    "Se modifica la fecha de conclusión hasta cumplir los doscientos días hábiles.",
+    "Se mantiene el 2 de diciembre y los días perdidos se dan por cumplidos sin recuperación."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 3 dispone que, en caso de presentarse alguna contingencia, se modificará la fecha de conclusión de la gestión educativa hasta cumplir los doscientos (200) días hábiles; el Art. 4, II y III, permite adecuaciones regionales del calendario por eventos climáticos.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Arts. 3 y 4; páginas impresas: 9 y 10; páginas PDF: 9 y 10."
+  },
+  {
+   "id": "3466c16d0868",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VIII] La Dirección Distrital solicita a una unidad participar en una feria no prevista en su POA. ¿Qué decisión puede adoptar el director?",
+   "options": [
+    "Reemplazar dos días de clases por la feria y compensarlos en el descanso pedagógico.",
+    "Participar si la junta escolar aprueba el gasto, aunque la actividad no figure en el POA.",
+    "Abstenerse, porque solo es exigible el cumplimiento del POA y no se autorizan extracurriculares fuera de él.",
+    "Participar obligatoriamente, porque toda instrucción distrital prevalece sobre el POA de la unidad."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 53 no autoriza actividades extracurriculares salvo las contempladas en el POA, a fin de cumplir los 200 días; la Disposición Final Séptima prohíbe a las direcciones departamentales y distritales imponer actividades extracurriculares, debiendo exigir solo el cumplimiento del POA.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Art. 53 y Disposición Final Séptima; páginas impresas: 28 y 37; páginas PDF: 28 y 37."
+  },
+  {
+   "id": "da479f905ec6",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Al cierre de la inscripción, el director detecta dos códigos RUDE para un mismo estudiante. ¿Qué decisión debe tomar?",
+   "options": [
+    "Delegar la corrección a los padres, responsables exclusivos de los datos del formulario RUDE.",
+    "Esperar a que el sistema elimine automáticamente el código más reciente en el siguiente trimestre de la gestión.",
+    "Mantener ambos códigos hasta el fin de gestión para no afectar el registro de calificaciones.",
+    "Corregir la inconsistencia de inmediato, pues responde por la inscripción correcta y puede ser sancionado."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 17 dispone que es de entera responsabilidad del director garantizar la inscripción correcta para evitar inconsistencias como duplicidad de RUDE, y que en caso de generarse, los responsables serán pasibles de sanción; el Art. 12, VI, le exige evitar duplicidades.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Arts. 12 y 17; páginas impresas: 14 y 16; páginas PDF: 14 y 16."
+  },
+  {
+   "id": "c0e2e4eac136",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Una madre de un estudiante en desventaja social solicita su inscripción a mitad de gestión. ¿Qué decisión inicial debe tomar el director?",
+   "options": [
+    "Atenderlo de manera prioritaria y elaborar un informe del estado de situación del estudiante.",
+    "Derivarlo a la Dirección Distrital para que lo asigne a otra unidad con cupos disponibles.",
+    "Inscribirlo solo como oyente, sin registro en el SIE, hasta que complete sus documentos.",
+    "Postergar la inscripción hasta el inicio de la siguiente gestión, por estar fuera del plazo ordinario."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 19, I y II, dispone que los directores atiendan de manera prioritaria a los estudiantes en situación de desventaja social o vulnerabilidad, realizando un informe del estado de situación, y que su inscripción sea durante toda la gestión y sin discriminación.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 19; página impresa: 17; página PDF: 17."
+  },
+  {
+   "id": "4234bb53a4a6",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VIII] Tras la evaluación del primer trimestre, varios estudiantes muestran bajo logro en lectura. ¿Qué decisión pedagógica exige la norma a los maestros?",
+   "options": [
+    "Programar clases de recuperación pagadas por los padres fuera del horario de la unidad.",
+    "Desarrollar periódicamente actividades de recuperación y reforzamiento dentro de su carga horaria.",
+    "Esperar el cierre de gestión para decidir la retención de los estudiantes con bajo logro.",
+    "Reducir los contenidos del segundo trimestre para facilitar la aprobación de todos."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 50 dispone que, a partir de las evaluaciones, los maestros desarrollen periódicamente actividades de recuperación y reforzamiento de los aprendizajes durante la gestión, en los horarios correspondientes a su carga horaria; el Art. 52 prioriza la lectura en papel y la escritura a mano.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VIII, Arts. 50 y 52; páginas impresas: 27 y 28; páginas PDF: 27 y 28."
+  },
+  {
+   "id": "995a93b6d7d7",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Un director detecta un caso de violencia física de un estudiante hacia otro. ¿Qué marco de actuación debe aplicar?",
+   "options": [
+    "El Protocolo de Prevención, Actuación y Denuncia en casos de Violencia, denunciando lo detectado.",
+    "La decisión de la junta escolar, que define si el caso amerita alguna medida o denuncia.",
+    "El Reglamento de Evaluación, reduciendo la nota del Ser del estudiante agresor.",
+    "El reglamento interno exclusivamente, sin comunicar el caso a ninguna instancia externa."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 64, I, dispone que los directores den a conocer, socialicen y apliquen el Protocolo de Prevención, Actuación y Denuncia en casos de Violencia Física, Psicológica y Sexual y la Guía sobre violencia intrafamiliar, debiendo denunciar a las instancias correspondientes los actos de violencia detectados.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 64; página impresa: 31; página PDF: 31."
+  },
+  {
+   "id": "50e76f1d4163",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO III] Al planificar la gestión 2027, ¿qué insumo obligatorio deben considerar el director y la Dirección Distrital?",
+   "options": [
+    "Los resultados de la auditoría financiera de la junta escolar.",
+    "El ranking de unidades elaborado por la Dirección Departamental.",
+    "Las preferencias de los padres expresadas en una encuesta anual de satisfacción.",
+    "Las conclusiones de la evaluación institucional de la gestión 2026."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 61, II, dispone que las direcciones distritales y las direcciones de unidades educativas son responsables de tomar en cuenta las conclusiones de la evaluación institucional para la planificación de la gestión educativa siguiente.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo III, Art. 61; página impresa: 30; página PDF: 30."
+  },
+  {
+   "id": "6bab5f593e56",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO III] ¿Qué decisión debe tomar el director respecto del archivo de la documentación de los estudiantes?",
+   "options": [
+    "Entregar los documentos a los padres al finalizar cada gestión educativa.",
+    "Mantener archivos impresos actualizados y digitales cuando corresponda.",
+    "Conservar solo archivos digitales y destruir los impresos cada gestión.",
+    "Remitir todos los documentos a la Distrital y no conservar copias propias."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 60, I, dispone que los directores de unidades fiscales, privadas y de convenio mantengan archivos digitales cuando correspondan e impresos actualizados de toda la documentación presentada por los padres, para trámites de estudiantes antiguos y nuevos y de los procesos educativos; la auditoría interna de la DDE puede verificarla (II).",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo III, Art. 60; página impresa: 30; página PDF: 30."
+  },
+  {
+   "id": "f5538fe34ce4",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO IV] Un director debe reportar a los estudiantes candidatos al Incentivo al Bachiller Destacado. ¿Con quién coordina y dónde reporta?",
+   "options": [
+    "Coordina con la Dirección Distrital, que es la única que reporta al Ministerio.",
+    "Coordina con la junta escolar y reporta a la Dirección Departamental mediante nota escrita formal.",
+    "Coordina con la Comisión Técnico Pedagógica y reporta al SIE en los plazos establecidos.",
+    "Coordina con los padres de familia y reporta al Ministerio de Economía y Finanzas."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 32 dispone que los directores, en coordinación con la Comisión Técnico Pedagógica, son responsables de reportar la información de los estudiantes destacados al SIE de manera oportuna y en los plazos establecidos por el Ministerio, conforme al Reglamento del Incentivo.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo IV, Art. 32; página impresa: 21; página PDF: 21."
+  },
+  {
+   "id": "f9ab21b0460a",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Un estudiante boliviano regresa tras cursar estudios en otro país. ¿Qué instrumento deben aplicar las direcciones para su inscripción?",
+   "options": [
+    "Un examen de suficiencia elaborado por cada maestro de área de la unidad educativa receptora.",
+    "Una resolución ministerial individual que homologue cada uno de sus certificados.",
+    "La Tabla de Equivalencias aprobada en el marco del Convenio Andrés Bello y MERCOSUR.",
+    "La edad del estudiante como único criterio, sin considerar los estudios cursados."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 33 dispone que, para estudiantes extranjeros y bolivianos que estudiaron en el exterior, las direcciones de unidades, distritales y departamentales se acojan a la Tabla de Equivalencias aprobada en el marco del Convenio Andrés Bello y MERCOSUR para proceder a su inscripción.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 33; página impresa: 21; página PDF: 21."
+  },
+  {
+   "id": "f6fb2cc4da7f",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VI] Al definir la política institucional sobre el uniforme escolar, ¿qué orientación estratégica se ajusta a la norma?",
+   "options": [
+    "Delegar la decisión a la Dirección Distrital, competente para fijar uniformes escolares.",
+    "Exigirlo con un proveedor exclusivo para garantizar la uniformidad de color y diseño.",
+    "Exigirlo desde el primer día, impidiendo el ingreso a quienes no lo porten correctamente.",
+    "Adoptarlo solo con consenso de la comunidad, sin que su falta impida el ingreso a clases."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 43 dispone que el uniforme no es obligatorio ni impide el ingreso, que las unidades que opten por su uso deben hacerlo en coordinación y con el consenso de la comunidad educativa, y que está prohibido exigir su compra en un lugar determinado o exclusivo.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VI, Art. 43; página impresa: 25; página PDF: 25."
+  },
+  {
+   "id": "abfbcca4e11c",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO I] En un pueblo indígena cuya lengua está en riesgo de extinción se produce una acefalía docente. ¿Qué criterio estratégico de designación prevé la norma?",
+   "options": [
+    "Priorizar la designación directa de un maestro hablante de la lengua originaria del contexto.",
+    "Cerrar el paralelo hasta contar con un maestro titulado en la especialidad requerida.",
+    "Designar al maestro con mayor antigüedad del distrito, sin considerar la lengua del contexto.",
+    "Convocar a concurso abierto nacional y adjudicar al maestro con mejor puntaje académico."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 55, I, dispone que para los Pueblos Indígena Originario Campesinos y Afrobolivianos cuya lengua se encuentra en riesgo de extinción se priorice la designación directa del maestro hablante de la lengua originaria del contexto, en el marco de la Ley de Protección a Naciones y Pueblos Indígenas en situación de alta vulnerabilidad.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo I, Art. 55; página impresa: 28; página PDF: 28."
+  },
+  {
+   "id": "9100156314fd",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO III] Desde una gestión orientada a la eficiencia, ¿qué mandato del Art. 62 debe guiar a todas las instancias de la administración educativa?",
+   "options": [
+    "Centralizar todos los trámites en el Ministerio para uniformar los procedimientos.",
+    "Exigir reportes semanales a las unidades para mejorar la calidad de la información.",
+    "Incrementar los informes de control para asegurar la supervisión permanente de las unidades educativas.",
+    "Simplificar y agilizar trámites, evitar informes innecesarios e incorporar la digitalización."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 62 dispone que la administración educativa, en todas sus instancias, simplifique y agilice trámites, mejore la eficacia, eficiencia y celeridad, comunique los instructivos con anticipación, evite informes y reportes innecesarios e incorpore la digitalización de documentos, desburocratizando también el proceso pedagógico.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo III, Art. 62; página impresa: 31; página PDF: 31."
+  },
+  {
+   "id": "7eedd7476172",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Al planificar su gestión, ¿qué estrategia deben implementar las direcciones distritales respecto de la población no escolarizada?",
+   "options": [
+    "Esperar a que los padres acudan voluntariamente a inscribir a sus hijos en el periodo regular de inscripción.",
+    "Identificar a estudiantes no escolarizados y promover su inscripción en las unidades educativas.",
+    "Derivar a toda la población no escolarizada a Centros de Educación Alternativa del distrito.",
+    "Registrar a esa población como abandono escolar en el SIE sin otras acciones adicionales."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 19, VI, dispone que las direcciones distritales establezcan e implementen estrategias para identificar a estudiantes que no están escolarizados y promover su inscripción en las unidades educativas, garantizando el derecho a la educación.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 19; página impresa: 18; página PDF: 18."
+  },
+  {
+   "id": "3edf9e10d18e",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] En la planificación institucional, ¿qué mecanismo integral para población vulnerable deben aplicar las unidades fiscales y de convenio respecto de estudiantes trabajadores?",
+   "options": [
+    "Inscripción condicionada a la presentación de un contrato laboral firmado por su empleador actual.",
+    "Exoneración de la asistencia y promoción automática al año de escolaridad siguiente.",
+    "Traslado obligatorio a turnos nocturnos sin considerar su edad ni su situación laboral.",
+    "Tolerancia excepcional de horario y calendario y adaptaciones curriculares a sus necesidades."
+   ],
+   "answer": 3,
+   "explanation": "Aplicación razonada: El Art. 38, II, a), dispone como mecanismo de flexibilidad curricular conceder tolerancia excepcional de horario y calendario a estudiantes trabajadores (NNAT) y a quienes se trasladan temporalmente con sus progenitores por motivos laborales, e implementar adaptaciones curriculares ajustadas a sus necesidades.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 38; página impresa: 23; página PDF: 23."
+  },
+  {
+   "id": "01a6b222ece5",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VIII] Al diseñar el PDC institucional, ¿qué procesos deben desarrollar los maestros en todas sus actividades según el Art. 51?",
+   "options": [
+    "Pensamiento lógico matemático, lectura y escritura, pensamiento científico y creatividad.",
+    "Emprendimiento comercial, competencias digitales, idiomas extranjeros y deportes.",
+    "Memorización de contenidos, disciplina, puntualidad y presentación personal.",
+    "Preparación para exámenes de ingreso universitario y olimpiadas científicas."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 51, II, dispone que los maestros desarrollen en todas sus actividades procesos de pensamiento lógico matemático, capacidades comunicativas (lectura y escritura), pensamiento científico e investigación y desarrollo de la creatividad, integrados en la planificación de desarrollo curricular (III).",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VIII, Art. 51; página impresa: 27; página PDF: 27."
+  },
+  {
+   "id": "bb6a566bd67f",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO IV] Para profundizar la interculturalidad y el bilingüismo en el currículo regionalizado, ¿con qué instancias pueden coordinar las direcciones?",
+   "options": [
+    "Con el IPELC, los Institutos de Lenguas y Culturas, los GAM o los GAIOC.",
+    "Con las universidades privadas y las embajadas de países con convenio.",
+    "Con el Ministerio de Culturas y las federaciones deportivas regionales.",
+    "Con las juntas escolares y los sindicatos de maestros de cada distrito educativo."
+   ],
+   "answer": 0,
+   "explanation": "Aplicación razonada: El Art. 30, I, dispone que las direcciones de unidades, distritales y departamentales garanticen la conclusión, actualización y armonización de los currículos regionalizados y, para profundizar la interculturalidad y/o el bilingüismo, coordinen con el IPELC, los ILC, los GAM o los GAIOC.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo IV, Art. 30; página impresa: 21; página PDF: 21."
+  },
+  {
+   "id": "4b035a470a7b",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Para garantizar la Alimentación Complementaria Escolar durante 2026, ¿con quiénes debe coordinar el director?",
+   "options": [
+    "Únicamente con el portero de la unidad, responsable del quiosco de alimentos.",
+    "Con empresas privadas de catering seleccionadas por la junta escolar de padres.",
+    "Con la junta escolar y demás actores, ante los gobiernos departamentales, municipales e IOC.",
+    "Únicamente con la Dirección Distrital, que distribuye los alimentos a las unidades."
+   ],
+   "answer": 2,
+   "explanation": "Aplicación razonada: El Art. 68 dispone que los directores, junto con las Juntas Escolares, Distritales, Consejos Educativos Social Comunitarios y Federaciones de Estudiantes de Secundaria, coordinen con los Gobiernos Autónomos Departamentales, Municipales e IOC y Afrobolivianos la dotación diaria de la Alimentación Complementaria Escolar durante todos los días hábiles de 2026.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 68; página impresa: 33; página PDF: 33."
+  },
+  {
+   "id": "0c0593999e8f",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – DISPOSICIONES FINALES] Surge un aspecto académico no previsto en las Normas Generales 2026. ¿Cómo debe regularse?",
+   "options": [
+    "Mediante aplicación supletoria de las Normas Generales de la gestión 2025 en todos los casos.",
+    "Mediante instructivos del Ministerio, vía Viceministerio de Educación Regular, en consulta con los actores.",
+    "Mediante resolución de cada Dirección Departamental, sin necesidad de consulta a los actores educativos involucrados.",
+    "Mediante acuerdo del consejo de maestros de cada unidad educativa, con aval de la junta escolar."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: La Disposición Final Décima dispone que los aspectos académicos, técnicos o administrativos no previstos sean regulados mediante instructivos emitidos por el Ministerio de Educación, a través del Viceministerio de Educación Regular, en consulta con los actores educativos, según corresponda.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Disposición Final Décima; página impresa: 38; página PDF: 38."
+  },
+  {
+   "id": "76289787659d",
+   "q": "[R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Para asegurar el seguimiento institucional de los estudiantes en situación de vulnerabilidad, ¿qué obligación de trazabilidad impone el Art. 38 a las direcciones de las unidades?",
+   "options": [
+    "Reportar los casos solo al cierre de la gestión, en el informe final de la evaluación institucional.",
+    "Reportar periódicamente los casos por los canales establecidos, asegurando la autenticidad del registro.",
+    "Publicar la lista de estudiantes vulnerables en el periódico mural para conocimiento de toda la comunidad.",
+    "Remitir los casos a la junta escolar, que asume su seguimiento y la toma de decisiones respectiva."
+   ],
+   "answer": 1,
+   "explanation": "Aplicación razonada: El Art. 38, II, c), dispone que las direcciones de las unidades educativas tienen la obligación de reportar periódicamente los casos de vulnerabilidad a través de los canales establecidos, para garantizar el seguimiento institucional y la toma de decisiones, asegurando la calidad de la gestión y la autenticidad del registro documental.",
+   "legal": "R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 38; página impresa: 23; página PDF: 23."
+  }
+ ],
  "ods-2030-c1": [
   {
    "id": "3efcb52c0ce3",

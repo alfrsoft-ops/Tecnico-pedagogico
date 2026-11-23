@@ -1,0 +1,1102 @@
+# Fuente: ds-04688-general.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# SISTEMA EDUCATIVO PLURINACIONAL
+# BANCO DE PREGUNTAS DE NIVEL MUY AVANZADO
+# Evaluación de aspirantes a cargos directivos
+# Fuente exclusiva
+# D.S. N.º 04688 – Reglamento del Escalafón Nacional del Servicio de Educación
+# Decreto Supremo de 18 de julio de 1957 (con las modificaciones al Art. 20 y 21 consignadas en el texto: D.S. 21071 de 1985)
+# 100 preguntas de opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# La Paz – Bolivia
+# Noviembre de 2026
+# 1. Presentación del instrumento
+# El presente banco de 100 preguntas de nivel muy avanzado está dirigido a la evaluación de aspirantes a cargos directivos del Sistema Educativo Plurinacional. Ha sido elaborado exclusivamente a partir del D.S. N.º 04688, Reglamento del Escalafón Nacional del Servicio de Educación, respetando su terminología, sus categorías y sus disposiciones, sin incorporar fuentes externas.
+# Cada pregunta indica su dimensión de evaluación, su modalidad (Conceptual, Interpretativa, Aplicación razonada o Caso práctico), la respuesta correcta, una fundamentación breve y la referencia documental verificable. El rótulo «Aplicación razonada» distingue las situaciones derivadas de las preguntas de conocimiento textual; los casos prácticos se construyen únicamente con disposiciones respaldadas por el Reglamento.
+# Al inicio de cada enunciado se consigna, entre corchetes, el documento y el capítulo de procedencia, para garantizar la trazabilidad de la fuente cuando las preguntas se integren aleatoriamente en una plataforma de simulación junto con preguntas de otros documentos.
+# El Reglamento atribuye funciones a instancias como la autoridad inmediata superior, el Jefe de Distrito, las Comisiones Calificadoras y el Tribunal de concursos; las preguntas sobre responsabilidades directivas se limitan a esas atribuciones. Algunas preguntas de toma de decisiones y gestión plantean situaciones en las que el director debe aplicar o anticipar consecuencias previstas en el Reglamento, sin atribuirle competencias que este no le confiere.
+# 2. Ficha técnica
+# Aspecto
+# Detalle
+# Documento fuente
+# D.S. N.º 04688 – Reglamento del Escalafón Nacional del Servicio de Educación – Decreto Supremo de 18 de julio de 1957 (con las modificaciones al Art. 20 y 21 consignadas en el texto: D.S. 21071 de 1985)
+# Archivo
+# 1. D.S. 04688 Reglamento Escalafon Nacional.pdf (25 páginas PDF)
+# Cantidad de preguntas
+# 100
+# Modalidad
+# Opción múltiple y casos prácticos
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta
+# Rótulos de modalidad
+# Conceptual · Interpretativa · Aplicación razonada · Caso práctico
+# Criterio de paginación
+# El documento fuente no consigna numeración impresa en sus páginas; por ello, cada referencia indica «página impresa: sin numeración» y la página PDF exacta donde se encuentra la disposición.
+# 3. Distribución metodológica y ponderación
+# N.º
+# Dimensión de evaluación
+# Preguntas
+# Peso
+# Rango
+# 1
+# Conocimiento y memorización
+# 5
+# 5%
+# 1–5
+# 2
+# Dominio conceptual
+# 5
+# 5%
+# 6–10
+# 3
+# Competencias y responsabilidades directivas
+# 10
+# 10%
+# 11–20
+# 4
+# Comprensión e interpretación
+# 10
+# 10%
+# 21–30
+# 5
+# Diferenciación conceptual
+# 5
+# 5%
+# 31–35
+# 6
+# Análisis crítico
+# 10
+# 10%
+# 36–45
+# 7
+# Aplicación normativa
+# 15
+# 15%
+# 46–60
+# 8
+# Resolución de casos prácticos
+# 20
+# 20%
+# 61–80
+# 9
+# Toma de decisiones
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de respuestas correctas: A = 25 · B = 25 · C = 25 · D = 25.
+# Distribución por modalidad: Conceptual = 22 · Interpretativa = 23 · Aplicación razonada = 32 · Caso práctico = 23.
+# 4. Banco de preguntas
+# Dimensión: Conocimiento y memorización
+# Se verificó que el banco contiene exactamente 100 preguntas distribuidas según la tabla metodológica, cada una con cuatro alternativas y una sola respuesta correcta respaldada por el texto del Reglamento.
+# Las respuestas correctas se distribuyeron de manera equilibrada entre las letras A, B, C y D, sin secuencias predecibles, y se controló que la extensión de las alternativas sea homogénea. En algunas preguntas numéricas breves la diferencia relativa de caracteres es mayor por la naturaleza del dato, sin que ello revele la respuesta.
+# Las referencias indican capítulo, artículo y página PDF. El Reglamento contiene un capítulo sin numeración («De la acumulación de cargos docentes», Arts. 59 a 72), que se identifica por su título. Algunas disposiciones remiten al Código de la Educación Boliviana; esas remisiones se citan tal como figuran en el Reglamento, sin desarrollar contenidos externos.
+
+CAPÍTULO: ds-04688-general
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO I] Según el Reglamento, el Escalafón Nacional del Servicio de Educación se define como:
+A. El registro sistemático, permanente y centralizado de datos personales y profesionales del personal.
+B. El procedimiento de calificación anual de méritos y deméritos a cargo de las comisiones distritales.
+C. La escala jerárquica que ordena los cargos docentes y administrativos del servicio de educación.
+D. El sistema de remuneración por categorías del personal docente y administrativo de todo el país.
+Respuesta correcta: A
+Explicación: El Art. 1 define el Escalafón como el registro sistemático, permanente y centralizado de los datos personales y profesionales de maestros y funcionarios; las categorías, la calificación y la escala jerárquica son contenidos distintos que el Reglamento regula en otros capítulos.
+Sustento: D.S. 04688, Capítulo I, Art. 1; página impresa: sin numeración; página PDF: 2.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] La escala de promociones de categoría asigna, sobre el haber básico del cargo desempeñado, los siguientes porcentajes de bonificación:
+A. 5.ª: 20%; 4.ª: 40%; 3.ª: 60%; 2.ª: 80%; 1.ª: 100%.
+B. 5.ª: 25%; 4.ª: 45%; 3.ª: 65%; 2.ª: 85%; 1.ª: 100%.
+C. 5.ª: 30%; 4.ª: 45%; 3.ª: 60%; 2.ª: 75%; 1.ª: 100%.
+D. 5.ª: 30%; 4.ª: 40%; 3.ª: 50%; 2.ª: 75%; 1.ª: 100%.
+Respuesta correcta: C
+Explicación: El Art. 37 establece la escala exacta: quinta categoría 30%, cuarta 45%, tercera 60%, segunda 75% y primera 100% sobre el haber básico del cargo.
+Sustento: D.S. 04688, Capítulo VI, Art. 37; página impresa: sin numeración; página PDF: 14.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO II] En mérito al grado de preparación y experiencia profesional, el Reglamento reconoce las siguientes clases de maestros:
+A. Normalistas, titulares e interinos.
+B. Titulares, interinos y suplentes.
+C. Normalistas, contratados e interinos.
+D. Normalistas, titulares y técnicos.
+Respuesta correcta: A
+Explicación: El Art. 7 reconoce tres clases de maestros: normalistas, titulares e interinos. Las categorías de "contratado", "suplente" o "técnico" no constituyen clases de maestro en el Reglamento.
+Sustento: D.S. 04688, Capítulo II, Art. 7; página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] El tiempo de servicios se califica con la siguiente asignación:
+A. Dos puntos por cada año de servicio.
+B. Un punto por cada semestre de trabajo.
+C. Un punto por cada trimestre de trabajo.
+D. Cinco puntos por cada año completo de servicio.
+Respuesta correcta: C
+Explicación: El Art. 27 dispone que el tiempo de servicios se califica con la asignación de 1 punto por cada trimestre de trabajo, con un tope de 100 puntos según el Art. 24.
+Sustento: D.S. 04688, Capítulo V, Arts. 24 y 27; página impresa: sin numeración; páginas PDF: 9 y 11.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XI] Respecto de la inamovilidad, el Reglamento establece que los maestros inscritos en el Escalafón:
+A. Pueden ser suspendidos por la autoridad inmediata superior mientras dure la investigación.
+B. Solo pueden ser destituidos por resolución de la Comisión Nacional del Escalafón en apelación.
+C. Pueden ser destituidos por deméritos acumulados en la ficha de calificación del último año.
+D. Solo pueden ser destituidos o suspendidos previa sentencia en proceso con derecho a defensa.
+Respuesta correcta: D
+Explicación: El Art. 73, en concordancia con el Art. 243 del Código de la Educación, declara inamovibles a los maestros inscritos; solo pueden ser destituidos o suspendidos por actos inmorales, indisciplinarios o delictuosos, previa sentencia tras proceso en que se reconozca defensa, bajo pena de nulidad.
+Sustento: D.S. 04688, Capítulo XI, Art. 73; página impresa: sin numeración; página PDF: 22.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+6. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO IV] El Reglamento concibe la carrera docente y administrativa en dos proyecciones complementarias. ¿Cuál es el criterio que rige cada una?
+A. Los ascensos de jerarquía responden a la antigüedad; las promociones, a los méritos y a los exámenes.
+B. Los ascensos de jerarquía responden a necesidades, méritos y dotes; las promociones, a la antigüedad.
+C. Los ascensos responden al concurso sindical; las promociones, a la disponibilidad presupuestaria.
+D. Ambas proyecciones dependen del puntaje total obtenido en la ficha anual de calificación de méritos.
+Respuesta correcta: B
+Explicación: El Art. 18 distingue los ascensos de jerarquía, en función de las necesidades del servicio y de los méritos y dotes del personal, de las promociones de categoría, en función de la antigüedad en el servicio.
+Sustento: D.S. 04688, Capítulo IV, Art. 18; página impresa: sin numeración; página PDF: 7.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+7. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO I] ¿Cuál de las siguientes NO figura entre las finalidades del Escalafón Nacional del Servicio de Educación?
+A. Valorar y recompensar la antigüedad y los méritos del personal del ramo.
+B. Regular el ingreso y garantizar la continuidad de maestros y funcionarios.
+C. Fijar el monto del haber básico de cada cargo del servicio educativo.
+D. Establecer la Escala de Categoría y la Escala Jerárquica de la carrera.
+Respuesta correcta: C
+Explicación: El Art. 2 enumera como finalidades regular el ingreso y la continuidad, establecer las escalas de categoría y jerárquica, determinar normas de promociones y ascensos, y valorar la antigüedad y los méritos. La fijación del haber básico no es una finalidad del Escalafón; las categorías solo asignan porcentajes sobre ese haber.
+Sustento: D.S. 04688, Capítulo I, Art. 2 (y Art. 37); página impresa: sin numeración; páginas PDF: 2 y 14.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+8. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] La valoración cuantitativa de los méritos del maestro comprende cuatro aspectos de hasta 100 puntos cada uno y un quinto aspecto. ¿Cuál es ese quinto aspecto?
+A. Los deméritos registrados en la ficha.
+B. El examen de competencia aprobado.
+C. La antigüedad acumulada en el cargo.
+D. La evaluación realizada por los pares.
+Respuesta correcta: A
+Explicación: El Art. 24 señala que la valoración se refiere a estudios y títulos, condiciones personales y docentes, tiempo de servicios y méritos generales (hasta 100 puntos cada uno) y a los deméritos.
+Sustento: D.S. 04688, Capítulo V, Art. 24; página impresa: sin numeración; página PDF: 9.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+9. [D.S. 04688 Reglamento del Escalafón Nacional – CONSIDERANDOS] De acuerdo con los considerandos del Decreto, el Reglamento del Escalafón de 1957 se dictó, entre otras razones, porque:
+A. La Contraloría observó pagos indebidos de categorías y exigió crear comisiones calificadoras.
+B. La Federación de Maestros Rurales solicitó unificar el escalafón urbano con el escalafón rural.
+C. El Código de la Educación Boliviana ordenó suprimir las categorías y crear una escala salarial única.
+D. El Reglamento de 1936 resultó anacrónico ante las transformaciones económico-sociales del país.
+Respuesta correcta: D
+Explicación: Los considerandos expresan que el Reglamento puesto en vigencia por Decreto Supremo de 24 de noviembre de 1936 resultó anacrónico frente a las transformaciones económico-sociales, que la Confederación Nacional de Maestros Urbanos pidió su modificación y que el nuevo texto guarda conformidad con el Código de la Educación Boliviana.
+Sustento: D.S. 04688, Considerandos; página impresa: sin numeración; página PDF: 1.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+10. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Según el Reglamento, el puntaje final obtenido en la ficha de calificación de cada maestro constituye:
+A. El único requisito exigible para la promoción periódica a la categoría inmediata superior.
+B. Un antecedente reservado que solo puede consultar la Comisión Nacional del Escalafón.
+C. Un factor objetivo para definir los méritos en concursos de ascenso a cargos jerárquicos.
+D. La base para fijar el porcentaje de bonificación de categoría que corresponde al maestro.
+Respuesta correcta: C
+Explicación: El Art. 34 establece que el puntaje final de la ficha es un factor objetivo para definir los méritos docentes en los concursos para el ascenso a cargos jerárquicos. La promoción de categoría se rige por la antigüedad (Arts. 38 y 39).
+Sustento: D.S. 04688, Capítulo V, Art. 34; página impresa: sin numeración; página PDF: 13.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+11. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] ¿Quién registra y califica los méritos profesionales de cada maestro en la ficha correspondiente?
+A. El propio maestro, mediante declaración jurada revisada por el Inspector del ciclo.
+B. La Comisión Nacional del Escalafón, con informe del Departamento de Personal.
+C. La autoridad inmediata superior, con revisión de las Juntas Calificadoras Distritales.
+D. El Jefe de Distrito Escolar, con visto bueno del delegado sindical acreditado.
+Respuesta correcta: C
+Explicación: El Art. 23 dispone que los méritos se registran y califican en una ficha llevada por la autoridad inmediata superior y revisada por las Juntas Calificadoras Distritales; el Art. 35 lo ratifica al atribuirle la anotación de la ficha.
+Sustento: D.S. 04688, Capítulo V, Arts. 23 y 35; página impresa: sin numeración; páginas PDF: 9 y 13.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+12. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] La autoridad inmediata superior anota la ficha de calificación en tres ejemplares. ¿Cuál es el destino correcto de esos ejemplares?
+A. Dos para el Departamento de Personal y uno para el archivo de la unidad donde trabaja el maestro.
+B. Uno para la Comisión Distrital, uno para la Federación sindical y uno para el propio interesado.
+C. Uno para el interesado, uno para la Comisión Distrital y uno para la Comisión Nacional del ramo.
+D. Dos para la Comisión Distrital (uno se entrega al interesado) y uno al Departamento de Personal.
+Respuesta correcta: D
+Explicación: El Art. 35 dispone que la ficha se anota en tres ejemplares: dos para conocimiento de la Comisión Calificadora Distrital, de los cuales uno se entrega al interesado, y el tercero se remite al Departamento de Personal del Ministerio.
+Sustento: D.S. 04688, Capítulo V, Art. 35; página impresa: sin numeración; página PDF: 13.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+13. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VII] ¿Cómo está constituida la Comisión Calificadora Distrital?
+A. Inspector de ciclo (presidente), director de establecimiento (secretario) y delegado de padres.
+B. Jefe de Estadística y Personal (presidente), Jefe del Escalafón (secretario) y delegado sindical.
+C. Jefe de Distrito o Zona (presidente), Inspector de ciclo (secretario) y representante sindical (vocal).
+D. Delegado de la Dirección General (presidente), Jefe de Distrito (secretario) y un Inspector de zona (vocal).
+Respuesta correcta: C
+Explicación: El Art. 47 conforma la Comisión Distrital con el Jefe de Distrito Escolar o de Zona como presidente, el Inspector de ciclo como secretario y un representante sindical acreditado por la Federación respectiva como vocal.
+Sustento: D.S. 04688, Capítulo VII, Art. 47; página impresa: sin numeración; página PDF: 16.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+14. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO I] La Comisión Nacional del Escalafón, prevista dentro de las funciones de provisión de calificaciones, está integrada por:
+A. El Jefe de Estadística y Personal, un Inspector Distrital y un representante de la Federación de Maestros.
+B. El Oficial Mayor de Educación, el Jefe del Escalafón y un representante del Instituto de Investigaciones.
+C. El Director General de Educación, el Jefe de Distrito Escolar y un delegado de la Confederación de Maestros.
+D. El Jefe de Estadística y Personal, el Jefe del Escalafón y un delegado de la Federación de Maestros Urbanos.
+Respuesta correcta: D
+Explicación: El Art. 3, numeral 2, inciso a), integra la Comisión Nacional del Escalafón con el Jefe del Departamento de Estadística y Personal, el Jefe del Escalafón del Ministerio y un Delegado de la Federación Nacional de Maestros Urbanos.
+Sustento: D.S. 04688, Capítulo I, Art. 3, num. 2, inc. a); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Interpretativa
+15. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VII] En el régimen de calificación de servicios, la Comisión Nacional del Escalafón cumple el rol de:
+A. Instancia única de calificación de los expedientes distritales.
+B. Comisión consultiva sin facultad de modificar calificaciones.
+C. Órgano ejecutor del pago de las categorías a nivel nacional.
+D. Tribunal de apelación, con facultades revisoras y supervisoras.
+Respuesta correcta: D
+Explicación: El Art. 46 establece que la calificación se efectúa por las Comisiones Calificadoras Distritales y por la Comisión Nacional del Escalafón, esta última como Tribunal de Apelación y con facultades revisoras y supervisoras.
+Sustento: D.S. 04688, Capítulo VII, Art. 46; página impresa: sin numeración; página PDF: 16.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+16. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO IX] El Tribunal que califica los concursos de méritos y los exámenes de competencia para cargos directivos está formado por:
+A. Jefe del Escalafón (presidente), Jefe de Distrito, Inspector del ciclo y delegado del Instituto.
+B. Delegado de la Dirección General (presidente), Jefe de Distrito, Director saliente y un delegado de padres.
+C. Delegado de la Dirección General (presidente), Jefe de Distrito, Inspector del ciclo y delegado sindical.
+D. Jefe de Distrito (presidente), Inspector del ciclo, Director del establecimiento y delegado sindical.
+Respuesta correcta: C
+Explicación: El Art. 57 integra el Tribunal con un delegado de la Dirección General de Educación (presidente), el Jefe de Distrito o Zona (secretario), el Inspector del ciclo (vocal) y un delegado de la Federación Sindical de Maestros, local o nacional (vocal).
+Sustento: D.S. 04688, Capítulo IX, Art. 57; página impresa: sin numeración; página PDF: 19.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Interpretativa
+17. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VII] ¿Qué responsabilidad asumen los miembros de las Comisiones Distritales por una calificación o un pago indebido de categorías?
+A. Solo responden administrativamente ante la Comisión Nacional, sin efecto patrimonial.
+B. La responsabilidad recae en el maestro beneficiado, que debe devolver lo cobrado.
+C. Responden únicamente si la Federación sindical formula denuncia escrita y fundada.
+D. Quedan pasibles de sanciones penales, y el Estado puede repetir contra ellos lo pagado.
+Respuesta correcta: D
+Explicación: El Art. 49 declara responsables a los miembros de las Comisiones Distritales por la violación del Reglamento y señala que cualquier calificación o pago indebido los hace pasibles de sanciones penales, sin perjuicio de que el Estado repita contra ellos lo indebidamente pagado.
+Sustento: D.S. 04688, Capítulo VII, Art. 49; página impresa: sin numeración; página PDF: 16.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+18. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO I] Entre las funciones de registro de datos del Departamento de Estadística y Personal se encuentra la de:
+A. Aplicar los exámenes voluntarios de promoción de categoría mediante pruebas objetivas nacionales.
+B. Designar a los directores de establecimientos según el puntaje obtenido en la ficha de calificación.
+C. Disponer anualmente las promociones de categoría según las calificaciones distritales.
+D. Resolver en última instancia las apelaciones de los maestros contra las calificaciones distritales.
+Respuesta correcta: C
+Explicación: El Art. 3, numeral 1, inciso c), atribuye al Departamento disponer anualmente las promociones de categoría en vista de las calificaciones definidas por las comisiones distritales. Las apelaciones corresponden a la Comisión Nacional (Art. 50) y los exámenes voluntarios al Instituto de Investigaciones Pedagógicas (Art. 41).
+Sustento: D.S. 04688, Capítulo I, Art. 3, num. 1, inc. c); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+19. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] ¿Qué instancia atiende los exámenes voluntarios para la promoción de categoría?
+A. El Departamento de Estadística y Personal, con el apoyo de las Federaciones sindicales.
+B. El Instituto de Investigaciones Pedagógicas, según calendario de la Dirección General.
+C. La Comisión Nacional del Escalafón, en su condición de tribunal de apelación.
+D. La Comisión Calificadora Distrital, según calendario fijado por el Jefe de Distrito.
+Respuesta correcta: B
+Explicación: El Art. 41 dispone que los exámenes voluntarios son atendidos por el Instituto de Investigaciones Pedagógicas, de acuerdo con el calendario de la Dirección General de Educación, mediante pruebas objetivas con normas uniformes para todo el país.
+Sustento: D.S. 04688, Capítulo VI, Art. 41; página impresa: sin numeración; página PDF: 15.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Interpretativa
+20. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XII] En la comprobación del tiempo de servicios prestados en planteles urbanos particulares, ¿qué rol cumple el Jefe de Distrito?
+A. Dicta el auto de legalización, en cuya vista se reconoce el tiempo por Resolución Suprema.
+B. Expide directamente el certificado de servicios en reemplazo del director del plantel particular.
+C. Califica el tiempo de servicios y fija la categoría que corresponde al interesado.
+D. Remite los comprobantes a la Contraloría para que esta certifique los servicios.
+Respuesta correcta: A
+Explicación: El Art. 77 exige que los comprobantes sean autenticados y legalizados en la Jefatura por el Inspector del ciclo, previa comprobación del nombramiento y acta de posesión; el Jefe de Distrito dicta el auto de legalización y el tiempo se reconoce por Resolución Suprema para su calificación por las Comisiones Distritales.
+Sustento: D.S. 04688, Capítulo XII, Arts. 76 y 77; página impresa: sin numeración; página PDF: 23.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+21. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO III] ¿Cuál es el alcance del deber de inscripción en el Escalafón establecido en el Reglamento?
+A. Es un registro estadístico que no produce efectos sobre los derechos del maestro inscrito.
+B. Es requisito para gozar de las garantías, derechos y recompensas del personal de carrera.
+C. Es un trámite facultativo que solo condiciona el pago de la bonificación de quinta categoría.
+D. Es obligatorio solo para normalistas, pues interinos y administrativos están excluidos.
+Respuesta correcta: B
+Explicación: El Art. 12 obliga a maestros y funcionarios administrativos a inscribirse como requisito para el goce de las garantías, derechos y recompensas que el Reglamento reconoce al personal de carrera; interinos y administrativos tienen opción a inscribirse tras cinco años (Arts. 14 y 16).
+Sustento: D.S. 04688, Capítulo III, Art. 12; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+22. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO III] Un maestro titular que, al cabo de 10 años de servicio, reprueba por segunda vez el examen de capacidad previsto en el Reglamento:
+A. Queda automáticamente retirado del servicio docente por resolución del Jefe de Distrito.
+B. Puede repetir el examen sin consecuencias hasta aprobarlo en una tercera oportunidad.
+C. Es promovido igualmente por antigüedad, con un año de diferimiento en su categoría.
+D. Queda privado de las garantías que el Reglamento reconoce en favor del magisterio.
+Respuesta correcta: D
+Explicación: El Art. 15 dispone que, si el maestro no aprueba el examen, su declaratoria de titular se difiere un año y, ante una segunda reprobación, queda privado de las garantías que el Reglamento reconoce en favor del magisterio.
+Sustento: D.S. 04688, Capítulo III, Art. 15; página impresa: sin numeración; página PDF: 6.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+23. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO III] Para inscribirse en el Escalafón, el funcionario administrativo debe presentar los documentos de los incisos a), b) y d) del Art. 13. Esto implica que, a diferencia del maestro normalista, NO se le exige:
+A. El certificado de formación o títulos obtenidos.
+B. Los documentos que acrediten su estado civil.
+C. El documento que acredite su situación militar.
+D. El certificado de nacimiento o prueba supletoria.
+Respuesta correcta: C
+Explicación: El Art. 16 remite a los incisos a), b) y d) del Art. 13 (nacimiento, estado civil y títulos), omitiendo el inciso c), que corresponde a los documentos que acreditan la situación militar.
+Sustento: D.S. 04688, Capítulo III, Arts. 13 y 16; página impresa: sin numeración; páginas PDF: 6 y 7.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+24. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] El Art. 27 permite a ciertos maestros computar los meses de vacaciones como parte del trimestre correspondiente. Este beneficio se reconoce a:
+A. Los maestros normalistas de quinta categoría.
+B. Los maestros que hacen rendir exámenes.
+C. Los maestros que acumulan cargos nocturnos.
+D. Los maestros que prestan servicio en fronteras.
+Respuesta correcta: B
+Explicación: El Art. 27, tras fijar un punto por trimestre de trabajo, dispone que los maestros que hacen rendir exámenes tienen derecho al cómputo de los meses de vacaciones como parte del trimestre correspondiente.
+Sustento: D.S. 04688, Capítulo V, Art. 27; página impresa: sin numeración; página PDF: 11.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+25. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] ¿Cuál es la regla del Reglamento sobre los años de servicio prestados a países extranjeros?
+A. Se computan a mitad de tiempo, previa legalización consular de los certificados.
+B. No se computan para fines de jubilación ni de calificación de servicios.
+C. Se computan solo para la promoción de categoría, no así para la jubilación.
+D. Se computan íntegramente si el maestro acredita nacionalidad boliviana.
+Respuesta correcta: B
+Explicación: El Art. 31 establece expresamente que los años de servicios prestados a países extranjeros no se computan para fines de jubilación ni de calificación de servicios.
+Sustento: D.S. 04688, Capítulo V, Art. 31; página impresa: sin numeración; página PDF: 11.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+26. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] ¿Qué ocurre con el postulante que no aprueba el examen voluntario de promoción de categoría?
+A. Conserva la opción de ser promovido por el cómputo de antigüedad en el servicio.
+B. Recibe deméritos en su ficha por resistencia a normas técnicas del servicio.
+C. Queda inhabilitado para rendir nuevos exámenes voluntarios durante cinco años.
+D. Pierde la categoría alcanzada y debe reiniciar el cómputo desde la quinta categoría.
+Respuesta correcta: A
+Explicación: El Art. 42 dispone que los postulantes no aprobados en el examen de promoción de categoría tienen opción a ser promovidos por el cómputo de antigüedad; el examen voluntario solo abrevia el proceso (Art. 40).
+Sustento: D.S. 04688, Capítulo VI, Arts. 40 y 42; página impresa: sin numeración; página PDF: 15.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+27. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VII] En el trámite de apelación contra la calificación de la Comisión Distrital, ¿qué función limitada le corresponde a esta Comisión?
+A. Admitir pruebas nuevas y resolver la apelación en única instancia en 3 días.
+B. Revisar el fondo de la calificación y modificarla dentro de los 10 días siguientes.
+C. Verificar que se presentó dentro de 10 días y resolver la concesión en 3 días.
+D. Emitir informe de descargo y esperar que la Comisión Nacional fije audiencia.
+Respuesta correcta: C
+Explicación: El Art. 51 limita a la Comisión Distrital a verificar la procedencia de la apelación en cuanto al término de 10 días y a resolverla, bajo responsabilidad, en el término de 3 días; la decisión de fondo corresponde a la Comisión Nacional (Arts. 46 y 50).
+Sustento: D.S. 04688, Capítulo VII, Arts. 50 y 51; página impresa: sin numeración; página PDF: 17.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+28. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO IX] Cuando dos o más postulantes optan por un cargo directivo vacante y existe paridad en el concurso de méritos, la designación se define por:
+A. Mayor edad del postulante.
+B. Examen de competencia.
+C. Votación del ente sindical.
+D. Sorteo ante el Tribunal.
+Respuesta correcta: B
+Explicación: El Art. 56, inciso d), dispone que, en los casos de paridad de varios postulantes en el concurso de méritos, la designación se define por examen de competencia.
+Sustento: D.S. 04688, Capítulo IX, Art. 56; página impresa: sin numeración; página PDF: 18.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+29. [D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Según el Reglamento, la acumulación de cargos docentes consiste en:
+A. Atender cursos paralelos únicamente cuando equivalen a un curso completo adicional.
+B. Desempeñar un cargo principal y otro cargo docente, completo o por horas excedentes.
+C. Ejercer simultáneamente un cargo docente y uno administrativo en el mismo distrito.
+D. Sumar la antigüedad de dos cargos para acelerar la promoción a la categoría superior.
+Respuesta correcta: B
+Explicación: El Art. 59 define la acumulación como el desempeño de un cargo principal y de otro cargo docente, completo o de cierto número de cursos paralelos y horas excedentes, aunque no equivalgan a un curso completo.
+Sustento: D.S. 04688, De la acumulación de cargos docentes, Art. 59; página impresa: sin numeración; página PDF: 19.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+30. [D.S. 04688 Reglamento del Escalafón Nacional – DISPOSICIONES GENERALES Y TRANSITORIAS] ¿Qué naturaleza atribuye el Reglamento a las asignaciones por categoría?
+A. Integran el haber solo durante el servicio activo y se excluyen al jubilarse.
+B. Son bonos eventuales que no integran el haber ni se computan para la jubilación.
+C. Son incentivos sujetos a evaluación anual y revocables por los deméritos acumulados.
+D. Integran el haber y se consideran para jubilación, aguinaldo y beneficios sociales.
+Respuesta correcta: D
+Explicación: El Art. 78 establece que las asignaciones por categoría son parte integrante del haber y se toman en cuenta para la jubilación, el aguinaldo y todos los beneficios sociales.
+Sustento: D.S. 04688, Disposiciones generales y transitorias, Art. 78; página impresa: sin numeración; página PDF: 23.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+31. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO II] ¿Qué distingue al maestro interino del maestro titular según el Reglamento?
+A. El interino ingresa provisionalmente sin formación regular; el titular es interino de 10 años que aprobó examen.
+B. El interino tiene menos de 5 años de servicio; el titular es quien supera ese tiempo sin necesidad de examen.
+C. El interino carece de título universitario; el titular es quien egresó de una normal y aprobó su examen.
+D. El interino trabaja en el área rural; el titular es el interino que obtiene un cargo en el área urbana del ramo.
+Respuesta correcta: A
+Explicación: El Art. 9 define al interino como quien, careciendo de formación pedagógica regular, ingresa en forma provisional por emergencia; el Art. 10 define al titular como el interino que tras 10 años de servicios aprueba un examen de capacidad y obtiene el título por Resolución Suprema.
+Sustento: D.S. 04688, Capítulo II, Arts. 9 y 10; página impresa: sin numeración; páginas PDF: 4 y 5.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+32. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Distinga correctamente el mecanismo de ascenso a direcciones del previsto para los demás ascensos jerárquicos:
+A. Direcciones: compulsa de méritos y años de servicio; demás: examen de competencia y concurso de méritos.
+B. Direcciones: concurso de méritos y examen de competencia; demás: compulsa, concurso y años de servicio.
+C. Direcciones: designación por terna sindical; demás: compulsa de méritos y examen de competencia.
+D. Direcciones: puntaje de ficha y antigüedad; demás: examen voluntario ante el Instituto de Investigaciones.
+Respuesta correcta: B
+Explicación: El Art. 22 dispone que los ascensos a las direcciones se determinan por concurso de méritos y examen de competencia (Art. 228 del Código), mientras que los demás ascensos jerárquicos, becas y misiones especiales se definen por compulsa de méritos, sistema de concurso y años de servicio (Art. 252 del Código).
+Sustento: D.S. 04688, Capítulo V, Art. 22; página impresa: sin numeración; página PDF: 9.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+33. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] ¿Cuál es la diferencia de cómputo de antigüedad en zonas declaradas fronterizas entre normalistas y titulares o interinos no oriundos del lugar?
+A. Normalista: 4 años computan 6; titular o interino: 2 años computan 4.
+B. Normalista: 2 años computan 4; titular o interino: 2 años computan 3.
+C. Normalista: 2 años computan 4; titular o interino: 4 años computan 6.
+D. Normalista: 2 años computan 3; titular o interino: 3 años computan 5.
+Respuesta correcta: C
+Explicación: El Art. 29 reconoce a los normalistas no oriundos 4 años de antigüedad por 2 de servicio en frontera; el Art. 30 reconoce a titulares o interinos no oriundos 6 años por 4 de servicio, para jubilación, calificación de méritos y promoción de categoría.
+Sustento: D.S. 04688, Capítulo V, Arts. 29 y 30; página impresa: sin numeración; página PDF: 11.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+34. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XI] Distinga las causas de retiro del servicio activo calificadas como "no culpables" de las "culpables":
+A. No culpable: condena por delitos comunes; culpable: retiro por sentencia del proceso.
+B. No culpable: llegar a 60 años; culpable: condena a pena corporal por delitos comunes.
+C. No culpable: jubilación voluntaria; culpable: cesantía sin culpabilidad del maestro.
+D. No culpable: deméritos graves acumulados; culpable: abandono de funciones por un año.
+Respuesta correcta: B
+Explicación: El Art. 75 califica como causas no culpables haber llegado a los 60 años (jubilación obligatoria, salvo excepciones) y acogerse voluntariamente a la jubilación; y como culpables la condena a pena corporal por delitos comunes y el retiro por sentencia dictada en proceso.
+Sustento: D.S. 04688, Capítulo XI, Art. 75; página impresa: sin numeración; página PDF: 22.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+35. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] En la calificación de méritos, distinga entre "condiciones personales y docentes" y "méritos generales":
+A. Las primeras computan deméritos; los segundos computan el tiempo de servicio en zonas de frontera.
+B. Las primeras se califican por trimestre trabajado; los segundos, por títulos académicos obtenidos.
+C. Las primeras incluyen libros y publicaciones; los segundos, asistencia, puntualidad y disciplina.
+D. Las primeras se basan en la ficha del superior; los segundos incluyen publicaciones, premios y cargos.
+Respuesta correcta: D
+Explicación: El Art. 26 califica las condiciones personales sobre la base de la ficha anotada por el inmediato superior (asistencia, personalidad, ascendencia moral, etc.), mientras que el Art. 32 incluye en méritos generales artículos, libros, publicaciones, funciones públicas, premios, fundación de cursos y desempeño de funciones jerárquicas.
+Sustento: D.S. 04688, Capítulo V, Arts. 26 y 32; página impresa: sin numeración; páginas PDF: 10 a 12.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+36. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO II] El Art. 5 exige tener entre 18 y 50 años para ingresar al sector docente, mientras el Art. 11 impide la admisión a la docencia de los mayores de 60 años. ¿Cuál es la lectura crítica más consistente?
+A. Ambos fijan el mismo límite, ya que el de 60 años solo se aplica al personal administrativo del ramo educativo.
+B. El segundo deroga tácitamente al primero, porque es posterior en el orden del articulado del decreto.
+C. Ambos son contradictorios, por lo que prevalece siempre el límite más favorable de 60 años de edad.
+D. El primero regula el ingreso a la carrera; el segundo, un impedimento absoluto para ejercer la docencia.
+Respuesta correcta: D
+Explicación: El Art. 5 fija requisitos para ingresar al sector docente (no menos de 18 ni más de 50 años), mientras el Art. 11 enumera impedimentos para la admisión en el ejercicio de la docencia, entre ellos ser mayor de 60 años, edad que el Art. 75 vincula con la jubilación obligatoria. Son reglas de naturaleza distinta y complementaria.
+Sustento: D.S. 04688, Capítulo II, Arts. 5 y 11; Capítulo XI, Art. 75; página impresa: sin numeración; páginas PDF: 4, 5 y 22.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+37. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] El examen voluntario de promoción de categoría permite a un normalista llegar a la 1.ª categoría con 16 años, cuando por antigüedad lo haría con 20. ¿Qué propósito declara el Reglamento para esta opción?
+A. Estimular la mejor preparación profesional del magisterio.
+B. Sustituir progresivamente la promoción por antigüedad.
+C. Reducir el gasto presupuestario de las categorías altas.
+D. Compensar a quienes prestan servicio en zonas alejadas.
+Respuesta correcta: A
+Explicación: El Art. 40 establece la opción del examen voluntario "con el objeto de estimular la mejor preparación profesional del magisterio" como medio para abreviar el proceso de promociones; la promoción por antigüedad se mantiene (Art. 42).
+Sustento: D.S. 04688, Capítulo VI, Arts. 38, 40 y 42; página impresa: sin numeración; páginas PDF: 14 y 15.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+38. [D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] El Art. 64 prohíbe que un mismo curso en una misma asignatura sea atendido por más de un profesor. ¿Qué fundamento pedagógico expresa el propio artículo?
+A. Evitar que la acción educativa diaria se malogre por la dispersión de la labor docente.
+B. Impedir que el director acumule horas en establecimientos ajenos al suyo propio.
+C. Garantizar que los profesores de mayor categoría tengan prioridad en la asignación.
+D. Asegurar que el pago de horas excedentes no se duplique en el mismo establecimiento.
+Respuesta correcta: A
+Explicación: El Art. 64 justifica la prohibición en que la acción educativa del profesor del ciclo medio, ejercida mediante su contacto diario con los alumnos, no quede malograda por la dispersión de la labor docente.
+Sustento: D.S. 04688, De la acumulación de cargos docentes, Art. 64; página impresa: sin numeración; página PDF: 20.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+39. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Entre los deméritos por "faltas de rendimiento" figura tener más de 30% de reprobados en el curso. Desde un análisis crítico, ¿qué rasgo del Reglamento revela esta previsión?
+A. Sanciona el rendimiento solo cuando existe sentencia ejecutoriada en proceso escolar.
+B. Vincula la valoración del maestro con los resultados de aprendizaje de sus alumnos.
+C. Atribuye la reprobación a los alumnos y excluye cualquier responsabilidad docente.
+D. Reemplaza la ficha de méritos por indicadores estadísticos de promoción del curso.
+Respuesta correcta: B
+Explicación: El Art. 33 incluye, entre las faltas de rendimiento, "más de 30% de reprobados en el curso" (de 1 a 5 puntos), junto a deficiencias para el cargo y omisión de registros, lo que vincula la valoración docente con los resultados del curso sin reemplazar la ficha de calificación.
+Sustento: D.S. 04688, Capítulo V, Art. 33; página impresa: sin numeración; página PDF: 12.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+40. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Entre los deméritos por abusos contra los alumnos, ¿cuál tiene en el Reglamento el rango de puntaje más alto?
+A. El trato indebido que provoque deserción, de 1 a 15 puntos de demérito.
+B. La instigación inmoral a los alumnos, de 1 a 20 puntos de demérito.
+C. El uso de castigos corporales y vejaciones graves, de 1 a 20 puntos.
+D. La explotación de alumnos en servicios indebidos, de 1 a 15 puntos.
+Respuesta correcta: C
+Explicación: El Art. 33, área 4, asigna de 1 a 20 puntos al uso de castigos corporales y vejaciones graves, de 1 a 15 a la instigación inmoral, y de 1 a 10 tanto al trato indebido que provoque deserción superior al 20% como a la explotación de alumnos.
+Sustento: D.S. 04688, Capítulo V, Art. 33, num. 4; página impresa: sin numeración; página PDF: 13.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+41. [D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] El Art. 60 condiciona las acumulaciones a que no existan maestros normalistas o titulares sin colocación en el mismo ciclo o especialidad. ¿Qué principio subyace a esta regla?
+A. Asegurar que solo los maestros de primera categoría accedan a las horas adicionales disponibles.
+B. Garantizar que las horas excedentes se asignen según el puntaje de deméritos.
+C. Permitir que el director distribuya libremente las horas según su criterio.
+D. Priorizar el empleo de maestros calificados disponibles antes que concentrar cargos.
+Respuesta correcta: D
+Explicación: Al supeditar la acumulación a la inexistencia de normalistas o titulares sin colocación (Art. 60), y al encomendar preferentemente los cargos nocturnos y de alfabetización a normalistas sin colocación (Art. 66), el Reglamento prioriza el empleo de maestros calificados disponibles.
+Sustento: D.S. 04688, De la acumulación de cargos docentes, Arts. 60 y 66; página impresa: sin numeración; páginas PDF: 19 y 20.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+42. [D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] El Art. 70 niega la acumulación a quienes no sean jefes de familia o tengan rentas de otra fuente. ¿Qué criterio adopta el Reglamento para la acumulación?
+A. Un criterio de mérito académico, ligado al puntaje de estudios y títulos del maestro.
+B. Un criterio territorial, ligado a la condición de oriundo de la zona de trabajo.
+C. Un criterio de necesidad económica, ligado a tener al menos un hijo menor a cargo.
+D. Un criterio de antigüedad, ligado a la categoría alcanzada en la escala de promoción.
+Respuesta correcta: C
+Explicación: Los Arts. 70 y 71 excluyen de la acumulación a quienes no son jefes de familia (al menos un hijo menor a cargo) o tienen rentas de inmuebles, utilidades o ejercicio de otra profesión, lo que revela un criterio de necesidad económica, sin perjuicio de los límites por categoría del Art. 61.
+Sustento: D.S. 04688, De la acumulación de cargos docentes, Arts. 70 y 71; página impresa: sin numeración; página PDF: 21.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+43. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XI] El Art. 74 reconoce al maestro inscrito que queda cesante sin culpa el 100% del haber hasta su restitución. ¿Qué límite y qué condición contiene la disposición?
+A. Restitución en un cargo del mismo rango en un máximo de 180 días; pago con fondos del distrito.
+B. Restitución en un cargo de rango inferior en un máximo de 90 días; pago al 50% de su haber.
+C. Restitución en cualquier cargo disponible en un máximo de 60 días; pago por la Federación sindical.
+D. Restitución en un cargo del mismo rango en un máximo de 90 días; partida global en el presupuesto.
+Respuesta correcta: D
+Explicación: El Art. 74 reconoce el 100% del haber hasta que se restituya al maestro en funciones del mismo rango en un máximo de 90 días, y prevé fijar una partida global en el Presupuesto de Educación para esos pagos.
+Sustento: D.S. 04688, Capítulo XI, Art. 74; página impresa: sin numeración; página PDF: 22.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+44. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VIII] Para formular las ternas de designación de directores, jefes e inspectores de distrito, el Reglamento ordena considerar las condiciones del Art. 54 y "muy especialmente":
+A. El ascendiente y la autoridad moral de los candidatos en las bases del magisterio.
+B. El respaldo escrito de la Federación sindical del distrito al que postula el candidato.
+C. La aprobación del examen voluntario de promoción ante el Instituto de Investigaciones.
+D. La mayor categoría alcanzada por el candidato en la escala de promociones vigente.
+Respuesta correcta: A
+Explicación: El Art. 55 dispone que en las ternas se tengan en cuenta las condiciones del Art. 54 y, muy especialmente, el requisito del ascendiente y la autoridad moral que deben gozar los candidatos en las bases del magisterio.
+Sustento: D.S. 04688, Capítulo VIII, Art. 55; página impresa: sin numeración; página PDF: 18.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+45. [D.S. 04688 Reglamento del Escalafón Nacional – DISPOSICIONES GENERALES Y TRANSITORIAS] El Art. 86 anticipa un cambio en el régimen de promoción de categoría. ¿En qué consiste?
+A. Concluida la calificación nacional, las categorías se fijarán por la Federación de Maestros.
+B. Concluida la calificación nacional, la antigüedad dejará de computarse para promover las categorías.
+C. Concluida la calificación nacional, el examen voluntario será obligatorio para toda promoción.
+D. Concluida la calificación nacional, los méritos serán factor necesario según escala del Ministerio.
+Respuesta correcta: D
+Explicación: El Art. 86 prevé que, una vez concluida la calificación de méritos del personal docente en todo el país, el puntaje de méritos pasará a ser un factor necesario para la promoción de categoría, de acuerdo con la escala de puntos que establezca el Ministerio de Educación.
+Sustento: D.S. 04688, Disposiciones generales y transitorias, Art. 86; página impresa: sin numeración; página PDF: 25.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+46. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] Un maestro interino con 15 años cumplidos de servicio, que nunca rindió exámenes voluntarios, ¿en qué categoría le corresponde estar por antigüedad?
+A. Segunda categoría.
+B. Cuarta categoría.
+C. Quinta categoría.
+D. Tercera categoría.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 39 dispone que interinos, titulares y administrativos ascienden a la 5.ª categoría a los 5 años, a la 4.ª a los 10, a la 3.ª a los 15, a la 2.ª a los 20 y a la 1.ª a los 25 años cumplidos.
+Sustento: D.S. 04688, Capítulo VI, Art. 39; página impresa: sin numeración; página PDF: 14.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+47. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] Un maestro normalista con 10 años de servicio, sin exámenes voluntarios, ¿qué porcentaje de bonificación de categoría percibe sobre su haber básico?
+A. 60%.
+B. 45%.
+C. 75%.
+D. 30%.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El normalista percibe la 5.ª categoría desde su inicio y asciende a los 5, 10, 15 y 20 años (Art. 38); con 10 años alcanza la 3.ª categoría, que asigna el 60% (Art. 37).
+Sustento: D.S. 04688, Capítulo VI, Arts. 37 y 38; página impresa: sin numeración; página PDF: 14.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+48. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] Una maestra normalista con 12 años de servicio aprueba el examen voluntario. ¿Hasta qué categoría puede ser promovida en virtud del Art. 40?
+A. Cuarta categoría.
+B. Primera categoría.
+C. Tercera categoría.
+D. Segunda categoría.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 40, inciso b), permite a los normalistas acceder a la 4.ª categoría con 4 años, a la 3.ª con 8, a la 2.ª con 12 y a la 1.ª con 16 años, siempre con examen aprobado.
+Sustento: D.S. 04688, Capítulo VI, Art. 40, inc. b); página impresa: sin numeración; página PDF: 15.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+49. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] Un maestro titular con 18 años de servicio aprueba el examen voluntario. ¿A qué categoría puede ser promovido?
+A. Tercera categoría.
+B. Segunda categoría.
+C. Cuarta categoría.
+D. Primera categoría.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 40, inciso a), permite a interinos y titulares acceder a la 3.ª categoría con 14 años, a la 2.ª con 18 y a la 1.ª con 22 años, con examen aprobado.
+Sustento: D.S. 04688, Capítulo VI, Art. 40, inc. a); página impresa: sin numeración; página PDF: 15.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+50. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un maestro realizó alfabetización voluntaria y no remunerada de 50 personas. ¿Qué puntaje le corresponde por ese concepto en condiciones personales?
+A. 10 puntos, por ser el tope del inciso.
+B. 15 puntos, por ajuste proporcional.
+C. 20 puntos, por ser el máximo previsto.
+D. 25 puntos, a razón de 5 por cada 10.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 26, inciso i), asigna 5 puntos por cada 10 sujetos alfabetizados de forma voluntaria y no remunerada, hasta un máximo de 20 puntos; los 25 puntos teóricos se limitan al tope.
+Sustento: D.S. 04688, Capítulo V, Art. 26, inc. i); página impresa: sin numeración; página PDF: 11.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+51. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un maestro desempeñó un cargo asimilado al rango de Jefe de Distrito Escolar. ¿Cuántos puntos de méritos generales le corresponden por ese desempeño jerárquico?
+A. 4 puntos.
+B. 8 puntos.
+C. 6 puntos.
+D. 2 puntos.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 32, inciso g), asigna por funciones jerárquicas: 2 puntos (director), 4 (Inspector Distrital), 6 (Jefe de Distrito Escolar), 8 (Director Nacional) y 10 (Director General y Oficial Mayor).
+Sustento: D.S. 04688, Capítulo V, Art. 32, inc. g); página impresa: sin numeración; página PDF: 12.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+52. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VIII] Un maestro con formación pedagógica, que fue director, tiene 9 años de servicio y 130 puntos de méritos. ¿A qué cargo jerárquico puede optar según el Art. 54?
+A. Director General, por haber ejercido cargo directivo.
+B. Inspector de distrito, pero no Jefe de Distrito.
+C. Ninguno, porque requiere quince años de servicio.
+D. Jefe de Distrito, por cumplir ocho años de servicio.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 54 exige para inspector formación pedagógica, haber sido director, al menos 8 años y 120 puntos; para Jefe de Distrito, los mismos requisitos pero 150 puntos; para Director General, 15 años y 200 puntos. Con 130 puntos solo alcanza el requisito de inspector.
+Sustento: D.S. 04688, Capítulo VIII, Art. 54, incs. b) y c); página impresa: sin numeración; páginas PDF: 17 y 18.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+53. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VIII] Una maestra con título de formación pedagógica en el ciclo, capacidad directiva comprobada, 6 años de servicio y 95 puntos de méritos postula a dirección de escuela. ¿Cumple los requisitos?
+A. Sí, porque el puntaje solo se exige para cargos de inspección.
+B. Sí, porque supera el mínimo de 5 años exigido para el cargo.
+C. No, porque no alcanza el mínimo de 100 puntos de méritos.
+D. No, porque se exigen al menos 8 años de servicio en el cargo.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 54, inciso a), exige para ser Director de Escuela título de formación pedagógica en el ciclo, capacidad directiva, no menos de 5 años de servicio y no menos de 100 puntos de méritos; las condiciones son concurrentes.
+Sustento: D.S. 04688, Capítulo VIII, Art. 54, inc. a); página impresa: sin numeración; página PDF: 17.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+54. [D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Un profesor normalista de secundaria, en segunda categoría, solicita acumular horas además de su cargo principal. ¿Cuál es el límite que le corresponde?
+A. Hasta 10 horas semanales.
+B. Hasta 6 horas semanales.
+C. Hasta 8 horas semanales.
+D. Hasta 4 horas semanales.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 61 fija para el ciclo secundario: primera categoría hasta 10 horas, segunda hasta 8, tercera hasta 6 y cuarta hasta 4 horas semanales, además del cargo principal.
+Sustento: D.S. 04688, De la acumulación de cargos docentes, Art. 61; página impresa: sin numeración; páginas PDF: 19 y 20.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+55. [D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] El director de un colegio secundario desea dictar 6 horas en un colegio particular nocturno distinto del suyo. Según el Art. 69, ¿qué corresponde?
+A. Es incompatible: el director solo acumula hasta 10 horas en su propio establecimiento.
+B. Es incompatible solo si el colegio particular cobra pensiones que no son módicas.
+C. Es procedente si no supera 10 horas y cuenta con autorización del Jefe de Distrito.
+D. Es procedente, porque el Art. 68 permite trabajar en colegios particulares nocturnos.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 69 permite a los directores de colegios secundarios acumular hasta 10 horas semanales dentro del propio establecimiento y declara incompatible la acumulación en otro establecimiento, fiscal o particular. Esta regla específica para directores prevalece sobre la general del Art. 68.
+Sustento: D.S. 04688, De la acumulación de cargos docentes, Arts. 68 y 69; página impresa: sin numeración; página PDF: 21.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+56. [D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Una maestra de primaria en cuarta categoría solicita acumular un cargo en un centro de alfabetización. ¿Es procedente según el Art. 65?
+A. No, porque la acumulación en pre-escolar y primaria procede desde tercera categoría.
+B. Sí, siempre que el segundo cargo no sea directivo ni se desarrolle en horario diurno.
+C. Sí, porque los centros de alfabetización permiten acumular a cualquier categoría.
+D. No, porque en primaria solo se acumulan horas dentro del mismo establecimiento.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 65 permite a los maestros de pre-escolar y primaria, desde tercera categoría, acumular un cargo docente dentro de su ciclo y en escuelas nocturnas o centros de alfabetización, sin que ambos cargos sean directivos ni diurnos. En cuarta categoría no cumple el requisito.
+Sustento: D.S. 04688, De la acumulación de cargos docentes, Art. 65; página impresa: sin numeración; página PDF: 20.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+57. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un maestro con título de bachiller y título de abogado se inscribe en el Escalafón. Solo por estos tres conceptos (inscripción y ambos títulos), ¿cuántos puntos suma en estudios y títulos?
+A. 25 puntos.
+B. 20 puntos.
+C. 10 puntos.
+D. 15 puntos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 25 asigna 5 puntos por inscripción en el Escalafón, 5 por título de bachiller y 10 por título de médico, abogado, ingeniero u otro de igual nivel universitario, lo que suma 20 puntos.
+Sustento: D.S. 04688, Capítulo V, Art. 25; página impresa: sin numeración; página PDF: 10.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+58. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO III] Un maestro interino, con 6 años de servicio, no rindió la prueba de idoneidad por razones imputables a su negligencia. ¿Qué consecuencia prevé el Reglamento?
+A. Queda inhabilitado para el ejercicio de la docencia.
+B. Recibe deméritos por incumplimiento de sus comisiones.
+C. Pierde un año de antigüedad para la promoción.
+D. Debe rendir la prueba en un plazo improrrogable.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 43 dispone que los maestros interinos que después de 6 años de servicio no rindieron la prueba de idoneidad del Art. 232 del Código, por razones imputables a su negligencia, quedan inhabilitados para el ejercicio de la docencia.
+Sustento: D.S. 04688, Capítulo VI, Art. 43; página impresa: sin numeración; página PDF: 15.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+59. [D.S. 04688 Reglamento del Escalafón Nacional – DISPOSICIONES GENERALES Y TRANSITORIAS] Un maestro normalista egresó hace 3 años y aún no recabó su título ni la visación correspondiente. Cumple el tiempo para ascender de categoría. ¿Qué establece el Reglamento?
+A. No puede ascender de categoría hasta recabar el título y su visación.
+B. Asciende, pero el ascenso queda sujeto a revisión de la Comisión.
+C. Pierde la bonificación de quinta categoría hasta regularizarse.
+D. Asciende normalmente, porque la antigüedad es el único requisito.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 81 obliga a los normalistas a recabar el título y su visación en el término de 2 años después de su egreso, requisitos sin los cuales no podrán ascender de categoría. La quinta categoría inicial no puede ser retirada (Art. 82).
+Sustento: D.S. 04688, Disposiciones generales y transitorias, Arts. 81 y 82; página impresa: sin numeración; página PDF: 24.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+60. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VII] Un maestro fue notificado con su calificación distrital y presenta la apelación al día 12. ¿Qué debe hacer la Comisión Distrital?
+A. Remitirla a la Comisión Nacional, que es la única facultada para revisar plazos.
+B. Verificar que la apelación es extemporánea por exceder el término de 10 días.
+C. Resolverla en el fondo, porque los plazos no rigen para reclamos de antigüedad.
+D. Concederla, porque el término de apelación es de 15 días desde la notificación.
+Respuesta correcta: B
+Explicación: Aplicación razonada: Los Arts. 50 y 51 fijan un término de 10 días desde la notificación para apelar ante la Comisión Nacional y encargan a la Comisión Distrital verificar la procedencia de la apelación en cuanto a ese término.
+Sustento: D.S. 04688, Capítulo VII, Arts. 50 y 51; página impresa: sin numeración; página PDF: 17.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+61. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO II] Una persona de 52 años, con título universitario y amplia experiencia, solicita ingresar al sector docente fiscal como maestra interina de secundaria. ¿Qué corresponde según el Reglamento?
+A. No procede, porque los interinos solo pueden enseñar en el ciclo primario.
+B. Procede, porque el impedimento de admisión rige solo para mayores de 60 años.
+C. Procede, porque el título universitario la habilita para enseñar en secundaria.
+D. No procede, porque el ingreso al sector docente exige tener entre 18 y 50 años.
+Respuesta correcta: D
+Explicación: El Art. 5, inciso c), exige para ingresar al sector docente tener no menos de 18 ni más de 50 años. El título universitario (Art. 9, inciso b) es un grado mínimo de instrucción del interino, pero no suple el requisito de edad para el ingreso.
+Sustento: D.S. 04688, Capítulo II, Arts. 5 y 9; página impresa: sin numeración; páginas PDF: 4 y 5.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+62. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO II] En una zona sin maestros normalistas disponibles, se propone admitir como interino de primaria a un postulante que no tiene diploma de bachiller, pero aprobó el examen de capacidad. ¿Qué corresponde?
+A. No admitirlo: el bachillerato es grado mínimo imprescindible para enseñar en primaria.
+B. Admitirlo de forma provisional, con cargo a presentar el diploma en cinco años.
+C. Admitirlo, porque la emergencia y el examen aprobado sustituyen el grado mínimo.
+D. Admitirlo como titular, pues el examen de capacidad aprobado equivale al título pedagógico.
+Respuesta correcta: A
+Explicación: El Art. 9 exige "imprescindiblemente" para los interinos un examen de capacidad y el grado mínimo de instrucción; para el ciclo primario, el diploma de bachiller. Ambos requisitos son concurrentes.
+Sustento: D.S. 04688, Capítulo II, Art. 9; página impresa: sin numeración; páginas PDF: 4 y 5.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+63. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO II] Un postulante a docente tiene sentencia ejecutoriada por un delito en materia penal. El director que recibe su postulación debe considerar que:
+A. Puede ser admitido si la Comisión Distrital califica favorablemente su ficha.
+B. No puede ser admitido en el ejercicio de la docencia según el Reglamento.
+C. Puede ser admitido si la sentencia no se refiere a delitos contra alumnos.
+D. Puede ser admitido como interino si aprueba el examen de capacidad exigido.
+Respuesta correcta: B
+Explicación: El Art. 11, inciso d), establece que no pueden ser admitidos en el ejercicio de la docencia aquellos sobre quienes pese sentencia ejecutoriada por delitos en materia penal.
+Sustento: D.S. 04688, Capítulo II, Art. 11; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+64. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO III] Un funcionario administrativo con 12 años de servicio pasa a cumplir funciones docentes y pide conservar su categoría. ¿Qué exige el Reglamento?
+A. Presentar únicamente su certificado de formación pedagógica vigente.
+B. Reiniciar la escala desde la quinta categoría docente.
+C. Obtener informe favorable del director del establecimiento.
+D. Someterse a los exámenes previstos para interinos y titulares.
+Respuesta correcta: D
+Explicación: El Art. 17 dispone que el funcionario administrativo con más de 10 años de servicios que pase a funciones docentes, para mantener su categoría, deberá someterse a los exámenes para interinos y titulares.
+Sustento: D.S. 04688, Capítulo III, Art. 17; página impresa: sin numeración; página PDF: 7.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+65. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO III] Un maestro interino con 5 años de buen ejercicio docente solicita su inscripción en el Escalafón, presentando sus documentos personales y el certificado de bachiller. ¿Qué requisito adicional debe cumplir según el Art. 14?
+A. Presentar la ficha de calificación con al menos cien puntos de méritos.
+B. Acreditar diez años de servicio y un examen de capacidad aprobado.
+C. Obtener el título de maestro titular por Resolución Suprema previa.
+D. Aprobar el examen de idoneidad para continuar en la carrera docente.
+Respuesta correcta: D
+Explicación: El Art. 14 exige al interino, tras 5 años, presentar los documentos del Art. 13, acreditar el satisfactorio ejercicio durante 5 años, aprobar el examen de idoneidad y acreditar el grado mínimo de instrucción del Art. 9.
+Sustento: D.S. 04688, Capítulo III, Art. 14; página impresa: sin numeración; página PDF: 6.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+66. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un maestro discrepa fundadamente de la valoración de su ficha anual. ¿Cuál es la vía que prevé el Reglamento?
+A. Recurrir a la Comisión Calificadora Distrital y, en última instancia, a la Comisión Nacional.
+B. Recurrir al Tribunal Disciplinario Departamental y luego al Tribunal Disciplinario Nacional.
+C. Recurrir directamente al Departamento de Estadística y Personal del Ministerio de Educación.
+D. Recurrir a la Federación sindical, que resuelve en única instancia la valoración impugnada.
+Respuesta correcta: A
+Explicación: El Art. 36 dispone que los interesados fundadamente disconformes con la valoración de su ficha pueden recurrir ante las Comisiones Calificadoras Distritales y, en última instancia, a la Comisión Nacional.
+Sustento: D.S. 04688, Capítulo V, Art. 36; página impresa: sin numeración; página PDF: 14.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+67. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] La ficha anual de un maestro registra atrasos frecuentes y abandono de funciones. Como director que anota la ficha, ¿qué rangos de demérito debe aplicar a esas faltas de asistencia?
+A. Atrasos frecuentes: 1 a 5; abandono de funciones: 5 a 10.
+B. Atrasos frecuentes: 1 a 5; abandono de funciones: 1 a 20.
+C. Atrasos frecuentes: 1 a 10; abandono de funciones: 1 a 10.
+D. Atrasos frecuentes: 1 a 10; abandono de funciones: 1 a 15.
+Respuesta correcta: B
+Explicación: El Art. 33, área 1, asigna de 1 a 5 puntos a los atrasos frecuentes, de 1 a 10 a las faltas injustificadas frecuentes y al incumplimiento de comisiones, y de 1 a 20 al abandono de funciones.
+Sustento: D.S. 04688, Capítulo V, Art. 33, num. 1; página impresa: sin numeración; página PDF: 12.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+68. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO IX] Para la dirección vacante de una escuela se presentan tres postulantes. Uno de ellos no tiene título de formación pedagógica, pero sí la mayor antigüedad y el mejor puntaje. ¿Cómo debe proceder el Tribunal?
+A. Designarlo directamente, porque la antigüedad y los méritos prevalecen sobre el título.
+B. Someter a los tres a examen de competencia, porque existe paridad entre postulantes.
+C. Solicitar a la Federación sindical que defina la designación entre los tres postulantes.
+D. Excluirlo, porque la idoneidad acreditada por título pedagógico es condición del concurso.
+Respuesta correcta: D
+Explicación: El Art. 56 exige verificar en el concurso la idoneidad acreditada por título de formación pedagógica, la antigüedad y los méritos de la ficha; el examen de competencia solo procede en caso de paridad. El Art. 54, inciso a), exige además título de formación pedagógica para ser director.
+Sustento: D.S. 04688, Capítulo IX, Art. 56; Capítulo VIII, Art. 54; página impresa: sin numeración; páginas PDF: 17 y 18.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+69. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO IX] En la provisión de un cargo docente se omitieron las normas del Reglamento y una postulante resultó afectada. Además de la reclamación y la queja, ¿qué otra vía le reconoce el Reglamento?
+A. Pedir al Instituto de Investigaciones que aplique un nuevo examen de competencia.
+B. Solicitar la gestión de las Federaciones Sindicales de Maestros ante las autoridades.
+C. Interponer recurso directo ante el Tribunal Disciplinario Nacional del magisterio.
+D. Solicitar a la Comisión Distrital que anule la designación en el término de 3 días.
+Respuesta correcta: B
+Explicación: El Art. 58 dispone que, si se omiten o infringen las normas en la provisión de cargos, los postulantes afectados, además de su derecho a la reclamación y queja, podrán solicitar la gestión de las Federaciones Sindicales para que las autoridades dispongan la correcta aplicación de los preceptos legales.
+Sustento: D.S. 04688, Capítulo IX, Art. 58; página impresa: sin numeración; página PDF: 19.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+70. [D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Un profesor de secundaria en primera categoría, sin hijos y con renta por alquiler de inmuebles, solicita acumular 10 horas. ¿Qué corresponde?
+A. Concederla, porque la primera categoría habilita a acumular hasta diez horas.
+B. Concederla, porque el Art. 70 solo excluye rentas de utilidades comerciales.
+C. Denegar la acumulación, porque no es jefe de familia y tiene rentas de inmuebles.
+D. Concederla parcialmente hasta seis horas semanales, por tener ingresos de otra fuente.
+Respuesta correcta: C
+Explicación: Aunque el Art. 61 permite a la primera categoría acumular hasta 10 horas, el Art. 70 niega la acumulación a quienes no son jefes de familia (Art. 71: al menos un hijo menor a cargo) y a quienes tienen rentas de bienes inmuebles.
+Sustento: D.S. 04688, De la acumulación de cargos docentes, Arts. 61, 70 y 71; página impresa: sin numeración; páginas PDF: 19 a 21.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+71. [D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] En una provincia alejada, con falta de personal idóneo, un profesor de música de secundaria pide acumular dos cargos completos con horarios compatibles. ¿Qué establece el Reglamento?
+A. Es procedente solo si el profesor se encuentra en primera o segunda categoría.
+B. Es improcedente, porque las ramas técnicas solo pueden acumular horas excedentes.
+C. Es improcedente, porque en provincias la acumulación es exclusiva de directores.
+D. Es procedente, porque en esas zonas los de ramas técnicas pueden acumular dos cargos.
+Respuesta correcta: D
+Explicación: El Art. 72 permite, en provincias y distritos alejados con falta de personal idóneo, que los profesores de secundaria y primaria acumulen hasta dos cargos completos con compatibilidad de horario, y que los de ramas técnicas (Educación Física, Música, Economía Doméstica, etc.) también acumulen hasta dos cargos completos.
+Sustento: D.S. 04688, De la acumulación de cargos docentes, Art. 72; página impresa: sin numeración; página PDF: 21.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+72. [D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Un maestro de primaria sin acumulación, con un solo cargo principal, recibe una oferta para trabajar por las tardes como funcionario de la administración municipal. ¿Qué dispone el Reglamento?
+A. No puede aceptarla: la excepción no alcanza a funciones públicas o municipales.
+B. Puede aceptarla, porque el Art. 67 permite actividades de horario compatible.
+C. No puede aceptarla, porque el maestro fiscal no puede tener otra actividad.
+D. Puede aceptarla, siempre que se trate de una institución autárquica municipal.
+Respuesta correcta: A
+Explicación: El Art. 67 permite a los maestros con un solo cargo principal atender otras actividades de horario compatible en instituciones autárquicas, semiautárquicas o privadas, "no pudiendo ser funcionarios de la administración pública o municipal".
+Sustento: D.S. 04688, De la acumulación de cargos docentes, Art. 67; página impresa: sin numeración; página PDF: 21.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+73. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XI] Se instruye suspender a un maestro inscrito en el Escalafón por denuncias de indisciplina, sin proceso previo. ¿Qué principio del Reglamento se vulnera?
+A. La promoción: la suspensión impide computar el tiempo para la categoría siguiente.
+B. La inamovilidad: solo procede suspender previa sentencia en proceso con defensa.
+C. La cesantía: el maestro tiene derecho al 100% del haber durante la suspensión.
+D. La acumulación: el maestro suspendido no puede perder sus horas acumuladas.
+Respuesta correcta: B
+Explicación: El Art. 73 declara inamovibles a los maestros inscritos y exige, para su destitución o suspensión, la comisión de actos inmorales, indisciplinarios o delictuosos, previa sentencia tras proceso en que se reconozca defensa al acusado, bajo pena de nulidad.
+Sustento: D.S. 04688, Capítulo XI, Art. 73; página impresa: sin numeración; página PDF: 22.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+74. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XI] Un maestro cumple 60 años y desea continuar en servicio activo. Sin que exista una situación excepcional, ¿qué dispone el Reglamento?
+A. Puede continuar si la Comisión Distrital aprueba una prórroga anual.
+B. Debe ser retirado por causa culpable, con pérdida de su categoría.
+C. Puede continuar hasta los 65 años si conserva aptitud para el cargo.
+D. Debe acogerse obligatoriamente a la jubilación, por causa no culpable.
+Respuesta correcta: D
+Explicación: El Art. 75, inciso a), dispone el retiro por causas no culpables de quienes llegan a los 60 años, que deben acogerse obligatoriamente a la jubilación, salvo casos excepcionales.
+Sustento: D.S. 04688, Capítulo XI, Art. 75; página impresa: sin numeración; página PDF: 22.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+75. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XII] Un maestro presenta un certificado de servicios en una escuela rural particular de hacienda para que se le compute ese tiempo. ¿Quién debe expedir ese certificado?
+A. El director de la escuela fiscal más cercana.
+B. El Inspector Escolar de Distrito o de Zona.
+C. El propietario o gerente de la hacienda.
+D. La Contraloría u oficina pagadora fiscal.
+Respuesta correcta: B
+Explicación: El Art. 76, inciso b), dispone que en las escuelas rurales particulares, de hacienda o de comunidades campesinas, los servicios se acreditan mediante certificado de los Inspectores Escolares de Distrito o de Zona.
+Sustento: D.S. 04688, Capítulo XII, Art. 76; página impresa: sin numeración; página PDF: 23.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+76. [D.S. 04688 Reglamento del Escalafón Nacional – DISPOSICIONES GENERALES Y TRANSITORIAS] Un maestro normalista se desempeñó 6 años en un cargo administrativo del ramo de Educación antes de volver al aula. ¿Cómo se trata ese tiempo?
+A. Es válido para el cómputo de antigüedad para categorización y jubilación.
+B. Se computa a la mitad, por tratarse de funciones no docentes del ramo.
+C. No se computa, porque la categoría docente exige servicio en aula.
+D. Se computa solo para la jubilación, no para la promoción de categoría.
+Respuesta correcta: A
+Explicación: El Art. 79 establece que los servicios prestados por maestros normalistas en cargos administrativos del ramo de educación son válidos en el cómputo de su antigüedad para la categorización y la jubilación.
+Sustento: D.S. 04688, Disposiciones generales y transitorias, Art. 79; página impresa: sin numeración; página PDF: 23.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+77. [D.S. 04688 Reglamento del Escalafón Nacional – DISPOSICIONES GENERALES Y TRANSITORIAS] Un egresado de una Escuela Normal Rural, con 3 años de servicio en escuelas campesinas, solicita pasar al servicio urbano. ¿Qué exige el Reglamento?
+A. Servir al menos 3 años en escuelas campesinas y rendir el examen de capacidad urbano.
+B. Aprobar el examen voluntario de promoción ante el Instituto de Investigaciones.
+C. Servir al menos 5 años en escuelas campesinas y aprobar los dos últimos cursos urbanos.
+D. Obtener la autorización del Jefe de Distrito urbano y la visación de su título rural.
+Respuesta correcta: C
+Explicación: El Art. 80 dispone que los egresados de las Normales Rurales deben servir cuando menos cinco años en escuelas campesinas y, si desean pasar al servicio urbano, aprobar previamente los dos últimos cursos de las normales urbanas para obtener el título.
+Sustento: D.S. 04688, Disposiciones generales y transitorias, Art. 80; página impresa: sin numeración; página PDF: 24.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+78. [D.S. 04688 Reglamento del Escalafón Nacional – DISPOSICIONES GENERALES Y TRANSITORIAS] Un funcionario proveniente de otro servicio pasa a depender del Ministerio de Educación y reclama el cómputo de su antigüedad y el beneficio de categoría. ¿Qué requisito debe cumplir?
+A. Aprobar el examen voluntario de promoción en su primer año de servicio.
+B. Acreditar diez años de servicio continuo en el sector público nacional.
+C. Presentar la resolución de su anterior servicio que reconozca su categoría.
+D. Inscribirse en el Escalafón conforme a las normas del Reglamento.
+Respuesta correcta: D
+Explicación: El Art. 83 exige que los funcionarios docentes y administrativos de otros servicios que pasen a depender del Ministerio de Educación se inscriban en el Escalafón para tener derecho al cómputo de antigüedad, méritos y categorías; el Art. 84 limita la categorización a los servicios en el ramo de Educación.
+Sustento: D.S. 04688, Disposiciones generales y transitorias, Arts. 83 y 84; página impresa: sin numeración; página PDF: 24.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+79. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un maestro participó en cuatro reuniones pedagógicas internacionales, cada una valorada con 4 puntos. ¿Cuántos puntos le corresponden por ese concepto?
+A. 10 puntos, por ser el tope del inciso.
+B. 20 puntos, por su alcance internacional.
+C. 16 puntos, por la suma de las reuniones.
+D. 8 puntos, por ser el mínimo por reunión.
+Respuesta correcta: A
+Explicación: El Art. 26, inciso g), asigna de 2 a 4 puntos por asistencia a reuniones pedagógicas y sindicales de alcance internacional, hasta 10 puntos.
+Sustento: D.S. 04688, Capítulo V, Art. 26, inc. g); página impresa: sin numeración; página PDF: 11.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+80. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VII] Al iniciar el año lectivo, la Comisión Calificadora Distrital no ha elaborado las listas de categorizados y la Dirección Administrativa pregunta en qué plazo deben estar. ¿Qué establece el Reglamento?
+A. Durante el último trimestre del año anterior, con informe de la Federación.
+B. Dentro de los 90 días del año lectivo, con aprobación de la Comisión Nacional.
+C. Durante el primer mes del año lectivo, como base para pagar los beneficios.
+D. En cualquier momento del año, porque las comisiones se reúnen cuando es necesario.
+Respuesta correcta: C
+Explicación: El Art. 48 dispone que las Comisiones se reúnen cuando es necesario para calificar los expedientes y que elaboran, durante el primer mes del año lectivo, las listas de categorizados del distrito, sobre cuya base se pagan los beneficios.
+Sustento: D.S. 04688, Capítulo VII, Art. 48; página impresa: sin numeración; página PDF: 16.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] Un director debe opinar sobre la inhabilitación de un interino inscrito en el Escalafón que tiene 11 años de servicio y no fue declarado titular. ¿Qué aspecto debe verificar antes de concluir?
+A. Si el maestro alcanzó al menos la cuarta categoría por cómputo de antigüedad.
+B. Si la falta de declaratoria se debe a razones imputables a negligencia del maestro.
+C. Si la Federación sindical respaldó su permanencia en el último año lectivo.
+D. Si el maestro reprobó el examen voluntario de promoción en dos oportunidades.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 44 prevé la inhabilitación de los interinos inscritos que, con 11 años de servicios, no hubieran sido declarados titulares "por razones imputables a su negligencia". Sin ese elemento no procede la consecuencia.
+Sustento: D.S. 04688, Capítulo VI, Art. 44; página impresa: sin numeración; página PDF: 16.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Al llenar la ficha de un maestro, el director debe valorar su "ascendencia moral y disposición de ánimo estimulante para los alumnos". ¿Cuál es la decisión correcta respecto del puntaje máximo?
+A. Asignar hasta 10 puntos, según lo anotado en la ficha.
+B. Asignar hasta 15 puntos, en proporción a la categoría.
+C. Asignar hasta 5 puntos, por ser un criterio subjetivo.
+D. Asignar hasta 20 puntos, por su importancia pedagógica.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 26, inciso c), asigna hasta 10 puntos a la ascendencia moral y disposición de ánimo estimulante para los alumnos, sobre la base de la ficha anotada por el inmediato superior.
+Sustento: D.S. 04688, Capítulo V, Art. 26, inc. c); página impresa: sin numeración; página PDF: 10.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un maestro presenta certificados que acreditan servicio en la zona de operaciones de la Guerra del Chaco, debidamente calificado por el Tribunal Supremo de Justicia Militar. ¿Qué efecto debe reconocerse?
+A. Se computa con doble tiempo de servicios, para fines de jubilación.
+B. Se computa como mérito general de hasta diez puntos en la ficha.
+C. Se computa con doble tiempo, para la promoción de categoría docente.
+D. Se computa con triple tiempo para todos los efectos del Escalafón.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 28 dispone que el tiempo de permanencia en la zona de operaciones de la Guerra del Chaco, calificado por el Tribunal Supremo de Justicia Militar, se computa para fines de jubilación con doble tiempo de servicios en el ramo de la educación.
+Sustento: D.S. 04688, Capítulo V, Art. 28; página impresa: sin numeración; página PDF: 11.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Un director de primaria pretende asignar el cargo vacante de una escuela nocturna a un maestro diurno, aunque en el distrito hay una normalista sin colocación. ¿Cuál es la decisión ajustada al Reglamento?
+A. Encomendarlo al maestro diurno, porque es una acumulación ordinaria.
+B. Encomendarlo al maestro diurno, por tener mayor antigüedad docente.
+C. Encomendar el cargo preferentemente a la normalista sin colocación.
+D. Encomendarlo por concurso de méritos ante la Comisión Distrital.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 66 dispone que los cargos de escuelas nocturnas y centros de alfabetización se encomienden preferentemente a maestros normalistas sin colocación, y el Art. 60 condiciona la acumulación a que no haya normalistas o titulares sin colocación.
+Sustento: D.S. 04688, De la acumulación de cargos docentes, Arts. 60 y 66; página impresa: sin numeración; páginas PDF: 19 y 20.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Un profesor de un Instituto Normal, que percibe un haber mayor al de Director de Secundaria, solicita horas en un colegio fiscal distinto. ¿Qué corresponde resolver?
+A. Concederlo, porque el Art. 68 permite acumular en cualquier colegio nocturno.
+B. Denegarlo, salvo que acredite ser jefe de familia con un hijo menor a cargo.
+C. Concederlo hasta 10 horas semanales, según el límite de la primera categoría del Art. 61.
+D. Denegarlo: solo puede acumular las horas disponibles de su propio establecimiento.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 63 dispone que los profesores de Institutos Normales, Industriales y Comerciales que perciben un haber igual o mayor al de Director de Secundaria acumulan solamente las horas disponibles en el plan de estudios del mismo establecimiento; no les es compatible acumular en otros establecimientos fiscales.
+Sustento: D.S. 04688, De la acumulación de cargos docentes, Art. 63; página impresa: sin numeración; página PDF: 20.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] En un colegio, dos profesores proponen dividir entre ambos la misma asignatura de un mismo curso para equilibrar sus cargas horarias. ¿Qué debe decidir el director?
+A. Rechazarlo, porque un mismo curso y asignatura no puede ser atendido por dos profesores.
+B. Aceptarlo, si ambos profesores pertenecen a la misma categoría de la escala vigente.
+C. Aceptarlo, siempre que ninguno de los dos supere el límite de horas de su categoría.
+D. Rechazarlo solo si uno de los dos profesores no tiene título de formación pedagógica.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 64 establece que en ningún caso un mismo curso en una misma asignatura podrá ser atendido por más de un profesor, para no malograr la acción educativa.
+Sustento: D.S. 04688, De la acumulación de cargos docentes, Art. 64; página impresa: sin numeración; página PDF: 20.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] Una dirección distrital propone retirar la bonificación de quinta categoría a una maestra normalista recién egresada mientras regulariza documentos. ¿Qué debe decidirse?
+A. Mantenerla: el normalista percibe 5.ª categoría desde su inicio y no puede ser privado.
+B. Mantenerla solo si la Comisión Distrital incluye a la maestra en la lista anual.
+C. Suspenderla hasta que cumpla cinco años de servicio, como el resto del personal.
+D. Suspenderla, porque sin título visado no corresponde ningún beneficio de categoría.
+Respuesta correcta: A
+Explicación: Aplicación razonada: Los Arts. 38 y 82 disponen que los normalistas perciben la quinta categoría desde su iniciación y no pueden ser privados de ese beneficio por ningún motivo; el Art. 81 solo condiciona el ascenso a categorías superiores a recabar título y visación.
+Sustento: D.S. 04688, Capítulo VI, Art. 38; Disposiciones generales, Arts. 81 y 82; página impresa: sin numeración; páginas PDF: 14 y 24.
+
+# Dimensión: Toma de decisiones · Modalidad: Caso práctico
+88. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un maestro tiene 20 años de servicio continuo y reclama 80 puntos por tiempo de servicios. El director, al revisar la ficha, debe decidir:
+A. Reducirlos a 40 puntos, porque se computa un punto por semestre.
+B. Reducirlos a 20 puntos, porque se computa un punto por cada año.
+C. Confirmar los 80 puntos, a razón de un punto por trimestre trabajado.
+D. Ampliarlos a 100 puntos, porque el tope se alcanza a los 20 años.
+Respuesta correcta: C
+Explicación: El Art. 27 asigna 1 punto por cada trimestre de trabajo; 20 años equivalen a 80 trimestres, es decir, 80 puntos, dentro del tope de 100 del Art. 24.
+Sustento: D.S. 04688, Capítulo V, Arts. 24 y 27; página impresa: sin numeración; páginas PDF: 9 y 11.
+
+# Dimensión: Toma de decisiones · Modalidad: Caso práctico
+89. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VIII] Para la terna de Director Nacional se propone a un maestro con formación pedagógica superior, cargos jerárquicos previos, 16 años de servicio y 180 puntos. ¿Qué decisión corresponde?
+A. Incluirlo, porque el puntaje mínimo exigido es de 150 puntos.
+B. No incluirlo, porque no alcanza los 200 puntos de méritos exigidos.
+C. No incluirlo, porque se requieren al menos 20 años de servicio.
+D. Incluirlo, porque supera los 15 años de servicio exigidos al cargo.
+Respuesta correcta: B
+Explicación: El Art. 54, inciso d), exige para Director General, Director Nacional y cargos equivalentes formación pedagógica superior, cargos jerárquicos previos, no menos de 15 años de servicio ni menos de 200 puntos de méritos.
+Sustento: D.S. 04688, Capítulo VIII, Art. 54, inc. d); página impresa: sin numeración; página PDF: 18.
+
+# Dimensión: Toma de decisiones · Modalidad: Caso práctico
+90. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VII] Un integrante de la Comisión Distrital propone incluir en la lista de categorizados a un maestro que no cumple la antigüedad, "para no perjudicarlo". ¿Qué debe advertir el presidente de la Comisión?
+A. Que una calificación indebida acarrea sanción penal y repetición de lo pagado.
+B. Que solo procede si el maestro aprueba luego el examen voluntario de categoría.
+C. Que la Comisión Nacional puede convalidarla en la siguiente revisión anual.
+D. Que la decisión es válida si la aprueba por unanimidad la Comisión Distrital.
+Respuesta correcta: A
+Explicación: El Art. 49 hace responsables a los miembros de las Comisiones Distritales por la violación del Reglamento y los declara pasibles de sanciones penales por cualquier calificación o pago indebido, sin perjuicio de que el Estado repita contra ellos lo pagado.
+Sustento: D.S. 04688, Capítulo VII, Art. 49; página impresa: sin numeración; página PDF: 16.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Para orientar a su plantel sobre cómo mejorar el puntaje de méritos generales, un director debe saber que el Reglamento valora, entre otros:
+A. Organizar actividades extracurriculares sin aprobación oficial en el distrito.
+B. Fundar y sostener cursos o escuelas con aprobación oficial y resultados eficientes.
+C. Obtener la mayor cantidad de alumnos promovidos al final de cada gestión.
+D. Participar como vocal en las comisiones calificadoras de otros distritos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 32, inciso f), asigna hasta 10 puntos por fundar y sostener, por propia iniciativa, cursos o escuelas bajo aprobación oficial con resultados eficientes.
+Sustento: D.S. 04688, Capítulo V, Art. 32, inc. f); página impresa: sin numeración; página PDF: 12.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un director busca que la valoración anual de su plantel sea transparente y oportuna. ¿Qué práctica es coherente con lo dispuesto en el Reglamento?
+A. Delegar la valoración de las fichas en la Federación sindical para garantizar imparcialidad.
+B. Renovar la valoración solo cuando el maestro solicite su promoción a una categoría superior.
+C. Renovar la valoración de las fichas al finalizar cada período anual y entregar copia al interesado.
+D. Reservar las fichas en la dirección y remitirlas únicamente si la Comisión Nacional las solicita por escrito.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 36 dispone que las autoridades escolares renueven la valoración de las fichas al finalizar cada período anual, y el Art. 35 ordena que uno de los ejemplares se entregue al interesado.
+Sustento: D.S. 04688, Capítulo V, Arts. 35 y 36; página impresa: sin numeración; páginas PDF: 13 y 14.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO I] Desde una perspectiva de gestión, ¿qué función del Departamento de Estadística y Personal permite planificar presupuestariamente las categorías?
+A. Elaborar nóminas e índices estadísticos para asignar las partidas de sobresueldos.
+B. Recopilar las fichas de deméritos para descontarlas del presupuesto anual.
+C. Determinar los límites de acumulación de horas en cada establecimiento fiscal.
+D. Fijar el número de cargos directivos que se concursan en cada distrito escolar.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 3, numeral 2, inciso c), atribuye al Departamento la elaboración de nóminas e índices estadísticos necesarios para la oportuna asignación de las partidas de sobresueldos por categorías en el Presupuesto de Educación.
+Sustento: D.S. 04688, Capítulo I, Art. 3, num. 2, inc. c); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO V] Un director observa que en un curso más del 20% de los alumnos desertó por el trato indebido del maestro. Para anticiparse a consecuencias en la ficha, debe saber que esta situación se valora como:
+A. Demérito por fallo en proceso escolar, de 5 a 10 puntos.
+B. Demérito por falta de rendimiento, de 1 a 5 puntos.
+C. Demérito por falta de comportamiento, de 1 a 15 puntos.
+D. Demérito por abuso contra los alumnos, de 1 a 10 puntos.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 33, área 4 (abusos contra los alumnos), incluye el trato indebido que provoque la deserción de los alumnos en más del 20%, con un demérito de 1 a 10 puntos.
+Sustento: D.S. 04688, Capítulo V, Art. 33, num. 4; página impresa: sin numeración; página PDF: 13.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO VI] Un director quiere incentivar que los maestros interinos de su unidad no pierdan su habilitación. ¿Qué plazos críticos del Reglamento debe monitorear?
+A. El examen voluntario antes de 14 años y la promoción a 3.ª categoría antes de 18.
+B. La prueba de idoneidad antes de 6 años y la declaratoria de titular antes de 11.
+C. La prueba de idoneidad antes de 10 años y la declaratoria de titular antes de 15.
+D. La inscripción en el Escalafón antes de 2 años y el título visado antes de 5.
+Respuesta correcta: B
+Explicación: Aplicación razonada: Los Arts. 43 y 44 inhabilitan, por negligencia, al interino que tras 6 años no rindió la prueba de idoneidad y al interino inscrito que con 11 años no fue declarado titular.
+Sustento: D.S. 04688, Capítulo VI, Arts. 43 y 44; página impresa: sin numeración; páginas PDF: 15 y 16.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [D.S. 04688 Reglamento del Escalafón Nacional – DE LA ACUMULACIÓN DE CARGOS DOCENTES] Un director de secundaria planifica la distribución de horas excedentes de su colegio. ¿Qué criterio estratégico es coherente con el Reglamento?
+A. Asignarlas en partes iguales a todos los profesores para equilibrar sus ingresos mensuales.
+B. Asignarlas respetando los límites por categoría y sin dividir una asignatura de un mismo curso.
+C. Asignarlas a los profesores de quinta categoría, por tener la menor bonificación salarial.
+D. Asignarlas al propio director hasta completar veinte horas semanales en su colegio.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 61 fija límites de acumulación por categoría (sin prever acumulación para la quinta), el Art. 64 prohíbe que una misma asignatura de un curso sea atendida por más de un profesor y el Art. 69 limita al director a 10 horas en su propio establecimiento.
+Sustento: D.S. 04688, De la acumulación de cargos docentes, Arts. 61, 64 y 69; página impresa: sin numeración; páginas PDF: 19 a 21.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO XII] Para evitar observaciones en el reconocimiento de servicios prestados en un colegio privado religioso, ¿qué cadena documental debe asegurar el interesado?
+A. Declaración jurada del maestro, informe del Jefe de Distrito y resolución del Ministerio del ramo.
+B. Certificado del director, visto bueno sindical y resolución de la Comisión Calificadora Distrital.
+C. Certificado de la Contraloría, informe del Inspector del ciclo y aprobación de la Comisión Nacional del ramo.
+D. Certificado del director, legalización por el Inspector, auto del Jefe de Distrito y Resolución Suprema.
+Respuesta correcta: D
+Explicación: Aplicación razonada: Según los Arts. 76 y 77, en planteles urbanos sostenidos por instituciones religiosas el certificado lo expide el director; es autenticado y legalizado por el Inspector del ciclo, el Jefe de Distrito dicta el auto de legalización y el tiempo se reconoce por Resolución Suprema para su calificación.
+Sustento: D.S. 04688, Capítulo XII, Arts. 76 y 77; página impresa: sin numeración; página PDF: 23.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO IV] Al proponer un organigrama, un director debe ubicar correctamente a los cargos de su establecimiento en la escala jerárquica docente. ¿Qué rango ocupan los directores de establecimientos educativos?
+A. Un rango superior al de inspectores de distrito e igual al de jefes de distrito.
+B. Un rango inferior al de inspectores de distrito y superior al de profesores.
+C. Un rango inferior al de profesores ayudantes y superior al de nocturnas.
+D. El mismo rango que los profesores de normales urbanas e institutos superiores.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 20 ordena la escala docente: e) inspectores de distrito o de zona; f) directores de establecimientos educativos en todos los ciclos; g) profesores y maestros; h) profesores ayudantes; i) profesores de nocturnas y alfabetización.
+Sustento: D.S. 04688, Capítulo IV, Art. 20; página impresa: sin numeración; páginas PDF: 7 y 8.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [D.S. 04688 Reglamento del Escalafón Nacional – CAPÍTULO IV] Un director organiza al personal administrativo de su colegio según la escala jerárquica administrativa. ¿En qué rango se ubican los secretarios, regentes y habilitados de colegios y escuelas?
+A. En el mismo rango que los dactilógrafos, auxiliares de oficina y niñeras.
+B. En un rango superior al de los secretarios de las jefaturas de distrito escolar del ramo.
+C. En el mismo rango, junto con inspectores de establecimiento y visitadoras sociales.
+D. En el mismo rango que los operadores técnicos y choferes del servicio.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 21, inciso f), agrupa a secretarios, inspectores, regentes y habilitados de institutos, colegios y escuelas, habilitados de las jefaturas de distrito y visitadoras sociales; el inciso d) ubica por encima a los secretarios de las jefaturas de distrito, y los incisos g) y h) a dactilógrafos, niñeras, operadores y choferes por debajo.
+Sustento: D.S. 04688, Capítulo IV, Art. 21; página impresa: sin numeración; páginas PDF: 8 y 9.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [D.S. 04688 Reglamento del Escalafón Nacional – DISPOSICIONES GENERALES Y TRANSITORIAS] Un director debe explicar a su plantel por qué las categorías obtenidas antes de 1957 no se perdieron con el nuevo Reglamento. ¿Qué disposición transitoria lo sustenta?
+A. Se reconoció la categoría previa examen voluntario ante el Instituto de Investigaciones.
+B. Se reconoció la categoría solo a los normalistas, y el resto reinició la escala en 1957.
+C. Se reconoció la categoría que gozaban, y los ascensos se calificaron desde enero de 1958.
+D. Se reconoció la categoría solo a quienes tenían más de cinco años de servicio continuo.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 85 reconoce la categoría que gozaban los maestros y funcionarios categorizados según el sistema anterior (salvo normalistas con menos de 5 años, que perciben la 5.ª categoría) y dispone que los ascensos según el nuevo sistema se califican a partir de enero de 1958.
+Sustento: D.S. 04688, Disposiciones generales y transitorias, Art. 85; página impresa: sin numeración; página PDF: 24.

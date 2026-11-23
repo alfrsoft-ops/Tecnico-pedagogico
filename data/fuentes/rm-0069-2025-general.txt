@@ -1,0 +1,1102 @@
+# Fuente: rm-0069-2025-general.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# SISTEMA EDUCATIVO PLURINACIONAL
+# BANCO DE PREGUNTAS DE NIVEL MUY AVANZADO
+# Evaluación de aspirantes a cargos directivos
+# Fuente exclusiva
+# R.M. N.º 0069/2025 – Reglamento para el Fortalecimiento de la Educación Inclusiva en el Sistema Educativo Plurinacional – Modalidad Indirecta
+# Resolución Ministerial de 7 de febrero de 2025
+# 100 preguntas de opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# La Paz – Bolivia
+# Noviembre de 2026
+# 1. Presentación del instrumento
+# El presente banco de 100 preguntas de nivel muy avanzado está dirigido a la evaluación de aspirantes a cargos directivos del Sistema Educativo Plurinacional. Ha sido elaborado exclusivamente a partir de la R.M. N.º 0069/2025 y del Reglamento para el Fortalecimiento de la Educación Inclusiva – Modalidad Indirecta que aprueba, sin incorporar fuentes externas.
+# Cada pregunta indica su dimensión de evaluación, su modalidad (Conceptual, Interpretativa, Aplicación razonada o Caso práctico), la respuesta correcta, una fundamentación breve y la referencia documental verificable. El rótulo «Aplicación razonada» distingue las situaciones derivadas de las preguntas de conocimiento textual.
+# Al inicio de cada enunciado se consigna, entre corchetes, el documento y el capítulo de procedencia, para garantizar la trazabilidad de la fuente en una plataforma de simulación que combine preguntas de varios documentos.
+# Las preguntas sobre responsabilidades directivas se limitan a las que el Reglamento asigna expresamente a las directoras y directores de instituciones de Educación Regular, Alternativa y Superior (Art. 12), a los directores de Centros de Educación Especial (Art. 16) y a las Direcciones Departamentales y Distritales (Arts. 10, 11 y 50).
+# 2. Ficha técnica
+# Aspecto
+# Detalle
+# Documento fuente
+# R.M. N.º 0069/2025 – Reglamento para el Fortalecimiento de la Educación Inclusiva en el Sistema Educativo Plurinacional – Modalidad Indirecta – Resolución Ministerial de 7 de febrero de 2025
+# Archivo
+# 4. R.M. 0069-2025 Educación inclusiva.pdf (30 páginas PDF)
+# Cantidad de preguntas
+# 100
+# Modalidad
+# Opción múltiple y casos prácticos
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta
+# Rótulos de modalidad
+# Conceptual · Interpretativa · Aplicación razonada · Caso práctico
+# Criterio de paginación
+# La Resolución Ministerial tiene numeración «Página x de 3» (páginas PDF 1 a 3). El Reglamento anexo tiene numeración propia «Página n de 26»; en él, la página PDF equivale a la página impresa + 4.
+# 3. Distribución metodológica y ponderación
+# N.º
+# Dimensión de evaluación
+# Preguntas
+# Peso
+# Rango
+# 1
+# Conocimiento y memorización
+# 5
+# 5%
+# 1–5
+# 2
+# Dominio conceptual
+# 5
+# 5%
+# 6–10
+# 3
+# Competencias y responsabilidades directivas
+# 10
+# 10%
+# 11–20
+# 4
+# Comprensión e interpretación
+# 10
+# 10%
+# 21–30
+# 5
+# Diferenciación conceptual
+# 5
+# 5%
+# 31–35
+# 6
+# Análisis crítico
+# 10
+# 10%
+# 36–45
+# 7
+# Aplicación normativa
+# 15
+# 15%
+# 46–60
+# 8
+# Resolución de casos prácticos
+# 20
+# 20%
+# 61–80
+# 9
+# Toma de decisiones
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de respuestas correctas: A = 25 · B = 25 · C = 25 · D = 25.
+# Distribución por modalidad: Conceptual = 25 · Interpretativa = 20 · Aplicación razonada = 35 · Caso práctico = 20.
+# 4. Banco de preguntas
+# Dimensión: Conocimiento y memorización
+# Se verificó que el banco contiene exactamente 100 preguntas distribuidas según la tabla metodológica, cada una con cuatro alternativas y una sola respuesta correcta respaldada por el texto del Reglamento o de la Resolución Ministerial.
+# Las respuestas correctas se distribuyeron de manera equilibrada entre A, B, C y D, sin secuencias predecibles, y se controló la homogeneidad de extensión de las alternativas. En preguntas de dato breve (cargas horarias), la diferencia relativa puede ser mayor por la naturaleza de la información.
+# Las cifras de la relación maestro de apoyo–estudiante (Art. 55) se verificaron directamente sobre la tabla del documento fuente (página impresa 24 de 26).
+
+CAPÍTULO: rm-0069-2025-general
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] ¿Cuál es el objeto del Reglamento para el Fortalecimiento de la Educación Inclusiva – Modalidad Indirecta?
+A. Establecer los requisitos para la acreditación de equipos multidisciplinarios que evalúan a estudiantes con necesidades educativas.
+B. Normar el régimen disciplinario aplicable a maestras y maestros que rechacen la inscripción de estudiantes con discapacidad.
+C. Regular la creación y el funcionamiento de los Centros de Educación Especial bajo la modalidad directa en todo el territorio nacional del Estado.
+D. Garantizar el acceso, permanencia y conclusión educativa de estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario.
+Respuesta correcta: D
+Explicación: El Art. 1 dispone que el Reglamento tiene por objeto garantizar el acceso, permanencia y conclusión de procesos educativos de estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario matriculados en Educación Regular, Superior y Alternativa, fiscales, de convenio o privadas, mediante lineamientos pedagógicos y la organización de funciones.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo I, Art. 1; página impresa: 5 (de 26); página PDF: 9.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] Según el Art. 4, el "Diseño Plural para los Aprendizajes" es:
+A. Un currículo específico y separado que se aplica solo a estudiantes con discapacidad intelectual leve o moderada.
+B. Un conjunto de orientaciones curriculares que generan condiciones inclusivas para todos los estudiantes.
+C. Un plan individual elaborado por el maestro de apoyo que reemplaza la planificación de aula.
+D. Un instrumento de evaluación psicométrica que aplican los equipos multidisciplinarios del CEE.
+Respuesta correcta: B
+Explicación: El Art. 4, inciso g), define el Diseño Plural para los Aprendizajes como un conjunto de orientaciones para el desarrollo del currículo que genera condiciones educativas en el marco de la Educación Inclusiva y alcanza a todos los estudiantes en la mayor medida posible, sin excluir ayudas técnicas para grupos particulares.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. g); página impresa: 6 (de 26); página PDF: 10.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] ¿Qué comprende la "Comunicación Alternativa y Aumentativa" según el Reglamento?
+A. Las plataformas digitales que la unidad utiliza para comunicarse con las familias de estudiantes.
+B. Los informes que el maestro de apoyo remite al Centro de Educación Especial cada trimestre.
+C. Las estrategias orales que el maestro de aula usa para explicar contenidos abstractos.
+D. Sistemas como la Lengua de Señas Boliviana, el Braille u otras formas que favorecen aprendizajes.
+Respuesta correcta: D
+Explicación: El Art. 4, inciso i), define la Comunicación Alternativa y Aumentativa como sistemas lingüísticos y comunicacionales que facilitan el aprendizaje de estudiantes con discapacidad, como la Lengua de Señas Boliviana, el Sistema Braille u otras formas de comunicación.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. i); página impresa: 7 (de 26); página PDF: 11.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [R.M. 0069/2025 Reglamento de Educación Inclusiva – RESOLUCIÓN MINISTERIAL] ¿Con qué estructura aprueba la R.M. 0069/2025 el Reglamento para el Fortalecimiento de la Educación Inclusiva?
+A. Doce capítulos, setenta y cuatro artículos y una disposición final.
+B. Ocho capítulos, sesenta y tres artículos y dos disposiciones finales.
+C. Diez capítulos, sesenta artículos y tres disposiciones transitorias.
+D. Diez capítulos, sesenta y tres artículos y tres disposiciones finales.
+Respuesta correcta: D
+Explicación: El Art. 1 de la R.M. 0069/2025 aprueba el Reglamento en sus diez (10) capítulos, sesenta y tres (63) artículos y tres (3) disposiciones finales.
+Sustento: R.M. 0069/2025, Resolución Ministerial, Art. 1; página impresa: 3 (de 3); página PDF: 3.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] ¿Qué es la "Trayectoria Educativa" según el Reglamento?
+A. El conjunto de calificaciones trimestrales del estudiante registradas en la libreta escolar electrónica desde el primer año.
+B. El historial secuencial e individual del recorrido educativo del estudiante, registrado en un Archivo Personal.
+C. El informe anual del maestro de apoyo sobre los avances de los estudiantes que tiene a su cargo.
+D. El plan de nivelación elaborado por la Comisión Técnico Pedagógica para estudiantes con rezago.
+Respuesta correcta: B
+Explicación: El Art. 4, inciso j), define la Trayectoria Educativa como el historial secuencial, cronológico e individual del recorrido educativo del estudiante con discapacidad, dificultades en el aprendizaje o talento extraordinario, registrado en un Archivo Personal con sus potencialidades, logros, dificultades, intervenciones y recomendaciones.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. j); página impresa: 7 (de 26); página PDF: 11.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+6. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] ¿Cómo concibe el Reglamento la Educación Inclusiva?
+A. Como una modalidad transitoria que se aplica hasta que el estudiante supere sus dificultades.
+B. Como un subsistema autónomo que funciona en paralelo a la Educación Regular y a la Alternativa.
+C. Como parte indisoluble del Modelo Sociocomunitario Productivo, fundada en el derecho a la educación de todos.
+D. Como un programa complementario del Modelo Educativo, dirigido solo a estudiantes con discapacidad o con dificultades.
+Respuesta correcta: C
+Explicación: El Art. 4, inciso h), define la Educación Inclusiva como parte indisoluble del Modelo Educativo Sociocomunitario Productivo, política educativa del Estado, fundamentada en el ejercicio del derecho a la educación para todas y todos, con respuestas oportunas a necesidades, ritmos, estilos y potencialidades.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. h); páginas impresas: 6 y 7 (de 26); páginas PDF: 10 y 11.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+7. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] Según la definición del Reglamento, las dificultades en el aprendizaje se caracterizan porque:
+A. No son provocadas por factores intelectuales o sensoriales, pero interfieren en el rendimiento.
+B. Son siempre permanentes y requieren currículo específico en un Centro de Educación Especial.
+C. Son provocadas por una discapacidad intelectual leve diagnosticada por un equipo profesional.
+D. Se presentan solo en los primeros años de primaria y desaparecen sin apoyo especializado.
+Respuesta correcta: A
+Explicación: El Art. 4, inciso e), define a los estudiantes con dificultades en el aprendizaje como quienes presentan necesidades educativas temporales o permanentes en una o varias áreas, que no están provocadas por factores intelectuales o sensoriales, pero interfieren significativamente en su rendimiento académico.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. e); página impresa: 6 (de 26); página PDF: 10.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+8. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] ¿Cómo define el Reglamento a los estudiantes con talento extraordinario?
+A. Quienes superan los objetivos holísticos de todas las áreas sin necesidad de apoyo pedagógico.
+B. Quienes obtienen las calificaciones más altas de su curso durante dos gestiones educativas consecutivas en la misma unidad.
+C. Quienes presentan mayor desarrollo de capacidades superiores a lo esperado para su edad y año de escolaridad.
+D. Quienes son seleccionados por la Comisión Técnico Pedagógica para representar a la unidad en eventos.
+Respuesta correcta: C
+Explicación: El Art. 4, inciso f), define a los estudiantes con talento extraordinario como aquellos que presentan mayor desarrollo de capacidades superiores y transformadoras, potencialidades, aptitudes y habilidades extraordinarias a lo esperado para su edad y año de escolaridad, en uno o varios campos y dimensiones.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. f); página impresa: 6 (de 26); página PDF: 10.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+9. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] Los "Maestros de Apoyo Educativo" desarrollan procesos de Apoyo Técnico Pedagógico en Modalidad Indirecta. ¿Cuál es su propósito?
+A. Atender a los estudiantes en aulas separadas dentro de la unidad educativa regular.
+B. Sustituir al maestro de aula en el desarrollo curricular de los estudiantes con discapacidad de la unidad.
+C. Calificar en forma exclusiva el rendimiento de los estudiantes con necesidades educativas.
+D. Equiparar y fortalecer las condiciones de acceso a los procesos de aula de los estudiantes del ámbito.
+Respuesta correcta: D
+Explicación: El Art. 4, inciso b), define a los Maestros de Apoyo Educativo como responsables de orientación, asesoramiento, sensibilización, coordinación, capacitación, interpretación y transcripción, con el propósito de equiparar y fortalecer las condiciones de acceso a los procesos educativos de aula de los estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. b); página impresa: 6 (de 26); página PDF: 10.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+10. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] ¿Qué es el Plan de Apoyo Técnico Pedagógico?
+A. El plan anual del CEE aprobado por la Dirección Departamental de Educación.
+B. El informe de evaluación integral emitido por el equipo multidisciplinario.
+C. El instrumento de planificación del maestro de apoyo, coordinado con el maestro de aula.
+D. La planificación curricular de aula que elabora el maestro para todo su curso y sus estudiantes.
+Respuesta correcta: C
+Explicación: Los Arts. 4, inciso c), y 59 lo definen como el instrumento de planificación de acciones operativas de apoyo educativo que realiza el maestro de apoyo en coordinación con el maestro de aula, y que vincula a los Centros de Educación Especial con las Instituciones Educativas Inclusivas.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. c); Capítulo X, Art. 59; páginas impresas: 6 y 25 (de 26); páginas PDF: 10 y 29.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+11. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] ¿Qué responsabilidad tienen las directoras y directores de instituciones de Educación Regular, Alternativa y Superior respecto de la inscripción?
+A. Autorizar la inscripción solo si el CEE emite previamente un informe favorable de ingreso.
+B. Derivar la inscripción de estos estudiantes al Centro de Educación Especial más cercano.
+C. Limitar la inscripción a un estudiante con discapacidad por paralelo y año de escolaridad.
+D. Garantizar la inscripción o matriculación de estos estudiantes según la normativa vigente.
+Respuesta correcta: D
+Explicación: El Art. 12, inciso a), asigna a las directoras y directores garantizar la inscripción o matriculación de estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario, de acuerdo a la normativa o convocatoria vigente; el Art. 6, inciso b), señala que la inscripción previa en Educación Especial no es prerrequisito.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 12, inc. a); Capítulo II, Art. 6; páginas impresas: 8 y 10 (de 26); páginas PDF: 12 y 14.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+12. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] ¿Qué deber tienen las directoras y directores de las instituciones educativas frente a los requerimientos del maestro de apoyo?
+A. Proporcionarle las planificaciones curriculares e institucionales con fines de apoyo técnico pedagógico.
+B. Asignarle un curso propio para que desarrolle la planificación curricular de aula del año.
+C. Aprobar su Plan de Apoyo Técnico Pedagógico como requisito para su ingreso a las aulas.
+D. Supervisar su asistencia diaria y descontar sus inasistencias del haber que percibe en la unidad.
+Respuesta correcta: A
+Explicación: El Art. 12, inciso i), asigna a las directoras y directores proporcionar las planificaciones curriculares e institucionales a los maestros de apoyo cuando las requieran con fines de Apoyo Técnico Pedagógico; el control de los maestros de apoyo corresponde a los directores de los CEE (Art. 56).
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 12, inc. i); Capítulo X, Art. 56; páginas impresas: 10 y 24 (de 26); páginas PDF: 14 y 28.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+13. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Respecto de la infraestructura, ¿qué debe viabilizar la dirección de la institución educativa ante las instancias correspondientes?
+A. El financiamiento directo de las obras con aportes de los padres de los estudiantes del ámbito.
+B. La reubicación de los estudiantes con discapacidad en Centros de Educación Especial cercanos.
+C. La construcción de aulas separadas para estudiantes con discapacidad dentro de la misma unidad educativa de destino.
+D. El diseño o remodelación bajo el enfoque de "Usos Universales" para eliminar barreras arquitectónicas.
+Respuesta correcta: D
+Explicación: El Art. 12, inciso f), asigna a las directoras y directores viabilizar ante las instancias correspondientes el diseño o remodelación de la infraestructura bajo el enfoque de "Usos Universales" para eliminar todas las barreras arquitectónicas.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 12, inc. f); página impresa: 10 (de 26); página PDF: 14.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+14. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] ¿Qué responsabilidad asigna el Reglamento a las directoras y directores de Centros de Educación Especial en la modalidad indirecta?
+A. Organizar y planificar cada gestión las acciones técnico pedagógicas de los maestros de apoyo.
+B. Calificar el rendimiento de los estudiantes inscritos en las unidades de Educación Regular.
+C. Elaborar la planificación curricular de aula de las unidades educativas inclusivas.
+D. Inscribir a todos los estudiantes con discapacidad del distrito en la modalidad directa.
+Respuesta correcta: A
+Explicación: El Art. 16 asigna a los directores de CEE organizar y planificar las acciones técnico pedagógicas de los maestros de la Modalidad Indirecta en cada gestión, coordinar con los directores de instituciones inclusivas, garantizar apoyos oportunos y realizar el seguimiento a los maestros de apoyo.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 16; página impresa: 11 (de 26); página PDF: 15.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+15. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] ¿Qué instancias del nivel departamental son responsables de planificar, organizar, monitorear y evaluar las disposiciones del Reglamento?
+A. Las Direcciones Distritales, a través de los técnicos de Educación Especial asignados a cada núcleo de su distrito.
+B. Los Centros de Educación Especial acreditados, a través de sus equipos multidisciplinarios.
+C. La Dirección General de Educación Especial, a través de sus profesionales en cada departamento.
+D. Las Direcciones Departamentales, a través de las Subdirecciones de Alternativa y Especial, Regular y Superior.
+Respuesta correcta: D
+Explicación: El Art. 10, inciso a), asigna a las Direcciones Departamentales, a través de las Subdirecciones de Educación Alternativa y Especial, de Educación Regular y de Educación Superior, la responsabilidad de planificar, organizar, monitorear y evaluar las disposiciones del Reglamento.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 10, inc. a); página impresa: 9 (de 26); página PDF: 13.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+16. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] ¿Qué responsabilidades asigna el Reglamento a las Direcciones Distritales Educativas?
+A. Realizar la evaluación integral multidisciplinaria de los estudiantes con sospecha de discapacidad.
+B. Dar seguimiento al apoyo educativo, promover el acceso y ampliar servicios para estos estudiantes.
+C. Designar a los maestros de apoyo de cada unidad y controlar diariamente su asistencia laboral.
+D. Aprobar las adaptaciones curriculares de cada maestro de aula antes de su aplicación en clase.
+Respuesta correcta: B
+Explicación: El Art. 11 asigna a las Direcciones Distritales desarrollar procesos de seguimiento para garantizar el apoyo educativo, promover el acceso a la educación de estudiantes con discapacidad y desarrollar acciones para ampliar los servicios educativos de esta población.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 11; páginas impresas: 9 y 10 (de 26); páginas PDF: 13 y 14.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+17. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] ¿Cuándo debe presentar el maestro de apoyo sus fichas de seguimiento o control?
+A. Al cierre de la gestión educativa anual.
+B. Al concluir cada semestre académico.
+C. El primer día hábil de cada trimestre.
+D. El último día hábil de cada mes.
+Respuesta correcta: D
+Explicación: El Art. 17, inciso g), dispone que los maestros de apoyo presenten fichas de seguimiento o de control el último día hábil de cada mes, para fines de asistencia, reportes, informes semestrales o técnicos y otros requeridos.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 17, inc. g); página impresa: 12 (de 26); página PDF: 16.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+18. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] ¿De quién dependen los maestros de apoyo de la Modalidad Indirecta que trabajan en Educación Regular y Alternativa?
+A. De la Comisión Técnico Pedagógica de cada unidad educativa inclusiva.
+B. Directamente del Centro de Educación Especial, bajo control de su director.
+C. Del director de la unidad educativa donde realizan el apoyo pedagógico.
+D. De la Dirección Distrital, bajo control del técnico de Educación Especial.
+Respuesta correcta: B
+Explicación: El Art. 56, inciso a), dispone que, en el marco de la Ley N.º 070 y del D.S. 813, los maestros de apoyo que actúan en Educación Regular y Alternativa dependen directamente del Centro de Educación Especial y su control está a cargo de sus directores.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Art. 56, inc. a); página impresa: 24 (de 26); página PDF: 28.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+19. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IX] Cuando hay estudiantes con discapacidad físico-motora inscritos en un paralelo, ¿qué deben prever las direcciones de las unidades?
+A. Ubicar el paralelo en la planta alta para reducir el tránsito de otros estudiantes.
+B. Trasladar al estudiante al paralelo con menor número de estudiantes de la unidad.
+C. Reducir la carga horaria del paralelo para facilitar la movilidad de los estudiantes.
+D. Ubicar el paralelo cerca de la puerta principal y de los baños de uso estudiantil.
+Respuesta correcta: D
+Explicación: El Art. 53 dispone que, en paralelos con estudiantes con discapacidad físico-motora, las direcciones prevean que su ubicación sea próxima a la puerta principal de entrada o salida y a los baños destinados al uso de los estudiantes.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo IX, Art. 53; página impresa: 23 (de 26); página PDF: 27.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+20. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] ¿Bajo qué condiciones deben coordinar las directoras y directores la atención educativa de estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario?
+A. Bajo condiciones definidas exclusivamente por el maestro de apoyo enviado por el CEE de la zona.
+B. En horarios diferenciados del resto del curso, para no interferir en el avance de sus compañeros del curso.
+C. Bajo las mismas condiciones pedagógicas que sus pares, según los principios de la Educación Inclusiva.
+D. En aulas especiales de la unidad, con un currículo distinto aprobado por la Dirección Distrital.
+Respuesta correcta: C
+Explicación: El Art. 12, inciso b), asigna a las directoras y directores coordinar los procesos de atención educativa de estos estudiantes bajo las mismas condiciones pedagógicas que sus pares, en el marco de los principios de la Educación Inclusiva.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 12, inc. b); página impresa: 10 (de 26); página PDF: 14.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+21. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] Según el Art. 6, inciso b), ¿cómo pueden inscribirse los estudiantes con discapacidad, dificultades en el aprendizaje o talento extraordinario?
+A. Solo en Educación Regular, quedando el CEE limitado a brindar asesoramiento externo sin inscripción.
+B. Simultáneamente en Educación Especial y en Regular o Alternativa, con el mismo RUDE, sin requisito previo.
+C. Primero en Educación Especial y luego, previa evaluación, en Regular o Alternativa con un RUDE nuevo de registro.
+D. Simultáneamente en ambos ámbitos, pero con códigos RUDE distintos para cada subsistema educativo.
+Respuesta correcta: B
+Explicación: El Art. 6, inciso b), permite la inscripción simultánea en el Ámbito de Educación Especial y en instituciones de Educación Alternativa o Regular, con el mismo Código de Registro Único de Estudiante, sin que la inscripción previa en Educación Especial sea prerrequisito.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo II, Art. 6, inc. b); página impresa: 8 (de 26); página PDF: 12.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+22. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] En Educación Inicial y Primaria, los estudiantes con discapacidad intelectual pueden inscribirse con una diferencia de edad respecto de sus pares. ¿En qué condiciones?
+A. Hasta 36 meses, con autorización de la Comisión Técnico Pedagógica de la unidad educativa.
+B. Hasta 24 meses, con la sola solicitud escrita de la madre, padre o tutor del estudiante.
+C. Hasta 24 meses, previa presentación del informe multidisciplinario que confirme esa posibilidad.
+D. Sin límite de edad, siempre que el estudiante esté inscrito en un Centro de Educación Especial.
+Respuesta correcta: C
+Explicación: El Art. 6, inciso d), permite a los estudiantes con discapacidad intelectual inscribirse en Educación Inicial y Primaria con una diferencia de hasta 24 meses respecto de la edad de sus pares, previa presentación del informe de evaluación multidisciplinaria que confirme esa posibilidad.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo II, Art. 6, inc. d); página impresa: 8 (de 26); página PDF: 12.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+23. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] Cuando un estudiante con discapacidad se traslada a otra institución, ¿qué obligación establece el Reglamento?
+A. La unidad de origen debe remitir el archivo de trayectoria educativa a la institución de destino.
+B. La Dirección Distrital debe autorizar el traslado previo informe del maestro de apoyo asignado.
+C. La institución de destino debe solicitar al CEE un nuevo Plan de Apoyo Técnico Pedagógico.
+D. La familia debe tramitar una nueva evaluación integral antes de la inscripción en la nueva unidad.
+Respuesta correcta: A
+Explicación: El Art. 7, inciso a), dispone que, en traslados de estudiantes con discapacidad, dificultades en el aprendizaje o talento extraordinario, la unidad de origen está obligada a remitir el archivo de trayectoria educativa a la institución fiscal, de convenio o privada de destino.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo II, Art. 7, inc. a); página impresa: 8 (de 26); página PDF: 12.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+24. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] ¿Qué busca evitar el Reglamento en el proceso de interpretación de la LSB a la lengua oral y viceversa?
+A. La participación del maestro de aula en la planificación de los contenidos interpretados.
+B. El uso de señas provisionales para conceptos nuevos que aún no existen en la LSB vigente.
+C. La interpretación en actos y eventos institucionales ajenos al desarrollo curricular del aula.
+D. La traducción literal o español señado, y la incoherencia, infra o sobreproducción del mensaje.
+Respuesta correcta: D
+Explicación: El Art. 22 fija como objetivo eliminar las barreras de comunicación y transmitir información de forma accesible, clara, precisa y confiable, evitando la "traducción literal" o español señado, así como la incoherencia en el mensaje, la infra y la sobreproducción.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo IV, Art. 22; página impresa: 13 (de 26); página PDF: 17.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+25. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VII] ¿Cómo se organiza la cobertura del apoyo a estudiantes con dificultades en el aprendizaje en Primaria?
+A. Con énfasis reeducativo en 1.º, 2.º y 3.º, y preventivo en 4.º, 5.º y 6.º de escolaridad.
+B. Con énfasis preventivo en Inicial y reeducativo en todos los años de Primaria y Secundaria.
+C. Con énfasis preventivo solo en 1.º y reeducativo a partir de 2.º año de escolaridad primaria.
+D. Con énfasis preventivo en 1.º, 2.º y 3.º, y reeducativo en 4.º, 5.º y 6.º de escolaridad.
+Respuesta correcta: D
+Explicación: El Art. 41 dispone que la cobertura alcance a unidades fiscales, de convenio o privadas del nivel Primario con énfasis en 1.ro, 2.do y 3.ro en sentido preventivo y en 4.to, 5.to y 6.to en sentido reeducativo.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VII, Art. 41; página impresa: 20 (de 26); página PDF: 24.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+26. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] ¿A qué estudiantes con Trastorno del Espectro Autista se dirige el objetivo del proceso de apoyo educativo del Art. 37?
+A. A estudiantes con TEA con discapacidad intelectual moderada o grave diagnosticada.
+B. A estudiantes con TEA sin compromiso intelectual ni trastornos funcionales del lenguaje.
+C. Solo a estudiantes con TEA inscritos en el nivel de Educación Inicial en Familia.
+D. A todos los estudiantes con TEA, cualquiera sea su nivel de compromiso intelectual diagnosticado.
+Respuesta correcta: B
+Explicación: El Art. 37 fija como objetivo garantizar el acceso, permanencia y conclusión de estudiantes con Trastornos del Espectro Autista sin compromiso intelectual ni trastornos funcionales del lenguaje matriculados en Educación Regular, Alternativa y Superior.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VI, Sección II, Art. 37; página impresa: 18 (de 26); página PDF: 22.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+27. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] ¿En qué situaciones puede el apoyo de la Modalidad Indirecta extenderse a un radio intermunicipal o interdistrital?
+A. Sin CEE en el municipio, sin acreditación en el área requerida o por proximidad en zonas de difícil acceso.
+B. Cuando la Dirección Departamental disponga una redistribución de maestros por razones presupuestarias del área.
+C. Cuando el maestro de apoyo lo solicite por razones de domicilio o de comodidad en su desplazamiento.
+D. Cuando la unidad educativa cuente con más de veinte estudiantes con discapacidad en un mismo nivel.
+Respuesta correcta: A
+Explicación: El Art. 57 permite extender el apoyo en radio intermunicipal o interdistrital ante la inexistencia de CEE en el municipio o distrito, la falta de acreditación en el área de atención requerida o la proximidad por distancia que favorezca al estudiante en lugares dispersos o de difícil acceso.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Art. 57; páginas impresas: 24 y 25 (de 26); páginas PDF: 28 y 29.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+28. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] La cobertura mediante maestros de apoyo o itinerantes en lugares de difícil acceso, ¿de qué depende según el Art. 58, parágrafo II?
+A. De la aprobación del Viceministerio, que define la ruta anual de los maestros itinerantes.
+B. De las posibilidades del CEE y del maestro, y de la necesidad del estudiante, con informe técnico previo.
+C. De la solicitud de la Dirección Distrital, sin que sea necesario un informe técnico pedagógico de la zona.
+D. Del financiamiento que aporten las familias para el traslado del maestro de apoyo itinerante.
+Respuesta correcta: B
+Explicación: El Art. 58, parágrafo II, dispone que esa cobertura depende de las posibilidades del Centro de Educación Especial, del maestro de apoyo o itinerante y de la necesidad del estudiante con discapacidad, previo informe técnico pedagógico que la justifique.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Art. 58; página impresa: 25 (de 26); página PDF: 29.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+29. [R.M. 0069/2025 Reglamento de Educación Inclusiva – DISPOSICIONES FINALES] Según la Disposición Final Segunda, ¿qué efecto tienen los artículos del Reglamento sobre el Escalafón docente?
+A. No lo modifican, en el marco de los artículos 36 y 67 de la Ley N.º 070.
+B. Crean una categoría especial para los maestros de apoyo de la modalidad.
+C. Lo modifican solo respecto de la carga horaria de los maestros de apoyo.
+D. Reconocen puntos adicionales a los maestros que trabajan con inclusión.
+Respuesta correcta: A
+Explicación: La Disposición Final Segunda establece que, en el marco de los Arts. 36 y 67 de la Ley N.º 070, los artículos del Reglamento no modifican el Escalafón docente.
+Sustento: R.M. 0069/2025, Reglamento, Disposición Final Segunda; página impresa: 26 (de 26); página PDF: 30.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+30. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] Según el Art. 7, inciso b), ¿qué valor tienen las recomendaciones del Informe de Evaluación Integral para estudiantes con discapacidad intelectual?
+A. Son referenciales y pueden ser modificadas por la familia en cada gestión escolar.
+B. Son decisivas para proyectar el recorrido educativo más pertinente del estudiante.
+C. Son obligatorias solo para el maestro de apoyo, no así para la unidad educativa.
+D. Solo se consideran al momento de egresar del nivel de Educación Secundaria.
+Respuesta correcta: B
+Explicación: El Art. 7, inciso b), dispone que los estudiantes con discapacidad intelectual deben contar con el Informe de Evaluación Integral de los Equipos Multidisciplinarios, cuyas recomendaciones son decisivas para proyectar el recorrido educativo más pertinente; el Art. 35, inciso d), obliga al maestro de apoyo a cumplirlas.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo II, Art. 7, inc. b); Capítulo VI, Art. 35; páginas impresas: 9, 17 y 18 (de 26); páginas PDF: 13, 21 y 22.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+31. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Distinga la Planificación Curricular de Aula del Plan de Apoyo Técnico Pedagógico:
+A. La primera la aprueba el CEE; el segundo lo aprueba la Dirección Distrital de cada jurisdicción.
+B. Ambas son elaboradas por el maestro de apoyo y validadas por la Comisión Técnico Pedagógica.
+C. La primera la elabora el maestro de aula con el Diseño Plural; el segundo, el maestro de apoyo coordinado.
+D. La primera la elabora el maestro de apoyo; el segundo, el director de la unidad educativa inclusiva de la zona.
+Respuesta correcta: C
+Explicación: El Art. 60 dispone que la Planificación Curricular de Aula es elaborada por el maestro de aula en el marco del Diseño Plural para los Aprendizajes; el Art. 59 define el Plan de Apoyo Técnico Pedagógico como instrumento del maestro de apoyo en coordinación con el maestro de aula.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Arts. 59 y 60; página impresa: 25 (de 26); página PDF: 29.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+32. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Distinga de quién dependen los maestros de apoyo según el ámbito en que trabajan:
+A. Todos dependen del CEE más cercano, cualquiera sea el subsistema o la dependencia institucional.
+B. Regular: del CEE; Alternativa y Superior: de la Dirección Departamental; privadas: del Ministerio de Educación.
+C. Regular y Alternativa: de la unidad; Superior: del CEE; privadas: de la Dirección Distrital.
+D. Regular y Alternativa: del CEE; Superior: planilla de la institución; privadas: la propia institución.
+Respuesta correcta: D
+Explicación: El Art. 56 dispone que en Regular y Alternativa dependen del CEE; en Educación Superior están bajo el techo presupuestario de la planilla de las Instituciones de Educación Superior; en instituciones privadas están a cargo y bajo responsabilidad de la institución privada.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Art. 56; página impresa: 24 (de 26); página PDF: 28.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+33. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] Distinga el perfil exigido al maestro de apoyo en discapacidad intelectual del exigido en TEA:
+A. DI: formación post gradual en el área; TEA: maestro o profesional con formación especializada.
+B. DI: dominio de LSB y Braille; TEA: formación inicial docente sin especialización adicional.
+C. Ambos exigen únicamente formación inicial docente y conocimiento del currículo regular.
+D. DI: título de psicólogo clínico; TEA: experiencia mínima de cinco años en educación especial.
+Respuesta correcta: A
+Explicación: El Art. 32 exige al maestro de apoyo en discapacidad intelectual formación post gradual inherente al área y formación continua; el Art. 36 permite que el apoyo en TEA sea desarrollado por un maestro, maestra o profesional con formación especializada inherente al área y formación continua.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VI, Arts. 32 y 36; páginas impresas: 17 y 18 (de 26); páginas PDF: 21 y 22.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+34. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VIII] En el área de talento extraordinario, distinga la "detección" de la "identificación":
+A. La detección corresponde al equipo multidisciplinario; la identificación, a los maestros de aula del curso.
+B. Ambas corresponden al profesional de apoyo, con visto bueno de la Comisión Técnico Pedagógica.
+C. La detección corresponde a las familias; la identificación, a la Dirección Distrital Educativa.
+D. La detección corresponde a los maestros de aula; la identificación, a los equipos multidisciplinarios.
+Respuesta correcta: D
+Explicación: El Art. 48 responsabiliza a los maestros de aula de la detección de señales de alerta (con primera evaluación por la Comisión Técnica Pedagógica); el Art. 49 asigna la identificación a los Equipos Multidisciplinarios mediante evaluación psicológica o psicopedagógica integral con pruebas estandarizadas.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VIII, Arts. 48 y 49; página impresa: 22 (de 26); página PDF: 26.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+35. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Distinga las responsabilidades de los estudiantes que requieren apoyo educativo de las de quienes no lo requieren:
+A. Los primeros están exentos de tareas; los segundos asumen tareas de tutoría académica obligatoria del curso.
+B. Ambos cumplen las mismas tareas sin adecuaciones, porque la inclusión exige trato idéntico.
+C. Los primeros cumplen tareas reducidas; los segundos evalúan el avance de sus compañeros.
+D. Los primeros cumplen las tareas de su grado con adecuaciones; los segundos previenen violencia y acoso.
+Respuesta correcta: D
+Explicación: El Art. 14 dispone que los estudiantes con necesidades o potencialidades que requieren apoyo cumplan las tareas propias de su grado con las adecuaciones necesarias; los que no las presentan promoverán acciones que prevengan violencia, acoso o bullying, y todos practicarán valores de respeto.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 14; página impresa: 11 (de 26); página PDF: 15.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+36. [R.M. 0069/2025 Reglamento de Educación Inclusiva – RESOLUCIÓN MINISTERIAL] Según los considerandos de la R.M. 0069/2025, ¿a qué observaciones busca responder el Reglamento?
+A. A las de los Gobiernos Municipales sobre la dotación de mobiliario para estudiantes con discapacidad.
+B. A las del Comité de la ONU sobre Discapacidad y al Informe Defensorial sobre exclusión y segregación.
+C. A las de la Confederación de maestros sobre la carga horaria de los maestros de apoyo educativo.
+D. A las de la Contraloría General sobre el uso de recursos asignados a los Centros de Educación Especial.
+Respuesta correcta: B
+Explicación: El Considerando II señala que los informes técnicos recomendaron conformar un equipo para delinear estrategias de Educación Inclusiva, tanto para responder a las observaciones del Comité sobre los Derechos de las Personas con Discapacidad de las Naciones Unidas como al Informe Defensorial "La Exclusión y Segregación de las Personas con Discapacidad en el Sistema Educativo Plurinacional".
+Sustento: R.M. 0069/2025, Resolución Ministerial, Considerando II; página impresa: 2 (de 3); página PDF: 2.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+37. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IX] El Art. 52 dispone que las instituciones deben "solicitar" a los Gobiernos Subnacionales la aplicación del Reglamento de Accesibilidad. ¿Qué rasgo del modelo revela esta formulación?
+A. Que el Ministerio de Educación asume directamente la construcción de rampas y adecuaciones.
+B. Que cada unidad educativa debe financiar y ejecutar directamente las obras de accesibilidad del sistema.
+C. Que la accesibilidad es una recomendación sin obligación para ninguna instancia del Estado.
+D. Que la eliminación de barreras depende de la gestión institucional ante quienes tienen la competencia.
+Respuesta correcta: D
+Explicación: El Art. 52 ordena a las instituciones solicitar a los Gobiernos Subnacionales la aplicación del Reglamento de Accesibilidad (R.M. 0410/2016); el Art. 54 atribuye a los Gobiernos Autónomos Municipales la dotación de mobiliario, y el Art. 5, inciso f), alude a sus competencias concurrentes.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo IX, Arts. 52 y 54; Capítulo I, Art. 5; páginas impresas: 7 y 23 (de 26); páginas PDF: 11 y 27.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+38. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] El Art. 24, inciso h), pide al maestro de apoyo promover la independencia del estudiante sordo "sin caer en el error de hacer las tareas". ¿Qué riesgo pedagógico advierte?
+A. Que el estudiante pierda el dominio de la LSB por usar castellano escrito.
+B. Que el apoyo sustituya al estudiante y limite su autonomía y responsabilidad.
+C. Que el maestro de aula delegue la evaluación del estudiante en el de apoyo.
+D. Que la familia deje de participar en las tareas escolares de su hijo sordo.
+Respuesta correcta: B
+Explicación: El Art. 24, inciso h), asigna al maestro de apoyo promover la independencia y responsabilidad en las tareas asignadas, sin caer en el error de hacer las tareas de los estudiantes; el riesgo advertido es la sustitución del estudiante.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo IV, Art. 24, inc. h); página impresa: 14 (de 26); página PDF: 18.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+39. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] Aunque recibe apoyo técnico del CEE, ¿a quién corresponde calificar el rendimiento del estudiante con discapacidad intelectual o TEA en el aula regular?
+A. Al equipo multidisciplinario, con base en el informe de evaluación integral anual.
+B. A la Comisión Técnico Pedagógica, con informe previo del Centro de Educación Especial acreditado.
+C. Al maestro de aula, según los objetivos del grado y los perfiles de salida del currículo.
+D. Al maestro de apoyo, que conoce mejor las necesidades educativas del estudiante.
+Respuesta correcta: C
+Explicación: El Art. 39, inciso f), asigna al maestro de aula aplicar procesos, metodologías e instrumentos de evaluación pertinentes y calificar el rendimiento sobre los objetivos de grado del currículo que corresponde, según los perfiles de salida; el Art. 13, inciso d), le asigna emitir las calificaciones.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VI, Sección III, Art. 39, inc. f); Capítulo III, Art. 13; páginas impresas: 10 y 20 (de 26); páginas PDF: 14 y 24.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+40. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] En la tabla del Art. 55, para discapacidad intelectual no se fija un número de estudiantes por ítem completo ("no aplica"), pero sí 4 horas mensuales promedio. ¿Qué lectura es la más consistente?
+A. El apoyo en DI no corresponde a la modalidad indirecta y solo se brinda en la modalidad directa del centro.
+B. El apoyo en DI se organiza por carga horaria individualizada y no por una ratio mínima de estudiantes.
+C. El apoyo en DI se otorga solo si hay más de veinte estudiantes por unidad educativa inclusiva.
+D. El maestro de apoyo en DI puede atender ilimitadamente, sin considerar ninguna carga horaria.
+Respuesta correcta: B
+Explicación: El Art. 55 fija, para discapacidad intelectual, "no aplica" en número de estudiantes por ítem completo y 4 horas mensuales promedio de carga individualizada; el inciso b) indica que el apoyo se desarrolla tomando en cuenta la carga horaria individualizada.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Art. 55; página impresa: 24 (de 26); página PDF: 28.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+41. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] El Art. 18 exige que el personal administrativo y de servicio se capacite progresivamente para apoyar a estos estudiantes. ¿Qué concepción de inclusión revela?
+A. Una tarea exclusiva del maestro de apoyo enviado por el CEE a la unidad.
+B. Una responsabilidad de toda la institución, no solo del personal docente.
+C. Una función técnica que corresponde solo a los equipos multidisciplinarios.
+D. Una obligación de la familia, a la que la unidad solo brinda información.
+Respuesta correcta: B
+Explicación: El Art. 18 dispone que, para garantizar una interacción comunicacional y convivencia comunitaria, el personal administrativo y de servicio, al igual que el docente, se capacite progresivamente para apoyar a estos estudiantes con un trato de respeto y calidez.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 18; página impresa: 12 (de 26); página PDF: 16.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+42. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] El Art. 23 regula la vestimenta y apariencia del maestro intérprete (sin joyas vistosas, colores llamativos ni dispositivos). ¿Qué fundamento expresa la norma?
+A. La uniformidad de la imagen institucional de los maestros del Centro de Educación Especial.
+B. La diferenciación visual entre el maestro de apoyo y el maestro de aula del curso.
+C. El uso adecuado de los recursos de la LSB en el marco del respeto a la cultura sorda.
+D. La prevención de riesgos de seguridad durante las actividades en aula y en los eventos.
+Respuesta correcta: C
+Explicación: El Art. 23 exige utilizar adecuadamente los recursos comunicativos y lingüísticos de la LSB, con vestimenta adecuada y sin distractores visuales, dentro del marco del respeto hacia la cultura sorda.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo IV, Art. 23; página impresa: 13 (de 26); página PDF: 17.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+43. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] El Art. 6, inciso a), ordena inscribir a todos los estudiantes "independientemente de sus condiciones del neurodesarrollo". ¿Qué principio expresa?
+A. La selección de estudiantes según su nivel de desarrollo para formar grupos homogéneos.
+B. La preferencia de los Centros de Educación Especial para estudiantes con discapacidad.
+C. La admisión condicionada a la disponibilidad de un maestro de apoyo en la unidad.
+D. La no discriminación en el acceso a todas las instituciones del Sistema Educativo.
+Respuesta correcta: D
+Explicación: El Art. 6, inciso a), dispone que las instituciones del Sistema Educativo inscriban a todas las niñas, niños, adolescentes, jóvenes y adultos, independientemente de sus condiciones del neurodesarrollo, personales, culturales, económicas o sociales; el Art. 5, inciso d), promueve la inscripción sin discriminación alguna.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo II, Art. 6, inc. a); Capítulo I, Art. 5, inc. d); páginas impresas: 7 y 8 (de 26); páginas PDF: 11 y 12.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+44. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] El Art. 4, inciso g), aclara que el Diseño Plural "no excluye las ayudas técnicas para grupos particulares". ¿Qué tensión resuelve esta precisión?
+A. Limita las ayudas técnicas a los Centros de Educación Especial de modalidad directa.
+B. Elimina las ayudas técnicas, porque el diseño general las hace innecesarias.
+C. Sustituye el diseño para todos por un currículo exclusivo para cada discapacidad.
+D. Concilia un diseño para todos con apoyos específicos para quienes los necesiten.
+Respuesta correcta: D
+Explicación: El Art. 4, inciso g), define el Diseño Plural como orientaciones que alcanzan a todos los estudiantes en la mayor medida posible y aclara que no excluye las ayudas técnicas para grupos particulares de personas con discapacidad, cuando las necesiten.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. g); página impresa: 6 (de 26); página PDF: 10.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+45. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] El Art. 6, inciso b), señala que la inscripción previa en Educación Especial no es prerrequisito, mientras el Art. 61 exige la matriculación simultánea en el CEE como requisito para recibir apoyo. ¿Cuál es la lectura más consistente?
+A. La inscripción en la unidad no se condiciona; la doble matrícula solo condiciona el acceso al apoyo del CEE.
+B. Ambas normas se contradicen, por lo que prevalece siempre la exigencia de matrícula previa en el CEE.
+C. El Art. 61 deroga al Art. 6, porque es posterior en el orden del articulado del Reglamento aprobado.
+D. La doble matrícula es requisito para inscribirse en la unidad regular, no para recibir el apoyo del CEE de la zona.
+Respuesta correcta: A
+Explicación: El Art. 6, inciso b), permite la inscripción simultánea sin exigir la inscripción previa en Educación Especial; el Art. 61 dispone que, para acceder a los apoyos de los CEE, el estudiante debe matricularse simultáneamente en el CEE y en la institución, con el mismo RUDE. Una regla rige el acceso a la unidad; la otra, el acceso al apoyo.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo II, Art. 6, inc. b); Capítulo X, Art. 61; páginas impresas: 8 y 25 (de 26); páginas PDF: 12 y 29.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+46. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] El informe multidisciplinario de un estudiante con TEA recomienda el currículo de Secundaria Comunitaria Productiva. ¿Cómo procede su inscripción?
+A. Debe inscribirse primero en el CEE durante un año antes de pasar a la unidad de Secundaria.
+B. Debe inscribirse en Regular con un nuevo RUDE distinto al asignado en Educación Especial.
+C. Puede inscribirse simultáneamente en el CEE y en la unidad de Regular, con el mismo RUDE.
+D. Solo puede inscribirse en el CEE, porque Secundaria no admite estudiantes con TEA.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 6, inciso e), permite a estudiantes con TEA, según el informe multidisciplinario que recomiende Educación Inicial, Primaria o Secundaria, inscribirse simultáneamente en Educación Especial y en Educación Regular con el mismo RUDE, sin prerrequisito de inscripción previa.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo II, Art. 6, inc. e); página impresa: 8 (de 26); página PDF: 12.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+47. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] Un niño con discapacidad intelectual tiene 20 meses más que la edad establecida para primer año de Primaria y cuenta con informe multidisciplinario favorable. ¿Puede inscribirse?
+A. No, porque la diferencia admitida para Primaria es de hasta 12 meses con informe.
+B. Sí, pero solo en Educación Inicial, por exceder la edad permitida para Primaria.
+C. Sí, porque la diferencia admitida es de hasta 24 meses con informe que lo confirme.
+D. No, porque solo puede inscribirse en un Centro de Educación Especial a esa edad.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 6, inciso d), permite a estudiantes con discapacidad intelectual inscribirse en Inicial y Primaria con diferencia de hasta 24 meses respecto de sus pares, previa presentación del informe multidisciplinario que lo confirme.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo II, Art. 6, inc. d); página impresa: 8 (de 26); página PDF: 12.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+48. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO V] Un estudiante ciego recibe una guía de lectura impresa en tinta. ¿Qué función del maestro de apoyo en discapacidad visual corresponde aplicar?
+A. Solicitar al maestro de aula que retire la guía de lectura del plan del curso.
+B. Derivarlo al CEE para que reciba esa clase en la modalidad directa del centro.
+C. Leerle la guía en voz alta y eximirlo de la evaluación escrita del contenido.
+D. Acompañarlo con la transcripción de la escritura en tinta al Sistema Braille.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 30, inciso f), asigna al maestro de apoyo en discapacidad visual acompañar al estudiante en aspectos de signografía Braille o macrotipo y en la transcripción del Sistema Braille a la escritura en tinta o viceversa.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo V, Art. 30, inc. f); página impresa: 16 (de 26); página PDF: 20.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+49. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO V] Una maestra de aula debe evaluar a una estudiante con baja visión. ¿Cómo debe hacerlo según el Reglamento?
+A. Con instrumentos en Braille, macrotipo o digital, según corresponda, y emitir la calificación.
+B. Delegando la evaluación y la calificación en el maestro de apoyo de discapacidad visual.
+C. Eximiéndola de la evaluación escrita y calificándola solo por su asistencia a las clases.
+D. Con la misma prueba impresa del curso, otorgando tiempo adicional fijo de quince minutos para todos.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 31, inciso b), dispone que el maestro de aula desarrolle procesos de evaluación aplicando estrategias, instrumentos y materiales en Sistema Braille, macrotipo o digital, según corresponda, y emita las calificaciones.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo V, Art. 31, inc. b); página impresa: 16 (de 26); página PDF: 20.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+50. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VII] Un maestro de primaria observa señales de alerta de posibles dificultades en el aprendizaje en un estudiante. ¿Qué debe hacer primero?
+A. Comunicar a los padres que el estudiante debe repetir el año para superar sus dificultades.
+B. Inscribir al estudiante en el CEE para que reciba de inmediato el programa de modalidad directa del distrito.
+C. Solicitar al director que traslade al estudiante a una unidad con maestro de apoyo asignado.
+D. Aplicar la "Guía de Observación – Detección de Signos de Riesgo" y derivar según su Ficha de Reporte.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 44, inciso c), dispone que, una vez que el maestro observe señales de alerta, aplique la "Guía de Observación – Detección de Signos de Riesgo de Dificultades en el Aprendizaje" y derive según las conclusiones de la Ficha de Reporte para la evaluación multidisciplinaria integral.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VII, Art. 44, inc. c); página impresa: 21 (de 26); página PDF: 25.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+51. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VII] La evaluación integral confirma dificultades específicas en el aprendizaje en una estudiante. ¿Cómo puede recibir el apoyo correspondiente?
+A. Recibiendo el apoyo solo durante el recreo, para no afectar su carga horaria en la unidad.
+B. Abandonando la unidad regular para cursar el año completo en el Centro de Educación Especial más cercano.
+C. Inscribiéndose en un CEE con un RUDE distinto, en el mismo turno de su unidad educativa.
+D. Inscribiéndose con el mismo RUDE en un CEE y, en turno alterno, en programas de modalidad directa.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 44, inciso d), dispone que, identificada la presencia de Dificultades Específicas en el Aprendizaje y considerando la evaluación integral, los estudiantes podrán inscribirse con el mismo código RUDE en Centros de Educación Especial para recibir el apoyo y, en turno alterno, para los programas de Modalidad Directa.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VII, Art. 44, inc. d); página impresa: 21 (de 26); página PDF: 25.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+52. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VIII] Una maestra de aula detecta señales de talento extraordinario en un estudiante. ¿Qué paso sigue según el Art. 48?
+A. La inscripción directa del estudiante en una universidad pública del departamento.
+B. La aplicación de pruebas psicométricas por la propia maestra de aula.
+C. Una primera evaluación educativa mediante la Comisión Técnica Pedagógica.
+D. La aceleración inmediata del estudiante al año de escolaridad siguiente.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 48 dispone que los maestros de aula son responsables de la detección de señales de alerta y que, mediante la Comisión Técnica Pedagógica, procederán a una primera evaluación educativa en el marco del Reglamento de Talento Extraordinario; la identificación corresponde a los equipos multidisciplinarios (Art. 49).
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VIII, Art. 48; página impresa: 22 (de 26); página PDF: 26.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+53. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VIII] Para confirmar si un estudiante tiene talento extraordinario, ¿cómo debe realizarse la identificación?
+A. Por el maestro de aula, mediante las calificaciones de los dos últimos trimestres.
+B. Por equipos multidisciplinarios, con evaluación integral y pruebas estandarizadas.
+C. Por la Comisión Técnico Pedagógica, mediante una entrevista con la familia.
+D. Por la Dirección Distrital, mediante un concurso de conocimientos entre unidades.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 49 dispone que la identificación de estudiantes con talento extraordinario se realice por los Equipos Multidisciplinarios mediante procesos de evaluación psicológica o psicopedagógica integral con pruebas e instrumentos estandarizados y registro de talento extraordinario.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VIII, Art. 49; página impresa: 22 (de 26); página PDF: 26.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+54. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Una familia quiere que su hija con discapacidad auditiva reciba los apoyos de un CEE sin inscribirla allí. ¿Qué establece el Art. 61?
+A. El apoyo requiere matriculación en el CEE con un código RUDE distinto al de la unidad.
+B. El apoyo se brinda sin matriculación en el CEE, con solo el informe médico de la estudiante del CEE.
+C. La matriculación simultánea en el CEE y en la institución, con el mismo RUDE, es requisito del apoyo.
+D. La matriculación en el CEE es opcional y solo se exige para la modalidad directa del centro.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 61 dispone que los estudiantes con discapacidad, dificultades en el aprendizaje y talento extraordinario, para acceder a los apoyos de los CEE, deben matricularse en forma simultánea en el CEE y en la institución de otro subsistema, como requisito para recibir el apoyo, con el mismo RUDE.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Art. 61; página impresa: 25 (de 26); página PDF: 29.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+55. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] La Comisión Técnica Pedagógica de una unidad necesita orientación para atender a un estudiante con TEA. ¿Qué puede hacer según el Art. 62?
+A. Elaborar por sí misma el informe de evaluación integral del estudiante con TEA.
+B. Remitir al estudiante al CEE para que reciba allí todas sus clases curriculares.
+C. Convocar a maestros de apoyo para información, orientación, asesoramiento y capacitación.
+D. Solicitar a la Dirección Distrital la designación de un maestro de apoyo exclusivo para la unidad.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 62 dispone que, en casos de estudiantes con discapacidad, dificultades en el aprendizaje o talento extraordinario, la comisión técnica pedagógica de las instituciones podrá convocar a maestros de apoyo educativo para fines de información, orientación, asesoramiento y capacitación.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Art. 62; páginas impresas: 25 y 26 (de 26); páginas PDF: 29 y 30.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+56. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Una unidad educativa privada requiere un maestro de apoyo para estudiantes con discapacidad visual. ¿Quién asume esa responsabilidad?
+A. La propia institución privada, en el marco del Reglamento.
+B. El Centro de Educación Especial fiscal más cercano a la unidad.
+C. El Gobierno Autónomo Municipal, con recursos de su presupuesto.
+D. La Dirección Distrital, con ítem del presupuesto departamental.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 56, inciso c), dispone que, en las instituciones educativas de carácter privado, los maestros de apoyo educativo estarán a cargo y bajo la responsabilidad de la institución privada, en el marco del Reglamento.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Art. 56, inc. c); página impresa: 24 (de 26); página PDF: 28.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+57. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] Un joven con discapacidad intelectual postula a un instituto de Educación Superior. ¿Qué documento exige el Reglamento?
+A. Un certificado del CEE que acredite haber cursado la modalidad directa durante dos años del centro.
+B. Una carta de compromiso de la familia sobre el acompañamiento durante la carrera.
+C. Una autorización de la Dirección Departamental para su ingreso a la carrera elegida.
+D. Un informe multidisciplinario que corrobore el perfil de entrada y las capacidades profesionales.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 33, inciso c), dispone que en Educación Superior se cuente con un Informe Multidisciplinario que corrobore el cumplimiento del perfil de entrada y las capacidades para el ejercicio profesional.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VI, Sección I, Art. 33, inc. c); página impresa: 17 (de 26); página PDF: 21.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+58. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] La unidad educativa organiza la clausura de gestión y tiene un estudiante sordo. ¿Qué función del maestro de apoyo en discapacidad auditiva corresponde?
+A. Interpretar en LSB en todos los actos y eventos organizados por la institución.
+B. Elaborar un resumen escrito del acto para entregarlo al estudiante al día siguiente.
+C. Interpretar solo durante las clases, por ser actos ajenos al desarrollo curricular.
+D. Solicitar al estudiante que no asista para evitar barreras de comunicación en el acto.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 24, inciso k), asigna al maestro de apoyo de estudiantes con discapacidad auditiva interpretar en Lengua de Señas Boliviana en todos los actos y eventos organizados por la Institución Educativa.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo IV, Art. 24, inc. k); página impresa: 14 (de 26); página PDF: 18.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+59. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Unos padres detectan en su hijo señales de alerta de una posible discapacidad. ¿Qué vía les reconoce el Reglamento?
+A. Exigir a la unidad la asignación de un maestro de aula exclusivo para su hijo durante la jornada.
+B. Solicitar la aplicación de pruebas de detección o evaluación por el conducto regular.
+C. Solicitar el traslado inmediato de su hijo a una unidad con maestro de apoyo.
+D. Inscribir directamente a su hijo en la modalidad directa del CEE más cercano.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 15, inciso c), dispone que las madres y padres que detecten señales de alerta relacionadas con dificultades en el aprendizaje o discapacidad podrán solicitar la aplicación de pruebas de detección o evaluación mediante el conducto regular al Centro o Unidad Educativa correspondiente.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 15, inc. c); página impresa: 11 (de 26); página PDF: 15.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+60. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VII] Una maestra de aula detecta signos de alerta de dificultades en el aprendizaje en tres estudiantes. ¿Qué responsabilidades le asigna el Art. 45?
+A. Diagnosticar por sí misma el tipo de dificultad y comunicarlo a la Dirección Distrital.
+B. Esperar al cierre del trimestre para confirmar las dificultades con las calificaciones.
+C. Solicitar la evaluación multidisciplinaria y cumplir luego las recomendaciones del informe.
+D. Derivar a los estudiantes al CEE para que cursen allí el resto del año escolar.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 45 asigna al maestro de aula desarrollar procesos de detección de signos de alerta (inc. a), solicitar la evaluación multidisciplinaria de los posibles casos (inc. b) y cumplir las recomendaciones del informe de evaluación (inc. c).
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VII, Art. 45, incs. a), b) y c); página impresa: 21 (de 26); página PDF: 25.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+61. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] Una unidad educativa fiscal niega la inscripción de una niña sorda argumentando que "no tiene maestro de apoyo". ¿Qué disposición del Reglamento se vulnera?
+A. La que obliga a inscribir a todos los estudiantes sin importar sus condiciones del neurodesarrollo.
+B. La que dispone la inscripción previa en un CEE como requisito para la unidad regular.
+C. La que asigna a la Dirección Distrital la inscripción de estudiantes con discapacidad.
+D. La que exige que cada unidad cuente con un maestro de apoyo antes de inscribir estudiantes del distrito.
+Respuesta correcta: A
+Explicación: El Art. 6, inciso a), ordena inscribir a todos los estudiantes independientemente de sus condiciones; el Art. 12, inciso a), asigna a los directores garantizar su inscripción; el Art. 6, inciso b), aclara que la inscripción previa en Educación Especial no es prerrequisito.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo II, Art. 6; Capítulo III, Art. 12, inc. a); páginas impresas: 8 y 10 (de 26); páginas PDF: 12 y 14.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+62. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Un maestro de apoyo decide visitar una unidad no prevista en su planificación porque "le queda de paso". ¿Qué disposición debe observar?
+A. Trasladarse a las instituciones según la planificación aprobada y autorizada por su inmediato superior.
+B. Registrar la visita en su ficha mensual, sin necesidad de autorización ni planificación previa.
+C. Visitar libremente las unidades que considere necesarias, informando luego al director del CEE de su jurisdicción.
+D. Solicitar autorización verbal del director de la unidad visitada al momento de su llegada.
+Respuesta correcta: A
+Explicación: El Art. 17, inciso f), dispone que el maestro de apoyo se traslade periódicamente a las instituciones donde estén matriculados los estudiantes, según la planificación aprobada y autorizada por su inmediato superior.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 17, inc. f); página impresa: 12 (de 26); página PDF: 16.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+63. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] El director observa que el maestro de apoyo resuelve directamente las tareas del estudiante sordo para que las entregue a tiempo. ¿Qué disposición se incumple?
+A. Planificar con el maestro de aula los contenidos curriculares de cada clase.
+B. Interpretar en LSB en todos los actos y eventos organizados por la institución.
+C. Sensibilizar sobre la discapacidad a toda la comunidad educativa de la unidad.
+D. Promover la independencia y responsabilidad del estudiante, sin hacer sus tareas.
+Respuesta correcta: D
+Explicación: El Art. 24, inciso h), asigna al maestro de apoyo promover la independencia y responsabilidad en las tareas asignadas, sin caer en el error de hacer las tareas de los estudiantes.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo IV, Art. 24, inc. h); página impresa: 14 (de 26); página PDF: 18.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+64. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] Durante la interpretación en clase, la maestra de apoyo usa aretes grandes que se mueven y revisa su celular con frecuencia. ¿Qué disposición incumple?
+A. El perfil profesional que exige experiencia mínima en la docencia de aula regular.
+B. Las condiciones para la interpretación sin distractores visuales ni uso de dispositivos.
+C. El procedimiento de evaluación diagnóstica del dominio de la LSB del estudiante.
+D. La obligación de presentar las fichas de seguimiento el último día de cada mes.
+Respuesta correcta: B
+Explicación: El Art. 23 exige vestimenta adecuada sin distractores visuales (joyas vistosas que se muevan, prendas llamativas, peinado suelto) y no usar dispositivos u otros distractores durante el acto interpretativo, en respeto a la cultura sorda.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo IV, Art. 23; página impresa: 13 (de 26); página PDF: 17.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+65. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IX] Una estudiante usuaria de silla de ruedas fue asignada a un paralelo en el tercer piso, lejos de los baños. ¿Qué debe hacer la dirección?
+A. Reducir su asistencia presencial y complementar con trabajos para la casa.
+B. Trasladar a la estudiante a otra unidad que cuente con ascensor y rampas propias.
+C. Reubicar el paralelo próximo a la puerta principal y a los baños estudiantiles.
+D. Mantener la ubicación y asignar a compañeros para que la ayuden a desplazarse.
+Respuesta correcta: C
+Explicación: El Art. 53 dispone que, en paralelos con estudiantes o participantes con discapacidad físico-motora, la dirección prevea su ubicación próxima a la puerta principal de entrada o salida y a los baños destinados al uso estudiantil.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo IX, Art. 53; página impresa: 23 (de 26); página PDF: 27.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+66. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IX] Una unidad fiscal carece de mobiliario adecuado para estudiantes con discapacidad. ¿Qué instancia debe garantizar su dotación según el Art. 54?
+A. La Dirección Departamental.
+B. El Centro de Educación Especial.
+C. El Gobierno Autónomo Municipal.
+D. La junta escolar de la unidad.
+Respuesta correcta: C
+Explicación: El Art. 54, en el marco del Art. 80, numeral 2, de la Ley N.º 070, dispone que los Gobiernos Autónomos Municipales garanticen la dotación de equipamiento mobiliario adecuado y pertinente para estudiantes con discapacidad.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo IX, Art. 54; página impresa: 23 (de 26); página PDF: 27.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+67. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] En un municipio no existe Centro de Educación Especial y una unidad educativa tiene un estudiante ciego. ¿Qué prevé el Reglamento?
+A. Que el estudiante sea exento del apoyo hasta que el municipio cree su propio CEE.
+B. Que el estudiante deba trasladarse obligatoriamente al municipio que cuente con CEE.
+C. Que la unidad contrate con sus recursos un maestro de apoyo de manera directa.
+D. Que el apoyo de un CEE pueda extenderse en un radio intermunicipal o interdistrital.
+Respuesta correcta: D
+Explicación: El Art. 57, inciso a), permite que el apoyo de la Modalidad Indirecta se extienda en un radio territorial intermunicipal o interdistrital ante la inexistencia de CEE en el municipio o distrito correspondiente.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Art. 57, inc. a); página impresa: 24 (de 26); página PDF: 28.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+68. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] El CEE del distrito no está acreditado en el área de discapacidad visual y una unidad del mismo distrito tiene una estudiante con baja visión. ¿Qué solución prevé el Reglamento?
+A. Que el CEE no acreditado brinde el apoyo de todas formas con su personal disponible.
+B. Extender el apoyo desde otro distrito o municipio por falta de acreditación en el área.
+C. Que la maestra de aula asuma las funciones del maestro de apoyo en discapacidad visual.
+D. Que la estudiante espere a que el CEE del distrito obtenga la acreditación respectiva.
+Respuesta correcta: B
+Explicación: El Art. 57, inciso b), permite extender el apoyo en radio intermunicipal o interdistrital por falta de acreditación en el área de atención requerida en los CEE del municipio o distrito.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Art. 57, inc. b); página impresa: 25 (de 26); página PDF: 29.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+69. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Un niño con discapacidad vive en una zona ribereña dispersa y, por razones socioeconómicas extremas, no puede asistir al CEE más cercano. ¿Qué cobertura prevé el Reglamento?
+A. Apoyo mediante maestros de apoyo o itinerantes, según posibilidades del CEE y previo informe técnico.
+B. Ninguna, porque el apoyo solo se brinda a quienes asisten de forma presencial al CEE del distrito o municipio.
+C. Traslado del niño a un internado especial financiado por el Gobierno Autónomo Departamental.
+D. Apoyo virtual obligatorio mediante plataformas digitales administradas por la Dirección Distrital.
+Respuesta correcta: A
+Explicación: El Art. 58 prevé cobertura mediante maestros de apoyo o itinerantes en lugares de difícil acceso, zonas dispersas, fronterizas y riberas, y para personas que por razones fortuitas, legales, patológicas o socioeconómicas extremas no pueden apersonarse al CEE, según las posibilidades del CEE y previo informe técnico pedagógico.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Art. 58; página impresa: 25 (de 26); página PDF: 29.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+70. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Un maestro de apoyo del área de dificultades específicas en el aprendizaje, con ítem completo, atiende a 25 estudiantes. ¿Qué carga horaria individualizada referencial le corresponde por estudiante?
+A. 12 horas mensuales promedio.
+B. 4 horas mensuales promedio.
+C. 2 horas mensuales promedio.
+D. 8 horas mensuales promedio.
+Respuesta correcta: B
+Explicación: El Art. 55 fija para Dificultades Específicas en el Aprendizaje más de 20 estudiantes por ítem completo y una carga horaria individualizada de 4 horas mensuales promedio.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Art. 55; página impresa: 24 (de 26); página PDF: 28.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+71. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Una maestra de apoyo en discapacidad visual, con ítem completo, debe organizar su trabajo. ¿Qué relación y carga horaria individualizada fija el Art. 55?
+A. Más de 4 estudiantes por ítem y 8 horas mensuales promedio por estudiante.
+B. Más de 5 estudiantes por ítem y 12 horas mensuales promedio por estudiante.
+C. Más de 15 estudiantes por ítem y 4 horas mensuales promedio por estudiante.
+D. Más de 20 estudiantes por ítem y 12 horas mensuales promedio por estudiante.
+Respuesta correcta: B
+Explicación: El Art. 55 establece para Discapacidad Visual más de 5 estudiantes por ítem completo y 12 horas mensuales promedio de carga individualizada; para Auditiva, más de 4 y 8 horas; para Talento, más de 15 (no aplica carga); para DEA, más de 20 y 4 horas.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Art. 55; página impresa: 24 (de 26); página PDF: 28.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+72. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] Un maestro con horas desglosadas destinadas a la modalidad indirecta atiende a un estudiante con discapacidad auditiva. ¿Qué carga horaria individualizada debe tomar en cuenta?
+A. 8 horas mensuales promedio.
+B. 6 horas mensuales promedio.
+C. 12 horas mensuales promedio.
+D. 4 horas mensuales promedio.
+Respuesta correcta: A
+Explicación: El Art. 55, inciso b), dispone que los maestros con horas destinadas a la modalidad indirecta desarrollen el apoyo según la "carga horaria individualizada" del cuadro, que para Discapacidad Auditiva es de 8 horas mensuales promedio.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Art. 55, incs. a) y b); página impresa: 24 (de 26); página PDF: 28.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+73. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Un maestro de aula se niega a adaptar los instrumentos de evaluación para un estudiante con discapacidad y le aplica la misma prueba que al resto. ¿Qué responsabilidad incumple?
+A. Presentar sus fichas de seguimiento el último día hábil de cada mes al maestro de apoyo de la unidad.
+B. Evaluar con estrategias, instrumentos y materiales adecuados para emitir las calificaciones.
+C. Realizar la evaluación integral multidisciplinaria del estudiante con discapacidad.
+D. Interpretar en LSB los contenidos curriculares durante el desarrollo de cada clase.
+Respuesta correcta: B
+Explicación: El Art. 13, inciso d), asigna a los maestros de aula desarrollar procesos de evaluación aplicando estrategias, instrumentos y materiales adecuados para emitir las calificaciones; el inciso a) les exige procesos accesibles en el marco del Diseño Plural.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 13, incs. a) y d); página impresa: 10 (de 26); página PDF: 14.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+74. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] Una maestra de aula recibe sugerencias del maestro de apoyo para un estudiante con discapacidad intelectual leve, pero decide no aplicarlas. ¿Qué función del Art. 39 desatiende?
+A. Presentar el Plan de Apoyo Técnico Pedagógico al director del Centro de Educación Especial.
+B. Elaborar el informe de evaluación integral con el equipo multidisciplinario del CEE.
+C. Desarrollar procesos educativos incorporando las sugerencias del apoyo técnico pedagógico.
+D. Aplicar pruebas psicométricas estandarizadas al estudiante cada trimestre de la gestión.
+Respuesta correcta: C
+Explicación: El Art. 39, inciso b), asigna al maestro de aula desarrollar procesos educativos incorporando las sugerencias del apoyo técnico pedagógico para estudiantes con DI leve o TEA sin compromiso intelectual, con adaptaciones, metodologías y recursos pertinentes; el inciso d) exige coordinación estrecha con el maestro de apoyo.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VI, Sección III, Art. 39, incs. b) y d); página impresa: 19 (de 26); página PDF: 23.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+75. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Un director de unidad se niega a facilitar las planificaciones curriculares al maestro de apoyo, alegando reserva institucional. ¿Qué responsabilidad incumple?
+A. Controlar la asistencia diaria del maestro de apoyo enviado por el Centro de Educación Especial.
+B. Aprobar el Plan de Apoyo Técnico Pedagógico del maestro de apoyo antes de su ejecución.
+C. Proporcionar las planificaciones cuando el maestro de apoyo las requiera con fines técnicos.
+D. Garantizar la inscripción de estudiantes con discapacidad según la convocatoria vigente.
+Respuesta correcta: C
+Explicación: El Art. 12, inciso i), asigna a los directores proporcionar las planificaciones curriculares e institucionales a los maestros de apoyo cuando las requieran con fines de Apoyo Técnico Pedagógico; el inciso h) les pide viabilizar espacios de coordinación.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 12, incs. h) e i); página impresa: 10 (de 26); página PDF: 14.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+76. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Un maestro de apoyo concluye su intervención en una unidad. ¿Cómo debe reportar el proceso de apoyo técnico pedagógico?
+A. Mediante informe escrito a la Dirección Distrital, sin intervención del CEE.
+B. Mediante informe escrito al CEE, con visto bueno de la institución educativa.
+C. Mediante anotación en la libreta escolar electrónica del estudiante apoyado.
+D. Mediante informe verbal al director de la unidad, sin necesidad de registro.
+Respuesta correcta: B
+Explicación: El Art. 17, inciso h), dispone que el maestro de apoyo reporte informe escrito del proceso de apoyo técnico pedagógico al Centro de Educación Especial con visto bueno de la Institución Educativa correspondiente.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 17, inc. h); página impresa: 12 (de 26); página PDF: 16.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+77. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VII] El director de una unidad pregunta con qué periodicidad recibirá informes del maestro de apoyo de dificultades en el aprendizaje sobre los avances de los estudiantes. ¿Qué dispone el Reglamento?
+A. Informes trimestrales sobre desarrollo, avances y logros, presentados a la dirección.
+B. Informes mensuales a las familias, sin copia para la dirección de la unidad.
+C. Informes semestrales presentados exclusivamente al director del CEE del distrito.
+D. Un único informe anual al cierre de gestión remitido a la Dirección Distrital.
+Respuesta correcta: A
+Explicación: El Art. 43, inciso g), asigna al maestro de apoyo de dificultades en el aprendizaje realizar informes trimestrales sobre el desarrollo educativo, avances y logros del estudiante y presentarlos a la dirección de la unidad educativa.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VII, Art. 43, inc. g); página impresa: 21 (de 26); página PDF: 25.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+78. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VIII] Un profesional de apoyo en talento extraordinario recibe el caso de una estudiante destacada en matemática. ¿Con quién debe coordinar para aplicar las evaluaciones por área y derivarla?
+A. Con la Comisión Pedagógica de la unidad, para derivarla a un CEE acreditado.
+B. Con la universidad pública, para su admisión directa en la carrera elegida.
+C. Con la Dirección Distrital, para aplicar un examen de aceleración inmediata.
+D. Con la junta escolar, para definir la beca que corresponde a la estudiante.
+Respuesta correcta: A
+Explicación: El Art. 47, inciso a), asigna al profesional de apoyo en talento extraordinario coordinar con la Comisión Pedagógica de cada unidad para aplicar las evaluaciones por área y derivar al Centro de Educación Especial acreditado.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VIII, Art. 47, inc. a); página impresa: 22 (de 26); página PDF: 26.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+79. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VIII] Los padres de un estudiante identificado con talento extraordinario piden saber qué atención recibirá su hijo. ¿Qué prevé el Art. 51?
+A. Que deban gestionar por su cuenta los programas extracurriculares que requiera su hijo.
+B. Que reciban solo el informe anual de calificaciones emitido por la unidad educativa.
+C. Que reciban asesoramiento individualizado e información sobre la atención educativa.
+D. Que firmen una autorización para que el estudiante sea promovido dos años de escolaridad.
+Respuesta correcta: C
+Explicación: El Art. 51, inciso b), dispone que el profesional de apoyo, en coordinación con los CEE, adopte medidas para que los padres reciban asesoramiento individualizado e información necesaria sobre la atención educativa que recibirán sus hijos.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VIII, Art. 51, inc. b); página impresa: 23 (de 26); página PDF: 27.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+80. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] En una clase de química, el maestro de apoyo advierte que un concepto nuevo no existe en el vocabulario de la LSB. ¿Qué procedimiento prevé el Reglamento?
+A. Identificar las señas o encontrar modos de definir el sentido y significado del concepto.
+B. Omitir el concepto en la interpretación y explicarlo por escrito al final del trimestre.
+C. Solicitar al maestro de aula que excluya el contenido del plan para el estudiante sordo.
+D. Interpretar el concepto letra por letra mediante dactilología, sin contextualizarlo.
+Respuesta correcta: A
+Explicación: El Art. 26, inciso c), dispone identificar las señas para los contenidos de cada clase o encontrar modos para definir el sentido y significado de conceptos que aún no existen en la LSB; el Art. 24, inciso e), permite recursos como señas provisionales y la contextualización.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo IV, Arts. 24 y 26; página impresa: 14 (de 26); página PDF: 18.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] El informe multidisciplinario de un niño con discapacidad intelectual recomienda el currículo de Educación Regular. ¿Qué decisión de inscripción corresponde?
+A. Inscribirlo directamente en Secundaria, según la edad cronológica que presenta.
+B. Inscribirlo en Inicial o Primaria y, si corresponde, simultáneamente en Educación Especial.
+C. Inscribirlo solo en el CEE hasta que alcance el perfil de salida del nivel Inicial.
+D. Inscribirlo en Educación Alternativa, por tratarse de un estudiante con discapacidad del distrito.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 6, inciso c), dispone que, en estudiantes con discapacidad intelectual cuyo informe establezca que el currículo más adecuado es el de Educación Regular, deben inscribirse en Educación Inicial o Primaria y simultáneamente en Educación Especial, si corresponde, para recibir el apoyo.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo II, Art. 6, inc. c); página impresa: 8 (de 26); página PDF: 12.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] El director constata burlas reiteradas contra un estudiante con TEA. Conforme al Reglamento, ¿qué responsabilidad de los estudiantes sin necesidades educativas debe reforzar?
+A. Promover acciones que prevengan todo tipo de violencia, acoso o bullying.
+B. Informar a la junta escolar sobre las conductas del compañero con TEA.
+C. Ayudar al compañero con TEA a realizar todas sus tareas en clase.
+D. Evitar el contacto con el compañero con TEA para no generar conflictos.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 14, inciso b), dispone que los estudiantes que no presentan necesidades o potencialidades educativas promuevan acciones que prevengan todo tipo de violencia, acoso o bullying, respetando la individualidad de todos; el inciso c) exige practicar valores de respeto y tolerancia.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 14, incs. b) y c); página impresa: 11 (de 26); página PDF: 15.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] La unidad necesita lectores de pantalla y equipos de tiflotecnología. ¿Qué decisión corresponde al director según el Reglamento?
+A. Solicitar que el estudiante traiga su propio equipo para utilizarlo en el aula.
+B. Gestionar ante las instancias correspondientes la dotación de equipamiento accesible.
+C. Adquirir el equipamiento con cuotas extraordinarias de las familias de la unidad educativa inclusiva.
+D. Postergar la atención del estudiante hasta que el municipio dote el equipamiento.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 12, inciso g), asigna a los directores gestionar ante las instancias correspondientes la dotación de equipamiento técnico y tecnológico bajo el criterio de accesibilidad.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 12, inc. g); página impresa: 10 (de 26); página PDF: 14.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO IV] Ingresa a la unidad un estudiante sordo. Antes de definir el apoyo, ¿qué decisión técnica corresponde según el Art. 26?
+A. Solicitar a la familia un certificado de dominio de LSB emitido por el CEE.
+B. Aplicarle las mismas pruebas del curso y decidir el apoyo según sus calificaciones.
+C. Realizar una evaluación diagnóstica de su LSB, castellano escrito y conocimientos cotidianos.
+D. Ubicarlo en el curso inferior hasta que demuestre dominio del castellano oral.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 26, inciso a), dispone realizar una evaluación diagnóstica del estudiante sordo respecto del dominio de la primera lengua (LSB), de su escritura y lectura de la segunda lengua (castellano escrito) y de los conocimientos que aplica en su vida cotidiana, para precisar el apoyo pertinente.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo IV, Art. 26, inc. a); página impresa: 14 (de 26); página PDF: 18.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO V] Para que el apoyo al estudiante con discapacidad visual sea pertinente, ¿qué coordinación debe asegurar el maestro de apoyo con el maestro de aula?
+A. Coordinar únicamente con el director, que transmite la información al aula.
+B. Coordinar solo al finalizar el trimestre la calificación final del estudiante.
+C. Coordinar a pedido del maestro de aula cuando surjan dificultades en clase.
+D. Coordinar previa y obligatoriamente el avance de los contenidos planificados.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 30, inciso g), dispone que el maestro de apoyo coordine previa y obligatoriamente con los maestros de aula el avance de contenidos planificados, a fin de consolidar condiciones educativas pertinentes.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo V, Art. 30, inc. g); página impresa: 16 (de 26); página PDF: 20.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] La Comisión Técnica Pedagógica analizará los avances de un estudiante con discapacidad intelectual. ¿Qué decisión es coherente con las funciones del maestro de apoyo?
+A. Que participe en la reunión para orientar el desarrollo de los procesos educativos.
+B. Que sustituya al maestro de aula en la exposición de las calificaciones.
+C. Que remita un informe escrito y se abstenga de participar en la reunión.
+D. Que presida la reunión y defina por sí solo la promoción del estudiante ante los padres.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 35, inciso f), asigna al maestro de apoyo en discapacidad intelectual participar en las reuniones necesarias de la comisión técnica pedagógica de la institución, junto a los maestros, con la finalidad de orientar el desarrollo de los procesos educativos.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VI, Sección I, Art. 35, inc. f); página impresa: 18 (de 26); página PDF: 22.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] Para definir el apoyo a un estudiante con TEA, ¿con quién debe coordinar el maestro de apoyo según el Art. 38?
+A. Con la Defensoría de la Niñez, que define el tipo de apoyo que corresponde.
+B. Con la junta escolar, que aprueba los apoyos asignados a cada estudiante.
+C. Con la Dirección Departamental, que define la carga horaria individualizada del estudiante.
+D. Con el equipo multidisciplinario que realiza la evaluación integral del estudiante.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 38, inciso d), asigna al maestro de apoyo coordinar con el equipo multidisciplinario que realiza la evaluación integral del estudiante con TEA para determinar sus características, potencialidades, intereses y necesidades educativas y el contexto.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VI, Sección II, Art. 38, inc. d); página impresa: 19 (de 26); página PDF: 23.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [R.M. 0069/2025 Reglamento de Educación Inclusiva – DISPOSICIONES FINALES] Surge un aspecto técnico pedagógico del apoyo educativo que el Reglamento no prevé. ¿Cómo se resuelve?
+A. Mediante instructivos del Viceministerio respectivo, con informe técnico de la Dirección General.
+B. Mediante resolución de la Dirección Departamental, con dictamen de la Dirección Distrital de la jurisdicción.
+C. Mediante acuerdo entre el director del CEE y el director de la unidad educativa inclusiva.
+D. Mediante consulta a la junta escolar, que define el criterio aplicable en cada caso.
+Respuesta correcta: A
+Explicación: Aplicación razonada: La Disposición Final Tercera establece que los aspectos técnico pedagógicos de apoyo educativo no previstos serán resueltos mediante instructivos emitidos por el Viceministerio respectivo, previo informe técnico de la Dirección General correspondiente.
+Sustento: R.M. 0069/2025, Reglamento, Disposición Final Tercera; página impresa: 26 (de 26); página PDF: 30.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [R.M. 0069/2025 Reglamento de Educación Inclusiva – DISPOSICIONES FINALES] Un director pregunta desde cuándo es exigible el Reglamento en su unidad. ¿Qué establece la Disposición Final Primera?
+A. Rige desde el inicio de la gestión educativa siguiente a su aprobación por el Ministerio vigente.
+B. Rige desde su publicación en la Gaceta Oficial y la aprobación de su reglamento interno.
+C. Rige desde la emisión de la Resolución Ministerial y su publicación por los medios del Ministerio.
+D. Rige desde su socialización por la Dirección Distrital en cada unidad educativa.
+Respuesta correcta: C
+Explicación: Aplicación razonada: La Disposición Final Primera establece que el Reglamento entra en vigencia a partir de la emisión de la Resolución Ministerial de aprobación y su publicación por los medios definidos por el Ministerio de Educación.
+Sustento: R.M. 0069/2025, Reglamento, Disposición Final Primera; página impresa: 26 (de 26); página PDF: 30.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VI] La familia de una adolescente con discapacidad intelectual duda sobre la continuidad educativa de su hija. ¿Qué decisión corresponde al maestro de apoyo según el Art. 35?
+A. Remitir a la familia a la Dirección Distrital, que define la continuidad de la estudiante.
+B. Orientar a la familia sobre la proyección educativa más favorable según tipo y grado de discapacidad.
+C. Decidir por la familia el subsistema en el que debe continuar la estudiante el siguiente año de escolaridad.
+D. Recomendar el retiro de la estudiante del sistema educativo al concluir la Primaria.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 35, inciso h), asigna al maestro de apoyo en discapacidad intelectual orientar a las familias, madres, padres o tutores sobre la proyección educativa más favorable para estos estudiantes, según tipo y grado de discapacidad.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VI, Sección I, Art. 35, inc. h); página impresa: 18 (de 26); página PDF: 22.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] En la planificación estratégica de su unidad, ¿cómo debe incorporar el director el Diseño Plural para los Aprendizajes según el Art. 8?
+A. Progresivamente, en su Proyecto Educativo y en la Planificación Curricular, en todos sus componentes.
+B. De manera inmediata, sustituyendo el currículo base por el currículo específico de Especial.
+C. Como anexo opcional del POA, sujeto a la aprobación de la junta escolar de la unidad educativa.
+D. Solo en los cursos que tengan inscritos estudiantes con discapacidad diagnosticada formalmente del curso.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 8, inciso a), dispone que las instituciones fiscales, de convenio y privadas, así como su personal docente, incorporen progresivamente en su Proyecto Educativo y Planificación Curricular el "Diseño Plural para los Aprendizajes" en todos sus componentes.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 8, inc. a); página impresa: 9 (de 26); página PDF: 13.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Para garantizar la accesibilidad comunicacional de su institución, ¿qué medida estratégica exige el Art. 8, inciso b)?
+A. Contratar intérpretes externos solo para actos oficiales y eventos de la unidad educativa educativa.
+B. Concentrar a los estudiantes con discapacidad sensorial en un mismo paralelo de la unidad.
+C. Aplicar la LSB, el Braille, sistemas aumentativos o alternativos y otras formas de comunicación.
+D. Limitar la comunicación al castellano oral y escrito para unificar los procesos de aula.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 8, inciso b), dispone que las unidades, centros e instituciones fiscales, de convenio o privadas apliquen la Lengua de Señas Boliviana, el Sistema Braille, los Sistemas de Comunicación Aumentativa o Alternativa y otras formas de comunicación, según corresponda.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 8, inc. b); página impresa: 9 (de 26); página PDF: 13.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Para articular su unidad con el CEE de la zona, ¿qué prevé el Art. 9 sobre la interacción interinstitucional?
+A. Que el director del CEE asuma la dirección pedagógica de la unidad educativa inclusiva vecina de su distrito.
+B. Que la interacción se limite a un informe anual del CEE al director de la unidad educativa.
+C. Que los directores de CEE e instituciones coordinen y definan acciones pedagógicas y administrativas.
+D. Que la Dirección Distrital defina todas las acciones sin participación de los directores.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 9 dispone que las y los directores de los Centros de Educación Especial e Instituciones Educativas coordinen y definan acciones pedagógicas y administrativas que garanticen una atención educativa de calidad a estos estudiantes.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 9; página impresa: 9 (de 26); página PDF: 13.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VIII] Las Direcciones Departamentales y Distritales deben planificar la atención al talento extraordinario. ¿Qué deben incluir en su POA según el Art. 50?
+A. Un concurso anual que reemplace la evaluación de los equipos multidisciplinarios.
+B. Acciones de sensibilización, capacitación, seguimiento y fomento, coordinadas con CEE acreditados.
+C. La creación de unidades educativas exclusivas para estudiantes con talento extraordinario del departamento.
+D. Un presupuesto para becas universitarias de los estudiantes con talento identificado.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 50, inciso b), dispone que las Direcciones Departamentales y Distritales incluyan en su POA acciones de sensibilización, capacitación, seguimiento y fomento a estudiantes del área de Talento Extraordinario, en coordinación con los CEE acreditados.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VIII, Art. 50, inc. b); página impresa: 23 (de 26); página PDF: 27.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO VIII] En una estrategia departamental para estudiantes con talento extraordinario, ¿qué acción asigna el Art. 50, inciso a)?
+A. Generar oportunidades académicas en instituciones educativas, culturales, científicas y universidades.
+B. Trasladar a estos estudiantes a unidades privadas con financiamiento del Estado.
+C. Eximir a estos estudiantes de la evaluación regular durante su permanencia en el programa.
+D. Seleccionar a los mejores estudiantes para que representen al departamento en el extranjero.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 50, inciso a), dispone que las Direcciones Departamentales, en coordinación con las Subdirecciones y Direcciones Distritales, generen oportunidades académicas en instituciones educativas, culturales, científicas y universidades a nivel nacional y departamental.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo VIII, Art. 50, inc. a); páginas impresas: 22 y 23 (de 26); páginas PDF: 26 y 27.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO I] Para consolidar una cultura inclusiva en la comunidad educativa, ¿a quiénes deben dirigirse los programas de sensibilización y capacitación según el Art. 5, inciso g)?
+A. Solo a los maestros de apoyo de los Centros de Educación Especial del distrito.
+B. Solo a las familias de estudiantes con discapacidad inscritos en la unidad.
+C. A maestros, madres, padres, estudiantes y otros actores educativos en general.
+D. Solo a los directores de unidades educativas fiscales del área urbana.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 5, inciso g), fija como finalidad implementar programas de sensibilización y capacitación permanente dirigidos a las comunidades educativas compuestas por maestras, maestros, madres y padres, estudiantes y otros actores educativos en general.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo I, Art. 5, inc. g); página impresa: 7 (de 26); página PDF: 11.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO II] Desde la gestión institucional, ¿qué valor estratégico tiene mantener actualizado el archivo de trayectoria educativa de cada estudiante con discapacidad?
+A. Reemplaza la libreta escolar electrónica en los trámites de traslado entre unidades educativas.
+B. Asegura la continuidad del apoyo al documentar logros, dificultades y recomendaciones al trasladarse.
+C. Permite seleccionar a los estudiantes que serán derivados a la modalidad directa de forma definitiva.
+D. Sirve como único documento para la promoción del estudiante al siguiente año de escolaridad.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 4, inciso j), define la trayectoria educativa como el historial que registra potencialidades, logros, dificultades, intervenciones y recomendaciones; el Art. 7, inciso a), obliga a remitir ese archivo a la institución de destino en caso de traslado.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo I, Art. 4, inc. j); Capítulo II, Art. 7, inc. a); páginas impresas: 7 y 8 (de 26); páginas PDF: 11 y 12.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO X] ¿Qué previsión contiene el Reglamento para su propia mejora a partir de la experiencia de aplicación?
+A. Las Direcciones Departamentales pueden modificarlo mediante resolución administrativa propia del área.
+B. Su revisión requiere el acuerdo previo de la Confederación de maestros de educación especial.
+C. El Ministerio, a través del Viceministerio de Alternativa y Especial, debe revisarlo y actualizarlo.
+D. Los Centros de Educación Especial pueden adaptarlo libremente a la realidad de cada distrito.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 63 dispone que el Ministerio de Educación, a través del Viceministerio de Educación Alternativa y Especial, revise y actualice el Reglamento basándose en la experiencia de su aplicación y la normativa vigente.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo X, Art. 63; página impresa: 26 (de 26); página PDF: 30.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Para que los estudiantes con discapacidad transiten entre niveles y subsistemas sin rupturas, ¿qué función estratégica asigna el Art. 10, inciso b), a las Direcciones Departamentales?
+A. Promover la coordinación entre niveles y ámbitos de Regular, Superior, Alternativa y Especial.
+B. Centralizar las inscripciones de estos estudiantes en la propia Dirección Departamental.
+C. Unificar en un solo subsistema la atención de todos los estudiantes con discapacidad.
+D. Asignar a cada estudiante con discapacidad un CEE de referencia durante toda su trayectoria.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 10, inciso b), dispone que las Direcciones Departamentales promuevan acciones de coordinación entre los diferentes niveles y ámbitos de los Subsistemas de Educación Regular, Superior, Alternativa y Especial en sus jurisdicciones.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 10, inc. b); página impresa: 9 (de 26); página PDF: 13.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [R.M. 0069/2025 Reglamento de Educación Inclusiva – CAPÍTULO III] Un director diseña un plan anual de cultura inclusiva para su unidad. ¿Qué acción del Art. 12 sustenta capacitar y concientizar a toda la comunidad?
+A. Promover la capacitación y concientización de maestros, padres, estudiantes y otros en derechos y diversidad.
+B. Exigir a cada familia de estudiantes con discapacidad un aporte para financiar las capacitaciones de la unidad.
+C. Delegar toda la capacitación a la junta escolar, que define los temas y los facilitadores.
+D. Restringir la capacitación a los maestros que tengan estudiantes con discapacidad en su curso.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 12, inciso e), asigna a las directoras y directores promover procesos de capacitación y concientización de maestras, maestros, madres, padres, estudiantes y otros en temáticas del derecho a la educación y respeto a la diversidad; el inciso c) les asigna sensibilizar a la comunidad.
+Sustento: R.M. 0069/2025, Reglamento, Capítulo III, Art. 12, incs. c) y e); página impresa: 10 (de 26); página PDF: 14.

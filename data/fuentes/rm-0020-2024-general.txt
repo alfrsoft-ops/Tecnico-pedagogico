@@ -1,0 +1,1103 @@
+# Fuente: rm-0020-2024-general.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# SISTEMA EDUCATIVO PLURINACIONAL
+# BANCO DE PREGUNTAS DE NIVEL MUY AVANZADO
+# Evaluación de aspirantes a cargos directivos
+# Fuente exclusiva
+# R.M. N.º 0020/2024 y normas conexas – Reglamentos de Apertura, Modificación y Cierre de Unidades Educativas Fiscales, de Convenio y Privadas
+# R.M. 0020/2024, R.M. 0021/2024, R.M. 0022/2024 y R.M. 0534/2025
+# 100 preguntas de opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# La Paz – Bolivia
+# Noviembre de 2026
+# 1. Presentación del instrumento
+# El presente banco de 100 preguntas de nivel muy avanzado está dirigido a la evaluación de aspirantes a cargos directivos del Sistema Educativo Plurinacional. Ha sido elaborado exclusivamente a partir del documento proporcionado, que reúne la R.M. N.º 0020/2024 (unidades fiscales), la R.M. N.º 0021/2024 (unidades de convenio), la R.M. N.º 0022/2024 (unidades privadas) y la R.M. N.º 0534/2025, que modifica el régimen de faltas y sanciones de las unidades privadas.
+# Cada pregunta indica su dimensión de evaluación, su modalidad (Conceptual, Interpretativa, Aplicación razonada o Caso práctico), la respuesta correcta, una fundamentación breve y la referencia documental verificable. El rótulo «Aplicación razonada» distingue las situaciones derivadas de las preguntas de conocimiento textual.
+# Al inicio de cada enunciado se consigna, entre corchetes, la norma y el capítulo de procedencia. Las preguntas sobre faltas graves y gravísimas de unidades privadas se formulan según el texto vigente tras la R.M. 0534/2025, y así se indica en cada fundamentación.
+# Las responsabilidades directivas evaluadas se limitan a las que los reglamentos asignan expresamente a directores de unidades educativas, directores distritales, subdirecciones, jefaturas jurídicas, directores departamentales y al Ministerio de Educación.
+# 2. Ficha técnica
+# Aspecto
+# Detalle
+# Documento fuente
+# R.M. N.º 0020/2024 y normas conexas – Reglamentos de Apertura, Modificación y Cierre de Unidades Educativas Fiscales, de Convenio y Privadas – R.M. 0020/2024, R.M. 0021/2024, R.M. 0022/2024 y R.M. 0534/2025
+# Archivo
+# 5. RM N° 0020-2024 Modificación y cierre de U.E.pdf (51 páginas PDF)
+# Cantidad de preguntas
+# 100
+# Modalidad
+# Opción múltiple y casos prácticos
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta
+# Rótulos de modalidad
+# Conceptual · Interpretativa · Aplicación razonada · Caso práctico
+# Criterio de paginación
+# El archivo reúne cuatro normas: R.M. 0020/2024 (PDF 1–3) y su Reglamento de unidades fiscales (PDF 4–12; página impresa = PDF − 3, «n de 9»); R.M. 0021/2024 (PDF 13–15) y su Reglamento de unidades de convenio (PDF 16–30; página impresa = PDF − 15, «n de 15»); R.M. 0022/2024 (PDF 32–34) y su Reglamento de unidades privadas (PDF 35–47; página impresa = PDF − 34, «n de 13»); y R.M. 0534/2025 (PDF 48–51, «n de 4»).
+# 3. Distribución metodológica y ponderación
+# N.º
+# Dimensión de evaluación
+# Preguntas
+# Peso
+# Rango
+# 1
+# Conocimiento y memorización
+# 5
+# 5%
+# 1–5
+# 2
+# Dominio conceptual
+# 5
+# 5%
+# 6–10
+# 3
+# Competencias y responsabilidades directivas
+# 10
+# 10%
+# 11–20
+# 4
+# Comprensión e interpretación
+# 10
+# 10%
+# 21–30
+# 5
+# Diferenciación conceptual
+# 5
+# 5%
+# 31–35
+# 6
+# Análisis crítico
+# 10
+# 10%
+# 36–45
+# 7
+# Aplicación normativa
+# 15
+# 15%
+# 46–60
+# 8
+# Resolución de casos prácticos
+# 20
+# 20%
+# 61–80
+# 9
+# Toma de decisiones
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de respuestas correctas: A = 25 · B = 25 · C = 25 · D = 25.
+# Distribución por modalidad: Conceptual = 25 · Interpretativa = 20 · Aplicación razonada = 35 · Caso práctico = 20.
+# 4. Banco de preguntas
+# Dimensión: Conocimiento y memorización
+# Se verificó que el banco contiene exactamente 100 preguntas distribuidas según la tabla metodológica, cada una con cuatro alternativas y una sola respuesta correcta respaldada por el texto de las normas.
+# Las respuestas correctas se distribuyeron de manera equilibrada entre A, B, C y D, sin secuencias predecibles, y se controló la homogeneidad de extensión de las alternativas. En preguntas de dato breve (plazos, tipos de falta), la diferencia relativa puede ser mayor por la naturaleza de la información.
+# Se advierten dos imprecisiones del propio documento fuente, tratadas como tales en el análisis crítico: el Art. 21 del Reglamento de convenio menciona «unidades educativas privadas», y la Disposición Final Primera del Reglamento de privadas declara gratuito el RUE «para las unidades educativas de convenio». Además, la portada del Reglamento de privadas numera su primera página como «1 de 13» aunque corresponde a la página 3.
+# Las referencias consignan la página impresa y la página PDF; la ubicación de los artículos clave se verificó sobre el texto y, en tablas y páginas con sellos superpuestos, sobre la imagen de la página.
+
+CAPÍTULO: rm-0020-2024-general
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO I] Según el Art. 6 del Reglamento de unidades educativas fiscales, ¿qué es requisito imprescindible para su funcionamiento?
+A. Resolución Administrativa vigente de la DDE y Certificado de Registro de Unidades Educativas (RUE).
+B. Acta de fundación aprobada por la comunidad y POA firmado por el Director Distrital de Educación.
+C. Certificado RUE emitido por la Dirección Distrital y aval del Gobierno Autónomo Municipal.
+D. Resolución Ministerial de creación y acta de compromiso firmada por la junta escolar de la unidad educativa.
+Respuesta correcta: A
+Explicación: El Art. 6 dispone que para el funcionamiento de la unidad educativa fiscal es requisito imprescindible contar con la Resolución Administrativa vigente de autorización de funcionamiento, emitida por la Dirección Departamental de Educación, y el Certificado de Registro de Unidades Educativas (RUE).
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo I, Art. 6; página impresa: 3 (de 9); página PDF: 6.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] ¿En qué periodo debe registrarse en el Sistema portal de trámites Web la solicitud de apertura, modificación o cierre de unidades educativas fiscales?
+A. Del 1 de julio al 31 de octubre, para su vigencia en la gestión siguiente.
+B. Del 1 de enero al 31 de marzo, para su vigencia desde el segundo trimestre.
+C. Del 1 de febrero al 30 de abril, para su vigencia en la misma gestión educativa.
+D. Del 1 de junio al 30 de septiembre, para su vigencia en la gestión siguiente.
+Respuesta correcta: D
+Explicación: El Art. 16, parágrafo I, dispone que el registro de solicitudes de apertura, modificación y cierre se realice desde el 1 de junio hasta el 30 de septiembre, para su entrada en vigencia en la siguiente gestión educativa.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 16; página impresa: 7 (de 9); página PDF: 10.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] ¿Cuáles son los requisitos para la apertura de una unidad educativa fiscal?
+A. Solicitud de apertura, acta de fundación y acta de compromiso del GAM o del Gobierno IOC.
+B. Solicitud de apertura, POA firmado por el Distrital y declaración jurada notariada.
+C. Solicitud de apertura, reglamento interno y manual de organización y funciones aprobado por la DDE.
+D. Solicitud de apertura, convenio vigente y certificación de registro de culto de RR.EE.
+Respuesta correcta: A
+Explicación: El Art. 7 fija tres requisitos: solicitud de apertura presentada por personas naturales o jurídicas, acta de fundación y acta de compromiso del Gobierno Autónomo Municipal o Gobierno Indígena Originario Campesino que garantice la responsabilidad del Art. 80 de la Ley de la Educación.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 7; página impresa: 4 (de 9); página PDF: 7.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO IV] ¿Cuál de las siguientes es causal de cierre definitivo de una unidad educativa fiscal?
+A. Contar con menos de 21 estudiantes por paralelo en dos gestiones consecutivas.
+B. Contar con menos de 10 estudiantes, salvo en zonas fronterizas y de difícil acceso.
+C. Registrar un rendimiento académico inferior al promedio del distrito educativo.
+D. No contar con la actualización trienal del Certificado de Registro de la unidad educativa.
+Respuesta correcta: B
+Explicación: El Art. 19 establece como causales: cantidad de estudiantes menor a 10, con excepción de zonas fronterizas y de difícil acceso; incurrir en prohibiciones; no contar con estudiantes inscritos; caso fortuito o fuerza mayor con pérdida total de infraestructura; y reordenamiento administrativo distrital.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo IV, Art. 19; página impresa: 9 (de 9); página PDF: 12.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [R.M. 0534/2025 Modificación del Reglamento de U.E. Privadas – RESOLUCIÓN MINISTERIAL] ¿Qué modificó la R.M. 0534/2025 en el Reglamento de unidades educativas privadas?
+A. Las causales de cierre definitivo del Art. 15 y el procedimiento sancionatorio del Art. 22.
+B. Los incisos b) y c) de los Arts. 20 y 21 sobre faltas graves, gravísimas y sus sanciones.
+C. El periodo de trámites del Art. 13 y la gratuidad del Registro de Unidades Educativas.
+D. Los requisitos de apertura del Art. 7 para asociaciones, cooperativas y sociedades.
+Respuesta correcta: B
+Explicación: La R.M. 0534/2025, de 14 de agosto de 2025, modifica los incisos b) y c) del Art. 20 (faltas graves y gravísimas) y del Art. 21 (sanciones) del Reglamento aprobado por R.M. 0022/2024, y abroga la R.M. 023/11.
+Sustento: R.M. 0534/2025, Arts. 1, 2 y 4; páginas impresas: 2 a 4 (de 4); páginas PDF: 49 a 51.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+6. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO I] ¿Qué naturaleza jurídica atribuye el Reglamento a las unidades educativas fiscales?
+A. Entidades autónomas municipales que administran la educación de su territorio.
+B. Instituciones privadas que prestan un servicio público por su carácter binario.
+C. Personas jurídicas de derecho mixto que prestan un servicio público en virtud de convenio.
+D. Instituciones públicas que brindan un servicio público bajo supervisión del Estado.
+Respuesta correcta: D
+Explicación: El Art. 2 define a las unidades educativas fiscales como instituciones públicas que brindan un servicio público, bajo supervisión del Estado, basadas en el derecho fundamental a la educación; el Art. 3 añade que son de enseñanza gratuita y sostenidas por el Estado.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo I, Arts. 2 y 3; página impresa: 3 (de 9); página PDF: 6.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+7. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO I] Según el Art. 3, las unidades educativas de convenio se constituyen en:
+A. Instituciones públicas sostenidas íntegramente por el Estado y administradas por él.
+B. Personas jurídicas de derecho mixto, de servicio social, libre acceso y sin fines de lucro.
+C. Personas jurídicas de derecho privado que prestan servicio público con fines de lucro propio.
+D. Entidades religiosas autónomas exentas de las políticas del Sistema Educativo.
+Respuesta correcta: B
+Explicación: El Art. 3 define a las unidades educativas de convenio como personas jurídicas de derecho mixto, con fines educativos de servicio social, de libre acceso y sin fines de lucro, administradas por iglesias u otras instituciones, que prestan servicio público en función de un convenio vigente, con personal docente y administrativo financiado por el Estado.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo I, Art. 3; página impresa: 4 (de 15); página PDF: 19.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+8. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO I] ¿Por qué el Reglamento califica de "binario" el carácter del servicio que prestan las unidades educativas privadas?
+A. Porque atiende a estudiantes de dos niveles: Primaria y Secundaria Comunitaria.
+B. Porque depende a la vez de la Dirección Distrital y del Gobierno Municipal.
+C. Porque combina financiamiento estatal con administración de entidades religiosas.
+D. Porque la educación es a la vez un derecho fundamental y un servicio público.
+Respuesta correcta: D
+Explicación: El Art. 2 señala que las unidades educativas privadas son instituciones privadas que brindan un servicio público, dado su carácter binario, pues la educación no solo constituye un derecho fundamental, sino también un servicio público, bajo regulación, gestión y supervisión del Estado.
+Sustento: R.M. 0022/2024, Reglamento (privadas), Capítulo I, Art. 2; página impresa: 3 (de 13); página PDF: 37.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+9. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO I] ¿Qué control periódico sobre el Certificado RUE prevén los reglamentos de unidades de convenio y privadas?
+A. Revisión anual por la junta escolar y actualización cada dos años.
+B. Revisión semestral por el Ministerio y actualización cada cinco años.
+C. Revisión trimestral por la DDE y actualización obligatoria al inicio de cada gestión.
+D. Revisión anual por las direcciones distritales y actualización cada tres años.
+Respuesta correcta: D
+Explicación: El Art. 5, parágrafo II, de ambos reglamentos dispone que las direcciones distritales revisen anualmente los Certificados RUE, que deben ser actualizados cada tres años para garantizar la mejora de los servicios.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Art. 5, pág. impresa 4 (de 15), PDF 19; R.M. 0022/2024, Reglamento (privadas), Art. 5, pág. impresa 3 (de 13), PDF 37.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+10. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – DISPOSICIONES FINALES] ¿Qué establece la Disposición Final Primera del Reglamento de unidades educativas fiscales sobre el Registro de Unidades Educativas?
+A. Que el RUE es gratuito para las unidades educativas fiscales.
+B. Que el RUE es gratuito solo en zonas fronterizas y rurales.
+C. Que el RUE se renueva anualmente con pago de un arancel mínimo.
+D. Que el RUE tiene un costo fijado por la Dirección Departamental.
+Respuesta correcta: A
+Explicación: La Disposición Final Primera del Reglamento de fiscales establece que el Registro de Unidades Educativas (RUE) es gratuito para las unidades educativas fiscales.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Disposición Final Primera; página impresa: 9 (de 9); página PDF: 12.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+11. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] En el procedimiento de apertura de una unidad fiscal, ¿qué corresponde a la Dirección Distrital Educativa?
+A. Revisar y verificar in situ en máximo 8 días y emitir el informe técnico de viabilidad.
+B. Habilitar el registro y la firma electrónica en el sistema en un plazo de 2 días hábiles.
+C. Emitir la Resolución Administrativa de apertura en un plazo máximo de 3 días hábiles.
+D. Imprimir y entregar el Certificado RUE original en un plazo máximo de 2 días hábiles.
+Respuesta correcta: A
+Explicación: El Art. 8, inciso b), dispone que la Dirección Distrital, en un plazo no mayor a 8 días, realice la revisión, análisis y verificación in situ de infraestructura, equipamiento y estadística y emita el informe técnico de viabilidad; la Resolución corresponde al Director Departamental y la habilitación al Ministerio.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 8, inc. b); página impresa: 4 (de 9); página PDF: 7.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+12. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] ¿Qué instancia aprueba y habilita en el sistema el registro de apertura, la firma electrónica y la autorización de impresión del Certificado RUE?
+A. La Dirección Departamental de Educación, a través de la Subdirección de Educación Regular del área.
+B. La Dirección Distrital Educativa, a través del técnico responsable del Sistema de Información Educativa (SIE).
+C. El Ministerio de Educación, a través de la Unidad de Gestión de Personal del SEP y Sistemas Informáticos.
+D. La Jefatura de Asuntos Jurídicos de la DDE, mediante su informe legal y proyecto de resolución.
+Respuesta correcta: C
+Explicación: El Art. 8, inciso f), dispone que el Ministerio de Educación, a través de la Unidad de Gestión de Personal del SEP y Sistemas Informáticos, en un plazo no mayor a 2 días hábiles, apruebe y habilite el registro, la firma electrónica y la autorización de impresión del Certificado RUE original.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 8, inc. f); página impresa: 4 (de 9); página PDF: 7.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+13. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO IV] ¿Quiénes pueden solicitar el cierre definitivo de una unidad educativa fiscal según el Art. 18?
+A. Solo el Director Departamental, previa evaluación del rendimiento académico de la unidad.
+B. El Gobierno Autónomo Municipal, cuando decida dejar de financiar los servicios básicos.
+C. Solo la junta escolar de padres y madres de familia, con el aval del Gobierno Autónomo Municipal del lugar.
+D. El Director de la unidad o Director Encargado; o el Director Distrital de oficio o a pedido superior.
+Respuesta correcta: D
+Explicación: El Art. 18, numeral 1, establece que la solicitud de cierre la dirige al Director Distrital el Director de la unidad o Director Encargado, especificando las causales; y, en caso de incumplimiento a normativa, el Director Distrital realiza la solicitud de oficio o a solicitud de autoridad superior.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo IV, Art. 18; página impresa: 8 (de 9); página PDF: 11.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+14. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO IV] ¿Qué deber periódico asigna el Reglamento al Director Distrital respecto de las unidades de convenio y privadas de su jurisdicción?
+A. Designar anualmente al director de cada unidad de convenio y privada del distrito.
+B. Auditar anualmente los estados financieros de cada unidad de convenio y privada.
+C. Aprobar anualmente el reglamento interno y los montos de pensiones de cada unidad de su jurisdicción.
+D. Elaborar anualmente un cronograma de inspecciones para verificar el cumplimiento de la norma.
+Respuesta correcta: D
+Explicación: El Art. 22 (convenio) y el Art. 18 (privadas) disponen que el Director Distrital elabore anualmente un cronograma de inspecciones a las unidades de su jurisdicción para verificar el cumplimiento de la normativa sobre apertura, modificación y cierre.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Art. 22, pág. impresa 12 (de 15), PDF 27; R.M. 0022/2024, Reglamento (privadas), Art. 18, pág. impresa 10 (de 13), PDF 44.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+15. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] Cuando el denunciante de un hecho irregular en una unidad de convenio o privada es un estudiante, ¿qué deber tiene el Director Distrital?
+A. Remitir la denuncia a la junta escolar para su verificación.
+B. Exigir la presencia de sus padres para validar la denuncia.
+C. Mantener en reserva su identidad, para evitar represalias.
+D. Hacer pública la denuncia para garantizar la transparencia.
+Respuesta correcta: C
+Explicación: El Art. 23, parágrafo II (convenio), y el Art. 19, parágrafo II (privadas), disponen que los Directores Distritales mantengan en reserva la identidad cuando los denunciantes sean estudiantes, a fin de evitar represalias; de lo contrario, serán pasibles de acciones administrativas.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Art. 23, pág. impresa 12 (de 15), PDF 27; R.M. 0022/2024, Reglamento (privadas), Art. 19, pág. impresa 10 (de 13), PDF 44.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+16. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO IV] ¿Quiénes son pasibles de sanciones si incurren en las prohibiciones del Reglamento de unidades fiscales?
+A. Solo los directores de unidades educativas, por ser los responsables del funcionamiento institucional.
+B. Solo los técnicos del sistema RUE que registren datos erróneos en el portal de trámites Web.
+C. Solo los miembros de la junta escolar que hayan suscrito el acta de fundación de la unidad.
+D. Directores de unidades, directores distritales, técnicos, subdirectores y directores departamentales.
+Respuesta correcta: D
+Explicación: El Art. 21 dispone que los directores de unidades educativas, directores distritales, técnicos, subdirectores de educación y directores departamentales que incurran en las prohibiciones serán pasibles de las sanciones establecidas en la normativa vigente.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo IV, Art. 21; página impresa: 9 (de 9); página PDF: 12.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+17. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] En la apertura de una unidad fiscal, ¿qué debe hacer la Dirección Departamental una vez devuelto el trámite por el Ministerio?
+A. Publicar la Resolución Administrativa y archivar el trámite en la Dirección Distrital Educativa.
+B. Devolver el trámite al solicitante para que imprima el Certificado RUE en su propia unidad.
+C. Remitir el trámite a la Jefatura de Asuntos Jurídicos para un nuevo informe legal en el plazo de 3 días hábiles.
+D. Imprimir y entregar el Certificado RUE a la Distrital en 2 días hábiles y custodiar la documentación.
+Respuesta correcta: D
+Explicación: El Art. 8, inciso g), dispone que, devuelto el trámite, la Dirección Departamental en el plazo de 2 días hábiles imprima y entregue el Certificado RUE a la Dirección Distrital y mantenga bajo su custodia toda la documentación del trámite.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 8, inc. g); página impresa: 4 (de 9); página PDF: 7.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+18. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] ¿Qué instancia inicia el procedimiento sancionatorio contra unidades educativas de convenio o privadas que incurren en faltas?
+A. El Ministerio de Educación, a través de la Dirección General de Asuntos Jurídicos.
+B. La Dirección Departamental, a través de las Direcciones Distritales Educativas.
+C. La junta escolar de la unidad, con el aval del Gobierno Autónomo Municipal.
+D. El Tribunal Disciplinario Departamental, a denuncia del Director Distrital.
+Respuesta correcta: B
+Explicación: El Art. 24 (convenio) y el Art. 20 (privadas) disponen que las Direcciones Departamentales, a través de las Direcciones Distritales, inicien el procedimiento sancionatorio a las unidades que incurran en las faltas previstas.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Art. 24, pág. impresa 12 (de 15), PDF 27; R.M. 0022/2024, Reglamento (privadas), Art. 20, pág. impresa 10 (de 13), PDF 44.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+19. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] ¿Qué régimen disciplinario se aplica a los directores, maestros o personal administrativo responsables de una unidad de convenio?
+A. El Reglamento de la Carrera Administrativa y el Reglamento de Faltas y Sanciones del Magisterio.
+B. La Ley N.º 2341 de Procedimiento Administrativo, mediante los recursos de revocatoria y jerárquico.
+C. El reglamento interno aprobado por la entidad religiosa que administra la unidad de convenio.
+D. El régimen sancionatorio de multas porcentuales sobre pensiones previsto para las privadas.
+Respuesta correcta: A
+Explicación: El Art. 28, parágrafo I, dispone que el régimen disciplinario aplicable a directores, responsables, maestros o personal administrativo de la unidad de convenio es el previsto en el Reglamento de la Carrera Administrativa del Servicio de Educación Pública y en el Reglamento de Faltas y Sanciones del Magisterio; la Ley N.º 2341 rige la impugnación de los propietarios.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo V, Art. 28; página impresa: 15 (de 15); página PDF: 30.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+20. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] ¿Qué requisitos exige el Reglamento para el cambio de jurisdicción administrativa de una unidad fiscal?
+A. Solicitud, informe de la junta escolar, resolución del Gobierno Municipal y Certificado RUE original.
+B. Solicitud, informe del Gobierno Municipal, FORM-001 y declaración jurada notariada del director.
+C. Solicitud, informe técnico distrital, Resolución Bi-Distrital, FORM-002 y acta de compromiso del GAM.
+D. Solicitud, informe técnico departamental, Resolución Ministerial y acta de fundación actualizada.
+Respuesta correcta: C
+Explicación: El Art. 12 exige: solicitud dirigida al Director Distrital, informe técnico de justificación del Director Distrital, Resolución Bi-Distrital que autoriza el cambio, Formulario FORM-002 y acta de compromiso del Gobierno Autónomo Municipal (incluidas cámaras de seguridad, si corresponde).
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 12; página impresa: 6 (de 9); página PDF: 9.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+21. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] ¿Qué ocurre con los trámites registrados en el sistema que no culminan hasta el 31 de diciembre de la gestión en que se iniciaron?
+A. Se dan de baja en el sistema y, si hubo atrasos injustificados, se procesa a los responsables.
+B. Se trasladan automáticamente a la gestión siguiente con la misma prioridad de atención.
+C. Se aprueban de oficio por silencio administrativo positivo de la Dirección Departamental de Educación.
+D. Se suspenden hasta el nuevo periodo de registro del 1 de junio de la gestión siguiente.
+Respuesta correcta: A
+Explicación: El Art. 16, parágrafos III y IV, dispone que todos los trámites deben culminar hasta el 31 de diciembre de la gestión en que se iniciaron; los pendientes son dados de baja, y si la baja se debe a atrasos administrativos injustificados, los servidores responsables serán pasibles de procesos administrativos.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 16; páginas impresas: 7 y 8 (de 9); páginas PDF: 10 y 11.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+22. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] Si la Dirección Distrital observa la solicitud de apertura y el solicitante no subsana en el plazo previsto, ¿qué consecuencia establece el Reglamento?
+A. El trámite continúa y la observación se subsana ante la Dirección Departamental.
+B. El trámite se archiva temporalmente hasta la siguiente gestión educativa.
+C. El trámite se aprueba con observaciones y se condiciona el Certificado RUE.
+D. El trámite se da de baja en el sistema y se registra como no presentado.
+Respuesta correcta: D
+Explicación: El Art. 8, inciso b), dispone que, existiendo observaciones, el trámite se devuelve al solicitante, quien debe subsanar en el plazo máximo de 5 días hábiles, en físico y por sistema; caso contrario, el trámite será dado de baja y se registrará como no presentado.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 8, inc. b); página impresa: 4 (de 9); página PDF: 7.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+23. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] ¿Qué debe reconocer la Resolución Administrativa que aprueba la fusión de unidades educativas fiscales?
+A. El nombre de la unidad más antigua de las fusionadas.
+B. La antigüedad de funcionamiento de la unidad educativa.
+C. El número de estudiantes de la unidad con más matrícula.
+D. La categoría docente de los maestros de ambas unidades.
+Respuesta correcta: B
+Explicación: El Art. 13, parágrafo II, dispone que la Resolución Administrativa que aprueba la fusión deberá reconocer la antigüedad de funcionamiento de la unidad educativa; el parágrafo I exige priorizar la unidad que imparte el Bachillerato Técnico Humanístico.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 13; páginas impresas: 6 y 7 (de 9); páginas PDF: 9 y 10.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+24. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] ¿Qué limitación territorial impone el Reglamento al cambio de infraestructura de una unidad fiscal?
+A. Solo procede cuando el cambio se realiza dentro del mismo Distrito Educativo.
+B. Solo procede cuando el cambio se realiza dentro del mismo núcleo o red escolar.
+C. Solo procede cuando el cambio se realiza con acuerdo de la Dirección Bi-Distrital.
+D. Solo procede cuando el cambio se realiza hacia un municipio colindante del mismo departamento.
+Respuesta correcta: A
+Explicación: El Art. 14, parágrafo II, dispone que el trámite de cambio de infraestructura educativa solamente se realizará cuando sea en un mismo Distrito Educativo; el cambio de un municipio a otro sin autorización expresa está prohibido (Art. 17, num. 5).
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Arts. 14 y 17; páginas impresas: 7 y 8 (de 9); páginas PDF: 10 y 11.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+25. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] ¿Qué debe establecer el acta de fundación de un Módulo Tecnológico Productivo?
+A. Su funcionamiento para Primaria y Secundaria en turnos alternos.
+B. Su implementación exclusiva para el Bachillerato Técnico Humanístico.
+C. Su apertura como unidad educativa independiente con nuevo RUE.
+D. Su administración compartida con una entidad privada de formación técnica.
+Respuesta correcta: B
+Explicación: El Art. 9, inciso a), numeral 3, exige un acta de fundación del Módulo Tecnológico Productivo que establezca la implementación exclusiva del Bachillerato Técnico Humanístico.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 9; página impresa: 5 (de 9); página PDF: 8.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+26. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Entre los requisitos para ampliar o reducir niveles de una unidad fiscal, el informe técnico del Director Distrital debe establecer, entre otros aspectos:
+A. La demanda educativa, el techo presupuestario, aspectos técnicos y de infraestructura.
+B. El convenio vigente, la certificación de culto y la declaración jurada del director.
+C. El rendimiento académico, la antigüedad del plantel y el número de padres de familia afiliados.
+D. El reglamento interno, las pensiones vigentes y el manual de funciones de la unidad.
+Respuesta correcta: A
+Explicación: El Art. 10, numeral 2, exige un informe técnico del Director Distrital que establezca la demanda educativa, el techo presupuestario, aspectos técnicos, de infraestructura y registro en el sistema; el techo presupuestario no figura en el requisito equivalente para convenio y privadas.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 10; páginas impresas: 5 y 6 (de 9); páginas PDF: 8 y 9.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+27. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] En el procedimiento sancionatorio para unidades de convenio y privadas, ¿qué efecto tiene la ausencia del propietario o responsable en la audiencia pública?
+A. Implica la aceptación tácita de las faltas.
+B. No suspende el acto de audiencia pública.
+C. Obliga a reprogramar la audiencia una vez.
+D. Determina la nulidad de todo lo actuado.
+Respuesta correcta: B
+Explicación: El Art. 27, inciso a) (convenio), y el Art. 22, inciso a) (privadas), disponen que la ausencia del propietario o responsable de la unidad no suspenderá el acto de audiencia pública, cuya participación del denunciante y del propietario es optativa.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Art. 27, pág. impresa 14 (de 15), PDF 29; R.M. 0022/2024, Reglamento (privadas), Art. 22, pág. impresa 12 (de 13), PDF 46.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+28. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] ¿Qué naturaleza tiene la Resolución Administrativa sancionatoria que establece sumas líquidas y exigibles?
+A. Es instrumento con fuerza coactiva para iniciar el proceso coactivo fiscal.
+B. Es un título que solo puede ejecutarse con acuerdo del propietario.
+C. Es un acto sin efecto mientras no lo confirme expresamente el Ministerio de Educación.
+D. Es una recomendación que requiere ratificación judicial para cobrarse.
+Respuesta correcta: A
+Explicación: El Art. 30 (convenio) y el Art. 25 (privadas) disponen que la Resolución Administrativa sancionatoria que establezca sumas líquidas y exigibles se constituye en instrumento con fuerza coactiva para el inicio del proceso coactivo fiscal, conforme a la Ley de Procedimiento Coactivo Fiscal.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Art. 30, pág. impresa 15 (de 15), PDF 30; R.M. 0022/2024, Reglamento (privadas), Art. 25, pág. impresa 13 (de 13), PDF 47.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+29. [R.M. 0534/2025 Modificación del Reglamento de U.E. Privadas – RESOLUCIÓN MINISTERIAL] Según los considerandos de la R.M. 0534/2025, ¿por qué se modificó el régimen sancionatorio de las unidades privadas?
+A. Porque el régimen anterior no preveía ninguna sanción por cobros indebidos.
+B. Porque el cierre directo por incrementar pensiones era gravoso y no proporcional.
+C. Porque se debía unificar el régimen de las unidades privadas con el de las unidades fiscales.
+D. Porque las multas sobre pensiones vulneraban la autonomía de las privadas.
+Respuesta correcta: B
+Explicación: Los considerandos señalan que el Reglamento no preveía de manera gradual las sanciones por incremento de pensiones, que la sanción gravísima de cierre directo resultaba gravosa y no proporcional, y que era necesario un procedimiento de sanción más equitativo y efectivo.
+Sustento: R.M. 0534/2025, Considerando II; página impresa: 2 (de 4); página PDF: 49.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+30. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] ¿Cómo se regulan las faltas y sanciones de las unidades educativas de convenio suscritas entre otros países y el Estado Plurinacional?
+A. Se rigen por la legislación del país que suscribe el convenio.
+B. Se rigen por el régimen sancionatorio general del Art. 25.
+C. Están exentas de cualquier régimen de faltas y sanciones.
+D. Se circunscriben al marco legal vigente, según el Art. 26.
+Respuesta correcta: D
+Explicación: El Art. 26 del Reglamento de convenio dispone que las faltas y sanciones correspondientes a las unidades educativas de convenio entre otros países y el Estado Plurinacional se circunscribirán al marco legal vigente.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Art. 26; página impresa: 14 (de 15); página PDF: 29.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+31. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO III] Distinga la prohibición de cambio de dependencia según el tipo de unidad educativa:
+A. Fiscales: no pueden pasar a privada; convenio: pueden pasar a privada con autorización distrital.
+B. Fiscales: pueden pasar a convenio; convenio: no pueden pasar a fiscal en ningún caso.
+C. Fiscales: no pueden pasar a convenio o privada; convenio: no pueden pasar a fiscal o privada.
+D. Ambas pueden cambiar libremente de dependencia si cuentan con el aval de la junta escolar.
+Respuesta correcta: C
+Explicación: El Art. 17, numeral 3 (fiscales), prohíbe cambiar de dependencia a convenio o a privada; el Art. 18, numeral 3 (convenio), prohíbe cambiar de dependencia a fiscal o a privada. El Art. 11 de convenio regula el registro del cambio de dependencia de convenio a fiscal en los casos que prevé.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Art. 17, pág. impresa 8 (de 9), PDF 11; R.M. 0021/2024, Reglamento (convenio), Arts. 11 y 18, págs. impresas 8 y 10 (de 15), PDF 23 y 25.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+32. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] Distinga las sanciones por faltas leves en unidades de convenio y en unidades privadas:
+A. Convenio: descuentos de haber a director y propietario; privadas: multa del 5% de las pensiones.
+B. Ambas: amonestación escrita al director y descuento del 10% al propietario de la unidad.
+C. Convenio: multa del 5% de las pensiones; privadas: descuento de tres a cinco días de haber al director.
+D. Convenio: suspensión de 15 días al director; privadas: multa del 20% de las pensiones.
+Respuesta correcta: A
+Explicación: El Art. 25, inciso a) (convenio), fija descuento de 3 a 5 días al director o responsable y del 10% del haber al propietario o representante; el Art. 21, inciso a) (privadas), fija multa del 5% del ingreso mensual por pensiones de la totalidad de estudiantes.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Art. 25, pág. impresa 12 (de 15), PDF 27; R.M. 0022/2024, Reglamento (privadas), Art. 21, pág. impresa 12 (de 13), PDF 46.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+33. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] Distinga el régimen de impugnación de los propietarios de unidades privadas del de los propietarios de unidades de convenio:
+A. Privadas: vía judicial ordinaria; convenio: recurso ante el Tribunal Disciplinario.
+B. En ambos casos se sustancia conforme a la Ley N.º 2341 de Procedimiento Administrativo.
+C. Privadas: recurso ante la junta escolar; convenio: recurso ante la entidad religiosa.
+D. Privadas: Ley N.º 2341; convenio: Reglamento de Faltas y Sanciones del Magisterio.
+Respuesta correcta: B
+Explicación: El Art. 23 (privadas) remite los recursos de revocatoria y jerárquico a la Ley N.º 2341; el Art. 28, parágrafo II (convenio), dispone que los medios de impugnación de los propietarios se sustancian según la misma Ley. El Reglamento de Faltas rige el régimen disciplinario del personal de convenio, no la impugnación del propietario.
+Sustento: R.M. 0022/2024, Reglamento (privadas), Art. 23, pág. impresa 12 (de 13), PDF 46; R.M. 0021/2024, Reglamento (convenio), Art. 28, pág. impresa 15 (de 15), PDF 30.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+34. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Distinga el formulario que se usa para registrar la apertura del que se usa para modificación o cierre:
+A. Apertura y modificación: FORM-001; cierre: FORM-003.
+B. Apertura: FORM-002; modificación y cierre: FORM-001.
+C. Apertura: FORM-001; modificación y cierre: FORM-002.
+D. Apertura: FORM-001; modificación: FORM-002; cierre: FORM-003.
+Respuesta correcta: C
+Explicación: El Art. 8, inciso a), indica que la apertura genera el Formulario RUE (FORM-001); los Arts. 10 a 15 y 18 exigen el Formulario de trámite de Modificación o de cierre definitivo (FORM-002).
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Arts. 8, 10 y 18; páginas impresas: 4, 6 y 8 (de 9); páginas PDF: 7, 9 y 11.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+35. [R.M. 0534/2025 Modificación del Reglamento de U.E. Privadas – RESOLUCIÓN MINISTERIAL] Distinga cómo trataba el incremento de pensiones por encima de lo dispuesto por el Ministerio la R.M. 0022/2024 y cómo lo trata tras la R.M. 0534/2025:
+A. Antes, falta leve con multa del 5%; después, falta grave con multa del 20%.
+B. Antes, falta grave con multa del 20%; después, falta gravísima con cierre definitivo.
+C. Antes, falta gravísima con cierre definitivo; después, falta grave con multa del 10%.
+D. Antes y después, falta gravísima sancionada con el cierre definitivo de la unidad.
+Respuesta correcta: C
+Explicación: El texto original del Art. 20, inciso c), numeral 7, tipificaba el incremento de pensiones como falta gravísima (sancionada con cierre). La R.M. 0534/2025 lo traslada al inciso b) como falta grave (num. 11) y fija la sanción de faltas graves en multa del 10% del ingreso mensual por pensiones.
+Sustento: R.M. 0022/2024, Reglamento (privadas), Arts. 20 y 21, págs. impresas 11 y 12 (de 13), PDF 45 y 46; R.M. 0534/2025, Art. 2, pág. impresa 3 (de 4), PDF 50.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+36. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO IV] En el Reglamento de convenio, el Art. 21 remite el procedimiento de modificación y cierre "de unidades educativas privadas" al Art. 8. Desde un análisis crítico, ¿qué se advierte?
+A. Una imprecisión de redacción, pues el reglamento regula unidades de convenio.
+B. Una delegación del cierre de unidades de convenio a las unidades privadas vecinas.
+C. Una derogación tácita del procedimiento de cierre para las unidades de convenio.
+D. Una remisión deliberada que somete a las unidades de convenio al régimen privado.
+Respuesta correcta: A
+Explicación: El Art. 21 del Reglamento de convenio, titulado "Procedimiento de modificación y cierre de unidades educativas de convenio", menciona en su texto el "cierre de unidades educativas privadas"; dentro de un reglamento cuyo objeto son las unidades de convenio (Art. 1), constituye una imprecisión de redacción.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Arts. 1 y 21; páginas impresas: 4 y 12 (de 15); páginas PDF: 19 y 27.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+37. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – DISPOSICIONES FINALES] La Disposición Final Primera del Reglamento de unidades privadas declara gratuito el RUE "para las unidades educativas de convenio". ¿Qué observación crítica corresponde?
+A. Es una regla deliberada que impone un costo del RUE solo a las unidades de convenio.
+B. Es una regla correcta, porque las unidades privadas no requieren Certificado RUE para funcionar.
+C. Es una inconsistencia: el reglamento regula privadas y no menciona la gratuidad para ellas.
+D. Es una remisión al Reglamento de fiscales, que declara gratuito el RUE para todas.
+Respuesta correcta: C
+Explicación: La Disposición Final Primera del Reglamento de privadas (R.M. 0022/2024) establece que el RUE es gratuito "para las unidades educativas de convenio", pese a que el Reglamento regula unidades privadas (Art. 1) y estas requieren Certificado RUE para funcionar (Art. 5).
+Sustento: R.M. 0022/2024, Reglamento (privadas), Arts. 1 y 5 y Disposición Final Primera; páginas impresas: 3 y 13 (de 13); páginas PDF: 37 y 47.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+38. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] Cuando a un propietario de unidad de convenio se le impone el cierre definitivo por falta gravísima y la infraestructura depende del GAM, ¿qué solución prevé el Reglamento?
+A. La entrega de la infraestructura a la junta escolar.
+B. El traslado de los estudiantes a unidades privadas.
+C. El cambio de dependencia a unidad educativa fiscal.
+D. La suspensión del cierre hasta renovar el convenio.
+Respuesta correcta: C
+Explicación: El Art. 25, inciso c), numeral 3, dispone el cierre definitivo para el propietario, efectivo en la siguiente gestión para no perjudicar a los estudiantes; si la infraestructura depende del Gobierno Autónomo Municipal, se procede al cambio de dependencia a unidad educativa fiscal.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Art. 25; página impresa: 14 (de 15); página PDF: 29.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+39. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] Los reglamentos de convenio y privadas disponen que el cierre definitivo por falta gravísima se haga efectivo en la gestión siguiente. ¿Qué principio prioriza esta regla?
+A. La recaudación de las pensiones pendientes de la gestión en curso.
+B. La continuidad y el acceso al derecho a la educación de los estudiantes.
+C. El derecho del personal docente a concluir su contrato hasta el final de la gestión.
+D. La protección del patrimonio del propietario de la unidad sancionada.
+Respuesta correcta: B
+Explicación: El Art. 21, inciso c) de privadas (en su texto modificado por la R.M. 0534/2025), dispone que el cierre se ejecute en la siguiente gestión "a fin de dar continuidad y garantizar el acceso al derecho a la educación de los estudiantes"; el reglamento de convenio usa la fórmula "a fin de no perjudicar a los estudiantes".
+Sustento: R.M. 0534/2025, Art. 2, II, pág. impresa 3 (de 4), PDF 50; R.M. 0021/2024, Reglamento (convenio), Art. 25, pág. impresa 14 (de 15), PDF 29.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+40. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO III] Los reglamentos de convenio y privadas prohíben prestar servicios con personal sin certificados REJAP y SIPPASE actualizados en cada gestión. ¿Qué finalidad de protección expresa esta prohibición, en relación con la prohibición precedente?
+A. Prevenir que presten servicios personas con antecedentes penales, de violencia o abuso.
+B. Verificar que el personal esté afiliado al sistema de seguridad social de corto plazo.
+C. Asegurar que el personal no mantenga otro empleo público en la misma gestión educativa.
+D. Garantizar que el personal cuente con título profesional de maestro y pertinencia académica.
+Respuesta correcta: A
+Explicación: El Art. 18 (convenio) y el Art. 14 (privadas) prohíben prestar servicio con personal que tenga antecedentes penales, de violencia o abuso, en cumplimiento de los D.S. 1302 y 1320 (num. 13), y sin certificados REJAP y SIPPASE actualizados en cada gestión (num. 14), lo que asegura la verificación periódica de esos antecedentes.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Art. 18, págs. impresas 10 y 11 (de 15), PDF 25 y 26; R.M. 0022/2024, Reglamento (privadas), Art. 14, pág. impresa 9 (de 13), PDF 43.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+41. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] En unidades de convenio, el cobro de matrícula y/o pensiones es falta grave, mientras que en privadas lo es solo el cobro de matrícula. ¿Qué explica esta diferencia según la naturaleza de cada una?
+A. Ambas pueden cobrar libremente; la diferencia solo refleja un error material del reglamento.
+B. Las de convenio reciben pensiones del Estado; las privadas cobran matrícula al Ministerio.
+C. Las de convenio son de libre acceso y sin fines de lucro; las privadas cobran pensiones reguladas.
+D. Las de convenio pueden cobrar pensiones con aval eclesiástico; las privadas no pueden cobrarlas.
+Respuesta correcta: C
+Explicación: El Art. 3 de convenio las define como de libre acceso y sin fines de lucro; su Art. 24, inciso b), numeral 2, tipifica como grave cobrar matrícula y/o pensiones. En privadas, el Art. 20, inciso b), numeral 2, sanciona el cobro de matrícula, mientras las pensiones existen y se regulan (incremento por encima de lo dispuesto por el Ministerio).
+Sustento: R.M. 0021/2024, Reglamento (convenio), Arts. 3 y 24, págs. impresas 4 y 13 (de 15), PDF 19 y 28; R.M. 0022/2024, Reglamento (privadas), Art. 20, pág. impresa 11 (de 13), PDF 45.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+42. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Los tres reglamentos prohíben anteponer al nombre propio denominativos como "escuela", "colegio" o "liceo", y llevar nombres de personas vivas. ¿Qué finalidad institucional resulta coherente con estas prohibiciones?
+A. Evitar confusiones en la identificación de las unidades y reservar homenajes a personas fallecidas meritorias.
+B. Favorecer que las unidades adopten nombres comerciales atractivos para captar más estudiantes.
+C. Garantizar que todas las unidades lleven nombres de autoridades educativas en ejercicio.
+D. Permitir que las unidades cambien de nombre en cada gestión según la decisión de la junta escolar de padres.
+Respuesta correcta: A
+Explicación: El Art. 17 (fiscales), el Art. 18 (convenio) y el Art. 14 (privadas) prohíben anteponer denominativos genéricos, llevar el nombre de otra unidad del mismo distrito, nombres de personas vivas (solo de fallecidas meritorias) y nombres extranjeros que generen confusión.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Art. 17, pág. impresa 8 (de 9), PDF 11; R.M. 0022/2024, Reglamento (privadas), Art. 14, pág. impresa 9 (de 13), PDF 43.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+43. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO II] El Reglamento de privadas diferencia los requisitos legales de apertura según el tipo de persona jurídica (ONG, institución religiosa, sociedad, unipersonal, cooperativa, convenio entre Estados). ¿Qué rasgo del diseño normativo revela?
+A. Adecúa la acreditación jurídica a la naturaleza de cada tipo de propietario.
+B. Exige idénticos documentos a todos, sin considerar su naturaleza jurídica.
+C. Reserva la apertura de privadas a instituciones religiosas y cooperativas.
+D. Exime a las unidades unipersonales de acreditar a su representante legal.
+Respuesta correcta: A
+Explicación: La tabla del Art. 7 exige, por ejemplo, testimonio de personalidad jurídica a ONG, religiosas, sociedades y convenios entre Estados; resolución de AFCOOP a cooperativas; certificación de culto a instituciones religiosas; y copia del convenio entre Estados, adecuando la acreditación a cada tipo de propietario.
+Sustento: R.M. 0022/2024, Reglamento (privadas), Capítulo II, Art. 7 (tabla de requisitos legales); páginas impresas: 4 y 5 (de 13); páginas PDF: 38 y 39.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+44. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] Para la apertura de unidades fiscales y de Módulos Tecnológicos Productivos se exige un acta de compromiso del Gobierno Autónomo Municipal. ¿Qué lectura crítica explica esta exigencia?
+A. Permite al municipio designar al director y al personal de la nueva unidad educativa fiscal.
+B. Traslada al municipio la competencia de autorizar y supervisar el funcionamiento de las unidades educativas.
+C. Sustituye el informe técnico de viabilidad que debe emitir la Dirección Distrital Educativa.
+D. Vincula la apertura con el compromiso de quien debe garantizar servicios, infraestructura y equipamiento.
+Respuesta correcta: D
+Explicación: El Art. 7 exige un acta de compromiso del GAM o GIOC que garantice la responsabilidad del Art. 80 de la Ley de la Educación, y el Art. 9 exige un acta del GAM para dotar, financiar y garantizar servicios básicos, infraestructura, mobiliario, material y equipamiento del Módulo. La autorización sigue en manos de la DDE.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Arts. 7, 8 y 9; páginas impresas: 4 y 5 (de 9); páginas PDF: 7 y 8.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+45. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] El procedimiento de apertura de unidades fiscales fija plazos breves para cada instancia (8 días, 7, 3, 3, 2 y 2 días hábiles). ¿Qué lectura crítica explica este diseño?
+A. Busca reducir el control técnico, pues la verificación in situ resulta opcional para la Distrital.
+B. Busca habilitar la apertura en la misma gestión, siempre que el trámite se inicie en febrero.
+C. Busca trasladar la decisión al municipio, que emite la autorización final de funcionamiento.
+D. Busca que los trámites concluyan en la gestión, pues los pendientes al 31 de diciembre se dan de baja.
+Respuesta correcta: D
+Explicación: El Art. 8 fija plazos máximos para la Distrital (8 días), la Subdirección (7), Jurídica (3), el Director Departamental (3), el Ministerio (2) y la impresión del RUE (2); el Art. 16 dispone que los trámites deben culminar hasta el 31 de diciembre y que los pendientes se dan de baja, con responsabilidad por atrasos injustificados.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Arts. 8 y 16; páginas impresas: 4, 7 y 8 (de 9); páginas PDF: 7, 10 y 11.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+46. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Un director desea cambiar el nombre de su unidad fiscal. ¿Qué requisitos debe presentar?
+A. Solicitud al Ministerio, Resolución Bi-Distrital y acta de compromiso municipal.
+B. Solicitud a la DDE, acta de la junta escolar y Certificado RUE original.
+C. Solicitud al Director Distrital y Formulario FORM-002 generado en el sistema.
+D. Solicitud al Director Distrital, convenio vigente y poder del representante.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 11 del Reglamento de fiscales exige solo la solicitud del Director de la unidad al Director Distrital pidiendo el cambio de nombre y el Formulario FORM-002 generado por el Sistema portal de trámites Web.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 11; página impresa: 6 (de 9); página PDF: 9.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+47. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Una comunidad propone llamar a la nueva unidad fiscal con el nombre de su alcalde en ejercicio. ¿Qué corresponde?
+A. Es posible si se antepone el denominativo genérico "Colegio".
+B. Es posible si el Concejo Municipal aprueba el homenaje respectivo.
+C. No es posible: está prohibido llevar nombres de personas vivas.
+D. No es posible solo si otra unidad del distrito lleva ese nombre.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 17, numeral 9, prohíbe a las unidades llevar nombres de personas vivas; solo pueden llevar nombre de personas fallecidas meritorias. El numeral 7 prohíbe además anteponer denominativos genéricos.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 17; página impresa: 8 (de 9); página PDF: 11.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+48. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Una unidad fiscal decide cerrar en septiembre por problemas internos, antes de concluir la gestión educativa. ¿Cómo se califica esta decisión?
+A. Prohibida solo si la unidad tiene más de diez estudiantes inscritos.
+B. Prohibida: no se puede cerrar la unidad antes de concluir la gestión educativa.
+C. Permitida, si se tramita el FORM-002 entre junio y septiembre de la gestión.
+D. Permitida, si la junta escolar aprueba el cierre mediante un acta firmada.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 17, numeral 6, prohíbe a las unidades fiscales cerrar la unidad educativa antes de la conclusión de la gestión educativa; el Art. 16 dispone que los trámites concluidos entran en vigencia en la gestión siguiente.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Arts. 16 y 17; páginas impresas: 7 y 8 (de 9); páginas PDF: 10 y 11.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+49. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO IV] Un incendio destruyó totalmente la infraestructura de una unidad fiscal. ¿Qué causal de cierre definitivo podría invocarse?
+A. Incumplimiento de las prohibiciones previstas en el Reglamento.
+B. Reordenamiento administrativo distrital por falta de estudiantes.
+C. Caso fortuito o fuerza mayor con pérdida total de la infraestructura.
+D. Ausencia del acta de compromiso del Gobierno Autónomo Municipal.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 19, numeral 4, prevé como causal de cierre definitivo el caso fortuito o fuerza mayor cuando ocasione pérdida total de la infraestructura educativa.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo IV, Art. 19; página impresa: 9 (de 9); página PDF: 12.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+50. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Dos unidades fiscales de un mismo edificio solicitan fusionarse; solo una imparte el Bachillerato Técnico Humanístico. ¿Qué criterio debe aplicarse?
+A. Priorizar la unidad con mayor número de estudiantes inscritos.
+B. Priorizar la unidad que cuente con la Resolución Administrativa más antigua.
+C. Priorizar la unidad que imparte el Bachillerato Técnico Humanístico.
+D. Priorizar la unidad que proponga la junta escolar de ambas.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 13, numeral 1, exige que la solicitud de fusión priorice la Unidad Educativa que imparte el Bachillerato Técnico Humanístico; la Resolución que aprueba la fusión debe reconocer la antigüedad de funcionamiento.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 13; página impresa: 6 (de 9); página PDF: 9.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+51. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Un director extravió el Certificado RUE de su unidad fiscal. ¿Qué requisitos exige el Reglamento para su reposición?
+A. Denuncia policial del extravío y nueva Resolución Administrativa de funcionamiento.
+B. Solicitud al Ministerio con acta de la junta escolar y fotografías de la unidad.
+C. Declaración jurada notariada y pago del arancel por emisión del nuevo certificado.
+D. Informe técnico al Director Distrital con datos de la unidad y Formulario FORM-002.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 15 exige un informe técnico dirigido al Director Distrital con nombre, código, dependencia, niveles y red de la unidad, y el Formulario FORM-002; el RUE es gratuito para fiscales (Disposición Final Primera).
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 15; página impresa: 7 (de 9); página PDF: 10.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+52. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] En un área dispersa, ¿quiénes pueden presentar la solicitud de apertura de un Módulo Tecnológico Productivo fiscal?
+A. Solo el Director Distrital de Educación, por tratarse de un área sin juntas de madres y padres de familia.
+B. Solo el Gobierno Autónomo Municipal, por ser quien financia la infraestructura y el equipamiento.
+C. Organizaciones IOC, afrobolivianas, juntas o consejos educativos, en coordinación con gobiernos o distritales.
+D. Cualquier persona natural o jurídica, sin necesidad de coordinar con otras instancias del lugar.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 9, inciso a), numeral 2, dispone que en el área dispersa la solicitud la presenten las organizaciones indígena originario campesinas, afrobolivianas, juntas de madres y padres o consejos educativos social comunitarios, en coordinación con los gobiernos autónomos municipales, indígena originario campesinos o direcciones distritales.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 9; página impresa: 5 (de 9); página PDF: 8.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+53. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO II] Una iglesia solicita abrir una unidad de convenio. Además de la solicitud y el acta de fundación, ¿qué documento legal específico puede exigírsele?
+A. Contrato de servicios educativos aprobado por la Dirección Distrital del lugar.
+B. Resolución de personalidad jurídica emitida por la AFCOOP e inscrita en el Registro de Cooperativas.
+C. Testimonio de constitución como sociedad de responsabilidad limitada ante notario.
+D. Certificación de registro de culto del Ministerio de Relaciones Exteriores, si corresponde.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 7, inciso a), del Reglamento de convenio exige, entre los requisitos legales, la certificación de registro de culto emitida por el Ministerio de Relaciones Exteriores, si corresponde, además de la copia legalizada del convenio entre Estados, si corresponde, y la declaración jurada notariada.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo II, Art. 7; página impresa: 5 (de 15); página PDF: 20.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+54. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO II] En la declaración jurada notariada para abrir una unidad de convenio, ¿a qué debe comprometerse el solicitante?
+A. A no cobrar pensiones durante los tres primeros años de funcionamiento de la unidad educativa.
+B. A financiar con recursos propios el haber de todo el personal docente y administrativo de la unidad.
+C. A ceder la infraestructura al Estado al término del convenio suscrito con la entidad religiosa.
+D. A garantizar infraestructura adecuada y su adecuación progresiva para la población con discapacidad.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 7, inciso a), numeral 5, exige una Declaración Jurada Notariada del solicitante o representante legal por la que se compromete a garantizar la infraestructura adecuada para las actividades curriculares y que contemple la adecuación progresiva para la atención a la población con discapacidad.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo II, Art. 7; página impresa: 5 (de 15); página PDF: 20.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+55. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO III] Una unidad de convenio incumple reiteradamente el convenio y el Director Distrital considera su paso a fiscal. ¿Cómo puede iniciarse ese trámite?
+A. De oficio por el Director Distrital o a solicitud de autoridad superior.
+B. Solo a pedido de la junta escolar con las firmas de la mayoría de padres de familia.
+C. Solo mediante resolución del Gobierno Autónomo Municipal del lugar.
+D. Solo a solicitud de la entidad religiosa que administra la unidad.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 11, numeral 1, del Reglamento de convenio prevé que, en caso de cambio de dependencia por incumplimiento u otros, el Director Distrital, de oficio o a solicitud de autoridad superior, realice la solicitud de cambio de dependencia de convenio a fiscal.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo III, Art. 11; página impresa: 8 (de 15); página PDF: 23.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+56. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO III] Para el cambio de jurisdicción administrativa de una unidad de convenio, ¿en qué se basa la Resolución Bi-Distrital?
+A. En el acta de conformidad firmada por los dos directores distritales de educación.
+B. En el acuerdo entre la entidad religiosa y la junta escolar de la unidad.
+C. En el informe del Gobierno Municipal sobre la nueva ubicación de la unidad.
+D. En la resolución del Director Departamental que aprueba el cambio al nuevo distrito.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 13, numeral 3, del Reglamento de convenio exige una Resolución Bi-Distrital que autoriza el cambio de jurisdicción, con base en el Acta de conformidad firmada por los dos directores distritales de educación; además se exige convenio vigente.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo III, Art. 13; página impresa: 8 (de 15); página PDF: 23.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+57. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO II] Una cooperativa educativa solicita abrir una unidad privada. ¿Qué documento acredita su personalidad jurídica según la tabla de requisitos legales?
+A. Testimonio de personalidad jurídica otorgado por el Ministerio de Relaciones Exteriores y Culto.
+B. Copia legalizada del convenio vigente suscrito entre el Estado y otro Estado extranjero.
+C. Certificado de registro de culto emitido por el Ministerio de Relaciones Exteriores.
+D. Resolución de personalidad jurídica emitida por AFCOOP e inscrita en el Registro Estatal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: La tabla del Art. 7 (requisitos legales) exige a las cooperativas la fotocopia legalizada de la Resolución de Personalidad Jurídica emitida por AFCOOP e inscrita en el Registro Estatal de Cooperativas.
+Sustento: R.M. 0022/2024, Reglamento (privadas), Capítulo II, Art. 7, tabla 1; página impresa: 4 (de 13); página PDF: 38.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+58. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO II] Un propietario unipersonal pretende abrir una unidad privada. Según la tabla de requisitos legales, ¿cómo se trata el testimonio de poder del representante legal?
+A. Es opcional para la persona unipersonal.
+B. No se exige a ningún tipo de propietario.
+C. Es obligatorio sin excepción para todos.
+D. Solo se exige a las sociedades anónimas.
+Respuesta correcta: A
+Explicación: Aplicación razonada: La tabla de requisitos legales del Art. 7 marca la fotocopia legalizada del testimonio de poder del representante legal como requisito para todos los tipos de propietario, con la indicación "SI (opcional)" para el unipersonal.
+Sustento: R.M. 0022/2024, Reglamento (privadas), Capítulo II, Art. 7, tabla 1; página impresa: 4 (de 13); página PDF: 38.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+59. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO II] ¿Qué documentos administrativos deben presentar todos los tipos de propietarios para abrir una unidad educativa privada?
+A. Estados financieros auditados, certificado de solvencia fiscal y balance de apertura de la unidad.
+B. Plan Operativo Anual firmado por el Director Distrital y acta de compromiso del Gobierno Municipal.
+C. Contrato de servicios educativos, tabla de pensiones aprobada y póliza de seguro de accidentes.
+D. Reglamento interno, reglamento de convivencia armónica y pacífica y manual de organización y funciones.
+Respuesta correcta: D
+Explicación: Aplicación razonada: La tabla de requisitos administrativos del Art. 7 exige a todos: Reglamento Interno (becas, pensiones, representantes de padres, régimen disciplinario), Reglamento de Convivencia armónica y pacífica y Manual de Organización y Funciones.
+Sustento: R.M. 0022/2024, Reglamento (privadas), Capítulo II, Art. 7, tabla 3; página impresa: 6 (de 13); página PDF: 40.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+60. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO III] Una unidad privada contrata a un docente sin contrato, kárdex ni hoja de vida con pertinencia académica. ¿Qué disposición incumple?
+A. La obligación de presentar el manual de funciones dentro del primer trimestre.
+B. La prohibición de prestar servicios sin contrato, kárdex y hoja de vida del personal.
+C. La prohibición de registrar estudiantes provenientes de otras unidades educativas del mismo distrito.
+D. La obligación de actualizar el Certificado RUE cada tres años ante la Distrital.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 14, numeral 15, del Reglamento de privadas prohíbe prestar servicios sin contar con el contrato, kárdex y hoja de vida del personal docente y administrativo con pertinencia académica; su incumplimiento es además causal de cierre (Art. 15, num. 1).
+Sustento: R.M. 0022/2024, Reglamento (privadas), Capítulo III, Arts. 14 y 15; página impresa: 9 (de 13); página PDF: 43.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+61. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] Una unidad privada aplica exámenes de ingreso a los postulantes y reserva plazas para inscribirlos. ¿Cómo se tipifican estas conductas?
+A. Ninguna constituye falta.
+B. Faltas gravísimas en ambos casos.
+C. Faltas graves en ambos casos.
+D. Faltas leves en ambos casos.
+Respuesta correcta: D
+Explicación: El Art. 20, inciso a), del Reglamento de privadas tipifica como faltas leves realizar reserva de plazas para la inscripción (num. 1) y aplicar exámenes de ingreso (num. 2).
+Sustento: R.M. 0022/2024, Reglamento (privadas), Capítulo V, Art. 20, inc. a); página impresa: 11 (de 13); página PDF: 45.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+62. [R.M. 0534/2025 Modificación del Reglamento de U.E. Privadas – RESOLUCIÓN MINISTERIAL] Una unidad privada cobra un monto por "derecho de ingreso" a los estudiantes nuevos. Probada la falta, ¿qué sanción corresponde según el texto vigente tras la R.M. 0534/2025?
+A. Multa del 20% del ingreso mensual por pensiones de todos los estudiantes.
+B. Multa del 10% del ingreso mensual por pensiones de todos los estudiantes.
+C. Multa del 5% del ingreso mensual por pensiones de todos los estudiantes.
+D. Cierre definitivo de la unidad educativa privada en la gestión siguiente.
+Respuesta correcta: B
+Explicación: El cobro por derecho de ingreso a estudiantes nuevos es falta grave (Art. 20, inc. b, num. 5). La R.M. 0534/2025 modificó el Art. 21, inciso b), fijando para faltas graves una multa del 10% del ingreso mensual por pensiones de la totalidad de estudiantes inscritos.
+Sustento: R.M. 0534/2025, Art. 2, I y II; página impresa: 3 (de 4); página PDF: 50.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+63. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] Una unidad privada omitió informar a la Dirección Distrital un hecho irregular que constituía delito dentro de la unidad. ¿Qué sanción corresponde?
+A. Multa del 10% del ingreso mensual por pensiones de los estudiantes.
+B. Suspensión de actividades educativas durante treinta días hábiles de gestión.
+C. Cierre definitivo de la unidad, efectivo en la siguiente gestión educativa.
+D. Multa del 5% del ingreso mensual por pensiones de los estudiantes.
+Respuesta correcta: C
+Explicación: Omitir informar hechos irregulares a la Distrital y omitir la remisión de la denuncia por delitos son faltas gravísimas (Art. 20, inc. c, nums. 5 y 6, texto de la R.M. 0534/2025), sancionadas con el cierre definitivo de la unidad privada, ejecutado en la siguiente gestión (Art. 21, inc. c).
+Sustento: R.M. 0534/2025, Art. 2, I y II; página impresa: 3 (de 4); página PDF: 50.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+64. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] Una comunidad presenta en marzo la solicitud de apertura de una unidad fiscal para que funcione ese mismo año. ¿Qué debe advertir el Director Distrital?
+A. Que la solicitud procede de inmediato si el municipio firma el acta de compromiso.
+B. Que la unidad puede funcionar ese año con autorización provisional del Distrital.
+C. Que el registro se realiza del 1 de junio al 30 de septiembre y rige para la gestión siguiente.
+D. Que la solicitud se aprueba si se presenta antes del inicio del segundo trimestre.
+Respuesta correcta: C
+Explicación: El Art. 16 dispone que el registro de solicitudes de apertura se realice del 1 de junio al 30 de septiembre para su vigencia en la siguiente gestión; el Art. 17, numeral 1, prohíbe prestar servicios sin Resolución Administrativa y Certificado RUE.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Arts. 16 y 17; páginas impresas: 7 y 8 (de 9); páginas PDF: 10 y 11.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+65. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] La Dirección Distrital devolvió con observaciones una solicitud de apertura. El solicitante subsana al octavo día hábil. ¿Qué ocurre con el trámite?
+A. Se da de baja en el sistema y se registra como no presentado, por exceder 5 días hábiles.
+B. Continúa, pero la Dirección Departamental debe emitir una autorización de subsanación tardía.
+C. Continúa normalmente, porque el plazo de subsanación es de 8 días hábiles para el solicitante.
+D. Se suspende hasta la siguiente gestión, conservando la prioridad de la solicitud original.
+Respuesta correcta: A
+Explicación: El Art. 8, inciso b), dispone que el solicitante debe subsanar la observación en un plazo máximo de 5 días hábiles; caso contrario, el trámite será dado de baja en el sistema y se registrará como no presentado.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 8, inc. b); página impresa: 4 (de 9); página PDF: 7.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+66. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] La Subdirección de Educación Regular recibe un trámite de apertura derivado por la DDE. ¿En qué plazo máximo debe emitir su informe técnico de viabilidad?
+A. En 3 días hábiles.
+B. En 7 días hábiles.
+C. En 8 días hábiles.
+D. En 5 días hábiles.
+Respuesta correcta: B
+Explicación: El Art. 8, inciso c), dispone que la Dirección Departamental derive el trámite a la Subdirección de Educación Regular para la emisión del informe técnico de viabilidad en un plazo máximo de 7 días hábiles; 8 días corresponden a la Distrital, 5 a la subsanación y 3 al informe legal.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 8, inc. c); página impresa: 4 (de 9); página PDF: 7.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+67. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO II] La Jefatura de Asuntos Jurídicos de la DDE recibe un trámite de apertura. ¿Qué debe emitir y en qué plazo?
+A. Informe legal y proyecto de Resolución Administrativa en máximo 3 días hábiles.
+B. Resolución Administrativa definitiva de apertura en máximo 7 días hábiles.
+C. Informe técnico de viabilidad y verificación in situ en máximo 8 días.
+D. Certificado RUE original y firma electrónica en máximo 2 días hábiles.
+Respuesta correcta: A
+Explicación: El Art. 8, inciso d), dispone que la Jefatura de la Unidad de Asuntos Jurídicos emita el informe legal y el proyecto de Resolución Administrativa en el plazo máximo de 3 días hábiles, para su aprobación por el Director Departamental en no más de 3 días hábiles.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo II, Art. 8, inc. d); página impresa: 4 (de 9); página PDF: 7.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+68. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO IV] Una unidad fiscal en una zona de frontera cuenta con 7 estudiantes. El técnico distrital propone su cierre por tener menos de 10. ¿Qué debe considerar el Director Distrital?
+A. Que la causal por menos de 10 estudiantes exceptúa a las zonas fronterizas y de difícil acceso.
+B. Que la causal se aplica a toda unidad, sin excepción, al cumplirse dos gestiones con baja matrícula.
+C. Que el cierre procede, pero debe ejecutarse en la gestión siguiente para no afectar a estudiantes.
+D. Que el cierre requiere además el informe de rendimiento académico del último trimestre.
+Respuesta correcta: A
+Explicación: El Art. 19, numeral 1, establece como causal de cierre la cantidad de estudiantes menor a 10, con excepción de unidades ubicadas en zonas fronterizas y de difícil acceso.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo IV, Art. 19; página impresa: 9 (de 9); página PDF: 12.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+69. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO IV] Se tramita el cierre definitivo de una unidad fiscal. ¿Qué documentación sobre los estudiantes debe acompañarse?
+A. Un informe de la junta escolar sobre el destino asignado a cada uno de los estudiantes.
+B. Archivos electrónicos e impresos actualizados: RUDE, centralizadores, boletines y otros.
+C. Las libretas originales de todos los estudiantes que cursaron sus estudios en la unidad educativa.
+D. Solo la lista de estudiantes inscritos en la última gestión educativa concluida.
+Respuesta correcta: B
+Explicación: El Art. 18, numeral 3, exige archivos electrónicos e impresos actualizados de toda la documentación de estudiantes que cursaron sus estudios en la unidad (RUDE, centralizador de calificaciones, boletines y otros).
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo IV, Art. 18; página impresa: 8 (de 9); página PDF: 11.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+70. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Una unidad fiscal comienza a inscribir estudiantes que ya están registrados en otra unidad privada del distrito. ¿Qué disposición vulnera?
+A. La prohibición de anteponer denominativos genéricos al nombre propio de la unidad.
+B. La prohibición de prestar servicios en otros subsistemas de educación sin autorización.
+C. La prohibición de cambiar de ubicación geográfica de un municipio a otro.
+D. La prohibición de registrar estudiantes de otras unidades fiscales, privadas o de convenio.
+Respuesta correcta: D
+Explicación: El Art. 17, numeral 11, prohíbe a las unidades fiscales registrar estudiantes de otras unidades educativas fiscales, privadas o de convenio.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 17; página impresa: 8 (de 9); página PDF: 11.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+71. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] El director de una unidad fiscal impide el ingreso de técnicos de la DDE que acuden a supervisar. ¿Qué consecuencia puede tener?
+A. Ninguna, porque la supervisión requiere notificación previa con treinta días.
+B. Solo una amonestación verbal de la Dirección Distrital por falta de cortesía institucional.
+C. Incurre en una prohibición, que es causal de cierre y lo hace pasible de sanción.
+D. La suspensión automática del Certificado RUE hasta la siguiente gestión.
+Respuesta correcta: C
+Explicación: El Art. 17, numeral 12, prohíbe impedir el ejercicio de control, supervisión o fiscalización del Ministerio o de la DDE; el Art. 19, numeral 2, hace de las prohibiciones causal de cierre, y el Art. 21 hace pasibles de sanción a los directores que incurran en ellas.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Arts. 17, 19 y 21; páginas impresas: 8 y 9 (de 9); páginas PDF: 11 y 12.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+72. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] En una unidad de convenio se comprueba que el director movilizó a estudiantes a una marcha no oficial sin autorización distrital. ¿Qué sanción corresponde al director?
+A. Descuento del 20% del haber mensual del director.
+B. Descuento del 10% del haber mensual del director.
+C. Suspensión de quince a treinta días sin goce de haber.
+D. Descuento de tres a cinco días del haber mensual.
+Respuesta correcta: D
+Explicación: Movilizar estudiantes a marchas no oficiales sin autorización es falta leve (Art. 24, inc. a, num. 4); el Art. 25, inciso a), fija para el director o responsable el descuento de 3 a 5 días del haber mensual (el 10% corresponde al propietario).
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Arts. 24 y 25; páginas impresas: 12 y 13 (de 15); páginas PDF: 27 y 28.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+73. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] Una unidad de convenio registró erróneamente las calificaciones de varios estudiantes. ¿Qué sanción corresponde al propietario o representante legal?
+A. Descuento del 10% del haber mensual.
+B. Multa del 5% de las pensiones.
+C. Cierre definitivo de la unidad.
+D. Descuento del 20% del haber mensual.
+Respuesta correcta: D
+Explicación: Registrar erróneamente calificaciones es falta grave (Art. 24, inc. b, num. 7); el Art. 25, inciso b), fija para el propietario o representante legal el descuento del 20% del haber mensual (el 10% se aplica al director).
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Arts. 24 y 25; páginas impresas: 13 y 14 (de 15); páginas PDF: 28 y 29.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+74. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] Se comprueba que un maestro de una unidad de convenio alteró calificaciones a cambio de dinero (falta gravísima). ¿Qué sanción prevé el Reglamento para el maestro responsable?
+A. Suspensión de 15 a 30 días sin goce de haberes y traslado a otra unidad educativa.
+B. Suspensión de 30 a 60 días sin goce, postergación de ascenso por un año o destitución.
+C. Descuento de tres a cinco días del haber mensual y amonestación escrita.
+D. Descuento del 20% del haber mensual o descenso a un cargo inferior de la unidad.
+Respuesta correcta: B
+Explicación: Alterar calificaciones a cambio de dinero es falta gravísima (Art. 24, inc. c, num. 2); el Art. 25, inciso c), numeral 2, fija para el maestro o personal responsable la suspensión sin goce de 30 a 60 días, la postergación de ascenso por un año o la destitución.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Arts. 24 y 25; páginas impresas: 13 y 14 (de 15); páginas PDF: 28 y 29.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+75. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] El Director Distrital se constituye en una unidad de convenio, instala audiencia y comprueba la falta denunciada. ¿En qué plazo debe emitir y notificar la Resolución Administrativa sancionatoria?
+A. Emitirla en 5 días hábiles y notificarla en los 3 días hábiles siguientes.
+B. Emitirla en 3 días hábiles y notificarla en los 2 días hábiles siguientes.
+C. Emitirla en 10 días hábiles y notificarla en los 5 días hábiles siguientes.
+D. Emitirla en el acto y notificarla dentro de las 24 horas siguientes.
+Respuesta correcta: B
+Explicación: El Art. 27, inciso e) (convenio), y el Art. 22, inciso e) (privadas), disponen que dentro de los tres días hábiles siguientes a la audiencia se emita la Resolución Administrativa sancionatoria y se notifique dentro de los dos días hábiles siguientes a su emisión.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Art. 27, pág. impresa 15 (de 15), PDF 30; R.M. 0022/2024, Reglamento (privadas), Art. 22, pág. impresa 12 (de 13), PDF 46.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+76. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] En la audiencia pública, la unidad de convenio denunciada desvirtúa las faltas con pruebas de descargo. ¿Cómo concluye el procedimiento?
+A. Con una Resolución Administrativa de absolución remitida al Ministerio de Educación.
+B. Con la remisión del caso al Tribunal Disciplinario para su revisión.
+C. Con un acta circunstanciada que deja constancia de la inspección realizada.
+D. Con una amonestación preventiva al director de la unidad educativa.
+Respuesta correcta: C
+Explicación: El Art. 27, inciso c), dispone que, si no se comprueban o se desvirtúan las faltas, se levante un acta circunstanciada que deje constancia de la inspección realizada, dando por concluida la audiencia.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo V, Art. 27; página impresa: 14 (de 15); página PDF: 29.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+77. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] Una unidad de convenio fue multada mediante Resolución Administrativa sancionatoria. ¿Cómo debe efectivizarse el pago de la multa?
+A. Mediante pago en efectivo en la Dirección Distrital, contra recibo oficial.
+B. Mediante descuento directo en las planillas del Ministerio de Educación.
+C. Mediante depósito bancario en la cuenta fiscal de la Dirección Departamental.
+D. Mediante depósito en la cuenta de la junta escolar de la unidad sancionada.
+Respuesta correcta: C
+Explicación: El Art. 29 (convenio) y el Art. 24 (privadas) disponen que las multas se efectivicen mediante depósito bancario en la cuenta fiscal correspondiente de la Dirección Departamental de Educación respectiva.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Art. 29, pág. impresa 15 (de 15), PDF 30; R.M. 0022/2024, Reglamento (privadas), Art. 24, pág. impresa 12 (de 13), PDF 46.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+78. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO IV] Una unidad de convenio presenta su solicitud de cierre definitivo, pero extravió el Certificado RUE original. ¿Qué exige el Reglamento?
+A. Presentar una denuncia policial y una declaración jurada notariada.
+B. Suspender el cierre hasta que se emita un nuevo Certificado RUE.
+C. Tramitar primero la reposición del Certificado RUE con el pago de un arancel previo.
+D. Respaldar el extravío con los informes de justificación correspondientes.
+Respuesta correcta: D
+Explicación: El Art. 20, numeral 4, del Reglamento de convenio exige el original del Certificado RUE y, en caso de extravío, respaldarlo con los informes de justificación correspondientes.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Art. 20; página impresa: 12 (de 15); página PDF: 27.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+79. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO IV] En una inspección se constata que las cámaras de seguridad de una unidad de convenio no funcionan desde hace meses. ¿Qué consecuencia prevé el Reglamento?
+A. No tiene consecuencias, porque las cámaras son responsabilidad exclusiva del municipio.
+B. Es causal de cierre definitivo por incumplimiento al uso o funcionamiento de cámaras.
+C. Es una observación que se subsana en la actualización trienal del RUE.
+D. Es una falta leve sancionada con descuento de tres a cinco días al director.
+Respuesta correcta: B
+Explicación: El Art. 19, numeral 13, del Reglamento de convenio establece como causal de cierre el incumplimiento al adecuado uso o funcionamiento de cámaras de seguridad en infraestructuras educativas.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Art. 19; página impresa: 11 (de 15); página PDF: 26.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+80. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] Una unidad privada exige a las familias comprar uniformes en una única tienda vinculada a la unidad. Probada la falta, ¿qué sanción corresponde según el texto vigente?
+A. Cierre definitivo de la unidad privada, efectivo en la gestión siguiente.
+B. Multa del 5% del ingreso mensual por pensiones de la totalidad de estudiantes.
+C. Multa del 20% del ingreso mensual por pensiones de la totalidad de estudiantes.
+D. Multa del 10% del ingreso mensual por pensiones de la totalidad de estudiantes.
+Respuesta correcta: D
+Explicación: Exigir la compra de uniformes y otros a proveedores exclusivos es falta grave (Art. 20, inc. b, num. 4); tras la R.M. 0534/2025, la sanción por falta grave es multa del 10% del ingreso mensual por pensiones de todos los estudiantes inscritos.
+Sustento: R.M. 0534/2025, Art. 2, I y II; página impresa: 3 (de 4); página PDF: 50.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO III] El Director Distrital constata que una unidad privada no reportó población estudiantil durante toda una gestión. ¿Qué debe considerar al decidir el curso de acción?
+A. Que no corresponde actuar si la unidad está al día en sus obligaciones fiscales.
+B. Que se trata de una causal expresa de cierre definitivo de la unidad privada.
+C. Que se trata de una falta leve, sancionable con multa del 5% de las pensiones.
+D. Que se trata de una falta grave, sancionable con multa del 10% de las pensiones.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 15, numeral 8, del Reglamento de privadas establece como causal de cierre definitivo no reportar población estudiantil durante una gestión educativa.
+Sustento: R.M. 0022/2024, Reglamento (privadas), Capítulo III, Art. 15; página impresa: 9 (de 13); página PDF: 43.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] El propietario de una unidad privada multada consulta al Director Distrital cómo impugnar la Resolución. ¿Qué orientación debe darle?
+A. Que puede pedir revisión ante la Comisión Calificadora del Escalafón Nacional.
+B. Que puede apelar ante el Tribunal Disciplinario Departamental del Magisterio.
+C. Que puede interponer recursos de revocatoria y jerárquico conforme a la Ley N.º 2341.
+D. Que debe presentar una queja ante la junta escolar y luego ante el Distrital.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 23 del Reglamento de privadas dispone que los recursos de revocatoria y jerárquico se sustancien según la Ley N.º 2341 de Procedimiento Administrativo.
+Sustento: R.M. 0022/2024, Reglamento (privadas), Capítulo V, Art. 23; página impresa: 12 (de 13); página PDF: 46.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Un director de unidad fiscal quiere ampliar el nivel de Secundaria. ¿Qué decisión inicial le corresponde según el Reglamento?
+A. Abrir el nuevo nivel en febrero y regularizar el trámite durante el primer trimestre.
+B. Presentar al Director Distrital una nota justificando la ampliación y registrarla en el sistema.
+C. Solicitar directamente a la DDE la Resolución de ampliación de nivel, sin pasar por la Distrital.
+D. Obtener la aprobación de la junta escolar como único requisito para la ampliación.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 10, numeral 1, exige como primer requisito una nota de solicitud dirigida al Director Distrital por el Director de la unidad, justificando la ampliación o reducción de nivel, y su registro en el Sistema portal de trámites Web.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 10; página impresa: 5 (de 9); página PDF: 8.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Para ampliar niveles en una unidad bajo la Modalidad de Atención Modular Multigrado de Secundaria, ¿qué decisión técnica debe asegurar el informe?
+A. Especificar la atención educativa en dicha Modalidad.
+B. Excluir la verificación in situ de la Subdirección.
+C. Justificar el cambio a la modalidad presencial regular.
+D. Incluir el convenio con una unidad privada cercana.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 10, numeral 6, dispone que, para unidades bajo la Modalidad de Atención Modular Multigrado de Secundaria, el informe técnico debe especificar la atención educativa en dicha Modalidad.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 10; página impresa: 6 (de 9); página PDF: 9.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] El municipio entrega a una unidad fiscal un nuevo edificio en otro distrito educativo. ¿Qué decisión es correcta respecto del trámite de cambio de infraestructura?
+A. Tramitarlo como cambio de infraestructura con el acta de compromiso del municipio.
+B. Tramitarlo como cambio de infraestructura con aprobación de la junta escolar.
+C. No tramitarlo como cambio de infraestructura, porque solo procede dentro del mismo distrito.
+D. Tramitarlo como cambio de infraestructura con visto bueno de ambos distritales.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 14, parágrafo II, dispone que el cambio de infraestructura educativa solamente se realiza cuando sea en un mismo Distrito Educativo; el cambio de jurisdicción tiene requisitos propios (Art. 12).
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Arts. 12 y 14; páginas impresas: 6 y 7 (de 9); páginas PDF: 9 y 10.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] Un estudiante denuncia ante la Distrital cobros indebidos en su unidad de convenio y pide reserva de su nombre. ¿Qué decisión debe tomar el Director Distrital?
+A. Mantener en reserva su identidad para evitar represalias contra el estudiante.
+B. Exigir que la denuncia la ratifiquen sus padres con firma e identificación.
+C. Rechazar la denuncia por ser presentada por un menor de edad.
+D. Comunicar su nombre a la unidad para que esta presente su descargo.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 23 del Reglamento de convenio impone a cualquier persona la obligación de denunciar hechos irregulares y obliga a los Directores Distritales a mantener en reserva la identidad de los estudiantes denunciantes; de lo contrario, serán pasibles de acciones administrativas.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo V, Art. 23; página impresa: 12 (de 15); página PDF: 27.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO III] El director de una unidad de convenio recibe la postulación de un docente con antecedentes de violencia. ¿Qué decisión debe tomar?
+A. Contratarlo si cuenta con título profesional de maestro y con pertinencia académica acreditada.
+B. Contratarlo de forma temporal mientras se actualiza su certificado REJAP.
+C. Remitir la decisión a la entidad religiosa que administra la unidad educativa.
+D. No contratarlo: prestar servicio con personal con esos antecedentes está prohibido.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 18, numeral 13, del Reglamento de convenio prohíbe prestar servicio con personal docente y administrativo que tenga antecedentes penales, de violencia y/o abuso (D.S. 1302 y 1320); contratarlo es además causal de cierre (Art. 19, num. 6).
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo III, Arts. 18 y 19; páginas impresas: 10 y 11 (de 15); páginas PDF: 25 y 26.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO V] El director de una unidad privada tolera que un maestro ejerza intimidación psicológica contra estudiantes y no lo denuncia. ¿Qué riesgo institucional debe ponderar?
+A. Incurrir en falta leve, sancionable con multa del 5% de las pensiones.
+B. Ningún riesgo institucional, porque la responsabilidad recae solo en el maestro agresor.
+C. Incurrir en falta gravísima, sancionable con el cierre definitivo de la unidad.
+D. Incurrir en falta grave, sancionable con multa del 10% de las pensiones.
+Respuesta correcta: C
+Explicación: Aplicación razonada: Permitir o tolerar violencia o intimidación física o psicológica es falta gravísima (Art. 20, inc. c, num. 4, texto de la R.M. 0534/2025), sancionada con el cierre definitivo de la unidad privada (Art. 21, inc. c).
+Sustento: R.M. 0534/2025, Art. 2, I y II; página impresa: 3 (de 4); página PDF: 50.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO III] Los propietarios de una unidad privada deciden cerrarla por razones económicas. ¿Qué decisión procedimental es la correcta?
+A. Solicitar el cierre directamente al Ministerio, sin intervención de la Dirección Distrital.
+B. Cerrar al concluir el primer trimestre y comunicar la decisión a los padres de familia.
+C. Presentar solicitud oficial a la Distrital para su aprobación por la DDE mediante Resolución.
+D. Transferir a los estudiantes a otra unidad privada y archivar la documentación propia.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 15, numeral 11, prevé el cierre por razones económico-sociales previa solicitud oficial del director o representante a la Dirección Distrital y aprobación de la DDE mediante Resolución Administrativa; el Art. 14, numeral 6, prohíbe cerrar antes de la conclusión de la gestión.
+Sustento: R.M. 0022/2024, Reglamento (privadas), Capítulo III, Arts. 14 y 15; páginas impresas: 9 y 10 (de 13); páginas PDF: 43 y 44.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO III] Una unidad privada quiere cambiarse a otro municipio. ¿Qué decisión se ajusta al Reglamento?
+A. Mudarse libremente, porque la restricción solo rige para las unidades fiscales.
+B. Contar con autorización expresa, porque está prohibido cambiar de municipio sin ella.
+C. Tramitarlo como cambio de infraestructura, sin requisitos adicionales de autorización.
+D. Mudarse al cierre de la gestión y luego actualizar los datos en el sistema RUE.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 14, numeral 5, del Reglamento de privadas prohíbe cambiar de ubicación geográfica de un Gobierno Autónomo Municipal a otro sin autorización expresa; el cambio de infraestructura solo procede dentro del mismo distrito (Art. 11, II).
+Sustento: R.M. 0022/2024, Reglamento (privadas), Capítulo III, Arts. 11 y 14; páginas impresas: 8 y 9 (de 13); páginas PDF: 42 y 43.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – DISPOSICIONES FINALES] Surge un aspecto técnico-administrativo de apertura de unidades fiscales que el Reglamento no regula. ¿Cómo debe resolverse?
+A. Mediante aplicación supletoria del reglamento de unidades educativas privadas.
+B. Mediante instructivos emitidos por el Viceministerio de Educación Regular.
+C. Mediante resolución administrativa de la Dirección Departamental de Educación.
+D. Mediante acuerdo entre el Director Distrital y el Gobierno Autónomo Municipal.
+Respuesta correcta: B
+Explicación: Aplicación razonada: La Disposición Final Segunda de los reglamentos dispone que los aspectos técnico-administrativos no previstos sean regulados mediante instructivos emitidos por el Viceministerio de Educación Regular.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Disposición Final Segunda; página impresa: 9 (de 9); página PDF: 12.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Para que una nueva unidad fiscal entre en funcionamiento al inicio de la próxima gestión, ¿qué hito del calendario de trámites debe cumplirse?
+A. Concluir con Resolución Administrativa y registro RUE hasta el 31 de diciembre.
+B. Presentar la solicitud hasta el 31 de diciembre de la gestión en curso.
+C. Registrar la unidad en el sistema hasta el último día de la inscripción.
+D. Obtener la Resolución Administrativa hasta el 15 de febrero siguiente.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 16, parágrafo II, dispone que los trámites que concluyan con la emisión de Resolución Administrativa y Registro de Unidad Educativa hasta el 31 de diciembre entrarán en funcionamiento en la siguiente gestión educativa; el registro de solicitudes se hace del 1 de junio al 30 de septiembre.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 16; página impresa: 7 (de 9); página PDF: 10.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO II] Al planificar la infraestructura de una nueva unidad de convenio, ¿qué compromiso estratégico exige el Reglamento a la institución solicitante?
+A. Financiar la infraestructura con aportes de los padres aprobados por la junta escolar.
+B. Transferir la infraestructura al Gobierno Autónomo Municipal antes de iniciar las actividades educativas.
+C. Dotar y garantizar servicios, infraestructura, mobiliario y equipamiento, con cámaras de seguridad.
+D. Utilizar exclusivamente infraestructura fiscal cedida por la Dirección Distrital del lugar.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 7, inciso b), del Reglamento de convenio exige el compromiso de la institución solicitante de dotar, financiar y garantizar servicios básicos, infraestructura, mobiliario, material educativo y equipamiento, contemplando la implementación de cámaras de seguridad.
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo II, Art. 7; página impresa: 5 (de 15); página PDF: 20.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO IV] Para asegurar la continuidad de una unidad de convenio, ¿qué condición jurídica debe gestionar permanentemente su dirección?
+A. Contar con un número mínimo de 21 estudiantes por cada paralelo.
+B. Contar con el convenio vigente y cumplir lo establecido en él.
+C. Contar con el aval anual de la junta escolar de padres y madres.
+D. Contar con la aprobación anual del Gobierno Autónomo Municipal.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 19, numerales 11 y 12, del Reglamento de convenio establece como causales de cierre no contar con el convenio vigente e incumplir lo establecido en él; el convenio vigente es además requisito de varios trámites (Arts. 12, 13 y 15).
+Sustento: R.M. 0021/2024, Reglamento (convenio), Capítulo IV, Art. 19; página impresa: 11 (de 15); página PDF: 26.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [R.M. 0022/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Privadas – CAPÍTULO III] Desde la gestión institucional, ¿qué obligación anual de información debe garantizar el representante de una unidad privada para no incurrir en causal de cierre?
+A. Reportar la información de cada cierre de gestión educativa.
+B. Remitir la nómina de padres morosos a la Dirección Distrital.
+C. Publicar los estados financieros en la página web de la unidad.
+D. Informar al Ministerio el número de becas otorgadas cada mes.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 15, numeral 6, del Reglamento de privadas (y el Art. 19, numeral 10, del de convenio) establece como causal de cierre no reportar información de cada cierre de gestión educativa.
+Sustento: R.M. 0022/2024, Reglamento (privadas), Capítulo III, Art. 15, pág. impresa 9 (de 13), PDF 43; R.M. 0021/2024, Reglamento (convenio), Art. 19, pág. impresa 11 (de 15), PDF 26.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Desde la planificación distrital, ¿qué instrumento técnico debe actualizarse en el sistema cuando una unidad fiscal amplía o reduce niveles?
+A. El reglamento interno de convivencia aprobado por la junta escolar.
+B. El contrato de servicios educativos suscrito con las familias.
+C. El inventario de bienes muebles registrado en la Contraloría.
+D. Los datos de infraestructura en el sistema SIE de Infraestructura Educativa.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 10, numeral 5, exige la actualización de datos de infraestructura en el sistema SIE de Infraestructura Educativa; el numeral 7 exige además la certificación del GAM sobre la distribución de ambientes pedagógicos, administrativos y de recreación.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Art. 10; página impresa: 6 (de 9); página PDF: 9.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO IV] Un Director Distrital diseña una política de reordenamiento de su distrito. ¿Qué causal de cierre le permite el Reglamento considerar, y con qué condición?
+A. La fusión obligatoria de unidades educativas cercanas, sin necesidad de valoración técnica previa alguna.
+B. El reordenamiento administrativo distrital, previa valoración conforme a normativa vigente.
+C. La baja demanda en zonas urbanas, con el solo acuerdo de la junta escolar de padres.
+D. La transferencia de unidades fiscales a la administración de entidades privadas.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 19, numeral 5, prevé como causal de cierre el reordenamiento administrativo distrital, previa valoración de acuerdo a normativa vigente; el Art. 17, numeral 3, prohíbe cambiar la dependencia de fiscales a convenio o privada.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo IV, Arts. 17 y 19; páginas impresas: 8 y 9 (de 9); páginas PDF: 11 y 12.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [R.M. 0534/2025 Modificación del Reglamento de U.E. Privadas – RESOLUCIÓN MINISTERIAL] En una estrategia de supervisión distrital de unidades privadas, ¿cómo debe graduarse la respuesta ante un incremento de pensiones no autorizado, según la reforma de 2025?
+A. Como falta grave con multa; el cierre queda para la reincidencia en faltas graves.
+B. Como falta leve con multa del 5%, sin consecuencias adicionales en caso de reincidencia.
+C. Como falta gravísima con cierre inmediato en la misma gestión educativa.
+D. Sin sanción, porque las pensiones se rigen exclusivamente por el contrato.
+Respuesta correcta: A
+Explicación: Aplicación razonada: Tras la R.M. 0534/2025, incrementar pensiones por encima de lo dispuesto por el Ministerio es falta grave (Art. 20, inc. b, num. 11) con multa del 10%; la reincidencia en faltas graves es falta gravísima (inc. c, num. 1), sancionada con cierre definitivo en la siguiente gestión.
+Sustento: R.M. 0534/2025, Art. 2, I y II; página impresa: 3 (de 4); página PDF: 50.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [R.M. 0020/2024 Reglamento de Apertura, Modificación y Cierre de U.E. Fiscales – CAPÍTULO III] Un Director Departamental quiere evitar que los trámites de apertura se den de baja por demoras internas. ¿Qué medida de gestión es coherente con el Reglamento?
+A. Autorizar el funcionamiento provisional de las unidades cuyo trámite no concluya en la gestión.
+B. Controlar los plazos de cada instancia, porque los atrasos injustificados generan procesos administrativos.
+C. Ampliar por instructivo departamental el periodo de registro de solicitudes hasta el 31 de diciembre.
+D. Trasladar de oficio los trámites pendientes a la gestión siguiente, conservando su orden de ingreso.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 16 dispone que el registro se realiza del 1 de junio al 30 de septiembre, que los trámites deben culminar hasta el 31 de diciembre, que los pendientes se dan de baja y que, si la baja obedece a atrasos administrativos injustificados, los servidores responsables serán pasibles de procesos administrativos. El Art. 17 prohíbe funcionar sin Resolución y RUE.
+Sustento: R.M. 0020/2024, Reglamento (fiscales), Capítulo III, Arts. 16 y 17; páginas impresas: 7 y 8 (de 9); páginas PDF: 10 y 11.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [R.M. 0021/2024 Reglamento de Apertura, Modificación y Cierre de U.E. de Convenio – CAPÍTULO V] Al diseñar un plan anual de control de las unidades de convenio y privadas de su jurisdicción, ¿qué instrumentos le ofrecen los reglamentos al Director Distrital?
+A. Evaluación del desempeño docente, control de planillas y aprobación de reglamentos.
+B. Auditoría financiera anual, aprobación de pensiones y designación de directores.
+C. Cronograma anual de inspecciones, revisión anual del RUE y procedimiento sancionatorio.
+D. Intervención temporal de la unidad, nombramiento de interventores y cierre inmediato.
+Respuesta correcta: C
+Explicación: Aplicación razonada: Los reglamentos prevén la revisión anual de los Certificados RUE por las direcciones distritales (Art. 5, II), el cronograma anual de inspecciones (Art. 22 de convenio; Art. 18 de privadas) y el inicio del procedimiento sancionatorio a través de las Direcciones Distritales (Art. 24 de convenio; Art. 20 de privadas).
+Sustento: R.M. 0021/2024, Reglamento (convenio), Arts. 5, 22 y 24, págs. impresas 4 y 12 (de 15), PDF 19 y 27; R.M. 0022/2024, Reglamento (privadas), Arts. 5, 18 y 20, págs. impresas 3, 10 y 11 (de 13), PDF 37, 44 y 45.

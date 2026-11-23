@@ -158,12 +158,12 @@ window.CATALOG = {
    "area": "normativa-especifica",
    "name": "Decreto Supremo N.º 04688",
    "title": "D.S. N.º 04688",
-   "description": "",
+   "description": "Reglamento del Escalafón Nacional del Servicio de Educación (D.S. de 18 de julio de 1957).",
    "cover": "assets/portadas/normativa-especifica.svg",
    "coverLabel": "D.S. N.º 04688",
    "units": ["bloque", "bloques"],
    "chapters": [
-    { "id": "ds-04688-general", "title": "Contenido general", "icon": "doc" }
+    { "id": "ds-04688-general", "title": "Reglamento del Escalafón Nacional del Servicio de Educación (con las modificaciones del D.S. 21071 de 1985)", "icon": "doc" }
    ]
   },
   {
@@ -171,12 +171,12 @@ window.CATALOG = {
    "area": "normativa-especifica",
    "name": "Resolución Suprema N.º 212414",
    "title": "R.S. N.º 212414",
-   "description": "Reglamento de Faltas y Sanciones del Magisterio y Personal Docente y Administrativo.",
+   "description": "Reglamento de Faltas y Sanciones del Magisterio y Personal Docente y Administrativo (1993).",
    "cover": "assets/portadas/normativa-especifica.svg",
    "coverLabel": "R.S. N.º 212414",
    "units": ["bloque", "bloques"],
    "chapters": [
-    { "id": "rs-212414-general", "title": "Contenido general", "icon": "doc" }
+    { "id": "rs-212414-general", "title": "Reglamento de Faltas y Sanciones del Magisterio y Personal Docente y Administrativo", "icon": "doc" }
    ]
   },
   {
@@ -184,12 +184,12 @@ window.CATALOG = {
    "area": "normativa-especifica",
    "name": "Resolución Ministerial N.º 0864/2019",
    "title": "R.M. N.º 0864/2019",
-   "description": "",
+   "description": "Protocolo de prevención, actuación y denuncia de violencia en unidades educativas (edición 2022).",
    "cover": "assets/portadas/normativa-especifica.svg",
    "coverLabel": "R.M. N.º 0864/2019",
    "units": ["bloque", "bloques"],
    "chapters": [
-    { "id": "rm-0864-2019-general", "title": "Contenido general", "icon": "doc" }
+    { "id": "rm-0864-2019-general", "title": "Protocolo de Prevención, Actuación y Denuncia en casos de Violencia Física, Psicológica y Sexual en Unidades Educativas y Centros de Educación Especial", "icon": "doc" }
    ]
   },
   {
@@ -197,12 +197,12 @@ window.CATALOG = {
    "area": "normativa-especifica",
    "name": "Resolución Ministerial N.º 0069/2025",
    "title": "R.M. N.º 0069/2025",
-   "description": "",
+   "description": "Reglamento para el Fortalecimiento de la Educación Inclusiva (2025).",
    "cover": "assets/portadas/normativa-especifica.svg",
    "coverLabel": "R.M. N.º 0069/2025",
    "units": ["bloque", "bloques"],
    "chapters": [
-    { "id": "rm-0069-2025-general", "title": "Contenido general", "icon": "doc" }
+    { "id": "rm-0069-2025-general", "title": "Reglamento para el Fortalecimiento de la Educación Inclusiva en el Sistema Educativo Plurinacional – Modalidad Indirecta", "icon": "doc" }
    ]
   },
   {
@@ -210,12 +210,12 @@ window.CATALOG = {
    "area": "normativa-especifica",
    "name": "Resolución Ministerial N.º 0020/2024",
    "title": "R.M. N.º 0020/2024",
-   "description": "",
+   "description": "Reglamentos de apertura, modificación y cierre de unidades educativas (2024).",
    "cover": "assets/portadas/normativa-especifica.svg",
    "coverLabel": "R.M. N.º 0020/2024",
    "units": ["bloque", "bloques"],
    "chapters": [
-    { "id": "rm-0020-2024-general", "title": "Contenido general", "icon": "doc" }
+    { "id": "rm-0020-2024-general", "title": "Reglamentos de Apertura, Modificación y Cierre de Unidades Educativas Fiscales, de Convenio y Privadas (R.M. 0020, 0021 y 0022/2024 y R.M. 0534/2025)", "icon": "doc" }
    ]
   },
   {
@@ -223,12 +223,12 @@ window.CATALOG = {
    "area": "normativa-especifica",
    "name": "Resolución Ministerial N.º 190/2024",
    "title": "R.M. N.º 190/2024",
-   "description": "",
+   "description": "Reglamento de Evaluación del Desarrollo Curricular del Subsistema de Educación Regular (2024).",
    "cover": "assets/portadas/normativa-especifica.svg",
    "coverLabel": "R.M. N.º 190/2024",
    "units": ["bloque", "bloques"],
    "chapters": [
-    { "id": "rm-0190-2024-general", "title": "Contenido general", "icon": "doc" }
+    { "id": "rm-0190-2024-general", "title": "Reglamento de Evaluación del Desarrollo Curricular del Subsistema de Educación Regular (Versión 01)", "icon": "doc" }
    ]
   },
   {
@@ -236,12 +236,12 @@ window.CATALOG = {
    "area": "normativa-especifica",
    "name": "Resolución Ministerial N.º 800/2015",
    "title": "R.M. N.º 800/2015",
-   "description": "",
+   "description": "Reglamento de libretas y certificados de calificaciones electrónicas – Educación Alternativa (2015).",
    "cover": "assets/portadas/normativa-especifica.svg",
    "coverLabel": "R.M. N.º 800/2015",
    "units": ["bloque", "bloques"],
    "chapters": [
-    { "id": "rm-0800-2015-general", "title": "Contenido general", "icon": "doc" }
+    { "id": "rm-0800-2015-general", "title": "Reglamento de Procedimientos para la Emisión de Libretas y Certificados de Calificaciones Electrónicas", "icon": "doc" }
    ]
   },
   {
@@ -249,12 +249,12 @@ window.CATALOG = {
    "area": "normativa-especifica",
    "name": "Resolución Ministerial N.º 0001",
    "title": "R.M. N.º 0001",
-   "description": "Normas Generales para la Gestión Educativa y Escolar.",
+   "description": "Normas Generales para la Gestión Educativa 2026 del Subsistema de Educación Regular.",
    "cover": "assets/portadas/normativa-especifica.svg",
    "coverLabel": "R.M. N.º 0001",
    "units": ["bloque", "bloques"],
    "chapters": [
-    { "id": "rm-0001-general", "title": "Contenido general", "icon": "doc" }
+    { "id": "rm-0001-general", "title": "Normas Generales para la Gestión Educativa 2026 del Subsistema de Educación Regular", "icon": "doc" }
    ]
   },
   {

@@ -1,0 +1,1103 @@
+# Fuente: rm-0001-general.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# SISTEMA EDUCATIVO PLURINACIONAL
+# BANCO DE PREGUNTAS DE NIVEL MUY AVANZADO
+# Evaluación de aspirantes a cargos directivos
+# Fuente exclusiva
+# R.M. N.º 0001/2026 – Normas Generales para la Gestión Educativa 2026 del Subsistema de Educación Regular
+# Resolución Ministerial N.º 0001/2026
+# 100 preguntas de opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# La Paz – Bolivia
+# Noviembre de 2026
+# 1. Presentación del instrumento
+# El presente banco de 100 preguntas de nivel muy avanzado está dirigido a la evaluación de aspirantes a cargos directivos del Sistema Educativo Plurinacional. Ha sido elaborado exclusivamente a partir de la R.M. N.º 0001/2026, Normas Generales para la Gestión Educativa 2026 del Subsistema de Educación Regular (IV Títulos, 79 artículos y once disposiciones finales), sin incorporar fuentes externas.
+# Cada pregunta indica su dimensión de evaluación, su modalidad (Conceptual, Interpretativa, Aplicación razonada o Caso práctico), la respuesta correcta, una fundamentación breve y la referencia documental verificable. El rótulo «Aplicación razonada» distingue las situaciones derivadas de las preguntas de conocimiento textual.
+# Al inicio de cada enunciado se consigna, entre corchetes, el documento, el título y el capítulo de procedencia, para garantizar la trazabilidad de la fuente.
+# Las preguntas sobre responsabilidades directivas se limitan a las que la norma asigna expresamente a los directores de unidades educativas, a las direcciones distritales y departamentales y a las demás instancias que menciona.
+# 2. Ficha técnica
+# Aspecto
+# Detalle
+# Documento fuente
+# R.M. N.º 0001/2026 – Normas Generales para la Gestión Educativa 2026 del Subsistema de Educación Regular – Resolución Ministerial N.º 0001/2026
+# Archivo
+# 8. R.M. 0001 Normas generales 2026.pdf (40 páginas PDF)
+# Cantidad de preguntas
+# 100
+# Modalidad
+# Opción múltiple y casos prácticos
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta
+# Rótulos de modalidad
+# Conceptual · Interpretativa · Aplicación razonada · Caso práctico
+# Criterio de paginación
+# El documento tiene numeración impresa que coincide con la página PDF (el articulado comienza en la página 9). Las referencias consignan ambas, que son iguales.
+# 3. Distribución metodológica y ponderación
+# N.º
+# Dimensión de evaluación
+# Preguntas
+# Peso
+# Rango
+# 1
+# Conocimiento y memorización
+# 5
+# 5%
+# 1–5
+# 2
+# Dominio conceptual
+# 5
+# 5%
+# 6–10
+# 3
+# Competencias y responsabilidades directivas
+# 10
+# 10%
+# 11–20
+# 4
+# Comprensión e interpretación
+# 10
+# 10%
+# 21–30
+# 5
+# Diferenciación conceptual
+# 5
+# 5%
+# 31–35
+# 6
+# Análisis crítico
+# 10
+# 10%
+# 36–45
+# 7
+# Aplicación normativa
+# 15
+# 15%
+# 46–60
+# 8
+# Resolución de casos prácticos
+# 20
+# 20%
+# 61–80
+# 9
+# Toma de decisiones
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de respuestas correctas: A = 25 · B = 25 · C = 25 · D = 25.
+# Distribución por modalidad: Conceptual = 25 · Interpretativa = 20 · Aplicación razonada = 35 · Caso práctico = 20.
+# 4. Banco de preguntas
+# Dimensión: Conocimiento y memorización
+# Se verificó que el banco contiene exactamente 100 preguntas distribuidas según la tabla metodológica, cada una con cuatro alternativas y una sola respuesta correcta respaldada por el texto de la norma.
+# Las respuestas correctas se distribuyeron de manera equilibrada entre A, B, C y D, sin secuencias predecibles, y se controló la homogeneidad de extensión de las alternativas. En preguntas de dato breve (edades, cantidades, fechas), la diferencia relativa puede ser mayor por la naturaleza de la información.
+# Las tablas de etapas (Art. 3), calendario (Art. 4), edades (Art. 15) y evaluación (Art. 29) se verificaron sobre el texto con disposición de página y sobre la imagen.
+# Se advierte que la tabla del Art. 29 asigna Ser 10, Saber 45, Hacer 40 y autoevaluación 5, sin columna para la dimensión Decidir, mientras su parágrafo III remite al Reglamento de Evaluación del Desarrollo Curricular. Esta cuestión se trata como análisis crítico en el banco.
+
+CAPÍTULO: rm-0001-general
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Cuántos días hábiles trabajados contempla el calendario educativo 2026 y cómo se organizan?
+A. Doscientos días hábiles, organizados en tres trimestres de 66, 68 y 66 días.
+B. Doscientos días hábiles, organizados en tres trimestres de 68, 66 y 66 días.
+C. Doscientos días hábiles, organizados en cuatro bimestres de cincuenta días.
+D. Ciento ochenta días hábiles, organizados en dos semestres de noventa días.
+Respuesta correcta: A
+Explicación: El Art. 4, I, dispone que el calendario contempla doscientos (200) días hábiles trabajados, organizados en tres trimestres: primero 66 días (2 de febrero a 8 de mayo), segundo 68 días (11 de mayo a 31 de agosto, con 10 días de descanso pedagógico) y tercero 66 días (1 de septiembre al 2 de diciembre).
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 4; página impresa: 10; página PDF: 10.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] ¿Qué edad cumplida al 31 de marzo de 2026 se exige para inscribirse en el primer año de Educación Primaria Comunitaria Vocacional?
+A. Siete años cumplidos.
+B. Cuatro años cumplidos.
+C. Cinco años cumplidos.
+D. Seis años cumplidos.
+Respuesta correcta: D
+Explicación: El Art. 15, III, fija las edades cronológicas al 31 de marzo de 2026: Inicial, primer año 4 años y segundo año 5 años; Primaria, primer año 6 años.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 15; página impresa: 16; página PDF: 16.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] ¿Cuál es el número mínimo de estudiantes para abrir un nuevo paralelo durante el periodo de inscripción?
+A. Veintiún estudiantes.
+B. Veinticinco estudiantes.
+C. Quince estudiantes.
+D. Treinta estudiantes.
+Respuesta correcta: A
+Explicación: El Art. 21, I, dispone que la apertura de un nuevo paralelo será con un mínimo de veintiún (21) estudiantes, aprobada mediante informe del director con el visto bueno de la dirección distrital; el parágrafo II la flexibiliza ante estudiantes con discapacidad certificada.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 21; página impresa: 18; página PDF: 18.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Cuánto dura la hora pedagógica en las unidades educativas nocturnas de Primaria y Secundaria?
+A. Treinta minutos, en siete horas pedagógicas diarias.
+B. Cuarenta y cinco minutos, en cinco horas pedagógicas.
+C. Treinta y cinco minutos, en seis horas pedagógicas.
+D. Cuarenta minutos, en seis horas pedagógicas diarias.
+Respuesta correcta: C
+Explicación: El Art. 7, c), dispone que las unidades nocturnas de Primaria y Secundaria cumplan seis (6) horas pedagógicas de treinta y cinco (35) minutos; en los turnos mañana y tarde son seis horas de 40 minutos y en Inicial cinco horas de 40 minutos.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 7; página impresa: 12; página PDF: 12.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO IV, CAPÍTULO I] ¿Hasta qué fecha deben remitir las unidades educativas privadas su contrato de servicios educativos 2026 a la Dirección Distrital?
+A. Hasta el 31 de marzo de 2026.
+B. Hasta el 27 de febrero de 2026.
+C. Hasta el 30 de enero de 2026.
+D. Hasta el 15 de febrero de 2026.
+Respuesta correcta: B
+Explicación: El Art. 74, III, dispone que las unidades educativas privadas remitan el contrato de servicios educativos para la gestión 2026 a las direcciones distritales educativas hasta el 27 de febrero de 2026.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título IV, Capítulo I, Art. 74; página impresa: 35; página PDF: 35.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+6. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Qué instrumentos de planificación sustituyen y unifican la intencionalidad del Proyecto Socioproductivo (PSP) y del Plan de Convivencia Pacífica y Armónica (PCPA)?
+A. El Plan de Clase trimestral y el Cuaderno Pedagógico de cada maestro de aula.
+B. El Plan Operativo Anual (POA) y el Plan de Desarrollo Curricular (PDC).
+C. El Proyecto Educativo Institucional (PEI) y el Plan Anual Bimestralizado.
+D. El Proyecto Educativo Comunitario y el Reglamento Interno de la unidad educativa.
+Respuesta correcta: B
+Explicación: El Art. 5, II, dispone que el POA y el PDC sustituyen y unifican la intencionalidad que antes cumplían el Proyecto Socioproductivo (PSP) y el Plan de Convivencia Pacífica y Armónica (PCPA), en el marco de la Ley 548, el D.S. 1302, el D.S. 1320 y normas conexas.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 5; página impresa: 11; página PDF: 11.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+7. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Qué prioriza el Plan Operativo Anual (POA) según el Art. 5?
+A. El fortalecimiento de la escritura, la comprensión lectora y el pensamiento lógico-matemático.
+B. La organización de actividades extracurriculares, cívicas y deportivas de toda la gestión educativa.
+C. La programación mensual de contenidos y criterios de evaluación de cada maestro de área.
+D. La ejecución de proyectos socioproductivos financiados por los gobiernos municipales.
+Respuesta correcta: A
+Explicación: El Art. 5, I, a), define el POA como instrumento anual que articula la gestión administrativa, pedagógica y sociocomunitaria, y que prioriza el fortalecimiento de la escritura, comprensión lectora y pensamiento lógico-matemático en todos los niveles; debe incluir acciones de contingencia de riesgos.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 5; página impresa: 11; página PDF: 11.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+8. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Cómo define el Art. 6 el Cuaderno Pedagógico?
+A. Instrumento optativo del maestro para registrar observaciones de conducta de los estudiantes del curso escolar.
+B. Documento oficial de acreditación de los resultados de los estudiantes ante la Dirección Distrital.
+C. Instrumento obligatorio y único del maestro para registrar avance, criterios, evaluaciones y resultados.
+D. Instrumento del director para registrar el control de asistencia y puntualidad del personal docente.
+Respuesta correcta: C
+Explicación: El Art. 6 dispone que el Cuaderno Pedagógico es de uso obligatorio y el único instrumento del maestro donde se registra el avance de contenidos, criterios de evaluación, programación de evaluaciones y resultados, con cuadros de filiación, asistencia, evaluación, horario, centralizadores, autoevaluaciones y cuadro estadístico.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 6; página impresa: 12; página PDF: 12.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+9. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] ¿Quién es "estudiante regular" según el Art. 16?
+A. Aquel que asistió a clases durante toda la gestión anterior.
+B. Aquel que aprobó todas las áreas del año de escolaridad previo.
+C. Aquel que cuenta con código RUDE asignado en el SIE.
+D. Aquel que está inscrito en la misma unidad desde Educación Inicial.
+Respuesta correcta: C
+Explicación: El Art. 16, I, define al estudiante regular como aquel que cuenta con código RUDE asignado en el SIE; su inscripción en la misma unidad es automática y debe ratificarse dentro de los 15 días de iniciado el desarrollo curricular (II).
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 16; página impresa: 16; página PDF: 16.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+10. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO I] ¿Cuál es el ámbito de aplicación de las Normas Generales 2026?
+A. La gestión administrativa de las direcciones departamentales y distritales, sin alcanzar a las privadas.
+B. Todos los subsistemas del Sistema Educativo Plurinacional, incluida la Educación Superior de Formación.
+C. Solo la gestión curricular de las unidades educativas fiscales de Educación Regular y de Alternativa.
+D. Toda la gestión administrativa y curricular de Educación Regular en unidades fiscales, privadas y de convenio.
+Respuesta correcta: D
+Explicación: El Art. 2 dispone que la norma es de cumplimiento obligatorio en toda la gestión administrativa y curricular del Subsistema de Educación Regular en unidades educativas fiscales, privadas y de convenio; el Art. 1 la define como instrumento técnico, administrativo y de gestión.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo I, Arts. 1 y 2; página impresa: 9; página PDF: 9.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+11. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Quién es responsable de elaborar el Plan Operativo Anual (POA) de la unidad educativa?
+A. El director distrital de educación, en coordinación con la Subdirección Regular.
+B. El director de la unidad educativa, en coordinación con la comunidad educativa.
+C. La Comisión Técnico Pedagógica, en coordinación con los maestros de cada área.
+D. La junta escolar de padres y madres, con el visto bueno de la Dirección Distrital.
+Respuesta correcta: B
+Explicación: El Art. 5, I, a), dispone que la elaboración del POA es responsabilidad del director de la unidad educativa, en coordinación con la comunidad educativa, asegurando la coherencia entre decisiones institucionales e intervenciones pedagógicas.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 5; página impresa: 11; página PDF: 11.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+12. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] ¿Qué responsabilidad atribuye el Art. 12 al director respecto de la información del RUDE?
+A. Registrar solo a los estudiantes nuevos, ya que los regulares se actualizan de oficio en el sistema.
+B. Reportar al SIE a todos sus estudiantes evitando duplicidades, y responder por la calidad de la información.
+C. Delegar en los padres el registro de datos en el SIE, quedando exento de responsabilidad por errores de registro.
+D. Remitir los formularios a la Distrital, que es la única responsable de la calidad de la información.
+Respuesta correcta: B
+Explicación: El Art. 12, VI y VIII, dispone que la información reportada se considera declaración jurada y oficial, que cada director es responsable de reportar al SIE a todos sus estudiantes evitando duplicidades del código RUDE, y que la calidad de la información recopilada es responsabilidad del director.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 12; página impresa: 14; página PDF: 14.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+13. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] ¿Qué deben garantizar los directores en los procesos de preinscripción e inscripción, según los Arts. 13 y 14?
+A. La transparencia del proceso; los actos irregulares hacen pasibles de sanción a los infractores.
+B. El cobro de un derecho de preinscripción destinado al mantenimiento de la infraestructura.
+C. La selección de estudiantes según su rendimiento académico y la capacidad de pago de sus familias.
+D. La prioridad de los hijos del personal docente y administrativo sobre los demás postulantes.
+Respuesta correcta: A
+Explicación: Los Arts. 13, III, y 14, III, disponen que los directores son responsables de garantizar la transparencia de los procesos de preinscripción (alta demanda) e inscripción; en caso de actos irregulares, los infractores serán pasibles de sanción conforme a normativa vigente.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Arts. 13 y 14; páginas impresas: 14 y 15; páginas PDF: 14 y 15.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+14. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Ante documentos presuntamente falsificados presentados por un padre de familia, ¿qué deber tienen el director y el personal administrativo?
+A. Retener los documentos y comunicar el hecho al Ministerio de Educación al finalizar la gestión.
+B. Inscribir al estudiante de forma provisional y remitir el caso a la junta escolar para su análisis.
+C. Verificarlos y, previa indagación, denunciar ante la instancia competente, bajo pena de proceso disciplinario.
+D. Devolverlos al padre de familia y solicitarle nuevos documentos, sin otra consecuencia para nadie.
+Respuesta correcta: C
+Explicación: El Art. 39 dispone que los directores y el personal administrativo verifiquen los documentos presentados; en caso de identificar documentos presuntamente falsificados, previa indagación, deben denunciar ante la instancia competente; de no hacerlo, serán sometidos a proceso disciplinario.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 39; página impresa: 24; página PDF: 24.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+15. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO I] ¿Cómo deben centralizarse las horas de los maestros que trabajan en más de una unidad educativa?
+A. En la unidad más antigua del distrito, por sorteo entre los directores de las unidades involucradas.
+B. En la Dirección Distrital, que asigna libremente las horas sin consultar a los directores.
+C. En la unidad con más horas, por decisión del propio maestro y con aviso a la junta escolar del lugar respectivo.
+D. En una de las unidades, por el director, con pertinencia académica y en coordinación con el distrital.
+Respuesta correcta: D
+Explicación: El Art. 54 dispone que las horas de los maestros que trabajan en más de una unidad sean centralizadas en una de ellas por el director de la unidad educativa, con pertinencia académica y en coordinación con el director distrital; el ente sindical puede velar por la transparencia del proceso.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo I, Art. 54; página impresa: 28; página PDF: 28.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+16. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO II] ¿Qué responsabilidad tiene el director sobre el equipamiento de la unidad educativa?
+A. Promover y controlar su uso adecuado y obligatorio en el proceso educativo, debidamente inventariado.
+B. Resguardarlo bajo llave para evitar su deterioro, utilizándolo solo en actos y eventos oficiales de la unidad.
+C. Cobrar al personal docente la depreciación anual del equipamiento asignado a su aula.
+D. Transferirlo a la junta escolar, que asume la responsabilidad de su custodia e inventario.
+Respuesta correcta: A
+Explicación: El Art. 57, I y II, dispone que el director promueva y controle el uso adecuado del equipamiento, que debe utilizarse obligatoriamente en el proceso educativo y estar inventariado; el desgaste o depreciación en ningún caso se cobrará al personal docente o a los estudiantes.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo II, Art. 57; página impresa: 29; página PDF: 29.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+17. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO III] ¿En función de qué deben desarrollar los directores la evaluación institucional según el Art. 61?
+A. En función de los resultados de las olimpiadas científicas del distrito.
+B. En función de las metas de matrícula fijadas por la Dirección Departamental.
+C. En función de los acuerdos de la junta escolar sobre aportes y festejos.
+D. En función de la planificación institucional que contempla el POA y el PDC.
+Respuesta correcta: D
+Explicación: El Art. 61, I, dispone que los directores de unidades fiscales, privadas y de convenio desarrollen la evaluación institucional en función de la planificación institucional que contempla el POA y PDC; sus conclusiones se consideran para la planificación de la gestión siguiente (II).
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo III, Art. 61; página impresa: 30; página PDF: 30.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+18. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Si en la unidad existe servicio de transporte escolar, ¿qué debe exigir el director al conductor, entre otros requisitos?
+A. Contrato notariado con la unidad y póliza de seguro privado contratada por los padres.
+B. Certificado de antecedentes policiales y aval firmado por la junta escolar de padres y madres.
+C. Certificados REJAP y CENVI actualizados y licencia de conducir según la normativa de tránsito.
+D. Título de bachiller y certificado médico emitido por el centro de salud más cercano.
+Respuesta correcta: C
+Explicación: El Art. 73 exige: certificación de la Unidad Operativa de Tránsito, autorización del GAM, SOAT vigente, certificados REJAP y CENVI actualizados del conductor, distintivo de "transporte escolar" y licencia de conducir conforme a la normativa de tránsito.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 73; páginas impresas: 34 y 35; páginas PDF: 34 y 35.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+19. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] ¿Qué responsabilidad tiene el director respecto de los quioscos de expendio de alimentos?
+A. Administrar directamente el quiosco y destinar sus ganancias a la compra de material escolar del curso.
+B. Adjudicar el quiosco a la junta escolar, que fija libremente los productos a la venta.
+C. Autorizar la venta de productos importados siempre que tengan un precio accesible.
+D. Supervisar su calidad y buen funcionamiento y coordinar controles de calidad de los alimentos.
+Respuesta correcta: D
+Explicación: El Art. 69, IV y V, dispone que el director coordine con las instancias competentes controles de calidad a los alimentos y supervise la calidad y buen funcionamiento de los quioscos; el parágrafo I señala que solo los porteros pueden expender alimentación, y el III prohíbe productos importados sin registro sanitario.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 69; página impresa: 33; página PDF: 33.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+20. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Un estudiante representará al país en un evento coordinado con el Ministerio. ¿Qué debe otorgarle el director?
+A. Un permiso sin goce de calificación, debiendo recuperar el trimestre en vacaciones.
+B. La licencia respectiva para que los maestros reprogramen trabajos y evaluaciones.
+C. Una exención de las evaluaciones del trimestre con la nota máxima en todas las áreas.
+D. Una autorización condicionada a la aprobación previa de la junta escolar de padres.
+Respuesta correcta: B
+Explicación: El Art. 42 dispone que los estudiantes que realicen representaciones municipales, distritales, departamentales, nacionales o internacionales en actividades convocadas o coordinadas con el Ministerio reciban del director la licencia respectiva para que los maestros reprogramen la entrega de trabajos y evaluaciones.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 42; página impresa: 25; página PDF: 25.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+21. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] El Art. 14 fija la inscripción de estudiantes que cambian de unidad "el 21 y 23 de enero de 2026". ¿Qué explica la omisión del 22 de enero?
+A. Que el 22 de enero está reservado a la inscripción de estudiantes extranjeros.
+B. Que el 22 de enero corresponde al sorteo de unidades de alta demanda.
+C. Que el 22 de enero es feriado nacional por el Día del Estado Plurinacional.
+D. Que el 22 de enero se destina a la planificación del distrito educativo.
+Respuesta correcta: C
+Explicación: El Art. 11 reconoce como feriado nacional el Día del Estado Plurinacional, jueves 22 de enero de 2026; el Art. 14, II, fija la inscripción de estudiantes que cambian de unidad el 21 y el 23 de enero, dentro del periodo de inscripción del 19 al 23 de enero (Art. 3).
+Sustento: R.M. 0001/2026, Normas Generales 2026, Arts. 3, 11 y 14; páginas impresas: 9, 13 y 15; páginas PDF: 9, 13 y 15.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+22. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] ¿Qué efecto tiene la falta del carnet de vacunas en la inscripción de un estudiante nuevo?
+A. Permite una inscripción provisional que se anula si el carnet no se presenta en el primer trimestre.
+B. No tiene ninguna consecuencia, porque el carnet de vacunas no es requisito para la inscripción.
+C. Impide la inscripción hasta que los padres presenten el carnet con el esquema de vacunación completo y vigente.
+D. No impide la inscripción, pero el director debe gestionar el esquema completo antes del fin de gestión.
+Respuesta correcta: D
+Explicación: El Art. 15, I, numeral 3, dispone que la ausencia del certificado o carnet de vacunas no impide la inscripción; sin embargo, el director, en coordinación con los padres, obligatoriamente debe gestionar que los estudiantes tengan el esquema completo antes de culminar la gestión.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 15; página impresa: 15; página PDF: 15.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+23. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Pueden computarse los aniversarios de la unidad educativa como días trabajados del calendario?
+A. No; no se computan dentro de los 200 días hábiles y la asistencia no es obligatoria.
+B. Sí; se computan si la Dirección Distrital los autoriza mediante instructivo.
+C. Sí; se computan como días trabajados si se realizan actividades culturales.
+D. No; pero la asistencia de estudiantes y maestros a esos actos es obligatoria para todos.
+Respuesta correcta: A
+Explicación: El Art. 11, II, dispone que los días de fiestas patronales, feriados municipales, regionales, provinciales, aniversarios de instituciones o de unidades educativas y otros no se computan como días trabajados dentro de los 200 días hábiles, y que la participación en esos actos no es obligatoria.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 11; página impresa: 13; página PDF: 13.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+24. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Qué instancias definen la programación del descanso pedagógico de 10 días hábiles?
+A. Cada director de unidad educativa, según las condiciones climáticas y sanitarias de su comunidad local.
+B. El Ministerio de Educación, con una fecha única para todo el territorio nacional.
+C. Las direcciones distritales, en coordinación con las departamentales y las autoridades de salud.
+D. Las juntas escolares de cada distrito, en coordinación con los gobiernos municipales.
+Respuesta correcta: C
+Explicación: El Art. 9, III, dispone que la programación del descanso pedagógico sea definida por las direcciones distritales educativas, en coordinación con las direcciones departamentales y las autoridades de salud; las departamentales centralizan la programación (IV) y gestionan un comité de vigilancia epidemiológica (II).
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 9; páginas impresas: 12 y 13; páginas PDF: 12 y 13.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+25. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] ¿Hasta cuándo puede realizarse la fusión o el desglose de niveles en una unidad educativa?
+A. Hasta el final del periodo ordinario de inscripción, el 23 de enero de 2026.
+B. En cualquier momento, con autorización de la Dirección Distrital.
+C. Hasta antes de la emisión de la libreta electrónica del primer trimestre.
+D. Hasta la conclusión del segundo trimestre de la gestión educativa.
+Respuesta correcta: C
+Explicación: El Art. 22 prohíbe a las unidades fiscales, privadas y de convenio realizar fusiones o desgloses de niveles posterior a la emisión de la libreta electrónica del primer trimestre.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 22; página impresa: 19; página PDF: 19.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+26. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] En el área urbana, ¿cuál es el máximo de estudiantes por paralelo en Primaria y en Secundaria?
+A. Treinta en Primaria y treinta y cinco en Secundaria.
+B. Treinta en Primaria y cuarenta en Secundaria.
+C. Treinta y cinco en Primaria y treinta en Secundaria.
+D. Veinticinco en Primaria y treinta en Secundaria.
+Respuesta correcta: A
+Explicación: El Art. 23 fija como máximos por paralelo y año de escolaridad en el área urbana: Inicial 25, Primaria 30 y Secundaria 35 estudiantes; en unidades nocturnas, el mínimo es de 10 si existe un solo paralelo.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 23; página impresa: 19; página PDF: 19.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+27. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO IV] ¿Qué niveles pueden realizar actos de promoción en la gestión 2026?
+A. Todos los niveles, siempre que no impliquen gastos para los padres.
+B. Únicamente el sexto año de Educación Secundaria Comunitaria Productiva.
+C. Inicial, sexto de Primaria y sexto de Secundaria, con autorización distrital.
+D. Solo el segundo año de Inicial y el sexto año de Primaria Vocacional.
+Respuesta correcta: B
+Explicación: El Art. 28 prohíbe los actos de promoción en Educación Inicial y Primaria, y únicamente autoriza actos de promoción del sexto año de escolaridad de Educación Secundaria Comunitaria Productiva.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo IV, Art. 28; página impresa: 20; página PDF: 20.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+28. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] ¿Hasta cuándo pueden trasladarse los estudiantes regulares (no vulnerables) y en qué plazo debe concluir el trámite?
+A. Hasta el fin del primer mes de clases, con un trámite que no exceda diez días hábiles como máximo.
+B. Durante toda la gestión, con un trámite que no exceda quince días calendario.
+C. Hasta el descanso pedagógico, con un trámite que no exceda tres días hábiles.
+D. Hasta el inicio del segundo trimestre, con un trámite que no exceda cinco días hábiles.
+Respuesta correcta: D
+Explicación: El Art. 41, I, dispone que los traslados de estudiantes regulares (no vulnerables) se realicen hasta el inicio del segundo trimestre de la gestión 2026, y que el trámite de traslado y registro en el SIE no exceda los cinco (5) días hábiles.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 41; página impresa: 24; página PDF: 24.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+29. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VI] ¿Qué régimen establece el Art. 43 sobre el uso del uniforme escolar?
+A. No es obligatorio ni impide el ingreso; su adopción requiere el consenso de la comunidad.
+B. No es obligatorio, pero la junta escolar puede exigir un proveedor exclusivo.
+C. Es obligatorio en las unidades privadas y optativo en las unidades fiscales y de convenio.
+D. Es obligatorio, pero se admite un plazo de gracia hasta el segundo trimestre.
+Respuesta correcta: A
+Explicación: El Art. 43 dispone que el uso del uniforme no es obligatorio ni impide el ingreso a clases; las unidades que opten por él deben hacerlo con el consenso de la comunidad educativa; está prohibido exigir la compra en un lugar determinado o exclusivo, y se respeta la vestimenta de los pueblos indígenas y afrobolivianos.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VI, Art. 43; página impresa: 25; página PDF: 25.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+30. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] ¿Qué límite establece el Art. 70 a la participación de las juntas escolares?
+A. Solo pueden participar si los padres aportan una cuota anual para su funcionamiento.
+B. Se les prohíbe intervenir en asuntos técnico-pedagógicos, que son competencia del director.
+C. Solo pueden participar en la evaluación de los maestros de la unidad educativa.
+D. Se les prohíbe coordinar cualquier actividad con la unidad educativa durante toda la gestión educativa.
+Respuesta correcta: B
+Explicación: El Art. 70, IV, prohíbe la participación de las Juntas Escolares o Consejos Educativos Social Comunitarios en asuntos técnico-pedagógicos, ya que la gestión de la unidad es competencia exclusiva del director; el parágrafo III les prohíbe pedir aportes para festejos y gastos innecesarios.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 70; página impresa: 33; página PDF: 33.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+31. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Distinga el mínimo de estudiantes para funcionar según el contexto de la unidad educativa:
+A. Rural: 21 por año o aula multigrado; Modular Multigrado en difícil acceso: 10; dispersa: 8.
+B. Rural: 8 por año o aula multigrado; Modular Multigrado en difícil acceso: 5; población dispersa: hasta 1.
+C. Rural: 10 por año o aula multigrado; Modular Multigrado en difícil acceso: 8; población dispersa: hasta 5.
+D. Rural: 5 por año o aula multigrado; Modular Multigrado en difícil acceso: 8; dispersa: hasta 3.
+Respuesta correcta: B
+Explicación: El Art. 24 dispone que en población dispersa, de difícil acceso o vulnerable las unidades pueden funcionar hasta con un estudiante, previo informe del director distrital; en contexto rural el mínimo es 8 por año o aula multigrado; y con atención Modular Multigrado en lugares de difícil acceso, 5.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 24; página impresa: 19; página PDF: 19.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+32. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] Distinga el POA del PDC según el Art. 5:
+A. El POA es trimestral y distrital; el PDC es anual y lo aprueba la Dirección Departamental.
+B. Ambos son institucionales y los aprueba la junta escolar al inicio de la gestión educativa.
+C. El POA es institucional y lo elabora el director; el PDC es pedagógico y lo elaboran los maestros.
+D. El POA es pedagógico y lo elaboran los maestros; el PDC es institucional y lo elabora el director.
+Respuesta correcta: C
+Explicación: El Art. 5, I, define el POA como instrumento anual que articula la gestión institucional, elaborado por el director con la comunidad, y el PDC como instrumento pedagógico-curricular con programación mensual y/o trimestral, elaborado por los maestros del año o área.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Art. 5; página impresa: 11; página PDF: 11.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+33. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Distinga el régimen de traslado de estudiantes regulares del de hijos de militares, policías, personal de salud y maestros:
+A. Regulares: hasta el inicio del segundo trimestre; hijos de esos servidores: durante toda la gestión.
+B. Ambos grupos: hasta el descanso pedagógico, con autorización de la Dirección Distrital.
+C. Regulares: durante toda la gestión; hijos de esos servidores: solo hasta el primer trimestre.
+D. Regulares: hasta fin del primer mes; hijos de esos servidores: hasta el inicio del tercer trimestre.
+Respuesta correcta: A
+Explicación: El Art. 41, I, limita el traslado de estudiantes regulares (no vulnerables) hasta el inicio del segundo trimestre; el parágrafo II dispone que, para hijos de militares, policías, personal de salud y maestros, se dará curso al traslado durante toda la gestión.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 41; página impresa: 24; página PDF: 24.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+34. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Distinga las edades de inscripción en primer año de Inicial para 2026 y la dispuesta a partir de 2027:
+A. 2026: tres años al 31 de marzo de 2026; desde 2027: cuatro años al 30 de junio de 2027.
+B. 2026: cinco años al 31 de marzo de 2026; desde 2027: cuatro años al 31 de marzo de 2027.
+C. 2026: cuatro años al 31 de diciembre de 2025; desde 2027: cinco años cumplidos al 31 de marzo de 2027.
+D. 2026: cuatro años al 31 de marzo de 2026; desde 2027: cuatro años al 31 de diciembre de 2026.
+Respuesta correcta: D
+Explicación: El Art. 15, III, fija para 2026 cuatro años cumplidos al 31 de marzo de 2026 para el primer año de Inicial; el Art. 26, II, dispone que a partir de la gestión 2027 la edad será de cuatro años cumplidos al 31 de diciembre de 2026.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Arts. 15 y 26; páginas impresas: 16 y 20; páginas PDF: 16 y 20.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+35. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Distinga el tratamiento de faltas y de delitos según el Art. 66:
+A. Las faltas del reglamento interno se procesan en la unidad; los delitos se remiten a la autoridad competente.
+B. Las faltas y los delitos se procesan internamente por la junta escolar con apoyo de la Dirección.
+C. Ni las faltas ni los delitos se procesan en la unidad; todos se remiten a la Dirección Distrital.
+D. Las faltas se remiten a la Fiscalía; los delitos se procesan en el reglamento interno de la unidad.
+Respuesta correcta: A
+Explicación: El Art. 66 dispone que los actos considerados faltas contemplados en el reglamento interno de cada unidad tendrán su procesamiento y sanción (I), y que las personas con conductas tipificadas como delitos civiles y penales deberán ser remitidas ante la autoridad competente (II).
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 66; página impresa: 32; página PDF: 32.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+36. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO IV] La tabla del Art. 29 asigna Ser 10, Saber 45, Hacer 40 y autoevaluación 5 (total 100), mientras el parágrafo III remite al Reglamento de Evaluación. Desde un análisis crítico, ¿qué se advierte en la tabla?
+A. Excluye la autoevaluación del estudiante, que queda a criterio de cada maestro de aula.
+B. Suma más de 100 puntos, por lo que debe recalcularse proporcionalmente en cada área.
+C. Asigna a Hacer un puntaje mayor que a Saber, contrariando la práctica de la gestión educativa anterior.
+D. No asigna puntaje propio a la dimensión Decidir, pese a que la evaluación se rige por dimensiones.
+Respuesta correcta: D
+Explicación: El Art. 29, II, contiene una tabla de "Evaluación del maestro – Dimensiones" con Ser 10, Saber 45 y Hacer 40, más autoevaluación 5 (total 100), sin columna para Decidir; el parágrafo III dispone que la evaluación se realice en el marco del Reglamento de Evaluación del Desarrollo Curricular, por lo que el directivo debe armonizar ambas fuentes.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo IV, Art. 29; página impresa: 20; página PDF: 20.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+37. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] ¿Qué lectura crítica justifica que el POA y el PDC sustituyan al PSP y al PCPA?
+A. Suprime la planificación curricular del maestro, que pasa a ser responsabilidad exclusiva del director.
+B. Unifica la planificación en menos instrumentos, sin perder la convivencia ni la protección integral.
+C. Elimina la convivencia pacífica como objetivo de la gestión educativa de las unidades.
+D. Traslada la planificación institucional a las direcciones distritales del Subsistema.
+Respuesta correcta: B
+Explicación: El Art. 5, II, dispone que el POA y el PDC sustituyen y unifican la intencionalidad del PSP y del PCPA, en el marco de la Ley 548, el D.S. 1302 y el D.S. 1320 (normas de protección), y el Art. 62 ordena desburocratizar evitando informes innecesarios.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Arts. 5 y 62; páginas impresas: 11 y 31; páginas PDF: 11 y 31.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+38. [R.M. 0001/2026 Normas Generales 2026 – DISPOSICIONES FINALES] La Disposición Final Séptima dispone que el POA y su cronograma serán instrumentos imprescindibles para evaluar la gestión del director. ¿Qué consecuencia práctica tiene?
+A. El director queda liberado de cumplir el calendario oficial si su POA establece otras fechas.
+B. El POA se convierte en referente de rendición de cuentas y límite a exigencias externas no planificadas.
+C. Las direcciones distritales pueden añadir libremente actividades extracurriculares al POA.
+D. La evaluación del director depende solo de la opinión de la junta escolar sobre su gestión.
+Respuesta correcta: B
+Explicación: La Disposición Final Séptima prohíbe a las direcciones departamentales y distritales imponer actividades extracurriculares; solo debe exigirse el cumplimiento del POA y su cronograma, instrumentos imprescindibles para evaluar la gestión del director. El Art. 53 no autoriza actividades extracurriculares no contempladas en el POA.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Art. 53 y Disposición Final Séptima; páginas impresas: 28 y 37; páginas PDF: 28 y 37.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+39. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] El Art. 15 dispone que ninguna limitación documental impedirá la inscripción de estudiantes extranjeros, "independientemente del estatus migratorio". ¿Qué principio prevalece?
+A. El acceso y ejercicio del derecho a la educación sobre las formalidades documentales.
+B. La seguridad documental: sin pasaporte vigente no procede ninguna inscripción.
+C. El control migratorio del Estado sobre el derecho de acceso a la educación pública y gratuita.
+D. La reciprocidad: solo se inscribe a extranjeros de países con convenio educativo.
+Respuesta correcta: A
+Explicación: El Art. 15, I, numeral 2, admite documentos del Estado boliviano o del país de origen y, en situación extrema, la Declaración Jurada de Buena Fe, señalando que en ningún caso se limitará el acceso y ejercicio del derecho a la educación, independientemente del estatus migratorio; el Art. 63, III, obliga a inscribir a migrantes y refugiados.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Arts. 15 y 63; páginas impresas: 15 y 31; páginas PDF: 15 y 31.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+40. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] ¿Qué práctica busca erradicar el Art. 40 al prohibir los traslados obligatorios?
+A. Autorizar traslados de hijos de militares y policías fuera del periodo ordinario.
+B. Condicionar la aprobación del año al traslado del estudiante por indisciplina o bajo rendimiento.
+C. Registrar en el SIE los traslados de estudiantes en un plazo mayor a cinco días hábiles.
+D. Permitir traslados de estudiantes vulnerables durante toda la gestión educativa vigente del distrito.
+Respuesta correcta: B
+Explicación: El Art. 40 prohíbe terminantemente condicionar u obligar a los estudiantes o a sus padres a trasladar al estudiante a otra unidad a cambio de la aprobación del año escolar, ya sea por razones de indisciplina o bajo rendimiento escolar.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 40; página impresa: 24; página PDF: 24.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+41. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VI] El Art. 44 obliga a implementar un "ingreso seguro" evitando retener a los estudiantes por llegar tarde. ¿Qué bien prioriza la norma?
+A. La disciplina institucional, permitiendo que el retraso se sancione con el cierre de puertas.
+B. La autoridad de los padres, que deben recoger al estudiante si llega fuera del horario.
+C. La seguridad y el derecho a la educación del estudiante sobre la sanción por impuntualidad.
+D. La puntualidad del maestro, que no debe interrumpir la clase por el ingreso de estudiantes.
+Respuesta correcta: C
+Explicación: El Art. 44 dispone que, para garantizar el desarrollo académico y resguardar la seguridad de los estudiantes, la dirección implemente mecanismos que faciliten el ingreso seguro y oportuno, evitando retener a los estudiantes fuera o al interior de la unidad por llegar tarde.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VI, Art. 44; página impresa: 26; página PDF: 26.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+42. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO IV, CAPÍTULO I] El Art. 76 congela las pensiones durante el periodo de inscripciones y remite a una comisión mixta en abril. ¿Qué lectura crítica corresponde?
+A. Prohíbe definitivamente cualquier incremento de pensiones durante toda la gestión 2026.
+B. Protege a las familias en la inscripción, sin descartar un incremento posterior evaluado técnicamente.
+C. Autoriza a cada unidad privada a fijar libremente su incremento desde el mes de abril.
+D. Delega la fijación de pensiones a las juntas escolares de cada unidad educativa privada.
+Respuesta correcta: B
+Explicación: El Art. 76, I, congela las pensiones durante el periodo de inscripciones y dispone que en abril una comisión mixta (Ministerio de Educación, Ministerio de Economía y Finanzas Públicas y ANDECOP) analice la posibilidad del incremento, considerando la situación económica y la política salarial.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título IV, Capítulo I, Art. 76; página impresa: 35; página PDF: 35.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+43. [R.M. 0001/2026 Normas Generales 2026 – DISPOSICIONES FINALES] La Disposición Final Quinta califica como Declaración Jurada la información generada por las direcciones. ¿Qué implica para un director de unidad educativa?
+A. Que responde por la veracidad de la información, con responsabilidades administrativas y legales.
+B. Que la información solo tiene valor si la ratifica la junta escolar de la unidad.
+C. Que puede corregir la información reportada sin consecuencias hasta fin de gestión.
+D. Que la responsabilidad por la información recae solo en la Dirección Distrital.
+Respuesta correcta: A
+Explicación: La Disposición Final Quinta dispone que la información generada por las direcciones departamentales, subdirecciones, distritales y de unidades educativas se constituye en Declaración Jurada, y que el incumplimiento deriva en responsabilidades según el Reglamento del Escalafón, el de Faltas y Sanciones, la Ley 1178 y la Ley 004.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Disposición Final Quinta; página impresa: 37; página PDF: 37.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+44. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] El Art. 64 obliga a denunciar los actos de violencia, y su parágrafo II dispone que el Ministerio velará por el debido proceso y la presunción de inocencia. ¿Cómo se armonizan ambas reglas?
+A. La presunción de inocencia impide denunciar hasta contar con una sentencia ejecutoriada.
+B. El director debe investigar y sancionar por sí mismo antes de realizar cualquier denuncia.
+C. Se denuncia sin demora, pero el proceso posterior debe respetar las garantías del denunciado.
+D. El deber de denunciar suspende las garantías del denunciado mientras dure la investigación del caso.
+Respuesta correcta: C
+Explicación: El Art. 64, I, obliga a los directores a aplicar el Protocolo y denunciar a las instancias correspondientes los actos de violencia detectados; el parágrafo II, y el Art. 65, I, garantizan el debido proceso y la presunción de inocencia del denunciado.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Arts. 64 y 65; páginas impresas: 31 y 32; páginas PDF: 31 y 32.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+45. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] El Art. 45 prohíbe el uso de celulares en el aula a estudiantes y maestros, mientras el Art. 59 permite medios tecnológicos de apoyo curricular. ¿Cómo se armonizan?
+A. La prohibición del celular alcanza solo a los estudiantes, no a los maestros de aula.
+B. El celular se permite en el aula siempre que el maestro lo autorice para fines personales.
+C. Ambos artículos prohíben cualquier medio tecnológico dentro de la unidad educativa.
+D. La tecnología se admite solo como apoyo al desarrollo curricular; el celular en el aula está prohibido.
+Respuesta correcta: D
+Explicación: El Art. 45 prohíbe terminantemente el uso de celulares en el aula por estudiantes y maestros; el Art. 59, III, dispone que el uso de medios tecnológicos en el aula será exclusivo de apoyo al desarrollo curricular.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Arts. 45 y 59; páginas impresas: 26 y 30; páginas PDF: 26 y 30.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+46. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Una niña cumple seis años el 15 de abril de 2026. ¿Puede inscribirse en primer año de Primaria en la gestión 2026?
+A. No; debe tener seis años cumplidos al 31 de marzo de 2026.
+B. Sí; basta con cumplir seis años durante la gestión 2026.
+C. Sí; basta con cumplir seis años antes del 30 de junio de 2026.
+D. No; la edad exigida para primero de Primaria es de siete años.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 15, III, exige para el primer año de Primaria seis años cumplidos al 31 de marzo de 2026; quien los cumple el 15 de abril no alcanza la edad a la fecha de corte.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 15; página impresa: 16; página PDF: 16.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+47. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Un niño de siete años nunca cursó Inicial. ¿Dónde debe inscribírselo?
+A. En segundo año de Inicial, para completar ese nivel primero.
+B. En un Centro de Educación Alternativa hasta nivelar su edad.
+C. En primer año de Inicial, con autorización de la Distrital.
+D. De manera excepcional y directa en primer año de Primaria.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 15, II, dispone que los estudiantes que por diferentes factores no cursaron Educación Inicial en Familia Comunitaria deberán ser inscritos de manera excepcional y directa al primer año de Educación Primaria Comunitaria Vocacional.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 15; página impresa: 16; página PDF: 16.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+48. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Un estudiante regular no ratifica su inscripción con presencia física de su madre en los primeros días de clase. ¿Hasta cuándo tiene plazo?
+A. Hasta 30 días hábiles desde el inicio de las clases.
+B. Hasta 15 días de iniciado el desarrollo curricular.
+C. Hasta el inicio del segundo trimestre de la gestión.
+D. Hasta el final del periodo de inscripción de enero.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 16, II, dispone que la inscripción de estudiantes regulares en la misma unidad es automática, debiendo ratificarse con la presencia física del estudiante y del padre, madre o tutor hasta 15 días de iniciado el desarrollo curricular.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 16; página impresa: 16; página PDF: 16.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+49. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Un estudiante llega del exterior sin documentos que acrediten su grado. ¿Cómo se determina su año de escolaridad?
+A. En primer año de Primaria, hasta que presente sus libretas debidamente apostilladas y legalizadas.
+B. Según el último grado que declaren sus padres, sin necesidad de evaluación alguna.
+C. Mediante examen de la Dirección Distrital, que asigna el año de forma definitiva.
+D. Según su edad, con evaluación de la Comisión Técnico Pedagógica para un plan de nivelación.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 18, II, dispone que, en caso de no contar con documentos que acrediten el grado o nivel, la asignación será de acuerdo con su edad, debiendo la Comisión Técnico Pedagógica desarrollar la evaluación para elaborar un plan de nivelación según corresponda.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 18; página impresa: 17; página PDF: 17.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+50. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] En agosto llega una adolescente en situación de vulnerabilidad sin libreta. ¿Puede inscribírsela y qué plazo tiene para presentar sus calificaciones?
+A. Sí, pero debe presentar la libreta el mismo día de la inscripción o se anula su registro.
+B. Sí, con un plazo de 90 días calendario para presentar su libreta legalizada por la Distrital.
+C. No; las inscripciones excepcionales solo proceden hasta el inicio del segundo trimestre de la gestión educativa.
+D. Sí; la inscripción es durante toda la gestión y tiene hasta 30 días hábiles para presentar la libreta.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 19, II, dispone que la inscripción de estudiantes vulnerables será durante toda la gestión; el IV, b), da flexibilidad en la presentación de la Libreta, sin exceder 30 días hábiles desde la inscripción provisional (en el tercer trimestre se sigue el conducto regular).
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 19; páginas impresas: 17 y 18; páginas PDF: 17 y 18.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+51. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Una unidad urbana quiere abrir un cuarto paralelo de primero de Secundaria por exceso de demanda. ¿Qué corresponde?
+A. Es posible si se trata de una unidad educativa de alta demanda.
+B. Es posible si la junta escolar financia el ítem del maestro adicional.
+C. No es posible: se prohíbe crear más de tres paralelos por año de escolaridad.
+D. Es posible con un mínimo de veintiún estudiantes y el visto bueno distrital.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 21, III, prohíbe la creación de más de tres (3) paralelos por año de escolaridad en las unidades educativas; el mínimo de 21 estudiantes (I) rige para abrir un nuevo paralelo dentro de ese límite.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 21; páginas impresas: 18 y 19; páginas PDF: 18 y 19.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+52. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Una unidad fiscal necesita abrir un nuevo paralelo. Además del mínimo de estudiantes, ¿qué exige el Art. 21?
+A. Informe de la Comisión Técnico Pedagógica y aval del sindicato de maestros.
+B. Resolución ministerial y certificación de infraestructura del gobierno autónomo municipal.
+C. SICH actualizado, informe técnico distrital y resolución administrativa de la DDE.
+D. Aprobación de la junta escolar y compromiso del municipio de pagar al maestro.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 21, IV, dispone que para la apertura de paralelos en unidades fiscales y de convenio se debe contar con el Sistema de Información de Carga Horaria (SICH) actualizado, informe técnico de la dirección distrital que justifique la necesidad, y aprobación mediante resolución administrativa de la dirección departamental.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 21; página impresa: 19; página PDF: 19.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+53. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Un padre inscribe a su hijo con discapacidad. ¿Qué plazo tiene para presentar la certificación de la discapacidad?
+A. Antes de la inscripción, como requisito previo para la matrícula del estudiante nuevo.
+B. Hasta el final de la gestión, junto con la Libreta Escolar Electrónica del año.
+C. Durante el segundo trimestre, con aval de la Comisión Técnico Pedagógica.
+D. Durante el primer trimestre, debidamente certificada por la instancia competente.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 34, II, dispone que el padre, madre o tutor presente durante el primer trimestre la documentación certificada por la instancia competente que acredite la discapacidad; el Art. 20 prohíbe rechazar estudiantes por discapacidad.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 34; página impresa: 22; página PDF: 22.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+54. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Un estudiante con discapacidad muy grave no puede asistir a la unidad. ¿Qué opción ofrece el programa "Educación Sociocomunitaria en Casa"?
+A. Que reciba clases virtuales grabadas, sin necesidad de inscripción en ninguna unidad educativa del sistema.
+B. Que un maestro acuda a su domicilio, con inscripción simultánea en un CEE y en una unidad regular.
+C. Que asista solo a las evaluaciones trimestrales en la unidad, con un acompañante autorizado.
+D. Que los padres impartan la enseñanza y la unidad valide sus avances al cierre de la gestión.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 34, III, b), prevé el Programa "Educación Sociocomunitaria en Casa" (D.S. 2950), en el que un maestro acude al domicilio; el padre debe inscribir al estudiante en un centro de educación especial y simultáneamente en una unidad regular para la emisión de la Libreta, sin asistencia presencial.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 34; página impresa: 22; página PDF: 22.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+55. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Un maestro detecta características de talento extraordinario en un estudiante. ¿Cuál es el conducto previsto en el Art. 20?
+A. Remitir directamente al estudiante a un centro de educación especial sin informar al director.
+B. Informar a la junta escolar, que solicita la evaluación al Gobierno Autónomo Municipal.
+C. Promover al estudiante al año superior por decisión de la Comisión Técnico Pedagógica.
+D. Informar al director, quien remite el informe a la Subdirección de Alternativa y Especial para derivación.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 20, II, dispone que el maestro informe al director, quien remite el informe a la Subdirección de Educación Alternativa y Especial para su derivación a un centro de educación especial o equipo multidisciplinario de la DDE, donde se realiza la evaluación psicopedagógica integral.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 20; página impresa: 18; página PDF: 18.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+56. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Una madre inscribe a su hijo con Trastorno del Espectro Autista. ¿Qué debe presentar durante el primer trimestre?
+A. Una declaración jurada de que el estudiante no requiere apoyo especializado.
+B. Un informe profesional con recomendaciones para mejorar su atención educativa.
+C. Un compromiso de inscribirlo en un centro de educación especial exclusivamente.
+D. Un certificado de discapacidad emitido por la Dirección Distrital Educativa.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 37 dispone que todos los estudiantes con TEA sean inscritos sin restricción, pudiendo inscribirse simultáneamente en centros de educación especial, y que el padre, madre o tutor presente durante el primer trimestre un informe profesional con recomendaciones pertinentes para mejorar su atención.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 37; página impresa: 23; página PDF: 23.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+57. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VII] Un maestro organiza una excursión con su curso. ¿Qué autorizaciones requiere?
+A. Solo la autorización escrita de los padres, que asumen toda responsabilidad del viaje.
+B. La de la junta escolar y la del gobierno municipal, que financia el transporte escolar.
+C. Del director de la unidad y del director distrital, y la autorización escrita de los padres.
+D. Solo la del director de la unidad, porque la excursión es una actividad interna del propio curso.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 46 dispone que las excursiones, viajes de servicio social o actividades deportivas deban tener la autorización del director de la unidad y del director distrital, contribuir a los logros de aprendizaje, y que el estudiante cuente con la autorización escrita del padre, madre o tutor.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VII, Art. 46; página impresa: 26; página PDF: 26.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+58. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VII] Los estudiantes de sexto de Secundaria proponen un viaje de promoción a otro departamento. ¿Qué responde el director?
+A. Que procede si se programa en el descanso pedagógico de invierno.
+B. Que procede si se presenta como viaje de intercambio en el POA.
+C. Que procede con autorización distrital y permiso escrito de padres.
+D. Que los viajes de promoción están terminantemente prohibidos.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 47 dispone que quedan terminantemente prohibidos los viajes de promoción; los viajes de intercambio cultural (Art. 48) requieren un plan de actividades programado en el POA y fines interculturales, por lo que no pueden usarse para encubrir un viaje de promoción.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VII, Arts. 47 y 48; página impresa: 26; página PDF: 26.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+59. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO IV, CAPÍTULO I] Una unidad privada quiere cobrar, además de las pensiones, un monto por "material educativo". ¿Qué dispone el Art. 76?
+A. Está prohibido cualquier cobro adicional a las diez pensiones anuales, incluido el material educativo.
+B. Está permitido solo para estudiantes nuevos, como parte del derecho de inscripción anual.
+C. Está permitido si el cobro se incluye en el contrato y se aprueba por la junta escolar de la unidad educativa.
+D. Está permitido hasta un monto equivalente a una pensión mensual por cada gestión educativa.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 76, II, prohíbe terminantemente a las unidades privadas cualquier cobro adicional a las diez (10) pensiones anuales, sea por reserva de plaza, matrícula o derecho de inscripción, material educativo, gastos administrativos u otros, lo cual debe contemplarse en los contratos.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título IV, Capítulo I, Art. 76; página impresa: 35; página PDF: 35.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+60. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO IV, CAPÍTULO I] Una unidad privada debe definir su régimen de becas por excelencia. ¿Qué mínimo exige el Art. 78?
+A. Beca del 50% al mejor estudiante de cada curso de Primaria y de Secundaria de la unidad.
+B. Beca del 100% al mejor estudiante de toda la unidad, elegido por la junta escolar.
+C. Beca del 25% a los cinco mejores estudiantes de Secundaria, según el promedio del último trimestre.
+D. Beca del 100% a los tres mejores estudiantes de Primaria y a los tres mejores de Secundaria.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 78, I, exige becas del 100% de la mensualidad a los tres (3) mejores estudiantes de Primaria y a los tres (3) mejores de Secundaria; el parágrafo II toma el promedio anual de la gestión anterior, y el III exige becas a partir del tercer hermano, previo estudio socioeconómico.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título IV, Capítulo I, Art. 78; página impresa: 36; página PDF: 36.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+61. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO IV, CAPÍTULO I] Una unidad privada quiere contratar como docente a un ingeniero con título universitario. ¿Qué exige el Art. 79?
+A. Título universitario y aprobación de la junta escolar de la unidad.
+B. Únicamente Título Profesional de Maestro otorgado por el Ministerio.
+C. Título universitario o técnico superior y experiencia en el ámbito educativo.
+D. Título universitario y un curso de pedagogía aprobado por la Dirección Distrital.
+Respuesta correcta: C
+Explicación: El Art. 79 dispone que para ser docente de una unidad privada se requiere Título Profesional de Maestro otorgado por el Ministerio, o título universitario y/o de Técnico Superior de otras profesiones y experiencia en el ámbito educativo.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título IV, Capítulo I, Art. 79; página impresa: 36; página PDF: 36.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+62. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO IV, CAPÍTULO I] Una unidad privada impide a un estudiante rendir su evaluación trimestral porque sus padres adeudan tres pensiones. ¿Cómo se califica esta medida?
+A. Está permitida a partir de la tercera pensión impaga, con aviso previo a la Distrital.
+B. Está permitida si el contrato de servicios lo prevé expresamente y fue firmado por los padres.
+C. Está permitida solo en el tercer trimestre, para asegurar el cobro antes del cierre.
+D. Está prohibida: no se puede excluir de evaluaciones por retraso en el pago de pensiones.
+Respuesta correcta: D
+Explicación: El Art. 77, I, prohíbe en unidades privadas suspender, expulsar y excluir a estudiantes de clases, evaluaciones o cualquier actividad curricular por retraso en el pago de pensiones; el Art. 76, III, dispone que los padres incumplidos regularicen el pago con la unidad.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título IV, Capítulo I, Arts. 76 y 77; páginas impresas: 35 y 36; páginas PDF: 35 y 36.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+63. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO IV, CAPÍTULO I] Al cierre de gestión, una unidad privada se niega a entregar la Libreta de un estudiante. ¿Qué puede hacer la Dirección Distrital?
+A. Previa verificación del incumplimiento, emitir la Libreta y proceder a la sanción que corresponda.
+B. Remitir el caso al Ministerio, única instancia que puede emitir Libretas de unidades privadas.
+C. Solo exhortar a la unidad privada, pues carece de competencia para emitir la Libreta del estudiante.
+D. Ordenar a los padres pagar la deuda pendiente como condición para emitir la Libreta.
+Respuesta correcta: A
+Explicación: El Art. 77, II, dispone que, en caso de que la unidad privada no entregue la Libreta Escolar Electrónica, la dirección distrital educativa, previa verificación del incumplimiento, podrá emitir la misma y procederá a la sanción que corresponda.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título IV, Capítulo I, Art. 77; página impresa: 36; página PDF: 36.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+64. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Una maestra conoce que un estudiante fue víctima de abuso sexual. ¿Ante qué instancias debe denunciar de forma inmediata?
+A. Ante el director, quien decide al cierre del trimestre si corresponde denunciar.
+B. Ante la junta escolar y la Dirección Distrital, para que decidan si denunciar.
+C. Ante la Comisión Técnico Pedagógica, para su valoración previa a la denuncia.
+D. Ante la Defensoría de la Niñez y Adolescencia, la Fiscalía o la FELCC.
+Respuesta correcta: D
+Explicación: El Art. 65, I, dispone que quienes conozcan casos de violación, estupro, abuso deshonesto, acoso sexual y otros delitos sexuales contra estudiantes tienen la obligación de denunciar de forma inmediata ante la Defensoría de la Niñez y Adolescencia, la Fiscalía o la Fuerza Especial de Lucha Contra el Crimen, conforme al Protocolo.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 65; página impresa: 32; página PDF: 32.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+65. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Conocido un caso de abuso sexual contra un estudiante por parte de un maestro, ¿qué debe hacer la Dirección Distrital en el ámbito administrativo?
+A. Remitir el caso a la junta escolar para que proponga la sanción administrativa aplicable.
+B. Iniciar el proceso sumarial a los responsables conforme al Reglamento de Faltas y Sanciones.
+C. Trasladar al maestro a otra unidad educativa del distrito para evitar mayores conflictos.
+D. Esperar la sentencia penal antes de iniciar cualquier actuación administrativa disciplinaria.
+Respuesta correcta: B
+Explicación: El Art. 65, III, dispone que la dirección distrital, una vez conocido el hecho, inicie el proceso sumarial a los responsables en el marco del Reglamento de Faltas y Sanciones del Magisterio; el parágrafo II asigna a las unidades jurídicas de las DDE representar a las distritales en el seguimiento de los procesos.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 65; página impresa: 32; página PDF: 32.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+66. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Una estudiante de quinto de Secundaria informa que está embarazada y un grupo de padres pide su retiro. ¿Qué debe hacer el director?
+A. Sugerir a la familia su traslado a otra unidad educativa para evitar conflictos con los padres.
+B. Rechazar el pedido, brindarle apoyo para que continúe sus estudios y aplicar el reglamento específico.
+C. Convocar a la junta escolar para que decida su permanencia mediante votación de padres.
+D. Suspender su asistencia presencial y evaluarla a distancia hasta el nacimiento del bebé.
+Respuesta correcta: B
+Explicación: El Art. 67 prohíbe rechazar o expulsar a estudiantes embarazadas, debiendo brindarles apoyo para garantizar la continuidad y culminación de sus estudios, y obliga al director a socializar, cumplir y hacer cumplir el Reglamento de Prevención de Embarazos y Parentalidades Tempranas; el Art. 63, II, prohíbe rechazar a adolescentes embarazadas.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Arts. 63 y 67; páginas impresas: 31, 32 y 33; páginas PDF: 31, 32 y 33.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+67. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Un dirigente político pide al director que los estudiantes participen en una marcha de protesta. ¿Qué dispone la norma?
+A. Está prohibido obligar a los estudiantes a participar en movilizaciones, bajo sanción.
+B. Es posible si se realiza fuera del horario de clases y con un maestro responsable del curso.
+C. Es posible si la junta escolar aprueba la participación en asamblea de padres.
+D. Es posible si la movilización defiende intereses del sector educativo nacional.
+Respuesta correcta: A
+Explicación: El Art. 71 prohíbe terminantemente que directores, maestros, padres y autoridades políticas obliguen a los estudiantes a participar en movilizaciones de protesta, reclamos o actos políticos; los infractores serán sancionados conforme al Reglamento de Faltas y Sanciones y otras normas.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 71; página impresa: 34; página PDF: 34.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+68. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] La junta escolar pide a los padres una cuota para el agasajo del Día del Maestro. ¿Qué corresponde según el Art. 70?
+A. Es válido si el director autoriza el aporte y supervisa su rendición de cuentas.
+B. Es válido si la cuota es voluntaria y aprobada por la mayoría de los padres.
+C. Es válido solo para festejos oficiales incluidos en el calendario del Ministerio de Educación.
+D. Está prohibido solicitar aportes para festejos, agasajos u otros gastos innecesarios.
+Respuesta correcta: D
+Explicación: El Art. 70, III, prohíbe a la Junta Escolar de Padres y Madres de Familia o Consejo Educativo Social Comunitario solicitar a los padres o tutores aportes para festejos, agasajos u otros gastos innecesarios.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 70; página impresa: 33; página PDF: 33.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+69. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Un padre se presenta en horario de clases para hablar con un maestro dentro del aula, sin previo aviso. ¿Qué dispone la norma?
+A. Se prohíbe su ingreso en todo momento, incluso fuera del horario de clases de la unidad.
+B. Puede ingresar si es miembro de la junta escolar o del consejo educativo social comunitario.
+C. Se prohíbe el ingreso en horas de clases, salvo autorización del director en situaciones justificadas.
+D. Puede ingresar libremente, porque la participación de los padres está garantizada por ley.
+Respuesta correcta: C
+Explicación: El Art. 70, II, prohíbe el ingreso de padres, madres, tutores y personas ajenas a la unidad en hora de clases, salvo previa autorización del director y en situaciones plenamente justificadas.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 70; página impresa: 33; página PDF: 33.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+70. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Se denuncia que una unidad fiscal rechazó la inscripción de una niña porque su padre está privado de libertad. ¿Cómo se califica el hecho?
+A. Es válido si la unidad no tiene cupos disponibles en el año de escolaridad solicitado.
+B. Es una conducta terminantemente prohibida por la norma de medidas no discriminatorias.
+C. Es una falta leve que se subsana inscribiendo a la niña en el trimestre siguiente.
+D. Es válido si la junta escolar lo decidió por razones de seguridad de la comunidad.
+Respuesta correcta: B
+Explicación: El Art. 63, II, prohíbe terminantemente rechazar la inscripción de niñas, niños o adolescentes de madres o padres solteros, divorciados o privados de libertad, o por cualquier otra condición social; el Art. 19 obliga a atender prioritariamente a estudiantes en desventaja social.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 63; página impresa: 31; página PDF: 31.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+71. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO II] Un estudiante rompió intencionalmente un pupitre. ¿Quién debe reponerlo según el Art. 56?
+A. El director, con recursos de la unidad educativa.
+B. El padre, madre, tutor o el propio estudiante.
+C. El maestro de aula, por falta de supervisión.
+D. El Gobierno Municipal, como dotador del mobiliario.
+Respuesta correcta: B
+Explicación: El Art. 56, IV, dispone que, si el bien es dañado intencionalmente o por uso inadecuado, será responsabilidad del padre, madre, tutor o el propio estudiante reponer los bienes dañados; el director, maestros y personal deben garantizar su cuidado y conservación.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo II, Art. 56; página impresa: 29; página PDF: 29.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+72. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO II] Una unidad comparte infraestructura con un Centro de Educación Alternativa y decide cerrar con llave los baños por la tarde. ¿Qué dispone el Art. 56?
+A. Está prohibido cerrar ambientes comunes; ambos asumen iguales derechos y responsabilidades.
+B. Es válido si la unidad regular es la propietaria registrada de la infraestructura.
+C. Es válido si el Centro no aporta al mantenimiento de los ambientes comunes.
+D. Es válido si la Dirección Distrital autoriza el horario de cierre de baños.
+Respuesta correcta: A
+Explicación: El Art. 56, II, dispone que los actores de unidades que comparten ambientes y mobiliario con centros de educación alternativa y especial asumen los mismos derechos y responsabilidades de uso y cuidado, quedando prohibido el cierre de ambientes comunes como baños, patios y otros.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo II, Art. 56; página impresa: 29; página PDF: 29.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+73. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VI] Durante la clase, un maestro revisa constantemente su celular. ¿Qué disposición incumple?
+A. Ninguna, si el maestro usa el celular para comunicarse con la Dirección.
+B. La norma de uso de laboratorios, que prohíbe dispositivos electrónicos.
+C. La prohibición de usar celulares en el aula, que alcanza a estudiantes y maestros.
+D. Ninguna, porque la prohibición de celulares alcanza solo a los estudiantes de la unidad.
+Respuesta correcta: C
+Explicación: El Art. 45 dispone que queda terminantemente prohibido el uso de celulares en el aula por parte de estudiantes y maestros.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VI, Art. 45; página impresa: 26; página PDF: 26.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+74. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] En una unidad nocturna, un año de escolaridad con un solo paralelo tiene ocho estudiantes. ¿Cumple el mínimo del Art. 23?
+A. Sí; las unidades nocturnas no tienen un número mínimo de estudiantes por año.
+B. No; el mínimo en unidades nocturnas es de diez estudiantes con un solo paralelo.
+C. Sí; el mínimo en unidades nocturnas es de cinco estudiantes por año de escolaridad.
+D. No; el mínimo en unidades nocturnas es de veintiún estudiantes por paralelo.
+Respuesta correcta: B
+Explicación: El Art. 23, IV, dispone que en unidades nocturnas el número mínimo por año de escolaridad será de diez (10) estudiantes, siempre y cuando exista un solo paralelo.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 23; página impresa: 19; página PDF: 19.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+75. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Un estudiante extranjero llega sin ningún documento de identidad y su madre teme no poder inscribirlo. ¿Qué responde el director?
+A. Que la falta de documentos no impide la inscripción y, en casos extremos, se admite la Declaración Jurada de Buena Fe.
+B. Que puede asistir como oyente, sin registro en el SIE, hasta que presente su documentación completa.
+C. Que debe inscribirlo en un Centro de Educación Alternativa, porque Regular exige documento de identidad.
+D. Que debe regularizar primero su situación migratoria ante la autoridad competente para inscribirlo.
+Respuesta correcta: A
+Explicación: El Art. 15, I, numeral 2, dispone que la no existencia de documentos de identidad no impedirá la inscripción; en casos de situación extrema se acepta la Declaración Jurada de Buena Fe adjunta al RUDE, y en ningún caso se limita el derecho a la educación por el estatus migratorio; el Art. 12, VII, prevé la firma de la declaración jurada por el padre.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Arts. 12 y 15; páginas impresas: 14 y 15; páginas PDF: 14 y 15.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+76. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Una estudiante vulnerable se retira en septiembre por migración de su familia. ¿Qué debe entregar la unidad?
+A. Nada, porque el retiro antes de culminar la gestión anula su registro en el SIE.
+B. Únicamente la Libreta del último trimestre concluido, sin ningún informe adicional.
+C. Un informe que acredite sus estudios hasta el último día, que acompaña a la Libreta del trimestre.
+D. Un certificado de retiro que la inhabilita para inscribirse en la misma gestión.
+Respuesta correcta: C
+Explicación: El Art. 19, IV, e), dispone que, en caso de estudiante extranjero o en situación de vulnerabilidad que se retire durante o antes de culminar la gestión, la unidad entregue un informe que acredite sus estudios hasta el último día de permanencia, que acompañará a la Libreta Escolar Electrónica hasta el trimestre que corresponde.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 19; página impresa: 18; página PDF: 18.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+77. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Una unidad fiscal ubicada en una avenida de alto tránsito no cuenta con resguardo policial en la salida de clases. ¿Qué debe hacer la dirección?
+A. Coordinar con la junta escolar y solicitar a la Policía personal de resguardo en ingreso y salida.
+B. Solicitar a la Dirección Distrital el cambio de ubicación de la unidad educativa.
+C. Contratar seguridad privada con aportes obligatorios de los padres de familia de la unidad.
+D. Prolongar la jornada hasta que los padres recojan personalmente a todos los estudiantes.
+Respuesta correcta: A
+Explicación: El Art. 72, I, dispone que las direcciones de unidades ubicadas en zonas urbanas de alto tránsito o poca iluminación coordinen con las juntas escolares y consejos educativos para solicitar a la Policía Boliviana personal de resguardo en horarios de ingreso y salida, y con el GAM la instalación de señalización y otros.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 72; página impresa: 34; página PDF: 34.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+78. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Durante un acto cívico en la unidad, algunos asistentes consumen bebidas alcohólicas. ¿Quién es responsable de hacer cumplir la prohibición?
+A. El director distrital de educación.
+B. El maestro que organizó el acto cívico.
+C. El director de la unidad educativa.
+D. El presidente de la junta escolar.
+Respuesta correcta: C
+Explicación: El Art. 56, III, prohíbe a la comunidad educativa el consumo de tabaco, bebidas alcohólicas y estupefacientes en instalaciones e inmediaciones de las unidades, en actos cívicos, académicos y otros, siendo el director de la unidad educativa el responsable de su cumplimiento.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo II, Art. 56; página impresa: 29; página PDF: 29.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+79. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Un director sugiere a una madre trasladar a su hijo a otra unidad "para que apruebe el año", por su mal comportamiento. ¿Qué disposición vulnera?
+A. La obligación de reportar a todos los estudiantes al SIE sin duplicidades.
+B. La prohibición de usar celulares en el aula durante el desarrollo de las clases.
+C. La prohibición de condicionar u obligar traslados a cambio de la aprobación del año escolar.
+D. La prohibición de fusionar niveles después del primer trimestre de la gestión.
+Respuesta correcta: C
+Explicación: El Art. 40 prohíbe terminantemente condicionar u obligar a estudiantes o padres a trasladar al estudiante a otra unidad a cambio de la aprobación del año escolar, ya sea por indisciplina o bajo rendimiento escolar.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 40; página impresa: 24; página PDF: 24.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+80. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Una unidad fiscal no cuenta con cámaras de vigilancia. ¿Qué gestión obligatoria debe realizar su dirección?
+A. Gestionar ante el Gobierno Autónomo Municipal la instalación de cámaras de vigilancia.
+B. Comprar las cámaras con aportes extraordinarios de los padres de familia de todos los cursos.
+C. Esperar que la Dirección Departamental instale las cámaras en todas las unidades.
+D. Solicitar a la Policía Boliviana la instalación y el monitoreo de las cámaras.
+Respuesta correcta: A
+Explicación: El Art. 72, II, dispone que las direcciones de unidades fiscales y de convenio gestionen de manera obligatoria ante los Gobiernos Autónomos Municipales la instalación de cámaras de vigilancia, en cumplimiento de la Ley del Sistema Nacional de Seguridad Ciudadana.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 72; página impresa: 34; página PDF: 34.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO II] Una contingencia climática obliga a suspender clases dos semanas en un distrito. ¿Qué decisión corresponde respecto de la conclusión de la gestión?
+A. Se suprime el descanso pedagógico de invierno sin otra modificación.
+B. Se reduce el calendario a ciento ochenta días hábiles en ese distrito.
+C. Se modifica la fecha de conclusión hasta cumplir los doscientos días hábiles.
+D. Se mantiene el 2 de diciembre y los días perdidos se dan por cumplidos sin recuperación.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 3 dispone que, en caso de presentarse alguna contingencia, se modificará la fecha de conclusión de la gestión educativa hasta cumplir los doscientos (200) días hábiles; el Art. 4, II y III, permite adecuaciones regionales del calendario por eventos climáticos.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo II, Arts. 3 y 4; páginas impresas: 9 y 10; páginas PDF: 9 y 10.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VIII] La Dirección Distrital solicita a una unidad participar en una feria no prevista en su POA. ¿Qué decisión puede adoptar el director?
+A. Reemplazar dos días de clases por la feria y compensarlos en el descanso pedagógico.
+B. Participar si la junta escolar aprueba el gasto, aunque la actividad no figure en el POA.
+C. Abstenerse, porque solo es exigible el cumplimiento del POA y no se autorizan extracurriculares fuera de él.
+D. Participar obligatoriamente, porque toda instrucción distrital prevalece sobre el POA de la unidad.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 53 no autoriza actividades extracurriculares salvo las contempladas en el POA, a fin de cumplir los 200 días; la Disposición Final Séptima prohíbe a las direcciones departamentales y distritales imponer actividades extracurriculares, debiendo exigir solo el cumplimiento del POA.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Art. 53 y Disposición Final Séptima; páginas impresas: 28 y 37; páginas PDF: 28 y 37.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Al cierre de la inscripción, el director detecta dos códigos RUDE para un mismo estudiante. ¿Qué decisión debe tomar?
+A. Delegar la corrección a los padres, responsables exclusivos de los datos del formulario RUDE.
+B. Esperar a que el sistema elimine automáticamente el código más reciente en el siguiente trimestre de la gestión.
+C. Mantener ambos códigos hasta el fin de gestión para no afectar el registro de calificaciones.
+D. Corregir la inconsistencia de inmediato, pues responde por la inscripción correcta y puede ser sancionado.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 17 dispone que es de entera responsabilidad del director garantizar la inscripción correcta para evitar inconsistencias como duplicidad de RUDE, y que en caso de generarse, los responsables serán pasibles de sanción; el Art. 12, VI, le exige evitar duplicidades.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Arts. 12 y 17; páginas impresas: 14 y 16; páginas PDF: 14 y 16.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Una madre de un estudiante en desventaja social solicita su inscripción a mitad de gestión. ¿Qué decisión inicial debe tomar el director?
+A. Atenderlo de manera prioritaria y elaborar un informe del estado de situación del estudiante.
+B. Derivarlo a la Dirección Distrital para que lo asigne a otra unidad con cupos disponibles.
+C. Inscribirlo solo como oyente, sin registro en el SIE, hasta que complete sus documentos.
+D. Postergar la inscripción hasta el inicio de la siguiente gestión, por estar fuera del plazo ordinario.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 19, I y II, dispone que los directores atiendan de manera prioritaria a los estudiantes en situación de desventaja social o vulnerabilidad, realizando un informe del estado de situación, y que su inscripción sea durante toda la gestión y sin discriminación.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 19; página impresa: 17; página PDF: 17.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VIII] Tras la evaluación del primer trimestre, varios estudiantes muestran bajo logro en lectura. ¿Qué decisión pedagógica exige la norma a los maestros?
+A. Programar clases de recuperación pagadas por los padres fuera del horario de la unidad.
+B. Desarrollar periódicamente actividades de recuperación y reforzamiento dentro de su carga horaria.
+C. Esperar el cierre de gestión para decidir la retención de los estudiantes con bajo logro.
+D. Reducir los contenidos del segundo trimestre para facilitar la aprobación de todos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 50 dispone que, a partir de las evaluaciones, los maestros desarrollen periódicamente actividades de recuperación y reforzamiento de los aprendizajes durante la gestión, en los horarios correspondientes a su carga horaria; el Art. 52 prioriza la lectura en papel y la escritura a mano.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VIII, Arts. 50 y 52; páginas impresas: 27 y 28; páginas PDF: 27 y 28.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Un director detecta un caso de violencia física de un estudiante hacia otro. ¿Qué marco de actuación debe aplicar?
+A. El Protocolo de Prevención, Actuación y Denuncia en casos de Violencia, denunciando lo detectado.
+B. La decisión de la junta escolar, que define si el caso amerita alguna medida o denuncia.
+C. El Reglamento de Evaluación, reduciendo la nota del Ser del estudiante agresor.
+D. El reglamento interno exclusivamente, sin comunicar el caso a ninguna instancia externa.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 64, I, dispone que los directores den a conocer, socialicen y apliquen el Protocolo de Prevención, Actuación y Denuncia en casos de Violencia Física, Psicológica y Sexual y la Guía sobre violencia intrafamiliar, debiendo denunciar a las instancias correspondientes los actos de violencia detectados.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 64; página impresa: 31; página PDF: 31.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO III] Al planificar la gestión 2027, ¿qué insumo obligatorio deben considerar el director y la Dirección Distrital?
+A. Los resultados de la auditoría financiera de la junta escolar.
+B. El ranking de unidades elaborado por la Dirección Departamental.
+C. Las preferencias de los padres expresadas en una encuesta anual de satisfacción.
+D. Las conclusiones de la evaluación institucional de la gestión 2026.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 61, II, dispone que las direcciones distritales y las direcciones de unidades educativas son responsables de tomar en cuenta las conclusiones de la evaluación institucional para la planificación de la gestión educativa siguiente.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo III, Art. 61; página impresa: 30; página PDF: 30.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO III] ¿Qué decisión debe tomar el director respecto del archivo de la documentación de los estudiantes?
+A. Entregar los documentos a los padres al finalizar cada gestión educativa.
+B. Mantener archivos impresos actualizados y digitales cuando corresponda.
+C. Conservar solo archivos digitales y destruir los impresos cada gestión.
+D. Remitir todos los documentos a la Distrital y no conservar copias propias.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 60, I, dispone que los directores de unidades fiscales, privadas y de convenio mantengan archivos digitales cuando correspondan e impresos actualizados de toda la documentación presentada por los padres, para trámites de estudiantes antiguos y nuevos y de los procesos educativos; la auditoría interna de la DDE puede verificarla (II).
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo III, Art. 60; página impresa: 30; página PDF: 30.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO IV] Un director debe reportar a los estudiantes candidatos al Incentivo al Bachiller Destacado. ¿Con quién coordina y dónde reporta?
+A. Coordina con la Dirección Distrital, que es la única que reporta al Ministerio.
+B. Coordina con la junta escolar y reporta a la Dirección Departamental mediante nota escrita formal.
+C. Coordina con la Comisión Técnico Pedagógica y reporta al SIE en los plazos establecidos.
+D. Coordina con los padres de familia y reporta al Ministerio de Economía y Finanzas.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 32 dispone que los directores, en coordinación con la Comisión Técnico Pedagógica, son responsables de reportar la información de los estudiantes destacados al SIE de manera oportuna y en los plazos establecidos por el Ministerio, conforme al Reglamento del Incentivo.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo IV, Art. 32; página impresa: 21; página PDF: 21.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO V] Un estudiante boliviano regresa tras cursar estudios en otro país. ¿Qué instrumento deben aplicar las direcciones para su inscripción?
+A. Un examen de suficiencia elaborado por cada maestro de área de la unidad educativa receptora.
+B. Una resolución ministerial individual que homologue cada uno de sus certificados.
+C. La Tabla de Equivalencias aprobada en el marco del Convenio Andrés Bello y MERCOSUR.
+D. La edad del estudiante como único criterio, sin considerar los estudios cursados.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 33 dispone que, para estudiantes extranjeros y bolivianos que estudiaron en el exterior, las direcciones de unidades, distritales y departamentales se acojan a la Tabla de Equivalencias aprobada en el marco del Convenio Andrés Bello y MERCOSUR para proceder a su inscripción.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo V, Art. 33; página impresa: 21; página PDF: 21.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VI] Al definir la política institucional sobre el uniforme escolar, ¿qué orientación estratégica se ajusta a la norma?
+A. Delegar la decisión a la Dirección Distrital, competente para fijar uniformes escolares.
+B. Exigirlo con un proveedor exclusivo para garantizar la uniformidad de color y diseño.
+C. Exigirlo desde el primer día, impidiendo el ingreso a quienes no lo porten correctamente.
+D. Adoptarlo solo con consenso de la comunidad, sin que su falta impida el ingreso a clases.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 43 dispone que el uniforme no es obligatorio ni impide el ingreso, que las unidades que opten por su uso deben hacerlo en coordinación y con el consenso de la comunidad educativa, y que está prohibido exigir su compra en un lugar determinado o exclusivo.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VI, Art. 43; página impresa: 25; página PDF: 25.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO I] En un pueblo indígena cuya lengua está en riesgo de extinción se produce una acefalía docente. ¿Qué criterio estratégico de designación prevé la norma?
+A. Priorizar la designación directa de un maestro hablante de la lengua originaria del contexto.
+B. Cerrar el paralelo hasta contar con un maestro titulado en la especialidad requerida.
+C. Designar al maestro con mayor antigüedad del distrito, sin considerar la lengua del contexto.
+D. Convocar a concurso abierto nacional y adjudicar al maestro con mejor puntaje académico.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 55, I, dispone que para los Pueblos Indígena Originario Campesinos y Afrobolivianos cuya lengua se encuentra en riesgo de extinción se priorice la designación directa del maestro hablante de la lengua originaria del contexto, en el marco de la Ley de Protección a Naciones y Pueblos Indígenas en situación de alta vulnerabilidad.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo I, Art. 55; página impresa: 28; página PDF: 28.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO II, CAPÍTULO III] Desde una gestión orientada a la eficiencia, ¿qué mandato del Art. 62 debe guiar a todas las instancias de la administración educativa?
+A. Centralizar todos los trámites en el Ministerio para uniformar los procedimientos.
+B. Exigir reportes semanales a las unidades para mejorar la calidad de la información.
+C. Incrementar los informes de control para asegurar la supervisión permanente de las unidades educativas.
+D. Simplificar y agilizar trámites, evitar informes innecesarios e incorporar la digitalización.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 62 dispone que la administración educativa, en todas sus instancias, simplifique y agilice trámites, mejore la eficacia, eficiencia y celeridad, comunique los instructivos con anticipación, evite informes y reportes innecesarios e incorpore la digitalización de documentos, desburocratizando también el proceso pedagógico.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título II, Capítulo III, Art. 62; página impresa: 31; página PDF: 31.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO III] Al planificar su gestión, ¿qué estrategia deben implementar las direcciones distritales respecto de la población no escolarizada?
+A. Esperar a que los padres acudan voluntariamente a inscribir a sus hijos en el periodo regular de inscripción.
+B. Identificar a estudiantes no escolarizados y promover su inscripción en las unidades educativas.
+C. Derivar a toda la población no escolarizada a Centros de Educación Alternativa del distrito.
+D. Registrar a esa población como abandono escolar en el SIE sin otras acciones adicionales.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 19, VI, dispone que las direcciones distritales establezcan e implementen estrategias para identificar a estudiantes que no están escolarizados y promover su inscripción en las unidades educativas, garantizando el derecho a la educación.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo III, Art. 19; página impresa: 18; página PDF: 18.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] En la planificación institucional, ¿qué mecanismo integral para población vulnerable deben aplicar las unidades fiscales y de convenio respecto de estudiantes trabajadores?
+A. Inscripción condicionada a la presentación de un contrato laboral firmado por su empleador actual.
+B. Exoneración de la asistencia y promoción automática al año de escolaridad siguiente.
+C. Traslado obligatorio a turnos nocturnos sin considerar su edad ni su situación laboral.
+D. Tolerancia excepcional de horario y calendario y adaptaciones curriculares a sus necesidades.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 38, II, a), dispone como mecanismo de flexibilidad curricular conceder tolerancia excepcional de horario y calendario a estudiantes trabajadores (NNAT) y a quienes se trasladan temporalmente con sus progenitores por motivos laborales, e implementar adaptaciones curriculares ajustadas a sus necesidades.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 38; página impresa: 23; página PDF: 23.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO VIII] Al diseñar el PDC institucional, ¿qué procesos deben desarrollar los maestros en todas sus actividades según el Art. 51?
+A. Pensamiento lógico matemático, lectura y escritura, pensamiento científico y creatividad.
+B. Emprendimiento comercial, competencias digitales, idiomas extranjeros y deportes.
+C. Memorización de contenidos, disciplina, puntualidad y presentación personal.
+D. Preparación para exámenes de ingreso universitario y olimpiadas científicas.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 51, II, dispone que los maestros desarrollen en todas sus actividades procesos de pensamiento lógico matemático, capacidades comunicativas (lectura y escritura), pensamiento científico e investigación y desarrollo de la creatividad, integrados en la planificación de desarrollo curricular (III).
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo VIII, Art. 51; página impresa: 27; página PDF: 27.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO I, CAPÍTULO IV] Para profundizar la interculturalidad y el bilingüismo en el currículo regionalizado, ¿con qué instancias pueden coordinar las direcciones?
+A. Con el IPELC, los Institutos de Lenguas y Culturas, los GAM o los GAIOC.
+B. Con las universidades privadas y las embajadas de países con convenio.
+C. Con el Ministerio de Culturas y las federaciones deportivas regionales.
+D. Con las juntas escolares y los sindicatos de maestros de cada distrito educativo.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 30, I, dispone que las direcciones de unidades, distritales y departamentales garanticen la conclusión, actualización y armonización de los currículos regionalizados y, para profundizar la interculturalidad y/o el bilingüismo, coordinen con el IPELC, los ILC, los GAM o los GAIOC.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título I, Capítulo IV, Art. 30; página impresa: 21; página PDF: 21.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Para garantizar la Alimentación Complementaria Escolar durante 2026, ¿con quiénes debe coordinar el director?
+A. Únicamente con el portero de la unidad, responsable del quiosco de alimentos.
+B. Con empresas privadas de catering seleccionadas por la junta escolar de padres.
+C. Con la junta escolar y demás actores, ante los gobiernos departamentales, municipales e IOC.
+D. Únicamente con la Dirección Distrital, que distribuye los alimentos a las unidades.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 68 dispone que los directores, junto con las Juntas Escolares, Distritales, Consejos Educativos Social Comunitarios y Federaciones de Estudiantes de Secundaria, coordinen con los Gobiernos Autónomos Departamentales, Municipales e IOC y Afrobolivianos la dotación diaria de la Alimentación Complementaria Escolar durante todos los días hábiles de 2026.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 68; página impresa: 33; página PDF: 33.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [R.M. 0001/2026 Normas Generales 2026 – DISPOSICIONES FINALES] Surge un aspecto académico no previsto en las Normas Generales 2026. ¿Cómo debe regularse?
+A. Mediante aplicación supletoria de las Normas Generales de la gestión 2025 en todos los casos.
+B. Mediante instructivos del Ministerio, vía Viceministerio de Educación Regular, en consulta con los actores.
+C. Mediante resolución de cada Dirección Departamental, sin necesidad de consulta a los actores educativos involucrados.
+D. Mediante acuerdo del consejo de maestros de cada unidad educativa, con aval de la junta escolar.
+Respuesta correcta: B
+Explicación: Aplicación razonada: La Disposición Final Décima dispone que los aspectos académicos, técnicos o administrativos no previstos sean regulados mediante instructivos emitidos por el Ministerio de Educación, a través del Viceministerio de Educación Regular, en consulta con los actores educativos, según corresponda.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Disposición Final Décima; página impresa: 38; página PDF: 38.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [R.M. 0001/2026 Normas Generales 2026 – TÍTULO III, CAPÍTULO I] Para asegurar el seguimiento institucional de los estudiantes en situación de vulnerabilidad, ¿qué obligación de trazabilidad impone el Art. 38 a las direcciones de las unidades?
+A. Reportar los casos solo al cierre de la gestión, en el informe final de la evaluación institucional.
+B. Reportar periódicamente los casos por los canales establecidos, asegurando la autenticidad del registro.
+C. Publicar la lista de estudiantes vulnerables en el periódico mural para conocimiento de toda la comunidad.
+D. Remitir los casos a la junta escolar, que asume su seguimiento y la toma de decisiones respectiva.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 38, II, c), dispone que las direcciones de las unidades educativas tienen la obligación de reportar periódicamente los casos de vulnerabilidad a través de los canales establecidos, para garantizar el seguimiento institucional y la toma de decisiones, asegurando la calidad de la gestión y la autenticidad del registro documental.
+Sustento: R.M. 0001/2026, Normas Generales 2026, Título III, Capítulo I, Art. 38; página impresa: 23; página PDF: 23.

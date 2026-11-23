@@ -1,0 +1,1103 @@
+# Fuente: rm-0800-2015-general.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# SISTEMA EDUCATIVO PLURINACIONAL
+# BANCO DE PREGUNTAS DE NIVEL MUY AVANZADO
+# Evaluación de aspirantes a cargos directivos
+# Fuente exclusiva
+# R.M. N.º 800/2015 – Reglamento de Procedimientos para la Emisión de Libretas de Calificaciones Electrónicas y Certificados de Calificaciones Electrónicas
+# Subsistema de Educación Alternativa y Especial – Ámbito de Educación Alternativa. Resolución Ministerial de 23 de octubre de 2015
+# 100 preguntas de opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# La Paz – Bolivia
+# Noviembre de 2026
+# 1. Presentación del instrumento
+# El presente banco de 100 preguntas de nivel muy avanzado está dirigido a la evaluación de aspirantes a cargos directivos del Sistema Educativo Plurinacional. Ha sido elaborado exclusivamente a partir de la R.M. N.º 800/2015 y del Reglamento que aprueba (6 capítulos y 34 artículos), sin incorporar fuentes externas.
+# Debe advertirse que esta norma regula el ámbito de Educación Alternativa: sus responsabilidades directivas corresponden a las Directoras y Directores de Centros de Educación Alternativa (CEA), a las Direcciones Distritales y Departamentales y al nivel central, y su régimen es semestral.
+# Cada pregunta indica su dimensión de evaluación, su modalidad (Conceptual, Interpretativa, Aplicación razonada o Caso práctico), la respuesta correcta, una fundamentación breve y la referencia documental verificable. El rótulo «Aplicación razonada» distingue las situaciones derivadas de las preguntas de conocimiento textual.
+# Al inicio de cada enunciado se consigna, entre corchetes, el documento y el capítulo de procedencia, para garantizar la trazabilidad de la fuente.
+# 2. Ficha técnica
+# Aspecto
+# Detalle
+# Documento fuente
+# R.M. N.º 800/2015 – Reglamento de Procedimientos para la Emisión de Libretas de Calificaciones Electrónicas y Certificados de Calificaciones Electrónicas – Subsistema de Educación Alternativa y Especial – Ámbito de Educación Alternativa. Resolución Ministerial de 23 de octubre de 2015
+# Archivo
+# 7. R.M. 800-2015 - Reglamento de Libretas electrónicas.pdf (22 páginas PDF, documento escaneado)
+# Cantidad de preguntas
+# 100
+# Modalidad
+# Opción múltiple y casos prácticos
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta
+# Rótulos de modalidad
+# Conceptual · Interpretativa · Aplicación razonada · Caso práctico
+# Criterio de paginación
+# Documento escaneado, leído mediante reconocimiento óptico (OCR) y verificado sobre las imágenes. La Resolución Ministerial ocupa las páginas PDF 1 a 6 y no tiene numeración impresa. El Reglamento comienza en la página PDF 7 (página 1); en él, la página impresa equivale a la página PDF − 6. El formulario de modificación de notas está en la página PDF 22.
+# 3. Distribución metodológica y ponderación
+# N.º
+# Dimensión de evaluación
+# Preguntas
+# Peso
+# Rango
+# 1
+# Conocimiento y memorización
+# 5
+# 5%
+# 1–5
+# 2
+# Dominio conceptual
+# 5
+# 5%
+# 6–10
+# 3
+# Competencias y responsabilidades directivas
+# 10
+# 10%
+# 11–20
+# 4
+# Comprensión e interpretación
+# 10
+# 10%
+# 21–30
+# 5
+# Diferenciación conceptual
+# 5
+# 5%
+# 31–35
+# 6
+# Análisis crítico
+# 10
+# 10%
+# 36–45
+# 7
+# Aplicación normativa
+# 15
+# 15%
+# 46–60
+# 8
+# Resolución de casos prácticos
+# 20
+# 20%
+# 61–80
+# 9
+# Toma de decisiones
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de respuestas correctas: A = 25 · B = 25 · C = 25 · D = 25.
+# Distribución por modalidad: Conceptual = 25 · Interpretativa = 20 · Aplicación razonada = 35 · Caso práctico = 20.
+# 4. Banco de preguntas
+# Dimensión: Conocimiento y memorización
+# Se verificó que el banco contiene exactamente 100 preguntas distribuidas según la tabla metodológica, cada una con cuatro alternativas y una sola respuesta correcta respaldada por el texto del Reglamento o de la Resolución Ministerial.
+# Las respuestas correctas se distribuyeron de manera equilibrada entre A, B, C y D, sin secuencias predecibles, y se controló la homogeneidad de extensión de las alternativas. En preguntas de dato breve (plazos, cantidades), la diferencia relativa puede ser mayor por la naturaleza de la información.
+# Por tratarse de un documento escaneado, los plazos y cifras clave (5 días calendario del Art. 18; dos meses del Art. 20; 5 días hábiles del Art. 27; dos copias originales del Art. 28) se contrastaron con la imagen de la página.
+# El Reglamento no tipifica faltas ni sanciones propias: remite a la normativa administrativa y penal vigente (Art. 34) y la R.M. remite al Reglamento de Faltas y Sanciones del Magisterio, al Reglamento de la Carrera Administrativa y al D.S. 23318-A (Art. 2).
+
+CAPÍTULO: rm-0800-2015-general
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] ¿Qué instrumentos regula el Reglamento aprobado por la R.M. 800/2015?
+A. Títulos de Bachiller Técnico Humanístico y diplomas académicos de Educación Superior del Estado.
+B. Libretas Escolares Electrónicas de Educación Regular y boletines de unidades educativas fiscales.
+C. Libretas electrónicas del área Humanística y Certificados electrónicos del área Técnica de los CEA.
+D. Certificados de Educación Especial y libretas de los Centros Integrales Multisectoriales de todo el país.
+Respuesta correcta: C
+Explicación: El Art. 1 dispone que el Reglamento regula el procedimiento para la emisión de Libretas de Calificaciones Electrónicas para el área Humanística y Certificados de Calificaciones Electrónicas para el área Técnica de los Centros de Educación Alternativa, en el Sistema de Información Educativa (SIE).
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 1; página impresa: 1; página PDF: 7.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [R.M. 800/2015 Reglamento de Libretas Electrónicas – RESOLUCIÓN MINISTERIAL] ¿Cuántos capítulos y artículos tiene el Reglamento aprobado por la R.M. 800/2015?
+A. Cinco capítulos y treinta y dos artículos.
+B. Siete capítulos y treinta y cuatro artículos.
+C. Seis capítulos y treinta y cuatro artículos.
+D. Seis capítulos y cuarenta y dos artículos.
+Respuesta correcta: C
+Explicación: El Art. 1 de la R.M. 800/2015, de 23 de octubre de 2015, aprueba el Reglamento de Procedimientos para la Emisión de Libretas de Calificaciones Electrónicas y Certificados de Calificaciones Electrónicas en sus seis (6) Capítulos y treinta y cuatro (34) Artículos.
+Sustento: R.M. 800/2015, Art. 1; página PDF: 6 (la Resolución no tiene numeración impresa).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] ¿Qué datos encripta el código QR de seguridad de las Libretas y Certificados electrónicos?
+A. Código RUDE, nombre de los padres, domicilio y número de teléfono del estudiante.
+B. Notas finales, promedio semestral, código del área y nombre del CEA emisor.
+C. Nombre del Director, código del maestro, firma digital y número de resolución.
+D. Códigos RUE y RUDEAL, Cédula de Identidad y fecha de nacimiento del estudiante.
+Respuesta correcta: D
+Explicación: El Art. 10 dispone que las Libretas y Certificados electrónicos cuentan con un sistema de seguridad QR que encripta los códigos del RUE, RUDEAL, Cédula de Identidad y fecha de nacimiento del estudiante/participante, para certificar su autenticidad.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 10; páginas impresas: 2 y 3; páginas PDF: 8 y 9.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Tras la consolidación de la base de datos del semestre, ¿cuánto dura el periodo ordinario de modificación y/o inclusión de notas?
+A. Un plazo de seis meses.
+B. Un plazo de tres meses.
+C. Un plazo de dos meses.
+D. Un plazo de un mes.
+Respuesta correcta: C
+Explicación: El Art. 20 dispone que el proceso de modificación y/o inclusión de notas se realiza una vez concluida la consolidación de la base de datos (fin de gestión-semestral) y tiene una duración de dos meses.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 20; página impresa: 6; página PDF: 12.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] Si un CEA no cuenta con internet, ¿en qué plazo máximo debe el Director remitir la información de calificaciones en medio magnético a la Dirección Distrital?
+A. En un tiempo máximo de 15 días hábiles.
+B. En un tiempo máximo de 5 días calendario.
+C. En un tiempo máximo de 10 días calendario.
+D. En un tiempo máximo de 5 días hábiles.
+Respuesta correcta: B
+Explicación: El Art. 18, numeral 5, dispone que los CEA sin internet remitan la información del registro de calificaciones en medio magnético a la Dirección Distrital en un tiempo máximo de 5 días calendario; el Director Distrital la remite vía web de manera inmediata.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 18; páginas impresas: 5 y 6; páginas PDF: 11 y 12.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+6. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] ¿Cómo define el Art. 6 a la Libreta de Calificaciones (área Humanística) y al Certificado de Calificaciones (área Técnica)?
+A. Documentos colectivos de registro semestral de calificaciones por área de saberes.
+B. Instrumentos internos de seguimiento del maestro, sin valor de acreditación oficial.
+C. Instrumentos individuales de acreditación promocional y comunicación oficial de resultados.
+D. Registros acumulados de calificaciones de cada estudiante diferenciados por nivel, etapa o especialidad.
+Respuesta correcta: C
+Explicación: El Art. 6, I, los define como instrumentos individuales de acreditación promocional y comunicación oficial de los resultados cualitativos y cuantitativos; el registro acumulado corresponde al Historial Académico (II) y el registro colectivo semestral al Centralizador (IV).
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 6; página impresa: 2; página PDF: 8.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+7. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] ¿Qué es el Centralizador de Calificaciones según el Reglamento?
+A. El formulario que permite corregir las notas registradas de manera errada en el SIE.
+B. El documento oficial semestral del registro de calificaciones por semestre y áreas.
+C. El reporte anual que acumula todas las calificaciones obtenidas por el estudiante.
+D. El instrumento individual que acredita la promoción de cada estudiante del CEA.
+Respuesta correcta: B
+Explicación: El Art. 6, IV, dispone que el Centralizador de Calificaciones se constituye en el documento oficial semestral del registro de calificaciones de los estudiantes, por semestre y por áreas de saberes y conocimientos.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 6; página impresa: 2; página PDF: 8.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+8. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] ¿Bajo qué principios se rige el procedimiento de emisión de Libretas y Certificados electrónicos?
+A. Accesibilidad, disponibilidad, autenticidad, confidencialidad, transparencia, equidad, confiabilidad y consistencia técnica.
+B. Celeridad, economía procesal, informalismo, publicidad, buena fe, imparcialidad, legalidad y sometimiento pleno a la ley.
+C. Descolonización, despatriarcalización, intraculturalidad, plurilingüismo, productividad, calidad, equidad y participación.
+D. Gratuidad, universalidad, integralidad, interculturalidad, oportunidad, publicidad, legalidad y eficiencia administrativa.
+Respuesta correcta: A
+Explicación: El Art. 5 dispone que el procedimiento se rige bajo los principios de accesibilidad, disponibilidad, autenticidad, confidencialidad, transparencia, equidad, confiabilidad y consistencia técnica.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 5; página impresa: 1; página PDF: 7.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+9. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] ¿Qué tipo de código de acceso se asigna a las y los estudiantes/participantes?
+A. Código de legalización, para firmar digitalmente sus Libretas de Calificaciones.
+B. Código de registro y actualización, para modificar sus datos personales en el SIE.
+C. Código de administración, para gestionar sus calificaciones y su Historial Académico.
+D. Código de consulta, que permite acceder a información específica de la base de datos.
+Respuesta correcta: D
+Explicación: El Art. 15, II, numeral 1, dispone que el código de consulta permite acceder a información específica bajo la modalidad de consulta y se asigna a los estudiantes/participantes y al Técnico de Adultos de la Subdirección; el de registro y actualización se asigna a maestros, directores y técnicos SIE.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 15; página impresa: 4; página PDF: 10.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+10. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] ¿Qué se entiende por "inclusión de calificación" según el Art. 19?
+A. Sumar puntaje de nivelación a las notas finales registradas en el semestre anterior.
+B. Agregar a un estudiante nuevo en el Centralizador después del cierre del semestre.
+C. Incorporar notas que por algún motivo no se registraron en la base de datos del SIE.
+D. Corregir notas que se registraron de manera errada en la base de datos del SIE.
+Respuesta correcta: C
+Explicación: El Art. 19, II, define la inclusión como la incorporación de notas del área Humanística o Técnica que por algún motivo no se hubieran registrado en la base de datos del SIE; el parágrafo I define la modificación como la corrección de notas registradas de manera errada.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 19; página impresa: 6; página PDF: 12.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+11. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Según el Art. 28, ¿quién es el único responsable de asignar y dar de baja los Códigos de Acceso de maestros y estudiantes de un CEA?
+A. La Directora o el Director del Centro de Educación Alternativa.
+B. La Secretaria o el Secretario del Centro de Educación Alternativa.
+C. La Técnica o el Técnico SIE o Polivalente de la Dirección Distrital.
+D. La Subdirección de Educación Alternativa y Especial de la DDE.
+Respuesta correcta: A
+Explicación: El Art. 28, numeral 1, dispone que la Directora o el Director asigne o dé de baja en la gestión un Código de Acceso a maestros (para el registro de calificaciones) y a estudiantes (para información y seguimiento), siendo el único responsable de su asignación y baja.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+12. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] ¿Qué obligación impone el Art. 11 a la Directora o Director del CEA respecto de la Libreta o Certificado electrónico?
+A. Extenderlo sin condición alguna al estudiante, a la finalización de cada semestre.
+B. Extenderlo una vez al año, al concluir la gestión, junto al Historial Académico.
+C. Extenderlo únicamente cuando el estudiante lo solicite por escrito con anticipación.
+D. Extenderlo solo al estudiante que acredite estar al día en sus aportes al Centro.
+Respuesta correcta: A
+Explicación: El Art. 11, numeral 2, dispone que el Director del CEA tiene la obligación de extender sin condición alguna la Libreta y/o Certificado electrónico al estudiante a la finalización de cada semestre; el Art. 7 declara gratuita su entrega.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Arts. 7 y 11; páginas impresas: 2 y 3; páginas PDF: 8 y 9.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+13. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Cuántas copias del Centralizador de Calificaciones semestral, sellado y firmado, debe remitir el Director del CEA a la Dirección Distrital?
+A. Una copia simple, quedando el original en el CEA.
+B. Tres copias originales, sin dejar copia en el CEA.
+C. Una copia original, quedando dos copias en el propio CEA.
+D. Dos copias originales, quedando una copia en el CEA.
+Respuesta correcta: D
+Explicación: El Art. 28, numeral 8, dispone que el Director selle y firme los Centralizadores semestrales, debiendo quedar una copia en el CEA, y remita dos copias originales a la Dirección Distrital, realizando el seguimiento hasta verificar que el documento se encuentre en la DDE.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+14. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Qué debe organizar el Director del CEA al final de cada semestre para estudiantes que reprobaron o postergaron un área?
+A. Un curso de recuperación a cargo de un maestro de otro Centro del distrito.
+B. La convalidación del área con base en el promedio de las demás áreas.
+C. La realización y el registro del examen de nivelación de notas.
+D. La inscripción obligatoria en el mismo semestre de la gestión siguiente.
+Respuesta correcta: C
+Explicación: El Art. 28, numeral 4, dispone que el Director organice la realización y el registro del examen de nivelación de notas al final de cada semestre, en caso de estudiantes que hubiesen reprobado o postergado un área en el primer y/o segundo semestre; el Art. 32 lo reconoce como derecho del estudiante.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 28 y 32; páginas impresas: 12 y 14; páginas PDF: 18 y 20.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+15. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Qué reuniones debe organizar el Director del CEA con maestros y personal administrativo según el Art. 28?
+A. Reuniones trimestrales con la Distrital para planificar los operativos de inscripción.
+B. Reuniones anuales con la junta de participantes para rendir cuentas del presupuesto.
+C. Reuniones mensuales para aprobar las calificaciones antes de su registro en la Libreta electrónica.
+D. Reuniones para evaluar la información del SIE antes y después del registro del Centralizador.
+Respuesta correcta: D
+Explicación: El Art. 28, numeral 2, dispone que el Director organice reuniones con maestros y personal administrativo para evaluar la información registrada en el SIE antes y después del proceso de registro del Centralizador de Calificaciones.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+16. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] En el procedimiento de registro de calificaciones, ¿qué corresponde a la Directora o Director una vez que los maestros presentan sus calificaciones impresas y firmadas?
+A. Centralizar la documentación y consolidar vía web la información en el SIE de inmediato.
+B. Remitir la documentación a la Unidad de Transparencia para su validación previa.
+C. Archivar la documentación y esperar la habilitación del periodo de modificación.
+D. Revisar las notas y modificar las que considere injustas antes de enviarlas al sistema SIE.
+Respuesta correcta: A
+Explicación: El Art. 18, numerales 3 y 4, dispone que el Director centralice la documentación del registro de calificaciones de todos los maestros y viabilice, gestione y/o consolide vía web la información digital en el SIE de manera inmediata.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 18; página impresa: 5; página PDF: 11.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+17. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] En el procedimiento de modificación de notas, ¿qué tareas corresponden a la Directora o Director y al personal administrativo del CEA?
+A. Emitir la Resolución Administrativa que autoriza la modificación y remitirla a la DDE.
+B. Modificar directamente en el SIE las notas observadas y comunicar luego el cambio a la Distrital.
+C. Recepcionar los informes de la Distrital y archivarlos para eventuales auditorías.
+D. Centralizar, revisar minuciosamente y remitir el informe y documentación validada a la Distrital.
+Respuesta correcta: D
+Explicación: El Art. 22, numeral 1, dispone que el Director y el personal administrativo centralicen y documenten la información, revisen minuciosamente la documentación y remitan el informe y la documentación validada a la Dirección Distrital; la modificación en el SIE la realizan los técnicos SIE.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 22; página impresa: 7; página PDF: 13.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+18. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Cómo deben archivarse los Centralizadores de Calificaciones Semestrales en la Dirección del CEA?
+A. En formato digital únicamente, eliminando los ejemplares impresos al fin de gestión.
+B. En sobres cerrados entregados a la junta de participantes para su custodia anual.
+C. Organizadamente y a buen resguardo, debidamente foliados, rotulados y empastados.
+D. En hojas valoradas adquiridas por el CEA, con la firma de cada maestro del área.
+Respuesta correcta: C
+Explicación: El Art. 28, numeral 12, dispone que el Director archive organizadamente y a buen resguardo los Centralizadores semestrales debidamente foliados, rotulados y empastados; el Art. 12 exige que se impriman en hojas blancas no valoradas.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 12 y 28; páginas impresas: 3 y 12; páginas PDF: 9 y 18.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+19. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Qué responsabilidad tiene el Director del CEA en el operativo de inicio de gestión?
+A. Inscribir solo a estudiantes con libretas del Subsistema Regular debidamente legalizadas.
+B. Esperar la habilitación del SIE por la DDE para recién convocar a los nuevos estudiantes.
+C. Delegar a la Dirección Distrital la inscripción de todos los estudiantes del Centro a su cargo.
+D. Organizar con docentes y secretaría el registro de inscripción, previendo su llenado correcto.
+Respuesta correcta: D
+Explicación: El Art. 28, numeral 3, dispone que el Director, en coordinación con su personal docente y secretario(a), organice el proceso de registro de inscripción de estudiantes y/o el operativo de inicio de gestión de manera oportuna, previendo el llenado correcto.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+20. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Concluido el registro del Centralizador de Calificaciones, ¿qué debe hacer la Directora o Director del CEA con la documentación?
+A. Revisarla y remitir el informe correspondiente a la Dirección Distrital Educativa.
+B. Archivarla en el CEA sin informar, hasta que la Distrital la solicite por escrito.
+C. Remitirla sin revisión a la DDE, que es la instancia que debe verificar los datos.
+D. Entregarla a la junta de participantes para su aprobación antes de enviarla.
+Respuesta correcta: A
+Explicación: El Art. 28, numeral 5, dispone que la Directora o Director revise la documentación del proceso de registro del Centralizador de Calificaciones y remita el informe del mismo a la Dirección Distrital Educativa correspondiente.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+21. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] ¿Cuál es el ámbito de aplicación del Reglamento?
+A. Los Centros de Educación Alternativa y los Institutos Técnicos Tecnológicos.
+B. Todos los Centros de Educación Alternativa fiscales, de convenio y privados.
+C. Solo los Centros de Educación Alternativa fiscales del ámbito de Adultos.
+D. Las unidades educativas de Educación Regular y los Centros de Educación Especial.
+Respuesta correcta: B
+Explicación: El Art. 2 dispone que el Reglamento se aplica en todos los Centros de Educación Alternativa fiscales, de convenios y privados del ámbito de Educación Alternativa.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 2; página impresa: 1; página PDF: 7.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+22. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] ¿Cómo se previó la entrada en vigencia del Reglamento?
+A. A partir de la gestión 2017, tras un periodo de prueba en centros piloto.
+B. De manera paulatina, con ejecución obligatoria en todo el ámbito desde 2016.
+C. De forma inmediata y obligatoria desde el primer semestre de la gestión 2015.
+D. Solo en los CEA con internet, quedando optativo para los demás centros.
+Respuesta correcta: B
+Explicación: El Art. 4 dispone que el Reglamento entra en vigencia de manera paulatina desde su aprobación (para los operativos de primer y segundo semestre 2015 el estudiante debía contar con su Libreta o Certificado electrónico) y que, a partir de la gestión 2016, debe ejecutarse obligatoriamente en todo el ámbito de Educación Alternativa.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 4; página impresa: 1; página PDF: 7.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+23. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] ¿Qué alcance tiene la gratuidad prevista en el Art. 7?
+A. Solo el registro en el SIE; la legalización en la DDE tiene un costo establecido.
+B. Solo la primera emisión; las reposiciones posteriores se cobran por cada ejemplar.
+C. Registro en el SIE, entrega, impresión, firma y modificación o inclusión de notas.
+D. Solo la entrega de la Libreta; la impresión y la firma tienen un arancel mínimo.
+Respuesta correcta: C
+Explicación: El Art. 7 declara gratuitos el registro de datos en el SIE y la entrega de Libretas y Certificados (I); su impresión y firma en el CEA y en el área de legalizaciones de la DDE (II); y la modificación y/o inclusión de notas (III).
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 7; página impresa: 2; página PDF: 8.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+24. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] ¿Qué instancia está autorizada para diseñar las Libretas y Certificados de Calificaciones?
+A. Cada Dirección Departamental de Educación, según su contexto.
+B. La Dirección General de Planificación, a través del Equipo del SIE.
+C. Únicamente el Viceministerio de Educación Alternativa y Especial.
+D. Cada Centro de Educación Alternativa, con aprobación distrital.
+Respuesta correcta: C
+Explicación: El Art. 8 dispone que el Viceministerio de Educación Alternativa y Especial es la única instancia autorizada para diseñar las Libretas de Calificaciones (área Humanística) y los Certificados de Calificaciones (área Técnica).
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 8; página impresa: 2; página PDF: 8.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+25. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] ¿Qué validez tiene la Libreta o Certificado electrónico debidamente firmado y sellado por el Director del CEA?
+A. Plena validez legal en todo el territorio nacional.
+B. Validez provisional hasta su legalización distrital.
+C. Validez solo para trámites internos del propio CEA.
+D. Validez solo en el departamento donde se emitió.
+Respuesta correcta: A
+Explicación: El Art. 13, I, dispone que la Libreta y/o Certificado de Calificación Electrónicas tienen plena validez legal en todo el territorio nacional, debidamente firmados y sellados por la o el Director del Centro de Educación Alternativa.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 13; página impresa: 3; página PDF: 9.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+26. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] ¿Con qué periodicidad se imprime el Historial Académico electrónico?
+A. Solo cuando lo requiera una institución de educación superior.
+B. Anualmente o de acuerdo a la necesidad del estudiante.
+C. Semestralmente, junto con cada Libreta de Calificaciones.
+D. Solo al concluir el nivel o la especialidad del estudiante.
+Respuesta correcta: B
+Explicación: El Art. 11, numeral 3, dispone que la impresión del Historial Académico electrónico se realice anualmente o de acuerdo a la necesidad del estudiante; la Libreta o Certificado puede imprimirse al final de cada semestre o según necesidad (num. 1).
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 11; página impresa: 3; página PDF: 9.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+27. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] ¿Qué instancia genera los códigos de acceso a la plataforma del SIE del ámbito de Educación Alternativa?
+A. El Ministerio de Educación, a través de la Dirección General de Planificación.
+B. La Dirección General de Educación de Adultos, a través de sus técnicos nacionales.
+C. Cada Dirección Distrital, a través del Técnico SIE o Técnico Polivalente.
+D. Cada Dirección Departamental, a través de su Unidad de Asuntos Jurídicos.
+Respuesta correcta: A
+Explicación: El Art. 15, I, dispone que los códigos de acceso son generados por el Ministerio de Educación a través de la Dirección General de Planificación; el Art. 24, numeral 11, precisa que se entregan a las Subdirecciones de Educación Alternativa y Especial.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 15; página impresa: 4; página PDF: 10.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+28. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Qué naturaleza adquiere el Centralizador de Calificaciones que imprime, firma y sella el maestro por las áreas que regenta?
+A. Se constituye en un borrador interno.
+B. Se constituye en Declaración Jurada.
+C. Se constituye en un acta de conformidad.
+D. Se constituye en una copia sin valor.
+Respuesta correcta: B
+Explicación: El Art. 29, numeral 4, dispone que el maestro imprima el Centralizador por las áreas que regenta y lo presente al Director firmado, sellado y de manera inmediata, constituyéndose en Declaración Jurada.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 29; página impresa: 13; página PDF: 19.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+29. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] ¿Qué norma rige el registro y actualización de datos de los estudiantes/participantes?
+A. La R.M. 873/2014, que aprueba la certificación técnica.
+B. La R.M. 001/2015, que aprueba las Normas Generales.
+C. La R.M. 069/2013, que aprueba el Currículo Base.
+D. La R.M. 026/2009, que aprueba el Formulario RUDEAL.
+Respuesta correcta: D
+Explicación: El Art. 16, I, dispone que el registro y actualización de datos de los estudiantes se rige por la R.M. 026/2009 de 16 de enero de 2009, que aprueba el Formulario de Inscripción – Registro Único de Estudiantes de Educación Alternativa (RUDEAL).
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 16; página impresa: 5; página PDF: 11.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+30. [R.M. 800/2015 Reglamento de Libretas Electrónicas – RESOLUCIÓN MINISTERIAL] Según el Art. 2 de la R.M. 800/2015, ¿conforme a qué normas se sanciona el incumplimiento del Reglamento?
+A. Reglamento de Escalafón Nacional y Normas Generales de la Gestión Educativa de cada gestión.
+B. Reglamento de Faltas y Sanciones del Magisterio, Reglamento de Carrera Administrativa y D.S. 23318-A.
+C. Código Penal y Código Niña, Niño y Adolescente, sin aplicación de normas administrativas.
+D. Ley N.º 2341 de Procedimiento Administrativo y Reglamento Interno de cada Centro de Educación Alternativa.
+Respuesta correcta: B
+Explicación: El Art. 2 de la R.M. 800/2015 dispone que el incumplimiento constituye faltas sancionadas conforme al Reglamento de Faltas y Sanciones del Magisterio (R.S. 212414), al Reglamento de la Carrera Administrativa del SEP (R.M. 062/00) y al D.S. 23318-A, según corresponda.
+Sustento: R.M. 800/2015, Art. 2; página PDF: 6 (la Resolución no tiene numeración impresa).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+31. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Distinga el trámite de modificación de notas dentro del plazo ordinario del trámite posterior a ese plazo:
+A. Dentro de los dos meses: aprobación del Director del CEA; después: procede sin ningún requisito adicional.
+B. Dentro de los dos meses: Resolución Ministerial; después: solo con informe del Técnico SIE distrital.
+C. Dentro de los dos meses: procedimiento del Art. 22; después: solo con Resolución Administrativa de la DDE.
+D. En ambos casos: Resolución Administrativa de la Distrital, con un arancel en el trámite posterior.
+Respuesta correcta: C
+Explicación: El Art. 20 fija un periodo de dos meses tras la consolidación semestral; posteriormente, en casos excepcionales, la modificación o inclusión se realiza únicamente con Resolución Administrativa de la DDE, de carácter gratuito. El Art. 22 regula el procedimiento ordinario.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Arts. 20 y 22; páginas impresas: 6 y 7; páginas PDF: 12 y 13.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+32. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] Distinga quién emite la Libreta en condiciones normales y quién puede emitirla en caso de extravío o deterioro:
+A. Normal: el Técnico SIE distrital; extravío o deterioro: la Unidad de Transparencia de la DDE.
+B. Normal: la Dirección Distrital; extravío o deterioro: únicamente el Ministerio de Educación.
+C. Normal: el maestro de área; extravío o deterioro: el Director del CEA con una resolución distrital.
+D. Normal: el Director del CEA; extravío o deterioro: también el área de legalizaciones de las DDE.
+Respuesta correcta: D
+Explicación: El Art. 13, I, reconoce validez a la Libreta firmada y sellada por el Director del CEA; el parágrafo II dispone que, en caso de extravío y/o deterioro, también podrá ser emitida y autorizada por el área de legalizaciones de las DDE a nivel nacional.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 13; página impresa: 3; página PDF: 9.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+33. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Distinga la función del Técnico SIE distrital y la del Técnico SIE – Ciencia y Tecnología departamental en la modificación de notas:
+A. Ambos pueden modificar notas, pero el departamental lo hace solo a solicitud de la Distrital con informe.
+B. Solo el departamental puede modificar notas; el distrital se limita a recibir las solicitudes.
+C. Solo el distrital puede modificar notas; el departamental se limita a archivar la documentación recibida.
+D. Ninguno modifica notas; la modificación la realiza el maestro con su código de registro.
+Respuesta correcta: A
+Explicación: El Art. 27, II, numeral 5, faculta al Técnico SIE distrital a modificar e incluir notas previa verificación de requisitos; el Art. 26, II, numeral 5, faculta al Técnico SIE – CyT departamental a hacerlo únicamente a solicitud de la Dirección Distrital y con informe justificativo.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 26 y 27; páginas impresas: 10 y 11; páginas PDF: 16 y 17.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+34. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Distinga ante quién puede el estudiante denunciar irregularidades en el registro de sus calificaciones según los Arts. 31 y 32:
+A. Ante la junta de participantes del CEA, que remite la denuncia a la Defensoría del Pueblo.
+B. Solo ante la Unidad de Transparencia del Ministerio, sin intervención de la Dirección Distrital.
+C. Solo ante la Dirección del CEA, que es la única instancia competente para conocer la denuncia.
+D. Ante la Unidad de Transparencia de la DDE, o ante la Dirección del CEA o la Dirección Distrital.
+Respuesta correcta: D
+Explicación: El Art. 31, numeral 4, prevé que el estudiante denuncie irregularidades ante la Unidad de Transparencia de la DDE; el Art. 32, derecho 4, le permite denunciarlas ante la Dirección del CEA o la Dirección Distrital Educativa.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 31 y 32; páginas impresas: 13 y 14; páginas PDF: 19 y 20.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+35. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Distinga los niveles e instancias del Art. 23 en el procedimiento de emisión:
+A. Central (DGP-SIE), Departamental (Unidad de Transparencia) y Centro, sin nivel distrital.
+B. Central (Viceministerio y DGAJ), Departamental (Jurídica), Distrital (Juntas) y Centro (maestros).
+C. Nacional (Ministerio), Regional (Gobernación), Municipal (Alcaldía) y Comunal (Centro educativo).
+D. Central (DGP-SIE y DGEA), Departamental (Subdirección y Técnico SIE-CyT), Distrital y Centro.
+Respuesta correcta: D
+Explicación: El Art. 23 distingue los niveles Central (Dirección General de Planificación – Equipo SIE y Dirección General de Educación de Adultos), Departamental (Subdirección de Educación Alternativa y Especial y Técnico SIE – CyT), Distrital (Director Distrital y Técnico SIE o Polivalente) y el CEA (Director, personal administrativo y maestros).
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 23; página impresa: 8; página PDF: 14.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+36. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] El Art. 31 dispone que el estudiante denuncie ante la Unidad de Transparencia de la DDE, mientras el Art. 32 menciona la Dirección del CEA o la Distrital. Desde un análisis crítico, ¿cómo se armonizan?
+A. Como contradicción insalvable que obliga a aplicar únicamente el artículo posterior.
+B. Como vías concurrentes: el estudiante puede acudir a cualquiera de esas instancias.
+C. Como jerarquía obligatoria: primero el CEA, luego la Distrital y al final la DDE.
+D. Como derogación del Art. 31 por el Art. 32, al estar ubicado en el mismo capítulo.
+Respuesta correcta: B
+Explicación: Los Arts. 31 (num. 4) y 32 (derecho 4) prevén instancias distintas para denunciar irregularidades en el registro de calificaciones; el Reglamento no establece orden de prelación ni derogación entre ellos, por lo que operan como vías concurrentes a favor del estudiante.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 31 y 32; páginas impresas: 13 y 14; páginas PDF: 19 y 20.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+37. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] ¿Qué lectura crítica explica que, concluido el procedimiento de modificación de notas, la DDE ordene el inicio de un proceso administrativo?
+A. Toda modificación implica un delito penal que debe ser denunciado de oficio ante el Ministerio Público.
+B. Toda modificación revela un error u omisión cuyo responsable debe ser identificado y, si corresponde, sancionado.
+C. El proceso sirve para cobrar al estudiante el costo administrativo de la modificación de sus notas.
+D. La modificación es ilegal en sí misma, por lo que debe revertirse mediante el proceso administrativo.
+Respuesta correcta: B
+Explicación: El Art. 19, III, señala que la modificación subsana inconsistencias por errores cometidos por el maestro; el Art. 22, numeral 4, dispone que la DDE remita el expediente ordenando el inicio del proceso administrativo que permita identificar y sancionar a los infractores. El Art. 7, III, declara gratuita la modificación.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Arts. 19 y 22; páginas impresas: 6 y 8; páginas PDF: 12 y 14.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+38. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] El Art. 12 exige imprimir los Centralizadores en hojas blancas no valoradas, rubricados y sellados, y resguardarlos en CEA, Distrital y DDE. ¿Qué finalidad persigue?
+A. Permitir que cada instancia modifique las notas sin pasar por el sistema SIE.
+B. Sustituir el registro digital del SIE por un archivo impreso de carácter exclusivo y permanente.
+C. Contar con respaldo legal y físico y atender solicitudes de legalización de documentos.
+D. Generar ingresos al CEA mediante la venta de hojas para cada Centralizador.
+Respuesta correcta: C
+Explicación: El Art. 12 dispone que, con el objeto de contar con documentación legal y física de respaldo y atender solicitudes de legalización, los Centralizadores descargados se impriman en hojas blancas no valoradas, rubricados y sellados, y se resguarden en el CEA, la Distrital y la DDE.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 12; página impresa: 3; página PDF: 9.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+39. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Qué riesgo institucional busca prevenir la regla de que el Director del CEA sea el único responsable de asignar y dar de baja los códigos de acceso?
+A. El retraso en la entrega de libretas por falta de técnicos en la Dirección Distrital.
+B. La pérdida de autonomía del Ministerio para generar nuevos códigos en cada gestión.
+C. El uso indebido de códigos por personas no autorizadas, al concentrar la responsabilidad.
+D. La sobrecarga de trabajo de los maestros al registrar las calificaciones de sus áreas de saberes.
+Respuesta correcta: C
+Explicación: El Art. 28, numeral 1, hace del Director el único responsable de la asignación y baja de códigos; en coherencia, el Art. 33 prohíbe el acceso al SIE por personas ajenas, con sanciones administrativas y penales, y el Art. 29 exige al maestro custodiar su código.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V y VI, Arts. 28, 29 y 33; páginas impresas: 12, 13 y 15; páginas PDF: 18, 19 y 21.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+40. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] El Art. 24 exige a la DGP-SIE realizar registros automáticos de las transacciones que modifiquen información en la base de datos. ¿Qué valor aporta esta medida?
+A. Mayor velocidad del sistema, al eliminar la verificación humana de los registros de calificaciones.
+B. Reducción del número de usuarios autorizados para registrar calificaciones.
+C. Sustitución de los Centralizadores impresos por registros digitales automáticos.
+D. Trazabilidad de los cambios, que facilita el control y la identificación de responsables.
+Respuesta correcta: D
+Explicación: El Art. 24, numerales 9 y 10, asigna a la DGP-SIE desarrollar procesos de control de calidad de datos y realizar registros automáticos de las transacciones que modifiquen información en la base de datos, lo que se articula con el proceso administrativo previsto en el Art. 22, numeral 4.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 24; página impresa: 9; página PDF: 15.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+41. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] El Art. 9 dispone que las Libretas sean bilingües según los contextos lingüísticos, con aplicación paulatina. ¿Qué lectura crítica corresponde?
+A. Impone de inmediato el uso exclusivo de lenguas originarias en todas las Libretas.
+B. Exige traducir las Libretas a idiomas extranjeros para trámites en el exterior.
+C. Deja a cada maestro decidir el idioma en que registra las calificaciones.
+D. Reconoce la diversidad lingüística del Estado, pero su implementación es gradual.
+Respuesta correcta: D
+Explicación: El Art. 9 establece que las Libretas y Certificados electrónicos serán bilingües de acuerdo a los contextos lingüísticos del Estado Plurinacional, y que su aplicación será de manera paulatina.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 9; página impresa: 2; página PDF: 8.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+42. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] El Art. 17 exige registrar las notas de nivelación inmediatamente obtenida la nota final, en el periodo habilitado. ¿Qué lectura crítica explica esta exigencia?
+A. Evita rezagos en el SIE y asegura que el Historial refleje oportunamente la situación real.
+B. Permite que el maestro modifique libremente las notas del semestre ya consolidado en el SIE.
+C. Exime al Director de consolidar la información de nivelación en la base de datos.
+D. Reemplaza el procedimiento de modificación de notas para los casos de reprobación.
+Respuesta correcta: A
+Explicación: El Art. 17, II, exige que las calificaciones de quienes postergaron un área y fueron habilitados para nivelación se registren inmediatamente obtenida la nota final, en el periodo habilitado; el Art. 16, III, dispone que el registro permite contar con el Historial Académico consolidado.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Arts. 16 y 17; página impresa: 5; página PDF: 11.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+43. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO VI] El Art. 33 prohíbe el acceso al SIE por personas ajenas a los interesados. ¿Qué bien jurídico protege principalmente?
+A. La exclusividad comercial del proveedor de servicios de internet.
+B. La autonomía de los Centros para fijar sus propios procedimientos.
+C. La propiedad intelectual del software desarrollado por el Ministerio de Educación.
+D. La privacidad de la información de la base de datos de calificaciones.
+Respuesta correcta: D
+Explicación: El Art. 33 dispone que queda prohibido el acceso al SIE por personas ajenas a los interesados, hecho que vulneraría la privacidad de la información de la base de datos y está sujeto a sanciones administrativas y penales.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo VI, Art. 33; página impresa: 15; página PDF: 21.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+44. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] La R.M. 800/2015 remite las sanciones a normas de 1992, 1993 y 2000 (D.S. 23318-A, R.S. 212414 y R.M. 062/00). ¿Qué observación crítica corresponde a un directivo?
+A. Debe aplicar únicamente la sanción penal, al ser la única mencionada en el Art. 34 del Reglamento.
+B. Puede aplicar sanciones propias del CEA, porque el Reglamento no fija ninguna remisión normativa.
+C. Debe verificar la vigencia de esas normas antes de aplicarlas, pues el Reglamento solo remite a ellas.
+D. Debe omitir cualquier sanción, porque las normas citadas son anteriores al Reglamento de 2015.
+Respuesta correcta: C
+Explicación: El Art. 2 de la R.M. remite a la R.S. 212414 (1993), a la R.M. 062/00 (2000) y al D.S. 23318-A (1992), y el Art. 34 del Reglamento remite a la normativa administrativa y penal vigente; el Reglamento no tipifica sanciones propias, por lo que su aplicación depende de esas normas.
+Sustento: R.M. 800/2015, Art. 2 (PDF 6); Reglamento, Capítulo VI, Art. 34; página impresa: 15; página PDF: 21.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+45. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] El Art. 21 exige que el Formulario de Declaración Jurada sea firmado y sellado por el maestro y por el Director. ¿Qué finalidad tiene esta doble firma?
+A. Que el maestro renuncie a cualquier responsabilidad por el error cometido.
+B. Que la modificación se considere aprobada sin intervención de la Distrital.
+C. Que ambos den fe de la veracidad de los datos y de la documentación presentada.
+D. Que el Director autorice por sí solo la modificación directa de notas en el SIE.
+Respuesta correcta: C
+Explicación: El Art. 21 exige el Formulario de Declaración Jurada debidamente llenado, firmado y sellado por el maestro respectivo y por el Director del CEA, dando fe y veracidad de los datos del formulario y de la documentación presentada; la modificación se procesa luego en la Distrital (Art. 22).
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 21; páginas impresas: 6 y 7; páginas PDF: 12 y 13.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+46. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Un estudiante solicita corregir una nota mal registrada. ¿Qué documentos debe presentar según el Art. 21?
+A. Memorial al Director Departamental, fotocopia legalizada del título y comprobante de pago del trámite.
+B. Formulario de Declaración Jurada firmado y sellado, fotocopia del certificado de nacimiento y del C.I.
+C. Declaración notariada del estudiante, informe de la junta de participantes y Libreta del año anterior.
+D. Solicitud escrita al Director Distrital, Libreta original y certificado de antecedentes del maestro.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 21 exige: Formulario de Declaración Jurada firmado y sellado por el maestro y el Director del CEA; fotocopia simple del Certificado de Nacimiento; y fotocopia simple de la Cédula de Identidad, si cuenta con ella. El trámite es gratuito (Art. 7, III).
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 21; páginas impresas: 6 y 7; páginas PDF: 12 y 13.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+47. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Una estudiante no tiene Cédula de Identidad y desea tramitar la inclusión de una nota omitida. ¿Puede hacerlo?
+A. Sí; la fotocopia del C.I. se exige solo si cuenta con ese documento.
+B. No; la Cédula de Identidad es requisito indispensable sin excepciones.
+C. No; debe esperar a obtener su C.I. y reiniciar el trámite en el SIE.
+D. Sí, pero debe pagar un arancel por la falta del documento de identidad.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 21 exige la fotocopia simple de la Cédula de Identidad del estudiante "si cuenta con este documento", junto con el Formulario de Declaración Jurada y la fotocopia del Certificado de Nacimiento.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 21; página impresa: 7; página PDF: 13.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+48. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Han pasado cuatro meses desde la consolidación del semestre y se detecta una nota errada. ¿Cómo procede la corrección?
+A. Mediante Resolución Ministerial, previo pago del arancel por trámite fuera de plazo.
+B. Excepcionalmente, solo mediante Resolución Administrativa de la DDE, de carácter gratuito.
+C. Ya no procede ninguna corrección, porque el plazo de dos meses ha vencido definitivamente.
+D. Mediante corrección directa del maestro en el SIE con su código de registro y actualización.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 20 dispone que, transcurrido el periodo de dos meses, en casos excepcionales, la modificación y/o inclusión de notas se realizará únicamente con la emisión de una Resolución Administrativa en la DDE correspondiente, la cual debe ser de carácter gratuito.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 20; página impresa: 6; página PDF: 12.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+49. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] Un egresado necesita su Libreta electrónica para un trámite en el exterior. ¿En qué orden deben firmarla las autoridades?
+A. Director Departamental, Ministerio de Educación y Consulado del país de destino del egresado.
+B. Director del CEA, Director Distrital y Ministerio de Relaciones Exteriores, sin firma departamental.
+C. Ministerio de Relaciones Exteriores, Ministerio de Educación, Director Departamental y Director del CEA.
+D. Director Distrital, Director Departamental, Ministerio de Educación y Ministerio de Relaciones Exteriores.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 13, III, dispone que la Libreta, el Certificado y el Historial Académico para trámites en el exterior deben ser firmados en orden de jerarquía por el Director Distrital, el Director Departamental, el Ministerio de Educación y el Ministerio de Relaciones Exteriores.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 13; página impresa: 3; página PDF: 9.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+50. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] Un estudiante perdió su Libreta electrónica y su CEA cerró temporalmente. ¿Dónde puede obtenerla?
+A. En la Dirección General de Educación de Adultos del Ministerio de Educación del Estado.
+B. En cualquier unidad educativa fiscal del Subsistema de Educación Regular.
+C. En la Unidad de Transparencia de la Dirección Departamental correspondiente.
+D. En el área de legalizaciones de las Direcciones Departamentales de Educación.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 13, II, dispone que, en caso de extravío y/o deterioro, la Libreta y/o Certificado electrónicos también podrán ser emitidos y autorizados por el área de legalizaciones de las DDE a nivel nacional; su impresión y firma allí es gratuita (Art. 7, II).
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Arts. 7 y 13; páginas impresas: 2 y 3; páginas PDF: 8 y 9.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+51. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] Un estudiante proveniente del exterior se inscribe en un CEA. ¿Cómo se lo registra en el SIE?
+A. Previo cumplimiento de requisitos de inscripción, mediante el Formulario RUDEAL.
+B. Mediante el Formulario RUDE de Educación Regular, con homologación previa.
+C. Mediante un registro provisional que se regulariza al final de la gestión.
+D. Solo después de que el Ministerio de Relaciones Exteriores valide su identidad y su procedencia.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 16, II, dispone que los estudiantes provenientes del exterior serán registrados en el SIE previo cumplimiento de los requisitos para su inscripción en el CEA, a través del Formulario de Inscripción – RUDEAL.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 16; página impresa: 5; página PDF: 11.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+52. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un maestro de un CEA se jubila a mitad de gestión. ¿Qué debe hacer el Director respecto de su código de acceso?
+A. Transferirlo al maestro reemplazante, conservando la misma contraseña de acceso.
+B. Darlo de baja, pues es el único responsable de la asignación y baja de los códigos.
+C. Solicitar a la DGP su baja, porque el Director no tiene competencia para hacerlo.
+D. Mantenerlo activo hasta fin de gestión para no afectar el registro de calificaciones.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 28, numeral 1, dispone que el Director asigne o dé de baja en la gestión los Códigos de Acceso, siendo el único responsable de su asignación y baja; el Art. 33 prohíbe el acceso al SIE por personas ajenas.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+53. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un estudiante presta su código de acceso a un amigo para que revise sus notas. ¿Qué obligación incumple?
+A. La de verificar sus calificaciones semestrales solo desde los equipos del CEA.
+B. La de solicitar autorización del maestro antes de consultar sus calificaciones en el SIE.
+C. Ninguna, porque el código de consulta no permite modificar la información.
+D. La de resguardar el código, que no puede transferirse a terceros por ningún motivo.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 32, obligación 1, dispone que el estudiante resguarde el Código de Acceso para velar por la confidencialidad y seguridad de sus calificaciones, el cual no podrá ser transferido a terceros por ningún motivo; la obligación 2 le exige modificar la contraseña.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 32; página impresa: 14; página PDF: 20.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+54. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Al recibir su código de acceso, ¿qué debe hacer el estudiante para garantizar su uso privado?
+A. Solicitar un segundo código a la Distrital.
+B. Modificar la contraseña del Código de Acceso.
+C. Compartir el código con sus padres o tutores.
+D. Registrar el código en la secretaría del CEA.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 32, obligación 2, dispone que el estudiante modifique la contraseña del Código de Acceso para garantizar su uso privado; la obligación 1 prohíbe transferirlo a terceros.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 32; página impresa: 14; página PDF: 20.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+55. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un maestro advierte una irregularidad en la modificación de datos de un estudiante en el SIE. ¿A quién debe hacerla conocer?
+A. Al Técnico SIE distrital, para que revierta la modificación sin informar.
+B. A la Unidad de Transparencia de la Dirección Departamental de Educación.
+C. Al Ministerio Público, mediante denuncia penal directa y sin otro trámite.
+D. A la junta de participantes del CEA, para que decida las acciones a tomar.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 29, numeral 7, dispone que el maestro haga conocer a la Unidad de Transparencia de la DDE correspondiente cualquier irregularidad en la modificación y/o inclusión de datos personales de estudiantes sobre su registro de calificaciones.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 29; página impresa: 13; página PDF: 19.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+56. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Una madre reconoció tardíamente a su hijo, estudiante de un CEA, y este cambió su apellido. ¿Quién modifica los datos personales en el SIE a nivel distrital?
+A. El maestro de área, a solicitud escrita del propio estudiante.
+B. La secretaria del CEA, con autorización verbal del Director.
+C. El Director del CEA, con su código de registro y actualización.
+D. El Técnico SIE o Polivalente, con la documentación presentada.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 27, II, numeral 4, inciso b), asigna al Técnico SIE o Polivalente distrital la modificación de datos propios del certificado de nacimiento por reconocimiento de padre y/o madre o por cambio voluntario de nombre o apellido, de estudiantes que presentaron su documentación.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 27; página impresa: 11; página PDF: 17.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+57. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] La secretaria de un CEA recibe los Centralizadores de cada maestro al final del semestre. ¿Qué debe hacer con ellos?
+A. Archivarlos en secretaría sin conocimiento de la Dirección.
+B. Firmarlos y remitirlos directamente a la Dirección Distrital Educativa.
+C. Corregirlos y registrarlos en el SIE con su código de acceso.
+D. Recepcionarlos y remitirlos a la Directora o Director del CEA.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 30, numeral 1, dispone que la Secretaria o Secretario recepcione y remita a la Directora o Director del CEA los Centralizadores presentados por cada maestro en cada semestre; además revisa la documentación de modificación de notas y deriva los centralizadores firmados a la Distrital.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 30; página impresa: 13; página PDF: 19.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+58. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un estudiante considera injusta la nota de un área. ¿Qué derecho le reconoce el Art. 32 antes del registro en el SIE?
+A. Solicitar la anulación del semestre completo y su reinscripción sin costo alguno.
+B. Rendir un examen ante la Distrital en reemplazo de la evaluación del maestro.
+C. Reclamar sobre la valoración efectuada según las actividades evaluativas realizadas.
+D. Exigir que el Director modifique la nota sin consultar al maestro del área afectada.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 32, derecho 3, reconoce al estudiante el derecho a reclamar sobre la valoración efectuada por el maestro de acuerdo a las actividades evaluativas realizadas con instrumentos de evaluación, antes del registro de sus calificaciones en el SIE.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 32; página impresa: 14; página PDF: 20.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+59. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] A mitad de semestre, un estudiante necesita imprimir su Libreta electrónica para un trámite laboral. ¿Puede hacerlo?
+A. Sí, pero solo con autorización escrita de la Dirección Distrital Educativa.
+B. No; la Libreta solo se imprime una vez al año junto al Historial Académico.
+C. No; solo el Director puede imprimirla y únicamente al final del semestre.
+D. Sí; puede imprimirla al final de cada semestre o de acuerdo a su necesidad.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 11, numeral 1, dispone que el estudiante podrá imprimir la Libreta y/o Certificado electrónico a la culminación de cada semestre o de acuerdo a su necesidad.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 11; página impresa: 3; página PDF: 9.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+60. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] En el proceso del SIE, ¿qué momento corresponde al registro de las evaluaciones de nivelación de un estudiante que reprobó un área?
+A. El registro y/o actualización de datos de los Centros de Educación Alternativa.
+B. El Registro Único de Estudiantes de Educación Alternativa en la inscripción.
+C. La entrega y resguardo del Centralizador a las instancias respectivas.
+D. El registro de evaluación del desarrollo curricular o de las evaluaciones de nivelación.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 14, inciso d), prevé como momento del procesamiento el registro de evaluación del desarrollo curricular o registro de las evaluaciones del proceso de nivelación, en caso de que el estudiante hubiera reprobado o postergado un área en el primer y/o segundo semestre.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 14; página impresa: 4; página PDF: 10.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+61. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] Un Director de CEA condiciona la entrega de la Libreta al pago de una cuota "de impresión". ¿Qué disposiciones vulnera?
+A. La gratuidad de impresión y entrega, y la obligación de extenderla sin condición alguna.
+B. Ninguna, si la cuota fue aprobada en asamblea por la junta de participantes del CEA.
+C. Solo la gratuidad del registro en el SIE, porque la impresión puede tener un costo propio del CEA.
+D. Solo la obligación de entregarla al final del semestre, no la gratuidad del documento.
+Respuesta correcta: A
+Explicación: El Art. 7, I y II, declara gratuitas la entrega, impresión y firma de Libretas y Certificados; el Art. 11, numeral 2, obliga al Director a extenderlos sin condición alguna al final de cada semestre.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I y II, Arts. 7 y 11; páginas impresas: 2 y 3; páginas PDF: 8 y 9.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+62. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] Un CEA rural sin internet terminó el registro el 10 de julio. El Director envía el medio magnético a la Distrital el 18 de julio. ¿Cumplió el plazo?
+A. Sí; el Reglamento no fija un plazo máximo.
+B. No; el plazo máximo es de 5 días calendario.
+C. Sí; el plazo máximo es de 5 días hábiles.
+D. Sí; el plazo máximo es de 10 días calendario.
+Respuesta correcta: B
+Explicación: El Art. 18, numeral 5, dispone que los CEA sin acceso a internet remitan la información en medio magnético a la Distrital en un tiempo máximo de 5 días calendario; del 10 al 18 de julio transcurren 8 días calendario.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 18; páginas impresas: 5 y 6; páginas PDF: 11 y 12.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+63. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] Recibida la información en medio magnético de un CEA sin internet, ¿qué debe hacer la Directora o Director Distrital?
+A. Archivarla en la Distrital hasta la consolidación anual de la gestión educativa.
+B. Enviarla en físico a la DDE dentro de los 5 días hábiles siguientes.
+C. Remitirla vía web al SIE del Ministerio de Educación de manera inmediata.
+D. Devolverla al CEA para que la cargue cuando cuente con internet.
+Respuesta correcta: C
+Explicación: El Art. 18, numeral 6, dispone que la Directora o Director Distrital remita la información del registro de calificaciones vía web al SIE del Ministerio de Educación de manera inmediata.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 18; página impresa: 6; página PDF: 12.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+64. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] La Distrital recibe un lunes los Centralizadores semestrales de un CEA. ¿En qué plazo debe remitir una copia original firmada y sellada a la DDE?
+A. En el lapso máximo de 5 días calendario desde su recepción.
+B. Al final de la gestión, junto con los demás Centralizadores.
+C. En el lapso máximo de 5 días hábiles desde su recepción.
+D. En el lapso máximo de 10 días hábiles desde su recepción.
+Respuesta correcta: C
+Explicación: El Art. 27, I, numeral 4, dispone que el Director Distrital remita una copia original de los Centralizadores semestrales firmados y sellados a la DDE en el lapso máximo de 5 días hábiles, luego de recepcionado el documento en el Distrito.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 27; página impresa: 11; página PDF: 17.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+65. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Un maestro registró 45 en lugar de 54 en un área. Detectado el error, ¿qué formulario debe llenar y quién lo firma?
+A. El de modificación y/o inclusión de notas, que verifica, sella y firma el maestro junto al Director.
+B. Un acta de rectificación firmada solo por el estudiante y aprobada por la junta de participantes del CEA.
+C. Una nota simple al Técnico SIE, firmada únicamente por el maestro que cometió el error.
+D. Un memorial a la DDE firmado por el estudiante, con firma de abogado y timbre de ley.
+Respuesta correcta: A
+Explicación: Los Arts. 29 (nums. 5 y 6) y 21 disponen que el maestro llene, verifique, selle y firme los formularios de modificación y/o inclusión de notas en caso de error u omisión, y que el Formulario de Declaración Jurada sea firmado y sellado también por el Director del CEA.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV y V, Arts. 21 y 29; páginas impresas: 7 y 13; páginas PDF: 13 y 19.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+66. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] El Técnico SIE distrital recibe documentación validada de un CEA para modificar notas. Tras modificarlas en el SIE, ¿qué le corresponde?
+A. Emitir la Resolución Administrativa que convalida la modificación ante el Ministerio.
+B. Devolver toda la documentación al CEA y eliminar del sistema el registro de la modificación realizada.
+C. Remitir informe y documentación a la DDE y resguardar lo procesado para control y auditoría.
+D. Iniciar de oficio el proceso administrativo contra el maestro que cometió el error.
+Respuesta correcta: C
+Explicación: El Art. 22, numeral 2, dispone que la Distrital, a través del Técnico SIE o Polivalente, recepcione y valide la documentación, modifique o incluya las notas, remita informe y documentación a la DDE y resguarde la documentación para cualquier control y/o auditoría. El inicio del proceso lo ordena la DDE (num. 4).
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 22; páginas impresas: 7 y 8; páginas PDF: 13 y 14.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+67. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Concluido el procedimiento de modificación de notas, ¿qué acción final corresponde a la Dirección Departamental de Educación?
+A. Publicar la corrección en la página web del Ministerio para conocimiento de toda la comunidad educativa.
+B. Remitir el expediente legalizado ordenando el proceso administrativo para sancionar a los infractores.
+C. Archivar definitivamente el expediente, dado que la nota ya fue corregida en el sistema SIE.
+D. Devolver el expediente al CEA para que el Director aplique una sanción interna al maestro.
+Respuesta correcta: B
+Explicación: El Art. 22, numeral 4, dispone que la DDE, concluido el procedimiento, remita el expediente de copias legalizadas a la instancia correspondiente ordenando el inicio del proceso administrativo que permita identificar y sancionar a los infractores.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 22; página impresa: 8; página PDF: 14.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+68. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] El Técnico SIE distrital compara los datos del SIE con los Centralizadores impresos y encuentra diferencias. ¿Qué debe hacer con el resultado?
+A. Enviar el informe de los resultados de la comparación a la Dirección Departamental.
+B. Corregir el SIE para que coincida con el Centralizador, sin informar a otra instancia.
+C. Corregir el Centralizador impreso para que coincida con los datos del sistema SIE.
+D. Devolver el Centralizador al maestro para que lo vuelva a firmar con los datos del SIE.
+Respuesta correcta: A
+Explicación: El Art. 27, II, numerales 2 y 3, asigna al Técnico SIE o Polivalente comparar minuciosamente la información del SIE con la documentación impresa remitida por los CEA y enviar el informe de los resultados a la DDE correspondiente.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 27; página impresa: 11; página PDF: 17.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+69. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un Director de CEA envió dos originales del Centralizador a la Distrital. ¿Concluye ahí su responsabilidad?
+A. Sí, siempre que la secretaría del CEA haya registrado el envío en el libro de correspondencia.
+B. No; debe hacer el seguimiento hasta verificar que el documento se encuentre en la DDE.
+C. No; además debe entregar personalmente una tercera copia al Ministerio de Educación.
+D. Sí; la responsabilidad pasa íntegramente a la Distrital desde el momento del envío.
+Respuesta correcta: B
+Explicación: El Art. 28, numeral 8, dispone que el Director, tras dejar una copia en el CEA y remitir dos originales a la Distrital, realice el seguimiento hasta verificar que dicho documento se encuentre en la DDE.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+70. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Una DDE debe distribuir los códigos de acceso a los Directores de los CEA de su departamento. ¿Qué instancia los entrega?
+A. La Dirección General de Educación de Adultos, directamente a cada Director de CEA.
+B. El Técnico SIE distrital, sin intervención de la Dirección Departamental de Educación.
+C. La Subdirección de Educación Alternativa y Especial, por encargo del Director Departamental.
+D. La Unidad de Transparencia de la DDE, tras verificar los antecedentes personales de cada Director.
+Respuesta correcta: C
+Explicación: El Art. 26, I, numeral 6, dispone que el Director Departamental, a través de la Subdirección de Educación Alternativa y Especial, entregue los códigos de acceso a los Directores de los CEA; el Art. 24, numeral 11, dispone que la DGP los genere y los entregue a las Subdirecciones.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 24 y 26; páginas impresas: 9 y 10; páginas PDF: 15 y 16.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+71. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO VI] Un familiar de un maestro ingresa al SIE con el código de este para "ayudar" a registrar notas. ¿Qué consecuencia prevé el Reglamento?
+A. Es válido si el maestro supervisa el registro y luego firma el Centralizador impreso.
+B. Es válido si el Director del CEA autoriza por escrito la colaboración del familiar.
+C. Es acceso de persona ajena, prohibido y sujeto a sanciones administrativas y penales.
+D. Solo amerita una llamada de atención verbal del Director del CEA al maestro titular.
+Respuesta correcta: C
+Explicación: El Art. 33 prohíbe el acceso al SIE por personas ajenas a los interesados, sujeto a sanciones administrativas y penales; el Art. 29, numeral 1, obliga al maestro a custodiar su código velando por su confidencialidad.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulos V y VI, Arts. 29 y 33; páginas impresas: 13 y 15; páginas PDF: 19 y 21.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+72. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un participante reprobó un área en el primer semestre. Antes del registro final, pregunta qué derecho tiene. ¿Qué le responde el Director?
+A. Puede pedir que se promedie el área con las demás para aprobarla.
+B. Puede rendir el examen de nivelación de notas al final del semestre.
+C. Debe repetir obligatoriamente todo el semestre en la gestión siguiente.
+D. Puede solicitar a la Distrital que lo exima de cursar el área reprobada.
+Respuesta correcta: B
+Explicación: El Art. 32, derecho 2, reconoce al estudiante el derecho a dar el examen de nivelación de notas al final del semestre si hubiera reprobado o postergado un área en el primer y/o segundo semestre; el Art. 28, numeral 4, obliga al Director a organizarlo.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 28 y 32; páginas impresas: 12 y 14; páginas PDF: 18 y 20.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+73. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] El Técnico SIE – CyT departamental recibe directamente de un estudiante una solicitud de modificación de notas. ¿Qué debe hacer?
+A. Procesarla de inmediato, porque tiene competencia directa para modificar cualquier nota del SIE.
+B. No procesarla directamente: solo modifica notas a solicitud de la Distrital y con informe justificativo.
+C. Procesarla si el estudiante adjunta su Libreta original y una fotocopia simple de su Cédula de Identidad.
+D. Remitirla a la Unidad de Transparencia para que esta modifique la nota en el sistema SIE.
+Respuesta correcta: B
+Explicación: El Art. 26, II, numeral 5, dispone que el Técnico SIE – CyT departamental modifique y/o incluya notas previa verificación de requisitos del Art. 21, únicamente a solicitud de la Dirección Distrital y con informe justificativo; el trámite se inicia en el CEA (Art. 22).
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 26; página impresa: 10; página PDF: 16.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+74. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] Un maestro registra sus calificaciones en el SIE. ¿Qué debe hacer a continuación según el Art. 18?
+A. Entregarlas a los estudiantes para que verifiquen y firmen su conformidad.
+B. Enviarlas por correo al Técnico SIE distrital para su consolidación.
+C. Imprimirlas y presentarlas firmadas a la Directora o Director del CEA.
+D. Esperar a que la DDE habilite la opción de impresión del Centralizador.
+Respuesta correcta: C
+Explicación: El Art. 18, numeral 2, dispone que el maestro registre en el SIE las calificaciones de sus áreas, las cuales deberán ser impresas y presentadas al Director del CEA, debidamente firmadas.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 18; página impresa: 5; página PDF: 11.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+75. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Un CEA privado detecta errores en notas registradas en el SIE. ¿Puede acceder al procedimiento de modificación?
+A. Sí; el procedimiento rige para CEA fiscales, de convenio y privados.
+B. No; el procedimiento solo rige para los CEA fiscales del distrito.
+C. No; los CEA privados corrigen sus notas con su propio reglamento.
+D. Sí, pero debe pagar el trámite por tratarse de un centro privado.
+Respuesta correcta: A
+Explicación: El Art. 19, IV, dispone que la modificación y/o inclusión de notas se realizará para todas las solicitudes de CEA fiscales, de convenio o privados que hubieran detectado inconsistencias; el Art. 7, III, declara gratuito el trámite y el Art. 2 incluye a todos los CEA.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo IV, Art. 19; página impresa: 6; página PDF: 12.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+76. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] Un CEA imprime los Centralizadores en hojas valoradas compradas por los estudiantes. ¿Qué disposición incumple?
+A. La que prohíbe imprimir Centralizadores en el propio Centro de Educación.
+B. La que exige imprimirlos únicamente en la Dirección Distrital Educativa.
+C. La que exige imprimirlos en papel membretado del Ministerio de Educación.
+D. La que exige imprimirlos en hojas blancas no valoradas, rubricados y sellados.
+Respuesta correcta: D
+Explicación: El Art. 12 dispone que los Centralizadores descargados de la página Web del Ministerio se impriman en hojas blancas no valoradas, debidamente rubricados y sellados; el Art. 7 garantiza la gratuidad del proceso.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Arts. 7 y 12; páginas impresas: 2 y 3; páginas PDF: 8 y 9.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+77. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] La secretaria de un CEA recibe de un estudiante documentos para modificar una nota. ¿Qué le corresponde?
+A. Modificar la nota en el SIE con el código del Director, para agilizar el trámite.
+B. Remitir la documentación directamente a la DDE, sin pasar por la Distrital.
+C. Recepcionar, revisar y validar la documentación y luego derivarla a la Distrital.
+D. Rechazarla, porque solo el maestro puede iniciar la modificación de notas.
+Respuesta correcta: C
+Explicación: El Art. 30, numerales 2 y 3, dispone que la Secretaria o Secretario recepcione, revise y valide la documentación presentada por el estudiante para la modificación y/o inclusión de notas, y derive los centralizadores firmados y la documentación a la Dirección Distrital.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 30; página impresa: 13; página PDF: 19.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+78. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un CEA registra con error la fecha de nacimiento de un participante durante la inscripción. ¿Quién corrige el dato en el SIE?
+A. El maestro de área, con su código de registro, sin necesidad de documentación.
+B. El propio participante, con su código de consulta, desde cualquier computadora del CEA.
+C. El Técnico SIE o Polivalente distrital, por error del personal administrativo del CEA.
+D. La DGEA del Ministerio, mediante resolución expresa de corrección de datos.
+Respuesta correcta: C
+Explicación: El Art. 27, II, numeral 4, inciso a), asigna al Técnico SIE o Polivalente distrital la modificación y/o inclusión de datos propios del certificado de nacimiento por errores cometidos por el personal administrativo del CEA en el proceso de inscripción.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 27; página impresa: 11; página PDF: 17.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+79. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO II] Una institución verifica la autenticidad de una Libreta electrónica presentada por un egresado. ¿Qué elemento de seguridad la respalda?
+A. El holograma adherido por la Dirección Departamental de Educación.
+B. El código QR que encripta RUE, RUDEAL, C.I. y fecha de nacimiento.
+C. El número de serie impreso en la hoja valorada del Ministerio.
+D. La firma manuscrita del maestro de cada área de saberes del CEA.
+Respuesta correcta: B
+Explicación: El Art. 10 dispone que las Libretas y Certificados electrónicos cuentan con un sistema de seguridad QR que encripta los códigos RUE, RUDEAL, Cédula de Identidad y fecha de nacimiento, y que permite certificar de forma exacta su autenticidad.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo II, Art. 10; páginas impresas: 2 y 3; páginas PDF: 8 y 9.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+80. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] El Técnico de Adultos de la Subdirección de Educación Alternativa y Especial pide un código para revisar los datos de un CEA. ¿Qué tipo de código le corresponde según el Art. 15?
+A. Un código de consulta, que permite acceder a información específica de la base de datos.
+B. Un código de registro y actualización, que le permite corregir directamente las notas.
+C. Un código de administración, que le permite asignar y dar de baja códigos de maestros.
+D. Ninguno, porque el Reglamento solo asigna códigos a maestros, directores y estudiantes.
+Respuesta correcta: A
+Explicación: El Art. 15, II, numeral 1, dispone que el código de consulta se asigna a los estudiantes/participantes y al Técnico de Adultos de la Subdirección de Educación Alternativa y Especial; el de registro y actualización, a maestros, directores de CEA y técnicos SIE distritales y departamentales.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo III, Art. 15; página impresa: 4; página PDF: 10.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Como Director de CEA, ¿qué decisión debe tomar antes de consolidar los Centralizadores para su impresión?
+A. Imprimirlos primero y validarlos al siguiente semestre, en la reunión de maestros.
+B. Verificarlos y validarlos previamente, centralizándolos por semestre, nivel y área.
+C. Enviarlos sin revisar, porque cada maestro ya firmó su Centralizador como declaración.
+D. Encargar su validación a la junta de participantes para evitar conflictos de interés.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 28, numeral 6, dispone que el Director centralice los Centralizadores por semestre, niveles y áreas previa verificación y validación para su impresión; el numeral 5 le asigna revisar la documentación del registro y remitir informe a la Distrital.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un maestro informa al Director que perdió la confidencialidad de su código. ¿Qué decisión es coherente con el Reglamento?
+A. Entregar al maestro el código del Director para continuar el registro.
+B. Dar de baja el código comprometido y asignar uno nuevo al maestro.
+C. Mantener el código y pedir al maestro que no lo vuelva a compartir.
+D. Suspender el registro de notas de todo el CEA hasta fin de gestión.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 28, numeral 1, faculta al Director a asignar o dar de baja los códigos, siendo el único responsable; el Art. 29, numeral 1, exige al maestro custodiar su código velando por su confidencialidad, y el Art. 33 prohíbe el acceso de personas ajenas.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulos V y VI, Arts. 28, 29 y 33; páginas impresas: 12, 13 y 15; páginas PDF: 18, 19 y 21.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO IV] Como Director, recibe una solicitud de modificación de notas con el formulario incompleto. ¿Qué decisión corresponde?
+A. Remitirla tal como está a la Distrital, que es la instancia que debe revisar los requisitos.
+B. Rechazarla definitivamente, sin posibilidad de que el estudiante la vuelva a presentar.
+C. Revisar minuciosamente y no remitirla hasta que la documentación esté completa y validada.
+D. Completar el formulario con los datos que considere correctos y firmarlo como maestro.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 22, numeral 1, dispone que el Director y el personal administrativo revisen minuciosamente la documentación y remitan a la Distrital el informe y la documentación validada; el Art. 28, numeral 9, le asigna revisar, verificar, sellar y firmar dicha documentación.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulos IV y V, Arts. 22 y 28; páginas impresas: 7 y 12; páginas PDF: 13 y 18.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un Director Distrital detecta que varios CEA reportan tarde la información semestral. ¿Qué decisión prevé el Reglamento?
+A. Realizar monitoreo y seguimiento constante y organizar reuniones y talleres periódicos.
+B. Asumir él mismo el registro de calificaciones de todos los CEA del distrito.
+C. Solicitar al Ministerio la suspensión del uso del SIE en los CEA atrasados.
+D. Sancionar directamente a los Directores de CEA con descuentos de sus haberes mensuales.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 27, I, numerales 1 y 7, asigna al Director Distrital organizar reuniones y talleres periódicos con Directores y personal de los CEA para el seguimiento del reporte al SIE, y realizar monitoreo y seguimiento constante para el reporte oportuno cada semestre.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 27; páginas impresas: 10 y 11; páginas PDF: 16 y 17.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un Director de CEA concluye el trámite interno de una modificación de notas. ¿A qué instancia debe elevar el informe y la documentación?
+A. A la Unidad de Transparencia del Ministerio.
+B. A la Dirección Distrital de Educación correspondiente.
+C. A la Dirección General de Educación de Adultos.
+D. Al Viceministerio de Educación Alternativa.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 28, numeral 11, dispone que el Director eleve informe y remita la documentación del proceso de modificación y/o inclusión de notas a la Dirección Distrital de Educación correspondiente; en igual sentido, el Art. 22, numeral 1, inciso c).
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 28; página impresa: 12; página PDF: 18.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Un Director Departamental quiere asegurar el archivo de los Centralizadores semestrales en su DDE. ¿Qué decisión debe instruir a la Subdirección?
+A. Verificar que estén foliados, rotulados, empastados y archivados en el área de legalizaciones.
+B. Remitirlos al Ministerio de Educación para su custodia centralizada a nivel nacional.
+C. Devolverlos a los CEA para que cada Centro sea el único responsable de su custodia.
+D. Digitalizarlos y destruir los originales impresos para liberar espacio en el archivo departamental.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 26, I, numeral 5, dispone que el Director Departamental, a través de la Subdirección de Educación Alternativa y Especial, verifique que los Centralizadores semestrales foliados, rotulados y empastados sean archivados y resguardados en el área de legalizaciones.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 26; página impresa: 10; página PDF: 16.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] La DGEA advierte que datos de varios CEA no se procesan oportunamente. ¿Qué decisión le corresponde según el Art. 25?
+A. Sustituir a los técnicos SIE distritales en el registro de calificaciones de todos los CEA afectados.
+B. Emitir Resoluciones Administrativas para modificar de oficio las notas de esos CEA.
+C. Monitorear la consolidación en el SIE y coordinar con las Subdirecciones de Educación Alternativa.
+D. Cerrar temporalmente los CEA que no reportan su información de manera oportuna.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 25 asigna a la DGEA el monitoreo y seguimiento constante a la consolidación y actualización de la información en el SIE para que los datos de los CEA se procesen correcta y oportunamente, y coordinar con las Subdirecciones de Educación Alternativa y Especial.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 25; página impresa: 9; página PDF: 15.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] El personal técnico de una Distrital no conoce bien la aplicación del SIE. ¿Quién debe capacitarlo según el Reglamento?
+A. La Directora o el Director del Centro de Educación Alternativa.
+B. La junta de participantes de cada Centro del distrito educativo.
+C. La Unidad de Transparencia de la Dirección Departamental.
+D. La Técnica o el Técnico SIE – Ciencia y Tecnología Departamental.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 26, II, numeral 2, asigna al Técnico SIE – CyT Departamental capacitar al personal técnico de las Direcciones Distritales sobre el uso y manejo de la aplicación informática; el Art. 24, numeral 5, encarga a la DGP-SIE capacitar a los usuarios en general.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 24 y 26; páginas impresas: 9 y 10; páginas PDF: 15 y 16.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Al terminar el semestre, un Director de CEA decide cuándo entregar las Libretas. ¿Qué decisión se ajusta al Reglamento?
+A. Imprimirlas, sellarlas, firmarlas y entregarlas a la finalización de cada semestre.
+B. Entregarlas solo a los estudiantes que aprobaron todas las áreas de saberes del semestre.
+C. Entregarlas cuando la Distrital confirme la recepción de los Centralizadores.
+D. Entregarlas solo al final de la gestión, junto con el Historial Académico.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 28, numeral 7, dispone que el Director imprima, selle, firme y entregue la Libreta y/o Certificado electrónico a los estudiantes a la finalización de cada semestre; el Art. 11, numeral 2, exige hacerlo sin condición alguna.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulos II y V, Arts. 11 y 28; páginas impresas: 3 y 12; páginas PDF: 9 y 18.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Al cierre del semestre, ¿qué decisión debe tomar el Director Distrital respecto de los informes de registro, impresión y entrega de Libretas de los CEA?
+A. Devolverlos a los CEA para que los presenten nuevamente al inicio del semestre siguiente.
+B. Revisar la documentación e informes e informar a la Dirección Departamental sobre los resultados.
+C. Remitirlos directamente a la DGEA, sin informar a la Dirección Departamental de Educación.
+D. Archivarlos sin revisión, porque la responsabilidad del proceso es exclusiva de cada Director de CEA.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 27, I, numeral 2, dispone que el Director Distrital revise la documentación e informes referentes al proceso de registro, impresión y entrega de la Libreta y/o Certificado de Calificación e informe a la Dirección Departamental de Educación sobre los resultados.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 27; página impresa: 11; página PDF: 17.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Desde una visión sistémica, ¿cómo fluyen los códigos de acceso desde su generación hasta los maestros de un CEA?
+A. DGP los genera y entrega a las Subdirecciones; la DDE los da a los Directores, y estos a los maestros.
+B. Cada Distrital los genera y los entrega a los maestros sin ninguna intervención del Director del CEA.
+C. El Director del CEA los genera en el SIE y los reporta luego a la Distrital para su registro.
+D. La DGEA los genera y los entrega directamente a cada maestro registrado en el SIE del país.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 15, I, y el Art. 24, numeral 11, disponen que la DGP genera los códigos y los entrega a las Subdirecciones de Educación Alternativa y Especial; el Art. 26, I, numeral 6, que la DDE los entregue a los Directores de CEA; y el Art. 28, numeral 1, que el Director los asigne a maestros y estudiantes.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Arts. 15, 24, 26 y 28; páginas impresas: 4, 9, 10 y 12; páginas PDF: 10, 15, 16 y 18.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Al planificar la gestión de un CEA, ¿qué estrategia de calidad de datos se desprende del Art. 28?
+A. Evaluar la información del SIE con el personal antes y después del registro del Centralizador.
+B. Registrar las calificaciones una sola vez al año para reducir errores de transcripción.
+C. Delegar la calidad de los datos exclusivamente a los técnicos SIE de la Dirección Distrital.
+D. Restringir el acceso de los estudiantes al SIE para evitar reclamos sobre sus notas.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 28, numeral 2, dispone que el Director organice reuniones con maestros y personal administrativo para evaluar la información registrada en el SIE antes y después del registro del Centralizador; el Art. 32 reconoce al estudiante el derecho a verificar sus calificaciones.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Arts. 28 y 32; páginas impresas: 12 y 14; páginas PDF: 18 y 20.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] ¿Qué responsabilidad de la DGP-SIE sustenta, a nivel estratégico, el seguimiento que realizan las DDE, Distritales y CEA?
+A. Diseñar las Libretas y Certificados de Calificaciones del área Humanística.
+B. Implementar módulos de seguimiento y monitoreo para esas Direcciones y Centros.
+C. Aprobar los presupuestos anuales de los Centros de Educación Alternativa.
+D. Designar a los Directores Distritales y Departamentales de Educación Alternativa.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 24, numeral 6, asigna a la DGP-SIE implementar módulos de seguimiento y monitoreo para las Direcciones Departamentales, Distritales y CEA; el diseño de Libretas corresponde al Viceministerio de Educación Alternativa y Especial (Art. 8).
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 24; página impresa: 9; página PDF: 15.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] En un plan departamental de mejora del registro, ¿qué reuniones debe organizar el Director Departamental a través de la Subdirección?
+A. Con Directores Distritales y técnicos SIE, para evaluar la información antes y después del registro.
+B. Con la DGEA, para transferirle la responsabilidad de consolidar la información departamental.
+C. Con la junta de participantes, para definir los plazos de entrega de las Libretas electrónicas.
+D. Con los maestros de todos los CEA, para aprobar las calificaciones finales de cada semestre.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 26, I, numeral 1, dispone que el Director Departamental, a través de la Subdirección de Educación Alternativa y Especial, organice reuniones con Directores Distritales y personal técnico del SIE o Polivalente para evaluar la información del SIE previo y posterior al registro de calificaciones.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 26; páginas impresas: 9 y 10; páginas PDF: 15 y 16.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] Al asumir la dirección de un CEA, ¿qué instancias señala el Art. 3 como responsables directas de la aplicación, cumplimiento y difusión del Reglamento?
+A. Ministerio (VEAE y Direcciones Generales), DDE, Distritales y Direcciones de CEA.
+B. Solo las Direcciones de CEA, con apoyo técnico de la Dirección General de Planificación.
+C. Solo el Ministerio de Educación, a través del Viceministerio de Educación Alternativa.
+D. Las juntas de participantes, los maestros y la Unidad de Transparencia de la DDE.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 3 dispone que el Ministerio de Educación a través del Viceministerio de Educación Alternativa y Especial, las Direcciones Generales correspondientes, las DDE, las Direcciones Distritales y las Direcciones de CEA son directos responsables de la aplicación, cumplimiento y difusión del Reglamento.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo I, Art. 3; página impresa: 1; página PDF: 7.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO III] Para garantizar la integridad del Historial Académico de los participantes, ¿qué condición sistémica debe asegurar la gestión institucional?
+A. El resguardo de las Libretas originales en el CEA, sin entregarlas a los estudiantes.
+B. La aprobación del Historial por la junta de participantes al final de cada gestión.
+C. La emisión anual de Historiales impresos firmados por cada maestro de área del CEA.
+D. El registro completo de calificaciones en el SIE, que consolida el Historial Académico.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 16, III, dispone que el registro de calificaciones permitirá contar con el Historial Académico consolidado en el SIE para el área Humanística y la Técnica; el Art. 6, II y III, lo define como reporte del SIE que registra las calificaciones acumuladas.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulos I y III, Arts. 6 y 16; páginas impresas: 2 y 5; páginas PDF: 8 y 11.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO V] Ante una dificultad técnica del SIE durante el registro, ¿qué compromiso del nivel central permite al Director planificar con seguridad?
+A. La DDE debe ampliar automáticamente el plazo de registro en todos los CEA afectados.
+B. El CEA puede registrar las notas en un sistema propio y migrarlas al SIE más tarde.
+C. La Distrital debe asumir el registro de todas las notas mientras dure la dificultad.
+D. La DGP-SIE debe asignar personal para resolver dificultades técnicas en tiempo real.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 24, numerales 4 y 7, asigna a la DGP-SIE asignar personal para resolver dificultades técnicas del sistema en tiempo real y mantener la disponibilidad del SIE en línea para el uso continuo de los usuarios.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Capítulo V, Art. 24; página impresa: 9; página PDF: 15.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] Si la Libreta, el Certificado y el Historial Académico son "reportes generados por el SIE" (Art. 6, III), ¿qué conclusión estratégica debe asumir la dirección de un CEA?
+A. Que la calidad del registro en el SIE determina la calidad de los documentos que acreditan.
+B. Que los documentos impresos prevalecen siempre sobre la información registrada en el SIE.
+C. Que los errores del SIE no afectan la validez legal de los documentos que se entregan.
+D. Que el registro en el SIE es optativo cuando el CEA emite sus propios documentos impresos y firmados.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 6, III, define las Libretas, Certificados e Historial como reportes generados por el SIE; el Art. 16, III, dispone que el registro de calificaciones permite contar con el Historial consolidado, y el Art. 19, III, prevé subsanar inconsistencias de la base de datos.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Arts. 6, 16 y 19; páginas impresas: 2, 5 y 6; páginas PDF: 8, 11 y 12.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [R.M. 800/2015 Reglamento de Libretas Electrónicas – RESOLUCIÓN MINISTERIAL] Según la parte considerativa de la R.M. 800/2015, ¿qué utilidad de largo plazo tienen los Centralizadores Semestrales, que justifica su gestión cuidadosa?
+A. Determinar la categoría docente y los ascensos de los maestros de cada Centro.
+B. Seleccionar a los estudiantes que recibirán becas de la Gobernación departamental.
+C. Calcular el presupuesto anual que el Ministerio asigna a cada Centro de Educación.
+D. Verificar años de escolaridad y extender Historiales para educación superior o el exterior.
+Respuesta correcta: D
+Explicación: Aplicación razonada: La parte considerativa de la R.M. 800/2015 (Informe Técnico IN/VEAE/DGEA N.º 0243/2015) señala que los Centralizadores Semestrales incorporan información que sirve para verificar los años de escolaridad y extender Historiales Académicos para la incorporación a instituciones de educación superior o salidas al exterior.
+Sustento: R.M. 800/2015, Considerandos; página PDF: 5 (la Resolución no tiene numeración impresa).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [R.M. 800/2015 Reglamento de Libretas Electrónicas – CAPÍTULO I] Al diseñar el protocolo de un CEA para la custodia de códigos y la reserva de calificaciones, ¿qué principio del Art. 5 se fortalece principalmente?
+A. La confidencialidad.
+B. La accesibilidad.
+C. La disponibilidad.
+D. La transparencia.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 5 enumera los principios de accesibilidad, disponibilidad, autenticidad, confidencialidad, transparencia, equidad, confiabilidad y consistencia técnica; los Arts. 29 y 32 vinculan la custodia del código con la confidencialidad, y el Art. 33 protege la privacidad de la base de datos.
+Sustento: R.M. 800/2015, Reglamento de Libretas Electrónicas, Arts. 5, 29, 32 y 33; páginas impresas: 1, 13, 14 y 15; páginas PDF: 7, 19, 20 y 21.

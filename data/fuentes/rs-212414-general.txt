@@ -1,0 +1,1102 @@
+# Fuente: rs-212414-general.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# SISTEMA EDUCATIVO PLURINACIONAL
+# BANCO DE PREGUNTAS DE NIVEL MUY AVANZADO
+# Evaluación de aspirantes a cargos directivos
+# Fuente exclusiva
+# R.S. N.º 212414 – Reglamento de Faltas y Sanciones del Magisterio y Personal Docente y Administrativo
+# Resolución Suprema de 21 de abril de 1993
+# 100 preguntas de opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# La Paz – Bolivia
+# Noviembre de 2026
+# 1. Presentación del instrumento
+# El presente banco de 100 preguntas de nivel muy avanzado está dirigido a la evaluación de aspirantes a cargos directivos del Sistema Educativo Plurinacional. Ha sido elaborado exclusivamente a partir de la R.S. N.º 212414, Reglamento de Faltas y Sanciones del Magisterio y Personal Docente y Administrativo, sin incorporar fuentes externas.
+# Cada pregunta indica su dimensión de evaluación, su modalidad (Conceptual, Interpretativa, Aplicación razonada o Caso práctico), la respuesta correcta, una fundamentación breve y la referencia documental verificable. El rótulo «Aplicación razonada» distingue las situaciones derivadas de las preguntas de conocimiento textual.
+# Al inicio de cada enunciado se consigna, entre corchetes, el documento y el capítulo de procedencia, para garantizar la trazabilidad de la fuente cuando las preguntas se integren aleatoriamente en una plataforma de simulación junto con preguntas de otros documentos.
+# El Reglamento atribuye a la autoridad inmediata superior la sanción de faltas leves y la recepción de denuncias, y a los tribunales disciplinarios la sanción de faltas graves y muy graves; las preguntas sobre competencias directivas se limitan a esas atribuciones.
+# 2. Ficha técnica
+# Aspecto
+# Detalle
+# Documento fuente
+# R.S. N.º 212414 – Reglamento de Faltas y Sanciones del Magisterio y Personal Docente y Administrativo – Resolución Suprema de 21 de abril de 1993
+# Archivo
+# 2. R.S. 212414 Reglamento de faltas y sanciones.pdf (6 páginas PDF)
+# Cantidad de preguntas
+# 100
+# Modalidad
+# Opción múltiple y casos prácticos
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta
+# Rótulos de modalidad
+# Conceptual · Interpretativa · Aplicación razonada · Caso práctico
+# Criterio de paginación
+# El documento fuente no consigna numeración impresa; por ello, cada referencia indica «página impresa: sin numeración» y la página PDF exacta donde se encuentra la disposición.
+# 3. Distribución metodológica y ponderación
+# N.º
+# Dimensión de evaluación
+# Preguntas
+# Peso
+# Rango
+# 1
+# Conocimiento y memorización
+# 5
+# 5%
+# 1–5
+# 2
+# Dominio conceptual
+# 5
+# 5%
+# 6–10
+# 3
+# Competencias y responsabilidades directivas
+# 10
+# 10%
+# 11–20
+# 4
+# Comprensión e interpretación
+# 10
+# 10%
+# 21–30
+# 5
+# Diferenciación conceptual
+# 5
+# 5%
+# 31–35
+# 6
+# Análisis crítico
+# 10
+# 10%
+# 36–45
+# 7
+# Aplicación normativa
+# 15
+# 15%
+# 46–60
+# 8
+# Resolución de casos prácticos
+# 20
+# 20%
+# 61–80
+# 9
+# Toma de decisiones
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de respuestas correctas: A = 25 · B = 25 · C = 25 · D = 25.
+# Distribución por modalidad: Conceptual = 23 · Interpretativa = 22 · Aplicación razonada = 33 · Caso práctico = 22.
+# 4. Banco de preguntas
+# Dimensión: Conocimiento y memorización
+# Se verificó que el banco contiene exactamente 100 preguntas distribuidas según la tabla metodológica, cada una con cuatro alternativas y una sola respuesta correcta respaldada por el texto del Reglamento.
+# Las respuestas correctas se distribuyeron de manera equilibrada entre A, B, C y D, sin secuencias predecibles, y se controló la homogeneidad de extensión de las alternativas. En preguntas cuya respuesta es una categoría breve (por ejemplo, «Falta grave») la diferencia relativa de caracteres puede ser mayor por la naturaleza del dato, sin revelar la respuesta.
+# Observación documental: el Art. 6 exceptúa de la prohibición de suspensión preventiva el «inciso a) de tipificación de faltas muy graves», que en el Art. 11 corresponde a la reincidencia voluntaria en faltas graves; las preguntas respetan esa lectura literal. El Capítulo Séptimo menciona la revisión, pero solo desarrolla el procedimiento de apelación.
+
+CAPÍTULO: rs-212414-general
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Según el Reglamento, las faltas o infracciones disciplinarias se clasifican en:
+A. Simples, graves y gravísimas.
+B. Leves, graves y muy graves.
+C. Leves, moderadas y graves.
+D. Menores, mayores y penales.
+Respuesta correcta: B
+Explicación: El Art. 8 dispone expresamente que las faltas se clasifican en leves, graves y muy graves; los Arts. 9, 10 y 11 tipifican cada categoría.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 8; página impresa: sin numeración; página PDF: 2.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] ¿Qué sanciones corresponden a las faltas muy graves?
+A. Destitución del cargo con opción de reincorporación a partir del año siguiente.
+B. Descenso a un cargo inferior y postergación de ascenso por dos años.
+C. Suspensión sin goce de haber de sesenta a noventa días y traslado.
+D. Retiro definitivo del ejercicio del Magisterio o destitución del cargo.
+Respuesta correcta: D
+Explicación: El Art. 13, inciso c), establece como sanciones por faltas muy graves el retiro definitivo del ejercicio del Magisterio o la destitución del cargo.
+Sustento: R.S. 212414, Capítulo Cuarto, Art. 13, inc. c); página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] Los tribunales disciplinarios, en los niveles nacional y departamental, se componen de:
+A. Un Presidente, un Juez instructor y un Fiscal Promotor.
+B. Un Director, un Asesor jurídico y un Secretario de actas.
+C. Un Presidente, un Vocal de la Federación y un Secretario-Actuario.
+D. Un Presidente, un Fiscal Promotor y un Secretario-Actuario.
+Respuesta correcta: D
+Explicación: Los Arts. 15 y 18 disponen que los tribunales disciplinarios, nacionales y departamentales, se componen de un Presidente, un Fiscal Promotor y un Secretario-Actuario.
+Sustento: R.S. 212414, Capítulo Quinto, Arts. 15 y 18; página impresa: sin numeración; páginas PDF: 4 y 5.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] ¿Quién preside el Tribunal Disciplinario Nacional?
+A. El Ministro de Educación y Cultura.
+B. El Director General de Educación.
+C. El Secretario General de la Confederación.
+D. El Director Departamental de La Paz.
+Respuesta correcta: B
+Explicación: El Art. 16 dispone que el Tribunal Disciplinario Nacional, con sede en La Paz, está presidido por el Director General de Educación.
+Sustento: R.S. 212414, Capítulo Quinto, Art. 16; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [R.S. 212414 Reglamento de Faltas y Sanciones – RESOLUCIÓN APROBATORIA] ¿Qué norma anterior fue sustituida por la R.S. 212414, según sus considerandos?
+A. La R.M. 062/00 de 17 de febrero de 2000, por no regular el proceso disciplinario.
+B. La R.S. 208138 de 25 de septiembre de 1990, por sus manifiestas deficiencias.
+C. El D.S. 04688 de 18 de julio de 1957, por haberse vuelto un texto anacrónico.
+D. La R.S. 208138 de 21 de abril de 1993, por contradecir la legislación penal.
+Respuesta correcta: B
+Explicación: Los considerandos señalan que el Reglamento de Faltas y Sanciones puesto en vigencia mediante R.S. 208138 de 25 de septiembre de 1990 adolece de manifiestas deficiencias; la R.S. 212414 aprueba el nuevo Reglamento en ocho capítulos y veintinueve artículos y abroga las disposiciones contrarias.
+Sustento: R.S. 212414, Resolución aprobatoria (Vistos y Considerando, Primero y Segundo); página impresa: sin numeración; página PDF: 1.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+6. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] ¿Qué constituye una falta o infracción disciplinaria según el Art. 7?
+A. El incumplimiento de deberes constitucionales y educativos, y la inobservancia del Reglamento.
+B. La conducta privada del maestro que afecte la imagen de la institución fuera de sus funciones.
+C. Toda conducta tipificada como delito en el Código Penal cometida dentro del establecimiento.
+D. El incumplimiento de órdenes verbales del superior, aunque no estén previstas en la normativa.
+Respuesta correcta: A
+Explicación: El Art. 7 define como faltas el incumplimiento de los deberes del Art. 8 de la Constitución (incisos a, f y h), de las obligaciones de la legislación educativa vigente y la inobservancia del Reglamento, cometidas en el ejercicio de las funciones. Los delitos se rigen por la legislación penal (Art. 2).
+Sustento: R.S. 212414, Capítulo Tercero, Art. 7; Capítulo Primero, Art. 2; página impresa: sin numeración; páginas PDF: 1 y 2.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+7. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEGUNDO] ¿Cuál es el contenido esencial del derecho de defensa reconocido en el Art. 3?
+A. Nadie puede ser sancionado sin haber sido oído y juzgado; la defensa es ineludible.
+B. La defensa solo es obligatoria en los procesos por faltas graves y muy graves.
+C. El procesado debe ser defendido por un abogado designado por el sindicato.
+D. El procesado puede renunciar a su defensa si acepta la sanción propuesta en forma escrita.
+Respuesta correcta: A
+Explicación: El Art. 3, con base en la Constitución, la legislación penal, la Declaración Universal y la Recomendación de la UNESCO de 1966, dispone que nadie puede ser sancionado sin haber sido oído y juzgado, y que el derecho de defensa en el proceso disciplinario es ineludible.
+Sustento: R.S. 212414, Capítulo Segundo, Art. 3; página impresa: sin numeración; página PDF: 1.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+8. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEGUNDO] La presunción de inocencia del encausado, según el Reglamento, se mantiene:
+A. Hasta que concluya el periodo probatorio.
+B. Mientras la falta sea de carácter leve.
+C. Mientras no se pruebe su culpabilidad.
+D. Hasta que se presente la denuncia formal.
+Respuesta correcta: C
+Explicación: El Art. 5 dispone que se presume la inocencia del encausado mientras no se pruebe su culpabilidad, conforme al Art. 70 del Código Penal citado por el Reglamento.
+Sustento: R.S. 212414, Capítulo Segundo, Art. 5; página impresa: sin numeración; página PDF: 2.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+9. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEGUNDO] La prohibición de juzgamiento irregular del Art. 4 significa que ningún maestro, administrativo o autoridad educativa puede ser juzgado por:
+A. Comisiones especiales o tribunales extraordinarios.
+B. El Tribunal Disciplinario Departamental competente.
+C. El Tribunal Nacional en grado de apelación.
+D. La autoridad inmediata superior en faltas leves.
+Respuesta correcta: A
+Explicación: El Art. 4 prohíbe que maestros, administrativos o autoridades educativas sean juzgados por comisiones especiales o tribunales extraordinarios por las faltas tipificadas en el Reglamento.
+Sustento: R.S. 212414, Capítulo Segundo, Art. 4; página impresa: sin numeración; página PDF: 2.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+10. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] ¿Qué efecto atribuye el Reglamento a la sanción disciplinaria impuesta sin cumplir las normas procesales?
+A. Es anulable únicamente a pedido de parte.
+B. Se reduce de oficio a amonestación escrita.
+C. Se tiene por inexistente en todo caso.
+D. Queda en suspenso hasta su revisión.
+Respuesta correcta: C
+Explicación: El Art. 14 dispone que toda sanción disciplinaria impuesta sin el cumplimiento de las normas procesales especificadas en el Reglamento se tendrá por inexistente.
+Sustento: R.S. 212414, Capítulo Cuarto, Art. 14; página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+11. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] ¿Quién sanciona las faltas leves según el Reglamento?
+A. La autoridad inmediata superior del infractor.
+B. El Tribunal Disciplinario Departamental.
+C. El Fiscal Promotor del tribunal departamental.
+D. El Tribunal Disciplinario Nacional.
+Respuesta correcta: A
+Explicación: El Art. 22 dispone que las faltas leves serán sancionadas por la autoridad inmediata superior, mientras que las graves y muy graves serán sancionadas por el tribunal correspondiente.
+Sustento: R.S. 212414, Capítulo Quinto, Art. 22; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+12. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] ¿Qué competencia tienen los tribunales disciplinarios departamentales y regionales?
+A. Conocer las faltas leves y, en apelación, los fallos dictados por el Tribunal Nacional.
+B. Conocer, en primera instancia, denuncias de faltas graves y muy graves de su jurisdicción.
+C. Conocer, en única instancia, todas las faltas leves, graves y muy graves del departamento.
+D. Conocer las apelaciones contra sanciones de faltas leves impuestas por los directores.
+Respuesta correcta: B
+Explicación: El Art. 17 atribuye a los tribunales departamentales y regionales, con sede en la capital de cada departamento, competencia como tribunal de primera instancia para conocer denuncias de faltas graves y muy graves de su jurisdicción.
+Sustento: R.S. 212414, Capítulo Quinto, Art. 17; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+13. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] ¿Qué competencia tiene el Tribunal Disciplinario Nacional?
+A. Conocer las faltas leves de los directores departamentales y distritales.
+B. Conocer en primera instancia las faltas muy graves de autoridades nacionales.
+C. Conocer las apelaciones contra los fallos de los tribunales departamentales.
+D. Conocer las denuncias que los tribunales departamentales no resolvieron.
+Respuesta correcta: C
+Explicación: El Art. 16 asigna al Tribunal Disciplinario Nacional, con sede en La Paz, competencia para conocer las apelaciones interpuestas contra los fallos pronunciados por los tribunales de primera instancia o departamentales.
+Sustento: R.S. 212414, Capítulo Quinto, Art. 16; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Interpretativa
+14. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] Según el Art. 18, ¿cómo se designa a los miembros de los tribunales departamentales?
+A. Por elección de los maestros del departamento, con aval del Director Departamental del área.
+B. Por el Director General de Educación, previa terna presentada por la Federación Departamental.
+C. Por el Director Departamental, en corresponsabilidad con la Federación Departamental del área.
+D. Por el Ministerio de Educación, en corresponsabilidad con la Confederación de Trabajadores.
+Respuesta correcta: C
+Explicación: El Art. 18 dispone que los tribunales se conforman con maestros-abogados de ascendencia y autoridad moral; los departamentales son designados por el Director Departamental de Educación (urbano o rural) de manera corresponsable con la Federación Departamental de Trabajadores de Educación del área; el nacional, por el Ministerio en corresponsabilidad con la Confederación.
+Sustento: R.S. 212414, Capítulo Quinto, Art. 18; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+15. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] ¿Qué perfil exige el Reglamento a quienes conforman los tribunales disciplinarios?
+A. Abogados externos sin vínculo con el magisterio.
+B. Directores de unidades con más de diez años.
+C. Dirigentes sindicales con formación jurídica.
+D. Maestros-abogados de ascendencia y autoridad moral.
+Respuesta correcta: D
+Explicación: El Art. 18 establece que los tribunales estarán conformados por maestros-abogados de ascendencia y autoridad moral; el Art. 19 añade que deben ser de igual o superior jerarquía que los encausados.
+Sustento: R.S. 212414, Capítulo Quinto, Arts. 18 y 19; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Interpretativa
+16. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] Ante la renuncia, excusa o recusación de miembros del tribunal disciplinario, ¿quién procede a reemplazarlos y cómo?
+A. El presidente del tribunal, designando a un miembro suplente de su confianza.
+B. El Tribunal Nacional, por sorteo entre los maestros-abogados habilitados del departamento.
+C. La Federación sindical, previa consulta escrita al Director Departamental.
+D. La autoridad designante, de inmediato, en coordinación con la Dirección Sindical.
+Respuesta correcta: D
+Explicación: El Art. 20 dispone que, en caso de renuncia, excusa o recusación, la autoridad designante procede a reemplazar al miembro de inmediato, en coordinación con la Dirección Sindical de los maestros y previa comprobación de la causal.
+Sustento: R.S. 212414, Capítulo Quinto, Art. 20; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+17. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO OCTAVO] ¿Quién ejecuta los fallos disciplinarios y en qué plazo?
+A. El Tribunal Nacional, en quince días desde la recepción de la apelación interpuesta.
+B. El Tribunal Departamental, en cinco días desde que se notifica el fallo a la persona sancionada.
+C. Las autoridades administrativas, en tres días desde que reciben la Resolución Ministerial.
+D. La autoridad inmediata superior, en veinticuatro horas desde la emisión del fallo.
+Respuesta correcta: C
+Explicación: El Art. 28 dispone que la ejecución de los fallos corresponde a las autoridades administrativas pertinentes, que proceden a su cumplimiento dentro de tres días de la recepción de la copia de la Resolución Ministerial.
+Sustento: R.S. 212414, Capítulo Octavo, Art. 28; página impresa: sin numeración; página PDF: 6.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+18. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SÉPTIMO] ¿Mediante qué instrumento se emite la revocación o confirmación del fallo por el Tribunal Nacional?
+A. Resolución Ministerial del Ministerio de Educación, con autoridad de cosa juzgada.
+B. Resolución Administrativa del Director Departamental, apelable al Ministerio.
+C. Resolución Suprema del Presidente, con calidad de sentencia ejecutoriada.
+D. Auto del Tribunal Nacional, revisable por el Tribunal Departamental de origen.
+Respuesta correcta: A
+Explicación: El Art. 27 dispone que la revocación o confirmación del fallo por el Tribunal Nacional será emitida por el Ministerio de Educación mediante Resolución Ministerial, que adquiere calidad de autoridad de cosa juzgada.
+Sustento: R.S. 212414, Capítulo Séptimo, Art. 27; página impresa: sin numeración; página PDF: 6.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+19. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO OCTAVO] Respecto del archivo y custodia de expedientes disciplinarios, el Reglamento dispone que:
+A. Se custodian en la unidad educativa del sancionado, con copia a la Federación sindical.
+B. Se custodian en el Tribunal Departamental, sin copia en el expediente del interesado.
+C. Se custodian en el archivo del Ministerio, con copia legalizada al expediente personal.
+D. Se destruyen al cumplirse la sanción, conservando solo la Resolución Ministerial.
+Respuesta correcta: C
+Explicación: El Art. 29 dispone que los expedientes se guardan y custodian en el departamento de archivo del Ministerio, se incluye una copia legalizada en el expediente personal del interesado y se envía otra a las autoridades superiores inmediatas.
+Sustento: R.S. 212414, Capítulo Octavo, Art. 29; página impresa: sin numeración; página PDF: 6.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+20. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] ¿Ante quién se interpone la denuncia por faltas disciplinarias?
+A. Ante la autoridad inmediata superior del imputado.
+B. Ante el Fiscal Promotor del tribunal del distrito.
+C. Ante la Federación de Trabajadores de Educación.
+D. Directamente ante el Tribunal Disciplinario Nacional.
+Respuesta correcta: A
+Explicación: El Art. 23 dispone que la denuncia puede interponerse verbalmente o por escrito, por los damnificados o sus tutores o la autoridad educativa, ante la autoridad inmediata superior del imputado; el Art. 24 prevé su remisión al Tribunal Departamental en 48 horas.
+Sustento: R.S. 212414, Capítulo Sexto, Arts. 23 y 24; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+21. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO PRIMERO] ¿A qué personal se aplica el Reglamento según el Art. 1 (imputabilidad)?
+A. Solo a los directores y autoridades educativas comprendidos en la escala jerárquica docente.
+B. Al personal docente y administrativo de unidades fiscales, de convenio y privadas, sin distinción alguna.
+C. Al comprendido en los Arts. 20 y 21 del Escalafón y al de organismos desconcentrados y descentralizados.
+D. Solo al personal docente con ítem fiscal, excluyendo a los funcionarios administrativos del ramo.
+Respuesta correcta: C
+Explicación: El Art. 1 dispone que el Reglamento se aplica a todo el personal comprendido en los Arts. 20 y 21 del Reglamento del Escalafón Nacional (escalas jerárquicas docente y administrativa), así como al de los organismos desconcentrados y descentralizados.
+Sustento: R.S. 212414, Capítulo Primero, Art. 1; página impresa: sin numeración; página PDF: 1.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+22. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO PRIMERO] ¿Cómo delimita el Art. 2 la materia que se sustancia mediante este Reglamento?
+A. Solo las faltas de los Arts. 9, 10 y 11; los delitos siguen el Código Penal y su procedimiento.
+B. Las faltas y los delitos cometidos en funciones, con remisión posterior al Ministerio Público.
+C. Las faltas de los Arts. 9, 10 y 11 y los delitos que la autoridad educativa califique de leves.
+D. Todas las conductas del personal, salvo las que motiven una querella particular de la víctima.
+Respuesta correcta: A
+Explicación: El Art. 2 dispone que los delitos previstos en el Código Penal se sustancian según ese Código y el Código de Procedimiento Penal, correspondiendo sustanciar mediante el Reglamento únicamente las faltas tipificadas en los Arts. 9, 10 y 11.
+Sustento: R.S. 212414, Capítulo Primero, Art. 2; página impresa: sin numeración; página PDF: 1.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+23. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEGUNDO] Conforme al Art. 6, durante el proceso por faltas disciplinarias, el trabajador de la educación:
+A. Debe ser removido de su cargo si la falta denunciada se encuentra tipificada como grave o muy grave.
+B. Puede ser trasladado preventivamente por la autoridad inmediata superior para facilitar la investigación.
+C. Debe ser suspendido sin goce de haberes desde la presentación de la denuncia hasta el fallo del tribunal competente.
+D. No puede ser suspendido ni removido mientras no se compruebe su culpabilidad, salvo la excepción prevista.
+Respuesta correcta: D
+Explicación: El Art. 6 establece que ningún trabajador de la educación podrá ser suspendido o removido durante el proceso mientras no se compruebe su culpabilidad, excepto en el inciso a) de la tipificación de faltas muy graves, donde procede la suspensión inmediata.
+Sustento: R.S. 212414, Capítulo Segundo, Art. 6; página impresa: sin numeración; página PDF: 2.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+24. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] ¿Qué criterio debe considerar el tribunal al aplicar las sanciones a los infractores?
+A. La concurrencia de circunstancias atenuantes o agravantes.
+B. La opinión de la Federación sindical sobre el procesado.
+C. El número de denuncias acumuladas contra el procesado.
+D. La antigüedad y la categoría del infractor en el Escalafón.
+Respuesta correcta: A
+Explicación: El Art. 12 dispone que los tribunales que tramiten los procesos aplicarán las sanciones a los infractores de acuerdo con la concurrencia de circunstancias atenuantes o agravantes.
+Sustento: R.S. 212414, Capítulo Cuarto, Art. 12; página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+25. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] ¿Qué exige el Art. 19 respecto de la jerarquía de los miembros de los tribunales?
+A. Que sean de igual o superior jerarquía que la de los encausados.
+B. Que pertenezcan al mismo distrito educativo que la persona encausada.
+C. Que sean de igual jerarquía que el denunciante de la falta.
+D. Que sean de jerarquía inferior para asegurar imparcialidad.
+Respuesta correcta: A
+Explicación: El Art. 19 dispone que los miembros componentes de los tribunales deben ser de igual o superior jerarquía a la de los encausados.
+Sustento: R.S. 212414, Capítulo Quinto, Art. 19; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+26. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] ¿En qué casos proceden las excusas y recusaciones de los miembros del tribunal?
+A. Cuando exista amistad íntima, enemistad manifiesta o interés directo en el resultado final del proceso.
+B. Solo cuando exista parentesco consanguíneo hasta el cuarto grado o vínculo espiritual determinado.
+C. Cuando el encausado lo solicite fundadamente, sin necesidad de acreditar una causal específica.
+D. Solo cuando exista parentesco por afinidad hasta el segundo grado o relación laboral directa.
+Respuesta correcta: B
+Explicación: El Art. 21 limita las excusas y recusaciones a los casos en que exista parentesco consanguíneo hasta el cuarto grado o vínculo espiritual determinado.
+Sustento: R.S. 212414, Capítulo Quinto, Art. 21; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+27. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] ¿Qué formalidad exige el Art. 23 cuando la denuncia se presenta verbalmente?
+A. El denunciante debe ratificarla por escrito.
+B. Debe presentarse ante dos testigos hábiles.
+C. El funcionario que la recibe debe sentar acta.
+D. Debe ser registrada por el Fiscal Promotor.
+Respuesta correcta: C
+Explicación: El Art. 23 dispone que, si la denuncia es verbal, el funcionario que la reciba sentará acta; si es escrita, llevará firma o impresión digital que identifique al denunciante, con presencia de un testigo.
+Sustento: R.S. 212414, Capítulo Sexto, Art. 23; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+28. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SÉPTIMO] Según el Art. 25, la apelación contra el fallo del tribunal de primera instancia debe presentarse:
+A. Dentro de cinco días, sin exposición de agravios, ante el Tribunal Disciplinario Nacional.
+B. Dentro de tres días, sin exposición de agravios, ante el Director General de Educación.
+C. Dentro de tres días, con exposición de agravios, ante el mismo tribunal que sentenció.
+D. Dentro de quince días, con exposición de agravios, ante el Ministerio de Educación.
+Respuesta correcta: C
+Explicación: El Art. 25 dispone que la parte agraviada puede interponer recurso de apelación ante el Tribunal Nacional, presentándolo dentro de tres días, incluyendo la exposición de agravios, ante el mismo tribunal que sentenció la causa.
+Sustento: R.S. 212414, Capítulo Séptimo, Art. 25; página impresa: sin numeración; página PDF: 6.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+29. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] ¿Cómo regula el Reglamento el periodo probatorio del proceso disciplinario?
+A. Dura 20 días, prorrogable por razón de distancia a petición de parte o de oficio.
+B. Dura 15 días, improrrogable, y comprende solo pruebas documentales y testificales.
+C. Dura 10 días, prorrogable una vez por igual plazo a petición del denunciante.
+D. Dura 20 días, prorrogable solo por acuerdo del tribunal con la Federación sindical.
+Respuesta correcta: A
+Explicación: El Art. 24, inciso c), fija un periodo probatorio de 20 días, prorrogable por razón de distancia a petición de parte o por determinación de oficio, que comprende instructiva, indagatoria, pruebas de cargo y descargo, cuestiones previas, excusas, recusaciones y alegatos.
+Sustento: R.S. 212414, Capítulo Sexto, Art. 24, inc. c); página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+30. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SÉPTIMO] ¿En qué plazo el tribunal de apelación debe confirmar o revocar el fallo?
+A. En 3 días contados desde la exposición de los agravios.
+B. En 5 días contados desde la notificación de la apelación.
+C. En 20 días contados desde la remisión de los obrados.
+D. En 15 días contados desde la recepción de la apelación.
+Respuesta correcta: D
+Explicación: El Art. 26 dispone que el tribunal de apelación confirmará o revocará el fallo en el término de 15 días contados desde la recepción de la apelación.
+Sustento: R.S. 212414, Capítulo Séptimo, Art. 26; página impresa: sin numeración; página PDF: 6.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+31. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Distinga el "abandono injustificado de funciones" del "abandono del lugar de funciones hasta cinco días en escuelas urbanas sin licencia":
+A. El primero es falta grave; el segundo, falta leve.
+B. El primero es muy grave; el segundo, falta grave.
+C. Ambos son faltas graves con la misma sanción.
+D. El primero es falta leve; el segundo, falta grave.
+Respuesta correcta: D
+Explicación: El Art. 9, inciso f), tipifica como leve el abandono injustificado de funciones; el Art. 10, inciso h), tipifica como grave el abandono del lugar de funciones hasta cinco días en escuelas urbanas o siete en lugares alejados, sin licencia ni autorización.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 9, inc. f) y Art. 10, inc. h); página impresa: sin numeración; páginas PDF: 2 y 3.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+32. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Distinga la "falta de respeto a colegas o inferiores" del "apercibimiento grave a un inferior en presencia de maestros o alumnos que menoscabe su dignidad":
+A. La primera es falta leve; la segunda es falta grave.
+B. La primera es falta grave; la segunda, muy grave.
+C. Ambas son faltas graves de competencia del tribunal.
+D. Ambas son faltas leves sancionadas por el superior.
+Respuesta correcta: A
+Explicación: El Art. 9, inciso d), califica como leve la falta de respeto a colegas o inferiores; el Art. 10, inciso k), califica como grave el apercibimiento o la observación grave a un inferior en presencia de maestros o alumnos que menoscabe su autoridad o dignidad.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 9, inc. d) y Art. 10, inc. k); página impresa: sin numeración; páginas PDF: 2 y 3.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+33. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Distinga el "uso indebido de fondos recaudados por donativos o cuotas" del "no rendir cuentas de dineros recaudados por rifas o quermeses":
+A. Ambas son faltas muy graves, porque implican manejo de dinero ajeno.
+B. Ambas son faltas graves, porque recaen sobre fondos de la comunidad.
+C. El uso indebido es falta muy grave; no rendir cuentas es falta grave.
+D. El uso indebido es falta grave; no rendir cuentas es falta muy grave.
+Respuesta correcta: D
+Explicación: El Art. 10, inciso j), tipifica como grave el uso indebido de fondos recaudados por donativos, beneficencia, cuotas o suscripciones; el Art. 11, inciso b), tipifica como muy grave no rendir cuentas de dineros recaudados por rifas, quermeses y otras actividades, y omitir su depósito.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. j) y Art. 11, inc. b); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+34. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Distinga la "extorsión a los alumnos ofreciendo calificaciones" de la "venta de pruebas de exámenes":
+A. Ambas son faltas graves sancionadas con suspensión sin goce de haber.
+B. Ambas son faltas muy graves sancionadas con el retiro del magisterio.
+C. La extorsión es falta grave; la venta de pruebas es falta muy grave.
+D. La extorsión es falta muy grave; la venta de pruebas es falta grave.
+Respuesta correcta: C
+Explicación: El Art. 10, inciso b), tipifica como grave la extorsión a los alumnos ofreciendo calificaciones; el Art. 11, inciso d), tipifica como muy grave la venta de pruebas de exámenes.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. b) y Art. 11, inc. d); página impresa: sin numeración; páginas PDF: 2 y 4.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+35. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Distinga la "organización de fiestas con bebidas alcohólicas en el establecimiento" de la "autorización del expendio y consumo de bebidas alcohólicas o drogas en el establecimiento o sus alrededores":
+A. Ambas son faltas muy graves de igual tipificación.
+B. La primera es falta grave; la segunda es falta muy grave.
+C. La primera es falta leve; la segunda es falta grave.
+D. La primera es muy grave; la segunda es falta grave.
+Respuesta correcta: B
+Explicación: El Art. 10, inciso g), califica como grave la organización o asistencia a fiestas con uso de bebidas alcohólicas en el establecimiento; el Art. 11, inciso g), califica como muy grave la autorización del expendio y consumo de bebidas alcohólicas o drogas peligrosas en el establecimiento o sus alrededores.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. g) y Art. 11, inc. g); página impresa: sin numeración; páginas PDF: 3 y 4.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+36. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEGUNDO] El Art. 6 permite la suspensión inmediata durante el proceso solo en el "inciso a)" de las faltas muy graves. Leído literalmente con el Art. 11, ¿qué conducta habilita esa medida?
+A. El acoso sexual y la violación de alumnos.
+B. La falsificación de datos y certificados.
+C. La reincidencia voluntaria en faltas graves.
+D. La simulación de enfermedad para licencias.
+Respuesta correcta: C
+Explicación: El Art. 6 remite al inciso a) de la tipificación de faltas muy graves; el inciso a) del Art. 11 corresponde a la reincidencia voluntaria en faltas graves. Las demás conductas figuran en otros incisos (m, l y e) y no están comprendidas en la excepción literal.
+Sustento: R.S. 212414, Capítulo Segundo, Art. 6; Capítulo Tercero, Art. 11, inc. a); página impresa: sin numeración; páginas PDF: 2 y 3.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+37. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SÉPTIMO] El Capítulo Séptimo se titula "De los recursos de apelación y revisión". Desde un análisis crítico del texto, ¿qué se observa?
+A. Suprime la apelación y la sustituye por la revisión de oficio del Tribunal Nacional.
+B. Regula ambos recursos con plazos, requisitos y órganos competentes diferenciados.
+C. Regula en detalle la revisión; la apelación se remite al Código de Procedimiento Penal.
+D. Regula en detalle la apelación; la revisión solo se menciona, sin procedimiento propio.
+Respuesta correcta: D
+Explicación: Los Arts. 25 a 27 regulan la apelación (plazo de 3 días, agravios, resolución en 15 días y Resolución Ministerial). La revisión aparece en el título del capítulo y en el Art. 24, inciso g), sin que el Reglamento desarrolle su procedimiento.
+Sustento: R.S. 212414, Capítulo Sexto, Art. 24, inc. g); Capítulo Séptimo, Arts. 25 a 27; página impresa: sin numeración; páginas PDF: 5 y 6.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+38. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] ¿Qué técnica utiliza el Reglamento para graduar la gravedad de las faltas repetidas?
+A. La reincidencia duplica la sanción dentro de la misma categoría de falta.
+B. La reincidencia voluntaria eleva la falta a la categoría inmediata superior.
+C. La reincidencia solo se considera como agravante, sin cambiar la categoría de la falta.
+D. La reincidencia se sanciona directamente con el retiro del magisterio.
+Respuesta correcta: B
+Explicación: El Art. 10, inciso a), tipifica como grave la reincidencia voluntaria en faltas leves, y el Art. 11, inciso a), tipifica como muy grave la reincidencia voluntaria en faltas graves; así, la reincidencia escala la falta a la categoría superior.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. a) y Art. 11, inc. a); página impresa: sin numeración; páginas PDF: 2 y 3.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+39. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] ¿Qué valoración crítica merece el Art. 14 como garantía del debido proceso disciplinario?
+A. Permite convalidar la sanción si el procesado no reclama en el plazo legal.
+B. Convierte el respeto del procedimiento en condición de existencia de la sanción.
+C. Faculta al superior a sancionar sin proceso cuando la falta es evidente.
+D. Limita su alcance a las faltas muy graves que conoce el Tribunal Nacional.
+Respuesta correcta: B
+Explicación: El Art. 14 declara inexistente toda sanción impuesta sin cumplir las normas procesales del Reglamento, lo que, junto con el derecho de defensa (Art. 3), hace del procedimiento una condición de existencia de la sanción.
+Sustento: R.S. 212414, Capítulo Cuarto, Art. 14; Capítulo Segundo, Art. 3; página impresa: sin numeración; páginas PDF: 1 y 4.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+40. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] El Art. 18 establece que los tribunales se designan en "corresponsabilidad" con las organizaciones sindicales. ¿Qué rasgo del modelo disciplinario revela esta disposición?
+A. La exclusión de la autoridad educativa en la designación de los tribunales.
+B. La sustitución de la autoridad educativa por el sindicato en la función de juzgar al personal.
+C. La participación sindical en la conformación de los órganos que juzgan al magisterio.
+D. La elección directa de los miembros del tribunal por los maestros procesados.
+Respuesta correcta: C
+Explicación: El Art. 18 dispone que los tribunales departamentales son designados por el Director Departamental de manera corresponsable con la Federación Departamental, y el nacional por el Ministerio en corresponsabilidad con la Confederación; el Art. 20 exige coordinar con la Dirección Sindical los reemplazos.
+Sustento: R.S. 212414, Capítulo Quinto, Arts. 18 y 20; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+41. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] El Art. 10, inciso e), tipifica como falta grave el hostigamiento, las represalias o la reprobación del año escolar a causa de reclamaciones de padres. ¿Qué bien jurídico protege principalmente?
+A. La autoridad del maestro frente a reclamos infundados de los padres.
+B. La reserva de las calificaciones frente a la asociación de padres.
+C. La estabilidad laboral del maestro frente a quejas de la comunidad.
+D. El derecho de los padres a reclamar sin que sus hijos sufran represalias.
+Respuesta correcta: D
+Explicación: El Art. 10, inciso e), sanciona como grave el hostigamiento, las represalias o la reprobación del año escolar a causa de reclamaciones de padres o de sus asociaciones, lo que protege el derecho a reclamar frente a represalias contra los alumnos.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. e); página impresa: sin numeración; página PDF: 2.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+42. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] El Art. 11, inciso ll), califica como muy grave la subalternización de las instancias administrativas a intereses político-partidarios o sectarios. ¿Qué principio de gestión pretende resguardar?
+A. La orientación de la administración educativa a la docencia y no a intereses partidarios.
+B. La facultad del Ministerio para designar autoridades sin consultar a los sindicatos.
+C. La neutralidad religiosa obligatoria en todas las unidades educativas fiscales y de convenio del país.
+D. La prohibición absoluta de que los maestros participen en organizaciones sindicales.
+Respuesta correcta: A
+Explicación: El Art. 11, inciso ll), tipifica como muy grave la subalternización de las instancias administrativas a los intereses político-partidarios o sectarios en desmedro de la docencia, resguardando la orientación de la gestión educativa a su finalidad.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 11, inc. ll); página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+43. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] Las causales de excusa y recusación del Art. 21 son taxativas y restringidas. ¿Qué consecuencia práctica deriva de ello?
+A. Otras situaciones de posible parcialidad no habilitan, por sí solas, la recusación.
+B. Cualquier sospecha de parcialidad obliga al miembro del tribunal a excusarse.
+C. El encausado puede recusar libremente a un miembro una vez durante el proceso.
+D. La Federación sindical puede ampliar las causales mediante acuerdo con el tribunal.
+Respuesta correcta: A
+Explicación: El Art. 21 dispone que las excusas y recusaciones "sólo procederán" cuando exista parentesco consanguíneo hasta el cuarto grado o vínculo espiritual determinado, lo que excluye otras causales no previstas.
+Sustento: R.S. 212414, Capítulo Quinto, Art. 21; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+44. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] El Art. 9, inciso c), considera falta leve la no presentación oportuna o incorrecta de documentos como registros, planes de trabajo y libretas de calificación. ¿Qué lectura crítica es más adecuada?
+A. Reserva la sanción de esas omisiones solo al Tribunal Departamental competente.
+B. Equipara esas omisiones a la falsificación de documentos de la categoría muy grave.
+C. Trata la gestión documental como tarea opcional, sin consecuencias disciplinarias.
+D. Reconoce la gestión documental como deber exigible cuyo incumplimiento es sancionable.
+Respuesta correcta: D
+Explicación: El Art. 9, inciso c), tipifica como leve el desorden, el incumplimiento o la negligencia, y la presentación inoportuna o incorrecta de documentos de la labor docente; el Art. 11, inciso l), reserva la categoría muy grave para la falsificación de datos o la alteración de certificados.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 9, inc. c) y Art. 11, inc. l); página impresa: sin numeración; páginas PDF: 2 y 4.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+45. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO PRIMERO] El Art. 11, inciso m), tipifica como falta muy grave el acoso sexual, el estupro y la violación, conductas que también constituyen delitos. Con el Art. 2, ¿cuál es la lectura más consistente?
+A. La vía disciplinaria debe suspenderse hasta que la justicia penal dicte sentencia ejecutoriada.
+B. La conducta solo puede sustanciarse por la vía penal, lo que deja sin efecto el inciso m).
+C. La conducta solo puede sustanciarse por el Reglamento, que desplaza a la legislación penal.
+D. La falta se sustancia por el Reglamento; el delito, conforme al Código Penal y su procedimiento.
+Respuesta correcta: D
+Explicación: El Art. 2 dispone que los delitos del Código Penal se sustancian según ese Código y su procedimiento, y que el Reglamento sustancia las faltas de los Arts. 9, 10 y 11; el Art. 11, inciso m), tipifica esas conductas como falta muy grave. El Reglamento no prevé la suspensión de la vía disciplinaria a la espera del fallo penal.
+Sustento: R.S. 212414, Capítulo Primero, Art. 2; Capítulo Tercero, Art. 11, inc. m); página impresa: sin numeración; páginas PDF: 1 y 4.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+46. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un plantel suspende las clases una tarde para agasajar al director por su cumpleaños. ¿Cómo se tipifica esta conducta?
+A. Falta grave, sancionable por el tribunal departamental.
+B. Falta muy grave, sancionable por el tribunal departamental.
+C. Falta leve, sancionable por la autoridad inmediata superior.
+D. Conducta permitida, por tratarse de un acto de convivencia escolar.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 9, inciso a), tipifica como falta leve la suspensión de labores por cumpleaños y agasajos a directores o docentes.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 9, inc. a); página impresa: sin numeración; página PDF: 2.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+47. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Una maestra envía regularmente a dos alumnos a realizar compras personales y tareas domésticas en su domicilio. ¿Cómo se tipifica?
+A. Falta grave: abandono de los alumnos durante actividades fuera del aula.
+B. Falta leve: utilizar alumnos en mandados particulares o servicio doméstico.
+C. Falta muy grave: intimidación psíquica ejercida contra los alumnos del curso.
+D. Falta grave: explotación de alumnos con menoscabo de su dignidad personal.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 9, inciso h), tipifica como falta leve utilizar a los alumnos en mandados particulares o en el servicio doméstico.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 9, inc. h); página impresa: sin numeración; página PDF: 2.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+48. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un maestro cobra a los padres un monto no autorizado para "entregar" la libreta de calificaciones. ¿Cómo se tipifica?
+A. Falta muy grave por cobro de haberes sin servicio.
+B. Falta leve por desorden y negligencia en el trabajo.
+C. Falta leve por presentación incorrecta de libretas.
+D. Falta grave por exacciones a los padres de familia.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 10, inciso d), tipifica como falta grave las exacciones a los padres de familia.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. d); página impresa: sin numeración; página PDF: 2.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+49. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un maestro ridiculiza públicamente a un alumno y lo obliga a permanecer de pie frente a la clase como castigo humillante. ¿Cómo se tipifica?
+A. Falta grave: castigo corporal o psicológico contra la dignidad del alumno.
+B. Falta leve: trato descortés y despótico a los dependientes y al público.
+C. Falta grave: apercibimiento a un inferior en presencia de los alumnos.
+D. Falta leve: indisciplina manifiesta y resistencia a órdenes superiores.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 10, inciso p), tipifica como falta grave el empleo de castigos corporales o psicológicos contra la dignidad del alumno.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. p); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+50. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un regente vende a un club particular balones y equipos deportivos asignados al establecimiento. ¿Cómo se tipifica?
+A. Falta muy grave por cambio de equipos nuevos por usados.
+B. Falta leve por negligencia en el cuidado del material escolar.
+C. Falta grave por alquiler de mobiliario a terceras personas.
+D. Falta grave por venta o uso indebido del material deportivo.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 10, inciso i), tipifica como falta grave la venta o uso indebido del material escolar, sanitario, deportivo o de trabajo destinado a la institución.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. i); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+51. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] En un certificado de estudios se detecta una nota corregida mediante raspado y enmienda no salvada. ¿Cómo se tipifica la conducta del responsable?
+A. Falta leve: presentación incorrecta de documentos.
+B. Falta grave: ineptitud en la gestión administrativa.
+C. Falta muy grave: alteración de certificados.
+D. Falta grave: uso indebido de sellos oficiales.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 11, inciso l), tipifica como muy grave la falsificación de datos en informaciones oficiales y documentos y la alteración de certificados (raspado, borrado o enmienda no salvada).
+Sustento: R.S. 212414, Capítulo Tercero, Art. 11, inc. l); página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+52. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un profesor desempeña dos cargos docentes fiscales sin contar con Resolución Suprema que lo autorice. ¿Cómo se tipifica?
+A. Falta muy grave, sancionable con retiro o destitución.
+B. Falta leve, sancionable con amonestación o descuento.
+C. Falta grave, sancionable con suspensión de 15 a 60 días.
+D. Conducta permitida, si cuenta con aval del director.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 11, inciso f), tipifica como falta muy grave la acumulación de cargos docentes sin autorización expresa mediante Resolución Suprema.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 11, inc. f); página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+53. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Al posesionar a nuevos maestros, una autoridad les exige firmar cartas de renuncia sin fecha "por si acaso". ¿Cómo se tipifica?
+A. Falta muy grave por obtención de renuncias en blanco.
+B. Falta grave por usurpación de funciones del superior.
+C. Falta leve por trato despótico hacia los dependientes.
+D. Falta grave por uso indebido de membretes oficiales.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 11, inciso k), tipifica como falta muy grave la suplantación de firmas, el uso indebido de papeles oficiales membretados y la obtención de renuncias en blanco a los cargos.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 11, inc. k); página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+54. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] Un tribunal declara probada una falta grave. ¿Cuál de las siguientes sanciones puede imponer?
+A. Amonestación escrita con traslado del lugar de trabajo.
+B. Retiro definitivo del ejercicio del Magisterio en el país.
+C. Descuento de uno a cinco días de haber mensual al infractor.
+D. Suspensión de funciones sin goce de haber de 15 a 60 días.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 13, inciso b), prevé para faltas graves la suspensión sin goce de haber de quince a sesenta días, la postergación de ascenso por un año o el descenso a un cargo inferior.
+Sustento: R.S. 212414, Capítulo Cuarto, Art. 13, inc. b); página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+55. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un maestro ya sancionado por falta grave vuelve a cometer voluntariamente otra falta grave. ¿Cómo se califica la nueva conducta?
+A. Como delito sujeto a la legislación penal vigente.
+B. Como falta muy grave por reincidencia voluntaria.
+C. Como falta grave con agravante de reincidencia.
+D. Como falta grave con sanción en su grado máximo.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 11, inciso a), tipifica como falta muy grave la reincidencia voluntaria en faltas graves.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 11, inc. a); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+56. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Una secretaria conoce que un maestro "extiende" mejores calificaciones a cambio de dinero y decide encubrirlo. ¿Cómo se tipifica la conducta de la secretaria?
+A. Falta leve por negligencia en la presentación de documentos.
+B. Falta muy grave por falsificación de datos en documentos oficiales.
+C. No es falta, porque la secretaria no recibió el dinero entregado.
+D. Falta grave por encubrimiento de la extensión de calificaciones.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 10, inciso c), tipifica como grave la participación o el encubrimiento de la extensión de calificaciones a cambio de sumas de dinero, especie o servicios.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. c); página impresa: sin numeración; página PDF: 2.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+57. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un funcionario figura en planillas y cobra su haber mensual sin prestar ningún servicio en el establecimiento. ¿Cómo se tipifica?
+A. Falta leve: abandono injustificado de funciones durante la jornada.
+B. Falta grave: abandono del lugar de funciones sin licencia ni permiso.
+C. Falta grave: ineptitud manifiesta en la función administrativa.
+D. Falta muy grave: cobro de haberes sin contraprestación de servicios.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 11, inciso i), tipifica como falta muy grave el cobro de haberes y otros beneficios sin la correspondiente contraprestación de servicios, así como la autorización fraudulenta del cobro.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 11, inc. i); página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+58. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un administrativo entrega a una empresa privada listas con datos personales de estudiantes que no son de uso público. ¿Cómo se tipifica?
+A. Falta leve por presentación incorrecta de datos estadísticos.
+B. Falta grave por coparticipación en la venta de útiles escolares.
+C. Falta grave por entregar información no pública a personas ajenas.
+D. Falta muy grave por falsificación de datos en informes oficiales.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 10, inciso l), tipifica como grave la entrega de informaciones o documentos que no son de uso público a personas ajenas al servicio.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. l); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+59. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un maestro presenta un certificado médico falso para obtener licencia y viajar. ¿Cómo se tipifica?
+A. Falta grave por uso indebido de documentos con membrete oficial.
+B. Falta muy grave por simulación de enfermedad con certificado falso.
+C. Falta leve por inasistencia injustificada a sus horas de clase.
+D. Falta grave por abandono del lugar de funciones sin licencia previa.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 11, inciso e), tipifica como muy grave la simulación de enfermedad para obtener licencia u otras ventajas, presentando certificados falsos.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 11, inc. e); página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Aplicación normativa · Modalidad: Caso práctico
+60. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] Una madre acude a la dirección y denuncia verbalmente que un maestro cobró dinero por mejorar la nota de su hijo. El director es el superior inmediato del maestro. ¿Qué debe hacer primero según el Reglamento?
+A. Remitirla a la Fiscalía como delito de cohecho.
+B. Sentar acta de la denuncia verbal recibida.
+C. Exigirle que presente la denuncia por escrito.
+D. Imponer una amonestación escrita al maestro.
+Respuesta correcta: B
+Explicación: El Art. 23 permite la denuncia verbal ante la autoridad inmediata superior del imputado y dispone que, en ese caso, el funcionario que la reciba sentará acta. La conducta (Art. 10, inciso c) es grave y corresponde al tribunal (Art. 22).
+Sustento: R.S. 212414, Capítulo Sexto, Art. 23; Capítulo Quinto, Art. 22; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+61. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] Un padre presenta una denuncia escrita contra un administrativo, pero el escrito no lleva firma ni impresión digital y no identifica al denunciante. ¿Qué requisitos del Art. 23 incumple?
+A. Firma o impresión digital que identifique al denunciante, con presencia de un testigo.
+B. Firma del denunciante y certificación notarial de su identidad ante el tribunal.
+C. Patrocinio de abogado y ratificación del escrito ante el Fiscal Promotor del tribunal.
+D. Visto bueno de la junta escolar y copia dirigida a la Dirección Distrital Educativa.
+Respuesta correcta: A
+Explicación: El Art. 23 dispone que la denuncia escrita llevará firma o impresión digital, identificando a la persona que denuncia, con presencia de un testigo.
+Sustento: R.S. 212414, Capítulo Sexto, Art. 23; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+62. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] Un director recibe el lunes a las 10:00 una denuncia por falta grave contra un maestro de su unidad. ¿Hasta cuándo debe remitirla al Tribunal Departamental?
+A. Hasta el viernes a las 10:00 (cinco días).
+B. Hasta el jueves a las 10:00 (tres días).
+C. Hasta el miércoles a las 10:00 (48 horas).
+D. Hasta el martes a las 10:00 (24 horas).
+Respuesta correcta: C
+Explicación: El Art. 24, inciso a), fija como término la remisión de la denuncia al Tribunal Departamental dentro de las 48 horas de recibida.
+Sustento: R.S. 212414, Capítulo Sexto, Art. 24, inc. a); página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+63. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] Concluido el periodo probatorio de un proceso por falta muy grave, el tribunal departamental debe pronunciar el fallo. ¿En qué término?
+A. En 5 días.
+B. En 15 días.
+C. En 3 días.
+D. En 20 días.
+Respuesta correcta: A
+Explicación: El Art. 24, inciso e), fija en 5 días el término para el fallo; 3 días corresponden a la apelación, 15 al tribunal de apelación y 20 al periodo probatorio.
+Sustento: R.S. 212414, Capítulo Sexto, Art. 24, inc. e); página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+64. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SÉPTIMO] Un maestro sancionado por el tribunal departamental presenta su apelación al cuarto día de notificado, con exposición de agravios. ¿Cómo debe considerarse?
+A. Fuera de término, porque la apelación debe presentarse dentro de tres días.
+B. Fuera de término, porque debió presentarse directamente en el Tribunal Nacional.
+C. Dentro de término, porque la apelación puede presentarse dentro de cinco días.
+D. Dentro de término, porque el plazo se computa desde la remisión de obrados.
+Respuesta correcta: A
+Explicación: Los Arts. 24, inciso f), y 25 fijan en tres días el plazo de apelación, que se presenta, con exposición de agravios, ante el mismo tribunal que sentenció.
+Sustento: R.S. 212414, Capítulo Sexto, Art. 24, inc. f); Capítulo Séptimo, Art. 25; página impresa: sin numeración; páginas PDF: 5 y 6.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+65. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEGUNDO] Una maestra es denunciada por exacciones a padres (falta grave). Antes del fallo, la autoridad dispone suspenderla de funciones "por precaución". ¿Es procedente?
+A. No: solo el Tribunal Nacional puede ordenar la suspensión preventiva.
+B. Sí: toda falta grave habilita la suspensión inmediata durante el proceso.
+C. No: mientras no se compruebe su culpabilidad no puede ser suspendida ni removida.
+D. Sí: la autoridad inmediata superior puede suspenderla preventivamente hasta por quince días.
+Respuesta correcta: C
+Explicación: El Art. 6 prohíbe suspender o remover durante el proceso mientras no se compruebe la culpabilidad, salvo el inciso a) de las faltas muy graves; el Art. 5 consagra la presunción de inocencia.
+Sustento: R.S. 212414, Capítulo Segundo, Arts. 5 y 6; página impresa: sin numeración; página PDF: 2.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+66. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] El encausado recusa a un miembro del tribunal alegando que es su compadre de bautizo de un hijo. ¿Cómo debe valorarse la recusación?
+A. Es procedente si se comprueba el vínculo espiritual alegado.
+B. Es procedente automáticamente, sin necesidad de comprobar el vínculo.
+C. Es improcedente, porque las recusaciones no se admiten en el proceso.
+D. Es improcedente, porque solo procede por parentesco consanguíneo.
+Respuesta correcta: A
+Explicación: El Art. 21 admite excusas y recusaciones por parentesco consanguíneo hasta el cuarto grado o vínculo espiritual determinado; el Art. 20 exige la previa comprobación de la causal aducida para el reemplazo.
+Sustento: R.S. 212414, Capítulo Quinto, Arts. 20 y 21; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+67. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] Para juzgar a un Director Distrital se propone un tribunal integrado por maestros de aula sin cargo jerárquico. ¿Qué disposición se vulnera?
+A. La que exige que los miembros pertenezcan al mismo distrito del encausado.
+B. La que exige miembros de igual o superior jerarquía que el encausado.
+C. La que exige que el tribunal sea presidido por el Director General.
+D. La que exige que el Fiscal Promotor sea designado por la Confederación.
+Respuesta correcta: B
+Explicación: El Art. 19 dispone que los miembros de los tribunales deben ser de igual o superior jerarquía a la de los encausados.
+Sustento: R.S. 212414, Capítulo Quinto, Art. 19; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+68. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] Un tribunal sancionó a un maestro con suspensión sin goce de haber, pero nunca lo citó ni le permitió presentar descargos. ¿Qué situación jurídica tiene esa sanción?
+A. Se convalida si el maestro no apela dentro de los tres días.
+B. Se tiene por inexistente por incumplir las normas procesales.
+C. Es válida si la falta fue probada con documentos fehacientes.
+D. Es válida, pero el maestro puede pedir su reducción en apelación.
+Respuesta correcta: B
+Explicación: El Art. 14 dispone que toda sanción impuesta sin cumplir las normas procesales del Reglamento se tendrá por inexistente; el Art. 3 exige que nadie sea sancionado sin ser oído y juzgado.
+Sustento: R.S. 212414, Capítulo Cuarto, Art. 14; Capítulo Segundo, Art. 3; página impresa: sin numeración; páginas PDF: 1 y 4.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+69. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEGUNDO] Ante un conflicto en un colegio, la Dirección Departamental conforma una "comisión especial" de tres maestros para juzgar y sancionar al director por faltas graves. ¿Es válido?
+A. No, porque las faltas graves de directores corresponden al Tribunal Disciplinario Nacional.
+B. Sí, porque las faltas graves de directores se juzgan por la Dirección Departamental.
+C. No, el Reglamento prohíbe juzgar por comisiones especiales o tribunales extraordinarios.
+D. Sí, siempre que la comisión esté integrada por maestros-abogados de autoridad moral.
+Respuesta correcta: C
+Explicación: El Art. 4 prohíbe juzgar a maestros, administrativos o autoridades educativas por comisiones especiales o tribunales extraordinarios; las faltas graves corresponden en primera instancia al tribunal departamental (Arts. 17 y 22).
+Sustento: R.S. 212414, Capítulo Segundo, Art. 4; Capítulo Quinto, Arts. 17 y 22; página impresa: sin numeración; páginas PDF: 2 y 5.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+70. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO PRIMERO] Un administrativo sustrae dinero de la caja del establecimiento y el hecho configura un delito del Código Penal. ¿Cómo se sustancia ese delito según el Art. 2?
+A. Ante la Comisión Calificadora Distrital del Escalafón.
+B. Ante la autoridad inmediata superior como falta leve.
+C. Según el proceso disciplinario del Reglamento de Faltas.
+D. Según el Código Penal y el Código de Procedimiento Penal.
+Respuesta correcta: D
+Explicación: El Art. 2 dispone que los delitos previstos en el Código Penal se sustancian según ese Código y el Código de Procedimiento Penal; el Reglamento solo sustancia las faltas de los Arts. 9, 10 y 11.
+Sustento: R.S. 212414, Capítulo Primero, Art. 2; página impresa: sin numeración; página PDF: 1.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+71. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] Un maestro fuma reiteradamente en el patio del colegio. El director, su superior inmediato, decide sancionarlo. ¿Qué sanción puede imponerle directamente?
+A. Descenso a un cargo inferior en el mismo plantel.
+B. Suspensión sin goce de haber por quince días.
+C. Postergación de su ascenso por el término de un año.
+D. Amonestación escrita, por tratarse de falta leve.
+Respuesta correcta: D
+Explicación: El Art. 9, inciso e), tipifica como leve el consumo de cigarrillos en ambientes escolares; el Art. 22 asigna la sanción de faltas leves a la autoridad inmediata superior y el Art. 13, inciso a), prevé para ellas la amonestación privada o escrita, el descuento de 1 a 5 días o el traslado.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 9, inc. e); Capítulo Cuarto, Art. 13, inc. a); Capítulo Quinto, Art. 22; página impresa: sin numeración; páginas PDF: 2, 4 y 5.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+72. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO QUINTO] Un director, ante una denuncia probada de exacciones a padres por parte de un maestro, decide suspenderlo él mismo 20 días sin goce de haber. ¿Es correcta su actuación?
+A. No: las faltas graves solo pueden ser sancionadas por el tribunal correspondiente.
+B. No: las exacciones a padres son faltas muy graves que exigen el retiro del maestro.
+C. Sí: la suspensión de 15 a 60 días es la sanción prevista para las faltas graves.
+D. Sí: el director es la autoridad inmediata superior competente para sancionar.
+Respuesta correcta: A
+Explicación: Las exacciones a los padres son falta grave (Art. 10, inciso d). El Art. 22 reserva la sanción de las faltas graves y muy graves al tribunal correspondiente; la autoridad inmediata superior solo sanciona faltas leves.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. d); Capítulo Quinto, Art. 22; página impresa: sin numeración; páginas PDF: 2 y 5.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+73. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un maestro de una escuela urbana se ausenta cuatro días hábiles seguidos sin licencia ni autorización. ¿Cómo se tipifica?
+A. Conducta no sancionable, por no superar los cinco días.
+B. Falta grave, de competencia del tribunal departamental.
+C. Falta muy grave, de competencia del tribunal departamental.
+D. Falta leve, de competencia de la autoridad inmediata superior.
+Respuesta correcta: B
+Explicación: El Art. 10, inciso h), tipifica como falta grave el abandono del lugar de funciones hasta cinco días en escuelas urbanas, o siete en lugares alejados, sin licencia ni autorización.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. h); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+74. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Una maestra de una escuela en un lugar alejado se ausenta seis días sin licencia. El director sostiene que el plazo para considerarlo falta grave es de cinco días en todos los casos. ¿Es correcta su apreciación?
+A. Sí, el umbral de cinco días se aplica igualmente en áreas urbanas y alejadas.
+B. No, en lugares alejados la ausencia sin licencia constituye solo falta leve.
+C. No, en lugares alejados el umbral de la falta grave llega hasta siete días.
+D. Sí, y por exceder cinco días la conducta se califica como falta muy grave.
+Respuesta correcta: C
+Explicación: El Art. 10, inciso h), tipifica como grave el abandono del lugar de funciones hasta cinco días en escuelas urbanas o siete en lugares alejados, sin licencia ni autorización.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. h); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+75. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un maestro se presenta en estado de ebriedad a un acto público de la unidad educativa. Probada la falta, ¿qué sanción corresponde según su categoría?
+A. Amonestación escrita y descuento de cinco días de haber.
+B. Retiro definitivo del Magisterio o destitución del cargo.
+C. Suspensión sin goce de haber de quince a sesenta días.
+D. Postergación de ascenso por un año y traslado de cargo.
+Respuesta correcta: B
+Explicación: El Art. 11, inciso h), tipifica como muy grave la presentación en la escuela, oficina, centro de trabajo o acto público en estado de ebriedad; el Art. 13, inciso c), prevé para las faltas muy graves el retiro definitivo o la destitución.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 11, inc. h); Capítulo Cuarto, Art. 13, inc. c); página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+76. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO OCTAVO] La Dirección Distrital recibe el viernes la copia de la Resolución Ministerial que confirma la destitución de un administrativo. ¿En qué plazo debe ejecutarla?
+A. Dentro de cinco días desde la notificación al sancionado.
+B. Dentro de 48 horas desde la remisión de los obrados.
+C. Dentro de tres días de la recepción de la copia.
+D. Dentro de quince días desde la emisión de la RM.
+Respuesta correcta: C
+Explicación: El Art. 28 dispone que las autoridades administrativas pertinentes deben proceder al cumplimiento de los fallos dentro de tres días de la recepción de la copia de la Resolución Ministerial.
+Sustento: R.S. 212414, Capítulo Octavo, Art. 28; página impresa: sin numeración; página PDF: 6.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+77. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO OCTAVO] Concluido un proceso con sanción firme, un maestro pregunta qué constancia quedará en su expediente personal. ¿Qué dispone el Reglamento?
+A. Se incluirá la copia solo si la sanción corresponde a una falta muy grave.
+B. Se incluirá una nota simple, que se elimina al cumplirse la sanción impuesta.
+C. Se incluirá una copia legalizada del expediente en su expediente personal.
+D. No quedará constancia, porque la sanción se archiva solo en el Ministerio.
+Respuesta correcta: C
+Explicación: El Art. 29 dispone que los expedientes se custodian en el archivo del Ministerio, que se incluirá una copia legalizada en el expediente personal del interesado y que se enviará otra a las autoridades superiores inmediatas.
+Sustento: R.S. 212414, Capítulo Octavo, Art. 29; página impresa: sin numeración; página PDF: 6.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+78. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SÉPTIMO] El tribunal departamental concede la apelación de un maestro. ¿En qué término debe remitir los obrados al Tribunal Nacional?
+A. 48 horas después de vencido el término de apelación.
+B. 24 horas después de presentada la apelación del maestro.
+C. Cinco días después de notificado el fallo de primera instancia.
+D. Quince días después de recibida la exposición de agravios.
+Respuesta correcta: A
+Explicación: El Art. 24, inciso g), fija la remisión de obrados para la apelación o revisión en 48 horas después del término de apelación (inciso f: 3 días).
+Sustento: R.S. 212414, Capítulo Sexto, Art. 24, incs. f) y g); página impresa: sin numeración; páginas PDF: 5 y 6.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+79. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Durante una excursión a un museo, una maestra deja solos a los alumnos por más de una hora para atender asuntos personales. ¿Cómo se tipifica?
+A. Falta muy grave por violencia o intimidación física a los alumnos.
+B. Falta grave por descuido y abandono de alumnos durante visitas.
+C. Falta leve por abandono injustificado de funciones en la jornada.
+D. Falta leve por desorden y negligencia en el trabajo docente.
+Respuesta correcta: B
+Explicación: El Art. 10, inciso q), tipifica como grave el descuido y abandono de los alumnos durante las visitas a museos, centros culturales, excursiones y otras actividades deportivas o de recreación.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. q); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+80. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un director recibe de una distribuidora un porcentaje por cada uniforme que los padres compran en ese comercio por indicación del colegio. ¿Cómo se tipifica?
+A. Falta muy grave por cobro de haberes sin contraprestación alguna.
+B. Falta leve por negligencia en la administración del establecimiento.
+C. Falta grave por aceptación de fiestas escolares a cambio de favores.
+D. Falta grave por coparticipación en la compra-venta de uniformes.
+Respuesta correcta: D
+Explicación: El Art. 10, inciso o), tipifica como grave la coparticipación en la compra-venta de útiles, textos escolares, uniformes, con establecimientos comerciales, editores o particulares.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. o); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Toma de decisiones · Modalidad: Caso práctico
+81. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un maestro organiza grupos de estudiantes y los induce al consumo de sustancias peligrosas. ¿Cómo se tipifica y qué sanción corresponde?
+A. Falta grave; descenso a un cargo inferior y traslado de unidad.
+B. Falta muy grave; retiro definitivo del Magisterio o destitución.
+C. Falta grave; suspensión sin goce de haber de quince a sesenta días.
+D. Falta muy grave; postergación de ascenso por un año y traslado.
+Respuesta correcta: B
+Explicación: El Art. 11, inciso m), tipifica como muy grave la invitación al uso de substancias indebidas y peligrosas, corrupción y organización de bandas delincuenciales; el Art. 13, inciso c), fija como sanción el retiro definitivo o la destitución.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 11, inc. m); Capítulo Cuarto, Art. 13, inc. c); página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un director recibe la denuncia de que un maestro acosa sexualmente a una estudiante. Según el Reglamento, ¿cuál es la decisión correcta respecto de la vía disciplinaria?
+A. Archivarla, porque el acoso sexual solo puede ser conocido por la justicia penal ordinaria.
+B. Tramitarla como falta grave, que el director puede sancionar con suspensión de funciones.
+C. Tramitarla como falta leve, sancionable con amonestación escrita por la autoridad superior.
+D. Tramitarla como falta muy grave, cuyo conocimiento corresponde al tribunal departamental.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 11, inciso m), tipifica el acoso sexual como falta muy grave; el Art. 17 asigna al tribunal departamental la primera instancia de las faltas graves y muy graves y el Art. 24 prevé la remisión en 48 horas. Si además constituye delito, el Art. 2 remite su sustanciación a la legislación penal.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 11, inc. m); Capítulo Quinto, Art. 17; Capítulo Sexto, Art. 24; página impresa: sin numeración; páginas PDF: 1, 4 y 5.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] Como autoridad inmediata superior, un director debe sancionar una falta leve probada. ¿Cuál de estas decisiones excede las sanciones previstas para esa categoría?
+A. Disponer el traslado del lugar de trabajo.
+B. Descontar diez días de haber al infractor.
+C. Amonestarlo en privado en la dirección.
+D. Descontar tres días de haber al infractor.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 13, inciso a), prevé para faltas leves la amonestación en privado, la amonestación escrita, el descuento de uno a cinco días de haber y el traslado del lugar de trabajo; diez días excede ese límite.
+Sustento: R.S. 212414, Capítulo Cuarto, Art. 13, inc. a); página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO CUARTO] Un director pretende sancionar una falta leve con la postergación del ascenso del maestro por un año. ¿Qué debe considerar?
+A. Esa sanción está prevista para faltas graves, no para faltas leves.
+B. Esa sanción procede para leves con aprobación de la Federación sindical.
+C. Esa sanción está prevista para faltas muy graves cometidas en funciones.
+D. Esa sanción es válida si el maestro ya tiene amonestaciones previas.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 13, inciso b), incluye la postergación de ascenso por un año entre las sanciones por faltas graves; las leves solo admiten las sanciones del inciso a).
+Sustento: R.S. 212414, Capítulo Cuarto, Art. 13, incs. a) y b); página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Tras una reunión en la que varios padres reclamaron por un maestro, este anuncia que reprobará a los hijos de quienes se quejaron. ¿Qué decisión debe tomar el director conforme al Reglamento?
+A. Mediar entre las partes, porque el anuncio no constituye una falta tipificada.
+B. Activar la vía disciplinaria por falta grave de represalias por reclamos de padres.
+C. Sancionar al maestro con amonestación privada por trato descortés al público.
+D. Remitir el caso a la justicia penal, porque la amenaza es un delito de acción pública.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 10, inciso e), tipifica como grave el hostigamiento, las represalias o la reprobación del año escolar a causa de reclamaciones de padres o de sus asociaciones.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. e); página impresa: sin numeración; página PDF: 2.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] La junta escolar pide al director autorizar la venta de cerveza en la kermés que se realizará en el patio del colegio. ¿Qué decisión debe tomar?
+A. Autorizarla solo si los estudiantes no participan del consumo de las bebidas.
+B. Negarla, porque la kermés es una actividad prohibida en todos los establecimientos fiscales.
+C. Negarla: autorizar el expendio de alcohol en el establecimiento es falta muy grave.
+D. Autorizarla si los fondos se depositan en el banco dentro de los plazos de ley.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 11, inciso g), tipifica como muy grave la autorización del expendio y consumo de bebidas alcohólicas o drogas peligrosas en dependencias del establecimiento o sus alrededores.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 11, inc. g); página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un director evalúa utilizar las cuotas aportadas por los padres para un fin distinto del que motivó su recaudación. ¿Qué riesgo disciplinario debe ponderar?
+A. Incurrir en falta leve por negligencia en el cuidado del mobiliario escolar.
+B. Ningún riesgo, porque las cuotas de padres no son fondos del establecimiento.
+C. Incurrir en falta muy grave por cambio de equipos nuevos por otros usados.
+D. Incurrir en falta grave por uso indebido de fondos recaudados por cuotas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 10, inciso j), tipifica como grave el uso indebido de fondos recaudados por concepto de donativos, funciones de beneficencia, cuotas o suscripciones.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. j); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un vecino ofrece pagar al director por alquilar el salón del colegio un sábado para un evento familiar. ¿Qué decisión es conforme al Reglamento?
+A. Aceptarla si el dinero se destina al mantenimiento del propio establecimiento escolar.
+B. Rechazarla: alquilar locales escolares a terceros para fines particulares es falta grave.
+C. Rechazarla solo si el evento incluye el consumo de bebidas alcohólicas dentro del local escolar.
+D. Aceptarla porque se trata de un día no laborable sin actividades curriculares.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 10, inciso r), tipifica como falta grave el alquiler a favor de terceras personas de locales escolares, máquinas o mobiliario para fines particulares.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. r); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un grupo político local pide al director que la dirección distrital y la unidad educativa prioricen trámites de sus militantes. ¿Qué decisión corresponde?
+A. Rechazarlo: subordinar instancias administrativas a intereses partidarios es falta muy grave.
+B. Aceptarlo si los trámites solicitados cumplen todos los requisitos de la normativa vigente.
+C. Aceptarlo, porque la priorización de trámites es facultad discrecional de cada director.
+D. Rechazarlo solo si la solicitud implica cobros de dinero a los militantes del grupo político.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 11, inciso ll), tipifica como muy grave la subalternización de las instancias administrativas a los intereses político-partidarios o sectarios en desmedro de la docencia.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 11, inc. ll); página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Al final del año, unos padres ofrecen al director un regalo en dinero "para que considere" la promoción de su hijo. ¿Qué debe decidir?
+A. Aceptarlo si se entrega públicamente en el acto de clausura del año.
+B. Aceptarlo y depositarlo en la cuenta de la unidad educativa fiscal.
+C. Rechazarlo: aceptar regalos a cambio de favores es una falta grave.
+D. Rechazarlo solo si el monto supera el haber mensual del director.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 10, inciso s), tipifica como grave la aceptación de fiestas escolares, regalos en dinero o en especie de alumnos, padres o intermediarios a cambio de favores; el inciso c) también sanciona la extensión de calificaciones por dinero.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, incs. c) y s); página impresa: sin numeración; páginas PDF: 2 y 3.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] Un director debe decidir cómo actuar con una denuncia por falta muy grave que recibió hoy. ¿Cuál es la decisión ajustada a los términos procesales?
+A. Investigarla durante 20 días y luego remitir su informe al Tribunal.
+B. Remitirla al Tribunal Nacional dentro de los 3 días de recibida.
+C. Remitirla al Tribunal Departamental dentro de las 48 horas de recibida.
+D. Notificar al denunciado y esperar su descargo antes de remitirla.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 24, inciso a), fija la remisión de la denuncia al Tribunal Departamental dentro de las 48 horas de recibida; el periodo probatorio (inciso c) corresponde al tribunal.
+Sustento: R.S. 212414, Capítulo Sexto, Art. 24, incs. a) y c); página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Para prevenir faltas leves por gestión documental, ¿qué medida de gestión institucional tiene sustento directo en el Reglamento?
+A. Delegar la elaboración de datos estadísticos a la junta escolar del establecimiento.
+B. Centralizar las libretas solo cuando la autoridad superior lo solicite por escrito.
+C. Eximir a los maestros de presentar planes de trabajo durante el primer trimestre.
+D. Calendarizar la entrega oportuna y correcta de registros, planes, listas y libretas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 9, inciso c), tipifica como leve la no presentación oportuna o la presentación incorrecta de registros, planes de trabajo, listas, datos estadísticos, programas, libretas de calificación y otros documentos de la labor docente.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 9, inc. c); página impresa: sin numeración; página PDF: 2.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Una unidad educativa organiza rifas y quermeses cada año. ¿Qué control institucional previene una falta muy grave?
+A. Guardar el efectivo en la dirección hasta definir su destino final.
+B. Rendir cuentas en los términos de ley y depositar en banco lo recaudado.
+C. Distribuir lo recaudado entre los cursos antes del cierre de la gestión.
+D. Entregar lo recaudado a la junta escolar sin registro documental.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 11, inciso b), tipifica como muy grave no rendir cuentas de dineros recaudados por rifas, quermeses y otras actividades en los términos fijados por ley, y omitir su depósito en bancos o ante autoridades competentes.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 11, inc. b); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Para la gestión financiera de su unidad, ¿qué práctica de control interno debe asegurar el director, considerando las faltas muy graves del Reglamento?
+A. Consolidar los gastos del año en un único recibo al cierre de la gestión.
+B. Reemplazar los comprobantes extraviados por declaraciones sin respaldo.
+C. Respaldar todo gasto o pago con comprobantes existentes y sin alteraciones.
+D. Registrar los gastos menores solo de forma verbal ante el plantel docente.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El Art. 11, inciso c), tipifica como muy grave la inexistencia o alteración de comprobantes de gastos o pagos con fondos económicos del establecimiento.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 11, inc. c); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Al planificar la renovación de equipos de la unidad, ¿qué riesgo disciplinario debe prevenir el director en el manejo de bienes?
+A. El uso pedagógico de los equipos en aula, que constituye falta grave por uso indebido.
+B. El cambio de equipos nuevos o en buen estado por otros usados, que es falta muy grave.
+C. El inventario anual de los equipos, que constituye una falta leve de gestión documental.
+D. La baja de equipos deteriorados, que es falta grave por negligencia en su conservación.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 11, inciso j), tipifica como muy grave el cambio de máquinas de escribir, equipos, mobiliarios, herramientas y otros nuevos o en buen estado por otros usados o en mal estado.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 11, inc. j); página impresa: sin numeración; página PDF: 4.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Para planificar las salidas pedagógicas del año, ¿qué medida institucional previene directamente una falta grave tipificada en el Reglamento?
+A. Realizar las visitas solo en días no laborables para no afectar el calendario.
+B. Asignar responsables de cuidado de los alumnos durante visitas y excursiones.
+C. Exigir que los padres asuman el cuidado exclusivo de sus hijos en la salida.
+D. Suspender todas las salidas para evitar cualquier riesgo de tipo disciplinario.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 10, inciso q), tipifica como grave el descuido y abandono de los alumnos durante visitas a museos, centros culturales, excursiones y otras actividades deportivas o de recreación.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. q); página impresa: sin numeración; página PDF: 3.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un director quiere asegurar la participación institucional en las fechas cívicas del año. ¿Qué disposición del Reglamento sustenta exigir la asistencia del personal?
+A. La que tipifica como grave la usurpación de funciones durante los actos oficiales del año.
+B. La que tipifica como muy grave la promoción de reyertas en presencia de los alumnos.
+C. La que tipifica como grave el uso indebido de títulos, sellos y membretes oficiales.
+D. La que tipifica como leve la inasistencia a actos cívicos convocados por autoridades del ramo.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 9, inciso g), tipifica como leve la inasistencia a desfiles o actos oficiales cívicos patrióticos auspiciados o convocados por las autoridades del ramo.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 9, inc. g); página impresa: sin numeración; página PDF: 2.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO SEXTO] Para estandarizar la recepción de denuncias en su unidad, ¿qué procedimiento interno es coherente con el Art. 23?
+A. Acta para denuncias verbales; firma o huella del denunciante y un testigo para las escritas.
+B. Solo denuncias anónimas, para proteger la identidad de las personas denunciantes.
+C. Solo denuncias escritas con patrocinio de abogado y ratificación ante el plantel docente.
+D. Recepción exclusiva por la junta escolar y remisión mensual al tribunal departamental.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El Art. 23 admite la denuncia verbal o escrita; si es verbal, el funcionario que la recibe sienta acta; si es escrita, lleva firma o impresión digital que identifique al denunciante, con presencia de un testigo.
+Sustento: R.S. 212414, Capítulo Sexto, Art. 23; página impresa: sin numeración; página PDF: 5.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Al organizar los sellos y papelería oficial de la unidad, ¿qué riesgo disciplinario busca prevenir un control estricto de su uso?
+A. La inasistencia a actos cívicos oficiales, tipificada como falta grave del personal.
+B. El uso indebido de títulos, sellos o membretes oficiales, tipificado como falta grave.
+C. La presentación incorrecta de datos estadísticos, tipificada como falta muy grave.
+D. La entrega oportuna de informes al superior, tipificada como falta leve del plantel.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Art. 10, inciso m), tipifica como grave el uso indebido de títulos, sellos o membretes de carácter oficial; el Art. 11, inciso k), califica como muy grave el uso indebido de papeles oficiales membretados junto con la suplantación de firmas.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. m) y Art. 11, inc. k); página impresa: sin numeración; páginas PDF: 3 y 4.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [R.S. 212414 Reglamento de Faltas y Sanciones – CAPÍTULO TERCERO] Un director detecta que la deserción de alumnos de un curso es elevada y obedece a malos tratos del maestro. Más allá de la sanción, ¿qué valor estratégico tiene esta tipificación para la gestión?
+A. Traslada a la junta escolar la responsabilidad de prevenir la deserción escolar.
+B. Excluye la responsabilidad docente cuando la deserción supera el promedio distrital.
+C. Atribuye la deserción a factores familiares ajenos a la gestión de la unidad educativa.
+D. Vincula la permanencia de los estudiantes con la responsabilidad del trato docente.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El Art. 10, inciso f), tipifica como grave la deserción elevada de los alumnos causada por la ineptitud o los malos tratos del maestro, lo que vincula la permanencia estudiantil con el trato docente.
+Sustento: R.S. 212414, Capítulo Tercero, Art. 10, inc. f); página impresa: sin numeración; página PDF: 3.

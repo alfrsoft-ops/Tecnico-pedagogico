@@ -1,0 +1,1102 @@
+# Fuente: rm-0864-2019-general.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# SISTEMA EDUCATIVO PLURINACIONAL
+# BANCO DE PREGUNTAS DE NIVEL MUY AVANZADO
+# Evaluación de aspirantes a cargos directivos
+# Fuente exclusiva
+# R.M. N.º 0864/2019 – Protocolo de Prevención, Actuación y Denuncia en casos de Violencia Física, Psicológica y Sexual en Unidades Educativas y Centros de Educación Especial
+# Ministerio de Educación – Edición 2022
+# 100 preguntas de opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# La Paz – Bolivia
+# Noviembre de 2026
+# 1. Presentación del instrumento
+# El presente banco de 100 preguntas de nivel muy avanzado está dirigido a la evaluación de aspirantes a cargos directivos del Sistema Educativo Plurinacional. Ha sido elaborado exclusivamente a partir del Protocolo de Prevención, Actuación y Denuncia en casos de Violencia Física, Psicológica y Sexual (R.M. N.º 0864/2019), sin incorporar fuentes externas.
+# Cada pregunta indica su dimensión de evaluación, su modalidad (Conceptual, Interpretativa, Aplicación razonada o Caso práctico), la respuesta correcta, una fundamentación breve y la referencia documental verificable. El rótulo «Aplicación razonada» distingue las situaciones derivadas de las preguntas de conocimiento textual.
+# Al inicio de cada enunciado se consigna, entre corchetes, el documento y la parte o sección de procedencia (Presentación, Aspectos generales, Partes I a III, Rutas y Anexos), para garantizar la trazabilidad de la fuente en una plataforma de simulación que combine preguntas de varios documentos.
+# Las preguntas sobre responsabilidades directivas se limitan a las funciones que el Protocolo asigna expresamente a las Directoras y Directores de Unidades Educativas, a las Direcciones Distritales y Departamentales y al Ministerio de Educación. Las referencias del Protocolo a leyes y decretos (Ley N.º 548, Código Penal, D.S. 1302 y 1320, R.M. 1239/2018) se citan tal como figuran en el documento.
+# 2. Ficha técnica
+# Aspecto
+# Detalle
+# Documento fuente
+# R.M. N.º 0864/2019 – Protocolo de Prevención, Actuación y Denuncia en casos de Violencia Física, Psicológica y Sexual en Unidades Educativas y Centros de Educación Especial – Ministerio de Educación – Edición 2022
+# Archivo
+# 3. R.M. N° 0864-2019 Protocolos de prevencion de violencia.pdf (56 páginas PDF)
+# Cantidad de preguntas
+# 100
+# Modalidad
+# Opción múltiple y casos prácticos
+# Alternativas
+# Cuatro (A, B, C y D), una sola correcta
+# Rótulos de modalidad
+# Conceptual · Interpretativa · Aplicación razonada · Caso práctico
+# Criterio de paginación
+# La página impresa corresponde a la numeración visible del folleto; la página PDF es la posición en el archivo (página impresa + 2). Las Rutas 1, 2 y 3 y los Anexos se citan con la página impresa que les corresponde por su posición.
+# 3. Distribución metodológica y ponderación
+# N.º
+# Dimensión de evaluación
+# Preguntas
+# Peso
+# Rango
+# 1
+# Conocimiento y memorización
+# 5
+# 5%
+# 1–5
+# 2
+# Dominio conceptual
+# 5
+# 5%
+# 6–10
+# 3
+# Competencias y responsabilidades directivas
+# 10
+# 10%
+# 11–20
+# 4
+# Comprensión e interpretación
+# 10
+# 10%
+# 21–30
+# 5
+# Diferenciación conceptual
+# 5
+# 5%
+# 31–35
+# 6
+# Análisis crítico
+# 10
+# 10%
+# 36–45
+# 7
+# Aplicación normativa
+# 15
+# 15%
+# 46–60
+# 8
+# Resolución de casos prácticos
+# 20
+# 20%
+# 61–80
+# 9
+# Toma de decisiones
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de respuestas correctas: A = 25 · B = 25 · C = 25 · D = 25.
+# Distribución por modalidad: Conceptual = 25 · Interpretativa = 20 · Aplicación razonada = 35 · Caso práctico = 20.
+# 4. Banco de preguntas
+# Dimensión: Conocimiento y memorización
+# Se verificó que el banco contiene exactamente 100 preguntas distribuidas según la tabla metodológica, cada una con cuatro alternativas y una sola respuesta correcta respaldada por el texto del Protocolo.
+# Las respuestas correctas se distribuyeron de manera equilibrada entre A, B, C y D, sin secuencias predecibles, y se controló la homogeneidad de extensión de las alternativas. En preguntas de dato breve (plazos), la diferencia relativa puede ser algo mayor por la naturaleza de la información.
+# Las preguntas sobre plazos y rótulos de la Ruta 3 reproducen lo consignado en el flujograma del Protocolo, que remite a la R.M. 1239/2018; no se desarrollan contenidos de esa norma que no figuran en el documento fuente.
+
+CAPÍTULO: rm-0864-2019-general
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] Según el Protocolo, ¿qué es un protocolo?
+A. Un plan anual de convivencia que cada unidad educativa aprueba con su junta escolar de madres y padres.
+B. Un instrumento de actuación que define los pasos a seguir en una situación, con base en normas.
+C. Un acuerdo interinstitucional suscrito entre el Ministerio de Educación y las Defensorías.
+D. Un reglamento disciplinario que tipifica faltas y sanciones aplicables al personal educativo.
+Respuesta correcta: B
+Explicación: El Protocolo define el protocolo como un instrumento de actuación que define los pasos a seguir en una determinada situación, con base en normas establecidas, y que responde a las preguntas qué, cómo, dónde, quién, a quién y por qué.
+Sustento: R.M. 0864/2019, Aspectos generales del protocolo, «¿Qué es un protocolo?»; página impresa: 13; página PDF: 15.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] ¿En qué plazo máximo deben denunciar los integrantes de la comunidad educativa los hechos de violencia contra niñas, niños o adolescentes?
+A. Cinco (5) días hábiles de conocido el hecho.
+B. Veinticuatro (24) horas de conocido el hecho.
+C. Cuarenta y ocho (48) horas de conocido el hecho.
+D. Setenta y dos (72) horas de conocido el hecho.
+Respuesta correcta: B
+Explicación: El apartado 3.4 dispone que cualquier integrante de la comunidad educativa que conozca hechos de violencia contra niñas, niños o adolescentes está obligado a denunciarlos en un plazo máximo de veinticuatro (24) horas ante la DNA o cualquier autoridad competente, como el Ministerio Público o la FELCV, usando el Anexo 2.
+Sustento: R.M. 0864/2019, Parte III, 3.4 Denuncia; página impresa: 40; página PDF: 42.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] ¿Cuál de los siguientes NO figura entre los principios que rigen el Protocolo?
+A. Interés superior de la niña, niño y adolescente.
+B. Corresponsabilidad de la comunidad educativa.
+C. Reserva de la reputación institucional.
+D. Oportunidad y celeridad en la prevención.
+Respuesta correcta: C
+Explicación: Los principios del Protocolo son: interés superior, cultura de paz, lucha contra el racismo y la discriminación, respeto a la identidad, integridad y dignidad, prioridad absoluta, equidad de género, desarrollo integral, oportunidad y celeridad, corresponsabilidad y participación. El apartado 3.2 ubica el interés superior incluso por encima de la reputación de la institución.
+Sustento: R.M. 0864/2019, Aspectos generales, «¿Bajo qué principios se rige…?»; Parte III, 3.2; páginas impresas: 13 y 37; páginas PDF: 15 y 39.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] ¿Qué anexos prevé el Protocolo y cuál es su función?
+A. Anexo 1: derivación; Anexo 2: registro de casos; Anexo 3: informe de situación del estudiante.
+B. Anexo 1: registro de casos; Anexo 2: informe de situación; Anexo 3: formulario de contención.
+C. Anexo 1: acta de denuncia; Anexo 2: informe técnico-legal; Anexo 3: plan de convivencia anual de la unidad.
+D. Anexo 1: informe de situación; Anexo 2: derivación y contrarreferencia; Anexo 3: registro de casos.
+Respuesta correcta: D
+Explicación: El Anexo 1 es el formato de informe de situación; el Anexo 2, el formulario de derivación (referencia) con seguimiento (contrarreferencia); y el Anexo 3, la plantilla para el registro de casos.
+Sustento: R.M. 0864/2019, Anexos 1, 2 y 3; páginas impresas: 50 a 52; páginas PDF: 52 a 54.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] Según la definición que recoge el Protocolo (Art. 147 de la Ley N.º 548), constituye violencia:
+A. Solo la acción intencional que provoque lesiones físicas visibles en la niña, niño o adolescente.
+B. Toda acción con contacto físico realizada por un adulto sin consentimiento de la NNA.
+C. La acción u omisión que ocasione privaciones, lesiones, daños o sufrimientos a la NNA.
+D. La conducta reiterada de un adulto que afecte la autoestima de la NNA en el ámbito escolar.
+Respuesta correcta: C
+Explicación: El Protocolo cita el Art. 147, parágrafo I, de la Ley N.º 548: constituye violencia la acción u omisión, por cualquier medio, que ocasione privaciones, lesiones, daños, sufrimientos, perjuicios en la salud física, mental, afectiva, sexual, desarrollo deficiente e incluso la muerte de la niña, niño o adolescente.
+Sustento: R.M. 0864/2019, Aspectos generales, «¿Qué es Violencia?»; página impresa: 14; página PDF: 16.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+6. [R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] ¿Cuál es el objeto del Protocolo?
+A. Establecer el régimen de evaluación de los estudiantes víctimas de violencia durante su recuperación psicoafectiva.
+B. Definir lineamientos y procedimientos de prevención, actuación, denuncia y protección ante violencia de adultos contra estudiantes.
+C. Definir las faltas y sanciones aplicables a estudiantes que ejercen violencia contra sus pares en la unidad educativa.
+D. Regular la intervención de la Policía en las unidades educativas ante hechos de violencia de cualquier tipo.
+Respuesta correcta: B
+Explicación: El objeto es definir lineamientos, directrices y procedimientos para la prevención, actuación, denuncia y protección a las víctimas en casos de violencia física, psicológica y sexual ejercida por cualquier miembro adulto de la comunidad educativa hacia las y los estudiantes.
+Sustento: R.M. 0864/2019, Aspectos generales, «¿Cuál es el objeto del protocolo?»; página impresa: 13; página PDF: 15.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+7. [R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] ¿Qué caracteriza a la violencia psicológica según el Protocolo?
+A. Se ejerce sin contacto físico y atenta contra la salud mental y el desarrollo integral.
+B. Se limita a los insultos verbales directos, excluyendo rumores y sobrenombres.
+C. Requiere al menos un acto de contacto físico acompañado de expresiones humillantes o descalificadoras.
+D. Solo se configura cuando deja secuelas diagnosticadas por un profesional de salud.
+Respuesta correcta: A
+Explicación: El Protocolo define la violencia psicológica como agresión verbal, amenazas, manipulación, chantaje, aislamiento u hostigamiento que se ejerce sin la intervención del contacto físico y atenta contra la salud mental y el desarrollo integral; incluye sarcasmos, sobrenombres, burlas y difusión de rumores.
+Sustento: R.M. 0864/2019, Aspectos generales, «¿Qué es Violencia Psicológica?»; página impresa: 14; página PDF: 16.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+8. [R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] La violencia por omisión o negligencia es definida por el Protocolo como:
+A. Una forma de violencia psicológica que requiere expresiones verbales descalificadoras.
+B. Una falta administrativa leve que no se considera violencia contra la niña o el niño.
+C. Una forma activa de violencia que solo pueden ejercer madres, padres o tutores en el hogar.
+D. Una forma pasiva de violencia por descuido de los adultos en sus obligaciones de cuidado.
+Respuesta correcta: D
+Explicación: El Protocolo define la violencia por omisión o negligencia como una forma pasiva de violencia, correspondiente a la omisión o descuido de las personas adultas (en el ámbito educativo: maestros, autoridades, personal administrativo o de servicio, madre, padre o tutor) en el cumplimiento de sus obligaciones de atención y cuidado.
+Sustento: R.M. 0864/2019, Aspectos generales, «¿Qué es violencia por omisión o negligencia?»; páginas impresas: 14 y 15; páginas PDF: 16 y 17.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+9. [R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] Respecto de la violencia sexual contra niñas, niños y adolescentes, el Protocolo sostiene que:
+A. Es un hecho privado cuando ocurre fuera del ámbito y del horario educativo.
+B. Es un asunto familiar que la unidad educativa solo atiende a pedido de los padres.
+C. No es un hecho privado, porque su desarrollo integral es de interés público.
+D. Solo es delito cuando existe penetración y uso comprobado de la fuerza física.
+Respuesta correcta: C
+Explicación: El Protocolo señala que la violencia sexual o su tentativa se considera delito y vulneración de derechos fundamentales, y que no se trata de un hecho privado porque todo lo concerniente al desarrollo integral de la niña, niño o adolescente es de interés público.
+Sustento: R.M. 0864/2019, Aspectos generales, «¿Qué es Violencia Sexual?»; páginas impresas: 15 y 16; páginas PDF: 17 y 18.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+10. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PRESENTACIÓN] Según la Presentación, ¿cuál es la expresión de la educación de calidad para Vivir Bien que orienta las políticas del Ministerio?
+A. El "Vivir Bien entre nosotros", una convivencia comunitaria sin asimetrías de poder.
+B. La "neutralidad institucional", que separa la escuela de los problemas de la comunidad.
+C. La "disciplina escolar", entendida como obediencia a las normas de la unidad educativa.
+D. El "vivir mejor", entendido como éxito individual frente a los demás estudiantes.
+Respuesta correcta: A
+Explicación: La Presentación expresa que la educación de calidad para Vivir Bien se expresa en el "Vivir Bien entre nosotros", una convivencia comunitaria con interculturalidad y sin asimetrías de poder, diferente del "vivir mejor" individual.
+Sustento: R.M. 0864/2019, Presentación; página impresa: 9; página PDF: 11.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+11. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] ¿A quién corresponde coordinar la construcción de los Planes de Convivencia Armónica y Pacífica en la unidad educativa?
+A. A la junta escolar de madres y padres de familia.
+B. Al Director Departamental de Educación del área.
+C. A la Defensoría de la Niñez y Adolescencia municipal.
+D. A la Directora o el Director de la unidad educativa.
+Respuesta correcta: D
+Explicación: El apartado 2.2, inciso b), asigna a las Directoras o Directores coordinar la construcción de los Planes de Convivencia Armónica y Pacífica; el Director Departamental garantiza que las unidades cuenten con dicho plan (1.2 b).
+Sustento: R.M. 0864/2019, Parte II, 2.2, inc. b); Parte I, 1.2, inc. b); páginas impresas: 28 y 24; páginas PDF: 30 y 26.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+12. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] ¿Quién puede recepcionar en la Dirección de la unidad educativa las denuncias por violencia física y psicológica?
+A. Solo la Directora o el Director, en coordinación con la DNA.
+B. La junta escolar, que luego informa a la Dirección.
+C. La secretaria o el secretario de la unidad, bajo acta.
+D. Cualquier maestra o maestro del plantel que esté de turno ese día.
+Respuesta correcta: A
+Explicación: El apartado 3.4 dispone que las denuncias por violencia física y psicológica realizadas en la Dirección solo pueden ser recepcionadas por la Directora o el Director, quien en coordinación con la DNA realizará el seguimiento e informará a la Dirección Distrital.
+Sustento: R.M. 0864/2019, Parte III, 3.4 Denuncia; página impresa: 40; página PDF: 42.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+13. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] A conocimiento de una falta grave relativa a violencia física, psicológica o de un delito sexual por parte del personal de la unidad, ¿qué corresponde a la Directora o Director Distrital?
+A. Esperar la imputación formal del Ministerio Público antes de cualquier actuación.
+B. Remitir el caso a la junta escolar para que decida sobre la continuidad del maestro.
+C. Iniciar el proceso disciplinario hasta su culminación e informar a la Dirección Departamental.
+D. Suspender de inmediato al denunciado sin goce de haberes hasta la sentencia penal.
+Respuesta correcta: C
+Explicación: El apartado 1.3, inciso g), dispone que la Directora o Director Distrital, a conocimiento de una falta grave relativa a violencia física, psicológica o delito sexual, inicie el proceso disciplinario hasta su culminación y ponga en conocimiento de la Dirección Departamental el hecho denunciado.
+Sustento: R.M. 0864/2019, Parte I, 1.3, inc. g); página impresa: 26; página PDF: 28.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+14. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] ¿Qué función asigna el Protocolo a la Directora o Director Departamental de Educación respecto de los Planes de Convivencia?
+A. Elaborar y aprobar directamente el Plan de Convivencia de cada unidad educativa del departamento.
+B. Sancionar a las unidades que no remitan su Plan de Convivencia dentro del primer trimestre del año.
+C. Garantizar que las unidades cuenten con un Plan que incluya la prevención y la aplicación del Protocolo.
+D. Delegar la elaboración del Plan a la Defensoría de la Niñez y Adolescencia de cada municipio.
+Respuesta correcta: C
+Explicación: El apartado 1.2, inciso b), asigna al Director Departamental garantizar que las Unidades Educativas y Centros de Educación Especial cuenten con un Plan de Convivencia Armónica y Pacífica que incluya la prevención de la violencia en todas sus formas y la aplicación del Protocolo.
+Sustento: R.M. 0864/2019, Parte I, 1.2, inc. b); página impresa: 24; página PDF: 26.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+15. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] Según el Protocolo, ¿qué función cumple el Ministerio de Educación a través de sus Abogados Defensores ante nuevos hechos de violencia sexual?
+A. Denunciar en máximo 48 horas y formalizar la querella en las 72 horas siguientes.
+B. Remitir el caso a la DNA en 48 horas y esperar la imputación del Ministerio Público.
+C. Denunciar en máximo 24 horas y formalizar la querella en los 5 días siguientes.
+D. Iniciar el proceso disciplinario en 24 horas y suspender al denunciado en 48 horas.
+Respuesta correcta: A
+Explicación: El apartado 1.1, numeral 4, dispone que los Abogados Defensores denuncien nuevos hechos de violencia sexual ante la autoridad competente en un plazo máximo de 48 horas y que, en las siguientes 72 horas, formalicen la denuncia mediante la querella correspondiente.
+Sustento: R.M. 0864/2019, Parte I, 1.1, num. 4; página impresa: 24; página PDF: 26.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+16. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] Una vez obtenida la imputación formal, ¿qué deben hacer los Abogados Defensores del Ministerio según el Protocolo?
+A. Notificar al Tribunal Disciplinario Nacional para que dicte el retiro definitivo de la persona denunciada.
+B. Remitir copia legalizada a la DDE y a la Unidad de Gestión de Personal del SEP para la suspensión.
+C. Remitir copia simple a la unidad educativa para que el director suspenda al denunciado.
+D. Archivar la imputación hasta que exista sentencia condenatoria ejecutoriada en el proceso.
+Respuesta correcta: B
+Explicación: El apartado 1.1, numeral 5, dispone que, obtenida la imputación formal, se remita copia legalizada a la Dirección Departamental y a la Unidad de Gestión de Personal del SEP para implementar la medida de seguridad (suspensión de funciones sin goce de haberes) de los D.S. 1302 y 1320.
+Sustento: R.M. 0864/2019, Parte I, 1.1, num. 5; página impresa: 24; página PDF: 26.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+17. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] ¿Qué deber específico asigna el Protocolo a las porteras y porteros?
+A. Controlar el ingreso de los estudiantes que llegan tarde y negarles la entrada a la unidad.
+B. Atender la puerta solo en horas de ingreso, pudiendo delegarla a estudiantes durante el recreo escolar.
+C. Permanecer en la puerta de ingreso en horas de entrada, recreo y salida, sin delegar la función.
+D. Recibir visitas personales solo durante el recreo, previo registro en el libro de portería.
+Respuesta correcta: C
+Explicación: El apartado 2.3 dispone que porteras y porteros permanezcan al cuidado de la puerta en horas de ingreso, recreo y salida, sin abandonar la función; no pueden recibir visitas de personas ajenas ni delegar sus funciones a terceros. Además, no se debe restringir el ingreso de los estudiantes.
+Sustento: R.M. 0864/2019, Parte II, 2.3, incs. f), g), h) y j); páginas impresas: 30 y 31; páginas PDF: 32 y 33.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+18. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] ¿Qué función asigna el Protocolo al Ministerio de Educación respecto de la información de casos de violencia?
+A. Consolidar anualmente la información remitida por las direcciones para formular políticas.
+B. Publicar mensualmente la lista de maestros denunciados en la página web oficial del Ministerio.
+C. Registrar directamente cada caso detectado en las unidades educativas en tiempo real.
+D. Reservar la información de casos sin uso para la formulación de políticas educativas.
+Respuesta correcta: A
+Explicación: El apartado 1.1, inciso c), asigna al Ministerio consolidar anualmente la información de casos remitida por las Direcciones Departamentales y Distritales para formular políticas, planes y programas de prevención.
+Sustento: R.M. 0864/2019, Parte I, 1.1, inc. c); página impresa: 23; página PDF: 25.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+19. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Cuando la autoridad o personal de la unidad educativa está implicado en un caso de violencia sexual, ¿quién debe realizar los procedimientos del Protocolo?
+A. El propio director, con apoyo de la junta escolar de padres y madres de familia.
+B. El maestro de mayor antigüedad del plantel, en coordinación con la Defensoría municipal.
+C. La Defensoría de la Niñez de manera exclusiva, sin intervención educativa.
+D. La Dirección Distrital, en coordinación con la Dirección Departamental de Educación.
+Respuesta correcta: D
+Explicación: El apartado 3.1 dispone que, si la autoridad o cualquier maestra, maestro o personal administrativo está implicado en el caso de violencia sexual, los procedimientos deben ser realizados por la Dirección Distrital en coordinación con la Dirección Departamental correspondiente.
+Sustento: R.M. 0864/2019, Parte III, 3.1 Detección; página impresa: 37; página PDF: 39.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+20. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] ¿Qué deber tiene cada unidad educativa respecto del registro de casos?
+A. Registrar los casos en el cuaderno pedagógico de cada maestro y archivarlos en la unidad.
+B. Llevar un registro anual en el Anexo 3 y enviarlo consolidado a la Distrital al fin de gestión.
+C. Registrar los casos en el RDA del personal y remitirlos de inmediato al Ministerio de Educación.
+D. Llevar un registro reservado que solo puede ser consultado por la Defensoría de la Niñez.
+Respuesta correcta: B
+Explicación: El apartado 3.10 dispone que cada unidad lleve un registro anual de casos en el Anexo 3, enviado a fin de gestión de manera consolidada a la Dirección Distrital y de esta a la Departamental, con propósito principalmente estadístico.
+Sustento: R.M. 0864/2019, Parte III, 3.10; página impresa: 43; página PDF: 45.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+21. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Según el Protocolo, ¿qué implica que la denuncia de violencia "no es opcional"?
+A. Que la denuncia debe esperar la confirmación de la víctima para evitar denuncias falsas.
+B. Quien no denuncia vulnera la normativa penal y puede ser acusado de complicidad por omisión.
+C. Que la denuncia procede solo si existen evidencias físicas visibles del hecho de violencia denunciado.
+D. Que la denuncia solo es obligatoria para el director, siendo facultativa para los demás.
+Respuesta correcta: B
+Explicación: El apartado 3.4 señala que la denuncia no es opcional y que quien no ponga en conocimiento de la autoridad competente una situación de violencia vulnera la normativa penal (Art. 286 del Código Penal y Art. 155 de la Ley N.º 548) y puede ser acusado de complicidad por omisión de denuncia.
+Sustento: R.M. 0864/2019, Parte III, 3.4 Denuncia; página impresa: 40; página PDF: 42.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+22. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] En el proceso de intervención, ¿cómo debe priorizar la Directora o el Director el interés superior de la niña, niño o adolescente?
+A. Por encima del interés del personal, de los padres e incluso de la reputación de la institución.
+B. Solo cuando la DNA lo instruya expresamente mediante una resolución escrita al director.
+C. Por encima del interés del personal, pero por debajo de la decisión de los padres de familia.
+D. En equilibrio con la reputación institucional, para no afectar la imagen de la unidad educativa.
+Respuesta correcta: A
+Explicación: El apartado 3.2 dispone que la Directora o el Director debe asegurar que todas las acciones garanticen el interés superior de la niña, niño o adolescente, por encima del interés del personal docente y administrativo, de madres, padres y representantes legales, inclusive por encima de la reputación de la institución.
+Sustento: R.M. 0864/2019, Parte III, 3.2 Intervención; página impresa: 37; página PDF: 39.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+23. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] El Protocolo exige confidencialidad en la intervención. ¿Cuál es la excepción que admite para proporcionar información del caso?
+A. Toda la información que pidan los maestros del curso para conocer la situación de su estudiante.
+B. La información que la junta escolar requiera para evaluar el desempeño del personal denunciado.
+C. La información específica necesaria para el informe, la denuncia, las direcciones y los familiares no agresores.
+D. La información que soliciten los medios de comunicación para alertar a la comunidad educativa local.
+Respuesta correcta: C
+Explicación: El apartado 3.2 prohíbe divulgar información del caso salvo la información específica y concreta requerida para elaborar el informe, efectuar la denuncia, informar a la Dirección Distrital y Departamental y poner en conocimiento a familiares o representantes legales que no sean los presuntos agresores.
+Sustento: R.M. 0864/2019, Parte III, 3.2 Intervención; página impresa: 37; página PDF: 39.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+24. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Al elaborar el informe del hecho (Anexo 1), ¿qué prohibición expresa establece el Protocolo para evitar la revictimización?
+A. No firmar el informe hasta contar con la declaración de dos testigos.
+B. No elaborar el informe sin la presencia del abogado de la familia.
+C. No consignar el nombre del presunto agresor en el informe del caso.
+D. No realizar bajo ningún concepto preguntas adicionales a la víctima.
+Respuesta correcta: D
+Explicación: El apartado 3.2 dispone que el Director elabore el informe con el Anexo 1 con la información disponible, y que bajo ningún concepto se realicen preguntas adicionales a la víctima, garantizando la no revictimización; el informe debe ser objetivo, sin juicios de valor.
+Sustento: R.M. 0864/2019, Parte III, 3.2 Intervención; página impresa: 38; página PDF: 40.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+25. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] En los casos de violencia sexual, ¿quién debe realizar el proceso de contención según el Protocolo?
+A. La maestra o el maestro de confianza de la víctima.
+B. El personal capacitado de la DNA o de los SLIM.
+C. La Directora o el Director de la unidad educativa.
+D. El psicólogo contratado por la junta escolar.
+Respuesta correcta: B
+Explicación: El apartado 3.3 señala que la contención en violencia sexual requiere mayor capacidad y que el personal capacitado de la Defensoría de la Niñez y Adolescencia (DNA) o de los Servicios Legales Integrales Municipales (SLIM) son las instancias que deben realizarla, por lo que se les debe comunicar de inmediato.
+Sustento: R.M. 0864/2019, Parte III, 3.3 Contención, inc. f); páginas impresas: 38 y 39; páginas PDF: 40 y 41.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+26. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Si existe sospecha de violencia intrafamiliar, ¿qué advertencia expresa contiene el Protocolo?
+A. Solicitar al estudiante que relate los hechos frente a sus progenitores.
+B. Esperar a que el estudiante presente indicadores físicos visibles de la violencia.
+C. Citar a ambos padres a una reunión conjunta para aclarar los hechos.
+D. No confrontar a las partes y reportar el caso a la DNA de la jurisdicción.
+Respuesta correcta: D
+Explicación: El apartado 3.3 advierte: si existe sospecha o se detecta violencia intrafamiliar, no confronte a las partes para no arriesgar a la víctima ni al proceso de investigación, y reporte a la DNA de su jurisdicción.
+Sustento: R.M. 0864/2019, Parte III, 3.3 Contención (recuadro «CUIDADO»); página impresa: 39; página PDF: 41.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+27. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] ¿Qué establece el Protocolo sobre la continuidad educativa de la víctima que debe ausentarse por su recuperación?
+A. La víctima debe repetir el año si sus inasistencias superan el límite fijado por el reglamento.
+B. La víctima queda exenta de evaluación hasta su retorno definitivo a la unidad educativa.
+C. La víctima debe ser trasladada obligatoriamente a otra unidad educativa del mismo distrito.
+D. Los maestros deben realizar adaptaciones curriculares para compensar los días de inasistencia.
+Respuesta correcta: D
+Explicación: El apartado 3.6, medida 3, ordena garantizar que la o el estudiante continúe ejerciendo su derecho a la educación y que, si debe ausentarse, los maestros realicen adaptaciones curriculares para compensar los días de inasistencia por la recuperación psicoafectiva o la restitución de derechos.
+Sustento: R.M. 0864/2019, Parte III, 3.6, num. 3; página impresa: 41; página PDF: 43.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+28. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] ¿Qué es la "contrarreferencia" en el marco del Protocolo?
+A. La denuncia que la víctima presenta contra la unidad educativa por no haber actuado a tiempo.
+B. La comunicación de la instancia receptora al director sobre acciones y recomendaciones de protección.
+C. El informe que el director remite a la Distrital sobre el estado del proceso disciplinario.
+D. La devolución del caso a la unidad educativa cuando la DNA considera que no existe violencia de ningún tipo.
+Respuesta correcta: B
+Explicación: El apartado 3.9 dispone que la instancia receptora (DNA, SLIM, SEPDAVI u otra) comunique al Director las acciones realizadas y las recomendaciones para la protección de la víctima; el Anexo 2 incluye la sección de seguimiento (contrarreferencia).
+Sustento: R.M. 0864/2019, Parte III, 3.9; Anexo 2; páginas impresas: 43 y 51; páginas PDF: 45 y 53.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+29. [R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 2] La nota de la Ruta 2 señala que, si la violencia sexual detectada en la unidad ocurrió fuera del ámbito educativo, la ruta:
+A. Continúa con el proceso disciplinario contra los familiares de la víctima.
+B. Concluye con la denuncia ante la DNA y la aplicación de las medidas de protección.
+C. Se remite íntegramente al Tribunal Disciplinario Departamental del magisterio.
+D. Se suspende hasta que los padres decidan si desean formalizar la denuncia penal respectiva.
+Respuesta correcta: B
+Explicación: La nota de la Ruta 2 establece que, si la violencia sexual detectada ocurrió fuera del ámbito educativo, la ruta concluye con la denuncia ante la DNA y se implementan las medidas de protección que determine la autoridad competente.
+Sustento: R.M. 0864/2019, Ruta 2 (Nota); página impresa: 47; página PDF: 49.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+30. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Según el apartado 3.8, ¿qué instancia atiende el caso cuando la violencia ejercida no constituye delito?
+A. El Ministerio Público de la jurisdicción.
+B. El Tribunal Disciplinario Departamental.
+C. La Comisión Técnico Pedagógica de la unidad.
+D. El Juzgado de la Niñez y Adolescencia.
+Respuesta correcta: D
+Explicación: El apartado 3.8 dispone que, si la violencia no constituye delito, será atendida por el Juzgado de la Niñez y Adolescencia; si es delito, por el Ministerio Público y, en su caso, adicionalmente por dicho Juzgado. En ambos casos se usa el Anexo 2.
+Sustento: R.M. 0864/2019, Parte III, 3.8; página impresa: 42; página PDF: 44.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+31. [R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] Distinga la violación de infante, niña, niño o adolescente del estupro, según la tabla de delitos del Protocolo:
+A. La primera se refiere a menores de 14 años aun alegando consentimiento; el estupro, a mayores de 14 y menores de 18 por seducción o engaño.
+B. La primera exige siempre violencia física; el estupro se configura con cualquier persona menor de 16 años que preste consentimiento.
+C. La primera se refiere a menores de 18 años con uso de fuerza; el estupro, a menores de 14 años mediante intimidación psicológica.
+D. La primera se refiere a menores de 12 años; el estupro, a mayores de 12 y menores de 16 mediante amenaza o chantaje.
+Respuesta correcta: A
+Explicación: La tabla del Protocolo describe la violación de infante, niña, niño o adolescente cuando la víctima es menor de 14 años, así no haya uso de fuerza y se alegue consentimiento; y el estupro como el acceso carnal mediante seducción o engaño con persona mayor de 14 y menor de 18 años.
+Sustento: R.M. 0864/2019, Aspectos generales, tabla «Delitos contra la libertad e integridad sexual»; página impresa: 17; página PDF: 19.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+32. [R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 3] Distinga el rótulo "Observado Preventivo" del "Observado Preventivo – Medida Cautelar":
+A. El primero impide todo trámite y ascenso; el segundo solo impide el ascenso de categoría del maestro.
+B. El primero no impide trámites salvo ascenso de categoría; el segundo impide todo trámite y ascenso.
+C. Ambos impiden únicamente el ascenso de categoría mientras dure el proceso administrativo o penal.
+D. El primero determina el retiro definitivo; el segundo permite todos los trámites del Escalafón.
+Respuesta correcta: B
+Explicación: Según la Ruta 3, el Observado Preventivo (auto inicial de proceso administrativo o sentencia del JPNA) no impide trámites de Escalafón o RDA, salvo el ascenso de categoría; el Observado Preventivo – Medida Cautelar (imputación formal en casos de violencia sexual) implica suspensión por mandato legal y no permite ningún trámite ni ascenso.
+Sustento: R.M. 0864/2019, Ruta 3; página impresa: 48; página PDF: 50.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+33. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Distinga la "detección" de la "contención" en la actuación ante la violencia:
+A. La detección la realiza solo la DNA; la contención la realiza solo la Dirección Distrital.
+B. La detección identifica indicios de violencia; la contención acoge y protege a quien la relata.
+C. La detección es el registro del caso en el Anexo 3; la contención es la remisión al juzgado.
+D. La detección es la denuncia ante la DNA; la contención es el inicio del proceso disciplinario respectivo.
+Respuesta correcta: B
+Explicación: El apartado 3.1 presenta la detección temprana como identificación de indicios (indicadores físicos, emocionales y conductuales); el apartado 3.3 define la contención como el acto de recibir, acoger, proteger o cuidar a una persona que requiere ayuda en una situación difícil.
+Sustento: R.M. 0864/2019, Parte III, 3.1 y 3.3; páginas impresas: 35 y 38; páginas PDF: 37 y 40.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+34. [R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 3] Distinga los supuestos que generan el rótulo "Observado definitivo" de los que generan el "Observado Preventivo":
+A. Definitivo: fallo de retiro o sentencia condenatoria ejecutoriados; Preventivo: auto inicial o sentencia del JPNA.
+B. Definitivo: auto inicial de proceso administrativo; Preventivo: sentencia condenatoria ejecutoriada.
+C. Definitivo: sentencia del JPNA; Preventivo: fallo ejecutoriado del Tribunal Disciplinario Administrativo.
+D. Definitivo: imputación formal por violencia sexual; Preventivo: denuncia presentada ante la DNA o la FELCV.
+Respuesta correcta: A
+Explicación: La Ruta 3 asigna el Observado definitivo al fallo ejecutoriado del Tribunal Disciplinario que determine retiro definitivo o a la sentencia condenatoria ejecutoriada; el Observado Preventivo, al auto inicial de proceso administrativo o a la sentencia del JPNA; y la Medida Cautelar, a la imputación formal en violencia sexual.
+Sustento: R.M. 0864/2019, Ruta 3; página impresa: 48; página PDF: 50.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+35. [R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] Distinga el acoso sexual del abuso sexual según la tabla de delitos del Protocolo:
+A. El acoso solo puede ser cometido por servidores públicos; el abuso solo por familiares de la víctima menor de edad.
+B. El acoso se configura con acceso carnal mediante engaño; el abuso, con exhibición de material pornográfico a menores.
+C. El acoso se vale de posición jerárquica o poder para exigir conductas sexuales; el abuso implica actos sexuales sin acceso carnal.
+D. El acoso implica actos sexuales sin acceso carnal; el abuso se vale de una posición jerárquica para obtener beneficios sexuales.
+Respuesta correcta: C
+Explicación: La tabla describe el acoso sexual como hostigar, exigir o condicionar beneficios valiéndose de una posición jerárquica o de poder para obtener conductas sexuales no consentidas (agravado para servidores públicos), y el abuso sexual como actos sexuales no constitutivos de penetración o acceso carnal en las circunstancias de los Arts. 308 y 308 bis.
+Sustento: R.M. 0864/2019, Aspectos generales, tabla de delitos; páginas impresas: 17 y 18; páginas PDF: 19 y 20.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+36. [R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] El Protocolo incluye la "inasistencia e impuntualidad de las y los maestros en sus horas de clase" entre los ejemplos de violencia por omisión. ¿Qué lectura crítica se desprende?
+A. Amplía la noción de violencia a incumplimientos de cuidado que dejan desatendidos a los estudiantes.
+B. Limita la violencia por omisión a los actos cometidos por madres y padres en el entorno familiar.
+C. Considera la impuntualidad docente como un asunto laboral sin ninguna relación con la protección de la NNA.
+D. Equipara la impuntualidad docente con la violencia física, con las mismas consecuencias penales.
+Respuesta correcta: A
+Explicación: Entre los ejemplos de violencia por omisión o negligencia figuran la inasistencia e impuntualidad de los maestros que deja desatendidos a los estudiantes, prolongar recreos sin vigilancia y no hacer seguimiento a estudiantes con necesidades educativas especiales.
+Sustento: R.M. 0864/2019, Aspectos generales, «¿Qué es violencia por omisión o negligencia?»; página impresa: 15; página PDF: 17.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+37. [R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] El Protocolo incluye como manifestación de violencia sexual los toqueteos "consentidos o no por parte de la víctima" y "sobre cualquier parte del cuerpo". ¿Qué implicancia crítica tiene esta precisión?
+A. Exige acreditar la falta de consentimiento de la víctima para que el hecho sea considerado violencia.
+B. Restringe la violencia sexual a los contactos en zonas íntimas como senos, genitales o nalgas.
+C. Considera violencia sexual solo los contactos reiterados, no los episodios aislados de toqueteo.
+D. Excluye el consentimiento de la NNA como justificación y no limita la conducta a zonas íntimas.
+Respuesta correcta: D
+Explicación: El Protocolo enumera como manifestación los toqueteos, caricias o manoseos hacia una niña, niño o adolescente, consentidos o no por la víctima, sobre cualquier parte del cuerpo y no exclusivamente en zonas íntimas.
+Sustento: R.M. 0864/2019, Aspectos generales, «¿Qué es Violencia Sexual?», inc. a); página impresa: 16; página PDF: 18.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+38. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] El Protocolo prohíbe la comunicación individual de maestros con estudiantes por teléfono o redes sociales. ¿Qué fundamento preventivo subyace a esta regla?
+A. Reducir espacios de relación no supervisada que faciliten situaciones de riesgo para la NNA.
+B. Evitar que los estudiantes utilicen dispositivos móviles durante el horario de clases.
+C. Impedir que los padres conozcan las actividades pedagógicas planificadas por el maestro del curso.
+D. Garantizar que toda tarea escolar se entregue en forma impresa y nunca digital.
+Respuesta correcta: A
+Explicación: Los apartados 2.2, inciso n), y 2.4, inciso h), prohíben la comunicación individual de maestros con estudiantes por teléfono o redes; si es estrictamente necesaria, se canaliza a través de los padres y la Dirección. Junto con la prohibición de permanecer a solas, buscan cerrar espacios de relación no supervisada.
+Sustento: R.M. 0864/2019, Parte II, 2.2, inc. n) y 2.4, inc. h); páginas impresas: 29 y 31; páginas PDF: 31 y 33.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+39. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] "Muchas personas creen que porque la NNA no habla sobre lo ocurrido ya lo olvidó". ¿Qué postura crítica asume el Protocolo frente a esa creencia?
+A. La acepta: hablar del hecho siempre revictimiza, por lo que debe evitarse cualquier tipo de apoyo.
+B. La acepta: el silencio de la víctima indica que el hecho no tuvo consecuencias duraderas.
+C. La matiza: si la víctima no habla, la unidad educativa no debe intervenir en el caso.
+D. La rechaza: la violencia sexual no se olvida fácilmente y requiere apoyo integral oportuno.
+Respuesta correcta: D
+Explicación: El Protocolo afirma que la violencia sexual no es fácil de olvidar, que lo aparentemente olvidado queda "guardado" y marca la vida futura de la víctima, y que es importante que reciba apoyo integral para una recuperación psicoafectiva oportuna.
+Sustento: R.M. 0864/2019, Aspectos generales, «¿Cuáles son los efectos de la violencia?»; páginas impresas: 19 y 20; páginas PDF: 21 y 22.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+40. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] El Protocolo indica que "es poco frecuente que niñas, niños y adolescentes manifiesten espontáneamente que son víctimas". ¿Qué consecuencia práctica deriva para el personal educativo?
+A. Debe esperar el relato espontáneo de la víctima antes de iniciar cualquier actuación.
+B. Debe conocer e identificar oportunamente los indicadores físicos, emocionales y conductuales.
+C. Debe interrogar periódicamente a todos los estudiantes sobre posibles hechos de violencia sufridos.
+D. Debe delegar toda la detección en la Defensoría de la Niñez y Adolescencia municipal.
+Respuesta correcta: B
+Explicación: El Protocolo señala que existe mayor posibilidad de detectar la violencia mediante la observación de indicadores físicos, emocionales y de comportamiento, por lo que es importante conocerlos e identificarlos oportunamente; el apartado 3.1 los enumera.
+Sustento: R.M. 0864/2019, Aspectos generales, «¿Cómo detectar la violencia…?»; Parte III, 3.1; páginas impresas: 21 y 35; páginas PDF: 23 y 37.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+41. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] El Protocolo sostiene que, cuando se refiere un caso a otra instancia, la responsabilidad con la víctima "NO concluye". ¿Qué principio de gestión expresa?
+A. Corresponsabilidad sostenida: la unidad sigue garantizando protección y respuesta oportuna.
+B. Delegación total: la instancia receptora asume en exclusiva la protección del estudiante.
+C. Reserva institucional: la unidad solo vuelve a intervenir si la DNA lo solicita por escrito.
+D. Desvinculación procesal: la unidad cesa toda intervención al remitir el Anexo 2 firmado.
+Respuesta correcta: A
+Explicación: El recuadro del apartado 3.10 recuerda que, al referir un caso, la responsabilidad con la víctima no concluye y que debe continuarse garantizando su protección y una respuesta oportuna, intersectorial e interinstitucional; la corresponsabilidad es principio del Protocolo.
+Sustento: R.M. 0864/2019, Parte III, 3.10 (recuadro «RECUERDE»); Aspectos generales, principios; páginas impresas: 43 y 13; páginas PDF: 45 y 15.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+42. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Según el apartado 3.7, cuando la denuncia no corresponde a una falta grave ni constituye delito, el director amonesta por escrito al maestro "para que reflexione". ¿Qué enfoque revela esta medida?
+A. Un enfoque sindical que traslada la decisión sobre el maestro a su organización gremial.
+B. Un enfoque formativo que acompaña la sanción con orientación y alternativas de manejo.
+C. Un enfoque punitivo que reemplaza el proceso disciplinario por una sanción ejemplar.
+D. Un enfoque de impunidad que impide a los padres acudir a otras instancias de protección.
+Respuesta correcta: B
+Explicación: El apartado 3.7 dispone que el director amoneste por escrito al maestro que ejerció malos tratos para que reflexione, informándole alternativas de manejo, lugares de orientación y apoyo y actividades para reducir el estrés; los padres conservan su derecho de acudir a la DNA o al Juzgado.
+Sustento: R.M. 0864/2019, Parte III, 3.7; página impresa: 42; página PDF: 44.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+43. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] El apartado 2.2, inciso o), prohíbe restringir el ingreso de estudiantes que llegan fuera de horario. Desde el enfoque del Protocolo, ¿por qué?
+A. Porque dejar al estudiante fuera de la unidad lo expone a riesgos que la escuela debe prevenir.
+B. Porque el ingreso de estudiantes es competencia exclusiva de la Defensoría de la Niñez municipal.
+C. Porque la puntualidad no forma parte de las responsabilidades de los estudiantes en el Protocolo.
+D. Porque la sanción por atraso corresponde únicamente a los padres de familia y no a la unidad.
+Respuesta correcta: A
+Explicación: El apartado 2.2, inciso o), ordena supervisar que ningún estudiante quede fuera de la unidad y recuerda que no está permitido restringir el ingreso por llegar fuera de horario; el 2.3, inciso f), reitera que el personal no debe restringir el ingreso durante la jornada.
+Sustento: R.M. 0864/2019, Parte II, 2.2, inc. o) y 2.3, inc. f); páginas impresas: 29 y 30; páginas PDF: 31 y 32.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+44. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PRESENTACIÓN] La Presentación afirma que aún persisten hábitos violentos en la comunidad educativa. ¿A qué origen los atribuye?
+A. A la falta de cámaras de seguridad en la mayoría de las unidades educativas del país.
+B. A la ausencia de normas disciplinarias que sancionen a los estudiantes violentos.
+C. A la insuficiente participación de la Policía Boliviana en las unidades educativas.
+D. A la herencia de sistemas educativos coloniales y neoliberales marcados por racismo y exclusión.
+Respuesta correcta: D
+Explicación: La Presentación señala que persisten hábitos y comportamientos violentos, herencia de los sistemas educativos coloniales y neoliberales marcados por el racismo, la discriminación y la exclusión.
+Sustento: R.M. 0864/2019, Presentación; página impresa: 9; página PDF: 11.
+
+# Dimensión: Análisis crítico · Modalidad: Interpretativa
+45. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] El objeto del Protocolo se centra en la violencia ejercida por adultos de la comunidad educativa contra estudiantes. ¿Cómo trata el documento la violencia sexual identificada entre estudiantes?
+A. La regula en un capítulo específico con una ruta propia de actuación para cada nivel educativo.
+B. La excluye de cualquier actuación de la unidad educativa por tratarse de conflictos entre pares.
+C. Remite a la R.M. 1204/2018 de prevención de violencia entre pares, mediante una nota al pie.
+D. La equipara a la violencia ejercida por adultos y le aplica la Ruta 3 de proceso administrativo.
+Respuesta correcta: C
+Explicación: El objeto del Protocolo se refiere a la violencia de cualquier miembro adulto hacia los estudiantes; la nota 5 del apartado 2.2 indica que, en caso de identificar violencia sexual entre estudiantes, se revise la R.M. 1204/2018 de prevención de violencia entre pares.
+Sustento: R.M. 0864/2019, Aspectos generales (objeto); Parte II, 2.2, nota 5; páginas impresas: 13 y 29; páginas PDF: 15 y 31.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+46. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un maestro necesita conversar a solas con una estudiante sobre su rendimiento. ¿Qué procedimiento exige el Protocolo?
+A. Conversar con la estudiante en el aula con la puerta abierta, sin necesidad de informar a nadie.
+B. Informar al director para que convoque a la madre, padre o tutor y esté presente en la reunión.
+C. Comunicarse con ella por mensajería privada para fijar la reunión fuera del horario escolar.
+D. Citarla en la sala de maestros al término de la jornada, con conocimiento del regente.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El apartado 2.4, inciso g), dispone que, si el maestro requiere dialogar con un estudiante en particular, debe informar a la Directora o Director para que convoque a la madre, padre o tutor y estar presentes en la reunión; el inciso h) prohíbe permanecer a solas con el estudiante.
+Sustento: R.M. 0864/2019, Parte II, 2.4, incs. g) y h); página impresa: 31; página PDF: 33.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+47. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Una maestra propone reunir a un grupo de estudiantes en su domicilio el sábado para terminar una maqueta. ¿Qué establece el Protocolo?
+A. Está prohibido solo si la actividad se realiza fuera del calendario escolar aprobado.
+B. Es permitido siempre que la maestra no permanezca a solas con ninguno de los estudiantes invitados.
+C. Está prohibido programar actividades en el domicilio del maestro o en la casa del estudiante.
+D. Es permitido si cuenta con la autorización escrita de la mayoría de los padres del curso.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El apartado 2.4, inciso m), establece que el maestro no podrá programar actividades para ser desarrolladas en sus domicilios u oficinas, ni en la casa del estudiante; el inciso n) dispone que los trabajos que requieran apoyo extra-aula se realicen en lo posible en grupo y con consentimiento de los padres.
+Sustento: R.M. 0864/2019, Parte II, 2.4, incs. m) y n); página impresa: 32; página PDF: 34.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+48. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un maestro crea un grupo de WhatsApp con sus estudiantes sin autorización de la Dirección. ¿Qué dispone el Protocolo sobre los canales de comunicación?
+A. Son de libre creación del maestro, siempre que solo se usen para fines pedagógicos del curso.
+B. Requieren autorización de la Dirección Distrital y de la Defensoría de la Niñez municipal.
+C. Están prohibidos en todos los casos, aun con autorización de la Dirección de la unidad.
+D. Deben ser aprobados por la Dirección y representantes de padres, y la Dirección debe formar parte.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El apartado 2.2, inciso m), asigna al director establecer rutas de comunicación aprobadas por la Dirección y representantes de padres, autorizar el uso de redes sociales para actividades pedagógicas y ser parte de ellas (grupos de WhatsApp, Facebook y similares).
+Sustento: R.M. 0864/2019, Parte II, 2.2, inc. m); página impresa: 29; página PDF: 31.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+49. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Un estudiante relata a su maestra que su compañera es víctima de violencia sexual en su casa. ¿Qué debe garantizarse respecto del estudiante que hace el relato?
+A. Mantenerlo al margen, porque solo la víctima tiene derecho a protección.
+B. Citarlo como testigo obligatorio ante la Policía al día siguiente del relato.
+C. Salvaguardar su integridad, asegurándole orientación y apoyo si lo requiere.
+D. Exigirle que repita el relato ante los padres de la víctima para confirmarlo.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El apartado 3.2 dispone que, cuando el relato lo realiza una compañera o compañero de la víctima, se debe salvaguardar la integridad de la niña, niño o adolescente testigo, asegurándole orientación y apoyo en caso de requerirlo, así como a la víctima.
+Sustento: R.M. 0864/2019, Parte III, 3.2 Intervención; página impresa: 37; página PDF: 39.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+50. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Una maestra recibe el relato de un estudiante que dice sufrir violencia física. ¿Cuál es la reacción inicial correcta según el Protocolo?
+A. Contrastar el relato con la versión del presunto agresor antes de comunicarlo al director de la unidad.
+B. Pedir pruebas del relato y advertir que una denuncia falsa tiene consecuencias graves.
+C. Prometer al estudiante que nadie sabrá lo ocurrido y que el problema se resolverá pronto.
+D. Agradecer la confianza, no dudar del relato e informar que se tomarán medidas de protección.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El apartado 3.2 dispone que quien escuche el relato debe agradecer la confianza, nunca poner en duda el relato e informar que se tomarán todas las medidas para protegerlo. El apartado 3.3 prohíbe generar promesas o expectativas falsas.
+Sustento: R.M. 0864/2019, Parte III, 3.2 y 3.3, inc. g); páginas impresas: 37 y 39; páginas PDF: 39 y 41.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+51. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Durante la contención, una maestra desea expresar afecto a una estudiante víctima de violencia sexual. ¿Cómo debe hacerlo?
+A. Evitando cualquier expresión, para no influir en el relato del hecho.
+B. Con un abrazo, porque el contacto físico transmite seguridad inmediata.
+C. Por escrito, mediante una nota entregada a través de sus compañeros.
+D. Verbalmente, porque el contacto físico puede recordar las situaciones vividas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El apartado 3.3, inciso g), señala que, si la maestra o maestro desea expresar afecto, debe hacerlo verbalmente, porque el contacto físico puede recordar a la víctima las situaciones desagradables vividas.
+Sustento: R.M. 0864/2019, Parte III, 3.3 Contención, inc. g); página impresa: 39; página PDF: 41.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+52. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] En la contención de una víctima, un maestro comenta: "ese desgraciado pagará por lo que te hizo". ¿Qué indicación del Protocolo incumple?
+A. No hablar de sentimientos con la víctima durante la contención.
+B. No realizar la contención sin la presencia de la madre, padre o tutor.
+C. No expresar juicios de valor sobre la víctima ni sobre la persona agresora.
+D. No comunicar el hecho a la Dirección antes de 24 horas de conocido.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El apartado 3.3, inciso c), advierte que hablar de sentimientos no significa emitir juicios de valor y cita expresiones como "ese desgraciado"; recomienda no expresar juicios de valor sobre la víctima ni sobre el agresor.
+Sustento: R.M. 0864/2019, Parte III, 3.3 Contención, inc. c); página impresa: 39; página PDF: 41.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+53. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] En una comunidad rural no existe DNA, Ministerio Público ni FELCV. ¿Ante quién puede presentarse la denuncia de violencia?
+A. Ante la Dirección Distrital, que podrá resolver la denuncia sin derivarla a otra instancia.
+B. Ante el director de la unidad educativa, que resolverá el caso con la junta escolar del lugar.
+C. Ante el Tribunal Disciplinario Departamental, que actuará como autoridad de protección.
+D. Ante las Autoridades Indígena Originario Campesinas, que la remitirán a las instancias competentes.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El apartado 3.4 dispone que, ante la ausencia de DNA, Ministerio Público o FELCV, se puede acudir a las Autoridades Indígena Originario Campesinas, quienes según el caso deberán remitir la denuncia a las instancias competentes; la nota 9 recuerda que la jurisdicción indígena no alcanza los delitos contra la integridad de NNA.
+Sustento: R.M. 0864/2019, Parte III, 3.4 Denuncia (y nota 9); página impresa: 40; página PDF: 42.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+54. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] La denuncia por violencia física señala como presunto agresor al propio director de la unidad. ¿Ante quién puede presentarse?
+A. Ante el propio director, que debe excusarse y delegar el caso al maestro más antiguo.
+B. Solo ante el Tribunal Disciplinario Nacional, por tratarse de una autoridad educativa.
+C. Ante la DNA y la Dirección Distrital, por cualquier maestro, padre, madre o estudiante.
+D. Ante la junta escolar, que resolverá el caso antes de informar a la Dirección Distrital.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El apartado 3.4 dispone que, si el denunciado es el director, la denuncia puede ser presentada por cualquier maestra, maestro, padre, madre o estudiante ante la DNA y la Dirección Distrital Educativa correspondiente.
+Sustento: R.M. 0864/2019, Parte III, 3.4 Denuncia; página impresa: 40; página PDF: 42.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+55. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Un maestro identifica en un estudiante temor a permanecer en la escuela, resistencia a cambiarse para Educación Física y rechazo repentino a un adulto. ¿Qué debe hacer?
+A. Observar al estudiante durante un trimestre antes de reportar los indicadores.
+B. Comunicarlo de inmediato al director, salvo que este sea el presunto agresor.
+C. Pedir al estudiante una explicación escrita de su cambio de conducta.
+D. Confrontar al adulto rechazado para conocer su versión de los hechos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El apartado 3.1 enumera indicadores como temor a permanecer en el establecimiento, resistencia a cambiarse de ropa para Educación Física y rechazo repentino a alguien, y dispone que toda persona que detecte una posible víctima comunique inmediatamente al director, salvo que sea el presunto agresor.
+Sustento: R.M. 0864/2019, Parte III, 3.1 Detección; páginas impresas: 35 y 36; páginas PDF: 37 y 38.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+56. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Concluido el análisis, la DNA considera que la conducta de un maestro hacia un estudiante no constituye infracción ni delito. Según la Ruta 1, ¿qué corresponde al director?
+A. Emitir una amonestación escrita al maestro para evitar situaciones similares.
+B. Remitir el caso al Juzgado de la Niñez para que defina la sanción aplicable.
+C. Archivar el caso sin ninguna medida, por no existir infracción ni delito.
+D. Iniciar el proceso disciplinario ante el Tribunal Disciplinario Departamental.
+Respuesta correcta: A
+Explicación: Aplicación razonada: La Ruta 1 señala que, si la DNA considera que la falta no constituye infracción ni delito, el director emitirá una amonestación escrita al maestro para evitar situaciones similares; el apartado 3.7 desarrolla esta orientación.
+Sustento: R.M. 0864/2019, Ruta 1; Parte III, 3.7; páginas impresas: 45 y 42; páginas PDF: 47 y 44.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+57. [R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 3] Un maestro es imputado formalmente por violencia sexual contra una estudiante. ¿Qué medida prevé el Protocolo mientras dure el proceso penal?
+A. Traslado a funciones administrativas en otra unidad, con goce íntegro de haberes.
+B. Suspensión de funciones sin goce de haberes, como medida de seguridad y protección.
+C. Licencia con goce de haberes hasta que el Tribunal Disciplinario emita su fallo.
+D. Continuidad en el cargo hasta la sentencia, en aplicación de la presunción de inocencia.
+Respuesta correcta: B
+Explicación: Aplicación razonada: La Ruta 3 señala que el director, docente o administrativo imputado formalmente por delitos de agresión y violencia sexual contra estudiantes será suspendido de sus funciones sin goce de haberes mientras dure el proceso penal, como medida de seguridad y protección (D.S. 1320); se registra el rótulo Observado Preventivo – Medida Cautelar.
+Sustento: R.M. 0864/2019, Ruta 3; Parte I, 1.1, num. 5; páginas impresas: 48 y 24; páginas PDF: 50 y 26.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+58. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Una adolescente víctima de violencia sexual es referida a un servicio externo. ¿Qué instancias señala el Protocolo para su apoyo emocional y tratamiento psicológico sostenido?
+A. La junta escolar, que gestiona la atención con recursos de la unidad.
+B. El Tribunal Disciplinario, que dispone el tratamiento de la víctima.
+C. La DNA o el CEPAT, junto a su familia, mediante el formato del Anexo 2.
+D. El gabinete psicológico de la unidad educativa, con informe al director.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El apartado 3.6, medida 5, dispone que en casos de violencia sexual el director refiera a la víctima a un espacio externo: DNA o Centro Especializado de Prevención y Atención Terapéutica (CEPAT), donde junto a su familia reciba apoyo emocional y tratamiento psicológico sostenido, usando el Anexo 2.
+Sustento: R.M. 0864/2019, Parte III, 3.6, num. 5; páginas impresas: 41 y 42; páginas PDF: 43 y 44.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+59. [R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 2] Ante un caso de violencia sexual que produjo embarazo, ¿qué información debe brindarse a la víctima y sus tutores según la nota de la Ruta 2?
+A. La SC 0206/2014, que autoriza la interrupción del embarazo en estos casos sin proceso judicial.
+B. Que solo un juez puede autorizar la interrupción del embarazo previa sentencia condenatoria.
+C. Que la decisión sobre el embarazo corresponde a la junta escolar junto con la Dirección.
+D. Que la unidad educativa debe tramitar la licencia de maternidad de la estudiante ante la DNA municipal.
+Respuesta correcta: A
+Explicación: Aplicación razonada: La nota de la Ruta 2 dispone que en ambos casos se informe a la víctima y sus tutores sobre la Sentencia Constitucional 0206/2014, que autoriza la interrupción del embarazo en casos de violencia sexual en cualquier centro médico sin necesidad de proceso judicial.
+Sustento: R.M. 0864/2019, Ruta 2 (Nota); página impresa: 47; página PDF: 49.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+60. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] La DNA recomienda la inasistencia temporal de una estudiante víctima. Cuando el profesional competente recomienda su retorno, ¿qué debe garantizar el director?
+A. Que la estudiante rinda todas las evaluaciones pendientes en la primera semana de retorno.
+B. Que la estudiante repita el trimestre en el que se produjo la inasistencia.
+C. Que se realicen las adecuaciones curriculares necesarias para su reincorporación.
+D. Que la estudiante sea inscrita en otra unidad para evitar la revictimización.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El apartado 3.9 dispone que, si la instancia receptora recomienda la inasistencia temporal, el director debe garantizar las adecuaciones curriculares en el momento en que el profesional recomiende el retorno de la víctima a clases.
+Sustento: R.M. 0864/2019, Parte III, 3.9; página impresa: 43; página PDF: 45.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+61. [R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] Un maestro prolonga el recreo de su curso sin vigilancia y un estudiante sufre un accidente. ¿Cómo califica el Protocolo esta situación?
+A. Como violencia por omisión o negligencia de los adultos responsables del cuidado.
+B. Como un accidente fortuito sin responsabilidad de los adultos de la unidad educativa.
+C. Como violencia física intencional atribuible al estudiante que sufrió el accidente.
+D. Como violencia psicológica, por la angustia generada en los demás estudiantes.
+Respuesta correcta: A
+Explicación: Entre los ejemplos de violencia por omisión o negligencia figuran prolongar los periodos de recreo sin vigilancia y descuidar a las niñas, niños y adolescentes en la unidad educativa ocasionando un accidente o enfermedad.
+Sustento: R.M. 0864/2019, Aspectos generales, «¿Qué es violencia por omisión o negligencia?»; página impresa: 15; página PDF: 17.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+62. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Un lunes a las 8:00, la directora recibe el relato de una estudiante que denuncia violencia física por parte de un maestro. ¿Hasta cuándo debe presentarse la denuncia ante la instancia competente?
+A. Hasta la siguiente reunión de la Comisión Técnico Pedagógica de la unidad.
+B. Hasta el miércoles a las 8:00, dentro de las 48 horas de conocido el hecho.
+C. Hasta el martes a las 8:00, dentro de las 24 horas de conocido el hecho.
+D. Hasta el viernes, dentro de los cinco días hábiles de conocido el hecho.
+Respuesta correcta: C
+Explicación: El apartado 3.4 establece la obligación de denunciar en un plazo máximo de veinticuatro (24) horas de conocido el hecho ante la DNA o cualquier autoridad competente; la Ruta 3 reitera "denuncia máx. 24 horas".
+Sustento: R.M. 0864/2019, Parte III, 3.4; Ruta 3; páginas impresas: 40 y 48; páginas PDF: 42 y 50.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+63. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Una maestra conoce un hecho de violencia sexual contra una estudiante ocurrido en la unidad. El presunto agresor no es familiar. ¿Cuál es la secuencia que exige el Protocolo para su actuación inmediata?
+A. Comunicar el hecho a los compañeros del curso para prevenir nuevas agresiones.
+B. Comunicar al familiar de preferencia de la víctima y, de inmediato, al director de la unidad.
+C. Esperar a que la víctima confirme el hecho por escrito y luego comunicarlo al distrito.
+D. Interrogar a la víctima sobre los detalles y luego informar a la junta escolar del curso.
+Respuesta correcta: B
+Explicación: El apartado 3.2 dispone que cualquier persona que conozca un hecho de violencia sexual debe comunicarlo al familiar de preferencia de la víctima (si no es el agresor), informando las medidas del Sistema Educativo y, de inmediato, comunicar lo sucedido al director.
+Sustento: R.M. 0864/2019, Parte III, 3.2 Intervención; página impresa: 38; página PDF: 40.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+64. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] El director recibe la comunicación de un caso de violencia sexual contra una estudiante cometido en la unidad. ¿Qué debe hacer de inmediato según el apartado 3.2 y la Ruta 2?
+A. Trasladar a la estudiante a otra unidad educativa y archivar el caso en la dirección.
+B. Realizar una investigación interna y denunciar solo si se reúnen pruebas suficientes.
+C. Convocar a la junta escolar para que decida si se presenta la denuncia contra el maestro.
+D. Denunciar de inmediato a la DNA, solicitar contención y elaborar el informe del Anexo 1.
+Respuesta correcta: D
+Explicación: El apartado 3.2 dispone que el director realice la denuncia inmediata a la DNA y elabore el informe con el Anexo 1; la Ruta 2 indica que denuncia inmediatamente a la DNA y solicita apoyo para la contención a la víctima, e informa a la Dirección Distrital.
+Sustento: R.M. 0864/2019, Parte III, 3.2; Ruta 2; páginas impresas: 38 y 47; páginas PDF: 40 y 49.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+65. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Un padre exige al director conocer el nombre de la estudiante víctima de violencia "para proteger a su hija". ¿Qué debe hacer el director?
+A. Proporcionarlo, porque la comunidad tiene derecho a conocer los riesgos existentes.
+B. Proporcionarlo solo si el padre firma un compromiso de confidencialidad escrito.
+C. Negarse, porque debe impedir la divulgación de nombres de víctimas y testigos.
+D. Remitirlo a la junta escolar, que decide sobre la difusión de la información.
+Respuesta correcta: C
+Explicación: El apartado 3.6, medida 1, dispone que el director impida la divulgación de los nombres de los estudiantes víctimas y testigos para evitar su revictimización; el 3.2 exige confidencialidad.
+Sustento: R.M. 0864/2019, Parte III, 3.6, num. 1; página impresa: 41; página PDF: 43.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+66. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Un hecho de violencia contra una estudiante se hizo público en la unidad. ¿Qué orientación debe dar el director a la comunidad educativa?
+A. Apoyar a la víctima con trato habitual, sin interrogarla, sobreprotegerla ni ignorarla.
+B. Vigilar constantemente a la víctima para registrar cambios en su conducta.
+C. Evitar todo contacto con la víctima hasta que concluya el proceso correspondiente.
+D. Organizar una reunión del curso para que la víctima explique lo ocurrido.
+Respuesta correcta: A
+Explicación: El apartado 3.6, medida 2, dispone que, si el hecho es de conocimiento público, se oriente a la comunidad para que comprenda y apoye a la víctima sin revictimizarla (evitando interrogarla, sobreprotegerla, observarla constantemente o ignorarla), con comportamiento habitual y buen trato.
+Sustento: R.M. 0864/2019, Parte III, 3.6, num. 2; página impresa: 41; página PDF: 43.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+67. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Una madre decide acudir al Juzgado de la Niñez por el maltrato de un maestro hacia su hijo. Un maestro del plantel propone "bajar las notas" a los hermanos del estudiante. ¿Qué establece el Protocolo?
+A. Ningún integrante de la comunidad puede asumir represalias contra la víctima, sus hermanos o familiares.
+B. El maestro puede ajustar las calificaciones si la madre presentó una denuncia sin fundamento.
+C. La madre debe agotar primero la vía administrativa ante la Dirección antes de acudir al Juzgado.
+D. Las represalias académicas solo están prohibidas si el Juzgado emite una medida de protección expresa.
+Respuesta correcta: A
+Explicación: El apartado 3.7 reconoce el derecho de la madre, padre o tutor de acudir a la DNA o al Juzgado de la Niñez y Adolescencia, y dispone que ningún integrante de la comunidad educativa puede asumir represalias contra la víctima, sus hermanos o familiares.
+Sustento: R.M. 0864/2019, Parte III, 3.7; página impresa: 42; página PDF: 44.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+68. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un administrativo es encontrado a solas con un estudiante en la bodega de la unidad. ¿Qué deber del Protocolo incumplió?
+A. Vigilar los ambientes para evitar la presencia de personas extrañas en la unidad.
+B. No permanecer a solas con un estudiante en un ambiente de la unidad ni citarlo a solas fuera.
+C. Comunicar al director cualquier infracción al Protocolo cometida por los padres de familia.
+D. Controlar que las personas autorizadas no ingresen a baños, aulas, pasillos y laboratorios.
+Respuesta correcta: B
+Explicación: El apartado 2.3, inciso b), dispone que el personal administrativo y auxiliar no permanezca a solas con un estudiante en un ambiente de la unidad ni lo cite a solas en ambientes externos.
+Sustento: R.M. 0864/2019, Parte II, 2.3, inc. b); página impresa: 30; página PDF: 32.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+69. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un portero suele recibir en la puerta la visita de amigos y, en ocasiones, deja a un estudiante encargado de la puerta durante el recreo. ¿Qué disposiciones incumple?
+A. La obligación de cerrar la puerta durante el recreo para evitar fugas de estudiantes.
+B. La obligación de registrar en el libro de portería a todos los padres de familia.
+C. La prohibición de permitir el ingreso de estudiantes que llegan después del horario.
+D. La prohibición de recibir visitas ajenas y la de delegar sus funciones a terceros.
+Respuesta correcta: D
+Explicación: El apartado 2.3 dispone que los porteros no pueden por ningún motivo recibir visitas de personas ajenas (inciso h) ni delegar el cumplimiento de sus funciones a terceros (inciso j), y deben permanecer en la puerta en horas de ingreso, recreo y salida (inciso g).
+Sustento: R.M. 0864/2019, Parte II, 2.3, incs. g), h) y j); páginas impresas: 30 y 31; páginas PDF: 32 y 33.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+70. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Los padres de un curso organizan una actividad de convivencia fuera de la unidad sin coordinar con la Dirección. ¿Qué responsabilidad del Protocolo omitieron?
+A. Presentar un seguro de accidentes ante la Dirección Distrital antes de cada actividad escolar.
+B. Contratar personal de seguridad privada para las actividades realizadas con estudiantes.
+C. Solicitar autorización a la Defensoría de la Niñez para cualquier actividad con estudiantes.
+D. Coordinar y programar con el director la realización de las actividades dentro de los predios.
+Respuesta correcta: D
+Explicación: El apartado 2.5, inciso c), dispone que madres, padres y tutores coordinen y programen con el director la realización de todas las actividades dentro de los predios de la unidad; el 2.2, inciso g), asigna al director programar y coordinar con ellos que las actividades se realicen dentro de los predios.
+Sustento: R.M. 0864/2019, Parte II, 2.5, inc. c) y 2.2, inc. g); páginas impresas: 32 y 28; páginas PDF: 34 y 30.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+71. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Para un festival, el comité organizador propone un concurso de baile con vestuario y coreografías sugestivas para estudiantes de primaria. ¿Qué debe hacer el director?
+A. Prohibir la actividad, porque fomenta la hipersexualización de los estudiantes.
+B. Autorizarla, porque las actividades culturales no están reguladas por el Protocolo.
+C. Remitir la decisión a la Dirección Distrital, que es la competente en estos casos.
+D. Autorizarla si los padres firman su consentimiento por escrito para participar.
+Respuesta correcta: A
+Explicación: El apartado 2.2, inciso t), asigna al director prohibir cualquier actividad que fomente la hipersexualización de las y los estudiantes.
+Sustento: R.M. 0864/2019, Parte II, 2.2, inc. t); página impresa: 30; página PDF: 32.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+72. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Una estudiante relata violencia intrafamiliar ejercida por su padrastro. El director piensa citar a la madre y al padrastro juntos. ¿Qué debe hacer según el Protocolo?
+A. Citar a ambos para aclarar los hechos antes de cualquier denuncia o derivación.
+B. Esperar a que la madre presente la denuncia, por tratarse de un asunto estrictamente familiar.
+C. Comunicarse con la DNA para la atención de la víctima, sin confrontar a las partes.
+D. Informar al padrastro sobre la denuncia para garantizar su derecho a la defensa.
+Respuesta correcta: C
+Explicación: El apartado 3.3, inciso e), dispone que, si el relato corresponde a violencia intrafamiliar, el director se comunique con la DNA para la atención de la víctima y la restitución de sus derechos; el recuadro de cuidado advierte no confrontar a las partes.
+Sustento: R.M. 0864/2019, Parte III, 3.3, inc. e) y recuadro «CUIDADO»; página impresa: 39; página PDF: 41.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+73. [R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 2] Una estudiante llega a la unidad con una emergencia médica tras sufrir violencia sexual. ¿Qué indica la Ruta 2 como primera acción ante la emergencia?
+A. Esperar la llegada de la madre para decidir si se la traslada al centro de salud más cercano.
+B. Realizar primero el informe del Anexo 1 y luego gestionar la atención médica.
+C. Llamar a la Policía y retener a la estudiante en la dirección hasta su llegada.
+D. Acompañar a la víctima al centro de salud, o delegar a una maestra de su confianza.
+Respuesta correcta: D
+Explicación: La Ruta 2 indica que, en caso de emergencia médica, se debe acompañar a la víctima al centro de salud o delegar a una maestra o maestro de confianza de la víctima.
+Sustento: R.M. 0864/2019, Ruta 2; página impresa: 46; página PDF: 48.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+74. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Un maestro ve a un colega golpeando a un estudiante en el patio. Según la Ruta 1, ¿qué debe hacer primero?
+A. Detener la agresión y seguir la ruta de actuación prevista.
+B. Registrar el hecho y comunicarlo en la siguiente reunión.
+C. Fotografiar la agresión como prueba para la denuncia.
+D. Retirarse para no interferir en la autoridad del colega docente.
+Respuesta correcta: A
+Explicación: La Ruta 1 dispone que, si el agresor es sorprendido en el momento del hecho, se debe detener la agresión en caso de presenciarla y seguir la ruta; el apartado 2.4, inciso j), exige no ser observador pasivo e intervenir inmediatamente.
+Sustento: R.M. 0864/2019, Ruta 1; Parte II, 2.4, inc. j); páginas impresas: 44 y 31; páginas PDF: 46 y 33.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+75. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Un padre sospecha que su hijo sufre violencia psicológica de un maestro y no sabe qué hacer. Según el Protocolo, ¿qué orientación debe darle la unidad educativa?
+A. Orientarlo sobre los pasos para la denuncia, según lo definido con la DNA.
+B. Pedirle que resuelva el conflicto directamente con el maestro durante la clase.
+C. Recomendarle no denunciar hasta que existan lesiones físicas visibles.
+D. Indicarle que la denuncia solo puede presentarla el propio estudiante.
+Respuesta correcta: A
+Explicación: El apartado 3.2 dispone comunicar a la madre, padre o tutor (salvo que sean agresores) y a la DNA, y orientarlos sobre los pasos para la denuncia y posteriores, de acuerdo con lo definido con la DNA.
+Sustento: R.M. 0864/2019, Parte III, 3.2 Intervención; página impresa: 38; página PDF: 40.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+76. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] El director decide derivar a una estudiante víctima a la DNA. ¿Qué formato del Protocolo debe utilizar y qué contiene?
+A. El Anexo 3, con el registro anual de casos detectados y las acciones realizadas por la unidad.
+B. Un acta libre redactada por la Dirección, con la versión de la víctima y del presunto agresor.
+C. El Anexo 1, con datos del agresor, pruebas del hecho y firma de testigos presenciales del caso.
+D. El Anexo 2, con datos institucionales, de la persona referida, valoración del caso y contrarreferencia.
+Respuesta correcta: D
+Explicación: El Anexo 2 es el formulario de derivación (referencia), que contiene datos institucionales, datos de la persona derivada, valoración del caso (tipo y ámbito de violencia) y la sección de seguimiento (contrarreferencia).
+Sustento: R.M. 0864/2019, Anexo 2; página impresa: 51; página PDF: 53.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+77. [R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 3] Un maestro sancionado con fallo ejecutoriado de retiro definitivo por violencia contra estudiantes solicita el retiro del rótulo de su RDA. ¿Qué establece la Ruta 3?
+A. Procede, si transcurrieron tres años desde la ejecutoria del fallo disciplinario de retiro.
+B. No procede: el retiro solo procede para los rótulos Observado Preventivo y Preventivo–Medida Cautelar.
+C. Procede, previa resolución de la Dirección Departamental que acredite su rehabilitación.
+D. No procede, salvo que el maestro obtenga una sentencia absolutoria en la vía penal ordinaria.
+Respuesta correcta: B
+Explicación: La Ruta 3 asigna el Observado definitivo al fallo ejecutoriado de retiro definitivo, que determina el retiro definitivo del maestro de la Educación Pública, y aclara que el retiro del rótulo procede solo para el Observado Preventivo y el Observado Preventivo – Medida Cautelar.
+Sustento: R.M. 0864/2019, Ruta 3; página impresa: 48; página PDF: 50.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+78. [R.M. 0864/2019 Protocolo de Prevención de Violencia – RUTA 3] La Dirección Distrital recibe el reporte de un caso de violencia por parte del director de una unidad. Según la Ruta 3, ¿en qué plazo debe reportar a la Dirección Departamental?
+A. En un máximo de 48 horas.
+B. En un máximo de 5 días.
+C. En un máximo de 24 horas.
+D. En un máximo de 72 horas.
+Respuesta correcta: A
+Explicación: La Ruta 3 establece que la Dirección Distrital reporta a la Dirección Departamental en un máximo de 48 horas; la Dirección Departamental instruye el inicio del proceso disciplinario en máximo 24 horas.
+Sustento: R.M. 0864/2019, Ruta 3; página impresa: 48; página PDF: 50.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+79. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] El proceso disciplinario contra un maestro por violencia concluye con resolución sancionatoria ejecutoriada. ¿Qué registro prevé el Protocolo?
+A. Su publicación en el periódico mural de la unidad.
+B. Su archivo reservado en la Defensoría municipal.
+C. Su registro en el RDA del maestro sancionado.
+D. Su anotación en la libreta escolar de la víctima.
+Respuesta correcta: C
+Explicación: El apartado 3.5 dispone que, a quienes cuenten con Resolución Sancionatoria o Sentencia Condenatoria Ejecutoriadas, se registrará en su RDA.
+Sustento: R.M. 0864/2019, Parte III, 3.5; página impresa: 41; página PDF: 43.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+80. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un grupo de estudiantes de secundaria quiere organizar una campaña contra la violencia y propone vender rifas para financiarla. ¿Qué indica el Protocolo sobre sus acciones de prevención?
+A. Las acciones de prevención están reservadas a los maestros y no pueden ser organizadas por los estudiantes.
+B. Las acciones no deben generar erogación de recursos y se coordinan con centros y gobiernos estudiantiles.
+C. Las acciones solo pueden realizarse con autorización expresa de la Defensoría de la Niñez municipal.
+D. Las acciones deben financiarse con aportes de los padres aprobados por la junta escolar de la unidad.
+Respuesta correcta: B
+Explicación: El apartado 2.6, inciso k), dispone que los estudiantes desarrollen acciones de prevención desde su perspectiva, movilizando a sus pares, sin generar erogación de recursos económicos y en coordinación con los centros y gobiernos estudiantiles.
+Sustento: R.M. 0864/2019, Parte II, 2.6, inc. k); página impresa: 33; página PDF: 35.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un director constata que la puerta de la unidad queda abierta sin control durante la jornada. ¿Qué decisión debe adoptar conforme al Protocolo?
+A. Encargar la vigilancia de la puerta a los estudiantes de los últimos cursos por turnos.
+B. Cerrar la puerta con llave toda la jornada e impedir el ingreso de los estudiantes que llegan tarde.
+C. Instruir que la puerta no permanezca abierta sin control del portero ni ingresen personas ajenas.
+D. Permitir el libre ingreso de padres en horario de clases para que colaboren con la vigilancia.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El apartado 2.2, inciso v), asigna al director instruir que las puertas bajo ningún motivo permanezcan abiertas sin control del portero, ni permitir el ingreso de personas ajenas salvo visitas programadas; el inciso o) prohíbe restringir el ingreso de estudiantes.
+Sustento: R.M. 0864/2019, Parte II, 2.2, incs. o) y v); páginas impresas: 29 y 30; páginas PDF: 31 y 32.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] El director identifica que los baños y la cancha son espacios poco visibles donde se han reportado conflictos. ¿Qué decisión respalda el Protocolo?
+A. Gestionar medidas de seguridad, como supervisión, vigilancia o cámaras, con la comunidad educativa.
+B. Encomendar la vigilancia exclusiva de esos espacios a la junta escolar de madres y padres.
+C. Clausurar los baños y la cancha durante toda la jornada escolar hasta nuevo aviso de la Dirección Distrital.
+D. Limitar el uso de esos espacios a los estudiantes que tengan autorización escrita de sus padres.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El apartado 2.2, inciso f), asigna al director identificar los lugares inseguros y gestionar mejoras de seguridad en coordinación con la comunidad educativa (cámaras, habilitación de espacios, supervisión y vigilancia de espacios poco visibles y de uso común: baños, canchas y otros).
+Sustento: R.M. 0864/2019, Parte II, 2.2, inc. f); página impresa: 28; página PDF: 30.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un maestro propone realizar tutorías personalizadas a estudiantes por las tardes, fuera del horario escolar, en un aula vacía. ¿Qué debe decidir el director?
+A. Autorizarlo, porque el apoyo pedagógico adicional siempre beneficia a los estudiantes.
+B. Remitir la decisión a la junta escolar, que es la competente en actividades extracurriculares de la unidad.
+C. Autorizarlo solo si el maestro registra la asistencia de los estudiantes en un libro.
+D. Garantizar que las actividades se desarrollen en la jornada educativa y en el marco pedagógico.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El apartado 2.2, inciso h), asigna al director garantizar que todas las actividades de los maestros con los estudiantes se desarrollen en horarios de la jornada educativa y en el marco estrictamente pedagógico; el 2.4, inciso h), prohíbe permanecer a solas con un estudiante.
+Sustento: R.M. 0864/2019, Parte II, 2.2, inc. h) y 2.4, inc. h); páginas impresas: 29 y 31; páginas PDF: 31 y 33.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Una maestra le pide al director "no llevar el caso más allá" para no dañar el prestigio del colegio, ante una denuncia de violencia física de un colega. ¿Qué decisión es conforme al Protocolo?
+A. Denunciar solo si los padres de la víctima lo exigen por escrito ante la Dirección.
+B. Resolver internamente el caso para proteger la imagen de la unidad ante la comunidad.
+C. Continuar con la denuncia, porque el interés superior prevalece sobre la reputación institucional.
+D. Suspender la actuación hasta que la junta escolar evalúe el impacto en la institución.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El apartado 3.2 exige garantizar el interés superior de la NNA por encima del interés del personal, de los padres e inclusive de la reputación de la institución; el 3.4 dispone que la denuncia no es opcional.
+Sustento: R.M. 0864/2019, Parte III, 3.2 y 3.4; páginas impresas: 37 y 40; páginas PDF: 39 y 42.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un visitante autorizado por el director para una reunión pide recorrer las aulas y los baños de la unidad. ¿Qué debe controlar el personal administrativo?
+A. Que su recorrido se realice solo durante el recreo, cuando las aulas están vacías.
+B. Que no ingrese a baños, aulas, pasillos, laboratorios u otros espacios educativos.
+C. Que lo acompañe un estudiante del último curso durante su recorrido por la unidad.
+D. Que se registre en el libro de visitas y luego pueda recorrer libremente la unidad.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El apartado 2.3, inciso i), dispone que el personal administrativo controle que las personas que ingresan con autorización del director no ingresen a baños, aulas, pasillos, laboratorios, salas de computación u otros espacios educativos.
+Sustento: R.M. 0864/2019, Parte II, 2.3, inc. i); página impresa: 31; página PDF: 33.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] La DNA informa al director sobre las acciones que realiza en un caso derivado. ¿Qué uso institucional prevé el Protocolo para esta contrarreferencia?
+A. Cerrar el caso en la unidad educativa y retirar la derivación del registro anual.
+B. Iniciar el proceso disciplinario contra la víctima por las inasistencias acumuladas en la gestión.
+C. Conocer el estado de la denuncia e informar a la DDE para su seguimiento y monitoreo.
+D. Publicar el resultado del caso para prevenir nuevos hechos en la comunidad.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El apartado 3.9 señala que la contrarreferencia permite a la Dirección de la unidad conocer el estado de situación de la denuncia e informar a la Dirección Departamental para que tome las acciones de seguimiento y monitoreo que correspondan.
+Sustento: R.M. 0864/2019, Parte III, 3.9; página impresa: 43; página PDF: 45.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un director debe socializar el Protocolo. ¿A quiénes debe alcanzar esta socialización según el apartado 2.2, inciso x)?
+A. Maestros, administrativos, estudiantes, padres, tutores y Juntas Escolares o CEPOs.
+B. Solo a la junta escolar, que replica la información a los demás padres.
+C. Solo a los maestros y al personal administrativo de la unidad educativa.
+D. Solo a los estudiantes de secundaria, por ser los de mayor riesgo.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El apartado 2.2, inciso x), asigna al director socializar el Protocolo con maestras y maestros, personal administrativo, estudiantes, madres, padres de familia y tutores, Juntas Escolares y/o Consejos Educativos de Pueblos Originarios.
+Sustento: R.M. 0864/2019, Parte II, 2.2, inc. x); página impresa: 30; página PDF: 32.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un director debe definir el contenido del Plan de Convivencia Armónica y Pacífica. ¿Qué elemento metodológico exige transversalizar el Protocolo?
+A. El enfoque de seguridad, con presencia policial permanente en la unidad educativa.
+B. El enfoque disciplinario, con un reglamento de faltas idéntico al del magisterio.
+C. El enfoque punitivo, con sanciones crecientes para cada conflicto que surja entre estudiantes.
+D. El enfoque restaurativo, principalmente en la metodología de resolución de conflictos.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El apartado 2.1, inciso n), señala que en la elaboración del Plan de Convivencia se construyan acuerdos y consensos entre los actores y se transversalice el enfoque restaurativo, principalmente en la metodología de resolución de conflictos.
+Sustento: R.M. 0864/2019, Parte II, 2.1, inc. n); página impresa: 28; página PDF: 30.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Si la violencia es identificada como problemática de la unidad, ¿qué herramienta de gestión promueve el Protocolo para intervenir?
+A. Un programa de expulsión de estudiantes con conductas violentas.
+B. Un Proyecto Sociocomunitario Productivo de prevención de la violencia.
+C. Un convenio de vigilancia con empresas privadas de seguridad.
+D. Un reglamento interno de sanciones aprobado por la junta escolar.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El apartado 1.2, inciso f), prevé promover la implementación del Proyecto Sociocomunitario Productivo sobre prevención de la violencia cuando se identifique como problemática; el 2.2, inciso u), asigna al director promover Proyectos Sociocomunitarios Productivos de Prevención de la Violencia.
+Sustento: R.M. 0864/2019, Parte I, 1.2, inc. f); Parte II, 2.2, inc. u); páginas impresas: 24 y 30; páginas PDF: 26 y 32.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE III] Al cierre de gestión, ¿qué uso estratégico prevé el Protocolo para el registro de casos de la unidad (Anexo 3)?
+A. Determinar las sanciones que se aplicarán a los maestros denunciados durante la gestión escolar.
+B. Calificar el desempeño de los estudiantes víctimas en la siguiente gestión escolar.
+C. Elaborar la lista pública de agresores para conocimiento de la comunidad educativa.
+D. Orientar las acciones de prevención a partir de su propósito principalmente estadístico.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El apartado 3.10 señala que el propósito del registro es principalmente estadístico y que permitirá orientar a la Dirección de la unidad sobre las acciones de prevención a realizar.
+Sustento: R.M. 0864/2019, Parte III, 3.10; página impresa: 43; página PDF: 45.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] Para planificar la capacitación de su plantel, ¿qué función del Director Departamental puede aprovechar el director de unidad?
+A. Designar a los porteros y regentes de las unidades educativas fiscales del departamento.
+B. Generar condiciones para la formación continua en derechos humanos, prevención y protocolos.
+C. Aprobar el Plan de Convivencia de cada unidad sin participación de la comunidad educativa.
+D. Financiar la contratación de psicólogos permanentes en cada unidad educativa del departamento.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El apartado 1.2, inciso d), asigna al Director Departamental generar las condiciones para que autoridades, maestros, administrativos y padres se formen y actualicen continuamente en derechos humanos, prevención de violencia, protocolos y normativa vigente.
+Sustento: R.M. 0864/2019, Parte I, 1.2, inc. d); página impresa: 24; página PDF: 26.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] Un director planifica coordinar con la Defensoría municipal y SEDEGES. ¿Qué función de la Dirección Distrital respalda esa articulación?
+A. Mantener la coordinación interinstitucional con instancias de protección para derivar casos.
+B. Sustituir a la DNA en la atención de casos cuando esta no responde dentro de 24 horas.
+C. Dirigir directamente las Defensorías de la Niñez y Adolescencia de su jurisdicción territorial.
+D. Asignar presupuesto a los SEDEGES para la atención de víctimas de las unidades educativas.
+Respuesta correcta: A
+Explicación: Aplicación razonada: El apartado 1.3, inciso d), asigna a la Dirección Distrital mantener la coordinación interinstitucional con las instancias de protección (DNA de los Gobiernos Municipales, SEDEGES/SEDEPOS) para facilitar la derivación y atención de casos, en especial el proceso terapéutico en los CEPAT.
+Sustento: R.M. 0864/2019, Parte I, 1.3, inc. d); página impresa: 25; página PDF: 27.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Al diseñar actividades formativas con estudiantes de primaria, ¿qué contenido preventivo recomienda expresamente el Protocolo?
+A. Que los conflictos entre pares deben resolverse siempre con sanciones del director.
+B. Que deben obedecer sin cuestionar las indicaciones de cualquier persona adulta.
+C. Que su cuerpo es su territorio privado y nadie puede tocarlo sin su permiso.
+D. Que los temas de sexualidad se abordan solo a partir de la educación secundaria.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El apartado 2.1, inciso i), recomienda enseñar que su cuerpo es su territorio privado y nadie puede tocarlo sin su permiso, reconocer sus partes íntimas, diferenciar caricias y desarrollar la autoprotección; el inciso j) promueve el pensamiento crítico y no la obediencia a ciegas.
+Sustento: R.M. 0864/2019, Parte II, 2.1, incs. i) y j); página impresa: 27; página PDF: 29.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] ¿Qué estrategia institucional encomienda el Protocolo a la Dirección Departamental para que las acciones de prevención de las unidades tengan impacto?
+A. Encargar la prevención a empresas de seguridad privada en todas las unidades educativas del departamento.
+B. Establecer acuerdos y alianzas con instituciones públicas y privadas especializadas en prevención.
+C. Centralizar en la DDE todas las actividades de prevención que antes realizaban las unidades.
+D. Sustituir los Planes de Convivencia por campañas publicitarias en medios de comunicación.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El apartado 1.2, inciso i), asigna a la Dirección Departamental establecer acuerdos y alianzas con instituciones públicas y privadas especializadas en prevención de la violencia, en el marco de los lineamientos del Ministerio, para que las acciones de las unidades tengan impacto.
+Sustento: R.M. 0864/2019, Parte I, 1.2, inc. i); página impresa: 25; página PDF: 27.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] Una unidad educativa privada sostiene que el Protocolo solo rige para unidades fiscales. ¿Qué función de la Dirección Distrital desvirtúa esa posición?
+A. Supervisar las privadas únicamente cuando exista una denuncia formal de violencia.
+B. Supervisar solo unidades fiscales, dejando a las privadas bajo control de sus propietarios.
+C. Supervisar unidades fiscales, privadas y de convenio para reducir riesgos de violencia.
+D. Supervisar solo unidades de convenio, por recibir personal financiado por el Estado.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El apartado 1.3, inciso a), asigna a la Dirección Distrital supervisar el funcionamiento de las unidades educativas, centros de educación especial y centros educativos fiscales, privados y de convenio de su jurisdicción para reducir riesgos de violencia; el inciso i) le encarga socializar y hacer cumplir el Protocolo en todas ellas.
+Sustento: R.M. 0864/2019, Parte I, 1.3, incs. a) e i); páginas impresas: 25 y 26; páginas PDF: 27 y 28.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] ¿Para qué debe sistematizar la Dirección Departamental la información de los casos de violencia del departamento?
+A. Para asignar a cada unidad educativa una calificación de riesgo que condicione su presupuesto.
+B. Para sustituir el registro anual de casos que cada unidad educativa debe llevar en el Anexo 3.
+C. Para gestionar con autoridades municipales y departamentales la respuesta a la violencia predominante.
+D. Para publicar los nombres de los agresores y prevenir su contratación en otras unidades educativas del país.
+Respuesta correcta: C
+Explicación: Aplicación razonada: El apartado 1.2, inciso h), asigna a la Dirección Departamental sistematizar la información de los casos a nivel del departamento para hacer gestión con autoridades municipales y departamentales sobre la prevención, actuación y denuncia del tipo de violencia predominante.
+Sustento: R.M. 0864/2019, Parte I, 1.2, inc. h); página impresa: 25; página PDF: 27.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE I] Además de la denuncia, ¿qué aporte preventivo asigna el Protocolo al Ministerio de Educación para mejorar la convivencia escolar?
+A. Designar un psicólogo permanente en cada unidad educativa para atender a todas las víctimas de violencia.
+B. Aprobar directamente el Plan de Convivencia de cada unidad educativa del Sistema Educativo.
+C. Instalar cámaras de seguridad en todas las unidades educativas fiscales y de convenio del país.
+D. Proporcionar herramientas para prevenir, detectar, gestionar y resolver pacíficamente los conflictos.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El apartado 1.1, inciso b), asigna al Ministerio proporcionar herramientas para la resolución pacífica de conflictos que permitan prevenir, detectar, gestionar y resolver situaciones de conflicto, mejorar la convivencia y reforzar vínculos afectivos.
+Sustento: R.M. 0864/2019, Parte I, 1.1, inc. b); página impresa: 23; página PDF: 25.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [R.M. 0864/2019 Protocolo de Prevención de Violencia – PARTE II] Un director quiere que los planes y proyectos de prevención de su unidad tengan legitimidad entre los estudiantes. ¿Qué acción respalda el Protocolo?
+A. Encargar su diseño exclusivo a la junta escolar y comunicarlo luego a los estudiantes del curso.
+B. Reservar su elaboración a la Comisión Técnico Pedagógica sin consulta estudiantil.
+C. Limitar la participación estudiantil a la firma del Plan de Convivencia aprobado.
+D. Promover la participación de niñas, niños y adolescentes en su definición e implementación.
+Respuesta correcta: D
+Explicación: Aplicación razonada: El apartado 2.2, inciso q), asigna al director promover la participación de niñas, niños y adolescentes en la definición e implementación de planes, programas y proyectos de prevención; el 2.6, incisos e) y g), prevé su participación activa en el Plan de Convivencia y en las actividades de prevención.
+Sustento: R.M. 0864/2019, Parte II, 2.2, inc. q) y 2.6, incs. e) y g); páginas impresas: 29 y 33; páginas PDF: 31 y 35.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [R.M. 0864/2019 Protocolo de Prevención de Violencia – ANEXOS] Al atender un caso, la unidad identifica además otras vulneraciones de derechos del estudiante y su familia. ¿Qué orientación da el Protocolo?
+A. No limitarse al caso específico y apoyar una respuesta integral e interinstitucional.
+B. Atender solo el hecho denunciado para no exceder las competencias de la unidad.
+C. Registrar las otras vulneraciones y esperar a que la familia presente nuevas denuncias.
+D. Remitir todas las vulneraciones al Tribunal Disciplinario para su conocimiento.
+Respuesta correcta: A
+Explicación: Aplicación razonada: La nota «Para tomar en cuenta» del Anexo 3 señala que, al identificarse otras condiciones de vulnerabilidad o violaciones de derechos, la unidad no debe limitarse al caso específico y debe apoyar con una respuesta integral e interinstitucional a la víctima y su familia.
+Sustento: R.M. 0864/2019, Anexo 3 («Para tomar en cuenta»); página impresa: 52; página PDF: 54.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [R.M. 0864/2019 Protocolo de Prevención de Violencia – ASPECTOS GENERALES DEL PROTOCOLO] Al orientar la estrategia de prevención de su unidad, ¿hacia qué deben dirigirse las acciones según el apartado «¿Cómo prevenir la violencia en el ámbito educativo?»?
+A. A la vigilancia policial de las NNA durante el ingreso y la salida de la unidad educativa.
+B. Al empoderamiento de las NNA para decidir sus proyectos de vida y desarrollar autocuidado.
+C. Al control disciplinario estricto de las NNA mediante sanciones graduales y ejemplares.
+D. A la restricción de las actividades de las NNA fuera del aula para reducir los riesgos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: El Protocolo señala que las acciones de prevención deben facilitar que las NNA se empoderen y tomen decisiones sobre sus proyectos de vida de manera consciente, libre y autónoma, adquieran valores, desarrollen habilidades de autocuidado y reconozcan factores de riesgo, con corresponsabilidad de toda la comunidad educativa.
+Sustento: R.M. 0864/2019, Aspectos generales, «¿Cómo prevenir la violencia en el ámbito educativo?»; página impresa: 21; página PDF: 23.
