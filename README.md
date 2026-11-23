@@ -6,13 +6,18 @@ Simulador web de exámenes de opción múltiple organizado en libros y capítulo
 Abre `index.html` en un navegador moderno (Chrome, Edge, Firefox). Para desarrollo puedes usar la extensión Live Server de Visual Studio Code. Para publicarlo, basta con subir la carpeta completa a cualquier hosting estático.
 
 ## Etapas
-1. **Catálogo de libros**: tarjetas con portada (`#/`).
+0. **Portada** (`#/`): tarjetas de las áreas de evaluación (Normativa General, Normativa Específica y Técnico Pedagógico), definidas en `areas` dentro de `data/catalogo.js`.
+1. **Catálogo de un área**: tarjetas con portada (`#/area/<id>`). Cada libro indica su área con `"area"`; los que no la tienen van a `tecnico-pedagogico`. `"coverLabel"` escribe un texto sobre la portada (se usa con la portada genérica `assets/portadas/normativa-especifica.svg`).
 2. **Capítulos**: título, cantidad de preguntas, mejor puntaje y «Empezar simulacro» (`#/libro/<id>`).
 3. **Configuración**: modo práctica o examen; bloque de preguntas (todo el banco, o bloques de 25 en el orden de creación del banco: 1 a 25, 26 a 50, 51 a 75 y 76 a 100; con un bloque, «Orden aleatorio» mezcla solo las preguntas de ese bloque y, desmarcado, se responden en el orden del banco; se muestra el N.º de cada pregunta en el banco); cantidad (10, 20, 50 o todas), tiempo (automático = 1,5 min por pregunta, personalizado o sin límite), orden aleatorio, mezcla de alternativas y «Volver a preguntar al final las cuestiones que se fallen». Esta última opción es solo para el modo práctica: cada pregunta fallada vuelve al final del simulacro, y se repite cada vez que se falla, hasta responderla correctamente. Mientras quede alguna pendiente no se puede finalizar, salvo que se agote el tiempo. Los repasos no suman puntaje (solo cuenta el primer intento) y, con tiempo automático, agregan 1,5 min cada uno.
 4. **Simulacro**: una pregunta por pantalla, alternativas A–D, barra de progreso, mapa de preguntas, temporizador y retroalimentación (en práctica). Atajos: `A`–`D` o `1`–`4` para responder y las flechas para navegar.
 5. **Resultados**: puntaje sobre 100, porcentaje, correctas, incorrectas, sin responder, tiempo, nivel de dominio y revisión detallada con filtros.
 
-Bajo el catálogo hay dos botones, definidos en `collections` dentro de `data/catalogo.js`:
+Bajo el catálogo de un área van los botones definidos en `collections` dentro de `data/catalogo.js` (cada uno con su `"area"`). En `"mix"` se pueden indicar libros (todos sus capítulos) o capítulos sueltos, y `"mixUnits"` nombra esas partes en la configuración. Si el botón lleva `"book"`, se muestra debajo de los capítulos (partes o títulos) de esa norma, y no en el catálogo del área.
+- **Simulacro integral de Normativa General** (al final del catálogo de Normativa general): siempre 100 preguntas al azar de las 8 normas (`"count": 100`), 12 o 13 de cada una (≈ 12,5 %). Las normas sin preguntas no participan y su parte se reparte entre las demás.
+- **Simulacro integral de la CPE** (Normativa general, bajo las partes de la CPE): sortea preguntas de las 4 partes de la Constitución (`cpe-general`, `cpe-parte-2`, `cpe-parte-3`, `cpe-parte-4`), 25 % de cada una.
+- **Simulacro integral de la Ley N.º 070** (Normativa general, bajo los títulos de la Ley): sortea preguntas de los 3 títulos de la Ley (`ley-070-t1`, `ley-070-t2`, `ley-070-t3`) en partes iguales, con las mismas cantidades que el de la CPE (20 a 100).
+- **Simulacros integrales de la Ley N.º 348** (4 títulos: `ley-348-t2` a `ley-348-t5`) y **de la Ley N.º 548** (3 libros: `ley-548-l1` a `ley-548-l3`), bajo las partes de cada ley, con las mismas cantidades.
 - **Banco de preguntas integradas**: banco propio (`CAPÍTULO: integrado`, cargado desde `data/fuentes/integrado.docx`) con preguntas de los 4 libros. Se configura como cualquier capítulo.
 - **Preguntas del banco**: sortea preguntas de los bancos de los 4 libros en partes iguales (25 % de cada uno; cantidades de 20 a 100). No usa el banco integrado. Cada pregunta muestra de qué libro y capítulo viene.
 
@@ -30,7 +35,8 @@ El historial de resultados está en **Progreso** (`#/progreso`). Un simulacro en
 | Archivo | Contenido |
 |---|---|
 | `index.html` | Estructura de todas las etapas y diálogos |
-| `css/styles.css` | Estilos responsive y los dos temas (variables de color en `:root`) |
+| `css/styles.css` | Estilos responsive y los dos temas (variables de color y escala tipográfica `--fs-*` en `:root`) |
+| `assets/fuentes/` | Source Sans 3 (texto) y Source Serif 4 (títulos), locales para funcionar sin internet |
 | `data/catalogo.js` | Libros y capítulos (se edita a mano) |
 | `data/preguntas.js` | Banco de preguntas por capítulo (lo genera el importador) |
 | `data/fuentes/*.txt` | Fuentes de las preguntas |
@@ -43,7 +49,7 @@ El historial de resultados está en **Progreso** (`#/progreso`). Un simulacro en
 | `tools/importar_txt.py` | Importador de preguntas |
 
 ## Agregar un libro o un capítulo
-1. Copia la portada a `assets/portadas/`.
+1. Copia la portada a `assets/portadas/`, optimizada en WebP: `python tools/optimizar_portadas.py <imagen o carpeta> -o assets/portadas/<carpeta>` (ancho máximo 480 px; requiere `pip install pillow`).
 2. En `data/catalogo.js` agrega el libro (o el capítulo) con un `id` único. Iconos de capítulo disponibles: `book`, `scale`, `doc`, `chart`, `people`. Si el libro se divide en secciones y no en capítulos, agrégale `"units": ["sección", "secciones"]`.
 3. Agrega sus preguntas (ver abajo) y ejecuta el importador.
 
