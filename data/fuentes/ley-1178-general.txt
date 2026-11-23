@@ -1,0 +1,1111 @@
+# Fuente: ley-1178-general.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Ley N.º 1178 de Administración y Control Gubernamentales (20 de julio de 1990)
+# Capítulos I al VIII: Sistemas de Administración y Control, responsabilidad por la función pública, Contraloría y jurisdicción coactiva fiscal (Arts. 1 al 55)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar los Artículos 1 al 55 de la Ley N.º 1178 en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto de la Ley proporcionado, sin incorporar fuentes externas, y su fundamentación transcribe textualmente el fragmento que respalda la respuesta correcta.
+# Criterios documentales aplicados
+# Alcance de la fuente. El banco cubre los Artículos 1 al 55 de la Ley N.º 1178: Capítulo I, Finalidad y ámbito de aplicación (Arts. 1 a 5); Capítulo II, Sistemas de Administración y de Control (Arts. 6 a 16); Capítulo III, Relación con los sistemas nacionales de Planificación e Inversión Pública (Arts. 17 a 19); Capítulo IV, Atribuciones institucionales (Arts. 20 a 27); Capítulo V, Responsabilidad por la función pública (Arts. 28 a 40); Capítulo VI, Funcionamiento de la Contraloría General (Arts. 41 a 46); Capítulo VII, Jurisdicción coactiva fiscal (Arts. 47 a 52); y Capítulo VIII, Abrogaciones y derogaciones (Arts. 53 a 55). En el PDF proporcionado ocupa las páginas 5 a 42. Los Decretos Supremos 23215 y 23318-A, incluidos en la misma compilación, quedan fuera del alcance, igual que los textos del Código Penal, Código Civil y Código de Comercio transcritos como notas.
+# Página impresa. La edición proporcionada numera sus páginas al pie; la página impresa equivale a la página PDF menos dos (p. ej., página PDF 22 = página impresa 20). Cada referencia consigna ambas.
+# Fundamentación textual. Cada fundamentación transcribe entre comillas el fragmento de la Ley que respalda la respuesta correcta. En las preguntas derivadas se añade una nota breve rotulada «Aplicación razonada», que distingue la inferencia del contenido textual.
+# Competencias directivas. La Ley no nombra al director de Unidad Educativa, pero lo alcanza como servidor público (Art. 28.c) y como responsable superior de una unidad: responde por los resultados de sus funciones (Art. 28), rinde cuenta de los recursos y bienes a su cargo (Arts. 1.c y 27.c), ejerce control interno previo y posterior (Art. 14), usa y resguarda los bienes según la Programación de Operaciones (Art. 10.b), responde por los documentos que suscribe (Art. 38), exhibe documentación aun como ex servidor (Art. 36), puede ser corresponsable civil si autoriza el uso indebido de bienes (Art. 31.a) y goza de la presunción de licitud (Art. 28.b). Esas preguntas llevan la nota «Aplicación razonada».
+# Cobertura y no duplicación. Las preguntas cubren los ocho capítulos, con énfasis en los sistemas de administración y control (Arts. 6 a 16), las atribuciones institucionales (Arts. 23 y 27), la responsabilidad por la función pública (Arts. 28 a 40) y las facultades de la Contraloría (Arts. 41 a 46). Los artículos derogados (21, 24 y 25) no se evalúan; del Art. 22 se usa el texto sustitutivo consignado en el documento. Algunos artículos centrales (Arts. 14, 27, 29 a 31 y 37) se evalúan en varias preguntas con enfoques distintos; no hay preguntas repetidas ni con la misma respuesta y el mismo enfoque.
+# Etiqueta de trazabilidad. Cada enunciado inicia con [Ley N.º 1178], para su integración en plataformas de simulación que combinan preguntas de varios documentos; el capítulo y artículo exactos figuran en la referencia.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 24 preguntas y la más corta en 7, por lo que la longitud no es una pista; las fórmulas de cierre («según la norma», «conforme a la Ley N.º 1178», etc.) aparecen en proporción similar en alternativas correctas (57%) e incorrectas (52%).
+# 2. Distribución metodológica y ponderación
+# N.º
+# Tipo de evaluación
+# ¿Qué evalúa?
+# Preg.
+# Peso
+# N.º preg.
+# 1
+# Conocimiento y memorización
+# Dominio de conceptos, definiciones, principios, fechas, disposiciones y contenidos fundamentales del documento.
+# 10
+# 10%
+# 1–10
+# 2
+# Dominio conceptual
+# Comprensión de los fundamentos pedagógicos, administrativos, curriculares y organizativos del Sistema Educativo Plurinacional.
+# 10
+# 10%
+# 11–20
+# 3
+# Competencias y responsabilidades directivas
+# Conocimiento de las funciones, atribuciones, obligaciones y responsabilidades del director de una Unidad Educativa (en esta fuente: deberes de todo servidor público y responsable de unidad, con nota «Aplicación razonada»).
+# 10
+# 10%
+# 21–30
+# 4
+# Comprensión e interpretación
+# Capacidad para interpretar documentos, orientaciones pedagógicas y situaciones educativas.
+# 10
+# 10%
+# 31–40
+# 5
+# Diferenciación conceptual
+# Capacidad para distinguir conceptos, funciones, procedimientos, niveles de responsabilidad y enfoques educativos similares.
+# 10
+# 10%
+# 41–50
+# 6
+# Análisis crítico
+# Capacidad para identificar problemas institucionales, analizar sus causas, valorar alternativas y emitir criterios fundamentados.
+# 10
+# 10%
+# 51–60
+# 7
+# Aplicación normativa
+# Capacidad para aplicar correctamente la normativa en situaciones institucionales.
+# 10
+# 10%
+# 61–70
+# 8
+# Resolución de casos prácticos
+# Capacidad para resolver conflictos escolares, problemas administrativos, dificultades pedagógicas y situaciones con estudiantes, profesores y familias.
+# 10
+# 10%
+# 71–80
+# 9
+# Toma de decisiones
+# Capacidad para adoptar decisiones oportunas, pertinentes, fundamentadas y responsables ante situaciones institucionales.
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# Capacidad para planificar, organizar, dirigir, supervisar y evaluar acciones orientadas al mejoramiento de la calidad educativa.
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–10)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta [Ley N.º 1178]; el capítulo y el artículo exactos figuran en la referencia.
+# Cada fundamentación transcribe el fragmento textual de la Ley y remite al artículo, parágrafo e inciso, con página impresa y página PDF.
+# Contenido limitado exclusivamente a los Artículos 1 al 55 de la Ley N.º 1178; no se atribuyen al director de Unidad Educativa competencias que la fuente no contiene.
+
+CAPÍTULO: ley-1178-general
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Ley N.º 1178] ¿En qué fecha se promulgó la Ley N.º 1178 de Administración y Control Gubernamentales?
+A. El 9 de julio de 1990.
+B. El 19 de julio de 2010.
+C. El 20 de julio de 1990.
+D. El 29 de septiembre de 1977.
+Respuesta correcta: C
+Explicación: «LEY Nº 1178 DE 20 DE JULIO DE 1990».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo I: Finalidad y Ámbito de Aplicación. Encabezado (página impresa 3; página PDF 5).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Ley N.º 1178] Según el Artículo 1, ¿qué regula la Ley N.º 1178?
+A. Los sistemas de Planificación e Inversión Pública del Estado y su relación con el régimen tributario y aduanero de las entidades públicas.
+B. El régimen disciplinario de los servidores públicos y su relación con el procedimiento penal por delitos cometidos contra el patrimonio estatal, en el marco de la Ley N.º 1178.
+C. Los sistemas de Administración y de Control de los recursos del Estado y su relación con los sistemas nacionales de Planificación e Inversión Pública, según la Ley N.º 1178.
+D. Los sistemas de recaudación de tributos del Estado y su relación con las políticas monetarias del Banco Central y las entidades financieras.
+Respuesta correcta: C
+Explicación: «La presente ley regula los sistemas de Administración y de Control de los recursos del Estado y su relación con los sistemas nacionales de Planificación e Inversión Pública […]».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo I: Finalidad y Ámbito de Aplicación. Art. 1 (página impresa 3; página PDF 5).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Ley N.º 1178] Según el Artículo 2, ¿qué sistemas se regulan para programar y organizar las actividades?
+A. Programación de Operaciones, Organización Administrativa y Presupuesto.
+B. Administración de Personal, Administración de Bienes y Servicios y Presupuesto.
+C. Tesorería y Crédito Público, Contabilidad Integrada y Programación de Operaciones.
+D. Control Interno, Control Externo Posterior y Organización Administrativa.
+Respuesta correcta: A
+Explicación: «a) Para programar y organizar las actividades: - Programación de Operaciones. - Organización Administrativa. - Presupuesto.»
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo I: Finalidad y Ámbito de Aplicación. Art. 2, inciso a) (página impresa 4; página PDF 6).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Ley N.º 1178] Según el Artículo 2, ¿qué sistemas se regulan para ejecutar las actividades programadas?
+A. Programación de Operaciones, Organización Administrativa, Presupuesto, y Administración de Bienes y Servicios, según la Ley.
+B. Control Interno, Control Externo Posterior, Contabilidad Integrada, y Tesorería y Crédito Público del Estado.
+C. Planificación, Inversión Pública, Administración de Personal, y Organización Administrativa de la entidad.
+D. Administración de Personal, Administración de Bienes y Servicios, Tesorería y Crédito Público, y Contabilidad Integrada.
+Respuesta correcta: D
+Explicación: «b) Para ejecutar las actividades programadas: - Administración de Personal. - Administración de Bienes y Servicios. - Tesorería y Crédito Público. - Contabilidad Integrada.»
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo I: Finalidad y Ámbito de Aplicación. Art. 2, inciso b) (página impresa 4; página PDF 6).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Ley N.º 1178] Según el Artículo 29, ¿cuáles son las sanciones por responsabilidad administrativa?
+A. Multa hasta un veinte por ciento de la remuneración mensual, suspensión hasta treinta días o destitución, en el marco de la Ley N.º 1178.
+B. Multa hasta un diez por ciento de la remuneración mensual, suspensión hasta sesenta días o destitución, por mandato legal.
+C. Multa hasta un cincuenta por ciento de la remuneración mensual, suspensión hasta noventa días o cesantía, según lo dispuesto en la Ley N.º 1178.
+D. Amonestación escrita, suspensión hasta quince días sin goce de haberes o privación de libertad, conforme a la Ley N.º 1178.
+Respuesta correcta: A
+Explicación: «La autoridad competente aplicará, según la gravedad de la falta, las sanciones de: multa hasta un veinte por ciento de la remuneración mensual: suspensión hasta un máximo de treinta días; o destitución».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 29 (página impresa 21; página PDF 23).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+6. [Ley N.º 1178] Según el Artículo 40, ¿en qué plazo prescriben las acciones judiciales y obligaciones emergentes de la responsabilidad civil?
+A. En cinco años, desde el día del hecho o desde la notificación del dictamen.
+B. En diez años, desde el día del hecho o desde la última actuación procesal.
+C. En dos años, desde la conclusión de la auditoría o desde el último informe.
+D. En veinte años, desde la vigencia de la Ley o desde la denuncia del hecho.
+Respuesta correcta: B
+Explicación: «Las acciones judiciales y obligaciones emergentes de la responsabilidad civil establecida en la presente Ley, prescribirán en diez años computables a partir del día del hecho que da lugar a la acción o desde la última actuación procesal».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 40 (página impresa 25; página PDF 27).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+7. [Ley N.º 1178] Según el Artículo 23, ¿cuál es el órgano rector del sistema de Control Gubernamental?
+A. La Contraloría General de la República, según la Ley N.º 1178.
+B. El Ministerio de Hacienda del Estado, según la norma.
+C. La Contaduría General del Estado, por mandato legal.
+D. La Superintendencia de Bancos del país, según la Ley.
+Respuesta correcta: A
+Explicación: «La Contraloría General de la República es el órgano rector del sistema de Control Gubernamental, el cual se implantará bajo su dirección y supervisión».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo IV: Atribuciones Institucionales. Art. 23 (página impresa 16; página PDF 18).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+8. [Ley N.º 1178] Según el texto sustitutivo del Artículo 22 consignado en el documento, ¿quién es el órgano rector de los sistemas de administración, entre ellos el de Presupuesto?
+A. La Contraloría General, como órgano superior, según la norma.
+B. El Banco Central, como autoridad monetaria, conforme a norma.
+C. La Contaduría General, como ente contable, por mandato legal.
+D. El Ministerio de Hacienda, como autoridad fiscal, según la Ley N.º 1178.
+Respuesta correcta: D
+Explicación: «El Ministerio de Hacienda es la autoridad fiscal y órgano rector de los Sistemas de Programación de Operaciones, Organización Administrativa, Presupuesto, Administración de Personal, Administración de Bienes y Servicios, Tesorería y Crédito Público, Contabilidad Integrada […]».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo IV: Atribuciones Institucionales. Art. 22, texto sustitutivo (páginas impresas 15-16; páginas PDF 17-18).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+9. [Ley N.º 1178] Según el Artículo 27 inciso d), ¿en qué plazo deben las entidades enviar a la Contraloría copia de sus contratos?
+A. Dentro de los cinco días de haber sido perfeccionados.
+B. Dentro de los diez días de haber sido suscritos, según la Ley.
+C. Dentro de los treinta días de haber sido ejecutados, según la Ley.
+D. Dentro de los tres meses de concluido el ejercicio, según la Ley.
+Respuesta correcta: A
+Explicación: «Con fines de control externo posterior, las entidades sujetas al Control Gubernamental deberán enviar a la Contraloría copia de sus contratos y de la documentación sustentatoria correspondiente dentro de los cinco días de haber sido perfeccionados».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo IV: Atribuciones Institucionales. Art. 27, inciso d) (página impresa 18; página PDF 20).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+10. [Ley N.º 1178] Según el Artículo 27 inciso e), ¿en qué plazo deben entregarse los estados financieros de la gestión anterior?
+A. Dentro de los cinco días de concluido el ejercicio fiscal, según la Ley N.º 1178.
+B. Dentro de los seis meses de iniciada la nueva gestión, según la Ley.
+C. Dentro de los tres meses de concluido el ejercicio fiscal, conforme a norma.
+D. Dentro del primer mes de concluido el ejercicio fiscal, según la Ley.
+Respuesta correcta: C
+Explicación: «Dentro de los tres meses de concluido el ejercicio fiscal, cada entidad con patrimonio propio y autonomía financiera entregará obligatoriamente a la entidad que ejerce tuición sobre ella y a la Contaduría General de Estado […] los estados financieros de la gestión anterior […]».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo IV: Atribuciones Institucionales. Art. 27, inciso e) (páginas impresas 18-19; páginas PDF 20-21).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+11. [Ley N.º 1178] Según el Artículo 1 inciso c), ¿de qué debe rendir cuenta todo servidor público?
+A. Únicamente de los objetivos a que se destinaron los recursos, sin considerar la forma ni el resultado de su aplicación, en el marco de la Ley N.º 1178.
+B. No sólo de los objetivos a que se destinaron los recursos públicos, sino también de la forma y resultado de su aplicación, según la Ley N.º 1178.
+C. Únicamente del resultado financiero de su gestión, sin considerar los objetivos a que se destinaron los recursos, según la norma.
+D. Solo de los recursos que excedan el presupuesto aprobado, según la jerarquía del cargo que ocupa en la entidad, conforme a norma.
+Respuesta correcta: B
+Explicación: «c) Lograr que todo servidor público, sin distinción de jerarquía, asuma plena responsabilidad por sus actos rindiendo cuenta no sólo de los objetivos a que se destinaron los recursos públicos que le fueron confiados, sino también de la forma y resultado de su aplicación».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo I: Finalidad y Ámbito de Aplicación. Art. 1, inciso c) (páginas impresas 3-4; páginas PDF 5-6).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+12. [Ley N.º 1178] Según el Artículo 13, ¿por qué sistemas está integrado el Control Gubernamental?
+A. Por el Sistema de Control Interno y el Sistema de Control Externo Posterior.
+B. Por el Sistema de Control Previo Externo y el Sistema de Auditoría Interna.
+C. Por el Sistema de Contabilidad Integrada y el Sistema de Control Previo.
+D. Por el Sistema de Control Fiscal y el Sistema de Control Jurisdiccional.
+Respuesta correcta: A
+Explicación: «El Control Gubernamental se aplicará sobre el funcionamiento de los sistemas de administración de los recursos públicos y estará integrado por: a) El Sistema de Control Interno […] b) El Sistema de Control Externo Posterior […]».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 13 (página impresa 11; página PDF 13).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+13. [Ley N.º 1178] Según el Artículo 13, ¿qué comprende el Sistema de Control Interno?
+A. Los instrumentos de control previo aplicados por la Contraloría General antes de cada operación, y la auditoría externa de la entidad.
+B. La auditoría externa de las operaciones ya ejecutadas, realizada por firmas independientes contratadas por la máxima autoridad ejecutiva, conforme a norma.
+C. Los instrumentos de control previo y posterior incorporados en el plan de organización, reglamentos y manuales de cada entidad, y la auditoría interna.
+D. Los controles previos centralizados en una unidad especial de la entidad, y la supervisión permanente del órgano rector del sistema.
+Respuesta correcta: C
+Explicación: «a) El Sistema de Control Interno que comprenderá los instrumentos de control previo y posterior incorporados en el plan de organización y en los reglamentos y manuales de procedimientos de cada entidad, y la auditoría interna».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 13, inciso a) (página impresa 11; página PDF 13).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+14. [Ley N.º 1178] Según el Artículo 6, ¿qué hace el Sistema de Programación de Operaciones?
+A. Determina los puestos de trabajo necesarios de cada entidad, con sus requisitos, mecanismos de provisión y regímenes de evaluación, conforme a norma.
+B. Prevé los montos y fuentes de los recursos financieros de cada gestión anual y su asignación a los requerimientos monetarios.
+C. Traduce los objetivos y planes estratégicos de cada entidad en resultados concretos, tareas, procedimientos, medios y recursos, por mandato legal.
+D. Incorpora las transacciones presupuestarias, financieras y patrimoniales de cada entidad en un sistema común y confiable.
+Respuesta correcta: C
+Explicación: «El Sistema de Programación de Operaciones traducirá los objetivos y planes estratégicos de cada entidad […] en resultados concretos a alcanzar en el corto y mediano plazo; en tareas específicas a ejecutar; en procedimientos a emplear y en medios y recursos a utilizar […]».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 6 (página impresa 6; página PDF 8).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+15. [Ley N.º 1178] Según el Artículo 7, ¿en función de qué se define y ajusta el Sistema de Organización Administrativa?
+A. En función del Presupuesto aprobado, evitando el incremento de los gastos de funcionamiento de la entidad.
+B. En función de la Administración de Personal, evitando la creación de puestos de trabajo innecesarios.
+C. En función del Control Externo Posterior, evitando las observaciones de la Contraloría General.
+D. En función de la Programación de Operaciones, evitando la duplicidad de objetivos y atribuciones.
+Respuesta correcta: D
+Explicación: «El Sistema de Organización Administrativa se definirá y ajustará en función de la Programación de Operaciones. Evitará la duplicidad de objetivos y atribuciones mediante la adecuación, fusión o supresión de las entidades […]».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 7 (página impresa 6; página PDF 8).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+16. [Ley N.º 1178] Según el Artículo 9, ¿qué determina el Sistema de Administración de Personal?
+A. La forma de contratación de bienes y servicios, su manejo y disposición, el mantenimiento preventivo y la salvaguardia de los activos, según la Ley.
+B. Los puestos de trabajo efectivamente necesarios, los requisitos y mecanismos para proveerlos, la evaluación, retribución, capacitación y retiro.
+C. Los montos y fuentes de recursos para pagar al personal, su asignación anual, las transferencias y los traspasos presupuestarios.
+D. Los objetivos estratégicos del personal, su organización en unidades, la fusión de cargos y la supresión de entidades duplicadas.
+Respuesta correcta: B
+Explicación: «El Sistema de Administración de Personal, en procura de la eficiencia en la función pública, determinará los puestos de trabajo efectivamente necesarios, los requisitos y mecanismos para proveerlos, implantará regímenes de evaluación y retribución del trabajo, desarrollará las capacidades y aptitudes de los servidores y establecerá los procedimientos para el retiro de los mismos».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 9 (página impresa 8; página PDF 10).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+17. [Ley N.º 1178] Según el Artículo 12, ¿qué incorpora el Sistema de Contabilidad Integrada?
+A. Las transacciones presupuestarias, financieras y patrimoniales en un sistema común, oportuno y confiable.
+B. Las operaciones de crédito público interno y externo en un sistema exclusivo del Tesoro Nacional.
+C. Los informes de auditoría interna y externa en un sistema centralizado de la Contraloría General.
+D. Los objetivos y planes estratégicos de las entidades en un sistema común de planificación nacional.
+Respuesta correcta: A
+Explicación: «El Sistema de Contabilidad Integrada incorporará las transacciones presupuestarias, financieras y patrimoniales en un sistema común, oportuno y confiable, destino y fuente de los datos expresados en términos monetarios».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 12 (página impresa 10; página PDF 12).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+18. [Ley N.º 1178] Según el Artículo 13, ¿cuál es el objetivo del Control Gubernamental?
+A. Sancionar a los servidores públicos que incumplan sus funciones, mediante procesos penales iniciados por la Contraloría ante el Ministerio Público.
+B. Mejorar la eficiencia en el uso de los recursos, la confiabilidad de la información, la rendición de cuentas y la capacidad para impedir su manejo inadecuado, según la Ley.
+C. Aprobar previamente cada operación de las entidades públicas, mediante el control previo externo ejercido por la Contraloría General del Estado.
+D. Fijar las políticas presupuestarias del Estado, mediante normas básicas emitidas por la Contraloría para cada uno de los sistemas de administración.
+Respuesta correcta: B
+Explicación: «El Control Gubernamental tendrá por objetivo mejorar la eficiencia en la captación y uso de los recursos públicos y en las operaciones del Estado; la confiabilidad de la información que se genere sobre los mismos; los procedimientos para que toda autoridad y ejecutivo rinda cuenta oportuna de los resultados de su gestión; y la capacidad administrativa para impedir o identificar y comprobar el manejo inadecuado de los recursos del Estado».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 13 (página impresa 11; página PDF 13).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+19. [Ley N.º 1178] Según el Artículo 17, ¿qué relación existe entre los sistemas de Planificación e Inversión Pública y los de Administración y Control?
+A. Los primeros ejecutan las estrategias y políticas gubernamentales, que se definen mediante los sistemas de Administración y Control, según la Ley.
+B. Los primeros controlan la ejecución de los sistemas de Administración, que se subordinan a la Contraloría General de la República.
+C. Los primeros sustituyen a los sistemas de Administración y Control en las entidades que ejecutan proyectos de inversión pública.
+D. Los primeros definen las estrategias y políticas gubernamentales, que se ejecutan mediante los sistemas de Administración y Control.
+Respuesta correcta: D
+Explicación: «Los sistemas nacionales de Planificación e Inversión Pública definirán las estrategias y políticas gubernamentales que serán ejecutadas mediante los sistemas de Administración y Control que regula la presente ley».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo III: Relación con los Sistemas Nacionales de Planificación e Inversión Pública. Art. 17 (página impresa 14; página PDF 16).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+20. [Ley N.º 1178] Según el Artículo 28 inciso c), ¿a quiénes comprende el término «servidor público»?
+A. Solo a los funcionarios de carrera remunerados con recursos del Tesoro General, excluidos los dignatarios y el personal financiado por otras fuentes, según lo dispuesto en la Ley N.º 1178.
+B. A los dignatarios, funcionarios y toda persona que preste servicios en relación de dependencia con autoridades estatales, cualquiera sea la fuente de su remuneración, según la Ley.
+C. Solo a los dignatarios electos y a los ejecutivos de las entidades, excluido el personal que presta servicios en relación de dependencia, según la Ley N.º 1178.
+D. A toda persona que reciba recursos del Estado, aunque no preste servicios en relación de dependencia con autoridades estatales, en el marco de la Ley N.º 1178.
+Respuesta correcta: B
+Explicación: «c) El término “servidor público” utilizado en la presente Ley, se refiere a los dignatarios, funcionarios y toda otra persona que preste servicios en relación de dependencia con autoridades estatales, cualquiera sea la fuente de su remuneración».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 28, inciso c) (página impresa 20; página PDF 22).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+21. [Ley N.º 1178] Un director de Unidad Educativa pregunta de qué responde como servidor público. Según el Artículo 28, ¿cuál es la respuesta?
+A. Solo de los actos que la Contraloría observe en una auditoría externa posterior realizada a su unidad.
+B. De los resultados emergentes del desempeño de las funciones, deberes y atribuciones asignados a su cargo, según la norma.
+C. Solo de los recursos económicos que administre directamente, sin considerar sus deberes y atribuciones, según la Ley N.º 1178.
+D. De los resultados de toda la entidad educativa del distrito, aunque no estén asignados a su cargo, según la Ley.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Todo servidor público responderá de los resultados emergentes del desempeño de las funciones, deberes y atribuciones asignados a su cargo». Aplicación razonada: la Ley N.º 1178 rige a todo servidor público y a todas las entidades del Sector Público sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público y responsable de una unidad.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 28 (página impresa 20; página PDF 22).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+22. [Ley N.º 1178] Un director custodia bienes del Estado (mobiliario, equipos y fondos asignados a la unidad). Según el Artículo 27 inciso c), ¿qué obligación tiene?
+A. Rendir cuenta de la administración a su cargo por intermedio del sistema contable, especificando la documentación sustentatoria y su archivo.
+B. Rendir cuenta solo cuando la Contraloría lo requiera expresamente, mediante un informe verbal ante la autoridad que ejerce tuición.
+C. Entregar los bienes a la unidad de auditoría interna, que asume la custodia y la rendición de cuentas de todos los bienes estatales, según la Ley.
+D. Registrar los bienes en un inventario personal, sin obligación de especificar la documentación sustentatoria ni su archivo.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «c) Toda entidad, funcionario o persona que recaude, reciba, pague o custodie fondos, valores o bienes del Estado, tiene la obligación de rendir cuenta de la administración a su cargo por intermedio del sistema contable especificando la documentación sustentatoria y las condiciones de su archivo». Aplicación razonada: la Ley N.º 1178 rige a todo servidor público y a todas las entidades del Sector Público sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público y responsable de una unidad.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo IV: Atribuciones Institucionales. Art. 27, inciso c) (página impresa 18; página PDF 20).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+23. [Ley N.º 1178] Según el Artículo 14, ¿quién practica el control interno posterior respecto de los resultados de las operaciones bajo su directa competencia, como lo haría un director?
+A. La Contraloría General, respecto de los resultados alcanzados por todas las operaciones de las entidades del Sector Público, según la Ley.
+B. Los responsables superiores, respecto de los resultados alcanzados por las operaciones y actividades bajo su directa competencia.
+C. El órgano rector de cada sistema, respecto de los resultados de las operaciones de las entidades bajo su supervisión.
+D. Una unidad especial de control previo, respecto de los resultados alcanzados por todas las unidades de la entidad.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El control interno posterior será practicado: a) Por los responsables superiores, respecto de los resultados alcanzados por las operaciones y actividades bajo su directa competencia; y b) Por la unidad de auditoría interna». Aplicación razonada: la Ley N.º 1178 rige a todo servidor público y a todas las entidades del Sector Público sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público y responsable de una unidad.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 14 (página impresa 12; página PDF 14).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+24. [Ley N.º 1178] Un director debe verificar, antes de autorizar un gasto de la unidad, que se cumplan las normas y que el gasto sea conveniente. ¿Qué tipo de control ejerce según el Artículo 14?
+A. Control interno previo, aplicado por las unidades de la entidad antes de la ejecución de sus operaciones, según la Ley N.º 1178.
+B. Control externo posterior, aplicado por la Contraloría General sobre las operaciones ya ejecutadas, según la Ley.
+C. Control interno posterior, aplicado por la auditoría interna después de concluidas las operaciones, según la Ley.
+D. Control previo externo, aplicado por una entidad diferente a la unidad ejecutora de las operaciones, en el marco de la Ley N.º 1178.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Los procedimientos de control interno previo se aplicarán por todas las unidades de la entidad antes de la ejecución de sus operaciones y actividades o de que sus actos causen efecto. Comprende la verificación del cumplimiento de las normas que los regulan y los hechos que los respaldan, así como de su conveniencia y oportunidad […]». Aplicación razonada: la Ley N.º 1178 rige a todo servidor público y a todas las entidades del Sector Público sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público y responsable de una unidad.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 14 (página impresa 11; página PDF 13).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+25. [Ley N.º 1178] Un director suscribe informes de rendimiento y documentos administrativos de su unidad. Según el Artículo 38, ¿qué implica?
+A. Que la responsabilidad por los informes recae solo en quien los redacta, aunque el director los suscriba con su firma.
+B. Que los informes suscritos solo generan responsabilidad cuando son observados por la Contraloría General de la República.
+C. Que la responsabilidad por los documentos recae en la autoridad que ejerce tuición, y no en quien los suscribe en la unidad.
+D. Que los profesionales y demás servidores públicos son responsables por los informes y documentos que suscriban.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Los profesionales y demás servidores públicos son responsables por los informes y documentos que suscriban». Aplicación razonada: la Ley N.º 1178 rige a todo servidor público y a todas las entidades del Sector Público sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público y responsable de una unidad.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 38 (página impresa 25; página PDF 27).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+26. [Ley N.º 1178] Los equipos de computación entregados a una unidad educativa se usan para fines particulares y no reciben mantenimiento. Según el Artículo 10 inciso b), ¿qué obligación se incumple?
+A. Vender oportunamente los bienes que no se utilicen, previa autorización legal específica o genérica y con la debida publicidad previa y posterior, conforme a la Ley N.º 1178.
+B. Exigir la disponibilidad de fondos antes de contratar los bienes, diferenciando las atribuciones de solicitar, autorizar y contratar el suministro, según lo previsto en la normativa de la Ley N.º 1178.
+C. Emplear los bienes en los fines previstos en la Programación de Operaciones, realizar su mantenimiento preventivo y salvaguardia, e identificar a los responsables, conforme a la Ley N.º 1178.
+D. Incorporar los bienes al sistema común de contabilidad, generando información útil para la toma de decisiones de las autoridades del Estado, en el marco de la Ley N.º 1178.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «b) Las entidades emplearán los bienes y los servicios que contraten, en los fines previstos en la Programación de Operaciones y realizarán el mantenimiento preventivo y la salvaguardia de los activos, identificando a los responsables de su manejo». Aplicación razonada: la Ley N.º 1178 rige a todo servidor público y a todas las entidades del Sector Público sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público y responsable de una unidad.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 10, inciso b) (página impresa 8; página PDF 10).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+27. [Ley N.º 1178] Un exdirector es requerido por la auditoría para presentar documentación de su gestión. Según el Artículo 36, ¿qué obligación tiene?
+A. Ninguna, porque las obligaciones de rendición de cuentas cesan al concluir el ejercicio del cargo, conforme a norma.
+B. Presentar solo una declaración jurada, sin obligación de exhibir documentos ni facilitar copias.
+C. Exhibir la documentación solo si un juez lo ordena mediante resolución expresa y fundamentada.
+D. Exhibir la documentación o información necesaria para el examen y facilitar las copias requeridas, según la Ley.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Todo servidor público o ex-servidor público de las entidades del Estado […] cuyas cuentas y contratos estén sujetos al control posterior, auditoría interna o externa, quedan obligados a exhibir la documentación o información necesarias para el examen y facilitar las copias requeridas […]». Aplicación razonada: la Ley N.º 1178 rige a todo servidor público y a todas las entidades del Sector Público sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público y responsable de una unidad.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 36 (página impresa 23; página PDF 25).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+28. [Ley N.º 1178] Un director autoriza que un vehículo de la unidad se use para fines ajenos, causando un daño económico. Según el Artículo 31 inciso a), ¿qué responsabilidad le alcanza?
+A. No tiene responsabilidad alguna, pues el daño fue causado por quien usó el vehículo y no por quien lo autorizó.
+B. Tiene solo responsabilidad administrativa, sancionada con multa de hasta el veinte por ciento de su remuneración, según la Ley.
+C. Es civilmente corresponsable por haber autorizado, como superior jerárquico, el uso indebido de bienes del Estado.
+D. Tiene responsabilidad ejecutiva, porque la autorización indebida equivale a no rendir cuentas de su gestión.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «a) Será civilmente corresponsable el superior jerárquico que hubiere autorizado el uso indebido de bienes, servicios y recursos del Estado o cuando dicho uso fuere posibilitado por las deficiencias de los sistemas de administración y control interno factibles de ser implantados en la entidad». Aplicación razonada: la Ley N.º 1178 rige a todo servidor público y a todas las entidades del Sector Público sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público y responsable de una unidad.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 31, inciso a) (página impresa 21; página PDF 23).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+29. [Ley N.º 1178] Un director es cuestionado por una decisión administrativa. Mientras no se demuestre lo contrario, ¿qué presunción le favorece según el Artículo 28 inciso b)?
+A. La presunción de responsabilidad de toda autoridad hasta que la auditoría demuestre su inocencia.
+B. La presunción de inmunidad de las autoridades ejecutivas frente a la responsabilidad administrativa, según la norma.
+C. La presunción de licitud de las operaciones y actividades realizadas por todo servidor público, conforme a norma.
+D. La presunción de corresponsabilidad de todos los servidores de la unidad por el acto cuestionado.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «b) Se presume la licitud de las operaciones y actividades realizadas por todo servidor público, mientras no se demuestre lo contrario». Aplicación razonada: la Ley N.º 1178 rige a todo servidor público y a todas las entidades del Sector Público sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público y responsable de una unidad.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 28, inciso b) (página impresa 20; página PDF 22).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+30. [Ley N.º 1178] Al conocer indicios de responsabilidad penal en el manejo de fondos de la unidad, ¿qué debe hacer un servidor público, como un director, según el Artículo 35?
+A. Sancionar directamente al responsable con destitución, sin necesidad de informar a la unidad legal de la entidad pública.
+B. Esperar el informe de la Contraloría General, única instancia facultada para conocer los indicios de responsabilidad penal.
+C. Resolver el caso mediante acuerdo con el responsable, siempre que este reponga los fondos dentro de los diez días hábiles.
+D. Trasladarlos a conocimiento de la unidad legal pertinente, que solicitará medidas al juez o denunciará ante el Ministerio Público, según la Ley N.º 1178.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Cuando los actos o hechos examinados presenten indicios de responsabilidad civil o penal, el servidor público o auditor los trasladará a conocimiento de la unidad legal pertinente y ésta mediante la autoridad legal competente solicitará directamente al juez que corresponda, las medidas precautorias y preparatorias de demanda a que hubiere lugar o denunciará los hechos ante el Ministerio Público». Aplicación razonada: la Ley N.º 1178 rige a todo servidor público y a todas las entidades del Sector Público sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público y responsable de una unidad.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 35 (página impresa 23; página PDF 25).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+31. [Ley N.º 1178] ¿Qué implica que, según el Artículo 1 inciso c), todo servidor público asuma plena responsabilidad «sin distinción de jerarquía»?
+A. Que la responsabilidad recae solo en las máximas autoridades, pues los niveles inferiores cumplen órdenes superiores, según la Ley.
+B. Que los servidores de menor jerarquía responden solo por los recursos que administran en forma directa y personal.
+C. Que la jerarquía determina el tipo de responsabilidad, siendo la civil exclusiva de las autoridades superiores.
+D. Que la obligación de responder por sus actos y rendir cuenta alcanza a todos los servidores públicos, cualquiera sea su nivel.
+Respuesta correcta: D
+Explicación: «c) Lograr que todo servidor público, sin distinción de jerarquía, asuma plena responsabilidad por sus actos rindiendo cuenta […]». Aplicación razonada: la expresión «sin distinción de jerarquía» extiende la obligación a todo nivel.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo I: Finalidad y Ámbito de Aplicación. Art. 1, inciso c) (página impresa 3; página PDF 5).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+32. [Ley N.º 1178] ¿Qué implica la prohibición del Artículo 14 respecto al ejercicio de controles previos?
+A. Que solo pueden ejercerlos los responsables de auditoría interna, como garantía de independencia frente a la unidad, según la Ley.
+B. Que deben centralizarse en una unidad especial, para asegurar uniformidad en la verificación previa de operaciones.
+C. Que no pueden ejercerlos los responsables de auditoría interna ni personas o unidades externas a la unidad ejecutora.
+D. Que pueden ejercerlos entidades externas, siempre que cuenten con autorización expresa de la Contraloría General.
+Respuesta correcta: C
+Explicación: «Se prohíbe el ejercicio de controles previos por los responsables de la auditoría interna y por parte de personas, de unidades o de entidades diferentes o externas a la unidad ejecutora de las operaciones. Tampoco podrá crearse una unidad especial que asuma la dirección o centralización del ejercicio de controles previos».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 14 (página impresa 11; página PDF 13).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+33. [Ley N.º 1178] Según el Artículo 15, ¿qué significa que la unidad de auditoría interna «no participará en ninguna otra operación ni actividad administrativa»?
+A. Que puede asumir tareas administrativas cuando la máxima autoridad lo disponga, sin afectar su programa de auditoría, según la Ley.
+B. Que debe limitarse a sus actividades de auditoría para preservar su independencia, dependiendo de la máxima autoridad ejecutiva.
+C. Que debe participar en el control previo de las operaciones, para evitar observaciones en la auditoría posterior.
+D. Que depende de la Contraloría General y no de la máxima autoridad ejecutiva de la entidad en que funciona.
+Respuesta correcta: B
+Explicación: «La Unidad de auditoría interna no participará en ninguna otra operación ni actividad administrativa y dependerá de la máxima autoridad ejecutiva de la entidad, sea ésta colegiada o no, formulando y ejecutando con total independencia el programa de sus actividades».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 15 (página impresa 12; página PDF 14).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+34. [Ley N.º 1178] Según el Artículo 16, ¿cuándo son de obligatorio cumplimiento las recomendaciones de la auditoría externa?
+A. Desde su emisión, sin necesidad de discusión con la entidad, según la Ley.
+B. Solo cuando un juez las homologa mediante resolución expresa, según la Ley.
+C. Solo cuando la Contraloría emite dictamen de responsabilidad, según la Ley.
+D. Cuando han sido discutidas y aceptadas por la entidad auditada, según la norma.
+Respuesta correcta: D
+Explicación: «[…] sus recomendaciones, discutidas y aceptadas por la entidad auditada, son de obligatorio cumplimiento».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 16 (página impresa 13; página PDF 15).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+35. [Ley N.º 1178] ¿Qué implica el Artículo 37 al señalar que el Control Posterior no modificará los actos que pusieron término a reclamos de particulares?
+A. Que el control posterior puede anular esos actos cuando detecte irregularidades en su emisión o en su ejecución.
+B. Que el control posterior no revoca esos actos y se limita a determinar la responsabilidad de la autoridad que los autorizó, según la Ley.
+C. Que los actos de reclamos de particulares están excluidos de todo control, incluida la determinación de responsabilidades, conforme a norma.
+D. Que el control posterior debe ordenar la devolución de lo pagado a los particulares cuando el acto sea observado.
+Respuesta correcta: B
+Explicación: «El Control Posterior Interno o Externo no modificará los actos administrativos que hubieren puesto término a los reclamos de los particulares y se concretará a determinar la responsabilidad de la autoridad que los autorizó expresamente o por omisión, si la hubiere».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 37 (página impresa 25; página PDF 27).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+36. [Ley N.º 1178] Según el Artículo 33, ¿en qué casos no existe responsabilidad administrativa, ejecutiva ni civil?
+A. Cuando el servidor público acredita su buena fe, aunque la decisión haya ocasionado un daño económico evitable a la entidad, conforme a norma.
+B. Cuando la decisión se tomó en procura de mayor beneficio y resguardo de los bienes, dentro de los riesgos propios, o por fuerza mayor, en el marco de la Ley N.º 1178.
+C. Cuando la decisión fue aprobada por la máxima autoridad, cualquiera sean los riesgos y las circunstancias existentes en ese momento.
+D. Cuando transcurrieron más de cinco años desde la decisión, sin que la Contraloría haya iniciado una auditoría sobre el hecho, según la norma.
+Respuesta correcta: B
+Explicación: «No existirá responsabilidad administrativa, ejecutiva ni civil cuando se pruebe que la decisión hubiese sido tomada en procura de mayor beneficio y en resguardo de los bienes de la entidad, dentro de los riesgos propios de operación y las circunstancias imperantes al momento de la decisión, o cuando situaciones de fuerza mayor originaron la decisión o incidieron en el resultado final de la operación».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 33 (página impresa 22; página PDF 24).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+37. [Ley N.º 1178] ¿Qué implica el Artículo 31 inciso c) cuando varias personas resultan responsables del mismo hecho que causó daño al Estado?
+A. Que cada una responde solo por su parte proporcional, según la Ley.
+B. Que responde únicamente la de mayor jerarquía en la entidad, según la Ley.
+C. Que la responsabilidad se extingue por la pluralidad de autores, según la Ley.
+D. Que son solidariamente responsables por el daño causado, según la Ley.
+Respuesta correcta: D
+Explicación: «c) Cuando varias personas resultaren responsables del mismo acto o del mismo hecho que hubiese causado daño al Estado, serán solidariamente responsables».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 31, inciso c) (página impresa 22; página PDF 24).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+38. [Ley N.º 1178] Según el Artículo 39, ¿quién asume las costas y honorarios profesionales en los procesos previstos en la Ley?
+A. La parte que resulte vencida, conforme a la sentencia ejecutoriada del juez.
+B. Cada parte del proceso, pues no hay condena de costas en ninguna instancia.
+C. La Contraloría General, cuando el proceso se originó en su dictamen previo.
+D. El Estado, cuando el servidor público resulta absuelto de la demanda civil.
+Respuesta correcta: B
+Explicación: «Los procesos administrativos y judiciales previstos en esta Ley, en ninguno de sus grados e instancias darán lugar a condena de costas y honorarios profesionales, corriendo éstos a cargo de las respectivas partes del proceso».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 39 (página impresa 25; página PDF 27).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+39. [Ley N.º 1178] Según la nota del documento al Artículo 40, ¿qué disposición constitucional modificó el régimen de prescripción respecto a ciertos delitos?
+A. El artículo 116 de la CPE, que declara imprescriptibles todas las acciones civiles derivadas de la responsabilidad por la función pública de los servidores.
+B. El artículo 213 de la CPE, que amplía a veinte años la prescripción de las acciones por daño económico causado por servidores públicos al Estado.
+C. El artículo 112 de la CPE, que declara imprescriptibles los delitos de servidores públicos que atenten contra el patrimonio del Estado y causen grave daño económico, según la Ley.
+D. El artículo 217 de la CPE, que suprime la prescripción de las sanciones administrativas impuestas a los servidores públicos por la autoridad competente.
+Respuesta correcta: C
+Explicación: «Este artículo fue modificado por el artículo 112 de la Constitución Política del Estado, que señala: “Los delitos cometidos por servidores públicos que atenten contra el patrimonio del Estado y causen grave daño económico, son imprescriptibles y no admiten régimen de inmunidad”».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 40, nota (página impresa 26; página PDF 28).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+40. [Ley N.º 1178] Según el Artículo 8 inciso a), ¿qué prohibición rige para las entidades que cuentan con recursos de tributación o transferencias del Tesoro?
+A. Transferir gastos de funcionamiento a inversión.
+B. Transferir gastos de inversión a funcionamiento.
+C. Contraer deuda pública con plazo menor al año.
+D. Financiar sus costos con venta de bienes propios.
+Respuesta correcta: B
+Explicación: «a) Las entidades gubernamentales que cuenten con recursos provenientes de tributación […] sujetarán sus gastos totales a la disponibilidad de sus recursos, a las condiciones del financiamiento debidamente contraído y a los límites legales presupuestarios, no pudiendo transferir gastos de inversión a funcionamiento».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 8, inciso a) (página impresa 7; página PDF 9).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+41. [Ley N.º 1178] ¿Qué distingue la responsabilidad administrativa (Art. 29) de la responsabilidad civil (Art. 31)?
+A. La administrativa surge de causar daño al Estado valuable en dinero; la civil, de contravenir las normas de conducta funcionaria, conforme a la Ley N.º 1178.
+B. La administrativa surge de contravenir el ordenamiento jurídico-administrativo; la civil, de causar daño al Estado valuable en dinero, según la norma.
+C. La administrativa surge de una conducta tipificada en el Código Penal; la civil, de no rendir las cuentas exigidas por la Ley.
+D. La administrativa se determina en la jurisdicción coactiva fiscal; la civil, por proceso interno de cada entidad pública, según la Ley.
+Respuesta correcta: B
+Explicación: Art. 29: «La responsabilidad es administrativa cuando la acción u omisión contraviene el ordenamiento jurídico-administrativo y las normas que regulan la conducta funcionaria del servidor público». Art. 31: «La responsabilidad es civil cuando la acción u omisión del servidor público o de las personas naturales o jurídicas privadas cause daño al Estado valuable en dinero».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Arts. 29 (página impresa 20; página PDF 22) y 31 (página impresa 21; página PDF 23).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+42. [Ley N.º 1178] ¿Qué distingue la responsabilidad ejecutiva (Art. 30) de la responsabilidad penal (Art. 34)?
+A. La ejecutiva recae en conductas tipificadas en el Código Penal; la penal, en la autoridad que no rinde cuentas de su gestión, conforme a norma.
+B. La ejecutiva alcanza a todo servidor público sin distinción; la penal alcanza solo a las autoridades y ejecutivos superiores.
+C. La ejecutiva se sanciona con multa del veinte por ciento; la penal, con suspensión de hasta treinta días o destitución.
+D. La ejecutiva recae en la autoridad que no rinde cuentas o cuya gestión es deficiente; la penal, en conductas tipificadas en el Código Penal.
+Respuesta correcta: D
+Explicación: Art. 30: «La responsabilidad es ejecutiva cuando la autoridad o ejecutivo no rinda las cuentas […] o cuando se encuentre que las deficiencias o negligencia de la gestión ejecutiva son de tal magnitud que no permiten lograr […] resultados razonables […]». Art. 34: «La responsabilidad es penal cuando la acción u omisión del servidor público y de los particulares, se encuentra tipificada en el Código Penal».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Arts. 30 (página impresa 21; página PDF 23) y 34 (página impresa 22; página PDF 24).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+43. [Ley N.º 1178] ¿Qué diferencia existe entre el control interno previo y el control interno posterior (Art. 14)?
+A. El previo se aplica por la auditoría interna antes de las operaciones; el posterior, por la Contraloría sobre las operaciones ejecutadas.
+B. El previo se aplica por una unidad especial centralizada; el posterior, por cada unidad ejecutora antes de que sus actos causen efecto.
+C. El previo se aplica por todas las unidades antes de ejecutar las operaciones; el posterior, por los responsables superiores y la auditoría interna, por mandato legal.
+D. El previo se aplica por entidades externas a la unidad ejecutora; el posterior, por la máxima autoridad colegiada de la entidad, según la Ley.
+Respuesta correcta: C
+Explicación: «Los procedimientos de control interno previo se aplicarán por todas las unidades de la entidad antes de la ejecución de sus operaciones y actividades […] El control interno posterior será practicado: a) Por los responsables superiores […] b) Por la unidad de auditoría interna».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 14 (páginas impresas 11-12; páginas PDF 13-14).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+44. [Ley N.º 1178] ¿Qué distingue la auditoría interna (Art. 15) de la auditoría externa (Art. 16)?
+A. La interna la practica la Contraloría General en cada entidad; la externa la realiza una unidad especializada de la propia entidad auditada.
+B. La interna dictamina sobre la razonabilidad de los estados financieros; la externa ejerce el control previo de las operaciones de la entidad, según la Ley.
+C. La interna la practica una unidad especializada de la propia entidad; la externa es independiente, imparcial y examina operaciones ya realizadas.
+D. La interna depende de la autoridad que ejerce tuición; la externa depende de la máxima autoridad ejecutiva de la entidad auditada.
+Respuesta correcta: C
+Explicación: Art. 15: «La auditoría interna se practicará por una unidad especializada de la propia entidad […]». Art. 16: «La auditoría externa será independiente e imparcial, y en cualquier momento podrá examinar las operaciones o actividades ya realizadas por la entidad […]».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Arts. 15 y 16 (página impresa 12; página PDF 14).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+45. [Ley N.º 1178] ¿Qué diferencia establece el Artículo 11 entre la deuda pública con plazo igual o mayor a un año y la de plazo inferior?
+A. La primera la contrae cada entidad libremente; la segunda, la máxima autoridad del Sistema de Tesorería por cuenta del Tesoro Nacional, según la Ley N.º 1178.
+B. La primera la contrae la máxima autoridad del Sistema de Tesorería; la segunda, cada entidad conforme a la programación financiera fijada, según la Ley.
+C. La primera requiere dictamen de la Contraloría; la segunda, autorización de la Superintendencia de Bancos y del Banco Central.
+D. La primera la contrae el Banco Central; la segunda, la Contaduría General del Estado por cuenta de la entidad beneficiaria, según la Ley.
+Respuesta correcta: B
+Explicación: «a) Toda deuda pública interna o externa con plazo igual o mayor a un año será contraída por la máxima autoridad del Sistema de Tesorería del Estado […] b) Las deudas públicas con plazo inferior al año serán contraídas por cada entidad con sujeción a la programación financiera fijada por la máxima autoridad del Sistema de Tesorería del Estado».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 11, incisos a) y b) (páginas impresas 9-10; páginas PDF 11-12).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+46. [Ley N.º 1178] ¿Qué distingue a las entidades del Artículo 3 de las personas del Artículo 5?
+A. Las del Artículo 3 informan sobre los recursos recibidos; las del Artículo 5 aplican los sistemas de Administración y Control de la Ley.
+B. Las del Artículo 3 son personas privadas que reciben subsidios; las del Artículo 5 son los ministerios y gobiernos departamentales del país, según la Ley N.º 1178.
+C. Las del Artículo 3 aplican los sistemas de la Ley; las del Artículo 5 informan sobre los recursos públicos recibidos y presentan estados financieros auditados.
+D. Las del Artículo 3 están exentas del control externo posterior; las del Artículo 5 están sujetas al control previo de la Contraloría.
+Respuesta correcta: C
+Explicación: Art. 3: «Los sistemas de Administración y de Control se aplicarán en todas las entidades del Sector Público, sin excepción […]». Art. 5: «Toda persona no comprendida en los artículos 3 y 4 […] que reciba recursos del Estado […] informará a la entidad pública competente sobre el destino, forma y resultados del manejo de los recursos y privilegios públicos y le presentará estados financieros debidamente auditados».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo I: Finalidad y Ámbito de Aplicación. Arts. 3 (página impresa 4; página PDF 6) y 5 (página impresa 5; página PDF 7).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+47. [Ley N.º 1178] ¿Qué distingue a los términos «servidor público» (Art. 28.c) y «autoridad» o «ejecutivo» (Art. 28.d)?
+A. El primero comprende solo a los principales responsables; los segundos, a toda persona en relación de dependencia con el Estado, según lo previsto en la normativa de la Ley N.º 1178.
+B. El primero se refiere a los funcionarios de carrera; los segundos, a los dignatarios electos por voto popular en cada nivel, en el marco de la Ley N.º 1178.
+C. El primero comprende a toda persona en relación de dependencia; los segundos, a los principales responsables de la administración de la entidad, conforme a la Ley N.º 1178.
+D. El primero se usa para la responsabilidad civil; los segundos, exclusivamente para la responsabilidad administrativa interna, en el marco de la Ley N.º 1178.
+Respuesta correcta: C
+Explicación: «c) El término “servidor público” […] se refiere a los dignatarios, funcionarios y toda otra persona que preste servicios en relación de dependencia con autoridades estatales […] d) Los términos “autoridad” y “ejecutivo” se utilizan en la presente Ley como sinónimos y se refieren a los servidores públicos que por su jerarquía y funciones son los principales responsables de la administración de las entidades de las que formen parte».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 28, incisos c) y d) (página impresa 20; página PDF 22).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+48. [Ley N.º 1178] ¿Qué diferencia existe entre el presupuesto de las entidades del Artículo 8 inciso a) y el de las entidades del inciso b)?
+A. Las del inciso a) sujetan sus gastos a la disponibilidad de recursos y límites legales; en las del inciso b), con ingresos propios, los presupuestos son indicativos, según la Ley.
+B. Las del inciso a) tienen presupuestos indicativos; las del inciso b) sujetan sus gastos a límites legales y a transferencias del Tesoro del Estado, según lo dispuesto en la Ley N.º 1178.
+C. Las del inciso a) financian su funcionamiento con venta de bienes; las del inciso b) dependen de tributación y de aportes a la seguridad social, según la Ley.
+D. Las del inciso a) pueden transferir inversión a funcionamiento; las del inciso b) tienen prohibido financiar el servicio de su deuda propia, conforme a norma.
+Respuesta correcta: A
+Explicación: «a) Las entidades gubernamentales que cuenten con recursos provenientes de tributación […] sujetarán sus gastos totales a la disponibilidad de sus recursos […] y a los límites legales presupuestarios […] b) Las entidades con autonomía de gestión y de patrimonio cuyos ingresos provengan exclusivamente por venta de bienes o por prestación de servicios […] Sus presupuestos de gastos son indicativos de sus operaciones de funcionamiento e inversión».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 8, incisos a) y b) (página impresa 7; página PDF 9).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+49. [Ley N.º 1178] ¿Qué distingue la atribución de la Contraloría (Art. 23) de la de los órganos rectores en general (Art. 20)?
+A. La Contraloría emite normas básicas de todos los sistemas de administración; los órganos rectores rigen exclusivamente el Control Gubernamental.
+B. La Contraloría ejerce el control previo de las operaciones; los órganos rectores ejercen el control externo posterior de las entidades públicas.
+C. La Contraloría fija los plazos de implantación de cada sistema; los órganos rectores dictaminan sobre las responsabilidades por la función pública, conforme a la Ley N.º 1178.
+D. La Contraloría rige el Control Gubernamental y emite normas básicas de control interno y externo; los órganos rectores emiten normas básicas de cada sistema, según la Ley.
+Respuesta correcta: D
+Explicación: Art. 23: «La Contraloría General de la República es el órgano rector del sistema de Control Gubernamental […] emitirá las normas básicas de control interno y externo […]». Art. 20: «Todos los sistemas de que trata la presente Ley serán regidos por órganos rectores, cuyas atribuciones básicas son: a) Emitir las normas y reglamentos básicos para cada sistema […]».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo IV: Atribuciones Institucionales. Arts. 20 (página impresa 15; página PDF 17) y 23 (página impresa 16; página PDF 18).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+50. [Ley N.º 1178] ¿Qué diferencia existe entre la abrogación (Art. 53) y la derogación (Art. 54) dispuestas sobre la Ley Orgánica de Presupuesto de 1928 y la Ley Orgánica de la Contraloría de 1928?
+A. La Ley Orgánica de la Contraloría de 1928 se abroga; la Ley Orgánica de Presupuesto de 1928 se deroga, excepto algunos artículos.
+B. La Ley Orgánica de Presupuesto de 1928 se abroga totalmente; la Ley Orgánica de la Contraloría de 1928 se mantiene vigente.
+C. Ambas leyes de 1928 se abrogan totalmente; la Ley 1178 no mantiene vigente ninguno de sus artículos en su texto.
+D. Ambas leyes de 1928 se derogan parcialmente; la Ley 1178 solo abroga las disposiciones sobre control previo externo.
+Respuesta correcta: A
+Explicación: Art. 53: «Se abrogan las siguientes disposiciones: - Ley Orgánica de la Contraloría General de la República de 5 de mayo de 1928 […]». Art. 54: «Se derogan las siguientes disposiciones: - Ley Orgánica de Presupuesto de 27 de abril de 1928, excepto los artículos 7, 47, 48, 49, 50 y 51».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo VIII: Abrogaciones y Derogaciones. Arts. 53 y 54 (página impresa 35; página PDF 37).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+51. [Ley N.º 1178] En una entidad, la unidad de auditoría interna revisa y aprueba cada gasto antes de su ejecución. ¿Qué análisis corresponde?
+A. Contraviene la Ley, que prohíbe el ejercicio de controles previos por los responsables de la auditoría interna.
+B. Es correcto, porque la auditoría interna garantiza mayor independencia en la verificación previa de los gastos, según la Ley.
+C. Es correcto si la máxima autoridad ejecutiva lo dispuso expresamente en el reglamento específico de la entidad.
+D. Contraviene la Ley solo si la auditoría interna no cuenta con autorización previa de la Contraloría General.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Se prohíbe el ejercicio de controles previos por los responsables de la auditoría interna y por parte de personas, de unidades o de entidades diferentes o externas a la unidad ejecutora de las operaciones». Aplicación razonada: el control previo corresponde a las unidades ejecutoras.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 14 (página impresa 11; página PDF 13).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+52. [Ley N.º 1178] Una máxima autoridad ejecutiva asigna a la unidad de auditoría interna la elaboración de planillas y trámites de contratación. ¿Qué análisis corresponde?
+A. Es válido, porque la auditoría interna depende de la máxima autoridad y debe cumplir las tareas que esta le asigne, en el marco de la Ley N.º 1178.
+B. Es válido si la auditoría interna mantiene su programa anual, aunque asuma tareas administrativas adicionales, según la Ley.
+C. Vulnera la independencia de la auditoría interna, que no debe participar en ninguna otra operación ni actividad administrativa, según la norma.
+D. Vulnera la Ley solo si la entidad tiene una máxima autoridad colegiada que no aprobó la asignación de tareas, según la norma.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La Unidad de auditoría interna no participará en ninguna otra operación ni actividad administrativa y dependerá de la máxima autoridad ejecutiva de la entidad, sea ésta colegiada o no, formulando y ejecutando con total independencia el programa de sus actividades». Aplicación razonada: la asignación compromete su independencia; el Art. 27 f) hace responder a la autoridad por respetarla.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 15 (página impresa 12; página PDF 14).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+53. [Ley N.º 1178] Una entidad financiada con transferencias del Tesoro reasigna recursos de un proyecto de inversión para pagar gastos corrientes. ¿Qué análisis corresponde?
+A. Es admisible, si los gastos corrientes son urgentes y la máxima autoridad los justifica por escrito.
+B. Es admisible, porque las entidades pueden modificar libremente su presupuesto durante la gestión.
+C. Infringe el precepto que prohíbe a estas entidades transferir gastos de inversión a funcionamiento.
+D. Infringe la Ley solo si la reasignación supera el veinte por ciento del presupuesto de inversión.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «[…] sujetarán sus gastos totales a la disponibilidad de sus recursos, a las condiciones del financiamiento debidamente contraído y a los límites legales presupuestarios, no pudiendo transferir gastos de inversión a funcionamiento». Aplicación razonada: la reasignación descrita es la transferencia prohibida.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 8, inciso a) (página impresa 7; página PDF 9).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+54. [Ley N.º 1178] Una entidad contrata servicios sin verificar la disponibilidad de fondos, y una sola persona solicita, autoriza y ejecuta la contratación. ¿Qué análisis corresponde?
+A. Incumple los preceptos de exigir previamente la disponibilidad de fondos y diferenciar las atribuciones de solicitar, autorizar y contratar, por mandato legal.
+B. Es correcto, porque concentrar las atribuciones en una sola persona simplifica los trámites como lo exige la Ley, conforme a la normativa vigente.
+C. Es correcto si el monto es menor, pues la Ley exige disponibilidad de fondos solo en contrataciones de gran cuantía, según la normativa legal.
+D. Incumple la Ley solo en la falta de fondos, pues la concentración de atribuciones agiliza el proceso de contratación, conforme a lo establecido en la normativa vigente.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «a) Previamente exigirá la disponibilidad de los fondos que compromete o definirá las condiciones de financiamiento requeridas; diferenciará las atribuciones de solicitar, autorizar el inicio y llevar a cabo el proceso de contratación […]». Aplicación razonada: ambas omisiones contravienen el Art. 10 a).
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 10, inciso a) (página impresa 8; página PDF 10).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+55. [Ley N.º 1178] Una entidad no remite a la Contraloría las copias de sus contratos ni entrega sus estados financieros en plazo. ¿Qué responsabilidad puede configurarse para su autoridad?
+A. Responsabilidad penal, por incumplir los incisos a) y b) del Artículo 27.
+B. Responsabilidad ejecutiva, por incumplir los incisos d) y e) del Artículo 27.
+C. Responsabilidad civil, por incumplir los incisos c) y g) del Artículo 27.
+D. Ninguna, porque esos plazos son referenciales y no generan responsabilidad.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «La responsabilidad es ejecutiva cuando la autoridad o ejecutivo no rinda las cuentas […]; cuando incumpla lo previsto en el primer párrafo y los incisos d), e) o f) del artículo 27 de la presente Ley […]». Aplicación razonada: las omisiones descritas corresponden a los incisos d) y e).
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 30 (página impresa 21; página PDF 23).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+56. [Ley N.º 1178] Una autoridad sostiene que no implantó los reglamentos específicos porque «la norma básica es suficiente». ¿Qué análisis corresponde?
+A. Es incorrecto: cada entidad debe elaborar sus reglamentos específicos y su implantación es responsabilidad de la máxima autoridad, según la Ley N.º 1178.
+B. Es correcto: las normas básicas de los órganos rectores sustituyen a los reglamentos específicos en todas las entidades, conforme a norma.
+C. Es correcto: la elaboración de reglamentos específicos corresponde exclusivamente a la Contraloría General de la República, según lo dispuesto en la Ley N.º 1178.
+D. Es incorrecto solo en entidades con autonomía financiera, pues las demás aplican directamente las normas básicas, conforme a la Ley N.º 1178.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Cada entidad del Sector Público elaborará en el marco de las normas básicas dictadas por los órganos rectores, los reglamentos específicos para el funcionamiento de los sistemas de Administración y Control Interno […]. Corresponde a la máxima autoridad de la entidad la responsabilidad de su implantación». Aplicación razonada: la omisión además puede generar responsabilidad ejecutiva (Art. 30).
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo IV: Atribuciones Institucionales. Art. 27 (página impresa 17; página PDF 19).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+57. [Ley N.º 1178] Una entidad que no implantó los sistemas en los plazos fijados ve congeladas sus cuentas bancarias. ¿Qué análisis corresponde?
+A. Es una medida que el Contralor General puede ordenar ante el incumplimiento de los plazos de implantación progresiva de los sistemas, según la Ley N.º 1178.
+B. Es una medida ilegal, porque solo un juez puede congelar las cuentas corrientes bancarias de una entidad del Sector Público.
+C. Es una medida que corresponde al Ministerio de Hacienda, como órgano rector de los sistemas de administración del Estado, según la Ley.
+D. Es una medida aplicable solo a entidades privadas que reciben recursos del Estado, según el Artículo 5 de la Ley N.º 1178.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «e) En caso de incumplimiento de los plazos y condiciones para la implantación progresiva de los sistemas en alguna de las entidades, el Contralor General de la República podrá ordenar: - Congelamiento de cuentas corrientes bancarias de la entidad; - Suspensión de entrega de fondos por los tesoros del Estado o por cualquier organismo financiador». Aplicación razonada: la medida corresponde al supuesto del Art. 42 e).
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo VI: Del Funcionamiento de la Contraloría General de la República. Art. 42, inciso e) (página impresa 29; página PDF 31).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+58. [Ley N.º 1178] Una empresa privada contratada por el Estado para construir una obra la abandona, causando daño económico. ¿Qué análisis corresponde?
+A. No tiene responsabilidad, porque la Ley N.º 1178 solo alcanza a los servidores públicos y no a personas privadas, según la norma.
+B. Tiene solo responsabilidad administrativa, sancionada con multa por la máxima autoridad de la entidad contratante, según la Ley.
+C. Puede incurrir en responsabilidad civil, pues la Ley alcanza a personas privadas que causen daño al patrimonio del Estado, conforme a la normativa vigente.
+D. Tiene responsabilidad ejecutiva, porque abandonar la obra equivale a no rendir cuentas de los recursos recibidos, según la Ley.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «b) Incurrirán en responsabilidad civil las personas naturales o jurídicas que no siendo servidores públicos, se beneficiaren indebidamente con recursos públicos o fueren causantes de daño al patrimonio del Estado y de sus entidades». Aplicación razonada: el abandono que causa daño encaja en el Art. 31 b).
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 31, inciso b) (páginas impresas 21-22; páginas PDF 23-24).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+59. [Ley N.º 1178] Una entidad recibe el dictamen de responsabilidad de la Contraloría y, pasados veinte días, no inicia el proceso ni la acción judicial. ¿Qué análisis corresponde?
+A. No hay consecuencia, porque el dictamen de la Contraloría es solo una recomendación sin efectos para la entidad pública.
+B. La Contraloría debe esperar el año fiscal siguiente para reiterar el dictamen, sin afectar a las autoridades de la entidad.
+C. Puede instruirse la destitución del ejecutivo y del asesor legal principal, iniciándose contra ellos la acción judicial que corresponda.
+D. Solo puede aplicarse una multa del veinte por ciento al asesor legal, sin efecto sobre el ejecutivo principal de la entidad, según la norma.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «c) En caso de que la entidad pertinente no hubiese iniciado el proceso administrativo o la acción judicial dentro de los veinte días de recibido el dictamen, el Contralor General de la República […] instruirá a quien corresponda la destitución del ejecutivo y del asesor legal principal iniciándose contra ellos la acción judicial a que hubiere lugar […]». Aplicación razonada: la inacción descrita activa el Art. 43 c).
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo VI: Del Funcionamiento de la Contraloría General de la República. Art. 43, inciso c) (página impresa 31; página PDF 33).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+60. [Ley N.º 1178] Las deficiencias en la gestión de una autoridad son de tal magnitud que impiden lograr resultados razonables de eficacia, eficiencia y economía. ¿Qué análisis corresponde?
+A. Configura responsabilidad penal, sancionable conforme al Código Penal vigente, en el marco de la Ley N.º 1178.
+B. Configura responsabilidad civil, que obliga a resarcir el daño en diez días, conforme a norma.
+C. No configura responsabilidad, pues la ineficiencia no está prevista en la Ley, según la norma.
+D. Configura responsabilidad ejecutiva, sancionable conforme al inciso g) del Artículo 42, por mandato legal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] o cuando se encuentre que las deficiencias o negligencia de la gestión ejecutiva son de tal magnitud que no permiten lograr, dentro de las circunstancias existentes, resultados razonables en términos de eficacia, eficiencia y economía. En estos casos, se aplicará la sanción prevista en el inciso g) del artículo 42 de la presente Ley». Aplicación razonada: el supuesto coincide con la última causal del Art. 30.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 30 (página impresa 21; página PDF 23).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+61. [Ley N.º 1178] Una universidad pública consulta si debe aplicar los sistemas de Administración y Control. Según el Artículo 3, ¿qué corresponde?
+A. No, pues las universidades gozan de autonomía y están excluidas de los sistemas de la Ley, según la normativa legal.
+B. Solo si recibe transferencias del Tesoro, pues la Ley no alcanza a sus recursos propios, según la normativa legal.
+C. Solo el sistema de Control Externo Posterior, pues los demás sistemas no le son aplicables, según lo dispuesto en la Ley N.º 1178.
+D. Sí, pues los sistemas se aplican en todas las entidades del Sector Público, incluidas las universidades, por mandato legal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Los sistemas de Administración y de Control se aplicarán en todas las entidades del Sector Público, sin excepción, entendiéndose por tales […] los gobiernos departamentales, las universidades y las municipalidades […]».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo I: Finalidad y Ámbito de Aplicación. Art. 3 (páginas impresas 4-5; páginas PDF 6-7).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+62. [Ley N.º 1178] Una fundación privada recibe subvenciones del Estado para su funcionamiento. Según el Artículo 5, ¿qué obligación tiene?
+A. Informar a la entidad pública competente sobre el destino, forma y resultados del manejo de los recursos y presentar estados financieros auditados.
+B. Aplicar todos los sistemas de Administración y Control como cualquier entidad del Sector Público, incluida la auditoría interna.
+C. Ninguna obligación, pues las personas privadas no están sujetas a la Ley N.º 1178 aunque reciban subvenciones del Estado.
+D. Someter cada gasto al control previo de la Contraloría General, antes de ejecutar los recursos recibidos del Estado.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Toda persona no comprendida en los artículos 3 y 4, cualquiera sea su naturaleza jurídica, que reciba recursos del Estado para su inversión o funcionamiento, se beneficie de subsidios, subvenciones […] informará a la entidad pública competente sobre el destino, forma y resultados del manejo de los recursos y privilegios públicos y le presentará estados financieros debidamente auditados».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo I: Finalidad y Ámbito de Aplicación. Art. 5 (página impresa 5; página PDF 7).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+63. [Ley N.º 1178] Una autoridad considera sancionar una falta administrativa grave de un servidor. Según el Artículo 29, ¿cómo se determina esta responsabilidad?
+A. Por la jurisdicción coactiva fiscal, previa demanda de la Contraloría General de la República, conforme a lo establecido en la Ley N.º 1178.
+B. Por proceso interno de cada entidad, que toma en cuenta los resultados de la auditoría si la hubiere, en el marco de la Ley N.º 1178.
+C. Por el Ministerio Público, mediante denuncia presentada por la unidad legal de la entidad, en el marco de la Ley N.º 1178.
+D. Por la Contraloría General, mediante resolución directa sin intervención de la entidad, en el marco de la Ley N.º 1178.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Se determinará por proceso interno de cada entidad que tomará en cuenta los resultados de la auditoría si la hubiere».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 29 (páginas impresas 20-21; páginas PDF 22-23).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+64. [Ley N.º 1178] Una entidad es condenada judicialmente a pagar daños y perjuicios a un tercero por actos de una autoridad. Según el Artículo 32, ¿qué debe hacer?
+A. Repetir el pago contra la autoridad que resultare responsable de los actos o hechos que motivaron la sanción.
+B. Asumir el pago con cargo a su presupuesto, sin acción contra la autoridad que causó el daño al tercero.
+C. Solicitar a la Contraloría que pague la condena con su presupuesto, por ser el órgano rector del control.
+D. Transferir el pago al Tesoro General de la Nación, que asume las condenas judiciales de las entidades.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La entidad estatal condenada judicialmente al pago de daños y perjuicios en favor de entidades públicas o de terceros, repetirá el pago contra la autoridad que resultare responsable de los actos o hechos que motivaron la sanción».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 32 (página impresa 22; página PDF 24).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+65. [Ley N.º 1178] Una demanda por responsabilidad civil derivada de un contrato administrativo de provisión de materiales debe tramitarse. Según el Artículo 47, ¿qué jurisdicción conoce?
+A. La jurisdicción coactiva fiscal.
+B. La jurisdicción civil ordinaria.
+C. La jurisdicción tributaria especial.
+D. La jurisdicción penal del distrito.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Créase la jurisdicción coactiva fiscal para el conocimiento de todas las demandas que se interpongan con ocasión de los actos de los servidores públicos […] o de las personas naturales o jurídicas privadas que hayan suscrito contratos administrativos con el Estado, por los cuales se determinen responsabilidades civiles definidas en el artículo 31 […]. Son contratos administrativos aquellos que se refieren a contratación de obras, provisión de materiales, bienes y servicios y otros de similar naturaleza».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo VII: De la Jurisdicción Coactiva Fiscal. Art. 47 (página impresa 33; página PDF 35).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+66. [Ley N.º 1178] Una autoridad administrativa pretende tramitar por sí misma un proceso coactivo fiscal. Según el Artículo 50, ¿qué consecuencia tiene?
+A. La validez de sus actuaciones, previa ratificación judicial, según la Ley.
+B. La suspensión del proceso hasta que la Contraloría lo autorice, según la norma.
+C. La remisión automática del proceso a la jurisdicción penal, según la Ley.
+D. La nulidad de pleno derecho de sus actuaciones y resoluciones, según la Ley.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La jurisdicción coactiva fiscal es improrrogable en razón de la competencia territorial e indelegable. Su ejercicio por autoridades administrativas u otras, dará lugar a la nulidad de pleno derecho de sus actuaciones y resoluciones».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo VII: De la Jurisdicción Coactiva Fiscal. Art. 50 (página impresa 34; página PDF 36).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+67. [Ley N.º 1178] Una entidad con pocas operaciones y recursos reducidos no justifica una unidad de auditoría interna propia. Según el Artículo 27 inciso b), ¿quién debe efectuar su control externo posterior?
+A. La entidad que ejerce tuición sobre ella, sin perjuicio de la atribución de la Contraloría, por mandato legal.
+B. Una firma privada elegida libremente por la máxima autoridad de la propia entidad, según la norma.
+C. La propia entidad, mediante su unidad jurídica y sin intervención de otras entidades, según la Ley.
+D. La Superintendencia de Bancos, como órgano rector del control de las entidades menores, conforme a la Ley N.º 1178.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «b) La tuición incluye la facultad de ejercer el control externo posterior, sin perjuicio de la atribución de la Contraloría, así como la obligación de efectuar oportunamente el control externo posterior de las entidades cuyo reducido número de operaciones y monto de recursos administrados no justifican el funcionamiento de una unidad de auditoría interna propia».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo IV: Atribuciones Institucionales. Art. 27, inciso b) (página impresa 18; página PDF 20).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+68. [Ley N.º 1178] Con el dictamen de responsabilidad civil, la entidad requiere el pago al deudor. Según el Artículo 43 inciso b), ¿qué plazo le concede?
+A. Veinte días, bajo apercibimiento de destitución del deudor.
+B. Diez días, bajo conminatoria de iniciarse la acción legal.
+C. Cinco días, bajo conminatoria de congelamiento de cuentas.
+D. Treinta días, bajo advertencia de remisión al Ministerio Público.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «b) Con el dictamen de responsabilidad se notificará a los presuntos responsables y se remitirá a la entidad, de oficio, un ejemplar de todo lo actuado, para que cumpla lo dictaminado y, si fuera el caso, requiera el pago de la obligación determinada concediendo al deudor diez días para efectuarlo, bajo conminatoria de iniciarse en su contra la acción legal que corresponda».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo VI: Del Funcionamiento de la Contraloría General de la República. Art. 43, inciso b) (página impresa 31; página PDF 33).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+69. [Ley N.º 1178] Una entidad concluye un informe de auditoría interna. Según el Artículo 15, ¿a quiénes debe remitirse?
+A. Solo a la máxima autoridad ejecutiva de la entidad, que decide si lo remite o no a otras instancias del Estado.
+B. A la máxima autoridad colegiada si la hubiera, a la máxima autoridad del ente que ejerce tuición y a la Contraloría General.
+C. Al órgano rector del sistema auditado, al Ministerio Público y a la unidad jurídica de la propia entidad auditada, según la Ley.
+D. A la Superintendencia de Bancos, a la Contaduría General y a las comisiones del Congreso Nacional del Estado.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Todos sus informes serán remitidos inmediatamente después de concluidos a la máxima autoridad colegiada, si la hubiera; a la máxima autoridad del ente que ejerce tuición sobre la entidad auditada; y a la Contraloría General de la República».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 15 (página impresa 12; página PDF 14).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+70. [Ley N.º 1178] Las unidades jurídicas de una entidad tienen procesos y acciones judiciales a su cargo. Según el Artículo 27 inciso g), ¿qué deben hacer?
+A. Elevar informes periódicos a la Contraloría sobre el estado de los procesos, requerimientos de pago y acciones judiciales.
+B. Elevar informes anuales al Ministerio Público sobre el estado de los procesos penales iniciados contra los servidores, según la Ley.
+C. Remitir los procesos a la jurisdicción coactiva fiscal, que asume la defensa de los intereses del Estado en cada caso.
+D. Informar solo a la máxima autoridad ejecutiva, sin obligación de reportar a otras instancias sobre los procesos.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «g) Las unidades jurídicas de las entidades del Sector Público son responsables de la efectividad en el cumplimiento de las obligaciones relativas a la defensa de los intereses del Estado. Deberán elevar informes periódicos a la Contraloría sobre el estado de los procesos administrativos, requerimientos de pago y las acciones judiciales a su cargo […]».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo IV: Atribuciones Institucionales. Art. 27, inciso g) (página impresa 19; página PDF 21).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Ley N.º 1178] Caso: en una unidad educativa, los fondos de un proyecto se gastaron sin documentación de respaldo. El director afirma que «todo se usó para los estudiantes». Según el Artículo 1 inciso c), ¿qué se le exige?
+A. Acreditar solo que los recursos beneficiaron a los estudiantes, sin necesidad de documentar la forma de su aplicación.
+B. Rendir cuenta no solo del objetivo al que se destinaron los recursos, sino también de la forma y resultado de su aplicación, según la norma.
+C. Devolver de inmediato los fondos al Tesoro, sin derecho a demostrar la forma y el resultado de su aplicación en la unidad, según la Ley N.º 1178.
+D. Presentar una declaración firmada por los padres de familia, que sustituye la rendición de cuentas ante la entidad.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «c) Lograr que todo servidor público, sin distinción de jerarquía, asuma plena responsabilidad por sus actos rindiendo cuenta no sólo de los objetivos a que se destinaron los recursos públicos que le fueron confiados, sino también de la forma y resultado de su aplicación». Aplicación razonada: la Ley N.º 1178 rige a todo servidor público y a todas las entidades del Sector Público sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público y responsable de una unidad.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo I: Finalidad y Ámbito de Aplicación. Art. 1, inciso c) (páginas impresas 3-4; páginas PDF 5-6).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Ley N.º 1178] Caso: un docente pierde por descuido una computadora portátil asignada por el Estado. El director debe orientar el procedimiento. ¿Qué tipo de responsabilidad puede configurarse si se demuestra un daño económico?
+A. Responsabilidad ejecutiva, por no rendir cuentas de su gestión, conforme a la Ley N.º 1178.
+B. Responsabilidad penal, por toda pérdida de bienes del Estado, según la norma.
+C. Ninguna, porque los docentes no son servidores públicos, según la Ley N.º 1178.
+D. Responsabilidad civil, por causar daño al Estado valuable en dinero, conforme a norma.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La responsabilidad es civil cuando la acción u omisión del servidor público o de las personas naturales o jurídicas privadas cause daño al Estado valuable en dinero». Aplicación razonada: la pérdida por descuido con daño económico encaja en el Art. 31.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 31 (página impresa 21; página PDF 23).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Ley N.º 1178] Caso: una secretaria de la unidad educativa incumple reiteradamente las normas de conducta funcionaria, sin causar daño económico. ¿Qué responsabilidad corresponde y cómo se determina?
+A. Responsabilidad civil, determinada por la jurisdicción coactiva fiscal, según lo dispuesto en la Ley N.º 1178.
+B. Responsabilidad ejecutiva, determinada por el Contralor General, en el marco de la Ley N.º 1178.
+C. Responsabilidad penal, determinada por el Ministerio Público, en el marco de la Ley N.º 1178.
+D. Responsabilidad administrativa, determinada por proceso interno de la entidad, según la Ley N.º 1178.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La responsabilidad es administrativa cuando la acción u omisión contraviene el ordenamiento jurídico-administrativo y las normas que regulan la conducta funcionaria del servidor público. Se determinará por proceso interno de cada entidad […]». Aplicación razonada: la conducta descrita no causa daño económico ni está tipificada penalmente.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 29 (páginas impresas 20-21; páginas PDF 22-23).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Ley N.º 1178] Caso: un director decide reparar urgentemente el techo de la unidad ante lluvias torrenciales; luego se cuestiona el costo. Si prueba que actuó por fuerza mayor y en resguardo de los bienes, ¿qué dispone el Artículo 33?
+A. Existe responsabilidad civil, aunque actuó por fuerza mayor, según la Ley.
+B. No existe responsabilidad administrativa, ejecutiva ni civil, conforme a norma.
+C. Existe responsabilidad administrativa con multa reducida, según la Ley.
+D. Existe responsabilidad ejecutiva sujeta a dictamen previo, según la Ley.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «No existirá responsabilidad administrativa, ejecutiva ni civil cuando se pruebe que la decisión hubiese sido tomada en procura de mayor beneficio y en resguardo de los bienes de la entidad […] o cuando situaciones de fuerza mayor originaron la decisión o incidieron en el resultado final de la operación». Aplicación razonada: la Ley N.º 1178 rige a todo servidor público y a todas las entidades del Sector Público sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público y responsable de una unidad.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 33 (página impresa 22; página PDF 24).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Ley N.º 1178] Caso: una auditoría detecta que dos servidores de una entidad educativa causaron conjuntamente un faltante de fondos. ¿Cómo responden según el Artículo 31 inciso c)?
+A. Solidariamente, por ser responsables del mismo hecho que causó daño al Estado, según la Ley.
+B. Cada uno por la mitad del faltante, sin solidaridad entre ellos, conforme a norma.
+C. Solo el de mayor jerarquía, pues el otro cumplía órdenes superiores, conforme a la Ley N.º 1178.
+D. Solo el que firmó los documentos, pues el otro no suscribió nada, según la norma.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «c) Cuando varias personas resultaren responsables del mismo acto o del mismo hecho que hubiese causado daño al Estado, serán solidariamente responsables».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 31, inciso c) (página impresa 22; página PDF 24).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Ley N.º 1178] Caso: un exdirector se niega a exhibir la documentación de su gestión requerida por la auditoría, pese a la advertencia previa. ¿Qué prevé la Ley?
+A. Ninguna sanción, porque los ex-servidores públicos no están obligados a exhibir documentación de su anterior gestión, según la Ley N.º 1178.
+B. Solo una multa administrativa del veinte por ciento de su última remuneración, impuesta por la entidad donde trabajó, según la Ley N.º 1178.
+C. Sanciones del Código Penal (Arts. 154, 160 y 161) y, a solicitud del Contralor, mandamiento de apremio del Fiscal en veinticuatro horas, según la Ley N.º 1178.
+D. El congelamiento de sus cuentas personales, ordenado por el Contralor sin intervención del Fiscal ni de otra autoridad, conforme a lo establecido en la Ley N.º 1178.
+Respuesta correcta: C
+Explicación: Aplicación razonada: Art. 36: «[…] Los que incumplieren lo dispuesto en el presente artículo, serán pasibles a las sanciones establecidas en los artículos 154, 160 y 161 del Código Penal […]». Art. 42.h: «[…] dentro de las veinticuatro horas de la solicitud del Contralor acompañada de copia de la advertencia previa, el Fiscal del Distrito en lo Penal expedirá mandamiento de apremio […]». Aplicación razonada: la negativa activa el Art. 36 y el Art. 42 h).
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Arts. 36 (página impresa 24; página PDF 26) y 42, inciso h) (página impresa 30; página PDF 32).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Ley N.º 1178] Caso: el abogado de una entidad pierde un juicio porque el recurso se declara improcedente por aspectos formales. ¿Qué dispone el Artículo 38?
+A. Que los abogados no tienen responsabilidad por el resultado de los juicios, pues su obligación es solo de medios y no de resultados.
+B. Que la responsabilidad por la pérdida del juicio recae exclusivamente en la máxima autoridad que otorgó el poder al abogado.
+C. Que los abogados responden solo si actuaron con dolo, sin responsabilidad por vicios procedimentales o aspectos formales.
+D. Que los abogados son responsables por el patrocinio legal del Sector Público cuando los recursos se declaren improcedentes por aspectos formales.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «También serán responsables los abogados por el patrocinio legal del Sector Público cuando la tramitación de la causa la realicen con vicios procedimentales o cuando los recursos se declaren improcedentes por aspectos formales».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 38 (página impresa 25; página PDF 27).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Ley N.º 1178] Caso: un servidor de una dirección distrital es condenado a pagar un daño civil años después del hecho. ¿Cómo se actualiza el monto según el Artículo 39?
+A. El juez lo mantiene en el valor nominal original, sin actualización alguna, por tratarse de una deuda de carácter civil, según lo dispuesto en la Ley N.º 1178.
+B. El juez lo actualiza con los parámetros que el Banco Central aplica al mantenimiento de valor de activos financieros en moneda nacional, conforme a norma.
+C. La Contraloría lo actualiza con la tasa de interés comercial vigente, sumando las costas y honorarios del proceso, según la Ley N.º 1178.
+D. La entidad lo actualiza con el índice salarial del sector público, sin intervención del juez que conoce la causa, según la Ley N.º 1178.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El Juez o tribunal que conozca la causa al momento del pago del daño civil actualizará el monto de la deuda considerando, para el efecto, los parámetros que el Banco Central de Bolivia aplica en el mantenimiento de valor de los activos financieros en moneda nacional».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 39 (página impresa 25; página PDF 27).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Ley N.º 1178] Caso: un servidor sostiene que, por ser contratado con recursos de un proyecto financiado externamente, no es servidor público. ¿Qué responde la Ley?
+A. Tiene razón, porque solo son servidores públicos quienes perciben su remuneración del Tesoro General de la Nación, conforme a lo establecido en la Ley N.º 1178.
+B. Tiene razón, porque los contratados por proyectos están sujetos únicamente a las normas del organismo financiador, según la Ley N.º 1178.
+C. Es servidor público solo si fue designado por la máxima autoridad mediante resolución administrativa expresa, conforme a la Ley N.º 1178.
+D. Es servidor público si presta servicios en relación de dependencia con autoridades estatales, cualquiera sea la fuente de su remuneración, por mandato legal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «c) El término “servidor público” utilizado en la presente Ley, se refiere a los dignatarios, funcionarios y toda otra persona que preste servicios en relación de dependencia con autoridades estatales, cualquiera sea la fuente de su remuneración». Aplicación razonada: la fuente de remuneración no altera la condición de servidor público.
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 28, inciso c) (página impresa 20; página PDF 22).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Ley N.º 1178] Caso: un particular obtiene una resolución favorable que pone término a su reclamo; luego la auditoría observa el acto. ¿Qué efecto tiene la observación según el Artículo 37?
+A. Anula la resolución y obliga al particular a devolver lo recibido, conforme a lo establecido en la Ley N.º 1178.
+B. Suspende la resolución hasta que la Contraloría emita dictamen, conforme a lo establecido en la Ley N.º 1178.
+C. No modifica la resolución; solo permite determinar la responsabilidad de la autoridad que la autorizó, según la Ley N.º 1178.
+D. Modifica la resolución si el juez coactivo fiscal así lo dispone, conforme a lo establecido en la Ley N.º 1178.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El Control Posterior Interno o Externo no modificará los actos administrativos que hubieren puesto término a los reclamos de los particulares y se concretará a determinar la responsabilidad de la autoridad que los autorizó expresamente o por omisión, si la hubiere».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 37 (página impresa 25; página PDF 27).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Ley N.º 1178] Una máxima autoridad debe decidir quién responde ante la Contraloría por el respeto a la independencia de la auditoría interna. ¿Qué dispone el Artículo 27 inciso f)?
+A. La propia unidad de auditoría interna responde por su independencia; la máxima autoridad, por la calidad profesional de los informes, según la Ley.
+B. La máxima autoridad colegiada, si la hubiera, y el ejecutivo superior responden por esa independencia; la auditoría, por su imparcialidad y calidad, según la Ley N.º 1178.
+C. El órgano rector del sistema responde por la independencia de la auditoría; la Contraloría, por la imparcialidad de sus informes, según la norma.
+D. La unidad jurídica de la entidad responde por la independencia de la auditoría; el ejecutivo superior, por su programa anual, según la Ley N.º 1178.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «f) La máxima autoridad colegiada, si la hubiera, y el ejecutivo superior de cada entidad responderán ante la Contraloría General de la República por el respeto a la independencia de la unidad de auditoría interna, y ésta por la imparcialidad y calidad profesional de su trabajo».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo IV: Atribuciones Institucionales. Art. 27, inciso f) (página impresa 19; página PDF 21).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Ley N.º 1178] La Contraloría requiere asesoría especializada y no cuenta con los profesionales necesarios. ¿Qué decisión le permite el Artículo 42 inciso a)?
+A. Delegar la auditoría a la unidad de auditoría interna de la entidad, sin necesidad de contratar servicios externos, según lo dispuesto en la Ley N.º 1178.
+B. Suspender la auditoría hasta que el Ministerio de Hacienda le asigne nuevos profesionales en su presupuesto, según la Ley N.º 1178.
+C. Solicitar al juez coactivo fiscal la designación de peritos para realizar la auditoría especializada requerida, por mandato legal.
+D. Contratar firmas o profesionales calificados e independientes, u ordenar su contratación a las entidades, según su reglamento, por mandato legal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «a) La Contraloría podrá contratar los servicios de firmas o profesionales calificados e independientes u ordenar a las entidades del Sector Público y a las personas comprendidas en el artículo 5 de la presente Ley, la contratación de dichos servicios […] En todos los casos la contratación se sujetará al reglamento que al efecto expida la Contraloría General».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo VI: Del Funcionamiento de la Contraloría General de la República. Art. 42, inciso a) (página impresa 28; página PDF 30).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Ley N.º 1178] Ante el incumplimiento de la Ley por un servidor público, ¿qué decisión puede adoptar el Contralor General según el Artículo 42 inciso f)?
+A. Destituir directamente al servidor público, sin intervención del máximo ejecutivo ni de la autoridad superior de la entidad.
+B. Imponer de manera directa una multa del veinte por ciento al servidor, mediante resolución de la propia Contraloría General.
+C. Recomendar al máximo ejecutivo o autoridad superior que imponga la sanción del Artículo 29, sin perjuicio de otras responsabilidades, según la norma.
+D. Remitir el caso al Congreso Nacional, que decide la sanción aplicable al servidor público según la gravedad de la falta.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «f) En caso de incumplimiento de la presente Ley por el servidor público, el Contralor General de la República de oficio o a petición fundamentada de los Órganos Rectores o de las autoridades que ejercen tuición, podrá recomendar al máximo ejecutivo de la entidad o a la autoridad superior, imponga la sanción que corresponda según el artículo 29 de la presente Ley, sin perjuicio de la responsabilidad ejecutiva, civil y penal a que hubiere lugar».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo VI: Del Funcionamiento de la Contraloría General de la República. Art. 42, inciso f) (páginas impresas 29-30; páginas PDF 31-32).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Ley N.º 1178] Determinada la responsabilidad ejecutiva, ¿qué decisión puede recomendar el Contralor General según el Artículo 42 inciso g)?
+A. La imposición de una multa del veinte por ciento al principal ejecutivo, sin informar a ninguna otra instancia del Estado, según la Ley N.º 1178.
+B. La suspensión o destitución del principal ejecutivo y, si fuere el caso, de la dirección colegiada, informando al Congreso, según la norma.
+C. El congelamiento de las cuentas personales del ejecutivo, hasta que reponga el daño económico causado a la entidad.
+D. La intervención temporal de la entidad por la Contraloría, que asume la dirección mientras dure la investigación, según la Ley.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «g) En caso de responsabilidad ejecutiva determinada por el Contralor General de la República, éste podrá recomendar a la máxima dirección colegiada, siempre que no estuviere involucrada en las deficiencias observadas, y a la autoridad superior que ejerce tuición sobre la entidad, la suspensión o destitución del principal ejecutivo y, si fuere el caso, de la dirección colegiada […] informando a las respectivas comisiones del H. Congreso Nacional».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo VI: Del Funcionamiento de la Contraloría General de la República. Art. 42, inciso g) (página impresa 30; página PDF 32).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Ley N.º 1178] Una entidad pública con tuición sobre otra debe decidir el alcance de esa tuición. Según el Artículo 27 inciso a), ¿qué comprende?
+A. La aprobación previa de todos los gastos de la entidad tutelada, mediante control previo externo ejercido por la entidad tutora, según la norma.
+B. La promoción y vigilancia de la implantación y funcionamiento de los sistemas de Planificación e Inversión, Administración y Control Interno.
+C. La sustitución de la máxima autoridad de la entidad tutelada en la elaboración de sus reglamentos específicos de los sistemas.
+D. La administración directa de los recursos de la entidad tutelada, incluida su contabilidad integrada y su tesorería propia.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «a) Cualquier tuición que corresponda ejercer a una entidad pública respecto de otra, comprenderá la promoción y vigilancia de la implantación y funcionamiento de los sistemas de Planificación e Inversión, Administración y Control Interno […]».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo IV: Atribuciones Institucionales. Art. 27, inciso a) (página impresa 17; página PDF 19).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Ley N.º 1178] La Contraloría decide examinar registros de una entidad sin aviso previo. ¿Lo permite el Artículo 42 inciso d)?
+A. No, debe notificar con treinta días de anticipación a la entidad sujeta al Control Gubernamental, conforme a lo establecido en la Ley N.º 1178.
+B. Solo si la entidad no tiene unidad de auditoría interna propia que pueda realizar el examen, en el marco de la Ley N.º 1178.
+C. Sí, puede examinar en cualquier momento los registros y operaciones de las entidades sujetas al Control Gubernamental, según la norma.
+D. Solo con autorización expresa del órgano rector del sistema cuyos registros pretende examinar, conforme a la Ley N.º 1178.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «d) La Contraloría podrá examinar en cualquier momento los registros y operaciones realizadas por las entidades sujetas al Control Gubernamental».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo VI: Del Funcionamiento de la Contraloría General de la República. Art. 42, inciso d) (página impresa 29; página PDF 31).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Ley N.º 1178] Una entidad decide si el control posterior le permite anular un acto que favoreció a un particular. ¿Qué decisión es coherente con la Ley?
+A. No anular el acto, y limitarse a determinar la responsabilidad de la autoridad que lo autorizó, conforme a la Ley N.º 1178.
+B. Anular el acto y exigir al particular la devolución de todo lo que recibió por esa resolución, según la norma.
+C. Suspender el acto hasta que el Congreso Nacional decida sobre su validez y sus efectos jurídicos, en el marco de la Ley N.º 1178.
+D. Ratificar el acto y archivar el caso, sin determinar responsabilidad alguna de la autoridad, conforme a norma.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El Control Posterior Interno o Externo no modificará los actos administrativos que hubieren puesto término a los reclamos de los particulares y se concretará a determinar la responsabilidad de la autoridad que los autorizó expresamente o por omisión, si la hubiere».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo V: Responsabilidad por la Función Pública. Art. 37 (página impresa 25; página PDF 27).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Ley N.º 1178] Con base en informes de auditoría, la Contraloría decide emitir dictamen de responsabilidad. ¿Qué valor tiene según el Artículo 43 inciso a)?
+A. Constituye sentencia ejecutoriada que obliga al pago inmediato sin necesidad de otro proceso.
+B. Constituye una simple opinión técnica sin valor probatorio en los procesos posteriores.
+C. Constituye prueba plena solo en el proceso penal, sin efectos en otras acciones legales.
+D. Constituye prueba preconstituida para la acción administrativa, ejecutiva y civil a que hubiere lugar.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «a) El dictamen del Contralor General de la República y los informes y documentos que lo sustentan, constituirán prueba preconstituida para la acción administrativa, ejecutiva y civil a que hubiere lugar».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo VI: Del Funcionamiento de la Contraloría General de la República. Art. 43, inciso a) (página impresa 31; página PDF 33).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Ley N.º 1178] El Sistema de Administración de Bienes y Servicios debe prever la baja de bienes en desuso. ¿Qué decisión es coherente con el Artículo 10 inciso c)?
+A. Mantener los bienes en desuso de manera indefinida, pues la Ley prohíbe su baja o venta por cualquier entidad pública, según la norma.
+B. Establecer, mediante reglamentación, mecanismos para la baja o venta oportuna de los bienes según las necesidades de la entidad, por mandato legal.
+C. Transferir los bienes en desuso a la Contraloría General, que decide su destino sin considerar las necesidades de la entidad, conforme a la Ley N.º 1178.
+D. Vender los bienes en desuso sin reglamentación, mediante decisión directa de cualquier servidor que los tenga a su cargo.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «c) La reglamentación establecerá mecanismos para la baja o venta oportuna de los bienes tomando en cuenta las necesidades específicas de las entidades propietarias […]».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 10, inciso c) (página impresa 9; página PDF 11).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Ley N.º 1178] La Contraloría debe decidir sobre su presupuesto. Según el Artículo 41, ¿cómo se incorpora al Presupuesto General de la Nación?
+A. Elaborado por el Ministerio de Finanzas, es incorporado con las modificaciones que este considere necesarias, según la Ley.
+B. Elaborado por el Congreso Nacional, es incorporado previa aprobación del Presidente de la República.
+C. Elaborado por ella y sustentado en su programación, es incorporado sin modificación por el Ministerio de Finanzas.
+D. Elaborado por la Contaduría General, es incorporado según los ingresos alcanzados en la gestión anterior.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «A fin de asegurar su independencia e imparcialidad respecto a la administración del Estado, el presupuesto de la Contraloría, elaborado por ésta y sustentado en su programación de operaciones, será incorporado sin modificación por el Ministerio de Finanzas al proyecto de Presupuesto General de la Nación […]».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo VI: Del Funcionamiento de la Contraloría General de la República. Art. 41 (página impresa 28; página PDF 30).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Ley N.º 1178] Para la planificación institucional, ¿qué carácter debe tener la Programación de Operaciones según el Artículo 6?
+A. Parcial, limitada a las operaciones de funcionamiento y excluyendo las de preinversión e inversión, según la Ley.
+B. Sectorial, limitada a los proyectos de inversión compatibilizados con las políticas regionales.
+C. Anual, limitada a las operaciones financiadas con recursos propios de cada entidad pública.
+D. Integral, incluyendo las operaciones de funcionamiento y las de ejecución de preinversión e inversión.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Esta programación será de carácter integral, incluyendo tanto las operaciones de funcionamiento como las de ejecución de preinversión e inversión».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 6 (página impresa 6; página PDF 8).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Ley N.º 1178] Para una organización eficiente del Estado, ¿qué funciones deben centralizarse en la entidad cabeza de sector según el Artículo 7 inciso a)?
+A. Adoptar políticas, emitir normas y vigilar su ejecución y cumplimiento, desconcentrando o descentralizando la ejecución, según la Ley.
+B. Ejecutar las políticas y manejar los sistemas de administración, centralizando también la emisión de normas sectoriales, conforme a norma.
+C. Ejercer el control externo posterior y dictaminar sobre las responsabilidades de los servidores de todo el sector.
+D. Elaborar los reglamentos específicos de todas las entidades del sector, sustituyendo a sus máximas autoridades.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «a) Se centralizará en la entidad cabeza de sector de los diferentes niveles de gobierno, las funciones de adoptar políticas, emitir normas y vigilar su ejecución y cumplimiento; y se desconcentrará o descentralizará la ejecución de las políticas y el manejo de los sistemas de administración».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 7, inciso a) (página impresa 6; página PDF 8).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Ley N.º 1178] ¿Cómo debe organizar internamente cada entidad pública sus sistemas de administración y control interno, según el Artículo 7 inciso b)?
+A. En función de sus objetivos y la naturaleza de sus actividades, según la Ley N.º 1178.
+B. En función de las instrucciones de la Contraloría General, según la norma.
+C. En función del monto de recursos asignados por el Tesoro, según la norma.
+D. En función del número de servidores públicos de su planta, según la norma.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «b) Toda entidad pública organizará internamente, en función de sus objetivos y la naturaleza de sus actividades, los sistemas de administración y control interno de que trata esta ley».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 7, inciso b) (página impresa 6; página PDF 8).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Ley N.º 1178] Para evaluar el resultado de la gestión, ¿qué deben considerar los sistemas de control según el Artículo 19?
+A. Únicamente la razonabilidad de los estados financieros, sin considerar las políticas gubernamentales de planificación, según la Ley.
+B. Exclusivamente las recomendaciones de los organismos financiadores externos que aportan recursos a las entidades.
+C. Solo el cumplimiento de los plazos de implantación de los sistemas, fijados por los órganos rectores respectivos.
+D. Entre otros criterios, las políticas gubernamentales definidas por los sistemas nacionales de Planificación e Inversión Pública.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Los sistemas de Control Interno y de Control Externo Posterior, además de procurar la eficiencia de los sistemas de administración, evaluarán el resultado de la gestión tomando en cuenta, entre otros criterios, las políticas gubernamentales definidas por los sistemas nacionales de Planificación e Inversión Pública».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo III: Relación con los Sistemas Nacionales de Planificación e Inversión Pública. Art. 19 (página impresa 14; página PDF 16).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Ley N.º 1178] Para el funcionamiento anual de los sistemas, ¿qué deben compatibilizar los sistemas de Planificación e Inversión Pública según el Artículo 18?
+A. Los informes de auditoría de cada entidad con los dictámenes de responsabilidad emitidos por la Contraloría en la gestión anterior, según lo previsto en la normativa de la Ley N.º 1178.
+B. Los reglamentos específicos de cada entidad con las normas del Código de Comercio y del Código Civil sobre contratos privados, en el marco de la Ley N.º 1178.
+C. Los objetivos y planes de cada entidad y sus proyectos de inversión con los planes de mediano y largo plazo, la política monetaria y el financiamiento, conforme a la Ley N.º 1178.
+D. Los puestos de trabajo de cada entidad con las escalas salariales fijadas por la Superintendencia de Bancos y Seguros del país, en el marco de la Ley N.º 1178.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «[…] los sistemas nacionales de Planificación e Inversión Pública compatibilizarán e integrarán los objetivos y planes estratégicos de cada entidad y los proyectos de inversión pública que deberán ejecutar, con los planes de mediano y largo plazo, la política monetaria, los ingresos alcanzados y el financiamiento disponible […]».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo III: Relación con los Sistemas Nacionales de Planificación e Inversión Pública. Art. 18 (página impresa 14; página PDF 16).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Ley N.º 1178] ¿Qué debe asegurar el Sistema de Contabilidad Integrada para la gestión estratégica, según el Artículo 12 inciso b)?
+A. Que registre solo las transacciones financieras del Tesoro, sin considerar costos ni resultados de las acciones.
+B. Que sustituya a la auditoría interna en la evaluación de la eficacia de los sistemas de control de la entidad.
+C. Que centralice en la Contraloría la información de costos de todas las entidades del Sector Público del país.
+D. Que identifique, cuando sea relevante, el costo de las acciones del Estado y mida los resultados obtenidos, por mandato legal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «b) La Contabilidad Integrada identifique, cuando sea relevante, el costo de las acciones del Estado y mida los resultados obtenidos».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo II: Sistemas de Administración y de Control. Art. 12, inciso b) (página impresa 10; página PDF 12).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Ley N.º 1178] Según el Artículo 23, ¿qué función de fortalecimiento de capacidades tiene la Contraloría?
+A. Conducir los programas de capacitación y especialización de servidores públicos en el manejo de los sistemas de la Ley.
+B. Financiar la formación universitaria de todos los servidores públicos con cargo a su presupuesto anual.
+C. Certificar la idoneidad profesional de los servidores como requisito previo para su designación en cargos, según la norma.
+D. Administrar el Sistema de Administración de Personal de todas las entidades públicas del Estado.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «En igual forma promoverá el establecimiento de los sistemas de contabilidad y control interno y conducirá los programas de capacitación y especialización de servidores públicos en el manejo de los sistemas de que trata esta Ley».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo IV: Atribuciones Institucionales. Art. 23 (página impresa 16; página PDF 18).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Ley N.º 1178] Para una gestión estratégica de los sistemas, ¿qué atribuciones básicas tienen los órganos rectores según el Artículo 20?
+A. Emitir normas básicas, fijar plazos de implantación, compatibilizar disposiciones específicas y vigilar los sistemas descentralizados.
+B. Ejecutar directamente las operaciones de las entidades, aprobar sus gastos y ejercer el control previo de sus contratos, conforme a norma.
+C. Dictaminar sobre responsabilidades, demandar en procesos coactivos fiscales y destituir a las autoridades negligentes.
+D. Elaborar los reglamentos específicos de cada entidad, administrar su personal y custodiar sus bienes patrimoniales.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «a) Emitir las normas y reglamentos básicos para cada sistema; b) Fijar los plazos y condiciones para elaborar las normas secundarias o especializadas y la implantación progresiva de los sistemas; c) Compatibilizar o evaluar, según corresponda, las disposiciones específicas […] d) Vigilar el funcionamiento adecuado de los sistemas específicos desconcentrados o descentralizados e integrar la información generada por los mismos».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo IV: Atribuciones Institucionales. Art. 20 (página impresa 15; página PDF 17).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Ley N.º 1178] Según el Artículo 46, ¿qué funciones ejercerá la Contraloría General de la República?
+A. Las de control previo externo de todas las operaciones de las entidades del Sector Público, según la norma.
+B. Las de órgano rector de todos los sistemas de administración, incluido el de Presupuesto, conforme a norma.
+C. Las de administración directa de los recursos de las entidades que no implanten los sistemas, en el marco de la Ley N.º 1178.
+D. Sólo las que corresponden a su naturaleza de Órgano Superior de Control Gubernamental Externo Posterior, según la norma.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La Contraloría General de la República sólo ejercerá las funciones que corresponden a su naturaleza de Órgano Superior de Control Gubernamental Externo Posterior conforme se establece en la presente Ley».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo VI: Del Funcionamiento de la Contraloría General de la República. Art. 46 (página impresa 32; página PDF 34).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Ley N.º 1178] Para prevenir el mal manejo de recursos, ¿qué objetivo estratégico fija el Artículo 1 inciso d)?
+A. Concentrar en la Contraloría el control previo de todas las operaciones, para impedir el manejo incorrecto de los recursos.
+B. Reducir el número de entidades del Estado, para disminuir las oportunidades de manejo incorrecto de los recursos públicos.
+C. Desarrollar la capacidad administrativa para impedir o identificar y comprobar el manejo incorrecto de los recursos del Estado.
+D. Sustituir los sistemas de administración por la jurisdicción coactiva fiscal, para sancionar todo manejo incorrecto de recursos.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «d) Desarrollar la capacidad administrativa para impedir o identificar y comprobar el manejo incorrecto de los recursos del Estado».
+Sustento: Ley N.º 1178 de Administración y Control Gubernamentales, de 20 de julio de 1990, Capítulo I: Finalidad y Ámbito de Aplicación. Art. 1, inciso d) (página impresa 4; página PDF 6).

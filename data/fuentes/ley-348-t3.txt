@@ -1,0 +1,1111 @@
+# Fuente: ley-348-t3.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia (9 de marzo de 2013)
+# Título III: Prevención, atención y protección (Arts. 17 al 41)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar el Título III (Arts. 17 al 41) de la Ley N.º 348 en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto de la Ley proporcionado, sin incorporar fuentes externas, y su fundamentación transcribe textualmente el fragmento que respalda la respuesta correcta.
+# Criterios documentales aplicados
+# Alcance de la fuente. El Título III, «Prevención, atención y protección», comprende el Capítulo I, Prevención de la violencia hacia las mujeres (Arts. 17 al 23: criterios de prevención, prevención comunitaria y medidas en los ámbitos educativo, de salud, laboral y de la comunicación); el Capítulo II, Atención a mujeres en situación de violencia (Arts. 24 al 31: servicios de atención integral, Casas de Acogida, promotoras comunitarias, Casas Comunitarias y rehabilitación de agresores); y el Capítulo III, Medidas de protección (Arts. 32 al 41: finalidad, medidas, alerta y atención en comunidades indígenas). En el PDF proporcionado ocupa las páginas 10 a 24.
+# Página impresa. El documento (versión de la Gaceta Oficial de Bolivia) numera sus páginas al pie desde la primera página del PDF, por lo que la página impresa coincide con la página PDF. Cada referencia consigna ambas.
+# Fundamentación textual. Cada fundamentación transcribe entre comillas el fragmento de la Ley que respalda la respuesta correcta. En las preguntas derivadas se añade una nota breve rotulada «Aplicación razonada», que distingue la inferencia del contenido textual.
+# Competencias directivas. El Título III contiene disposiciones directamente aplicables al ámbito educativo: las medidas que el Ministerio de Educación debe adoptar (Art. 19.I: centros de atención psicológica en las unidades educativas, traspaso inmediato de hijas e hijos de mujeres en situación de violencia, política contra el acoso sexual, protocolo único de denuncias, prohibición de textos sexistas) y, sobre todo, la sanción al «personal docente, administrativo o de apoyo profesional» que, habiendo detectado una situación de violencia, no la hubiera reportado (Art. 19.III). La Ley no menciona expresamente al director; por eso, las preguntas que aplican estas normas a la función directiva llevan la nota «Aplicación razonada».
+# Cobertura y no duplicación. Las preguntas cubren los 25 artículos del Título III, con énfasis en las medidas del ámbito educativo (Art. 19), las Casas de Acogida (Arts. 25 a 28), las medidas de protección (Art. 35) y la alerta contra la violencia (Arts. 37 a 40). Algunos artículos se evalúan en varias preguntas con enfoques distintos; no hay preguntas repetidas ni con la misma respuesta y el mismo enfoque.
+# Etiqueta de trazabilidad. Cada enunciado inicia con [Ley N.º 348 – TÍTULO III], para su integración en plataformas de simulación que combinan preguntas de varios documentos; el capítulo y el artículo exactos figuran en la referencia.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 27 preguntas y la más corta en 12, por lo que la longitud no es una pista.
+# 2. Distribución metodológica y ponderación
+# N.º
+# Tipo de evaluación
+# ¿Qué evalúa?
+# Preg.
+# Peso
+# N.º preg.
+# 1
+# Conocimiento y memorización
+# Dominio de conceptos, definiciones, principios, fechas, disposiciones y contenidos fundamentales del documento.
+# 10
+# 10%
+# 1–10
+# 2
+# Dominio conceptual
+# Comprensión de los fundamentos pedagógicos, administrativos, curriculares y organizativos del Sistema Educativo Plurinacional.
+# 10
+# 10%
+# 11–20
+# 3
+# Competencias y responsabilidades directivas
+# Conocimiento de las funciones, atribuciones, obligaciones y responsabilidades del director de una Unidad Educativa (en esta fuente: disposiciones aplicables a autoridades y servidores del ámbito educativo, con nota «Aplicación razonada»).
+# 10
+# 10%
+# 21–30
+# 4
+# Comprensión e interpretación
+# Capacidad para interpretar documentos, orientaciones pedagógicas y situaciones educativas.
+# 10
+# 10%
+# 31–40
+# 5
+# Diferenciación conceptual
+# Capacidad para distinguir conceptos, funciones, procedimientos, niveles de responsabilidad y enfoques educativos similares.
+# 10
+# 10%
+# 41–50
+# 6
+# Análisis crítico
+# Capacidad para identificar problemas institucionales, analizar sus causas, valorar alternativas y emitir criterios fundamentados.
+# 10
+# 10%
+# 51–60
+# 7
+# Aplicación normativa
+# Capacidad para aplicar correctamente la normativa en situaciones institucionales.
+# 10
+# 10%
+# 61–70
+# 8
+# Resolución de casos prácticos
+# Capacidad para resolver conflictos escolares, problemas administrativos, dificultades pedagógicas y situaciones con estudiantes, profesores y familias.
+# 10
+# 10%
+# 71–80
+# 9
+# Toma de decisiones
+# Capacidad para adoptar decisiones oportunas, pertinentes, fundamentadas y responsables ante situaciones institucionales.
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# Capacidad para planificar, organizar, dirigir, supervisar y evaluar acciones orientadas al mejoramiento de la calidad educativa.
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–10)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta [Ley N.º 348 – TÍTULO III]; el capítulo y el artículo exactos figuran en la referencia.
+# Cada fundamentación transcribe el fragmento textual de la Ley y remite al artículo, parágrafo e inciso, con página impresa y página PDF.
+# Contenido limitado exclusivamente a el Título III (Arts. 17 al 41) de la Ley N.º 348; no se atribuyen al director de Unidad Educativa competencias que la fuente no contiene.
+
+CAPÍTULO: ley-348-t3
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Ley N.º 348 – TÍTULO III] ¿Cuáles son los tres criterios de acción de la prevención según el Artículo 17.I?
+A. Prevención estructural, prevención individual y prevención colectiva.
+B. Prevención primaria, prevención secundaria y prevención terciaria, según la norma.
+C. Prevención familiar, prevención escolar y prevención comunitaria.
+D. Prevención policial, prevención judicial y prevención sanitaria.
+Respuesta correcta: A
+Explicación: «[…] bajo tres criterios de acción: 1. Prevención Estructural. […] 2. Prevención Individual. […] 3. Prevención Colectiva. […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 17, parágrafo I (página impresa 11; página PDF 11).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Ley N.º 348 – TÍTULO III] Según el Artículo 28, ¿cuál es el plazo máximo ordinario de permanencia de una mujer en una Casa de Acogida y Refugio Temporal?
+A. Seis meses, prorrogables por el Ente Rector.
+B. Tres meses, salvo casos excepcionales justificados.
+C. Un mes, sin posibilidad alguna de prórroga.
+D. Un año, renovable a solicitud de la mujer.
+Respuesta correcta: B
+Explicación: «Las mujeres que recurran a las Casas de Acogida y Refugio Temporal no podrán permanecer en ellas más de tres meses, a menos que por la gravedad de la violencia sufrida o debido a condiciones especiales que así lo justifiquen […] se requiera prolongar este tiempo».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 28 (página impresa 19; página PDF 19).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Ley N.º 348 – TÍTULO III] Según el Artículo 39, ¿cuánto tiempo puede prolongarse como máximo la alerta contra la violencia hacia las mujeres?
+A. No más de seis meses.
+B. No más de dos años.
+C. No más de noventa días.
+D. No más de un (1) año.
+Respuesta correcta: D
+Explicación: «La alerta contra la violencia hacia las mujeres subsistirá en tanto prevalezcan las causas que dieron lugar a su declaratoria, pero no podrá prolongarse por más de un (1) año».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 39 (página impresa 23; página PDF 23).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Ley N.º 348 – TÍTULO III] Según el Artículo 20.II, ¿en qué plazo deben los servicios de salud enviar al Ente Rector la copia del registro de casos de violencia para el SIPPASE?
+A. Dentro de los 10 días hábiles de la atención.
+B. Dentro de las 24 horas de concluida la atención.
+C. Dentro de las 48 horas de conocidos los hechos.
+D. Al cierre de cada mes, en un informe consolidado.
+Respuesta correcta: C
+Explicación: «[…] enviando una copia firmada del registro del caso al Ente Rector, para su inclusión al SIPPASE, dentro de las 48 horas de conocidos los hechos».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 20, parágrafo II (página impresa 15; página PDF 15).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Ley N.º 348 – TÍTULO III] Según el Artículo 37.I, ¿quién declara la alerta contra la violencia en un área o sector a nivel nacional?
+A. El Órgano Ejecutivo, a través del Ente Rector.
+B. La Asamblea Legislativa, mediante resolución.
+C. El Órgano Judicial, a través de sus tribunales.
+D. El Ministerio Público, a través de la Fiscalía.
+Respuesta correcta: A
+Explicación: «El Órgano Ejecutivo, a través del Ente Rector, declarará alerta contra la violencia en un área o sector determinado a nivel nacional, según sea el caso […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 37, parágrafo I (página impresa 22; página PDF 22).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+6. [Ley N.º 348 – TÍTULO III] ¿Qué Ministerio tiene, según el Artículo 19.I, la obligación de adoptar las medidas en el ámbito educativo?
+A. El Ministerio de Justicia.
+B. El Ministerio de Educación.
+C. El Ministerio de Culturas.
+D. El Ministerio de Gobierno.
+Respuesta correcta: B
+Explicación: «El Ministerio de Educación tiene la obligación y responsabilidad de adoptar las siguientes medidas […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 19, parágrafo I (página impresa 12; página PDF 12).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+7. [Ley N.º 348 – TÍTULO III] Según el Artículo 17.II, ¿en qué ámbitos debe priorizarse la prevención?
+A. Judicial, policial, penitenciario, militar, electoral y diplomático, según la normativa.
+B. Familiar, comunitario, educativo, de la salud, laboral y comunicacional.
+C. Familiar, financiero, deportivo, turístico, religioso y empresarial.
+D. Educativo, judicial, tributario, aduanero, minero y de transporte.
+Respuesta correcta: B
+Explicación: «Se deberá priorizar la prevención en los ámbitos familiar, comunitario, educativo, de la salud, laboral y comunicacional».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 17, parágrafo II (página impresa 11; página PDF 11).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+8. [Ley N.º 348 – TÍTULO III] Según el Artículo 25, ¿quiénes tienen la responsabilidad de crear, equipar, mantener y atender las Casas de Acogida y Refugio Temporal?
+A. El Ministerio de Justicia, con recursos del Tesoro General y sin participación de las autonomías.
+B. Las universidades públicas, mediante sus programas de extensión y servicios gratuitos a la sociedad.
+C. Las organizaciones sociales de mujeres, con financiamiento de la cooperación internacional y propio.
+D. Las Entidades Territoriales Autónomas, en el marco de sus competencias y sostenibilidad financiera.
+Respuesta correcta: D
+Explicación: «Las Entidades Territoriales Autónomas, en el marco de sus competencias y sostenibilidad financiera, tienen la responsabilidad de crear, equipar, mantener y atender Casas de Acogida y Refugio Temporal para mujeres en situación de violencia en el área urbana y rural […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 25 (página impresa 18; página PDF 18).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+9. [Ley N.º 348 – TÍTULO III] Según el Artículo 30, en el área rural, ¿qué entidad dota de infraestructura a las Casas Comunitarias de la Mujer?
+A. El Gobierno Autónomo Departamental.
+B. El Gobierno Autónomo Municipal.
+C. El Ministerio de Desarrollo Rural.
+D. La autoridad indígena de la comunidad.
+Respuesta correcta: B
+Explicación: «En el área rural, las mujeres organizadas podrán definir la creación de Casas Comunitarias de la Mujer, para lo cual el Gobierno Autónomo Municipal dotará de la infraestructura necesaria […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 30 (página impresa 20; página PDF 20).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+10. [Ley N.º 348 – TÍTULO III] Según el Artículo 41.II, ¿qué casos conocidos en comunidades indígenas deben derivarse a la jurisdicción ordinaria?
+A. Solo los casos de violencia económica y patrimonial de mayor cuantía.
+B. Solo los casos en los que la mujer no pertenezca a la comunidad local.
+C. Todos los casos de violencia sexual, feminicidio y delitos análogos.
+D. Todos los casos de violencia psicológica y simbólica sin excepción.
+Respuesta correcta: C
+Explicación: «Todos los casos de violencia sexual, feminicidio y delitos análogos serán derivados a la jurisdicción ordinaria, de conformidad a la Ley de Deslinde Jurisdiccional».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 41, parágrafo II (página impresa 24; página PDF 24).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+11. [Ley N.º 348 – TÍTULO III] ¿Qué comprende la prevención estructural según el Artículo 17.I.1?
+A. Medidas para fortalecer a cada mujer en la identificación asertiva de toda posible agresión, con el propósito de adelantarse a su concreción, según la ley vigente.
+B. Medidas integrales para modificar actitudes y prácticas que generan violencia, mediante sensibilización y educación en familia, escuela y otros ámbitos.
+C. Medidas para proteger a las mujeres a través de sus organizaciones, sindicatos, juntas vecinales, gremios y comunidades de pertenencia.
+D. Medidas de protección inmediata que impone la autoridad competente para salvaguardar la vida e integridad de las mujeres en violencia.
+Respuesta correcta: B
+Explicación: «Prevención Estructural. Comprende todas aquellas medidas de carácter integral destinadas a modificar las actitudes, prácticas, reacciones, acciones y omisiones que tienen como efecto y consecuencia la violencia contra las mujeres […] a través de la sensibilización y educación en el seno de la familia, en la escuela y otros niveles académicos […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 17, parágrafo I, numeral 1 (página impresa 11; página PDF 11).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+12. [Ley N.º 348 – TÍTULO III] ¿A qué se refiere la prevención individual del Artículo 17.I.2?
+A. A fortalecer y empoderar a cada mujer para identificar toda posible violencia y enfrentarla de manera asertiva, adelantándose a su concreción.
+B. A modificar las actitudes y prácticas violentas en la familia, la escuela, el trabajo y las organizaciones sociales y políticas del país, según lo establecido.
+C. A proteger a las mujeres mediante las organizaciones e instituciones a las que pertenecen por afinidad, como gremios y comunidades.
+D. A sancionar individualmente al agresor con privación de libertad, para evitar que la violencia se repita en el futuro inmediato.
+Respuesta correcta: A
+Explicación: «Prevención Individual. Se refiere a las medidas destinadas a fortalecer y empoderar a cada mujer y promover sus habilidades de identificar toda posible manifestación de violencia o agresión hacia ella y enfrentarla de manera asertiva, con el propósito de adelantarse a su expresión o concreción y evitar que se produzca o continúe».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 17, parágrafo I, numeral 2 (página impresa 11; página PDF 11).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+13. [Ley N.º 348 – TÍTULO III] ¿Qué son las medidas de prevención colectiva según el Artículo 17.I.3?
+A. Medidas para prevenir la violencia y proteger a las mujeres a través de las organizaciones o colectividades a las que pertenecen por afinidad.
+B. Medidas para empoderar individualmente a cada mujer, de modo que identifique y enfrente asertivamente toda manifestación de violencia.
+C. Medidas integrales de sensibilización en la familia y la escuela, destinadas a modificar las actitudes que generan violencia en el país, en el marco legal.
+D. Medidas de alerta declaradas por el Ente Rector en un área o sector con índice alarmante de casos de violencia hacia las mujeres.
+Respuesta correcta: A
+Explicación: «Prevención Colectiva. Son medidas destinadas a prevenir la violencia y proteger a las mujeres a través de sus organizaciones, instituciones o cualquier colectividad a la que pertenezcan por afinidad (sindicatos, juntas vecinales, gremios, comunidades, naciones, pueblos indígena originario campesinos, interculturales y afrobolivianas)».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 17, parágrafo I, numeral 3 (página impresa 11; página PDF 11).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+14. [Ley N.º 348 – TÍTULO III] Según el Artículo 32.I, ¿cuál es el objeto de las medidas de protección?
+A. Reconciliar a la mujer con el agresor, para preservar la unidad familiar y evitar la apertura de un proceso penal, por mandato legal.
+B. Interrumpir e impedir un hecho de violencia o, si se consumó, garantizar su investigación, procesamiento y sanción.
+C. Reemplazar la sanción penal del agresor, mediante restricciones de carácter administrativo y de duración limitada.
+D. Registrar el hecho en el SIPPASE, sin intervenir en su interrupción ni en la investigación penal correspondiente.
+Respuesta correcta: B
+Explicación: «Las medidas de protección tienen por objeto interrumpir e impedir un hecho de violencia contra las mujeres, o garantizar, en caso de que éste se haya consumado, que se realice la investigación, procesamiento y sanción correspondiente».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 32, parágrafo I (página impresa 20; página PDF 20).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+15. [Ley N.º 348 – TÍTULO III] ¿Qué características atribuye el Artículo 32.II a las medidas de protección?
+A. Son de aplicación diferida hasta la sentencia, impuestas por la autoridad administrativa para preservar el patrimonio común de la pareja.
+B. Son de aplicación voluntaria para el agresor, acordadas entre las partes para salvaguardar la convivencia familiar y la paz social.
+C. Son de aplicación inmediata, impuestas por la autoridad competente para salvaguardar la vida, la integridad y los derechos de las mujeres y sus dependientes.
+D. Son de aplicación exclusiva en el área urbana, impuestas por la Policía para salvaguardar el orden público y la seguridad ciudadana.
+Respuesta correcta: C
+Explicación: «Las medidas de protección son de aplicación inmediata, que impone la autoridad competente para salvaguardar la vida, la integridad física, psicológica, sexual, derechos patrimoniales, económicos y laborales de las mujeres en situación de violencia y los de sus dependientes».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 32, parágrafo II (página impresa 20; página PDF 20).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+16. [Ley N.º 348 – TÍTULO III] Según el Artículo 24.II, ¿qué características debe tener la atención de los programas y servicios de atención organizados en cada municipio?
+A. Optativa, temporal, general y unidisciplinaria.
+B. Prioritaria, permanente, especializada y multidisciplinaria.
+C. Gratuita, ocasional, voluntaria y confesional.
+D. Reservada, eventual, jurídica y centralizada.
+Respuesta correcta: B
+Explicación: «La atención que presten dichos servicios deberá ser prioritaria, permanente, especializada y multidisciplinaria».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 24, parágrafo II (página impresa 17; página PDF 17).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+17. [Ley N.º 348 – TÍTULO III] Según el Artículo 31.I, ¿qué relación existe entre la terapia de rehabilitación del agresor y la sanción por los hechos de violencia?
+A. La terapia sustituye la sanción si el agresor la concluye satisfactoriamente.
+B. La terapia reduce la sanción a la mitad si el agresor la cumple de forma íntegra.
+C. La terapia no sustituye la sanción impuesta por los hechos de violencia.
+D. La terapia suspende la sanción mientras el agresor permanece en el programa.
+Respuesta correcta: C
+Explicación: «La rehabilitación de los agresores, por orden de la autoridad jurisdiccional competente, será dispuesta por orden expresa, con el objetivo de promover cambios en su conducta agresiva. La terapia no sustituirá la sanción impuesta por los hechos de violencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 31, parágrafo I (página impresa 20; página PDF 20).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+18. [Ley N.º 348 – TÍTULO III] ¿Qué principio deben aplicar, según el Artículo 33, los procedimientos judiciales o administrativos de protección para evitar la revictimización?
+A. El principio de celeridad procesal, sin responsabilidad alguna para el servidor que lo inobserve.
+B. El principio de conciliación entre las partes, con responsabilidad solo en procesos de tipo penal.
+C. El principio de trato digno contenido en la Ley, bajo responsabilidad en casos de inobservancia.
+D. El principio de publicidad de las actuaciones, para garantizar el control social de los procesos.
+Respuesta correcta: C
+Explicación: «Los procedimientos judiciales o administrativos de protección a mujeres en situación de violencia deberán aplicar el principio de trato digno contenido en la presente Ley, bajo responsabilidad en casos de inobservancia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 33 (página impresa 20; página PDF 20).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+19. [Ley N.º 348 – TÍTULO III] Según el Artículo 20.I, ¿cómo debe abordarse la violencia contra las mujeres en el ámbito de la salud?
+A. Como un problema de salud pública, garantizando el acceso a los servicios de salud, su tratamiento y protección.
+B. Como un asunto privado de la familia, en el que los servicios de salud intervienen solo con autorización judicial.
+C. Como un problema de seguridad ciudadana, cuya atención corresponde exclusivamente a la Policía Boliviana.
+D. Como un problema de salud mental individual, atendido solo en servicios psiquiátricos especializados del país.
+Respuesta correcta: A
+Explicación: «El Ministerio de Salud y Deportes, tiene la responsabilidad de adoptar las siguientes medidas, dirigidas a garantizar a las mujeres en situación de riesgo o de violencia, el acceso a los servicios de salud, su tratamiento y protección, como un problema de salud pública […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 20, parágrafo I (página impresa 13; página PDF 13).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+20. [Ley N.º 348 – TÍTULO III] Según el Artículo 22, ¿a qué debe dirigirse la estrategia nacional de comunicación del Ministerio de Comunicación?
+A. A difundir los nombres de los agresores sentenciados y las sanciones impuestas en cada departamento del país.
+B. A promocionar los servicios privados de atención a mujeres, financiados con los recursos de la publicidad estatal, en el marco legal.
+C. A informar y sensibilizar sobre causas, formas y consecuencias de la violencia y a desestructurar estereotipos patriarcales.
+D. A regular el contenido de los medios privados mediante un régimen de autorización previa de sus programaciones.
+Respuesta correcta: C
+Explicación: «Diseño e implementación de una estrategia nacional de comunicación, que incluya campañas en medios masivos, dirigida a informar y sensibilizar sobre las causas, formas y consecuencias de la violencia contra las mujeres, así como a desestructurar estereotipos patriarcales de subordinación y desvalorización de las mujeres […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 22 (páginas impresas 16-17; páginas PDF 16-17).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+21. [Ley N.º 348 – TÍTULO III] Un director detecta indicios de violencia contra una estudiante y decide no reportarlo «para no involucrar a la unidad educativa». Según el Artículo 19.III, ¿qué consecuencia prevé la Ley?
+A. Ninguna, porque el deber de reportar alcanza solo a los servicios de salud y no al personal de las unidades educativas, según la norma.
+B. Ninguna, siempre que el director haya comunicado el hecho a la familia de la estudiante en un plazo razonable.
+C. Será pasible a las sanciones legales que correspondan, como personal que detectó una situación de violencia y no la reportó.
+D. Una amonestación verbal de la junta escolar, pues la Ley remite la sanción al reglamento interno de la unidad.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El personal docente, administrativo o de apoyo profesional que, habiendo detectado una situación de violencia no la hubiera reportado, será pasible a las sanciones legales que correspondan». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como integrante del personal docente o administrativo del sistema educativo, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 19, parágrafo III (página impresa 13; página PDF 13).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+22. [Ley N.º 348 – TÍTULO III] Según el Artículo 19.III, ¿qué personal de las unidades educativas está obligado a reportar la situación de violencia detectada?
+A. El personal docente, administrativo o de apoyo profesional.
+B. Solo el personal directivo y los regentes de la unidad, según la norma.
+C. Solo el personal de apoyo profesional como psicólogos.
+D. Solo los docentes de aula que estén a cargo del curso.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El personal docente, administrativo o de apoyo profesional que, habiendo detectado una situación de violencia no la hubiera reportado, será pasible a las sanciones legales que correspondan». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como integrante del personal docente o administrativo del sistema educativo, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 19, parágrafo III (página impresa 13; página PDF 13).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+23. [Ley N.º 348 – TÍTULO III] Una madre en situación de violencia cambia de domicilio y solicita el traspaso de sus hijos a otra unidad educativa. ¿Qué medida del Artículo 19.I debe orientar la actuación de las direcciones?
+A. Condicionar el traspaso a la conclusión del trimestre en curso y al pago de las deudas pendientes.
+B. Exigir una orden judicial previa que acredite la situación de violencia antes de aceptar el traspaso.
+C. Garantizar el traspaso inmediato de las hijas e hijos a las unidades educativas que correspondan.
+D. Diferir el traspaso a la siguiente gestión, para no afectar la continuidad del año escolar en curso.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Garantizar el traspaso inmediato a las unidades educativas que correspondan, de las hijas e hijos de mujeres en situación de violencia, si se produce un cambio de domicilio». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como integrante del personal docente o administrativo del sistema educativo, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 19, parágrafo I, numeral 4 (página impresa 12; página PDF 12).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+24. [Ley N.º 348 – TÍTULO III] Según el Artículo 19.I.3, ¿qué servicio debe crearse en las unidades educativas para estudiantes que viven en familias en situación de violencia?
+A. Un centro de atención psicológica con especialidad obligatoria en violencia, en convenio con universidades.
+B. Un consultorio jurídico gratuito, a cargo de abogados designados por la Dirección Distrital de Educación, conforme a la Ley.
+C. Una oficina policial permanente, a cargo de la Fuerza Especial de Lucha Contra la Violencia del lugar.
+D. Un comité de padres de familia, encargado de mediar los conflictos familiares de los estudiantes.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Crear en las unidades educativas un centro de atención psicológica, con especialidad obligatoria en violencia, en convenio con universidades públicas o privadas para la atención psicológica de las y los estudiantes que viven en familias en situación de violencia». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como integrante del personal docente o administrativo del sistema educativo, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 19, parágrafo I, numeral 3 (página impresa 12; página PDF 12).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+25. [Ley N.º 348 – TÍTULO III] Un director revisa los textos de estudio de su unidad y encuentra materiales con contenidos sexistas y mensajes discriminatorios hacia las mujeres. ¿Qué dispone el Artículo 19.I.7?
+A. Mantener esos materiales si fueron adquiridos con recursos de las familias en gestiones anteriores, según la normativa.
+B. Prohibir esos materiales como textos de estudio y promover material con enfoque de equidad de género.
+C. Permitir esos materiales con una advertencia, pues su uso queda a criterio de cada docente de aula.
+D. Retirar esos materiales solo si una organización social presenta una denuncia formal y documentada.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Prohibir como textos de estudio, materiales educativos con contenidos sexistas, mensajes violentos y discriminatorios hacia las mujeres, y promover la elaboración y difusión de material educativo con enfoque de equidad de género, en particular de igualdad de derechos entre mujeres y hombres». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como integrante del personal docente o administrativo del sistema educativo, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 19, parágrafo I, numeral 7 (página impresa 12; página PDF 12).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+26. [Ley N.º 348 – TÍTULO III] Según el Artículo 19.I.6, ¿qué instrumentos deben elaborarse para el tratamiento de denuncias de violencia escolar y acoso sexual?
+A. Reglamentos y un protocolo único, con mecanismos de protección y atención especializada a niñas, niños y adolescentes víctimas.
+B. Un manual de convivencia distinto en cada unidad, sin mecanismos de protección para niñas, niños y adolescentes víctimas, conforme a la Ley.
+C. Un formulario de conciliación entre las familias, como mecanismo previo a la denuncia ante las autoridades competentes.
+D. Un registro público de estudiantes agresores, como mecanismo de prevención y escarmiento ante la comunidad educativa.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Elaborar reglamentos y un protocolo único para el tratamiento de denuncias de todas las formas de violencia escolar y acoso sexual, mecanismos de protección y atención especializada a niñas, niños y adolescentes víctimas». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como integrante del personal docente o administrativo del sistema educativo, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 19, parágrafo I, numeral 6 (página impresa 12; página PDF 12).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+27. [Ley N.º 348 – TÍTULO III] Según el Artículo 19.I.5, ¿qué política debe formularse y ejecutarse en el sistema educativo?
+A. Una política de admisión de estudiantes.
+B. Una política de evaluación del desempeño.
+C. Una política de prevención del acoso sexual.
+D. Una política de becas por rendimiento.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Formular y ejecutar una política de prevención del acoso sexual en el sistema educativo». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como integrante del personal docente o administrativo del sistema educativo, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 19, parágrafo I, numeral 5 (página impresa 12; página PDF 12).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+28. [Ley N.º 348 – TÍTULO III] Según el Artículo 19.I.2, ¿qué contenidos deben incorporarse en la currícula educativa en todos los niveles?
+A. Procedimiento penal especializado, tipos penales de la Ley y técnicas de investigación de los delitos de violencia familiar, según la ley vigente.
+B. Enfoque de género, principios y valores de la Ley, respeto a los derechos humanos y formación en resolución pacífica de conflictos.
+C. Educación física diferenciada por sexo, economía doméstica para las mujeres y formación técnica para los varones del curso.
+D. Normas de urbanidad, disciplina militar y obediencia a la autoridad familiar como base de la convivencia en el hogar.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Incorporar el enfoque de género, los principios y valores establecidos en esta Ley, el respeto pleno a los derechos humanos y la formación en resolución pacífica de conflictos en la currícula educativa en todos los niveles, incluidas las escuelas superiores de formación docente y universidades […]». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como integrante del personal docente o administrativo del sistema educativo, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 19, parágrafo I, numeral 2 (página impresa 12; página PDF 12).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+29. [Ley N.º 348 – TÍTULO III] Según el Artículo 19.II, ¿con quién debe coordinar el Ministerio de Educación sus políticas de prevención, protección y tratamiento de la violencia en el sistema educativo?
+A. Con el Órgano Judicial.
+B. Con la Policía Boliviana.
+C. Con el Ente Rector.
+D. Con las juntas escolares.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las políticas que adopte el Ministerio de Educación en materia de prevención, protección y tratamiento de la violencia en el sistema educativo, serán coordinadas con el Ente Rector».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 19, parágrafo II (página impresa 13; página PDF 13).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+30. [Ley N.º 348 – TÍTULO III] Una docente víctima de violencia presenta a la dirección la resolución de una medida de protección y solicita flexibilidad de horario. ¿Qué disposición del Título III respalda su pedido?
+A. La prohibición de exigir pruebas de embarazo o de VIH para acceder a un puesto de trabajo en el sector público o en el sector privado, por mandato legal.
+B. La regulación del despido injustificado de las mujeres por su estado civil, embarazo, edad o número de hijas e hijos en el trabajo.
+C. La política de atención médica y psicológica gratuita en el régimen de seguridad social para mujeres agredidas en el ámbito laboral.
+D. La adopción de un sistema de flexibilidad y tolerancia en los centros de trabajo, a sola presentación de la resolución de la medida de protección.
+Respuesta correcta: D
+Explicación: Aplicación razonada: Art. 21.I.8: «Adopción de un sistema de flexibilidad y tolerancia en los centros de trabajo para mujeres que se encuentren en situación de violencia, garantizando sus derechos laborales, a sola presentación de la resolución de alguna medida de protección, en el marco del Artículo 35 de la presente Ley». Art. 35.12: «Disponer la tolerancia o reducción del horario de trabajo […]». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como integrante del personal docente o administrativo del sistema educativo, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 21, parágrafo I, numeral 8 (página impresa 16; página PDF 16).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+31. [Ley N.º 348 – TÍTULO III] ¿Qué limita el Artículo 18 respecto a las normas y procedimientos propios de las naciones y pueblos indígenas?
+A. Que las normas propias prevalecen sobre la Constitución en las comunidades donde las autoridades indígenas ejercen sus funciones, según la Ley 348.
+B. Que ninguna norma o procedimiento propio podrá vulnerar los derechos reconocidos en la Constitución y el bloque de constitucionalidad.
+C. Que las normas propias solo pueden aplicarse con aprobación previa del Ente Rector y de la Asamblea Legislativa Plurinacional.
+D. Que las comunidades indígenas quedan excluidas de las medidas de prevención y deben aplicar solo la jurisdicción ordinaria.
+Respuesta correcta: B
+Explicación: «Ninguna norma o procedimiento propio de las naciones y pueblos indígena originario campesinas podrá vulnerar los derechos reconocidos en la Constitución Política del Estado y el bloque de constitucionalidad».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 18 (páginas impresas 11-12; páginas PDF 11-12).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+32. [Ley N.º 348 – TÍTULO III] ¿Qué se desprende del Artículo 31.II sobre la forma de prestar la terapia de rehabilitación al agresor?
+A. Que la terapia se presta siempre en sesiones conjuntas con la mujer, según la norma.
+B. Que en ningún caso la terapia se prestará junto a la mujer agredida.
+C. Que la terapia conjunta procede si la mujer la acepta por escrito.
+D. Que la terapia se presta solo en el domicilio común de la pareja.
+Respuesta correcta: B
+Explicación: «[…] En ningún caso, la terapia se prestará junto a la mujer agredida».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 31, parágrafo II (página impresa 20; página PDF 20).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+33. [Ley N.º 348 – TÍTULO III] Según el Artículo 27, ¿qué implica que las Casas de Acogida sean un «refugio seguro»?
+A. Que su localización debe publicarse en medios masivos, para que todas las mujeres puedan acudir a ellas sin dificultad, según lo establecido.
+B. Que su localización puede revelarse a los familiares del agresor, para facilitar la reconciliación de la pareja.
+C. Que su localización no puede revelarse, salvo a personas autorizadas, y se garantiza el anonimato y privacidad de las acogidas.
+D. Que su localización se comunica al agresor por orden judicial, para garantizar su derecho a la defensa en el proceso.
+Respuesta correcta: C
+Explicación: «Las Casas de Acogida y Refugio Temporal se constituyen en refugio seguro para las mujeres en situación de violencia, por tanto su localización no podrá ser revelada, salvo a personas autorizadas para acudir a ellos. Se garantizará el anonimato y privacidad de las mujeres acogidas».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 27 (página impresa 19; página PDF 19).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+34. [Ley N.º 348 – TÍTULO III] Según el Artículo 28, ¿en qué condiciones puede prolongarse la permanencia de una mujer en una Casa de Acogida más allá del plazo ordinario?
+A. Por simple solicitud verbal de la mujer, sin evaluación alguna del personal interdisciplinario asignado a la Casa, en el marco legal.
+B. Por gravedad de la violencia o condiciones especiales, previa evaluación conjunta del personal médico, psicológico y jurídico.
+C. Por decisión unilateral del agresor, que debe consentir la prolongación como requisito previo de la medida.
+D. Por orden de la junta vecinal, previa consulta a los vecinos del barrio donde se encuentra ubicada la Casa.
+Respuesta correcta: B
+Explicación: «[…] En este caso excepcional, previa evaluación conjunta del personal interdisciplinario conformado al menos por el personal médico, psicológico y jurídico asignado por los servicios de atención a la Casa de Acogida, podrá determinarse la permanencia de la mujer hasta su completo restablecimiento».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 28 (página impresa 19; página PDF 19).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+35. [Ley N.º 348 – TÍTULO III] Según el Artículo 23.3, ¿cómo deben los medios de comunicación difundir la información sobre violencia contra las mujeres?
+A. De forma detallada y gráfica, para que la población conozca la gravedad de los hechos y se sensibilice sobre ellos.
+B. De forma anónima solo para la víctima, pero difundiendo imágenes del hecho para promover la denuncia ciudadana.
+C. De forma libre y sin restricciones, pues toda limitación a la difusión vulnera la libertad de expresión de los medios, según la Ley 348.
+D. De forma objetiva, precautelando su autonomía, dignidad y privacidad, y restringiendo toda exposición gráfica humillante.
+Respuesta correcta: D
+Explicación: «Difundir informaciones relativas a la violencia contra las mujeres de forma objetiva, precautelando la defensa de su autonomía, libertad, dignidad, privacidad y derechos, de sus hijas e hijos, restringiendo toda exposición gráfica que constituya humillación, exposición pública y/o degradante».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 23, numeral 3 (página impresa 17; página PDF 17).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+36. [Ley N.º 348 – TÍTULO III] Según el Artículo 24.III, ¿a quiénes debe hacerse extensivo todo servicio de atención?
+A. Solo a la mujer en situación de violencia, sin incluir a sus hijas e hijos menores, según la normativa.
+B. Al agresor y a su familia, para garantizar una atención integral de todo el núcleo.
+C. A las hijas e hijos de la mujer y a otras personas dependientes en condiciones de riesgo.
+D. A cualquier vecino del barrio que lo solicite, sin relación con la mujer atendida.
+Respuesta correcta: C
+Explicación: «Todo servicio de atención deberá ser extensivo a las hijas e hijos de la mujer en situación de violencia y a otras personas dependientes en condiciones de riesgo».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 24, parágrafo III (página impresa 17; página PDF 17).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+37. [Ley N.º 348 – TÍTULO III] ¿Qué implica que la medida del Artículo 35.1 se dicte «independientemente de la acreditación de propiedad o posesión del inmueble»?
+A. Que la salida del agresor solo procede si la mujer acredita ser la propietaria registrada del inmueble.
+B. Que la salida del agresor requiere un proceso civil previo que defina la titularidad del inmueble común, según lo dispuesto.
+C. Que la salida del agresor del domicilio puede ordenarse aunque él sea propietario o poseedor del inmueble.
+D. Que la salida del agresor procede solo si el inmueble es alquilado y no pertenece a ninguno de los dos.
+Respuesta correcta: C
+Explicación: «Ordenar la salida, desocupación, restricción al agresor del domicilio conyugal o donde habite la mujer en situación de violencia, independientemente de la acreditación de propiedad o posesión del inmueble […]». Aplicación razonada: la titularidad del inmueble no condiciona la medida.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 35, numeral 1 (página impresa 21; página PDF 21).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+38. [Ley N.º 348 – TÍTULO III] Según el Artículo 37.II, ¿cuándo se emite la declaratoria de alerta contra la violencia hacia las mujeres?
+A. Cuando se registra un solo caso de feminicidio en un municipio, sin necesidad de evaluar el índice de casos en el territorio.
+B. Cuando lo solicita la mayoría de las juntas vecinales de un municipio, sin requisito relativo al número de casos registrados.
+C. Cuando el Órgano Judicial no resuelve los procesos en el plazo legal, sin relación con el índice de delitos contra las mujeres.
+D. Cuando hay un alto índice de delitos contra las mujeres en un territorio o un ámbito especial que impide el ejercicio pleno de sus derechos.
+Respuesta correcta: D
+Explicación: «La declaratoria de alerta contra la violencia hacia las mujeres, se emitirá cuando: 1. Se registre un alto índice de delitos contra la vida, la libertad y la integridad física, psicológica o sexual de las mujeres en un territorio determinado. 2. Se detecte un ámbito especial en el que se reporten casos de violencia contra las mujeres y que como consecuencia impida el ejercicio pleno de sus derechos humanos».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 37, parágrafo II (página impresa 23; página PDF 23).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+39. [Ley N.º 348 – TÍTULO III] Según el Artículo 36, ¿qué ocurre con las hijas e hijos menores que quedan huérfanos a consecuencia de un feminicidio cometido por el cónyuge o conviviente?
+A. Quedan de inmediato bajo custodia de la familia paterna, por ser la línea del progenitor sobreviviente y titular de la patria potestad, conforme a norma.
+B. Quedan de inmediato bajo custodia de los abuelos u otro familiar cercano por línea materna, con acompañamiento de la Defensoría de la Niñez.
+C. Quedan bajo custodia de una Casa de Acogida por un plazo de tres meses, hasta que el agresor sea juzgado por el tribunal competente.
+D. Quedan bajo custodia del Ministerio de Justicia, sin intervención de la familia materna ni de la Defensoría de la Niñez y Adolescencia.
+Respuesta correcta: B
+Explicación: «Si a consecuencia de un delito de feminicidio cometido por el cónyuge o conviviente, quedaran hijas e hijos menores de edad huérfanos, éstos serán puestos de inmediato bajo custodia de los abuelos u otro familiar cercano por línea materna, con el acompañamiento de la Defensoría de la Niñez y Adolescencia en tanto se establezca la guarda legal […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 36 (página impresa 22; página PDF 22).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+40. [Ley N.º 348 – TÍTULO III] ¿Qué obligación impone el Artículo 34 a la jueza o juez que, durante un proceso, toma conocimiento de actos de violencia contra una mujer?
+A. Archivar los antecedentes, pues el juez solo puede pronunciarse sobre el objeto del proceso en trámite.
+B. Convocar a una audiencia de conciliación entre las partes, antes de remitir cualquier antecedente penal, conforme a norma.
+C. Remitir, bajo responsabilidad, los antecedentes al Ministerio Público para su tramitación por la vía penal.
+D. Comunicar el hecho a la junta vecinal, para que esta decida si corresponde presentar una denuncia.
+Respuesta correcta: C
+Explicación: «Si durante la tramitación de un proceso la jueza o el juez tuviera conocimiento de actos de violencia en contra de una mujer, tiene obligación, bajo responsabilidad, de remitir los antecedentes del hecho al Ministerio Público para su tramitación por la vía penal […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 34 (páginas impresas 20-21; páginas PDF 20-21).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+41. [Ley N.º 348 – TÍTULO III] ¿Qué distingue a la prevención estructural de la prevención individual (Art. 17.I)?
+A. La estructural fortalece a cada mujer para identificar y enfrentar la violencia; la individual busca modificar actitudes y prácticas en la sociedad, conforme a la Ley.
+B. La estructural protege a las mujeres a través de sus organizaciones de afinidad; la individual sanciona penalmente a cada agresor identificado.
+C. La estructural corresponde al Órgano Judicial; la individual corresponde a las organizaciones sociales y a las autoridades indígenas del lugar.
+D. La estructural busca modificar actitudes y prácticas violentas en la sociedad; la individual fortalece a cada mujer para identificar y enfrentar la violencia.
+Respuesta correcta: D
+Explicación: «1. Prevención Estructural. Comprende todas aquellas medidas de carácter integral destinadas a modificar las actitudes, prácticas, reacciones, acciones y omisiones […]. 2. Prevención Individual. Se refiere a las medidas destinadas a fortalecer y empoderar a cada mujer […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 17, parágrafo I, numerales 1 y 2 (página impresa 11; página PDF 11).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+42. [Ley N.º 348 – TÍTULO III] ¿Qué diferencia existe entre las Casas de Acogida y Refugio Temporal (Art. 25) y las Casas Comunitarias de la Mujer (Art. 30)?
+A. Las de Acogida las crean las autonomías en área urbana y rural; las Comunitarias las definen las mujeres organizadas del área rural, con infraestructura municipal.
+B. Las Comunitarias las crean las autonomías en área urbana y rural; las de Acogida las definen las mujeres organizadas del área rural con apoyo municipal, según lo establecido.
+C. Las de Acogida son servicios privados con fines de lucro; las Comunitarias son servicios judiciales que dictan medidas de protección inmediata.
+D. Ambas son creadas por el Ministerio de Justicia, con idéntica estructura y financiamiento del Tesoro General en todo el territorio nacional.
+Respuesta correcta: A
+Explicación: Art. 25: «Las Entidades Territoriales Autónomas […] tienen la responsabilidad de crear, equipar, mantener y atender Casas de Acogida y Refugio Temporal para mujeres en situación de violencia en el área urbana y rural […]». Art. 30: «En el área rural, las mujeres organizadas podrán definir la creación de Casas Comunitarias de la Mujer, para lo cual el Gobierno Autónomo Municipal dotará de la infraestructura necesaria […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 25 (página impresa 18; página PDF 18) y Art. 30 (página impresa 20; página PDF 20).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+43. [Ley N.º 348 – TÍTULO III] ¿Qué distingue la declaratoria de alerta del nivel central (Art. 37.I) de la de las Entidades Territoriales Autónomas (Art. 37.III)?
+A. La del nivel central la declara el Órgano Ejecutivo a través del Ente Rector en un área o sector nacional; las autonomías pueden declararla en toda o parte de su jurisdicción.
+B. La del nivel central la declaran las autonomías en toda o parte de su jurisdicción; las autonomías solo pueden solicitarla al Ente Rector sin declararla.
+C. La del nivel central dura un año como máximo; la de las autonomías es indefinida y subsiste aunque desaparezcan las causas de su declaratoria.
+D. La del nivel central la declara el Órgano Judicial; la de las autonomías la declara la Asamblea Legislativa a solicitud de las organizaciones.
+Respuesta correcta: A
+Explicación: Art. 37.I: «El Órgano Ejecutivo, a través del Ente Rector, declarará alerta contra la violencia en un área o sector determinado a nivel nacional […]». Art. 37.III: «Las Entidades Territoriales Autónomas, también podrán declarar alerta de violencia en toda o en parte de sus respectivas jurisdicciones».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 37, parágrafos I y III (páginas impresas 22-23; páginas PDF 22-23).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+44. [Ley N.º 348 – TÍTULO III] ¿Qué diferencia existe entre los servicios del Artículo 26.I y los del Artículo 26.II de las Casas de Acogida?
+A. El 26.I enumera hospedaje, alimentación y capacitación laboral; el 26.II, servicios como acoger, empoderar, coordinar la atención médica e informar.
+B. El 26.I enumera servicios pagados por la mujer; el 26.II, servicios gratuitos financiados por el agresor mediante la asistencia familiar fijada.
+C. El 26.I enumera servicios para el agresor; el 26.II, servicios para la mujer y sus hijas e hijos, con carácter gratuito y especializado.
+D. El 26.I enumera servicios como acoger, empoderar, coordinar atención médica e informar; el 26.II, servicios especializados como hospedaje, alimentación y capacitación laboral.
+Respuesta correcta: D
+Explicación: «I. […] 1. Acoger, proteger y atender de forma gratuita […] 2. Estimular y promover el empoderamiento […] 3. Coordinar […] la atención médica […] 6. Dar información […]. II. […] los siguientes servicios especializados y gratuitos: 1. Hospedaje y alimentación. 2. Programas reeducativos integrales […] 3. Capacitación en el desarrollo de habilidades […] 4. Acceso prioritario al sistema de colocación de empleo […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 26, parágrafos I y II (páginas impresas 18-19; páginas PDF 18-19).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+45. [Ley N.º 348 – TÍTULO III] ¿Qué distingue a las Casas de Acogida (Art. 25) de los servicios de rehabilitación de agresores (Art. 31)?
+A. Las Casas buscan cambios en la conducta agresiva por orden jurisdiccional; los servicios de rehabilitación acogen y protegen a las mujeres.
+B. Las Casas atienden conjuntamente a la mujer y al agresor; los servicios de rehabilitación atienden solo a hijas e hijos en situación de riesgo.
+C. Las Casas acogen y protegen a mujeres en situación de violencia; los servicios de rehabilitación buscan cambios en la conducta agresiva por orden jurisdiccional.
+D. Las Casas son de creación voluntaria de las organizaciones; los servicios de rehabilitación son obligatorios en cada unidad educativa.
+Respuesta correcta: C
+Explicación: Art. 25: «[…] Casas de Acogida y Refugio Temporal para mujeres en situación de violencia […]». Art. 31.I: «La rehabilitación de los agresores, por orden de la autoridad jurisdiccional competente, será dispuesta por orden expresa, con el objetivo de promover cambios en su conducta agresiva […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 25 (página impresa 18; página PDF 18) y Art. 31 (página impresa 20; página PDF 20).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+46. [Ley N.º 348 – TÍTULO III] ¿Qué diferencia existe entre la medida del Artículo 35.4 y la del Artículo 35.6?
+A. La 35.4 prohíbe al agresor comunicarse o molestar a la mujer por cualquier medio; la 35.6 le prohíbe acercarse o ingresar a los espacios que ella frecuenta, según la norma.
+B. La 35.4 suspende el régimen de visitas del agresor con sus hijos; la 35.6 dispone la asistencia familiar a favor de las hijas, hijos y de la mujer.
+C. La 35.4 prohíbe al agresor acercarse o ingresar a los espacios que frecuenta la mujer; la 35.6 le prohíbe comunicarse, intimidarla o molestarla por cualquier medio.
+D. La 35.4 ordena el inventario de los bienes comunes de la pareja; la 35.6 retiene los documentos de propiedad mientras se decide la reparación.
+Respuesta correcta: C
+Explicación: «4. Prohibir al agresor acercarse, concurrir o ingresar al domicilio, lugar de trabajo o de estudios […] o a cualquier otro espacio que frecuente la mujer que se encuentra en situación de violencia. […] 6. Prohibir al agresor comunicarse, intimidar o molestar por cualquier medio o a través de terceras personas, a la mujer que se encuentra en situación de violencia, así como a cualquier integrante de su familia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 35, numerales 4 y 6 (página impresa 21; página PDF 21).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+47. [Ley N.º 348 – TÍTULO III] ¿Qué distingue la obligación del Artículo 22 (Ministerio de Comunicación) de la del Artículo 23 (medios de comunicación)?
+A. Los medios diseñan e implementan la estrategia nacional de comunicación; el Ministerio adopta códigos de ética y espacios gratuitos propios, según la norma.
+B. El Ministerio sanciona penalmente a los medios infractores; los medios eligen libremente si difunden o no mensajes contra la violencia.
+C. Ambos tienen la misma obligación de destinar un espacio gratuito, sin estrategia nacional ni medidas de autorregulación de contenidos.
+D. El Ministerio diseña e implementa una estrategia nacional de comunicación; los medios adoptan códigos de ética, espacios gratuitos y difusión objetiva.
+Respuesta correcta: D
+Explicación: Art. 22: «Diseño e implementación de una estrategia nacional de comunicación […]». Art. 23: «Los medios de comunicación adoptarán las siguientes medidas: 1. Adoptar los Códigos de Ética y otras medidas de autorregulación […] 2. Destinar […] un espacio mínimo gratuito […] 3. Difundir informaciones relativas a la violencia contra las mujeres de forma objetiva […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 22 (página impresa 16; página PDF 16) y Art. 23 (página impresa 17; página PDF 17).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+48. [Ley N.º 348 – TÍTULO III] ¿Qué diferencia existe entre la actuación de las autoridades indígenas en la prevención (Art. 18) y en la atención y protección (Art. 41)?
+A. En la prevención derivan todos los casos a la jurisdicción ordinaria; en la atención adoptan medidas bajo los tres criterios sin derivar ningún caso grave.
+B. En la prevención adoptan medidas bajo los tres criterios con participación de las mujeres; en la atención aplican sus normas propias, pero derivan casos graves a la jurisdicción ordinaria.
+C. En la prevención actúan con autorización del Ente Rector; en la atención actúan con autorización del Órgano Judicial y sin participación de mujeres.
+D. En ambos ámbitos aplican sus normas propias sin límite alguno, incluidos los casos de violencia sexual y feminicidio ocurridos en la comunidad.
+Respuesta correcta: B
+Explicación: Art. 18: «Las autoridades indígena originario campesinas y afrobolivianas, adoptarán en las comunidades […] las medidas de prevención que consideren más adecuadas bajo los tres criterios de acción […] con la participación de éstas […]». Art. 41.II: «Todos los casos de violencia sexual, feminicidio y delitos análogos serán derivados a la jurisdicción ordinaria […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 18 (página impresa 11; página PDF 11) y Art. 41 (página impresa 24; página PDF 24).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+49. [Ley N.º 348 – TÍTULO III] ¿Qué distingue la obligación de reporte del Artículo 19.III (ámbito educativo) de la del Artículo 20.II (ámbito de salud)?
+A. La del 19.III obliga a enviar el registro al Ente Rector en 48 horas; la del 20.II sanciona al personal educativo que no reporta la violencia detectada.
+B. La del 19.III se aplica solo a universidades privadas; la del 20.II se aplica solo a los hospitales del seguro social a corto plazo del país.
+C. La del 19.III sanciona al personal educativo que no reporta la violencia; la del 20.II obliga a la salud a enviar el registro al Ente Rector en 48 horas.
+D. Ambas obligan a reportar al Órgano Judicial dentro de las 24 horas, sin sanción alguna para el personal que incumpla esa obligación.
+Respuesta correcta: C
+Explicación: Art. 19.III: «El personal docente, administrativo o de apoyo profesional que, habiendo detectado una situación de violencia no la hubiera reportado, será pasible a las sanciones legales que correspondan». Art. 20.II: «[…] así como reportar casos probables o comprobados de violencia […] enviando una copia firmada del registro del caso al Ente Rector […] dentro de las 48 horas de conocidos los hechos».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 19, parágrafo III (página impresa 13; página PDF 13) y Art. 20, parágrafo II (página impresa 15; página PDF 15).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+50. [Ley N.º 348 – TÍTULO III] ¿Qué diferencia existe entre el Artículo 39 y el Artículo 40 respecto a la alerta?
+A. El 39 dispone evaluar responsabilidades si no cambian las condiciones; el 40 fija la duración de la alerta, que no puede superar un año.
+B. El 39 fija la duración de la alerta, hasta un año; el 40 dispone evaluar responsabilidades si al cabo de ese tiempo no cambian las condiciones de riesgo.
+C. El 39 regula quién declara la alerta en el nivel nacional; el 40 regula quién la declara en las Entidades Territoriales Autónomas.
+D. El 39 establece la comisión técnica de seguimiento; el 40 establece la difusión pública del motivo de la alerta y de su zona.
+Respuesta correcta: B
+Explicación: Art. 39: «La alerta contra la violencia hacia las mujeres subsistirá en tanto prevalezcan las causas que dieron lugar a su declaratoria, pero no podrá prolongarse por más de un (1) año». Art. 40: «En caso de que al cabo de este tiempo no hubieran cambiado las condiciones de riesgo para las mujeres, se evaluarán las acciones de las entidades responsables […] a fin de establecer responsabilidades […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 39 (página impresa 23; página PDF 23) y Art. 40 (página impresa 24; página PDF 24).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+51. [Ley N.º 348 – TÍTULO III] Una unidad educativa decide resolver internamente, sin reportarlo, un caso de violencia contra una estudiante detectado por una docente, para «proteger el prestigio institucional». ¿Qué análisis corresponde?
+A. Es una decisión legítima, porque la Ley permite a cada unidad resolver internamente los casos detectados.
+B. Es legítima si la familia de la estudiante está de acuerdo, pues su consentimiento sustituye el reporte.
+C. Expone a sanciones solo a la docente que detectó el caso, y no a las demás autoridades de la unidad.
+D. Expone al personal que detectó la violencia y no la reportó a las sanciones legales que correspondan.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El personal docente, administrativo o de apoyo profesional que, habiendo detectado una situación de violencia no la hubiera reportado, será pasible a las sanciones legales que correspondan». Aplicación razonada: el prestigio institucional no exime del deber de reportar.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 19, parágrafo III (página impresa 13; página PDF 13).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+52. [Ley N.º 348 – TÍTULO III] Una autoridad comunitaria resuelve por usos propios un caso de violación ocurrido en su comunidad, sin derivarlo. ¿Qué análisis corresponde?
+A. Es coherente con la Ley: las autoridades indígenas resuelven todos los casos de violencia por sus normas propias, según la Ley 348.
+B. Es coherente si la víctima pertenece a la comunidad, pues la derivación solo procede respecto de personas ajenas.
+C. Es contrario a la Ley: los casos de violencia sexual, feminicidio y análogos deben derivarse a la jurisdicción ordinaria.
+D. Es contrario a la Ley solo si el agresor es reincidente, pues el primer hecho puede resolverse en la comunidad.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Todos los casos de violencia sexual, feminicidio y delitos análogos serán derivados a la jurisdicción ordinaria, de conformidad a la Ley de Deslinde Jurisdiccional». Aplicación razonada: la violación es un caso de violencia sexual cuya derivación es obligatoria.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 41, parágrafo II (página impresa 24; página PDF 24).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+53. [Ley N.º 348 – TÍTULO III] Un juez dispone que el agresor reciba terapia de rehabilitación en sesiones conjuntas con la mujer agredida, «para reconstruir la relación». ¿Qué análisis corresponde?
+A. Es coherente con la Ley, que promueve la terapia conjunta como medio para reconstruir la relación de pareja.
+B. Es coherente si la mujer manifiesta su conformidad, pues su voluntad habilita la terapia conjunta con el agresor.
+C. Es contrario a la Ley solo si la terapia se presta en un centro penitenciario, y no en un centro de salud común.
+D. Es contrario a la Ley, que dispone que en ningún caso la terapia se prestará junto a la mujer agredida.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] En ningún caso, la terapia se prestará junto a la mujer agredida». Aplicación razonada: la prohibición es absoluta («en ningún caso»).
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 31, parágrafo II (página impresa 20; página PDF 20).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+54. [Ley N.º 348 – TÍTULO III] Un agresor solicita que se archive su proceso porque concluyó satisfactoriamente la terapia de rehabilitación. ¿Qué análisis corresponde?
+A. Es procedente: la conclusión de la terapia extingue la acción penal por los hechos de violencia.
+B. Es procedente si la mujer agredida no se opone expresamente al archivo del proceso en trámite.
+C. Es improcedente solo si el agresor tiene antecedentes, pues al primerizo la terapia lo exime.
+D. Es improcedente: la terapia no sustituye la sanción impuesta por los hechos de violencia.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] La terapia no sustituirá la sanción impuesta por los hechos de violencia». Aplicación razonada: la terapia es complementaria de la sanción, no alternativa.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 31, parágrafo I (página impresa 20; página PDF 20).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+55. [Ley N.º 348 – TÍTULO III] Una funcionaria revela a un familiar del agresor la dirección de la Casa de Acogida donde se encuentra la mujer. ¿Qué análisis corresponde?
+A. Es admisible, porque la localización de las Casas de Acogida es información pública de libre acceso para cualquier persona interesada, conforme a norma.
+B. Es admisible si el familiar se compromete a no comunicarla al agresor, pues el compromiso sustituye la autorización para conocerla.
+C. Vulnera la reserva: la localización de las Casas no puede revelarse salvo a personas autorizadas, y se garantiza el anonimato de las acogidas.
+D. Vulnera la Ley solo si la mujer permanece más de tres meses en la Casa, pues antes de ese plazo la localización no es reservada.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las Casas de Acogida y Refugio Temporal se constituyen en refugio seguro para las mujeres en situación de violencia, por tanto su localización no podrá ser revelada, salvo a personas autorizadas para acudir a ellos. Se garantizará el anonimato y privacidad de las mujeres acogidas». Aplicación razonada: el familiar del agresor no es persona autorizada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 27 (página impresa 19; página PDF 19).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+56. [Ley N.º 348 – TÍTULO III] Un medio publica fotografías del cuerpo de una víctima de feminicidio y de sus hijos, alegando «interés informativo». ¿Qué análisis corresponde?
+A. Es coherente con la Ley, que prioriza el interés informativo sobre la privacidad de las víctimas y sus familias, según lo dispuesto.
+B. Contradice la obligación de difundir de forma objetiva, restringiendo toda exposición gráfica humillante o degradante.
+C. Es coherente si el medio difunde además un mensaje contra la violencia en su espacio gratuito obligatorio.
+D. Contradice la Ley solo si el medio es estatal, pues los medios privados se rigen por su propia autorregulación.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Difundir informaciones relativas a la violencia contra las mujeres de forma objetiva, precautelando la defensa de su autonomía, libertad, dignidad, privacidad y derechos, de sus hijas e hijos, restringiendo toda exposición gráfica que constituya humillación, exposición pública y/o degradante». Aplicación razonada: la exposición gráfica de la víctima y sus hijos contraviene el Artículo 23.3.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 23, numeral 3 (página impresa 17; página PDF 17).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+57. [Ley N.º 348 – TÍTULO III] Un hospital niega atención a una mujer agredida porque «no trae orden fiscal». ¿Qué análisis corresponde?
+A. Es correcto, porque los servicios de salud solo atienden casos de violencia con requerimiento fiscal previo.
+B. Es correcto si el hospital es privado, pues la obligación de atender alcanza solo a los servicios públicos.
+C. Vulnera la obligación de atender, bajo responsabilidad, a toda mujer que solicite atención médica y psicológica.
+D. Vulnera la Ley solo si la mujer presenta lesiones visibles, pues los daños psicológicos no requieren atención, conforme a la norma.
+Respuesta correcta: C
+Explicación: Aplicación razonada: Art. 20.II: «Los servicios de salud de todos los niveles, públicos, seguridad social y servicios privados, tienen obligación de atender, bajo responsabilidad, a toda mujer que solicite atención médica y psicológica […]». Art. 20.I.4: «[…] quedando prohibida la negación de atención». Aplicación razonada: la Ley no condiciona la atención a una orden fiscal.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 20, parágrafo II (página impresa 15; página PDF 15).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+58. [Ley N.º 348 – TÍTULO III] Una empresa exige prueba de embarazo a las postulantes como requisito de contratación. ¿Qué análisis corresponde según el Artículo 21?
+A. Es admisible, porque la Ley permite exigir pruebas médicas si el puesto requiere esfuerzo físico considerable.
+B. Contradice la prohibición expresa de exigir pruebas de embarazo u otras que afecten una decisión más allá de la idoneidad.
+C. Es admisible en el sector privado, pues la prohibición del Artículo 21 alcanza solo al sector público del Estado, por mandato legal.
+D. Contradice la Ley solo si la postulante resulta embarazada, pues la exigencia en sí misma no es discriminatoria.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «[…] Deberá prohibirse, de manera expresa, la presentación de pruebas de laboratorio, prueba de VIH/SIDA, de embarazo, entrevistas sobre decisiones o situaciones personales u otras de cualquier otra índole que afecte una decisión más allá de la idoneidad». Aplicación razonada: la exigencia contraría la prohibición expresa del Artículo 21.I.2.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 21, parágrafo I, numeral 2 (página impresa 15; página PDF 15).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+59. [Ley N.º 348 – TÍTULO III] Concluido un año de alerta en un municipio, las condiciones de riesgo para las mujeres no cambiaron. Las autoridades proponen simplemente cerrar la alerta. ¿Qué análisis corresponde?
+A. Es insuficiente: deben evaluarse las acciones de las entidades responsables para establecer responsabilidades por omisión e incumplimiento.
+B. Es suficiente: concluido el plazo de un año, la alerta se cierra sin evaluación ni responsabilidad alguna para las entidades.
+C. Es suficiente si se declara una nueva alerta de inmediato, pues la nueva declaratoria sustituye cualquier evaluación previa.
+D. Es insuficiente solo si hubo feminicidios durante la alerta, pues los demás casos no generan responsabilidad institucional.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «En caso de que al cabo de este tiempo no hubieran cambiado las condiciones de riesgo para las mujeres, se evaluarán las acciones de las entidades responsables de la aplicación de las medidas de emergencia determinadas a fin de establecer responsabilidades por omisión e incumplimiento de funciones en el marco de la normativa vigente, que determinen responsabilidades administrativas, civiles y penales». Aplicación razonada: el cierre sin evaluación desconoce el Artículo 40.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 40 (página impresa 24; página PDF 24).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+60. [Ley N.º 348 – TÍTULO III] En un procedimiento administrativo de protección, la mujer es obligada a relatar varias veces los hechos ante distintos funcionarios, con trato descortés. ¿Qué análisis corresponde?
+A. Es una práctica válida, porque la repetición del relato garantiza la veracidad de la denuncia presentada.
+B. Es válida en los procedimientos administrativos, pues el trato digno solo se exige en los procesos judiciales, según la Ley 348.
+C. Se inobserva la Ley solo si la mujer presenta una queja formal, pues sin queja no hay responsabilidad.
+D. Se inobserva el principio de trato digno que deben aplicar esos procedimientos, lo que genera responsabilidad.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Los procedimientos judiciales o administrativos de protección a mujeres en situación de violencia deberán aplicar el principio de trato digno contenido en la presente Ley, bajo responsabilidad en casos de inobservancia». Aplicación razonada: el trato descortés y la reiteración innecesaria contradicen el trato digno.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 33 (página impresa 20; página PDF 20).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+61. [Ley N.º 348 – TÍTULO III] Una mujer agredida acude a una clínica privada por lesiones físicas. Según el Artículo 20.I.9, ¿qué debe hacer el personal médico respecto al certificado médico?
+A. Extenderlo solo a requerimiento fiscal, previo pago del arancel de la clínica.
+B. Extenderlo en papel valorado, con costo a cargo del agresor una vez identificado.
+C. Abstenerse, pues solo el médico forense puede extender certificados médicos.
+D. Extenderlo de oficio, de forma obligatoria, gratuita y en papel corriente.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El personal médico del Sistema de Salud Público, seguro social a corto plazo y servicios privados, deberán extender de oficio, de forma obligatoria, gratuita y en papel corriente, un certificado médico a mujeres que requieran atención por daño físico o sexual emergente de actos de violencia […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 20, parágrafo I, numeral 9 (página impresa 14; página PDF 14).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+62. [Ley N.º 348 – TÍTULO III] Según el Artículo 20.I.9, ¿qué debe hacer el médico forense con los certificados médicos extendidos en casos de violencia contra las mujeres?
+A. Homologarlos con carácter prioritario y establecer el grado de impedimento.
+B. Anularlos y emitir un nuevo certificado tras un segundo examen físico completo.
+C. Archivarlos sin valoración, pues carecen de valor probatorio en el proceso penal.
+D. Remitirlos al Ente Rector, que determina el grado de impedimento de la víctima.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] El médico forense con carácter prioritario deberá homologar los certificados médicos extendidos en casos de violencia contra las mujeres y establecer el grado de impedimento».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 20, parágrafo I, numeral 9 (página impresa 14; página PDF 14).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+63. [Ley N.º 348 – TÍTULO III] Una autoridad competente debe garantizar que el agresor no disponga de los bienes inmuebles comunes durante el proceso. ¿Qué medida del Artículo 35 aplica?
+A. Ordenar la venta inmediata de los bienes comunes y depositar el producto en una cuenta judicial, según la normativa.
+B. Disponer la asistencia familiar a favor de las hijas, hijos y la mujer con cargo a esos bienes.
+C. Restituir a la mujer al domicilio del cual hubiera sido alejada con violencia, si lo solicita.
+D. Prohibir al agresor enajenar, hipotecar, prendar, disponer o cambiar la titularidad de los bienes comunes.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Prohibir al agresor enajenar, hipotecar, prendar, disponer o cambiar la titularidad del derecho propietario de bienes muebles o inmuebles comunes».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 35, numeral 2 (página impresa 21; página PDF 21).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+64. [Ley N.º 348 – TÍTULO III] Una trabajadora es acosada sexualmente por su jefe inmediato. ¿Qué medidas de protección del Artículo 35 resultan aplicables?
+A. Trasladar a la mujer a otra repartición con menor salario, para evitar todo contacto con el agresor en su lugar de trabajo.
+B. Disponer la remoción del agresor de acoso sexual en el medio laboral y restringir su contacto, sin afectar los derechos laborales de la mujer.
+C. Suspender a la mujer con goce de haberes mientras dure el proceso, manteniendo al agresor en su cargo y funciones.
+D. Disponer la conciliación obligatoria entre la mujer y el jefe, con intervención de la inspección del trabajo competente.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «15. Disponer la remoción del agresor de acoso sexual en el medio laboral. […] 17. Restringir, en caso de acoso sexual, todo contacto del agresor con la mujer, sin que se vean afectados los derechos laborales de la mujer».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 35, numerales 15 y 17 (página impresa 22; página PDF 22).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+65. [Ley N.º 348 – TÍTULO III] Según el Artículo 41.IV, ¿qué debe hacerse con los casos de violencia atendidos y resueltos por las autoridades indígenas?
+A. Archivarlos en la comunidad sin reporte a ninguna instancia.
+B. Remitirlos al Órgano Judicial para su revisión y ratificación.
+C. Publicarlos en la asamblea comunal para su conocimiento general.
+D. Reportarlos al SIPPASE para su correspondiente registro.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Los casos que sean atendidos y resueltos serán reportados al SIPPASE, para su correspondiente registro».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 41, parágrafo IV (página impresa 24; página PDF 24).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+66. [Ley N.º 348 – TÍTULO III] Un servicio de rehabilitación de agresores debe informar sobre la participación de un agresor en el programa. Según el Artículo 31.III, ¿a quién debe reportar?
+A. A la autoridad jurisdiccional competente y al SIPPASE, sobre el inicio, cumplimiento o incumplimiento del programa.
+B. Solo a la mujer agredida, para que decida si continúa o desiste del proceso penal iniciado en contra del agresor, según la ley vigente.
+C. Solo a la familia del agresor, para que apoye el cumplimiento del programa en el entorno de su domicilio.
+D. Al Ministerio de Trabajo, para que registre la situación del agresor en la bolsa de trabajo y empleo nacional.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Los responsables de estos servicios, deberán reportar el inicio, el cumplimiento o incumplimiento del programa o terapia por parte del agresor a la autoridad jurisdiccional competente y al SIPPASE».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 31, parágrafo III (página impresa 20; página PDF 20).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+67. [Ley N.º 348 – TÍTULO III] Un juez de familia, durante un proceso de divorcio, advierte que la mujer y sus hijos están en riesgo por violencia. Según el Artículo 34, ¿qué debe hacer, además de remitir antecedentes al Ministerio Público?
+A. Adoptar las medidas de protección que considere adecuadas para garantizar la vida e integridad de la mujer y sus hijos.
+B. Suspender el proceso de divorcio hasta que concluya el proceso penal, sin adoptar medidas de protección.
+C. Derivar a la mujer a una Casa de Acogida, sin adoptar medidas de protección en el propio proceso familiar.
+D. Convocar a las partes a una conciliación, como requisito previo para adoptar cualquier medida de protección, según la Ley 348.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] Los jueces en materia familiar adoptarán las medidas de protección que considere adecuadas para garantizar la vida e integridad de la mujer, sus hijas e hijos que estuvieran en riesgo».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 34 (página impresa 21; página PDF 21).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+68. [Ley N.º 348 – TÍTULO III] Una autonomía va a crear una Casa de Acogida pero no cuenta con todos los recursos. Según el Artículo 25, ¿qué mecanismo puede utilizar?
+A. Exigir aportes obligatorios a las mujeres que sean acogidas en la Casa.
+B. Postergar la creación de la Casa hasta recibir recursos del Ente Rector.
+C. Delegar la Casa a una empresa privada, que cobre por los servicios prestados.
+D. Establecer acuerdos y convenios intergubernativos e interinstitucionales.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] Para el cumplimiento de lo establecido en el presente Artículo, podrán establecerse acuerdos y convenios intergubernativos e interinstitucionales».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 25 (página impresa 18; página PDF 18).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+69. [Ley N.º 348 – TÍTULO III] Una mujer en situación de violencia necesita urgentemente recuperar sus documentos personales y los de sus hijos, retenidos por el agresor. ¿Qué medida del Artículo 35 aplica?
+A. Retener los documentos de propiedad de bienes muebles o inmuebles, mientras se decide la reparación del daño.
+B. Disponer la entrega inmediata de objetos y documentos personales de la mujer y de sus hijas e hijos o dependientes.
+C. Realizar el inventario de los bienes muebles e inmuebles de propiedad común o de posesión legítima de la pareja.
+D. Ordenar la anotación preventiva de los bienes del agresor y el congelamiento de sus cuentas bancarias personales, según lo establecido.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Disponer la entrega inmediata de objetos y documentos personales de la mujer y de sus hijas e hijos o dependientes».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 35, numeral 10 (página impresa 21; página PDF 21).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+70. [Ley N.º 348 – TÍTULO III] Una mujer agredida en su trabajo requiere atención médica y psicológica. Según el Artículo 21.I.6, ¿qué política debe existir?
+A. Una política de atención con copago, financiada en partes iguales por la trabajadora y por el empleador.
+B. Una política de atención en clínicas privadas, con reembolso posterior a cargo del agresor sentenciado.
+C. Una política de atención solo para servidoras públicas, sin cobertura para las trabajadoras del sector privado, conforme a la norma.
+D. Una política de atención médica y psicológica especializada, oportuna y gratuita en el régimen de seguridad social.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «En coordinación con el Ministerio de Salud y Deportes, una política para la atención médica y psicológica especializada, oportuna y gratuita en el régimen de seguridad social a toda mujer que hubiera sido sometida a cualquier forma de violencia en el ámbito laboral».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 21, parágrafo I, numeral 6 (página impresa 16; página PDF 16).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Ley N.º 348 – TÍTULO III] Caso: una estudiante relata a su profesora que vive violencia en su hogar. ¿Qué debe hacer la profesora conforme al Artículo 19.III?
+A. Guardar reserva absoluta, pues revelar la información vulnera la confianza que la estudiante depositó en ella, según lo dispuesto.
+B. Hablar con el presunto agresor para advertirle, antes de comunicar el hecho a cualquier autoridad competente.
+C. Reportar la situación de violencia detectada, pues su omisión la haría pasible a las sanciones legales que correspondan.
+D. Esperar a que la estudiante presente una denuncia formal, pues el personal docente no puede reportar por ella.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El personal docente, administrativo o de apoyo profesional que, habiendo detectado una situación de violencia no la hubiera reportado, será pasible a las sanciones legales que correspondan». Aplicación razonada: el relato de la estudiante constituye una situación de violencia detectada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 19, parágrafo III (página impresa 13; página PDF 13).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Ley N.º 348 – TÍTULO III] Caso: tras un feminicidio cometido por el conviviente, quedan dos niños huérfanos. La familia paterna reclama su custodia inmediata. ¿Cómo se resuelve según el Artículo 36?
+A. Los niños quedan bajo custodia de la familia paterna, por ser la familia del progenitor sobreviviente con derecho preferente a la guarda.
+B. Los niños quedan bajo custodia de la Casa de Acogida municipal, hasta que la familia paterna y materna lleguen a un acuerdo privado.
+C. Los niños quedan bajo custodia del Ministerio Público, sin intervención de la familia materna hasta la sentencia condenatoria.
+D. Los niños quedan de inmediato bajo custodia de los abuelos u otro familiar cercano por línea materna, con acompañamiento de la Defensoría de la Niñez.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] éstos serán puestos de inmediato bajo custodia de los abuelos u otro familiar cercano por línea materna, con el acompañamiento de la Defensoría de la Niñez y Adolescencia en tanto se establezca la guarda legal […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 36 (página impresa 22; página PDF 22).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Ley N.º 348 – TÍTULO III] Caso: una mujer acogida en una Casa de Acogida sigue en grave riesgo al cumplirse tres meses. ¿Cómo debe procederse según el Artículo 28?
+A. Disponer su salida inmediata, pues el plazo de tres meses es improrrogable en todos los casos y circunstancias.
+B. Trasladarla a otra Casa de Acogida por tres meses más, sin necesidad de evaluación del personal interdisciplinario.
+C. Prolongar su permanencia, previa evaluación conjunta del personal médico, psicológico y jurídico, hasta su completo restablecimiento.
+D. Prolongar su permanencia solo si el agresor está detenido, pues en otro caso la Casa no puede seguir acogiéndola.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «[…] En este caso excepcional, previa evaluación conjunta del personal interdisciplinario conformado al menos por el personal médico, psicológico y jurídico asignado por los servicios de atención a la Casa de Acogida, podrá determinarse la permanencia de la mujer hasta su completo restablecimiento».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 28 (página impresa 19; página PDF 19).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Ley N.º 348 – TÍTULO III] Caso: un agresor que es propietario de la vivienda alega que no puede ser obligado a salir de ella. La mujer vive allí con sus hijos. ¿Cómo se resuelve?
+A. La autoridad puede ordenar la salida del agresor del domicilio independientemente de la acreditación de propiedad del inmueble.
+B. La autoridad no puede ordenar la salida del propietario, y debe trasladar a la mujer a una Casa de Acogida temporal.
+C. La autoridad puede ordenar la salida solo si la mujer acredita ser copropietaria registrada del inmueble en Derechos Reales, por mandato legal.
+D. La autoridad debe esperar la sentencia penal ejecutoriada para ordenar la salida del propietario del domicilio familiar.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Ordenar la salida, desocupación, restricción al agresor del domicilio conyugal o donde habite la mujer en situación de violencia, independientemente de la acreditación de propiedad o posesión del inmueble […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 35, numeral 1 (página impresa 21; página PDF 21).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Ley N.º 348 – TÍTULO III] Caso: una docente que sufre violencia y tiene una medida de protección necesita reducir su horario sin perder salario. ¿Qué medida del Artículo 35 aplica?
+A. Disponer la suspensión de su contrato de trabajo sin goce de haberes, mientras dure la situación de violencia.
+B. Disponer su traslado a otra unidad educativa con menor carga horaria y la reducción proporcional de su salario, conforme a la norma.
+C. Disponer la remoción del agresor de acoso sexual en el medio laboral, aunque el agresor no trabaje con ella.
+D. Disponer la tolerancia o reducción del horario de trabajo, sin que se vean afectados sus derechos laborales y salariales.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Disponer la tolerancia o reducción del horario de trabajo de la mujer que se encuentra en situación de violencia, sin que se vean afectados sus derechos laborales y salariales».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 35, numeral 12 (página impresa 22; página PDF 22).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Ley N.º 348 – TÍTULO III] Caso: un agresor intimida a los vecinos que presenciaron los hechos para que no declaren. ¿Qué medida de protección del Artículo 35 corresponde?
+A. Prohibir acciones de intimidación, amenazas o coacción a los testigos de los hechos de violencia.
+B. Suspender temporalmente al agresor del régimen de visitas y convivencia con sus hijas e hijos.
+C. Realizar el inventario de los bienes muebles e inmuebles de propiedad común de la pareja.
+D. Disponer la asistencia familiar a favor de las hijas, hijos y la mujer en situación de violencia, conforme a norma.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Prohibir acciones de intimidación, amenazas o coacción a los testigos de los hechos de violencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 35, numeral 7 (página impresa 21; página PDF 21).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Ley N.º 348 – TÍTULO III] Caso: una comunidad rural con alta incidencia de violencia no cuenta con servicios cercanos. Las mujeres organizadas quieren un espacio de orientación y detección de casos. ¿Qué figura del Título III pueden promover?
+A. Un juzgado comunitario de violencia, con jueces elegidos por la asamblea de la comunidad, conforme a la norma.
+B. La Casa Comunitaria de la Mujer, con infraestructura dotada por el Gobierno Autónomo Municipal.
+C. Una Fuerza Especial comunitaria, con policías designados por las autoridades indígenas.
+D. Un centro de rehabilitación de agresores, administrado por las mujeres de la comunidad.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «En el área rural, las mujeres organizadas podrán definir la creación de Casas Comunitarias de la Mujer, para lo cual el Gobierno Autónomo Municipal dotará de la infraestructura necesaria. Las que están articuladas a la red de promotoras comunitarias en las distintas comunidades que atenderán y realizarán las tareas de orientación, prevención y detección de casos de violencia […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 30 (página impresa 20; página PDF 20).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Ley N.º 348 – TÍTULO III] Caso: mujeres que superaron situaciones de violencia desean apoyar a otras en su barrio. ¿Qué figura les reconoce la Ley y qué apoyo deben recibir?
+A. Pueden constituirse en redes de promotoras comunitarias, y la Entidad Territorial Autónoma les brindará capacitación.
+B. Pueden constituirse en defensoras públicas, y el Ministerio de Justicia les otorgará título profesional habilitante.
+C. Pueden constituirse en juezas de paz, y el Órgano Judicial les asignará competencia para dictar medidas de protección.
+D. Pueden constituirse en agentes policiales, y la Fuerza Especial les entregará credenciales y equipamiento oficial.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Las mujeres que hubieran superado su situación de violencia, o aquellas que deseen asumir este compromiso, se podrán constituir voluntariamente en redes promotoras de apoyo a mujeres que todavía se encuentran en tal situación […]. La Entidad Territorial Autónoma brindará a las promotoras capacitación en resolución pacífica de conflictos, nociones de psicología, consejería y cualquier otro tema de interés para este fin».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 29 (página impresa 19; página PDF 19).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Ley N.º 348 – TÍTULO III] Caso: una trabajadora es despedida tras conocerse que está en situación de violencia. ¿Qué disposición del Artículo 21 aplica?
+A. La adopción de normas para compatibilizar la vida laboral y familiar, sin relación con el despido de la trabajadora.
+B. La política de formación del personal de inspección del trabajo, que convalida el despido por causas personales.
+C. La prohibición de exigir pruebas de embarazo, que no se aplica a los despidos producidos después de la contratación.
+D. La regulación y sanción del despido injustificado de las mujeres por su situación de violencia, garantizando la estabilidad laboral.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Regulación y sanción del despido injustificado de las mujeres por su estado civil, embarazo, situación de violencia, edad, condiciones físicas, número de hijas o hijos o cualquier forma que implique discriminación laboral; debiendo garantizar la estabilidad laboral según normativa vigente».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 21, parágrafo I, numeral 3 (página impresa 15; página PDF 15).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Ley N.º 348 – TÍTULO III] Caso: un padre agresor, con medida de protección, pretende seguir visitando a sus hijos para «intimidar» a la madre a través de ellos. ¿Qué medida del Artículo 35 puede disponerse?
+A. Disponer la entrega inmediata de los documentos personales de la mujer y de sus hijos.
+B. Suspender temporalmente al agresor del régimen de visitas y convivencia con sus hijas e hijos.
+C. Velar por el derecho sucesorio de las mujeres sobre los bienes del agresor denunciado.
+D. Disponer medidas contra la discriminación en la selección y ascenso en su fuente laboral, por mandato legal.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Suspender temporalmente al agresor del régimen de visitas y convivencia con sus hijas e hijos».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 35, numeral 8 (página impresa 21; página PDF 21).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Ley N.º 348 – TÍTULO III] Una universidad pública evalúa cómo contribuir a la Ley N.º 348. ¿Qué decisión es coherente con el Artículo 24.I?
+A. Crear servicios pagados de atención, con tarifas diferenciadas según la capacidad económica de cada mujer.
+B. Limitarse a la docencia regular, pues la creación de servicios corresponde solo a los gobiernos municipales.
+C. Crear programas y servicios gratuitos de prevención, atención y rehabilitación, e incluir programas académicos adecuados.
+D. Crear programas solo de investigación, sin servicios de atención ni programas académicos sobre la materia.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las universidades y centros de formación superior públicos crearán programas y servicios gratuitos destinados a la prevención de la violencia hacia las mujeres, la atención y rehabilitación de mujeres en situación de violencia, asesoría profesional especializada e integral. Las universidades y centros de formación incluirán programas académicos adecuados para lograr estos propósitos».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 24, parágrafo I (página impresa 17; página PDF 17).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Ley N.º 348 – TÍTULO III] Las autoridades indígenas de una comunidad planifican medidas de prevención de la violencia hacia las mujeres. ¿Qué decisión es coherente con el Artículo 18?
+A. Adoptar las medidas más adecuadas bajo los tres criterios, con participación de las mujeres en su planificación, ejecución y seguimiento.
+B. Adoptar las medidas sin participación de las mujeres, para preservar la autoridad tradicional en la comunidad.
+C. Esperar a que el Ente Rector defina las medidas, pues las autoridades indígenas no pueden adoptarlas por sí.
+D. Adoptar medidas aunque vulneren derechos constitucionales, pues las normas propias prevalecen en su territorio.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Las autoridades indígena originario campesinas y afrobolivianas, adoptarán en las comunidades en las que ejercen sus funciones, las medidas de prevención que consideren más adecuadas bajo los tres criterios de acción establecidos para evitar todo acto de violencia hacia las mujeres, con la participación de éstas en su planificación, ejecución y seguimiento, respetando sus derechos […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 18 (página impresa 11; página PDF 11).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Ley N.º 348 – TÍTULO III] Declarada la alerta en un departamento, una Máxima Autoridad Ejecutiva debe decidir cómo financiar las acciones requeridas. ¿Qué decisión es coherente con el Artículo 38.2?
+A. Esperar la aprobación de un nuevo presupuesto en la siguiente gestión fiscal, sin reasignar los recursos actuales.
+B. Solicitar aportes a las organizaciones sociales, pues la Ley prohíbe reasignar recursos públicos durante la alerta.
+C. Financiar solo campañas de difusión, sin reasignar recursos para las acciones de atención y protección intensivas.
+D. Reasignar los recursos económicos necesarios, aplicando el procedimiento previsto para la declaración de situaciones de emergencia.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] debiendo las Máximas Autoridades Ejecutivas de entidades e instituciones públicas y de Entidades Territoriales Autónomas, reasignar los recursos económicos que se requieran para ejecutar acciones que demanden la atención de la alerta, aplicando para tal fin el mismo procedimiento que el determinado para la declaración de situaciones de emergencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 38, numeral 2 (página impresa 23; página PDF 23).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Ley N.º 348 – TÍTULO III] Declarada una alerta, el Ente Rector debe decidir cómo hacer el seguimiento. ¿Qué medida inmediata exige el Artículo 38.1?
+A. Delegar el seguimiento a las juntas vecinales de la zona, sin conformar comisión técnica ni equipo especializado.
+B. Encargar el seguimiento al Órgano Judicial, mediante un juez designado para supervisar las acciones de la alerta.
+C. Esperar el informe anual a la Asamblea, que reemplaza todo seguimiento técnico durante la vigencia de la alerta.
+D. Establecer una comisión de equipo técnico interinstitucional y multidisciplinario, presidida y financiada por la entidad responsable.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Establecerá una comisión conformada por un equipo técnico interinstitucional y multidisciplinario especializado que realice el seguimiento respectivo, presidido y financiado por la entidad responsable».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 38, numeral 1 (página impresa 23; página PDF 23).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Ley N.º 348 – TÍTULO III] Un servicio de salud atiende a una mujer en riesgo inminente que requiere atención especializada que no puede brindar. ¿Qué decisión es coherente con el Artículo 20.I.6?
+A. Referirla o derivarla a los servicios especializados de atención médica, psicológica y de protección.
+B. Darle de alta con recomendaciones generales, pues el servicio solo debe atender lo que está a su alcance.
+C. Retenerla en el servicio hasta que se presente un familiar, sin referirla a otros servicios especializados.
+D. Comunicar el caso al agresor, para que asuma la responsabilidad de trasladarla a otro servicio de salud.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Referir o derivar a las mujeres en situación de violencia o riesgo inminente a los servicios especializados de atención médica, psicológica y de protección».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 20, parágrafo I, numeral 6 (página impresa 14; página PDF 14).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Ley N.º 348 – TÍTULO III] Un servicio de salud debe decidir cómo actuar ante una mujer en situación de violencia que toma una decisión sobre su salud reproductiva. ¿Qué decisión es coherente con el Artículo 20.I.7?
+A. Condicionar la atención a la autorización del cónyuge, por tratarse de una decisión que afecta a la familia.
+B. Respetar las decisiones que tome en ejercicio de sus derechos sexuales y reproductivos, en el marco de la normativa vigente.
+C. Sustituir la decisión de la mujer por el criterio médico, en razón de su situación de vulnerabilidad emocional.
+D. Diferir la decisión hasta la conclusión del proceso penal, para no afectar las pruebas del caso de violencia.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Respetar las decisiones que las mujeres en situación de violencia tomen en ejercicio de sus derechos sexuales y sus derechos reproductivos, en el marco de la normativa vigente».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 20, parágrafo I, numeral 7 (página impresa 14; página PDF 14).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Ley N.º 348 – TÍTULO III] Una mujer cuyo derecho laboral fue vulnerado por violencia en su trabajo evalúa qué hacer. ¿Qué alternativa le reconoce el Artículo 21.II?
+A. Recurrir a la instancia administrativa o judicial para restablecer sus derechos, obtener reparación y sanción del agresor y de los responsables omisos.
+B. Recurrir solo a la conciliación laboral obligatoria, sin posibilidad de acudir a la vía judicial ni de reclamar reparación del daño.
+C. Renunciar a su puesto con indemnización, pues la Ley no prevé el restablecimiento de derechos laborales vulnerados por violencia.
+D. Denunciar solo al agresor, sin posibilidad de responsabilizar a quienes incumplieron sus funciones de atención y protección.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «En caso de vulneración de estos derechos, la mujer en situación de violencia laboral podrá recurrir a las instancias administrativa o judicial que corresponda para que sus derechos sean restablecidos, le sea reparado el daño, se apliquen sanciones al agresor, y si corresponde, a los responsables de la atención y protección que incumplieron sus funciones».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 21, parágrafo II (página impresa 16; página PDF 16).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Ley N.º 348 – TÍTULO III] Un medio de comunicación decide cómo cumplir su responsabilidad social respecto a la Ley N.º 348. ¿Qué decisión es coherente con el Artículo 23.2?
+A. Destinar un espacio mínimo gratuito para difundir mensajes que promuevan los valores de la Ley.
+B. Cobrar tarifas preferenciales al Estado por difundir mensajes contra la violencia hacia las mujeres.
+C. Difundir mensajes solo en periodos de alerta, sin espacio permanente para los valores de la Ley.
+D. Sustituir los mensajes por noticias de casos de violencia, que cumplen la misma función social.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Destinar, en el marco de la responsabilidad social, un espacio mínimo gratuito para la difusión de mensajes que promuevan los valores establecidos en la presente Ley».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 23, numeral 2 (página impresa 17; página PDF 17).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Ley N.º 348 – TÍTULO III] Las autoridades de una comunidad indígena conocen un caso de violencia psicológica y deben decidir la atención de la mujer. ¿Qué opción les reconoce el Artículo 41.III?
+A. Derivar el caso al agresor, para que proponga una reparación ante la asamblea comunal, en el marco legal.
+B. Archivar el caso, pues la violencia psicológica no requiere atención en la comunidad.
+C. Derivar el caso a la Casa Comunitaria de la Mujer, para que reciba la atención apropiada.
+D. Derivar el caso a una Casa de Acogida urbana, previa autorización del Órgano Judicial.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las autoridades indígena originario campesinas podrán derivar los casos conocidos a las Casas Comunitarias de la Mujer, para que la mujer en situación de violencia reciba la atención apropiada».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 41, parágrafo III (página impresa 24; página PDF 24).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Ley N.º 348 – TÍTULO III] Una Casa de Acogida decide cómo complementar servicios que no puede prestar directamente. ¿Qué facultad le reconoce el Artículo 26.III?
+A. La autoridad a cargo de la Casa podrá cobrar a las mujeres acogidas por los servicios adicionales que reciban, en el marco legal.
+B. La autoridad a cargo de la Casa podrá coordinar la atención privada de cualquiera de los servicios mencionados.
+C. La autoridad a cargo de la Casa deberá suspender los servicios que no pueda prestar con su propio personal.
+D. La autoridad a cargo de la Casa podrá delegar la acogida al agresor, mientras se gestionan servicios privados.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «La autoridad a cargo de cada casa podrá coordinar la atención privada de cualquiera de los servicios mencionados».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 26, parágrafo III (página impresa 19; página PDF 19).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Ley N.º 348 – TÍTULO III] Una autonomía elabora su estrategia de prevención. ¿Qué combinación de criterios y ámbitos del Artículo 17 debe orientarla?
+A. Solo el criterio individual, priorizando el ámbito judicial y penitenciario, por ser los que sancionan directamente a los agresores, conforme a la Ley.
+B. Solo el criterio colectivo, priorizando los ámbitos deportivo y turístico, por su capacidad de convocatoria en la población general.
+C. Los criterios primario y secundario, priorizando el ámbito sanitario, por ser el único servicio con cobertura en todo el territorio.
+D. Los criterios estructural, individual y colectivo, priorizando los ámbitos familiar, comunitario, educativo, de salud, laboral y comunicacional.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «I. […] bajo tres criterios de acción: 1. Prevención Estructural. […] 2. Prevención Individual. […] 3. Prevención Colectiva. […] II. Se deberá priorizar la prevención en los ámbitos familiar, comunitario, educativo, de la salud, laboral y comunicacional».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 17, parágrafos I y II (página impresa 11; página PDF 11).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Ley N.º 348 – TÍTULO III] El Ministerio de Educación diseña su política sectorial contra la violencia. ¿Qué orientación estratégica del Artículo 19.I.1 debe incorporar?
+A. Estrategias y programas de prevención e intervención integral contra la violencia hacia las mujeres en las políticas públicas de educación.
+B. Programas de sanción disciplinaria de estudiantes agresores, como eje exclusivo de la política educativa contra la violencia.
+C. Estrategias de derivación de todos los casos a la Policía, sin acciones de prevención ni de intervención en el ámbito escolar.
+D. Campañas anuales aisladas, sin incorporación de estrategias ni programas en las políticas públicas permanentes de educación.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Incorporar estrategias y programas de prevención e intervención integral contra la violencia hacia las mujeres en las políticas públicas de educación».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 19, parágrafo I, numeral 1 (página impresa 12; página PDF 12).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Ley N.º 348 – TÍTULO III] Una Dirección Departamental de Educación planifica la mejora de la atención de casos de violencia escolar. ¿Qué componentes del Artículo 19.I ofrecen una base estratégica integral?
+A. Protocolo único de denuncias, centros de atención psicológica, política contra el acoso sexual y materiales con enfoque de equidad de género.
+B. Expulsión de estudiantes agresores, cámaras de vigilancia en aulas, guardias privados y registros públicos de casos de violencia escolar, según la ley vigente.
+C. Reglamentos distintos en cada unidad, atención psicológica opcional, mediación familiar obligatoria y textos de estudio sin revisión.
+D. Derivación inmediata a la Policía, suspensión de clases, cierre temporal de la unidad y sanción de las familias de los estudiantes.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «3. Crear en las unidades educativas un centro de atención psicológica […] 5. Formular y ejecutar una política de prevención del acoso sexual en el sistema educativo. 6. Elaborar reglamentos y un protocolo único para el tratamiento de denuncias […] 7. Prohibir como textos de estudio, materiales educativos con contenidos sexistas […] y promover la elaboración y difusión de material educativo con enfoque de equidad de género […]». Aplicación razonada: la planificación integral articula varias medidas del Artículo 19.I.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 19, parágrafo I, numerales 3, 5, 6 y 7 (página impresa 12; página PDF 12).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Ley N.º 348 – TÍTULO III] Para garantizar la sostenibilidad de una Casa de Acogida a largo plazo, ¿qué exige el Artículo 25 a su administración?
+A. Autofinanciarse mediante el cobro de servicios a las mujeres acogidas y a sus familiares dependientes.
+B. Depender exclusivamente de donaciones privadas, sin previsión presupuestaria de la entidad autónoma.
+C. Funcionar con personal voluntario sin capacitación, para reducir los costos de operación de la Casa.
+D. Diseñar e implementar una estrategia de sostenibilidad, con personal multidisciplinario capacitado y especializado.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] Deberán contar con personal multidisciplinario debidamente capacitado y especializado en atención a mujeres en situación de violencia; la administración deberá diseñar e implementar una estrategia de sostenibilidad […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 25 (página impresa 18; página PDF 18).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Ley N.º 348 – TÍTULO III] Durante una alerta, el Ente Rector debe evaluar periódicamente su impacto. ¿Qué medida del Artículo 38.3 lo permite?
+A. Elaborar un único informe al concluir la alerta, sin monitoreo durante su vigencia ni recomendaciones de mejora, conforme a norma.
+B. Delegar la evaluación a los medios de comunicación, que informan sobre los casos ocurridos en la zona de alerta.
+C. Suspender la recolección de datos durante la alerta, para concentrar los recursos en las acciones de atención.
+D. Elaborar reportes especiales mediante monitoreo permanente, evaluando mecanismos de atención y acceso, con recomendaciones.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Elaborar reportes especiales sobre los avances logrados, mediante un monitoreo permanente que permita determinar las condiciones de las mujeres respecto a la violencia y evaluar los mecanismos de atención y protección, así como el acceso de las mujeres a los mismos, que incluya recomendaciones para su fortalecimiento».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo III: Medidas de protección. Art. 38, numeral 3 (página impresa 23; página PDF 23).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Ley N.º 348 – TÍTULO III] Un municipio organiza su red de servicios de atención. Según el Artículo 24.II, ¿cómo deben articularse los programas y servicios de atención?
+A. Como servicios aislados de cada institución, sin coordinación con la Policía, el Órgano Judicial ni las instituciones de salud locales, conforme a la Ley.
+B. Como apoyo permanente a los SLIM y Casas de Acogida, con cargo al presupuesto municipal, coordinando con Policía, Órgano Judicial y salud.
+C. Como servicios financiados por la cooperación externa, sin cargo al presupuesto municipal ni coordinación con los SLIM del municipio.
+D. Como servicios temporales activados solo durante las alertas, sin funcionamiento permanente fuera de los periodos de emergencia.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Los programas y servicios de atención serán organizados, coordinados y fortalecidos en cada municipio con cargo a su presupuesto anual, como instancias de apoyo permanente a los Servicios Legales Integrales Municipales y las Casas de Acogida y Refugio Temporal. […] Actuarán de manera coordinada con todas las instancias estatales de garantía, en especial con la Policía Boliviana, el Órgano Judicial e instituciones de salud».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 24, parágrafo II (página impresa 17; página PDF 17).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Ley N.º 348 – TÍTULO III] Para prevenir la revictimización en sus instalaciones, ¿qué medidas deben adoptar los Servicios de Atención Integrales según el Artículo 24.V?
+A. Medidas en infraestructura, equipamiento y recursos humanos que garanticen que las mujeres no serán revictimizadas.
+B. Medidas de vigilancia policial permanente, sin cambios en la infraestructura ni en los recursos humanos del servicio.
+C. Medidas de reducción de personal, para disminuir la cantidad de funcionarios que intervienen en cada caso atendido.
+D. Medidas de publicidad de los casos atendidos, para garantizar la transparencia de la gestión ante la comunidad.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Los Servicios de Atención Integrales adoptarán las medidas necesarias en cuanto a infraestructura, equipamiento y recursos humanos, que garanticen que las mujeres en situación de violencia no serán sometidas a revictimización».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 24, parágrafo V (página impresa 18; página PDF 18).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Ley N.º 348 – TÍTULO III] Un servicio de atención integral busca que todo su personal trabaje con un enfoque común. ¿Qué estrategia del Artículo 24.IV es pertinente?
+A. Contratar solo personal con formación jurídica, para que la visión del servicio sea exclusivamente legal y procesal, según la normativa.
+B. Permitir que cada área aplique su propio enfoque y lenguaje, sin formación común ni actualización del personal.
+C. Promover, asesorar y apoyar la formación y actualización permanente del personal, desde la visión, enfoque y lenguaje de la Ley.
+D. Sustituir la formación del personal por la lectura obligatoria de la Ley al momento de su ingreso al servicio.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Los Servicios de Atención Integrales deberán promover, asesorar y apoyar la permanente formación y actualización de su personal, con el objetivo de asegurar que desde su área y especialidad, trabajen conjuntamente desde la visión, el enfoque y el lenguaje que la Ley establece respecto a la violencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo II: Atención a mujeres en situación de violencia. Art. 24, parágrafo IV (página impresa 18; página PDF 18).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Ley N.º 348 – TÍTULO III] Las Entidades Territoriales Autónomas planifican su marco normativo propio. ¿Qué exige el Artículo 17.III?
+A. Abstenerse de legislar en la materia, pues la Ley N.º 348 reserva toda regulación al nivel central del Estado.
+B. Incorporar, en ejercicio de sus facultades legislativas, reglamentarias y ejecutivas, mecanismos de prevención, atención y protección.
+C. Limitarse a reglamentar la atención, sin incorporar mecanismos de prevención en su normativa ni en su gestión.
+D. Incorporar mecanismos solo cuando el Ente Rector declare una alerta en su jurisdicción territorial respectiva.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Las Entidades Territoriales Autónomas, en el marco de sus respectivas competencias y el ejercicio de las facultades legislativas, reglamentarias y ejecutivas en la materia, incorporarán mecanismos para la prevención de la violencia, así como la atención y protección a las mujeres en situación de violencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 17, parágrafo III (página impresa 11; página PDF 11).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Ley N.º 348 – TÍTULO III] El Ministerio de Comunicación diseña su estrategia contra la violencia. ¿Qué criterios de recursos y enfoque exige el Artículo 22?
+A. Considerar la diversidad cultural y destinar los mismos recursos que asigna a la publicidad sobre temas estratégicos del desarrollo nacional.
+B. Concentrarse en un solo idioma y destinar los recursos sobrantes de la publicidad institucional al cierre de cada gestión anual.
+C. Prescindir de los medios masivos y destinar los recursos a campañas privadas financiadas por las empresas de comunicación.
+D. Considerar solo el área urbana y destinar a la estrategia la mitad de los recursos de la publicidad sobre temas estratégicos.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] considerando la diversidad cultural y destinando para este fin los mismos recursos que asigna a la publicidad sobre temas estratégicos para el desarrollo nacional».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título III: Prevención, atención y protección, Capítulo I: Prevención de la violencia hacia las mujeres. Art. 22 (página impresa 17; página PDF 17).

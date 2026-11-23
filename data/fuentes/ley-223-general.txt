@@ -1,0 +1,1111 @@
+# Fuente: ley-223-general.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Ley N.º 223, Ley General para Personas con Discapacidad (2 de marzo de 2012)
+# Capítulos Primero al Cuarto: Disposiciones generales, derechos y deberes, garantías y gestión pública (Arts. 1 al 49)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar los Artículos 1 al 49 de la Ley N.º 223 en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto de la Ley proporcionado, sin incorporar fuentes externas, y su fundamentación transcribe textualmente el fragmento que respalda la respuesta correcta.
+# Criterios documentales aplicados
+# Alcance de la fuente. El banco cubre los Artículos 1 al 49 de la Ley N.º 223: Capítulo Primero, Disposiciones generales (objeto, fines, ámbito, principios y definiciones, Arts. 1 a 5); Capítulo Segundo, Derechos y deberes (Arts. 6 a 22); Capítulo Tercero, Garantías para el ejercicio de los derechos (economía, trabajo, educación, salud, accesibilidad, justicia y comunicación, Arts. 23 a 41); y Capítulo Cuarto, Gestión pública y CONALPEDIS (Arts. 42 a 49). En el PDF proporcionado ocupa las páginas 1 a 17. Las disposiciones transitorias, abrogatorias y finales quedan fuera del alcance.
+# Página impresa. La edición proporcionada no numera sus páginas impresas; por eso cada referencia consigna «página impresa s/n» y la página del PDF en que se encuentra el texto citado.
+# Fundamentación textual. Cada fundamentación transcribe entre comillas el fragmento de la Ley que respalda la respuesta correcta. En las preguntas derivadas se añade una nota breve rotulada «Aplicación razonada», que distingue la inferencia del contenido textual.
+# Competencias directivas. La Ley no nombra al director de Unidad Educativa, pero sí impone obligaciones directas a las «Unidades Educativas» y a quienes trabajan con estudiantes con discapacidad: acceso y permanencia en el marco de la educación inclusiva (Art. 10), intérprete en Lengua de Señas Boliviana y comunicación alternativa en actos de relevancia (Art. 36.I), personal capacitado en lengua de señas y señalización (Art. 36.III), información para prevenir el abuso sexual (Art. 19.II), derecho del estudiante a ser consultado (Art. 20), accesibilidad gradual de la infraestructura (Art. 37.II) e inamovilidad laboral de docentes con discapacidad o con hijos con discapacidad (Art. 34.II). Esas preguntas llevan la nota «Aplicación razonada».
+# Cobertura y no duplicación. Las preguntas cubren los cuatro capítulos, con énfasis en las definiciones (Art. 5), el ámbito de educación (Art. 31), la comunicación y accesibilidad (Arts. 36 y 37) y el CONALPEDIS (Arts. 45 a 47). Algunos artículos centrales (Arts. 5, 31, 36 y 37) se evalúan en varias preguntas con enfoques distintos; no hay preguntas repetidas ni con la misma respuesta y el mismo enfoque.
+# Etiqueta de trazabilidad. Cada enunciado inicia con [Ley N.º 223], para su integración en plataformas de simulación que combinan preguntas de varios documentos; el capítulo y artículo exactos figuran en la referencia.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 27 preguntas y la más corta en 5, por lo que la longitud no es una pista; las fórmulas de cierre («según la norma», «conforme a la Ley N.º 223», etc.) aparecen tanto en alternativas correctas como incorrectas.
+# 2. Distribución metodológica y ponderación
+# N.º
+# Tipo de evaluación
+# ¿Qué evalúa?
+# Preg.
+# Peso
+# N.º preg.
+# 1
+# Conocimiento y memorización
+# Dominio de conceptos, definiciones, principios, fechas, disposiciones y contenidos fundamentales del documento.
+# 10
+# 10%
+# 1–10
+# 2
+# Dominio conceptual
+# Comprensión de los fundamentos pedagógicos, administrativos, curriculares y organizativos del Sistema Educativo Plurinacional.
+# 10
+# 10%
+# 11–20
+# 3
+# Competencias y responsabilidades directivas
+# Conocimiento de las funciones, atribuciones, obligaciones y responsabilidades del director de una Unidad Educativa (en esta fuente: obligaciones de las Unidades Educativas y de quienes trabajan con estudiantes con discapacidad, con nota «Aplicación razonada»).
+# 10
+# 10%
+# 21–30
+# 4
+# Comprensión e interpretación
+# Capacidad para interpretar documentos, orientaciones pedagógicas y situaciones educativas.
+# 10
+# 10%
+# 31–40
+# 5
+# Diferenciación conceptual
+# Capacidad para distinguir conceptos, funciones, procedimientos, niveles de responsabilidad y enfoques educativos similares.
+# 10
+# 10%
+# 41–50
+# 6
+# Análisis crítico
+# Capacidad para identificar problemas institucionales, analizar sus causas, valorar alternativas y emitir criterios fundamentados.
+# 10
+# 10%
+# 51–60
+# 7
+# Aplicación normativa
+# Capacidad para aplicar correctamente la normativa en situaciones institucionales.
+# 10
+# 10%
+# 61–70
+# 8
+# Resolución de casos prácticos
+# Capacidad para resolver conflictos escolares, problemas administrativos, dificultades pedagógicas y situaciones con estudiantes, profesores y familias.
+# 10
+# 10%
+# 71–80
+# 9
+# Toma de decisiones
+# Capacidad para adoptar decisiones oportunas, pertinentes, fundamentadas y responsables ante situaciones institucionales.
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# Capacidad para planificar, organizar, dirigir, supervisar y evaluar acciones orientadas al mejoramiento de la calidad educativa.
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–10)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta [Ley N.º 223]; el capítulo y el artículo exactos figuran en la referencia.
+# Cada fundamentación transcribe el fragmento textual de la Ley y remite al artículo, parágrafo e inciso, con página impresa y página PDF.
+# Contenido limitado exclusivamente a los Artículos 1 al 49 de la Ley N.º 223; no se atribuyen al director de Unidad Educativa competencias que la fuente no contiene.
+
+CAPÍTULO: ley-223-general
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Ley N.º 223] ¿En qué fecha se promulgó la Ley N.º 223, Ley General para Personas con Discapacidad?
+A. 20 de diciembre de 2010.
+B. 2 de marzo de 2012.
+C. 15 de diciembre de 1995.
+D. 9 de marzo de 2013.
+Respuesta correcta: B
+Explicación: «LEY Nº 223 / LEY DE 2 DE MARZO DE 2012 […] LEY GENERAL PARA PERSONAS CON DISCAPACIDAD».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Encabezado (página impresa s/n; página PDF 1).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Ley N.º 223] Según el Artículo 1, ¿cuál es el objeto de la Ley N.º 223?
+A. Regular la calificación y carnetización de las personas con discapacidad, a cargo exclusivo de los gobiernos autónomos municipales, conforme a lo establecido en la Ley N.º 223.
+B. Establecer la renta solidaria para todas las personas con discapacidad, sin distinción de grado, a partir de la gestión 2012, conforme a la Ley N.º 223.
+C. Crear centros de educación especial separados del sistema regular, para la atención exclusiva de las personas con discapacidad, según la Ley N.º 223.
+D. Garantizar a las personas con discapacidad el ejercicio pleno de sus derechos y deberes, con trato preferente bajo un sistema de protección integral, según la Ley N.º 223.
+Respuesta correcta: D
+Explicación: «El objeto de la presente Ley es garantizar a las personas con discapacidad, el ejercicio pleno de sus derechos y deberes en igualdad de condiciones y equiparación de oportunidades, trato preferente bajo un sistema de protección integral».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 1 (página impresa s/n; página PDF 1).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Ley N.º 223] Según el Artículo 45.I, ¿bajo la tuición de qué Ministerio se encuentra el CONALPEDIS?
+A. Del Ministerio de Salud.
+B. Del Ministerio de Educación.
+C. Del Ministerio de Justicia.
+D. Del Ministerio de Trabajo.
+Respuesta correcta: C
+Explicación: «El Comité Nacional para Personas con Discapacidad - CONALPEDIS es una entidad descentralizada, para la defensa de los derechos de las personas con discapacidad, con autonomía de gestión y patrimonio propio, bajo tuición del Ministerio de Justicia, está encargado de la planificación estratégica en materia de discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 45, parágrafo I (página impresa s/n; página PDF 15).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Ley N.º 223] Según el Artículo 47.I, ¿cuántos representantes integran el Directorio del CONALPEDIS y de dónde provienen?
+A. Nueve de la COBOPDI y nueve del Órgano Ejecutivo.
+B. Cinco de la COBOPDI y cinco de los municipios.
+C. Siete de la COBOPDI y siete de las gobernaciones.
+D. Nueve de la COBOPDI y tres del Órgano Judicial.
+Respuesta correcta: A
+Explicación: «1. Nueve representantes de la Confederación Boliviana de Personas con Discapacidad – COBOPDI. 2. Nueve representantes del Órgano Ejecutivo designados mediante Resolución Ministerial […]».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 47, parágrafo I (página impresa s/n; página PDF 16).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Ley N.º 223] Según el Artículo 28.I, ¿para quiénes se establece la renta solidaria?
+A. Para personas con discapacidad leve y moderada.
+B. Para todas las personas con discapacidad del país.
+C. Para padres y tutores de niños con discapacidad.
+D. Para personas con discapacidad grave y muy grave.
+Respuesta correcta: D
+Explicación: «Se establece la renta solidaria para personas con discapacidad grave y muy grave a ser regulado por norma reglamentaria, a partir del año 2013».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 28, parágrafo I (página impresa s/n; página PDF 9).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+6. [Ley N.º 223] Según el Artículo 4, ¿cuáles son, entre otros, los principios generales de la Ley N.º 223?
+A. Igualdad en dignidad, no discriminación, inclusión, accesibilidad, equidad de género, igualdad de oportunidades, no violencia y asistencia económica estatal, en el marco de la Ley N.º 223.
+B. Legalidad, celeridad, publicidad, oralidad, inmediatez, gratuidad, transparencia y rendición de cuentas de las entidades públicas del Estado, según la Ley N.º 223.
+C. Interés superior, prioridad absoluta, corresponsabilidad, rol de la familia, especialidad, ejercicio progresivo de derechos y diversidad cultural, conforme a lo establecido en la Ley N.º 223.
+D. Solidaridad, reciprocidad, complementariedad, armonía, equilibrio, vivir bien, interculturalidad y descolonización de las instituciones, conforme a la Ley N.º 223.
+Respuesta correcta: A
+Explicación: «1. Igualdad en Dignidad. […] 2. No Discriminación. […] 3. Inclusión. […] 4. Accesibilidad. […] 5. Equidad de Género. […] 6. Igualdad de Oportunidades. […] 7. No Violencia. […] 8. Asistencia Económica Estatal. […]».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 4 (página impresa s/n; página PDF 2).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+7. [Ley N.º 223] Según el Artículo 29, ¿cuáles son los recursos económicos para la gestión pública en materia de discapacidad?
+A. Los provenientes de un impuesto especial a las empresas privadas, y los aportes obligatorios de las familias afectadas, según la Ley N.º 223.
+B. Los provenientes de la renta solidaria no cobrada, y los fondos del Tesoro General asignados a cada gobierno municipal.
+C. Los provenientes de multas a entidades que incumplan la Ley, y los aportes voluntarios de las organizaciones sociales.
+D. Los provenientes de la Ley 3925 sobre eliminación de subsidios a partidos políticos, y donaciones, legados y cooperación, según la norma.
+Respuesta correcta: D
+Explicación: «1. Recursos provenientes de la Ley 3925 de 21 de agosto de 2008, referida a la eliminación de subsidios a partidos políticos. 2. Donaciones, legados y recursos de cooperación nacional e internacional».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 29 (página impresa s/n; página PDF 10).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+8. [Ley N.º 223] Según el Artículo 45.III, ¿en qué plazo debía promulgarse el Decreto Supremo que establece la estructura del CONALPEDIS?
+A. Dentro de los noventa días siguientes a su promulgación, según la Ley.
+B. Dentro de los ciento ochenta días siguientes a su publicación, según la Ley.
+C. Dentro de los ciento veinte días siguientes a su promulgación.
+D. Dentro del año calendario siguiente a su promulgación, según la Ley.
+Respuesta correcta: C
+Explicación: «La estructura organizacional del CONALPEDIS será establecida mediante Decreto Supremo Reglamentario que deberá ser promulgado dentro de los ciento veinte días siguientes a la promulgación de la presente Ley».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 45, parágrafo III (página impresa s/n; página PDF 15).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+9. [Ley N.º 223] Según el Artículo 36.I, ¿qué deben incorporar las instituciones públicas, servicios privados y Unidades Educativas en actos de relevancia?
+A. Un sistema de traducción simultánea a las lenguas indígenas oficiales, según la Ley.
+B. Un servicio de transporte gratuito para asistentes con discapacidad, según la norma.
+C. Un registro audiovisual de los actos para su posterior difusión pública, conforme a la Ley N.º 223.
+D. La comunicación alternativa y un intérprete en Lengua de Señas Boliviana, según la Ley N.º 223.
+Respuesta correcta: D
+Explicación: «Las instituciones públicas, servicios privados y Unidades Educativas están obligadas a incorporar la comunicación alternativa y un intérprete en Lengua de Señas Boliviana (LSB), para la respectiva traducción a las personas con discapacidad auditiva, en actos de relevancia, nacional, departamental, regional, municipal e indígena originario campesino».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 36, parágrafo I (página impresa s/n; página PDF 13).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+10. [Ley N.º 223] Según el Artículo 3, ¿quiénes están obligados a cumplir la Ley N.º 223?
+A. Todos los Órganos del Estado y las instituciones públicas, privadas, cooperativas y/o de economía mixta.
+B. Solo las instituciones públicas del nivel central del Estado, sin alcanzar a las entidades privadas.
+C. Solo los gobiernos autónomos municipales, en el marco de sus competencias exclusivas en discapacidad, según la Ley.
+D. Solo las organizaciones de personas con discapacidad reconocidas legalmente por el CONALPEDIS.
+Respuesta correcta: A
+Explicación: «La presente Ley es aplicable en todo el territorio del Estado Plurinacional y de cumplimiento obligatorio por todos los Órganos del Estado, así como por las instituciones; sean estas públicas, privadas, cooperativas y/o de economía mixta».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 3 (página impresa s/n; página PDF 2).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+11. [Ley N.º 223] ¿Cómo define el Artículo 5.1 la discapacidad?
+A. Como una enfermedad individual de carácter permanente, que impide a la persona realizar cualquier actividad de la vida diaria sin asistencia, según lo dispuesto en la Ley General N.º 223.
+B. Como el resultado de la interacción de la persona con deficiencias a largo plazo o permanentes con diversas barreras físicas, sociales, culturales y comunicacionales, conforme a norma.
+C. Como la condición médica certificada por un especialista, independiente de las barreras del entorno físico, social y comunicacional, conforme a la Ley N.º 223.
+D. Como la pérdida total de una función corporal, que excluye a la persona de la participación plena en la sociedad en todos los casos, conforme a la Ley N.º 223.
+Respuesta correcta: B
+Explicación: «Discapacidad. Es el resultado de la interacción de la persona, con deficiencias de función físicas, psíquicas, intelectuales y/o sensoriales a largo plazo o permanentes, con diversas barreras físicas, psicológicas, sociales, culturales y comunicacionales».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 5, numeral 1 (página impresa s/n; página PDF 2).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+12. [Ley N.º 223] ¿Cómo define el Artículo 5.18 la educación inclusiva?
+A. La educación que responde a la diversidad mediante adaptaciones físicas, curriculares y personas de apoyo, para reducir la exclusión, según la Ley N.º 223.
+B. La educación impartida en centros especiales separados, con currículos propios para cada tipo de discapacidad del estudiante.
+C. La educación que integra a todos los estudiantes con un currículo único, sin adaptaciones físicas ni personas de apoyo, según la Ley.
+D. La educación a distancia para personas con discapacidad, que evita su desplazamiento a las unidades educativas regulares.
+Respuesta correcta: A
+Explicación: «Educación Inclusiva. La educación debe dar respuesta a la diversidad mediante adaptaciones físicas, curriculares y personas de apoyo buscando mayor participación en el aprendizaje, las culturas y las comunidades para reducir la exclusión de la educación».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 5, numeral 18 (página impresa s/n; página PDF 4).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+13. [Ley N.º 223] ¿Qué son los ajustes razonables según el Artículo 5.22?
+A. Reducciones de las exigencias académicas para todas las personas con discapacidad, sin consideración del caso particular, según la Ley N.º 223.
+B. Adecuaciones arquitectónicas obligatorias en todos los edificios, cualquiera sea su costo o la carga que impongan.
+C. Exoneraciones de deberes a las personas con discapacidad, en sustitución de sus derechos en condiciones de igualdad.
+D. Modificaciones y adaptaciones necesarias, sin carga desproporcionada, para garantizar en un caso particular el goce de derechos en igualdad.
+Respuesta correcta: D
+Explicación: «Ajustes Razonables. Se entenderán las modificaciones, adaptaciones necesarias y adecuadas, que no impongan una carga desproporcionada o indebida, cuando se requiera en un caso particular para garantizar a las personas con discapacidad el goce o ejercicio en igualdad de condiciones, de los derechos humanos y libertades fundamentales».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 5, numeral 22 (página impresa s/n; página PDF 4).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+14. [Ley N.º 223] ¿Qué es el trato preferente según el Artículo 5.2?
+A. Privilegios exclusivos que colocan a las personas con discapacidad por encima de los derechos de las demás personas en todo ámbito, según la Ley N.º 223.
+B. Atención separada en ventanillas especiales, que evita el contacto de las personas con discapacidad con el público en general.
+C. Acciones integradoras que procuran eliminar las desventajas de las personas con discapacidad, garantizando su equiparación con carácter de primacía.
+D. Exención de todos los deberes ciudadanos, como compensación por la situación de discapacidad de la persona beneficiaria.
+Respuesta correcta: C
+Explicación: «Trato Preferente. Son las acciones integradoras que procuran eliminar las desventajas de las personas con discapacidad, garantizando su equiparación e igualdad con el resto de las personas con carácter de primacía».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 5, numeral 2 (página impresa s/n; página PDF 3).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+15. [Ley N.º 223] ¿Qué establece el principio de accesibilidad del Artículo 4.4?
+A. Que las personas con discapacidad deben adaptarse a los servicios existentes, sin obligación de modificar la infraestructura pública del Estado, según la Ley.
+B. Que los servicios de la sociedad puedan acomodarse para ser accedidos sin restricciones arquitectónicas, físicas, sociales, económicas, culturales ni comunicacionales, por mandato legal.
+C. Que solo los edificios públicos nuevos deben ser accesibles, quedando exentos los servicios existentes y los espacios privados del país, según la Ley N.º 223.
+D. Que el acceso a los servicios se garantiza solo a las personas con discapacidad física, sin incluir barreras comunicacionales ni sociales, según la Ley N.º 223.
+Respuesta correcta: B
+Explicación: «Accesibilidad. Por el que los servicios que goza la sociedad puedan también acomodarse para ser accedidos por las personas con discapacidad, sin restricción alguna, sean arquitectónicas, físicas, sociales, económicas, culturales, comunicacionales».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 4, numeral 4 (página impresa s/n; página PDF 2).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+16. [Ley N.º 223] ¿Cómo define el Artículo 5.17 la inclusión social?
+A. Como la asistencia económica directa del Estado a las personas con discapacidad grave, mediante la renta solidaria anual.
+B. Como la incorporación obligatoria de personas con discapacidad en empresas privadas, sin consideración de sus capacidades.
+C. Como el proceso socioeconómico complejo que vincula el desarrollo de capacidades con el acceso igualitario a oportunidades a lo largo del ciclo vital.
+D. Como la atención médica gratuita en la red pública de salud para las personas con discapacidad y sus familias, conforme a norma.
+Respuesta correcta: C
+Explicación: «Inclusión Social. La inclusión social es el proceso socioeconómico complejo, multifactorial y transdisciplinario que vincula el desarrollo de capacidades de todos los miembros de la sociedad con el acceso igualitario a oportunidades a lo largo del ciclo vital […]».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 5, numeral 17 (página impresa s/n; página PDF 4).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+17. [Ley N.º 223] ¿Qué significa el principio de inclusión del Artículo 4.3?
+A. Que todas las personas con discapacidad participan plena y efectivamente en la sociedad, en igualdad de oportunidades, en todos los ámbitos.
+B. Que las personas con discapacidad participan en la sociedad a través de sus representantes legales, sin intervención directa, conforme a norma.
+C. Que las personas con discapacidad participan solo en los ámbitos educativo y de salud, con exclusión de los demás ámbitos.
+D. Que las personas con discapacidad participan en programas especiales separados, para evitar su exposición a barreras.
+Respuesta correcta: A
+Explicación: «Inclusión. Todas las personas con discapacidad participan plena y efectivamente en la sociedad en igualdad de oportunidades, en los ámbitos: económico, político, cultural, social, educativo, deportivo y recreacional».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 4, numeral 3 (página impresa s/n; página PDF 2).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+18. [Ley N.º 223] ¿Qué es la rehabilitación basada en la comunidad según el Artículo 5.20?
+A. Un servicio hospitalario especializado, que traslada a las personas con discapacidad a centros urbanos de rehabilitación, según la Ley N.º 223.
+B. Un programa de internación permanente, que separa a la persona con discapacidad de su familia y de su comunidad de origen, conforme a lo establecido en la Ley N.º 223.
+C. Una estrategia para la rehabilitación, la igualdad de oportunidades, la reducción de la pobreza y la integración social en la propia comunidad, según la norma.
+D. Un aporte económico mensual de la comunidad, destinado a la manutención de las personas con discapacidad grave, en el marco de la Ley N.º 223.
+Respuesta correcta: C
+Explicación: «Rehabilitación Basada en la Comunidad. Estrategia para la rehabilitación, la igualdad de oportunidades, la reducción de la pobreza y la integración social de las personas con discapacidad en su propia comunidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 5, numeral 20 (página impresa s/n; página PDF 4).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+19. [Ley N.º 223] Según el Artículo 7, ¿qué papel tiene la familia respecto a la persona con discapacidad?
+A. Es la tutora exclusiva de la persona con discapacidad, con facultad de decidir por ella en todos los ámbitos de su vida, según la norma.
+B. Es el primer espacio de inclusión, obligado a protegerla promoviendo su autonomía, sin limitar el ejercicio de sus derechos, en el marco de la Ley N.º 223.
+C. Es un apoyo opcional, pues la protección de la persona con discapacidad corresponde exclusivamente al Estado en todos sus niveles, en el marco de la Ley N.º 223.
+D. Es la responsable de su internación en centros especializados, para garantizar su protección fuera del entorno familiar, según la norma.
+Respuesta correcta: B
+Explicación: «I. La familia siendo el primer espacio de inclusión está obligada a proporcionar protección y bienestar a la persona con discapacidad promoviendo su autonomía y respetando su autodeterminación. II. En ningún caso la protección de la familia podrá ser entendida como una limitación al ejercicio de sus derechos y deberes de las personas con discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Segundo: Derechos y deberes de las personas con discapacidad. Art. 7 (página impresa s/n; página PDF 5).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+20. [Ley N.º 223] ¿Cómo define el Artículo 5.16 la habilitación y rehabilitación?
+A. Procedimientos médicos exclusivos para personas con deficiencias adquiridas por accidentes laborales, a cargo del seguro social, conforme a lo establecido en la Ley General N.º 223.
+B. Programas de capacitación laboral obligatoria para personas con discapacidad leve, como condición para recibir beneficios, en el marco de la Ley N.º 223.
+C. Medidas efectivas para que personas con deficiencias congénitas o adquiridas obtengan la máxima independencia y capacidad física, intelectual, social y vocacional, según la Ley.
+D. Tratamientos psiquiátricos de internación para personas con discapacidad mental, hasta su completo restablecimiento clínico, en el marco de la Ley N.º 223.
+Respuesta correcta: C
+Explicación: «Habilitación y Rehabilitación. Son medidas efectivas y pertinentes destinadas a lograr que las personas con deficiencias congénitas o adquiridas puedan obtener la máxima independencia, capacidad física, intelectual, mental, social y vocacional».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 5, numeral 16 (página impresa s/n; página PDF 4).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+21. [Ley N.º 223] Un director debe decidir sobre la inscripción de un estudiante con discapacidad. Según el Artículo 10, ¿qué garantiza el Estado?
+A. El acceso y permanencia de estudiantes con discapacidad en el Sistema Educativo Plurinacional, en el marco de la educación inclusiva e integral, según la norma.
+B. La derivación obligatoria de los estudiantes con discapacidad a centros de educación especial, fuera del sistema regular de educación, en el marco de la Ley N.º 223.
+C. El acceso de estudiantes con discapacidad solo cuando la unidad educativa cuente previamente con toda la infraestructura adecuada.
+D. La inscripción condicionada a una evaluación médica que determine que la discapacidad no afecta el rendimiento académico, por mandato legal.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El Estado Plurinacional de Bolivia garantiza el acceso y permanencia de estudiantes con discapacidad en el Sistema Educativo Plurinacional, en el marco de la educación inclusiva e integral». Aplicación razonada: la Ley se refiere a las Unidades Educativas, a las instituciones o a quienes trabajan con niñas, niños y adolescentes con discapacidad, sin nombrar al director; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Segundo: Derechos y deberes de las personas con discapacidad. Art. 10 (página impresa s/n; página PDF 5).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+22. [Ley N.º 223] Una unidad educativa organiza su acto cívico principal con asistencia de estudiantes y padres con discapacidad auditiva. Según el Artículo 36.I, ¿qué debe garantizar la dirección?
+A. Un espacio separado para las personas con discapacidad auditiva, con material escrito entregado al concluir el acto cívico, según la Ley N.º 223.
+B. La comunicación alternativa y un intérprete en Lengua de Señas Boliviana para la traducción a las personas con discapacidad auditiva, en el marco de la Ley N.º 223.
+C. La lectura del programa en voz alta, pues la interpretación en lengua de señas solo es obligatoria en actos nacionales, conforme a la Ley N.º 223.
+D. La grabación del acto para su posterior transcripción, entregada a las familias que la soliciten por escrito a la dirección, conforme a lo establecido en la Ley N.º 223.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Las instituciones públicas, servicios privados y Unidades Educativas están obligadas a incorporar la comunicación alternativa y un intérprete en Lengua de Señas Boliviana (LSB), para la respectiva traducción a las personas con discapacidad auditiva, en actos de relevancia […]». Aplicación razonada: la Ley se refiere a las Unidades Educativas, a las instituciones o a quienes trabajan con niñas, niños y adolescentes con discapacidad, sin nombrar al director; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 36, parágrafo I (página impresa s/n; página PDF 13).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+23. [Ley N.º 223] Según el Artículo 36.III, ¿con qué deben contar las Unidades Educativas para atender a personas con discapacidad auditiva y visual?
+A. Con una ambulancia propia y personal médico permanente en horario escolar, conforme a la Ley N.º 223.
+B. Con un centro de rehabilitación física instalado dentro de la unidad educativa, según la Ley N.º 223.
+C. Con recursos humanos capacitados en lengua de señas y señalización apropiada interna y externa, por mandato legal.
+D. Con aulas separadas para estudiantes con discapacidad y docentes especializados, según lo dispuesto en la Ley N.º 223.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las instituciones públicas, servicios privados y Unidades Educativas deberán contar con recursos humanos capacitados en lengua de señas y tener la señalización apropiada interna y externa en dichas instituciones, para la atención de personas con discapacidad auditiva y visual». Aplicación razonada: la Ley se refiere a las Unidades Educativas, a las instituciones o a quienes trabajan con niñas, niños y adolescentes con discapacidad, sin nombrar al director; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 36, parágrafo III (página impresa s/n; página PDF 13).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+24. [Ley N.º 223] Según el Artículo 19.II, ¿qué deben conocer las personas que trabajan con niños y adolescentes con discapacidad, como el personal de una unidad educativa?
+A. Las precauciones que se han de tomar para prevenir el abuso sexual, según la norma.
+B. Los procedimientos de calificación y carnetización de la discapacidad.
+C. Las técnicas de rehabilitación física aplicadas por los equipos médicos, según la Ley.
+D. Los requisitos para acceder a la renta solidaria de discapacidad grave.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Las mujeres y varones con discapacidad, sus familias y toda persona que trabaja con mujeres, niños y adolescentes con algún tipo de discapacidad deben estar plenamente informadas de las precauciones que se han de tomar para prevenir el abuso sexual». Aplicación razonada: la Ley se refiere a las Unidades Educativas, a las instituciones o a quienes trabajan con niñas, niños y adolescentes con discapacidad, sin nombrar al director; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Segundo: Derechos y deberes de las personas con discapacidad. Art. 19, parágrafo II (página impresa s/n; página PDF 7).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+25. [Ley N.º 223] Una maestra, madre de un hijo con discapacidad, es amenazada con el despido sin causa justificada. Según el Artículo 34.II, ¿qué garantiza el Estado?
+A. La inamovilidad laboral de los padres, madres y tutores de hijos con discapacidad, si cumplen la normativa y no existen causales de despido, conforme a la Ley N.º 223.
+B. La reubicación de la maestra en un cargo administrativo de menor jerarquía, para que pueda atender mejor a su hijo con discapacidad.
+C. Una indemnización especial en caso de despido, sin garantía de permanencia en el cargo que ejerce en la unidad educativa, según la Ley N.º 223.
+D. La inamovilidad solo si el hijo tiene discapacidad grave o muy grave certificada por los equipos de calificación del Estado, conforme a norma.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El Estado Plurinacional de Bolivia garantizará la inamovilidad laboral a las personas con discapacidad, cónyuges, padres, madres y/o tutores de hijos con discapacidad, siempre y cuando cumplan con la normativa vigente y no existan causales que justifiquen debidamente su despido». Aplicación razonada: la Ley se refiere a las Unidades Educativas, a las instituciones o a quienes trabajan con niñas, niños y adolescentes con discapacidad, sin nombrar al director; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 34, parágrafo II (página impresa s/n; página PDF 12).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+26. [Ley N.º 223] Un docente con discapacidad física trabaja en una unidad educativa sin rampas ni baños accesibles. Según el Artículo 34.III, ¿qué deben hacer las entidades públicas y privadas?
+A. Trasladar al personal con discapacidad a otra entidad accesible, según la Ley.
+B. Reducir la jornada laboral del personal con discapacidad, según la Ley.
+C. Otorgar licencia indefinida al personal con discapacidad, según la Ley.
+D. Brindar accesibilidad a su personal con discapacidad, según la Ley.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Las entidades públicas y privadas deberán brindar accesibilidad a su personal con discapacidad». Aplicación razonada: la Ley se refiere a las Unidades Educativas, a las instituciones o a quienes trabajan con niñas, niños y adolescentes con discapacidad, sin nombrar al director; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 34, parágrafo III (página impresa s/n; página PDF 12).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+27. [Ley N.º 223] Un estudiante con discapacidad intelectual leve no es consultado sobre las decisiones relativas a su educación. Según el Artículo 20, ¿qué derecho se desconoce?
+A. El derecho de las personas con discapacidad intelectual grave a decidir por sí mismas sobre todos los asuntos de su vida, sin apoyo de su familia, en el marco de la Ley N.º 223.
+B. El derecho de los padres a decidir sin consultar al estudiante, en virtud de su autoridad sobre los hijos con discapacidad intelectual leve.
+C. El derecho a recibir la renta solidaria, que corresponde a las personas con discapacidad intelectual leve y moderada desde 2013, según la Ley N.º 223.
+D. El derecho de las personas con discapacidad intelectual y mental, leve y/o moderada, a ser consultadas sobre las decisiones referidas a su educación, según sus posibilidades.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Las personas con discapacidad intelectual y mental, leve y/o moderada, tienen el derecho a ser consultadas respecto a todas las decisiones que se refieran a su vida, salud, educación, familia, seguridad social, según sus posibilidades y medios, proyectándose a la vida independiente». Aplicación razonada: la Ley se refiere a las Unidades Educativas, a las instituciones o a quienes trabajan con niñas, niños y adolescentes con discapacidad, sin nombrar al director; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Segundo: Derechos y deberes de las personas con discapacidad. Art. 20 (página impresa s/n; página PDF 7).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+28. [Ley N.º 223] Una dirección planifica la refacción de su infraestructura escolar existente. Según el Artículo 37.II, ¿qué obligación debe considerar?
+A. Adecuar la infraestructura solo si existe un estudiante con discapacidad inscrito en la gestión correspondiente.
+B. Mantener la infraestructura existente sin cambios, pues la obligación de accesibilidad alcanza solo a construcciones nuevas, conforme a norma.
+C. Adecuar de manera gradual su estructura arquitectónica para garantizar la accesibilidad a las personas con discapacidad, conforme a norma.
+D. Delegar la adecuación al CONALPEDIS, que financia y ejecuta todas las obras de accesibilidad en las unidades educativas.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Todos los Órganos del Estado Plurinacional, en sus distintos niveles, instituciones públicas y privadas, deberán adecuar su estructura arquitectónica, sistemas, medios de comunicación y medios de transporte, de manera gradual, a partir de la promulgación de la presente Ley, para garantizar la accesibilidad a las Personas con Discapacidad». Aplicación razonada: la Ley se refiere a las Unidades Educativas, a las instituciones o a quienes trabajan con niñas, niños y adolescentes con discapacidad, sin nombrar al director; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 37, parágrafo II (página impresa s/n; página PDF 13).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+29. [Ley N.º 223] Al atender a un estudiante con discapacidad que requiere una adaptación específica en la evaluación, ¿qué figura del Artículo 5 orienta la actuación de la dirección?
+A. La rehabilitación basada en la comunidad: estrategia de reducción de la pobreza en la comunidad de origen del estudiante, según la norma.
+B. Los ajustes razonables: modificaciones necesarias que no impongan carga desproporcionada, para garantizar sus derechos en igualdad, según la Ley N.º 223.
+C. La inclusión laboral: empleo integrado en empresas normalizadas en las mismas condiciones que el resto de los trabajadores, según lo dispuesto en la Ley N.º 223.
+D. La asistencia económica estatal: renta solidaria para personas con discapacidad grave y muy grave reconocida por la Ley, según la norma.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Ajustes Razonables. Se entenderán las modificaciones, adaptaciones necesarias y adecuadas, que no impongan una carga desproporcionada o indebida, cuando se requiera en un caso particular para garantizar a las personas con discapacidad el goce o ejercicio en igualdad de condiciones, de los derechos humanos y libertades fundamentales». Aplicación razonada: la Ley se refiere a las Unidades Educativas, a las instituciones o a quienes trabajan con niñas, niños y adolescentes con discapacidad, sin nombrar al director; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 5, numeral 22 (página impresa s/n; página PDF 4).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+30. [Ley N.º 223] Un director advierte que una familia impide a su hijo con discapacidad asistir a actividades educativas. Según el Artículo 21.5, ¿qué consecuencia prevé la Ley para las personas a cargo?
+A. La suspensión inmediata de la autoridad paterna, dispuesta por la dirección de la unidad educativa en la que estudia el niño, según la Ley.
+B. La pérdida de los beneficios que la Ley establece a su favor, por impedir o limitar su participación en actividades educativas.
+C. Una multa económica a favor de la unidad educativa, fijada por el Consejo Educativo Social Comunitario de la comunidad.
+D. La obligación de inscribir al hijo en un centro de educación especial, bajo supervisión del CONALPEDIS y de la Defensoría.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Las personas a cargo de una persona con discapacidad perderán los beneficios a su favor establecidos en la presente Ley de manera enunciativa y no limitativa, cuando: […] 5. Se impida o limite su participación en actividades sociales, laborales, educativas, culturales, políticas, deportivas o recreacionales de las personas con discapacidad». Aplicación razonada: la Ley se refiere a las Unidades Educativas, a las instituciones o a quienes trabajan con niñas, niños y adolescentes con discapacidad, sin nombrar al director; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Segundo: Derechos y deberes de las personas con discapacidad. Art. 21, numeral 5 (página impresa s/n; página PDF 7).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+31. [Ley N.º 223] ¿Qué implica el Artículo 7.II al establecer que la protección de la familia no puede entenderse como limitación?
+A. Que la familia puede limitar los derechos de la persona con discapacidad cuando lo considere necesario para protegerla.
+B. Que la familia no tiene ninguna obligación de proteger a la persona con discapacidad, que corresponde solo al Estado.
+C. Que la protección familiar no puede restringir el ejercicio de los derechos y deberes de la persona con discapacidad.
+D. Que la protección familiar se extingue cuando la persona con discapacidad alcanza la mayoría de edad legal.
+Respuesta correcta: C
+Explicación: «En ningún caso la protección de la familia podrá ser entendida como una limitación al ejercicio de sus derechos y deberes de las personas con discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Segundo: Derechos y deberes de las personas con discapacidad. Art. 7, parágrafo II (página impresa s/n; página PDF 5).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+32. [Ley N.º 223] Según el Artículo 28.II, ¿quiénes no pueden percibir la renta solidaria?
+A. Las personas con discapacidad grave que vivan con su familia, y las que estudien en universidades públicas del país.
+B. Las personas con discapacidad múltiple, y las que reciban medicamentos gratuitos del Ministerio de Salud y Deportes.
+C. Las personas con discapacidad menores de edad, y las que trabajen en el sector privado con remuneración superior al mínimo.
+D. Las personas con discapacidad visual, y las personas con discapacidad mientras desempeñen funciones en el sector público.
+Respuesta correcta: D
+Explicación: «En ningún caso, las personas con discapacidad visual podrán percibir la Renta Solidaria, ni aquellas personas con discapacidad mientras desempeñen funciones en el sector público».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 28, parágrafo II (página impresa s/n; página PDF 9).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+33. [Ley N.º 223] Según el Artículo 25.II, ¿qué deben hacer las entidades financieras respecto al crédito para personas con discapacidad?
+A. Eliminar todo aspecto restrictivo al libre acceso al crédito distinto a la capacidad de reembolso, según la norma.
+B. Otorgar créditos sin evaluación alguna de la capacidad de reembolso del solicitante con discapacidad.
+C. Exigir garantías adicionales a las personas con discapacidad, por el mayor riesgo que representa su condición, según la Ley.
+D. Otorgar créditos solo a través de cooperativas organizadas por personas con discapacidad y sus familiares.
+Respuesta correcta: A
+Explicación: «Las entidades financieras deberán adecuar toda Política crediticia eliminando todo aspecto restrictivo a libre acceso al crédito por parte de personas con discapacidad, padres, madres y/o tutores de personas con discapacidad distinta a la capacidad de rembolso del crédito».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 25, parágrafo II (página impresa s/n; página PDF 9).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+34. [Ley N.º 223] Según el Artículo 37.III, ¿qué se exige a las nuevas construcciones a partir de la promulgación de la Ley?
+A. Contar con las condiciones de accesibilidad establecidas por la Ley, según la norma.
+B. Adecuarse gradualmente a la accesibilidad en un plazo de diez años, conforme a norma.
+C. Contar con accesibilidad solo si superan los tres pisos de altura, según la Ley.
+D. Obtener una autorización del CONALPEDIS antes de iniciar la obra, según la Ley.
+Respuesta correcta: A
+Explicación: «Las nuevas construcciones, sistemas, medios de comunicación y medios de transporte deberán contar con las condiciones de accesibilidad establecidas por la presente Ley a partir de su promulgación».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 37, parágrafo III (página impresa s/n; página PDF 13).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+35. [Ley N.º 223] Según el Artículo 33, ¿qué alcance tiene la exención de tributos para la importación de ayudas técnicas?
+A. Exención parcial del cincuenta por ciento para todos los bienes importados por personas con discapacidad, incluidos vehículos, según lo dispuesto en la Ley N.º 223.
+B. Exención total para órtesis, prótesis y ayudas técnicas, excepto vehículos automotores, sin posibilidad de transferencia onerosa, en el marco de la Ley N.º 223.
+C. Exención total para vehículos automotores adaptados, y parcial para órtesis y prótesis de uso personal y transferibles, según la Ley N.º 223.
+D. Exención total para cualquier importación de las organizaciones de personas con discapacidad, con libre transferencia, según la Ley N.º 223.
+Respuesta correcta: B
+Explicación: «El Estado Plurinacional otorgará a favor de Centros de Habilitación y Rehabilitación de personas con discapacidad, Organizaciones de Personas con Discapacidad y personas con discapacidad, debidamente acreditados, la exención total del pago de tributos para la importación de órtesis, prótesis y ayudas técnicas, exceptuando vehículos automotores […] no pudiendo ser transferidos a título oneroso».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 33 (página impresa s/n; página PDF 12).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+36. [Ley N.º 223] Según el Artículo 18.II, ¿qué derecho tienen las personas con discapacidad en los actos eleccionarios?
+A. A votar desde su domicilio en todos los casos, mediante un notario electoral designado por el Tribunal Supremo Electoral.
+B. A los ajustes razonables para votar libre y conscientemente, incluido ingresar acompañadas de una persona de confianza elegida por ellas, según la Ley.
+C. A ser eximidas de la obligación de votar, sin sanción alguna, por su condición de persona con discapacidad certificada.
+D. A votar acompañadas de un funcionario electoral designado, que marca la papeleta según la indicación de la persona, según la Ley.
+Respuesta correcta: B
+Explicación: «El Tribunal Supremo Electoral introducirá en los actos eleccionarios los ajustes razonables necesarios para que las personas con discapacidad voten libre y conscientemente. Este derecho incluye que ingresen a los recintos de votación acompañados de una persona de confianza elegida por ellos, para recibir la ayuda necesaria».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Segundo: Derechos y deberes de las personas con discapacidad. Art. 18, parágrafo II (página impresa s/n; página PDF 6).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+37. [Ley N.º 223] ¿Qué implica que, según el Artículo 21, la pérdida de beneficios opere «de manera enunciativa y no limitativa»?
+A. Que solo las causales expresamente enumeradas permiten la pérdida de los beneficios, sin otros supuestos, según la Ley.
+B. Que las causales son meras recomendaciones sin efecto jurídico sobre los beneficios de la Ley.
+C. Que las causales enumeradas son ejemplos y no agotan los supuestos en que pueden perderse los beneficios.
+D. Que la pérdida de beneficios requiere siempre una sentencia penal ejecutoriada contra la persona a cargo.
+Respuesta correcta: C
+Explicación: «Las personas a cargo de una persona con discapacidad perderán los beneficios a su favor establecidos en la presente Ley de manera enunciativa y no limitativa, cuando: […]». Aplicación razonada: la expresión «enunciativa y no limitativa» indica una lista abierta.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Segundo: Derechos y deberes de las personas con discapacidad. Art. 21 (página impresa s/n; página PDF 7).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+38. [Ley N.º 223] Según el Artículo 9.II, ¿qué ocurre si una persona con discapacidad queda en estado de abandono u orfandad?
+A. El Estado asume la responsabilidad, de acuerdo a sus competencias en los distintos niveles de gobierno, según la Ley.
+B. La responsabilidad pasa automáticamente a la organización de personas con discapacidad más cercana, según la Ley N.º 223.
+C. La persona queda bajo tutela de la unidad educativa donde estudia, hasta su mayoría de edad, según la Ley.
+D. La responsabilidad recae en los parientes hasta el cuarto grado, sin intervención del Estado, según la Ley.
+Respuesta correcta: A
+Explicación: «En caso que la persona con discapacidad quede en estado de abandono u orfandad el Estado asumirá la responsabilidad del mismo de acuerdo a sus competencias nacionales, departamentales, regionales, municipales e indígena originario campesinos».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Segundo: Derechos y deberes de las personas con discapacidad. Art. 9, parágrafo II (página impresa s/n; página PDF 5).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+39. [Ley N.º 223] Según el Artículo 31.IV, ¿cómo deben suprimirse las barreras arquitectónicas en las unidades educativas que se construyan?
+A. Las barreras se suprimen solo en las unidades educativas privadas, con financiamiento de las familias.
+B. El Estado obligará gradualmente a suprimirlas en los planos de cualquier unidad educativa que se construya en el país.
+C. Las barreras se suprimen solo cuando un estudiante con discapacidad lo solicite formalmente a la dirección, según la Ley.
+D. Las barreras se mantienen en las construcciones nuevas, y se adaptan solo los edificios existentes.
+Respuesta correcta: B
+Explicación: «[…] y en lo referente a las barreras arquitectónicas obligará gradualmente a suprimirlas en los planos de cualquier unidad educativa que se construya en el país, asumiendo las responsabilidades de las instituciones de acuerdo a sus competencias».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 31, parágrafo IV (página impresa s/n; página PDF 10).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+40. [Ley N.º 223] Según el Artículo 22, ¿cómo se determinan los deberes de las personas con discapacidad?
+A. De manera idéntica para todas las personas, sin considerar el grado de discapacidad, según lo dispuesto en la Ley N.º 223.
+B. De acuerdo al grado de discapacidad, sin perjuicio de otros establecidos en la normativa vigente, según la norma.
+C. Únicamente por decisión del CONALPEDIS, mediante resolución para cada persona, conforme a la Ley N.º 223.
+D. Exclusivamente por la familia de la persona con discapacidad, según su criterio, conforme a la Ley N.º 223.
+Respuesta correcta: B
+Explicación: «En el marco de lo establecido por la presente Ley y sin perjuicio de otros establecidos en la normativa vigente, son deberes de las personas de acuerdo al grado de discapacidad: […]».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Segundo: Derechos y deberes de las personas con discapacidad. Art. 22 (página impresa s/n; página PDF 7).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+41. [Ley N.º 223] ¿Qué distingue el grado de discapacidad moderada (Art. 5.12) del grado grave (Art. 5.13)?
+A. En la moderada requiere asistencia permanente de otra persona; en la grave es independiente en todas las actividades de autocuidado, conforme a la Ley N.º 223.
+B. En la moderada la dificultad es compatible con todas las actividades diarias; en la grave se imposibilitan todas sin excepción.
+C. En la moderada la discapacidad es temporal; en la grave es permanente y se califica solo por los equipos del nivel central, según la Ley.
+D. En la moderada la persona es independiente en el autocuidado; en la grave puede estar afectado el autocuidado y requerir asistencia en algunas actividades.
+Respuesta correcta: D
+Explicación: «12. Grado de Discapacidad Moderada. […] causan una disminución importante o imposibilidad de la capacidad de la persona para realizar algunas de las actividades de la vida diaria, siendo independiente en las actividades de autocuidado. 13. Grado de Discapacidad Grave. […] para realizar la mayoría de las actividades de la vida diaria, pudiendo estar afectada alguna de las actividades de autocuidado, requiriendo asistencia de otra persona para algunas actividades».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 5, numerales 12 y 13 (páginas impresas s/n; páginas PDF 3-4).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+42. [Ley N.º 223] ¿Qué diferencia existe entre el grado de discapacidad leve (Art. 5.11) y el muy grave (Art. 5.14)?
+A. En la leve se requiere asistencia permanente; en la muy grave las dificultades son compatibles con las actividades diarias, conforme a lo establecido en la Ley N.º 223.
+B. En la leve se pierde el autocuidado; en la muy grave se conserva la independencia en todas las actividades de la vida, conforme a la Ley N.º 223.
+C. En la leve las dificultades son compatibles con las actividades diarias; en la muy grave se imposibilitan y se requiere asistencia permanente, por mandato legal.
+D. En la leve corresponde la renta solidaria; en la muy grave corresponde solo la exención de tributos de importación, conforme a la Ley N.º 223.
+Respuesta correcta: C
+Explicación: «11. Grado de Discapacidad Leve. […] que justifican alguna dificultad para llevar a cabo las actividades de la vida diaria, pero son compatibles con la práctica de las mismas […] 14. Grado de Discapacidad muy Grave. […] que imposibilitan la realización de las actividades de la vida diaria y requiere asistencia permanente de otra persona».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 5, numerales 11 y 14 (páginas impresas s/n; páginas PDF 3-4).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+43. [Ley N.º 223] ¿Qué distingue la deficiencia (Art. 5.4) de la discapacidad (Art. 5.1)?
+A. La deficiencia es un problema en funciones o estructuras corporales; la discapacidad resulta de la interacción de esas deficiencias con barreras.
+B. La deficiencia resulta de la interacción con barreras sociales; la discapacidad es un problema en las estructuras corporales.
+C. La deficiencia es siempre permanente; la discapacidad es siempre temporal y se supera con rehabilitación comunitaria.
+D. La deficiencia es un término médico sin efecto jurídico; la discapacidad solo existe con carnet expedido por el Estado.
+Respuesta correcta: A
+Explicación: Art. 5.4: «Deficiencia. Son problemas en las funciones fisiológicas o en las estructuras corporales de una persona […]». Art. 5.1: «Discapacidad. Es el resultado de la interacción de la persona, con deficiencias de función físicas, psíquicas, intelectuales y/o sensoriales a largo plazo o permanentes, con diversas barreras […]».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 5, numerales 1 y 4 (páginas impresas s/n; páginas PDF 2-3).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+44. [Ley N.º 223] ¿Qué diferencia existe entre la discapacidad intelectual (Art. 5.8) y la discapacidad mental o psíquica (Art. 5.9)?
+A. La intelectual altera procesos cognitivos, volitivos o afectivos; la psíquica limita la inteligencia por deficiencias del sistema nervioso central.
+B. La intelectual limita la inteligencia y la conducta adaptativa por deficiencias del sistema nervioso; la psíquica altera procesos cognitivos, volitivos o afectivos, según la Ley.
+C. La intelectual causa ceguera y baja visión; la psíquica causa pérdida o limitación auditiva en menor o mayor grado, según lo dispuesto en la Ley N.º 223.
+D. La intelectual es siempre leve; la psíquica es siempre grave y requiere asistencia permanente de otra persona, conforme a lo establecido en la Ley N.º 223.
+Respuesta correcta: B
+Explicación: «8. Personas con Discapacidad Intelectual. Son las personas caracterizadas por deficiencias anatómicas y/o funcionales del sistema nervioso central, que ocasionan limitaciones significativas tanto en el funcionamiento de la inteligencia […] como en la conducta adaptativa. 9. Personas con Discapacidad Mental o Psíquica. Son personas que […] son afectadas por alteraciones de los procesos cognitivos, lógicos, volitivos, afectivos o psicosociales […]».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 5, numerales 8 y 9 (página impresa s/n; página PDF 3).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+45. [Ley N.º 223] ¿Qué distingue la rehabilitación basada en la comunidad (Art. 5.20) del desarrollo inclusivo basado en la comunidad (Art. 5.21)?
+A. La primera busca el desarrollo socioeconómico de todas las personas; el segundo es una estrategia de rehabilitación de personas con discapacidad, según la Ley N.º 223.
+B. La primera es una estrategia de rehabilitación e integración de personas con discapacidad; el segundo, acciones de desarrollo socioeconómico para la igualdad de todas las personas, según la norma.
+C. La primera se aplica en hospitales del nivel central; el segundo se aplica en centros de educación especial de los municipios, conforme a lo establecido en la Ley N.º 223.
+D. La primera es un servicio individual pagado; el segundo es un programa estatal exclusivo para personas con discapacidad grave, conforme a lo establecido en la Ley N.º 223.
+Respuesta correcta: B
+Explicación: «20. Rehabilitación Basada en la Comunidad. Estrategia para la rehabilitación, la igualdad de oportunidades, la reducción de la pobreza y la integración social de las personas con discapacidad en su propia comunidad. 21. Desarrollo Inclusivo Basado en la Comunidad. Diseño e implementación de acciones y políticas en su propia comunidad para el desarrollo socioeconómico y humano que procuran la igualdad de oportunidades y derechos para todas las personas […]».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 5, numerales 20 y 21 (página impresa s/n; página PDF 4).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+46. [Ley N.º 223] ¿Qué diferencia existe entre el principio de igualdad en dignidad (Art. 4.1) y el de igualdad de oportunidades (Art. 4.6)?
+A. La igualdad en dignidad garantiza las mismas posibilidades de acceso; la de oportunidades reconoce la misma dignidad humana.
+B. La igualdad en dignidad se aplica solo a la salud; la de oportunidades se aplica solo al empleo y al crédito, según la Ley.
+C. La igualdad en dignidad es un deber de las personas; la de oportunidades es un deber exclusivo de las familias, según la Ley.
+D. La igualdad en dignidad reconoce la misma dignidad y derechos; la de oportunidades, las mismas posibilidades de acceso al ejercicio de derechos.
+Respuesta correcta: D
+Explicación: «1. Igualdad en Dignidad. Por el que las personas con discapacidad tienen la misma dignidad y derechos que el resto de los seres humanos. […] 6. Igualdad de Oportunidades. Las personas con discapacidad tienen las mismas posibilidades de acceso al ejercicio de los derechos económicos, sociales, políticos […]».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 4, numerales 1 y 6 (página impresa s/n; página PDF 2).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+47. [Ley N.º 223] ¿Qué distingue la inclusión laboral (Art. 5.19) de la promoción económica (Art. 24)?
+A. La inclusión laboral estimula emprendimientos productivos propios; la promoción económica es el empleo integrado en empresas normalizadas.
+B. La inclusión laboral es un subsidio mensual; la promoción económica es la exención de tributos para importaciones, según la norma.
+C. La inclusión laboral es el empleo integrado en igualdad de condiciones; la promoción económica estimula emprendimientos productivos propios, según la Ley.
+D. La inclusión laboral corresponde solo al sector público; la promoción económica corresponde solo a las cooperativas, según la Ley.
+Respuesta correcta: C
+Explicación: Art. 5.19: «Inclusión Laboral. Derecho al empleo integrado en empresas normalizadas y adaptados, es decir, empleo exactamente igual y en las mismas condiciones […]». Art. 24: «[…] el Órgano Ejecutivo estimulará emprendimientos económicos productivos sociales individuales y colectivos efectuados por personas con discapacidad […]».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales y Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 5, numeral 19 (página impresa s/n; página PDF 4) y Art. 24 (páginas impresas s/n; páginas PDF 8-9).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+48. [Ley N.º 223] ¿Qué diferencia existe entre el Directorio del CONALPEDIS (Art. 45.II) y su Director Ejecutivo (Art. 47.IV)?
+A. El Directorio es designado por el Órgano Ejecutivo; el Director Ejecutivo ejerce el control y fiscalización por mayoría de votos, conforme a la Ley N.º 223.
+B. El Directorio está integrado solo por el Órgano Judicial; el Director Ejecutivo es elegido por la COBOPDI en asamblea, según la Ley.
+C. El Directorio tiene funciones de control y fiscalización y decide por mayoría; el Director Ejecutivo es designado por el Órgano Ejecutivo, según la Ley.
+D. El Directorio tiene funciones jurisdiccionales; el Director Ejecutivo tiene funciones legislativas en materia de discapacidad.
+Respuesta correcta: C
+Explicación: Art. 45.II: «El CONALPEDIS contará con un Directorio con funciones de control y fiscalización. Sus decisiones se tomarán por mayoría de votos del total de los miembros». Art. 47.IV: «El o la Director(a) Ejecutivo(a) del CONALPEDIS será designado(a) por el Órgano Ejecutivo».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 45, parágrafo II (página impresa s/n; página PDF 15) y Art. 47, parágrafo IV (página impresa s/n; página PDF 16).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+49. [Ley N.º 223] ¿Qué distingue lo exigido al Sistema Universitario Privado (Art. 31.X) de lo exigido al Sistema Universitario Estatal (Art. 31.XI)?
+A. Al privado, liberación total de valores para personas con discapacidad y sus hijos; al estatal, solo descuentos y becas parciales, según la norma.
+B. Al privado, planes de descuentos y becas para personas con discapacidad; al estatal, liberación de valores para ellas, sus hijos y padres de niños con discapacidad.
+C. Al privado, admisión sin examen para todas las personas con discapacidad; al estatal, cupos limitados según el grado de discapacidad, según lo dispuesto en la Ley N.º 223.
+D. Al privado, ninguna obligación especial; al estatal, la creación de carreras exclusivas para personas con discapacidad, conforme a la Ley N.º 223.
+Respuesta correcta: B
+Explicación: «X. El Sistema Universitario Nacional Privado, deberá contar con planes específicos de descuentos en todos sus niveles de estudio y becas para las personas con discapacidad. XI. El Sistema Universitario Estatal, deberá contar con planes específicos de liberación de valores en todos sus niveles de estudio para las personas con discapacidad, hijos de los mismos, así como los padres de niños con discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 31, parágrafos X y XI (página impresa s/n; página PDF 11).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+50. [Ley N.º 223] ¿Qué diferencia existe entre el Artículo 37.II y el Artículo 37.III respecto a la accesibilidad?
+A. El 37.II exige accesibilidad inmediata en lo nuevo; el 37.III permite adecuar gradualmente lo existente sin plazo alguno, por mandato legal.
+B. El 37.II obliga a adecuar gradualmente lo existente; el 37.III exige que las nuevas construcciones sean accesibles desde la promulgación.
+C. El 37.II se aplica solo a entidades privadas; el 37.III se aplica solo a los Órganos del Estado del nivel central.
+D. El 37.II regula el transporte; el 37.III regula exclusivamente la comunicación televisiva en lengua de señas, según la Ley.
+Respuesta correcta: B
+Explicación: «II. Todos los Órganos del Estado Plurinacional, en sus distintos niveles, instituciones públicas y privadas, deberán adecuar su estructura arquitectónica, sistemas, medios de comunicación y medios de transporte, de manera gradual […]. III. Las nuevas construcciones, sistemas, medios de comunicación y medios de transporte deberán contar con las condiciones de accesibilidad establecidas por la presente Ley a partir de su promulgación».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 37, parágrafos II y III (página impresa s/n; página PDF 13).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+51. [Ley N.º 223] Una unidad educativa rechaza la inscripción de un niño con discapacidad física porque «no tiene rampas». ¿Qué análisis corresponde?
+A. Es justificado, porque la inscripción de estudiantes con discapacidad depende de que la unidad cuente con infraestructura adecuada.
+B. Es justificado si la unidad deriva al niño a un centro de educación especial, que es la vía prevista por la Ley para su atención.
+C. Contradice la Ley solo si la unidad educativa es fiscal, pues las privadas pueden seleccionar a sus estudiantes libremente, según la norma.
+D. Contradice la garantía de acceso y permanencia en el marco de la educación inclusiva y la obligación de adecuar gradualmente la infraestructura, según la norma.
+Respuesta correcta: D
+Explicación: Aplicación razonada: Art. 10: «El Estado Plurinacional de Bolivia garantiza el acceso y permanencia de estudiantes con discapacidad en el Sistema Educativo Plurinacional, en el marco de la educación inclusiva e integral». Art. 37.II: «[…] instituciones públicas y privadas, deberán adecuar su estructura arquitectónica […] de manera gradual […]». Aplicación razonada: la falta de rampas es una barrera que debe suprimirse, no una causa de exclusión.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Segundo: Derechos y deberes de las personas con discapacidad y Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 10 (página impresa s/n; página PDF 5) y Art. 37, parágrafo II (página impresa s/n; página PDF 13).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+52. [Ley N.º 223] Un docente se niega a modificar la forma de evaluar a un estudiante ciego, exigiéndole rendir el mismo examen escrito que sus compañeros. ¿Qué análisis corresponde?
+A. Es correcto, porque la igualdad exige aplicar exactamente el mismo instrumento de evaluación a todos los estudiantes del curso, según la norma.
+B. Es correcto si el estudiante no presenta carnet de discapacidad, requisito previo para cualquier adaptación de la evaluación.
+C. Desconoce la educación inclusiva y los ajustes razonables, que exigen adaptaciones para garantizar sus derechos en igualdad de condiciones.
+D. Desconoce la Ley solo si el estudiante es universitario, pues las adaptaciones son obligatorias solo en la educación superior.
+Respuesta correcta: C
+Explicación: Aplicación razonada: Art. 5.18: «Educación Inclusiva. La educación debe dar respuesta a la diversidad mediante adaptaciones físicas, curriculares y personas de apoyo […]». Art. 5.22: «Ajustes Razonables. Se entenderán las modificaciones, adaptaciones necesarias y adecuadas […] para garantizar a las personas con discapacidad el goce o ejercicio en igualdad de condiciones […]». Aplicación razonada: la igualdad formal sin adaptaciones produce exclusión.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Primero: Disposiciones generales. Art. 5, numerales 18 y 22 (página impresa s/n; página PDF 4).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+53. [Ley N.º 223] Un padre limita a su hija con discapacidad a permanecer en casa, sin permitirle actividades sociales ni educativas, pese a contar con servicios de apoyo. ¿Qué análisis corresponde?
+A. Puede perder los beneficios de la Ley, por limitar las oportunidades de desarrollo y autonomía y su participación en actividades, por mandato legal.
+B. Ejerce legítimamente su autoridad, pues la Ley reconoce a la familia la facultad de decidir sobre la vida de la persona, en el marco de la normativa vigente.
+C. Actúa correctamente, porque la protección familiar prevalece sobre los derechos de la persona con discapacidad, conforme a norma.
+D. Solo incurre en falta si la hija es mayor de edad, pues la Ley no protege la autonomía de las menores, conforme a la normativa vigente.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «1. La familia natural, la sustituta o los servicios sustitutivos del cuidado familiar, a pesar de contar con servicios de apoyo e información, limitan oportunidades de desarrollo y de autonomía a sus miembros con discapacidad. […] 5. Se impida o limite su participación en actividades sociales, laborales, educativas […]». Aplicación razonada: la conducta encaja en las causales 1 y 5 del Art. 21.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Segundo: Derechos y deberes de las personas con discapacidad. Art. 21, numerales 1 y 5 (página impresa s/n; página PDF 7).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+54. [Ley N.º 223] Una institución pública realiza un acto nacional sin intérprete de Lengua de Señas Boliviana, alegando falta de presupuesto. ¿Qué análisis corresponde?
+A. Es justificado, porque la obligación depende de la disponibilidad presupuestaria de cada institución.
+B. Es justificado si el acto se transmite por televisión, pues la emisora asume esa obligación por sí sola, según la Ley.
+C. Incumple la obligación de incorporar comunicación alternativa e intérprete en LSB en actos de relevancia.
+D. Incumple la Ley solo si asistieron personas sordas que reclamaron formalmente durante el acto.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las instituciones públicas, servicios privados y Unidades Educativas están obligadas a incorporar la comunicación alternativa y un intérprete en Lengua de Señas Boliviana (LSB), para la respectiva traducción a las personas con discapacidad auditiva, en actos de relevancia […]». Aplicación razonada: la Ley establece una obligación sin condición presupuestaria.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 36, parágrafo I (página impresa s/n; página PDF 13).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+55. [Ley N.º 223] Una entidad pública construye un nuevo edificio sin rampas ni ascensor, prometiendo adecuarlo «más adelante». ¿Qué análisis corresponde?
+A. Es admisible, porque la Ley permite la adecuación gradual de todas las construcciones, sean nuevas o existentes, según lo dispuesto en la normativa vigente.
+B. Es admisible si la entidad no tiene personal con discapacidad, pues la accesibilidad se exige solo en ese caso, según la norma.
+C. Contradice la Ley: las nuevas construcciones deben contar con condiciones de accesibilidad desde la promulgación de la Ley, según la normativa legal.
+D. Contradice la Ley solo si el edificio supera los cinco pisos, umbral a partir del cual se exige accesibilidad, conforme a norma.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las nuevas construcciones, sistemas, medios de comunicación y medios de transporte deberán contar con las condiciones de accesibilidad establecidas por la presente Ley a partir de su promulgación». Aplicación razonada: la gradualidad se aplica a lo existente, no a lo nuevo.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 37, parágrafo III (página impresa s/n; página PDF 13).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+56. [Ley N.º 223] Un servicio de salud aplica métodos anticonceptivos obligatorios a mujeres con discapacidad intelectual por decisión de sus familias. ¿Qué análisis corresponde?
+A. Es admisible, porque la familia decide sobre la salud reproductiva de las personas con discapacidad intelectual, conforme a lo establecido en la Ley General N.º 223.
+B. Es admisible si el médico lo recomienda, pues el criterio clínico prevalece sobre la voluntad de la persona, según lo dispuesto en la Ley N.º 223.
+C. Vulnera la Ley solo si la mujer tiene discapacidad leve, pues en los demás grados decide la familia, conforme a lo establecido en la normativa vigente.
+D. Vulnera los derechos sexuales y reproductivos, pues la Ley garantiza protección contra la esterilización o anticoncepción obligatoria, según la normativa legal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «VI. […] salvaguardando los derechos sexuales y reproductivos, contra la esterilización obligatoria o suministro de métodos anticonceptivos obligatorios […]. VII. El Estado Plurinacional garantiza que toda persona con discapacidad, en especial las mujeres, tienen derecho a controlar y resolver libre y responsablemente cuestiones relacionadas con su sexualidad, salud sexual y reproductiva libre de coacciones, discriminaciones y violencia». Aplicación razonada: la imposición familiar contradice la libertad reproductiva garantizada.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 32, parágrafos VI y VII (página impresa s/n; página PDF 12).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+57. [Ley N.º 223] Un canal de televisión emite programas de interés general sin interpretación en Lengua de Señas ni subtitulado. ¿Qué análisis corresponde?
+A. Es admisible, porque la obligación de interpretación alcanza solo a la televisión pública y no a la privada, según la Ley N.º 223.
+B. Es admisible si el canal emite un programa semanal específico para personas con discapacidad auditiva, en el marco de la Ley N.º 223.
+C. Incumple la obligación de incluir la interpretación en LSB y tecnología que sustituya la información sonora en esos programas, conforme a la Ley N.º 223.
+D. Incumple la Ley solo en programas políticos, pues los demás contenidos están exentos de interpretación, conforme a la normativa vigente.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las empresas de televisión pública y privada, deben incluir la interpretación a la Lengua de Señas Boliviana, en programas de interés general, cultural, recreativo, político, educativo y social, así como la utilización tecnológica apropiada que permita sustituir la información sonora de los programas». Aplicación razonada: la omisión contraviene el Art. 36.II.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 36, parágrafo II (página impresa s/n; página PDF 13).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+58. [Ley N.º 223] Una persona con discapacidad que trabaja en el sector público solicita la renta solidaria por tener discapacidad grave. ¿Qué análisis corresponde?
+A. Puede percibirla, pues la renta corresponde a toda persona con discapacidad grave.
+B. Puede percibirla si su remuneración es inferior a dos salarios mínimos nacionales.
+C. Puede percibirla solo durante sus vacaciones anuales en la función pública.
+D. No puede percibirla mientras desempeñe funciones en el sector público.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «En ningún caso, las personas con discapacidad visual podrán percibir la Renta Solidaria, ni aquellas personas con discapacidad mientras desempeñen funciones en el sector público». Aplicación razonada: la función pública es causal expresa de exclusión de la renta.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 28, parágrafo II (página impresa s/n; página PDF 9).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+59. [Ley N.º 223] Una universidad pública cobra a un estudiante con discapacidad por la emisión de su título en provisión nacional. ¿Qué análisis corresponde?
+A. Es contrario a la Ley: las universidades deben extender de manera gratuita los diplomas y títulos a las personas con discapacidad, por mandato legal.
+B. Es correcto, porque la gratuidad alcanza solo a la matrícula y no a los trámites de titulación académica, conforme a la Ley N.º 223.
+C. Es correcto si el estudiante no tiene discapacidad grave, pues la gratuidad depende del grado de discapacidad, conforme a lo establecido en la Ley N.º 223.
+D. Es contrario a la Ley solo en universidades privadas, pues las públicas tienen su propio régimen de valores, conforme a la normativa vigente.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Todas las Universidades Públicas y Privadas deberán extender de manera gratuita los diplomas académicos, y títulos en provisión nacional a las personas con discapacidad». Aplicación razonada: el cobro contradice la gratuidad dispuesta.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 31, parágrafo VIII (página impresa s/n; página PDF 11).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+60. [Ley N.º 223] Un banco niega un crédito a una persona con discapacidad visual solvente, alegando «riesgo por su condición». ¿Qué análisis corresponde?
+A. Contradice la Ley, que obliga a eliminar todo aspecto restrictivo al crédito distinto a la capacidad de reembolso, por mandato legal.
+B. Es legítimo, porque la entidad financiera puede valorar la discapacidad como un factor de riesgo crediticio, en el marco de la Ley N.º 223.
+C. Es legítimo si el banco ofrece a cambio un microcrédito de menor monto con garantía de un familiar, por mandato legal.
+D. Contradice la Ley solo si el crédito es para vivienda, pues los demás créditos se rigen por el mercado, según la norma.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Las entidades financieras deberán adecuar toda Política crediticia eliminando todo aspecto restrictivo a libre acceso al crédito por parte de personas con discapacidad, padres, madres y/o tutores de personas con discapacidad distinta a la capacidad de rembolso del crédito». Aplicación razonada: la discapacidad no es un criterio válido para negar el crédito.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 25, parágrafo II (página impresa s/n; página PDF 9).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+61. [Ley N.º 223] Una asociación de padres de niños con discapacidad tramita su personalidad jurídica. Según el Artículo 35, ¿qué beneficio le corresponde?
+A. Un descuento del cincuenta por ciento en los aranceles, otorgado por el Ministerio de Justicia como cabeza del sector, en el marco de la Ley N.º 223.
+B. La exención de todos los impuestos durante cinco años, otorgada por el Servicio de Impuestos Nacionales, según la Ley N.º 223.
+C. La gratuidad del trámite de reconocimiento de la personalidad jurídica, otorgada por el Ministerio de Autonomías y los Gobiernos Departamentales.
+D. La asignación de un local gratuito para su funcionamiento, otorgada por el Gobierno Autónomo Municipal, conforme a la Ley N.º 223.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El Ministerio de Autonomías y los Gobiernos Departamentales del Estado Plurinacional otorgarán el beneficio de gratuidad para el trámite de reconocimiento de la personalidad jurídica de las organizaciones de personas con discapacidad, asociaciones de familiares y/o tutores legales de personas con discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 35 (página impresa s/n; página PDF 13).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+62. [Ley N.º 223] Un joven con discapacidad necesita su libreta de servicio militar. Según el Artículo 40, ¿qué dispone la Ley?
+A. La gratuidad del trámite de la libreta de servicio militar, en el marco de la Ley N.º 223.
+B. La exención total de la obligación de contar con libreta, según la Ley N.º 223.
+C. El descuento del cincuenta por ciento en el trámite de libreta, en el marco de la Ley N.º 223.
+D. La emisión de la libreta solo con certificación de la COBOPDI, conforme a norma.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Se establece la gratuidad del trámite de la libreta de servicio militar para las personas con discapacidad que requieran de este documento».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 40 (página impresa s/n; página PDF 14).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+63. [Ley N.º 223] Una persona con discapacidad muy grave necesita un certificado de nacimiento. Según el Artículo 41, ¿qué beneficio le corresponde?
+A. Un descuento parcial en el certificado, implementado por el Ministerio de Justicia en todas sus oficinas departamentales.
+B. La gratuidad en la emisión de certificados de nacimiento, matrimonio y defunción, implementada por el Órgano Electoral.
+C. La emisión domiciliaria del certificado, con un costo adicional a cargo del gobierno municipal de su residencia.
+D. La exención de presentar certificados en cualquier trámite público, sin necesidad de obtenerlos ante el registro.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El Órgano Electoral Plurinacional implementará las medidas correspondientes que permitan a toda persona con discapacidad grave y muy grave acceder al beneficio de gratuidad en la emisión de certificados de nacimiento, matrimonio y defunción».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 41 (página impresa s/n; página PDF 14).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+64. [Ley N.º 223] Un postulante con discapacidad auditiva rinde el examen de ingreso a un instituto técnico. Según el Artículo 31.IX, ¿qué debe facilitar la institución?
+A. Instrumentos de evaluación adecuados, especialmente apoyos en braille e intérpretes de lengua de señas.
+B. Su exención del examen de ingreso, con admisión directa por su condición de discapacidad sensorial.
+C. Un examen oral en lugar del escrito, sin intérprete ni otros apoyos de comunicación alternativa.
+D. Un plazo adicional de una semana para rendir el examen, sin adaptación de los instrumentos de evaluación.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Los Institutos Técnicos, Escuelas de Formación Superior, Universidades Públicas y Privadas deberán facilitar las condiciones para que todos los postulantes y estudiantes con discapacidad sensorial cuenten con instrumentos de evaluación adecuados, especialmente a través de dotación de instrumentos de apoyo en braille e intérpretes de lengua de señas […]».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 31, parágrafo IX (página impresa s/n; página PDF 11).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+65. [Ley N.º 223] Un Concejo Municipal debe normar el estacionamiento en espacios públicos. Según el Artículo 48.II.5, ¿qué debe garantizar para las personas con discapacidad?
+A. Tarifas reducidas en todos los parqueos privados del municipio, según la Ley.
+B. Privilegio en los espacios de parqueos públicos y libre estacionamiento, según la Ley.
+C. Prohibición de estacionar en zonas céntricas para todo vehículo, según la Ley.
+D. Exención del pago de impuestos municipales a sus vehículos, según la Ley.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «5. Privilegio en los espacios de parqueos públicos y libre estacionamiento».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 48, parágrafo II, numeral 5 (página impresa s/n; página PDF 17).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+66. [Ley N.º 223] Una ONG que trabaja con programas de discapacidad debe registrarse. Según el Artículo 46.10, ¿ante quién?
+A. Ante la Confederación COBOPDI, conforme a norma.
+B. Ante el Ministerio de Salud y Deportes, conforme a norma.
+C. Ante el Concejo Municipal respectivo, según la Ley.
+D. Ante el Comité Nacional CONALPEDIS, por mandato legal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «10. Registrar a las Organizaciones no Gubernamentales, Fundaciones y Asociaciones Civiles sin fines de lucro que trabajan con programas y proyectos en materia de discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 46, numeral 10 (página impresa s/n; página PDF 16).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+67. [Ley N.º 223] Un Ministerio del Órgano Ejecutivo prepara un programa para personas con discapacidad. Según el Artículo 46.9, ¿qué carácter tiene la intervención del CONALPEDIS?
+A. Es el organismo de consulta y asesoría obligatoria para ese programa.
+B. Es un organismo de consulta facultativa, sin carácter vinculante.
+C. Es el organismo que ejecuta directamente el programa del Ministerio, según la Ley.
+D. Es el organismo que financia el programa con recursos propios, según la Ley.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «9. Ser el organismo de consulta y asesoría obligatoria para las dependencias y Ministerios del Órgano Ejecutivo que realicen programas y proyectos relacionados con las personas con discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 46, numeral 9 (página impresa s/n; página PDF 16).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+68. [Ley N.º 223] Una persona con discapacidad debe declarar como testigo en un proceso judicial. Según el Artículo 38.I, ¿qué asegurará el Estado?
+A. Acceso a la justicia y ayuda psicológica, social y comunicacional en igualdad de condiciones, incluida su declaración como testigo, según la Ley N.º 223.
+B. Su exención de declarar como testigo, por su condición de persona con discapacidad certificada por el Estado, conforme a la Ley N.º 223.
+C. Su declaración por escrito a través de un familiar, sin presencia en el procedimiento judicial correspondiente, conforme a lo establecido en la Ley N.º 223.
+D. Su sustitución como testigo por un representante de la COBOPDI, que declara en su nombre en la audiencia, conforme a la Ley N.º 223.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El Estado Plurinacional de Bolivia, asegurará que las personas con discapacidad tengan acceso a la justicia y ayuda psicológica, social y comunicacional en igualdad de condiciones con los demás […] incluida la declaración como testigos, en todos los procedimientos judiciales».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 38, parágrafo I (página impresa s/n; página PDF 14).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+69. [Ley N.º 223] Una persona con discapacidad requiere medicamentos de necesidad permanente y no tiene otra forma de obtenerlos. Según el Artículo 32.II, ¿qué dispone la Ley?
+A. El Estado los otorgará con un descuento del cincuenta por ciento en las farmacias de la red pública, según la Ley.
+B. La familia debe cubrir los medicamentos, con reembolso posterior a cargo del gobierno municipal, según la norma.
+C. El CONALPEDIS los importará con exención de tributos y los venderá a precio de costo, conforme a la Ley N.º 223.
+D. El Estado los otorgará de manera gratuita, cuando no cuente con otros mecanismos de provisión, sujeto a reglamento, según la norma.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El Estado Plurinacional de Bolivia, otorgará medicamentos e insumos de necesidad permanente relacionados con la discapacidad de manera gratuita para personas con discapacidad, cuando no cuenten con otros mecanismos de provisión, sujeto a reglamento».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 32, parágrafo II (página impresa s/n; página PDF 11).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+70. [Ley N.º 223] Una empresa privada consulta qué obligación social tiene respecto a las personas con discapacidad. Según el Artículo 30, ¿qué dispone la Ley?
+A. Cumplir la responsabilidad social empresarial a favor de las personas con discapacidad, realizando actividades de apoyo, conforme a norma.
+B. Pagar un tributo especial destinado al CONALPEDIS para financiar sus programas de rehabilitación, conforme a la Ley N.º 223.
+C. Contratar obligatoriamente al menos el diez por ciento de su personal entre personas con discapacidad, conforme a lo establecido en la Ley N.º 223.
+D. Ninguna obligación, pues la Ley alcanza solo a las entidades públicas del Estado Plurinacional, en el marco de la normativa vigente.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Las empresas privadas legalmente constituidas en todo el territorio del Estado Plurinacional deberán cumplir con la responsabilidad social empresarial a favor de las personas con discapacidad realizando actividades de apoyo para las personas con discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 30 (página impresa s/n; página PDF 10).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Ley N.º 223] Caso: un estudiante con discapacidad auditiva se incorpora a una unidad educativa regular. La dirección quiere atenderlo adecuadamente. ¿Qué obligación del Artículo 36.III orienta su respuesta?
+A. Derivarlo a un centro de educación especial, pues las unidades regulares no tienen esa obligación, en el marco de la Ley N.º 223.
+B. Asignarle un tutor familiar que traduzca las clases, con cargo a la familia del estudiante, conforme a norma.
+C. Eximirlo de las evaluaciones orales, sin otras adaptaciones de comunicación alternativa, según la Ley N.º 223.
+D. Contar con recursos humanos capacitados en lengua de señas y señalización apropiada interna y externa, según la Ley N.º 223.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Las instituciones públicas, servicios privados y Unidades Educativas deberán contar con recursos humanos capacitados en lengua de señas y tener la señalización apropiada interna y externa en dichas instituciones, para la atención de personas con discapacidad auditiva y visual». Aplicación razonada: la obligación alcanza expresamente a las Unidades Educativas.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 36, parágrafo III (página impresa s/n; página PDF 13).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Ley N.º 223] Caso: los docentes de una unidad no saben cómo enseñar a estudiantes con discapacidad. ¿Qué garantía del Artículo 31.VII orienta la solución?
+A. Que los estudiantes con discapacidad sean trasladados a otra unidad con docentes ya capacitados en esa materia, conforme a la Ley N.º 223.
+B. Que el Estado organice cursos que capaciten a los docentes en ejercicio en técnicas psicopedagógicas para enseñar a estudiantes con discapacidad, conforme a norma.
+C. Que los padres contraten docentes particulares especializados, con descuento de la pensión escolar, conforme a lo establecido en la Ley N.º 223.
+D. Que la unidad suspenda la inscripción de estudiantes con discapacidad hasta que sus docentes se especialicen, en el marco de la Ley N.º 223.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El Estado Plurinacional, organizará cursos que capaciten a los docentes en actual ejercicio en el aprendizaje de las técnicas psicopedagógicas necesarias para enseñar a estudiantes con discapacidad […]». Aplicación razonada: la necesidad formativa de los docentes en ejercicio se atiende con esta garantía.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 31, parágrafo VII (página impresa s/n; página PDF 11).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Ley N.º 223] Caso: una unidad educativa necesita materiales en braille y recursos de comunicación para estudiantes con discapacidad. ¿Qué disposición respalda su gestión?
+A. El Artículo 33, que exime de tributos la importación de vehículos automotores destinados a unidades educativas, conforme a la Ley N.º 223.
+B. El Artículo 29, que destina las donaciones internacionales exclusivamente a la compra de material escolar, en el marco de la Ley N.º 223.
+C. El Artículo 31.V, por el que el Estado promoverá la dotación de recursos didácticos y comunicacionales a las Unidades Educativas Regulares, según la Ley.
+D. El Artículo 28, que permite a las unidades educativas cobrar la renta solidaria de sus estudiantes con discapacidad, conforme a lo establecido en la Ley N.º 223.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El Estado Plurinacional promoverá la dotación de todos los recursos didácticos y comunicacionales necesarios para la enseñanza a estudiantes con discapacidad a las Unidades Educativas Regulares, Centros de Educación Alternativa y Especial, Escuelas Superiores de Formación de Maestras y Maestros e Instituciones Técnicas de dependencia fiscal y de convenio».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 31, parágrafo V (página impresa s/n; página PDF 10).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Ley N.º 223] Caso: un tutor comete actos de violencia intrafamiliar contra la persona con discapacidad a su cargo. ¿Qué consecuencia prevé el Artículo 21.2 respecto a los beneficios de la Ley?
+A. El tutor pierde los beneficios a su favor establecidos en la Ley, según la normativa legal.
+B. El tutor conserva los beneficios hasta la conclusión del proceso penal.
+C. El tutor transfiere los beneficios a la persona con discapacidad agredida, según la norma.
+D. El tutor pierde los beneficios solo si reincide en una segunda ocasión.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Las personas a cargo de una persona con discapacidad perderán los beneficios a su favor establecidos en la presente Ley […] cuando: […] 2. Se cometen actos de violencia doméstica, violencia intrafamiliar y todo género de abusos y malos tratos, discriminación, racismo, tipificados en el Código Penal […]».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Segundo: Derechos y deberes de las personas con discapacidad. Art. 21, numeral 2 (página impresa s/n; página PDF 7).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Ley N.º 223] Caso: en una comunidad rural, una persona con discapacidad no tiene acceso a servicios de rehabilitación. ¿Qué estrategia prevé el Artículo 32.V para incorporar en las políticas?
+A. El traslado obligatorio de la persona a un centro urbano de rehabilitación, con gastos a cargo de la familia, en el marco de la Ley N.º 223.
+B. La internación permanente en un albergue departamental, separando a la persona de su comunidad de origen, según la Ley.
+C. La entrega de la renta solidaria, como sustituto de los servicios de rehabilitación en la comunidad rural, según la Ley.
+D. La estrategia de la rehabilitación basada en la comunidad, en políticas sociales, culturales, interculturales y económicas, según la Ley.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El Estado Plurinacional de Bolivia, establecerá la incorporación de la estrategia de la rehabilitación basada en la comunidad en políticas sociales, culturales, interculturales y económicas para personas con discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 32, parágrafo V (página impresa s/n; página PDF 12).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Ley N.º 223] Caso: un grupo de madres de niños con discapacidad desea organizar una cooperativa productiva. ¿Qué disposición respalda su iniciativa?
+A. El Artículo 33, que exime de tributos la importación de vehículos para las cooperativas de personas con discapacidad, según lo dispuesto en la Ley General N.º 223.
+B. El Artículo 26, por el que el Estado promueve y respalda las cooperativas organizadas por personas con discapacidad, padres, madres o tutores, conforme a norma.
+C. El Artículo 28, que otorga la renta solidaria a las cooperativas integradas por madres de niños con discapacidad, conforme a la Ley N.º 223.
+D. El Artículo 45, que encarga al CONALPEDIS la administración directa de las cooperativas de padres y madres, en el marco de la Ley N.º 223.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «I. El Estado Plurinacional, promueve y respalda la organización y funcionamiento de las cooperativas organizadas por personas con discapacidad, padres, madres y /o tutores de personas con discapacidad. […]».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 26, parágrafo I (página impresa s/n; página PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Ley N.º 223] Caso: un estudiante con discapacidad psicosocial requiere atención educativa para desarrollar sus potencialidades. ¿Qué garantiza el Artículo 31.II?
+A. Su exclusión temporal del sistema educativo, hasta que concluya un tratamiento psiquiátrico completo, en el marco de la Ley N.º 223.
+B. Su desarrollo educativo permanente, mediante la constante capacitación de los diferentes estamentos educativos, según la norma.
+C. Su atención exclusiva por profesionales de salud, sin intervención de los estamentos educativos, según la norma.
+D. Su promoción automática de curso, sin evaluación ni seguimiento de su desarrollo educativo, según la Ley N.º 223.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El Estado Plurinacional garantiza el desarrollo educativo permanente de las potencialidades individuales de la persona con discapacidad psicosocial a través de la constante capacitación de los diferentes estamentos educativos para la atención efectiva del desarrollo de estas potencialidades».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 31, parágrafo II (página impresa s/n; página PDF 10).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Ley N.º 223] Caso: una persona con discapacidad en situación de abandono necesita un lugar donde vivir. ¿Qué promueve el Estado según el Artículo 16?
+A. La entrega de una vivienda propia gratuita a toda persona con discapacidad abandonada.
+B. La asignación de la persona a una familia elegida por la unidad educativa del lugar.
+C. La internación en un hospital psiquiátrico hasta que un familiar asuma su cuidado.
+D. La existencia de albergues o centros de acogida, garantizando una atención con calidad y calidez.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El Estado Plurinacional de Bolivia, para las personas con discapacidad, en situación de abandono promueve la existencia de albergues o centros de acogida y garantiza una atención con calidad y calidez».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Segundo: Derechos y deberes de las personas con discapacidad. Art. 16 (página impresa s/n; página PDF 6).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Ley N.º 223] Caso: una persona con discapacidad visual debe orientarse en espacios públicos del municipio. ¿Qué norma del Artículo 48.II resulta aplicable?
+A. La exención de impuestos a los perros guía de las personas con discapacidad visual, según lo dispuesto en la Ley N.º 223.
+B. La prohibición de circular sin acompañante por las vías peatonales del municipio, según la Ley N.º 223.
+C. La señalización de audición para personas ciegas en todos los espacios públicos y privados, según la Ley N.º 223.
+D. La obligación de portar un distintivo visible en todos los espacios públicos, conforme a la Ley N.º 223.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «6. Señalización de audición para personas ciegas en todos los espacios públicos y privados».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 48, parágrafo II, numeral 6 (página impresa s/n; página PDF 17).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Ley N.º 223] Caso: el padre de un estudiante con discapacidad desea estudiar en una universidad estatal. ¿Qué dispone el Artículo 31.XI a su favor?
+A. Que el padre ingrese sin examen de admisión a cualquier carrera, por ser padre de un niño con discapacidad, por mandato legal.
+B. Que el Sistema Universitario Estatal cuente con planes de liberación de valores también para los padres de niños con discapacidad, por mandato legal.
+C. Que el padre reciba una beca completa de manutención, financiada por el CONALPEDIS y la universidad, conforme a la Ley N.º 223.
+D. Que el padre no tenga ningún beneficio, pues la liberación de valores alcanza solo a la persona con discapacidad, según la Ley.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El Sistema Universitario Estatal, deberá contar con planes específicos de liberación de valores en todos sus niveles de estudio para las personas con discapacidad, hijos de los mismos, así como los padres de niños con discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 31, parágrafo XI (página impresa s/n; página PDF 11).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Ley N.º 223] Una gobernación decide cómo priorizar el acceso a sus programas de reducción de la pobreza. ¿Qué decisión es coherente con el Artículo 23?
+A. Excluir a las personas con discapacidad de esos programas, por recibir ya la renta solidaria del nivel central del Estado.
+B. Priorizar solo a personas con discapacidad grave, excluyendo a sus padres, madres y tutores de todos los programas, conforme a norma.
+C. Priorizar el acceso de personas con discapacidad, y de sus padres, madres o tutores, a planes de inclusión social y reducción de la pobreza, según la norma.
+D. Delegar la priorización a las empresas privadas, en el marco de su responsabilidad social empresarial, en el marco de la Ley N.º 223.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El Órgano Ejecutivo, los Gobiernos Autónomos Departamentales, los Gobiernos Autónomos Municipales y Gobiernos Autónomos Indígena Originario Campesinos deberán priorizar el acceso de personas con discapacidad, a planes y programas de promoción e inclusión social y a estrategias de reducción de la pobreza […] padres, madres y/o tutores de personas con discapacidad, en el marco de sus competencias».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 23 (página impresa s/n; página PDF 8).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Ley N.º 223] Un gobierno municipal decide cómo organizar su atención a las personas con discapacidad. ¿Qué exige el Artículo 42?
+A. Delegar toda la atención al CONALPEDIS, sin unidades propias en la estructura del gobierno municipal, conforme a la Ley N.º 223.
+B. Contar con unidades especializadas para ejecutar planes, programas y proyectos integrales a favor de las personas con discapacidad, según la norma.
+C. Crear un juzgado municipal de discapacidad, con competencia para sancionar las vulneraciones de derechos, conforme a lo establecido en la Ley N.º 223.
+D. Contratar a la COBOPDI para que ejecute los programas municipales en nombre del gobierno autónomo, en el marco de la Ley N.º 223.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El Órgano Ejecutivo, los Gobiernos Autónomos Departamentales, Regionales y Municipales, en el marco de la Constitución Política del Estado y la Ley Nº 31 […] contarán con unidades especializadas para la ejecución de planes, programas y proyectos integrales a favor de las personas con discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 42 (página impresa s/n; página PDF 14).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Ley N.º 223] Una entidad pública diseña un programa de discapacidad y decide cómo involucrar a las organizaciones del sector. ¿Qué exige el Artículo 44?
+A. Diseñarlo sin participación de las organizaciones, para evitar conflictos de interés en su ejecución, según lo dispuesto en la Ley N.º 223.
+B. Consultar a las organizaciones solo al concluir el programa, para evaluar sus resultados finales, según la Ley N.º 223.
+C. Someterlo al control social, la rendición de cuentas y la consulta permanente con las organizaciones de personas con discapacidad.
+D. Delegar el diseño y la ejecución a las organizaciones, sin control de la entidad pública responsable, conforme a norma.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las políticas públicas, programas y proyectos en materia de discapacidad, estarán sujetos al control social, rendición de cuentas y a la consulta permanente con las organizaciones de personas con discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 44 (página impresa s/n; página PDF 15).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Ley N.º 223] Un Concejo Municipal decide sobre normas de construcción de edificios públicos. ¿Qué atribución le reconoce el Artículo 48.I?
+A. Exceptuar de la accesibilidad a los edificios públicos con valor histórico o patrimonial, según lo dispuesto en la Ley N.º 223.
+B. Delegar las normas técnicas al CONALPEDIS, sin competencia municipal sobre la materia, según la Ley N.º 223.
+C. Dictar normas solo para construcciones privadas, sin alcance sobre las obras públicas, según la Ley N.º 223.
+D. Dictar normas sobre condiciones técnicas de diseño de obras públicas y la adecuación de las existentes, según la norma.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Los Gobiernos Autónomos Departamentales y Gobiernos Autónomos Municipales, dictarán normas sobre condiciones y especificaciones técnicas de diseño y elaboración de proyectos y obras de edificación, en construcciones públicas, así como para la adecuación de las ya existentes».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 48, parágrafo I (página impresa s/n; página PDF 17).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Ley N.º 223] El Ministerio de Salud y Deportes decide cómo organizar la calificación de la discapacidad en el territorio. ¿Qué dispone el Artículo 32.III?
+A. Concentrar la calificación en una sola oficina nacional, sin participación de las entidades territoriales autónomas, conforme a lo establecido en la Ley N.º 223.
+B. Mantener y distribuir racionalmente, con las autonomías y mancomunidades, los equipos multidisciplinarios de calificación continua, conforme a la Ley N.º 223.
+C. Delegar la calificación a las unidades educativas, que certifican la discapacidad de sus estudiantes inscritos, conforme a la Ley N.º 223.
+D. Suspender la calificación hasta que el CONALPEDIS apruebe un nuevo protocolo técnico y científico, según lo dispuesto en la Ley N.º 223.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El Estado Plurinacional de Bolivia, mediante el Ministerio de Salud y Deportes en coordinación con las entidades territoriales autónomas, mantendrán y distribuirán racionalmente incluyendo mancomunidades de municipios, los equipos multidisciplinarios para la calificación continua de todas las personas con discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 32, parágrafo III (página impresa s/n; página PDF 11).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Ley N.º 223] El Estado decide cómo orientar a los centros de educación especial existentes. ¿Qué dispone el Artículo 45.V?
+A. Orientar su transformación gradual hacia centros de recursos de rehabilitación, conforme a la rehabilitación basada en la comunidad.
+B. Cerrar de inmediato todos los centros de educación especial y trasladar a los estudiantes a hospitales públicos.
+C. Mantenerlos sin cambios, como única alternativa educativa para todas las personas con discapacidad, según la Ley.
+D. Privatizarlos y transferir su administración a las organizaciones de personas con discapacidad, conforme a norma.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El Estado, mediante el CONALPEDIS orientará la transformación gradual de las instituciones especializadas y centros de educación especial hacia la conformación de centros de recursos de rehabilitación, conforme a la política mundial de rehabilitación basada en la comunidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 45, parágrafo V (página impresa s/n; página PDF 15).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Ley N.º 223] Una Escuela Superior de Formación de Maestros revisa sus planes de estudio. ¿Qué decisión es coherente con el Artículo 31.III?
+A. Introducir contenidos psicopedagógicos que habiliten a los maestros en formación para la enseñanza personalizada a estudiantes con discapacidad, por mandato legal.
+B. Eliminar los contenidos sobre discapacidad, pues la enseñanza especializada corresponde a otras carreras profesionales, por mandato legal.
+C. Ofrecer contenidos sobre discapacidad solo como materia optativa, sin carácter habilitante para los maestros, en el marco de la Ley N.º 223.
+D. Limitar la formación a la discapacidad física, excluyendo la intelectual, sensorial y psicosocial del plan de estudios, por mandato legal.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El Estado Plurinacional, introducirá en todos los planes de estudio, psicopedagógicos que habiliten a todos los maestros y maestras, en formación para la enseñanza personalizada a todos los estudiantes con discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 31, parágrafo III (página impresa s/n; página PDF 10).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Ley N.º 223] Una red de salud decide cómo mejorar la atención a personas con discapacidad. ¿Qué dispone el Artículo 32.I?
+A. Crear servicios de salud separados y exclusivos, sin capacitación del personal de la red de servicios públicos, según la Ley.
+B. Derivar a todas las personas con discapacidad a servicios privados especializados, con costo a cargo del Estado, en el marco de la Ley N.º 223.
+C. Atender a las personas con discapacidad solo en emergencias, sin servicios de promoción ni de prevención, según la norma.
+D. Diseñar, ejecutar y evaluar planes para capacitar al personal de salud en promoción, prevención y rehabilitación de calidad y con calidez.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El Estado Plurinacional de Bolivia, diseñará, ejecutará y evaluará planes y proyectos para capacitar al personal de la red de servicios de salud pública, para prestar servicios de promoción, prevención y rehabilitación de calidad y con calidez y que respondan a las necesidades de las personas con discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 32, parágrafo I (página impresa s/n; página PDF 11).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Ley N.º 223] El Ministerio de Trabajo decide cómo apoyar anualmente a las cooperativas de personas con discapacidad. ¿Qué dispone el Artículo 26.II?
+A. Que el CONALPEDIS administre directamente las cooperativas, designando a sus directivos cada año, según lo dispuesto en la Ley N.º 223.
+B. Que las cooperativas reciban la renta solidaria colectiva, en sustitución de programas específicos, en el marco de la Ley N.º 223.
+C. Que el Ministerio de Justicia apruebe cada cinco años un plan de cooperativas para el sector, según lo dispuesto en la Ley N.º 223.
+D. Que el Viceministerio de Empleo, Servicio Civil y Cooperativas apruebe anualmente programas y proyectos para el cooperativismo social, por mandato legal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Para el efecto, el Viceministerio de Empleo Servicio Civil y Cooperativas dependiente del Ministerio de Trabajo Empleo y Previsión Social, anualmente aprobarán programas y proyectos destinados al desarrollo del cooperativismo social».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 26, parágrafo II (página impresa s/n; página PDF 9).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Ley N.º 223] Un medio de comunicación decide su línea editorial sobre discapacidad. ¿Qué exige el Artículo 39?
+A. Adoptar medidas para concientizar a la sociedad sobre la situación, derechos y contribución de las personas con discapacidad, eliminando lenguaje discriminatorio, según la Ley.
+B. Difundir casos de personas con discapacidad en situación de pobreza, para promover donaciones voluntarias de la población, conforme a la Ley N.º 223.
+C. Abstenerse de tratar temas de discapacidad, para evitar la exposición pública de las personas con discapacidad, según lo dispuesto en la Ley N.º 223.
+D. Dedicar un canal exclusivo a la discapacidad, sin modificar el lenguaje de su programación general, conforme a lo establecido en la Ley General N.º 223.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Todos los medios de comunicación adoptarán medidas para que la sociedad tome mayor conciencia sobre la situación y condición de las niñas y niños, adolescentes, mujeres y hombres con discapacidad, sus derechos, sus necesidades, sus posibilidades y su contribución a la sociedad, eliminando lenguaje discriminatorio en sus programas o producción de materiales».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 39 (página impresa s/n; página PDF 14).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Ley N.º 223] Para la planificación estratégica nacional en discapacidad, ¿qué entidad está encargada según el Artículo 45.I?
+A. La COBOPDI, confederación de organizaciones con funciones normativas, conforme a la Ley N.º 223.
+B. El Ministerio de Salud y Deportes, mediante sus equipos de calificación, según lo dispuesto en la Ley N.º 223.
+C. Cada gobierno municipal, mediante sus unidades especializadas propias, conforme a la Ley N.º 223.
+D. El CONALPEDIS, entidad descentralizada con autonomía de gestión y patrimonio propio, conforme a norma.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El Comité Nacional para Personas con Discapacidad - CONALPEDIS es una entidad descentralizada, para la defensa de los derechos de las personas con discapacidad, con autonomía de gestión y patrimonio propio, bajo tuición del Ministerio de Justicia, está encargado de la planificación estratégica en materia de discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 45, parágrafo I (página impresa s/n; página PDF 15).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Ley N.º 223] ¿Qué exige el Artículo 43 a todos los niveles del Estado respecto a la discapacidad?
+A. Transversalizar la temática de discapacidad en su régimen normativo, planes, programas y proyectos, según su competencia, conforme a la Ley N.º 223.
+B. Concentrar la temática de discapacidad en una sola unidad, sin incorporarla en los demás planes y programas, conforme a lo establecido en la Ley N.º 223.
+C. Abordar la temática de discapacidad solo en el sector salud, sin incorporarla en educación ni en empleo, conforme a la Ley N.º 223.
+D. Delegar la temática de discapacidad a las organizaciones sociales, sin responsabilidad institucional propia, según la Ley N.º 223.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El Estado Plurinacional en todos sus niveles deberá transversalizar la temática de discapacidad, en su régimen normativo, planes, programas y proyectos de acuerdo a su competencia».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 43 (página impresa s/n; página PDF 14).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Ley N.º 223] Para una gestión institucional inclusiva en una unidad educativa, ¿qué combinación de obligaciones de la Ley resulta estratégica?
+A. Derivar a centros especiales, reducir las exigencias académicas, eximir de evaluaciones y mantener la infraestructura existente sin cambios, conforme a lo establecido en la Ley N.º 223.
+B. Aceptar solo discapacidades leves, contratar intérpretes con aportes de los padres y adecuar la infraestructura cuando haya presupuesto, según la Ley N.º 223.
+C. Separar a los estudiantes por tipo de discapacidad, crear aulas especiales y limitar su participación en los actos de relevancia, en el marco de la Ley N.º 223.
+D. Garantizar acceso y permanencia, intérprete en LSB y comunicación alternativa, personal capacitado en lengua de señas y adecuación gradual de la infraestructura, por mandato legal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: Art. 10: «[…] garantiza el acceso y permanencia de estudiantes con discapacidad […]». Art. 36.I: «[…] Unidades Educativas están obligadas a incorporar la comunicación alternativa y un intérprete en Lengua de Señas Boliviana […]». Art. 36.III: «[…] deberán contar con recursos humanos capacitados en lengua de señas […]». Art. 37.II: «[…] deberán adecuar su estructura arquitectónica […] de manera gradual […]». Aplicación razonada: la Ley se refiere a las Unidades Educativas, a las instituciones o a quienes trabajan con niñas, niños y adolescentes con discapacidad, sin nombrar al director; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Segundo: Derechos y deberes de las personas con discapacidad y Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Arts. 10 (página impresa s/n; página PDF 5), 36 y 37 (página impresa s/n; página PDF 13).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Ley N.º 223] Para la mejora de la infraestructura educativa, ¿con quién coordina el Estado la supresión de barreras según el Artículo 31.IV?
+A. Con las juntas escolares de cada unidad.
+B. Con las universidades públicas del país.
+C. Con los Gobiernos autónomos municipales.
+D. Con las empresas privadas de construcción.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El Estado Plurinacional, en coordinación con los Gobiernos autónomos municipales, promueve y garantiza la supresión de todas las barreras arquitectónicas, psicopedagógicas y comunicacionales existentes en el actual sistema educativo boliviano […]».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 31, parágrafo IV (página impresa s/n; página PDF 10).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Ley N.º 223] ¿Qué tipos de barreras en el sistema educativo deben suprimirse según el Artículo 31.IV?
+A. Barreras económicas, tributarias y administrativas, conforme a norma.
+B. Barreras religiosas, culturales y lingüísticas, según la Ley N.º 223.
+C. Barreras laborales, sindicales y presupuestarias, por mandato legal.
+D. Barreras arquitectónicas, psicopedagógicas y comunicacionales, conforme a norma.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] promueve y garantiza la supresión de todas las barreras arquitectónicas, psicopedagógicas y comunicacionales existentes en el actual sistema educativo boliviano […]».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 31, parágrafo IV (página impresa s/n; página PDF 10).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Ley N.º 223] Para planificar la atención educativa inclusiva, ¿qué garantiza el Estado según el Artículo 31.I?
+A. La creación de un sistema educativo paralelo, exclusivo para personas con discapacidad en todo el país, conforme a la Ley N.º 223.
+B. La contratación de un médico por unidad educativa, para certificar la discapacidad de los estudiantes, en el marco de la Ley N.º 223.
+C. La formación de equipos multidisciplinarios para la atención e inclusión de las personas con discapacidad al sistema educativo, conforme a la Ley N.º 223.
+D. La asignación de un docente particular a cada estudiante con discapacidad, a cargo de su familia, según lo dispuesto en la Ley N.º 223.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El Estado Plurinacional garantiza la formación de equipos multidisciplinarios para la atención e inclusión de las personas con discapacidad al sistema educativo plurinacional».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 31, parágrafo I (página impresa s/n; página PDF 10).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Ley N.º 223] ¿Cómo garantiza el Estado la participación de las personas con discapacidad en las políticas públicas, según el Artículo 49?
+A. Designando representantes estatales que decidan en nombre de las personas con discapacidad en todas las instancias, en el marco de la Ley N.º 223.
+B. Consultando a las personas con discapacidad solo cuando el CONALPEDIS lo considere necesario para un programa, según la Ley.
+C. Limitando su participación al voto en elecciones generales, sin intervención en la definición de políticas, conforme a norma.
+D. Promoviendo su auto organización y garantizando su participación efectiva en la toma de decisiones sobre políticas permanentes de discapacidad.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El Estado Plurinacional promoverá todas las formas de auto organización de las personas con discapacidad, adoptadas para la defensa de sus derechos y obligaciones civiles, sociales, económicas y garantiza su participación efectiva en la toma de decisiones en materia de políticas públicas permanentes sobre discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 49 (página impresa s/n; página PDF 17).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Ley N.º 223] Para fortalecer el enfoque de derechos en la sociedad, ¿qué atribución del CONALPEDIS prevé el Artículo 46.4?
+A. Promover el enfoque médico de la discapacidad, mediante la creación de hospitales especializados en todo el país, según la Ley N.º 223.
+B. Promover el enfoque de discapacidad bajo un modelo social de derechos, mediante campañas de sensibilización con enfoque de inclusión, por mandato legal.
+C. Promover la asistencia caritativa, mediante colectas públicas a favor de las personas con discapacidad grave, conforme a la Ley N.º 223.
+D. Promover la institucionalización, mediante la ampliación de centros de internación para personas con discapacidad, conforme a lo establecido en la Ley N.º 223.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «4. Promover y fomentar el enfoque de discapacidad bajo un modelo social de derechos en el marco de una cultura de la dignidad, respeto de las personas con discapacidad, a través de programas y campañas de sensibilización y concientización con un enfoque de inclusión social».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Cuarto: Gestión pública para las personas con discapacidad. Art. 46, numeral 4 (página impresa s/n; página PDF 16).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Ley N.º 223] ¿Qué deben incorporar todos los niveles de gobierno para crear empleo para personas con discapacidad, según el Artículo 34.I?
+A. Subsidios permanentes a las personas con discapacidad desempleadas, en sustitución de programas de empleo y de desarrollo, por mandato legal.
+B. Planes, programas y proyectos de desarrollo inclusivo basado en la comunidad, orientados al desarrollo económico y a puestos de trabajo, en el marco de la Ley N.º 223.
+C. Cupos obligatorios del cincuenta por ciento en todas las entidades públicas y privadas para personas con discapacidad, conforme a la Ley N.º 223.
+D. Talleres protegidos separados del mercado laboral, sin relación con el desarrollo económico de la comunidad, según lo dispuesto en la Ley N.º 223.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El Estado Plurinacional de Bolivia en todos sus niveles de gobierno, deberá incorporar planes, programas y proyectos de desarrollo inclusivo basado en la comunidad, orientados al desarrollo económico y a la creación de puestos de trabajo para las personas con discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 34, parágrafo I (página impresa s/n; página PDF 12).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Ley N.º 223] ¿Qué implementará el Estado para la prevención de la discapacidad según el Artículo 32.VIII?
+A. Exámenes genéticos obligatorios a todas las parejas antes del matrimonio civil, según la norma.
+B. Campañas de esterilización voluntaria para personas con discapacidad hereditaria, en el marco de la Ley N.º 223.
+C. Planes y programas para prevenir todo tipo de discapacidad y mayores grados de discapacidad, según la Ley.
+D. Restricciones a la maternidad de mujeres con discapacidad intelectual o psíquica, según la Ley.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El Estado Plurinacional implementará planes y programas para prevenir todo tipo de discapacidad y mayores grados de discapacidad».
+Sustento: Ley N.º 223, Ley General para Personas con Discapacidad, de 2 de marzo de 2012, Capítulo Tercero: Garantías para el ejercicio de los derechos de las personas con discapacidad. Art. 32, parágrafo VIII (página impresa s/n; página PDF 12).

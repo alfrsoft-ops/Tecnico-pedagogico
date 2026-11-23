@@ -1,0 +1,1111 @@
+# Fuente: ley-045-general.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Ley N.º 045 contra el Racismo y toda Forma de Discriminación (8 de octubre de 2010)
+# Capítulos I al V: Disposiciones generales, prevención y educación, Comité Nacional, instancias de protección y delitos (Arts. 1 al 24, texto íntegro del articulado)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar los Artículos 1 al 24 de la Ley N.º 045 en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto de la Ley proporcionado, sin incorporar fuentes externas, y su fundamentación transcribe textualmente el fragmento que respalda la respuesta correcta.
+# Criterios documentales aplicados
+# Alcance de la fuente. El banco cubre el articulado íntegro de la Ley N.º 045: Capítulo I, Disposiciones generales (Arts. 1 a 5); Capítulo II, Medidas de prevención y educación (Art. 6); Capítulo III, Comité Nacional contra el Racismo y toda forma de Discriminación (Arts. 7 a 11); Capítulo IV, Instancias competentes de protección a las víctimas (Arts. 12 a 20); y Capítulo V, Delitos contra la dignidad del ser humano (Arts. 21 a 24, que incorporan los Arts. 40 Bis y 281 bis a 281 octies al Código Penal y modifican los Arts. 20 y 26 del Código de Procedimiento Penal). La Ley tiene 24 artículos: los «Artículos 20 y 26» que figuran al final del texto pertenecen al Código de Procedimiento Penal y se evalúan como parte del Art. 24. En el PDF proporcionado ocupa las páginas 1 a 14; las disposiciones final, transitoria y abrogatoria quedan fuera del alcance.
+# Página impresa. La edición proporcionada (Gaceta Oficial de Bolivia) numera sus páginas al pie y esa numeración coincide con la del PDF; cada referencia consigna ambas.
+# Fundamentación textual. Cada fundamentación transcribe entre comillas el fragmento de la Ley que respalda la respuesta correcta. En las preguntas derivadas se añade una nota breve rotulada «Aplicación razonada», que distingue la inferencia del contenido textual.
+# Competencias directivas. La Ley no nombra al director de Unidad Educativa, pero lo alcanza como servidor público (Art. 3.b) y como responsable de una institución pública del Sistema Educativo: políticas institucionales de prevención en los niveles preescolar, primario y secundario (Art. 6.I.a), ética funcionaria y buen trato (Art. 6.II.e), faltas en la función pública y su tramitación interna (Art. 13), obligación de denunciar los hechos que conozca (Art. 17) y agravante penal por la condición de servidor público (Art. 281 bis.II). Esas preguntas llevan la nota «Aplicación razonada».
+# Cobertura y no duplicación. Las preguntas cubren los cinco capítulos, con énfasis en las definiciones (Art. 5), la política de prevención y educación (Art. 6), el Comité Nacional (Arts. 7 a 11), la vía administrativa o disciplinaria (Art. 13) y los delitos incorporados al Código Penal (Art. 23). Algunos artículos centrales (Arts. 5, 6, 13 y 23) se evalúan en varias preguntas con enfoques distintos; no hay preguntas repetidas ni con la misma respuesta y el mismo enfoque. Este banco es independiente del elaborado anteriormente sobre los Arts. 1 al 11.
+# Etiqueta de trazabilidad. Cada enunciado inicia con [Ley N.º 045], para su integración en plataformas de simulación que combinan preguntas de varios documentos; el capítulo y artículo exactos figuran en la referencia.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 20 preguntas y la más corta en 9, por lo que la longitud no es una pista; las fórmulas de cierre («según la norma», «conforme a la Ley N.º 045», etc.) aparecen en proporción similar en alternativas correctas (52%) e incorrectas (53%).
+# 2. Distribución metodológica y ponderación
+# N.º
+# Tipo de evaluación
+# ¿Qué evalúa?
+# Preg.
+# Peso
+# N.º preg.
+# 1
+# Conocimiento y memorización
+# Dominio de conceptos, definiciones, principios, fechas, disposiciones y contenidos fundamentales del documento.
+# 10
+# 10%
+# 1–10
+# 2
+# Dominio conceptual
+# Comprensión de los fundamentos pedagógicos, administrativos, curriculares y organizativos del Sistema Educativo Plurinacional.
+# 10
+# 10%
+# 11–20
+# 3
+# Competencias y responsabilidades directivas
+# Conocimiento de las funciones, atribuciones, obligaciones y responsabilidades del director de una Unidad Educativa (en esta fuente: deberes de servidores públicos e instituciones públicas, con nota «Aplicación razonada»).
+# 10
+# 10%
+# 21–30
+# 4
+# Comprensión e interpretación
+# Capacidad para interpretar documentos, orientaciones pedagógicas y situaciones educativas.
+# 10
+# 10%
+# 31–40
+# 5
+# Diferenciación conceptual
+# Capacidad para distinguir conceptos, funciones, procedimientos, niveles de responsabilidad y enfoques educativos similares.
+# 10
+# 10%
+# 41–50
+# 6
+# Análisis crítico
+# Capacidad para identificar problemas institucionales, analizar sus causas, valorar alternativas y emitir criterios fundamentados.
+# 10
+# 10%
+# 51–60
+# 7
+# Aplicación normativa
+# Capacidad para aplicar correctamente la normativa en situaciones institucionales.
+# 10
+# 10%
+# 61–70
+# 8
+# Resolución de casos prácticos
+# Capacidad para resolver conflictos escolares, problemas administrativos, dificultades pedagógicas y situaciones con estudiantes, profesores y familias.
+# 10
+# 10%
+# 71–80
+# 9
+# Toma de decisiones
+# Capacidad para adoptar decisiones oportunas, pertinentes, fundamentadas y responsables ante situaciones institucionales.
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# Capacidad para planificar, organizar, dirigir, supervisar y evaluar acciones orientadas al mejoramiento de la calidad educativa.
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–10)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta [Ley N.º 045]; el capítulo y el artículo exactos figuran en la referencia.
+# Cada fundamentación transcribe el fragmento textual de la Ley y remite al artículo, parágrafo e inciso, con página impresa y página PDF.
+# Contenido limitado exclusivamente a los Artículos 1 al 24 de la Ley N.º 045; no se atribuyen al director de Unidad Educativa competencias que la fuente no contiene.
+
+CAPÍTULO: ley-045-general
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Ley N.º 045] ¿En qué fecha se promulgó la Ley N.º 045 contra el Racismo y toda Forma de Discriminación?
+A. El 20 de julio de 1990.
+B. El 2 de marzo de 2012.
+C. El 8 de octubre de 2010.
+D. El 8 de octubre de 2012.
+Respuesta correcta: C
+Explicación: «LEY N° 045 LEY DE 8 DE OCTUBRE DE 2010».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Encabezado (página impresa 1; página PDF 1).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Ley N.º 045] Según el Artículo 1.I, ¿cuál es el objeto de la Ley N.º 045?
+A. Crear un régimen de acciones afirmativas permanentes en favor de las naciones y pueblos indígena originario campesinos.
+B. Tipificar exclusivamente los delitos de racismo, dejando la discriminación al ámbito administrativo de las instituciones, según la Ley N.º 045.
+C. Regular la libertad de expresión de los medios de comunicación, en el marco de los Tratados Internacionales vigentes.
+D. Establecer mecanismos y procedimientos para la prevención y sanción de actos de racismo y toda forma de discriminación, por mandato legal.
+Respuesta correcta: D
+Explicación: «La presente Ley tiene por objeto establecer mecanismos y procedimientos para la prevención y sanción de actos de racismo y toda forma de discriminación en el marco de la Constitución Política del Estado y Tratados Internacionales de Derechos Humanos».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 1, parágrafo I (página impresa 1; página PDF 1).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Ley N.º 045] Según el Artículo 2, ¿cuáles son los principios generales de la Ley N.º 045?
+A. Interculturalidad, legalidad, publicidad y reparación, conforme a norma.
+B. Interculturalidad, igualdad, equidad y protección, conforme a norma.
+C. Igualdad, inclusión, accesibilidad y no violencia, según la Ley.
+D. Equidad, solidaridad, celeridad y descolonización, según la Ley.
+Respuesta correcta: B
+Explicación: «La presente Ley se rige bajo los principios de: a) Interculturalidad. […] b) Igualdad. […] c) Equidad. […] d) Protección. […]».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 2 (páginas impresas 1-2; páginas PDF 1-2).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Ley N.º 045] Según el Artículo 7, ¿bajo la tuición de qué entidad está el Comité Nacional contra el Racismo y toda Forma de Discriminación?
+A. Del Ministerio de Justicia, a través del Viceministerio de Derechos Humanos.
+B. Del Ministerio de Educación, a través del Viceministerio de Educación Regular.
+C. Del Ministerio de Culturas, a través del Viceministerio de Descolonización, según la Ley.
+D. De la Defensoría del Pueblo, a través de su Dirección de Derechos Humanos.
+Respuesta correcta: C
+Explicación: «El Comité Nacional contra el Racismo y toda Forma de Discriminación, estará bajo la tuición del Ministerio de Culturas a través del Viceministerio de Descolonización».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo III: Del Comité Nacional contra el Racismo y toda forma de Discriminación. Art. 7 (página impresa 6; página PDF 6).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Ley N.º 045] Según el Artículo 23 (Art. 281 bis del Código Penal), ¿qué pena corresponde al delito de racismo?
+A. Privación de libertad de uno a cinco años, según la Ley.
+B. Privación de libertad de uno a cuatro años.
+C. Privación de libertad de tres a siete años, según la Ley.
+D. Prestación de trabajo de cuarenta días a dieciocho meses.
+Respuesta correcta: C
+Explicación: «[…] será sancionado con pena privativa de libertad de tres a siete años».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 23, Art. 281 bis, parágrafo I (página impresa 11; página PDF 11).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+6. [Ley N.º 045] Según el Artículo 23 (Art. 281 ter del Código Penal), ¿qué pena corresponde al delito de discriminación?
+A. Pena privativa de libertad de tres a siete años, según la Ley.
+B. Pena privativa de libertad de uno a cinco años, según la Ley.
+C. Pena privativa de libertad de uno a cuatro años, según la Ley.
+D. Pena de multa de cuarenta a ciento cincuenta días, según la Ley.
+Respuesta correcta: B
+Explicación: «[…] será sancionado con pena privativa de libertad de uno a cinco años».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 23, Art. 281 ter (página impresa 12; página PDF 12).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+7. [Ley N.º 045] Según el Artículo 15.I, ¿qué sanción corresponde a la restricción de ingreso a locales abiertos al público?
+A. Clausura por siete días la primera vez, noventa días la segunda y definitiva la tercera.
+B. Multa económica la primera vez, clausura temporal la segunda y definitiva la tercera.
+C. Clausura por tres días la primera vez, treinta días la segunda y definitiva la tercera.
+D. Amonestación la primera vez, clausura por tres días la segunda y treinta la tercera.
+Respuesta correcta: C
+Explicación: «Queda prohibida toda restricción de ingreso y colocado de carteles con este propósito, a locales o establecimientos de atención, servicio o entretenimiento abiertos al público, bajo sanción de clausura por tres días en la primera vez, de treinta días en la segunda y definitiva en la tercera».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 15, parágrafo I (página impresa 10; página PDF 10).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+8. [Ley N.º 045] Según el Artículo 15.III, ¿qué texto debe exhibirse en el ingreso de los establecimientos abiertos al público?
+A. «No a la discriminación en este establecimiento».
+B. «Todos tenemos los mismos derechos y deberes».
+C. «Aquí se respeta la diversidad de las personas».
+D. «Todas las personas son iguales ante la Ley».
+Respuesta correcta: D
+Explicación: «Se declara la obligatoriedad de exhibir carteles en el ingreso a los establecimientos públicos y privados de atención, servicio o entretenimiento abiertos al público, en forma visible el siguiente texto: “Todas las personas son iguales ante la Ley”».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 15, parágrafo III (página impresa 10; página PDF 10).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+9. [Ley N.º 045] Según el Artículo 7, ¿por qué comisiones está conformado el Comité Nacional?
+A. Por la Comisión de Prevención y Educación y la Comisión de Sanción y Seguimiento de los procesos.
+B. Por la Comisión de Derechos Humanos y la Comisión de Descolonización del Ministerio de Culturas.
+C. Por la Comisión de Políticas Públicas y la Comisión de Registro de Denuncias de las instituciones, según la Ley.
+D. Por la Comisión de Lucha contra el Racismo y la Comisión de Lucha contra toda forma de Discriminación.
+Respuesta correcta: D
+Explicación: «El Comité estará conformado por dos comisiones: a) Comisión de Lucha contra el Racismo. b) Comisión de Lucha contra toda forma de Discriminación».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo III: Del Comité Nacional contra el Racismo y toda forma de Discriminación. Art. 7 (página impresa 6; página PDF 6).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+10. [Ley N.º 045] Según el Artículo 11, ¿quién otorga anualmente los recursos para el cumplimiento de las funciones de la Ley, y a qué entidad?
+A. Los Gobiernos Municipales, al Viceministerio de Descolonización.
+B. El Ministerio de Economía, a la Defensoría del Pueblo.
+C. El Tesoro General de la Nación, al Ministerio de Culturas.
+D. El Tesoro General de la Nación, al Ministerio de Justicia.
+Respuesta correcta: C
+Explicación: «El Tesoro General de la Nación, otorgará los recursos económicos necesarios anualmente, al Ministerio de Culturas para el cumplimiento de las funciones señaladas en la presente Ley».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo III: Del Comité Nacional contra el Racismo y toda forma de Discriminación. Art. 11 (página impresa 8; página PDF 8).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+11. [Ley N.º 045] ¿Cómo define el Artículo 2.a) el principio de interculturalidad?
+A. Como la preservación aislada de cada cultura, instrumento para evitar la influencia de unas culturas sobre otras en el territorio, según lo dispuesto en la Ley N.º 045.
+B. Como la integración de todas las culturas en una sola cultura nacional, instrumento para la unidad del Estado Plurinacional, conforme a norma.
+C. Como la interacción entre las culturas, instrumento para la cohesión y convivencia armónica entre pueblos y naciones en relaciones de igualdad, conforme a norma.
+D. Como el reconocimiento de la cultura mayoritaria, instrumento para la convivencia de las minorías en condiciones de tolerancia, según la norma.
+Respuesta correcta: C
+Explicación: «a) Interculturalidad. Entendida como la interacción entre las culturas, que se constituye en instrumento para la cohesión y convivencia armónica y equilibrada entre todos los pueblos y naciones para la construcción de relaciones de igualdad y equidad de manera respetuosa».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 2, inciso a) (página impresa 1; página PDF 1).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+12. [Ley N.º 045] ¿Qué establece el principio de protección del Artículo 2.d)?
+A. Que solo las víctimas de delitos de racismo tienen derecho a protección, exclusivamente en sede penal y sin derecho a reparación.
+B. Que la protección contra la discriminación corresponde solo a los pueblos indígenas, en sede constitucional y con acción afirmativa, conforme a norma.
+C. Que el Estado protege a los denunciantes, pero la reparación del daño queda librada a acuerdos privados entre las partes.
+D. Que todos tienen derecho a igual protección contra el racismo y la discriminación, en sede administrativa y/o jurisdiccional, con reparación justa.
+Respuesta correcta: D
+Explicación: «d) Protección. Todos los seres humanos tienen derecho a igual protección contra el racismo y toda forma de discriminación, de manera efectiva y oportuna en sede administrativa y/o jurisdiccional, que implique una reparación o satisfacción justa y adecuada por cualquier daño sufrido como consecuencia del acto racista y/o discriminatorio».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 2, inciso d) (página impresa 2; página PDF 2).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+13. [Ley N.º 045] ¿Cómo define el Artículo 5.c) el racismo?
+A. Como toda teoría que valora diferencias biológicas y/o culturales en provecho de un grupo y perjuicio de otro, para justificar agresión y dominación.
+B. Como toda distinción basada en el sexo, la edad o la orientación sexual que menoscabe el ejercicio de derechos en igualdad de condiciones, según la Ley.
+C. Como el odio y rechazo al extranjero o extranjera, desde el desprecio y las amenazas hasta las agresiones y la violencia.
+D. Como la noción construida socialmente que asigna estatus inferior a algunos grupos y estatus superior a otros grupos, según la Ley.
+Respuesta correcta: A
+Explicación: «c) Racismo. Se considera “racismo” a toda teoría tendente a la valoración de unas diferencias biológicas y/o culturales, reales o imaginarias en provecho de un grupo y en perjuicio del otro, con el fin de justificar una agresión y un sistema de dominación que presume la superioridad de un grupo sobre otro».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 5, inciso c) (página impresa 3; página PDF 3).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+14. [Ley N.º 045] Según el Artículo 5.d), ¿cómo califica la Ley toda doctrina de superioridad basada en la diferenciación racial?
+A. Científicamente discutible, moralmente reprochable y jurídicamente tolerable, según la norma.
+B. Culturalmente relativa, socialmente indeseable y penalmente irrelevante, según la Ley N.º 045.
+C. Históricamente superada, políticamente incorrecta y jurídicamente neutra, por mandato legal.
+D. Científicamente falsa, moralmente condenable, socialmente injusta y peligrosa, en el marco de la Ley N.º 045.
+Respuesta correcta: D
+Explicación: «Toda doctrina de superioridad basada en la diferenciación racial es científicamente falsa, moralmente condenable, socialmente injusta y peligrosa y nada en la teoría o en la práctica permite justificar la discriminación racial».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 5, inciso d) (página impresa 3; página PDF 3).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+15. [Ley N.º 045] ¿Cómo define el Artículo 5.k) la acción afirmativa?
+A. Medidas y políticas de carácter temporal en favor de sectores en desventaja que sufren discriminación, para superar obstáculos a la igualdad real.
+B. Medidas y políticas de carácter permanente en favor de todos los sectores de la población, para garantizar la igualdad formal ante la ley, según la Ley.
+C. Medidas sancionatorias o disciplinarias impuestas a los infractores, con seguimiento a su aplicación y a los resultados obtenidos.
+D. Campañas públicas de concientización, educación y difusión de derechos humanos protectivos contra toda forma de discriminación.
+Respuesta correcta: A
+Explicación: «k) Acción Afirmativa. Se entiende como acción afirmativa aquellas medidas y políticas de carácter temporal adoptadas en favor de sectores de la población en situación de desventaja y que sufren discriminación […]. Constituyen un instrumento para superar los obstáculos que impiden una igualdad real».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 5, inciso k) (página impresa 4; página PDF 4).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+16. [Ley N.º 045] Según el Artículo 2.b), ¿qué promoverá el Estado para lograr la igualdad real y efectiva?
+A. Un trato idéntico para todas las personas sin diferenciación alguna, para evitar cualquier forma de privilegio social, en el marco de la Ley N.º 045.
+B. La asimilación de las culturas minoritarias a la cultura mayoritaria, para garantizar la unidad nacional del Estado, según la Ley.
+C. Medidas y políticas de acción afirmativa y/o diferenciada que valoren la diversidad, para lograr equidad y justicia social, según la Ley N.º 045.
+D. La reserva de cargos públicos exclusivamente para sectores en desventaja, de manera permanente y sin plazos, conforme a norma.
+Respuesta correcta: C
+Explicación: «El Estado promoverá las condiciones necesarias para lograr la igualdad real y efectiva adoptando medidas y políticas de acción afirmativa y/o diferenciada que valoren la diversidad, con el objetivo de lograr equidad y justicia social […]».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 2, inciso b) (página impresa 1; página PDF 1).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+17. [Ley N.º 045] ¿Cómo define el Artículo 5.l) la acción preventiva?
+A. Medidas sancionatorias impuestas a los infractores, con seguimiento a su aplicación y a los resultados obtenidos, conforme a norma.
+B. Medidas públicas traducidas en campañas de concientización, educación y difusión de derechos humanos contra la discriminación, conforme a la Ley N.º 045.
+C. Medidas temporales en favor de sectores en desventaja, para superar los obstáculos que impiden una igualdad real, conforme a norma.
+D. Medidas cautelares dictadas por el juez para impedir que se consume un delito de racismo o de discriminación, según la Ley N.º 045.
+Respuesta correcta: B
+Explicación: «l) Acción Preventiva. Son aquellas medidas públicas traducidas en campañas de concientización, educación y difusión de derechos humanos protectivos contra la discriminación y cualquier forma de manifestación».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 5, inciso l) (página impresa 4; página PDF 4).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+18. [Ley N.º 045] Según el Artículo 6.I.b), ¿qué deben incluir en sus contenidos las políticas educativas contra el racismo?
+A. La historia de los pueblos europeos que contribuyeron a la formación del Estado Plurinacional de Bolivia.
+B. Los derechos de los extranjeros residentes y las normas internacionales sobre migración y nacionalidad.
+C. La historia y los derechos de las naciones y pueblos indígena originario campesinos y el pueblo afroboliviano, según la Ley.
+D. La historia de los movimientos sindicales y los derechos laborales de los trabajadores del sector público, según la Ley N.º 045.
+Respuesta correcta: C
+Explicación: «b) Diseñar y poner en marcha políticas educativas, culturales, comunicacionales y de diálogo intercultural, que ataquen las causas estructurales del racismo y toda forma de discriminación; que reconozcan y respeten los beneficios de la diversidad y la plurinacionalidad y que incluyan en sus contenidos la historia y los derechos de las naciones y pueblos indígena originario campesinos y el pueblo afroboliviano».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo II: De las medidas de prevención y educación, destinadas a erradicar el racismo y toda forma de discriminación. Art. 6, parágrafo I, inciso b) (páginas impresas 4-5; páginas PDF 4-5).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+19. [Ley N.º 045] Según el Artículo 6.I.c), ¿con qué finalidad se promueven procesos de formación en derechos humanos y valores?
+A. Para modificar actitudes y comportamientos fundados en el racismo, promover el respeto a la diversidad y contrarrestar el sexismo y los estereotipos, conforme a norma.
+B. Para sancionar disciplinariamente a los estudiantes que incurran en conductas racistas o discriminatorias dentro de la unidad educativa, según lo dispuesto en la Ley N.º 045.
+C. Para preparar a los estudiantes en la defensa jurídica de sus derechos ante los tribunales de la jurisdicción penal ordinaria, según la Ley N.º 045.
+D. Para sustituir los contenidos curriculares de las áreas de conocimiento por contenidos exclusivos de derechos humanos, en el marco de la Ley N.º 045.
+Respuesta correcta: A
+Explicación: «c) Promover la implementación de procesos de formación y educación en derechos humanos y en valores […] para modificar actitudes y comportamientos fundados en el racismo y la discriminación; promover el respeto a la diversidad; y contrarrestar el sexismo, prejuicios, estereotipos y toda práctica de racismo y/o discriminación».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo II: De las medidas de prevención y educación, destinadas a erradicar el racismo y toda forma de discriminación. Art. 6, parágrafo I, inciso c) (página impresa 5; página PDF 5).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+20. [Ley N.º 045] Según el Artículo 5.a), ¿qué medidas no se consideran discriminación?
+A. Las medidas de acción correctiva, según la Ley N.º 045.
+B. Las medidas de acción afirmativa, conforme a la Ley N.º 045.
+C. Las sanciones disciplinarias internas, conforme a norma.
+D. Las restricciones por grado de instrucción, según la Ley N.º 045.
+Respuesta correcta: B
+Explicación: «No se considerará discriminación a las medidas de acción afirmativa».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 5, inciso a) (página impresa 3; página PDF 3).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+21. [Ley N.º 045] Un director toma conocimiento de que un docente insultó a un estudiante por su origen indígena. Según el Artículo 17, ¿qué obligación tiene?
+A. Resolver el caso de forma privada con la familia, sin necesidad de denunciarlo ante ninguna autoridad del Estado.
+B. Esperar que la víctima presente denuncia, pues solo ella está legitimada para iniciar cualquier proceso por el hecho, según la Ley.
+C. Informar únicamente al Comité Nacional, que decide si el hecho debe denunciarse ante las autoridades competentes.
+D. Denunciar ante las autoridades correspondientes; si no lo hace, es pasible a la sanción del Artículo 178 del Código Penal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La persona que en ejercicio de la función pública conociere hechos de racismo y toda forma de discriminación, está en la obligación de denunciar ante las autoridades correspondientes; en caso de no hacerlo será pasible a la sanción dispuesta en el Artículo 178 del Código Penal». Aplicación razonada: la Ley se refiere a servidoras y servidores públicos, instituciones públicas y al Sistema Educativo sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 17 (página impresa 10; página PDF 10).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+22. [Ley N.º 045] Un director, como servidor público, pregunta si está alcanzado por la Ley N.º 045. Según el Artículo 3, ¿qué corresponde?
+A. Sí, la Ley se aplica a autoridades, servidores y ex servidores públicos sin reconocer inmunidad, fuero o privilegio alguno, según la norma.
+B. No, la Ley se aplica solo a particulares, pues los servidores públicos se rigen por su propio régimen disciplinario, conforme a la normativa vigente.
+C. Solo si es autoridad electa, pues la Ley alcanza a los servidores designados únicamente en el ámbito penal, según la norma.
+D. Solo mientras ejerza el cargo, pues la Ley no alcanza a los ex servidores públicos del sistema educativo, según la norma.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «No reconoce inmunidad, fuero o privilegio alguno y se aplica a: […] b) Autoridades, servidores y ex servidores públicos de los órganos Ejecutivo, Legislativo, Judicial y Electoral del Estado Plurinacional de Bolivia, sus entidades e instituciones del nivel central, descentralizadas o desconcentradas y de las entidades territoriales autónomas […]». Aplicación razonada: la Ley se refiere a servidoras y servidores públicos, instituciones públicas y al Sistema Educativo sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 3 (página impresa 2; página PDF 2).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+23. [Ley N.º 045] Según el Artículo 6.I.a), ¿qué deben promoverse en el Sistema Educativo en los niveles preescolar, primario y secundario?
+A. La creación de unidades educativas separadas para cada nación y pueblo indígena originario campesino del país.
+B. La aplicación de sanciones penales a los estudiantes que incurran en actos de racismo dentro del sistema educativo, según la Ley N.º 045.
+C. El diseño e implementación de políticas institucionales de prevención y lucha contra el racismo y la discriminación, conforme a norma.
+D. La supresión de toda referencia a la diversidad cultural en los contenidos, para evitar actos de discriminación.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «a) Promover el diseño e implementación de políticas institucionales de prevención y lucha contra el racismo y la discriminación en las Universidades, Institutos Normales Superiores Nacionales públicos y privados, Sistema Educativo Nacional en los niveles preescolar, primario y secundario». Aplicación razonada: la Ley se refiere a servidoras y servidores públicos, instituciones públicas y al Sistema Educativo sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo II: De las medidas de prevención y educación, destinadas a erradicar el racismo y toda forma de discriminación. Art. 6, parágrafo I, inciso a) (página impresa 4; página PDF 4).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+24. [Ley N.º 045] Un servidor de una unidad educativa fiscal es denunciado por agresiones verbales racistas contra un padre de familia. Según el Artículo 13.VI, ¿ante quién se denuncia la falta?
+A. Ante el Ministerio de Culturas, que aplica directamente las sanciones administrativas a los servidores denunciados.
+B. Ante el Gobierno Autónomo Municipal, que verifica los extremos de la denuncia y clausura la institución infractora.
+C. Ante el juez penal de turno, pues toda falta de racismo de un servidor público constituye necesariamente delito.
+D. Ante la misma institución a la que pertenece el servidor, para aplicar las sanciones administrativas o disciplinarias, por mandato legal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Los actos de racismo y toda forma de discriminación que constituyan faltas cometidas por servidoras y servidores públicos serán denunciados ante la misma institución a la que pertenecen, a fin de aplicar las sanciones administrativas o disciplinarias correspondientes». Aplicación razonada: la Ley se refiere a servidoras y servidores públicos, instituciones públicas y al Sistema Educativo sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 13, parágrafo VI (página impresa 9; página PDF 9).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+25. [Ley N.º 045] La dirección de una institución educativa pública recibe una denuncia por discriminación. Según el Artículo 13.VII, ¿a quién debe remitir copia?
+A. A la Defensoría del Pueblo, que es la única instancia facultada para registrar las denuncias de discriminación del país.
+B. Al Ministerio de Educación, que asume el proceso disciplinario en lugar de la institución que recibió la denuncia.
+C. A la Dirección General de Lucha contra el Racismo y toda forma de Discriminación del Viceministerio de Descolonización.
+D. A la Oficina del Alto Comisionado para los Derechos Humanos, como órgano observador del Comité Nacional.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La institución pública que conoce denuncias sobre racismo y toda forma de discriminación deberá remitir copia de las mismas a la Dirección General de Lucha contra el Racismo y toda forma de Discriminación del Viceministerio de Descolonización, del Ministerio de Culturas, para fines de registro y seguimiento». Aplicación razonada: la Ley se refiere a servidoras y servidores públicos, instituciones públicas y al Sistema Educativo sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 13, parágrafo VII (página impresa 9; página PDF 9).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+26. [Ley N.º 045] En el proceso interno contra un servidor de una unidad educativa se detectan indicios de responsabilidad penal. Según el Artículo 13.V, ¿qué debe hacer la institución?
+A. Remitir el caso al Ministerio Público.
+B. Archivar el caso sin más trámite.
+C. Remitir el caso al Comité Nacional.
+D. Sancionar solo administrativamente.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «En caso de que en el proceso administrativo o interno, se determine la existencia de responsabilidad penal, la institución pública deberá remitir el caso al Ministerio Público». Aplicación razonada: la Ley se refiere a servidoras y servidores públicos, instituciones públicas y al Sistema Educativo sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 13, parágrafo V (página impresa 9; página PDF 9).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+27. [Ley N.º 045] Un servidor de una unidad educativa sancionado por maltrato discriminatorio muestra conductas reiteradas. Según el Artículo 13.III, ¿qué puede disponer la institución pública?
+A. Que se someta a tratamiento psicológico, con gastos a cargo del propio servidor infractor.
+B. Que sea trasladado a otra institución pública, sin necesidad de proceso disciplinario interno, según la norma.
+C. Que se someta a tratamiento psicológico, con gastos a cargo de la misma institución, según la Ley N.º 045.
+D. Que pierda su condición de servidor público de manera automática y sin derecho a defensa.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La institución pública podrá disponer que la servidora o el servidor, infractor se someta a tratamiento psicológico, cuyos gastos correrán a cargo de la misma institución». Aplicación razonada: la Ley se refiere a servidoras y servidores públicos, instituciones públicas y al Sistema Educativo sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 13, parágrafo III (página impresa 9; página PDF 9).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+28. [Ley N.º 045] Para la gestión de una unidad educativa pública, ¿qué acción del ámbito de la administración pública prevé el Artículo 6.II.e)?
+A. Restringir la atención a la ciudadanía en horarios previamente definidos, según la Ley.
+B. Promover la ética funcionaria y el buen trato en la atención de la ciudadanía.
+C. Priorizar la atención de los usuarios según su grado de instrucción.
+D. Exigir a la ciudadanía el uso del idioma castellano en todo trámite.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «e) Promover la ética funcionaria y el buen trato en la atención de la ciudadanía». Aplicación razonada: la Ley se refiere a servidoras y servidores públicos, instituciones públicas y al Sistema Educativo sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo II: De las medidas de prevención y educación, destinadas a erradicar el racismo y toda forma de discriminación. Art. 6, parágrafo II, inciso e) (página impresa 5; página PDF 5).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+29. [Ley N.º 045] Según el Artículo 13.I, ¿en qué relaciones se configuran como faltas las conductas racistas o discriminatorias de un servidor público, como el personal de una unidad educativa?
+A. Solo en la relación con los usuarios del servicio, pues entre compañeros rige únicamente el ámbito laboral privado.
+B. Solo fuera del horario de trabajo, pues durante las funciones se aplica exclusivamente la vía penal ordinaria.
+C. Solo cuando la víctima es una autoridad superior, pues las demás relaciones se rigen por el régimen comunitario.
+D. En el ejercicio de funciones, en la relación entre compañeros de trabajo o con las y los usuarios del servicio.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Siempre que estas faltas se cometan en el ejercicio de funciones, en la relación entre compañeros de trabajo o con las y los usuarios del servicio». Aplicación razonada: la Ley se refiere a servidoras y servidores públicos, instituciones públicas y al Sistema Educativo sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 13, parágrafo I (página impresa 9; página PDF 9).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+30. [Ley N.º 045] Un director de unidad educativa pública impide arbitrariamente la inscripción de un estudiante por su origen étnico. Según el Artículo 23 (Art. 281 bis.II), ¿qué efecto tiene su condición de servidor público?
+A. La sanción se agrava en un tercio el mínimo y en una mitad el máximo.
+B. La sanción se reduce a la mitad, por tratarse de un acto administrativo.
+C. La sanción se sustituye por una medida disciplinaria interna del sector.
+D. La sanción no varía, pues la condición del autor es irrelevante para la Ley.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «II. La sanción será agravada en un tercio el mínimo y en una mitad el máximo cuando: a) El hecho sea cometido por una servidora o servidor público o autoridad pública». Aplicación razonada: la Ley se refiere a servidoras y servidores públicos, instituciones públicas y al Sistema Educativo sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 23, Art. 281 bis, parágrafo II (página impresa 12; página PDF 12).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+31. [Ley N.º 045] ¿Qué implica que, según el Artículo 3, la Ley «no reconoce inmunidad, fuero o privilegio alguno»?
+A. Que se aplica solo a los particulares, pues las autoridades conservan su fuero en materia de racismo y discriminación.
+B. Que las autoridades electas solo pueden ser procesadas después de concluir su mandato, conforme a su fuero especial.
+C. Que las misiones diplomáticas quedan sujetas sin excepción a la jurisdicción penal boliviana, sin considerar normas internacionales.
+D. Que se aplica a todas las personas comprendidas en su ámbito, sin que ninguna condición o cargo las excluya de su alcance.
+Respuesta correcta: D
+Explicación: «No reconoce inmunidad, fuero o privilegio alguno y se aplica a: […]». Aplicación razonada: la Ley excluye toda exención personal; las misiones diplomáticas se rigen además por normas de derecho internacional (Art. 3.f).
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 3 (página impresa 2; página PDF 2).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+32. [Ley N.º 045] Según el Artículo 5.a), ¿qué elemento debe tener una distinción, exclusión, restricción o preferencia para ser discriminación?
+A. Haber sido cometida con violencia física comprobada, sin importar si afecta el ejercicio de los derechos en igualdad.
+B. Haber sido realizada por un servidor público en ejercicio de funciones, excluyendo los actos cometidos por particulares, según la Ley.
+C. Tener por objetivo o resultado anular o menoscabar el reconocimiento, goce o ejercicio de derechos en condiciones de igualdad.
+D. Fundarse exclusivamente en motivos de raza o color de piel, excluyendo otros motivos como la edad o la vestimenta.
+Respuesta correcta: C
+Explicación: «[…] u otras que tengan por objetivo o resultado anular o menoscabar el reconocimiento, goce o ejercicio, en condiciones de igualdad, de derechos humanos y libertades fundamentales reconocidos por la Constitución Política del Estado y el derecho internacional».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 5, inciso a) (páginas impresas 2-3; páginas PDF 2-3).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+33. [Ley N.º 045] Según el Artículo 12, ¿qué vías pueden elegir las personas que sufrieron actos de racismo o discriminación?
+A. Únicamente la vía penal, ante el Ministerio Público y los jueces de instrucción, según la Ley.
+B. Únicamente la vía administrativa, ante el Comité Nacional contra el Racismo, según la Ley.
+C. La vía civil o la conciliación comunitaria, según la decisión del Comité Nacional, según la Ley N.º 045.
+D. La vía constitucional, administrativa o disciplinaria y/o penal, según corresponda, conforme a norma.
+Respuesta correcta: D
+Explicación: «Las personas que hubiesen sufrido actos de racismo o discriminación podrán optar por la vía constitucional, administrativa o disciplinaria y/o penal, según corresponda».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 12 (página impresa 8; página PDF 8).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+34. [Ley N.º 045] Según el Artículo 13.II, ¿dónde se describen los motivos racistas y/o discriminatorios que configuran faltas en la función pública?
+A. En los Artículos 281 Bis y 281 Ter del Código Penal.
+B. En el Artículo 5 de la Ley N.º 045 de manera exclusiva.
+C. En los Reglamentos Internos de Personal de cada entidad.
+D. En el Artículo 178 del Código Penal sobre incumplimiento.
+Respuesta correcta: A
+Explicación: «Los motivos racistas y/o discriminatorios a los que se refiere el parágrafo precedente, se encuentran descritos en los Artículos 281 Bis y 281 Ter del Código Penal».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 13, parágrafo II (página impresa 9; página PDF 9).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+35. [Ley N.º 045] Según el Artículo 21 (Art. 40 Bis del Código Penal), ¿qué efecto tienen los motivos racistas o discriminatorios en cualquier delito?
+A. Duplican el mínimo y el máximo de las penas, aunque se exceda el máximo establecido en la Constitución, en el marco de la Ley N.º 045.
+B. Elevan en un tercio el mínimo y en un medio el máximo las penas, sin exceder el máximo constitucional, conforme a la Ley N.º 045.
+C. Convierten el delito en uno de acción privada, que solo puede perseguirse a instancia de la víctima, según la Ley.
+D. Reducen la pena si el autor se retracta antes de la imputación formal, por el mismo medio utilizado, según la Ley.
+Respuesta correcta: B
+Explicación: «Se elevarán en un tercio el mínimo y en un medio el máximo, las penas de todo delito tipificado en la Parte Especial de este Código y otras leyes penales complementarias, cuando hayan sido cometidos por motivos racistas y/o discriminatorios […]. En ningún caso la pena podrá exceder el máximo establecido por la Constitución Política del Estado».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 21, Art. 40 Bis (página impresa 11; página PDF 11).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+36. [Ley N.º 045] Según el Artículo 23 (Art. 281 octies.II), ¿qué efecto tiene la retractación del sindicado por insultos racistas antes o a tiempo de la imputación formal?
+A. La pena se reduce a la mitad, admitiéndose nuevas retractaciones sobre el mismo hecho denunciado.
+B. La acción se convierte en acción pública, siempre que exista interés público comprometido.
+C. La acción penal queda extinguida, sin admitirse una segunda retractación sobre el mismo hecho.
+D. La acción penal continúa, pero el juez puede sustituir la pena por trabajo comunitario.
+Respuesta correcta: C
+Explicación: «II. Si la persona sindicada de este delito se retractare, antes o a tiempo de la imputación formal, la acción penal quedará extinguida. No se admitirá una segunda retractación sobre el mismo hecho».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 23, Art. 281 octies, parágrafo II (página impresa 13; página PDF 13).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+37. [Ley N.º 045] Según el Artículo 23 (Art. 281 octies.III), ¿cómo debe realizarse la retractación?
+A. Por escrito ante el juez, en audiencia privada y con costos a cargo del Estado, según lo dispuesto en la Ley N.º 045.
+B. Por cualquier medio que elija el sindicado, sin necesidad de igualar el alcance del insulto, conforme a lo establecido en la Ley N.º 045.
+C. Ante el Comité Nacional, mediante una declaración jurada sin publicidad alguna, según lo dispuesto en la Ley N.º 045.
+D. Por el mismo medio, en iguales condiciones y alcance que el insulto, asumiendo los costos que implique, conforme a la Ley N.º 045.
+Respuesta correcta: D
+Explicación: «III. La retractación deberá realizarse por el mismo medio, en iguales condiciones y alcance por el cual se realizó el insulto o la agresión verbal, asumiendo los costos que ello implique».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 23, Art. 281 octies, parágrafo III (página impresa 13; página PDF 13).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+38. [Ley N.º 045] Según el Artículo 23 (Art. 281 quater.II), ¿qué no podrá alegar el trabajador o propietario de un medio de comunicación que difunda ideas racistas?
+A. Libertad de prensa absoluta.
+B. Error de prohibición invencible.
+C. Desconocimiento de la Ley penal.
+D. Inmunidad ni fuero alguno.
+Respuesta correcta: D
+Explicación: «II. Cuando el hecho sea cometido por una trabajadora o un trabajador de un medio de comunicación social, o propietario del mismo, no podrá alegarse inmunidad ni fuero alguno».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 23, Art. 281 quater, parágrafo II (página impresa 13; página PDF 13).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+39. [Ley N.º 045] Según el Artículo 15.I, ¿qué excepciones admite la prohibición de restringir el ingreso a locales abiertos al público?
+A. Las prohibiciones previstas por ley que protejan derechos y las actividades no dirigidas al público en general por su contenido.
+B. Las restricciones decididas por el propietario por razones de imagen comercial o de preferencia de su clientela habitual.
+C. Las restricciones fundadas en la vestimenta o apariencia física de las personas, cuando así lo exija el reglamento interno, según la Ley.
+D. Las restricciones autorizadas por el Comité Nacional, previa solicitud fundamentada del establecimiento interesado.
+Respuesta correcta: A
+Explicación: «Salvando aquellas prohibiciones previstas por ley que protejan derechos o para las actividades que no estén dirigidas al público en general por su contenido».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 15, parágrafo I (página impresa 10; página PDF 10).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+40. [Ley N.º 045] Según el Artículo 8.III, ¿perciben salario del Tesoro General de la Nación los miembros del Comité por sus funciones?
+A. Sí, perciben un salario fijado por el Ministerio de Culturas con fondos del Tesoro.
+B. Sí, pero solo los representantes de las instituciones públicas del Órgano Ejecutivo, según la Ley N.º 045.
+C. No, no percibirán salario alguno del Tesoro General de la Nación por esas funciones, por mandato legal.
+D. Solo dietas por sesión, financiadas por el Tesoro General de la Nación cada año, según la Ley.
+Respuesta correcta: C
+Explicación: «III. Los miembros del Comité, por estas funciones, no percibirán salario alguno que provenga del Tesoro General de la Nación».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo III: Del Comité Nacional contra el Racismo y toda forma de Discriminación. Art. 8, parágrafo III (página impresa 7; página PDF 7).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+41. [Ley N.º 045] ¿Qué distingue la discriminación (Art. 5.a) de la discriminación racial (Art. 5.b)?
+A. La primera se funda en motivos de raza y color; la segunda, en múltiples motivos como el sexo, la edad o el credo religioso, conforme a lo establecido en la Ley N.º 045.
+B. La primera es una teoría de superioridad de un grupo; la segunda, una conducta de odio hacia el extranjero o extranjera, conforme a la Ley N.º 045.
+C. La primera se aplica solo en la esfera pública; la segunda, solo en la esfera privada y familiar de las personas, en el marco de la Ley N.º 045.
+D. La primera se funda en múltiples motivos (sexo, edad, credo, etc.); la segunda, en motivos de raza, color, ascendencia u origen nacional o étnico, por mandato legal.
+Respuesta correcta: D
+Explicación: Art. 5.a: «[…] toda forma de distinción, exclusión, restricción o preferencia fundada en razón de sexo, color, edad, orientación sexual […]». Art. 5.b: «[…] toda distinción, exclusión, restricción o preferencia basada en motivos de raza o por el color, ascendencia u origen nacional o étnico […]».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 5, incisos a) y b) (páginas impresas 2-3; páginas PDF 2-3).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+42. [Ley N.º 045] ¿Qué diferencia existe entre la acción afirmativa (Art. 5.k) y la acción correctiva (Art. 5.m)?
+A. La afirmativa son medidas temporales en favor de sectores en desventaja; la correctiva, la imposición de medidas sancionatorias a los infractores, por mandato legal.
+B. La afirmativa es la imposición de sanciones a los infractores; la correctiva, medidas temporales en favor de sectores en desventaja, según lo dispuesto en la Ley N.º 045.
+C. La afirmativa son campañas de concientización y educación; la correctiva, la difusión de derechos humanos protectivos, conforme a la Ley N.º 045.
+D. La afirmativa es permanente y obligatoria; la correctiva es temporal y voluntaria para las instituciones públicas, en el marco de la Ley N.º 045.
+Respuesta correcta: A
+Explicación: «k) Acción Afirmativa. […] medidas y políticas de carácter temporal adoptadas en favor de sectores de la población en situación de desventaja […] m) Acción Correctiva. La efectiva imposición de medidas sancionatorias o disciplinarias a los infractores, realizando el seguimiento a su aplicación y los resultados obtenidos».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 5, incisos k) y m) (página impresa 4; página PDF 4).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+43. [Ley N.º 045] ¿Qué distingue la homofobia (Art. 5.g) de la transfobia (Art. 5.h)?
+A. La homofobia es discriminación basada en la identidad de género; la transfobia, aversión contra hombres o mujeres homosexuales.
+B. La homofobia es aversión o discriminación contra personas homosexuales y la diversidad sexual; la transfobia, discriminación basada en la identidad de género.
+C. La homofobia es el odio manifiesto hacia las mujeres; la transfobia, el odio y rechazo al extranjero o a la extranjera, según la norma.
+D. La homofobia es un delito penal autónomo; la transfobia, una falta administrativa sin sanción en la función pública, conforme a norma.
+Respuesta correcta: B
+Explicación: «g) Homofobia. Se refiere a la aversión, odio, prejuicio o discriminación contra hombres o mujeres homosexuales, también se incluye a las demás personas que integran a la diversidad sexual. h) Transfobia. Se entiende como la discriminación hacia la transexualidad y las personas transexuales o transgénero, basada en su identidad de género».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 5, incisos g) y h) (página impresa 3; página PDF 3).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+44. [Ley N.º 045] ¿Qué diferencia existe entre la xenofobia (Art. 5.i) y la misoginia (Art. 5.j)?
+A. La xenofobia es odio manifiesto hacia las mujeres; la misoginia, odio y rechazo al extranjero o extranjera en el país.
+B. La xenofobia es odio y rechazo al extranjero; la misoginia, conducta de odio manifiesto hacia las mujeres o el género femenino.
+C. La xenofobia es aversión contra las personas homosexuales; la misoginia, discriminación basada en la identidad de género, según la Ley.
+D. La xenofobia es una teoría de superioridad racial; la misoginia, una noción construida socialmente sobre la raza.
+Respuesta correcta: B
+Explicación: «i) Xenofobia. Se entiende como el odio y rechazo al extranjero o extranjera […] j) Misoginia. Se entiende por misoginia cualquier conducta o comportamiento de odio manifiesto hacia las mujeres o género femenino […]».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 5, incisos i) y j) (página impresa 4; página PDF 4).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+45. [Ley N.º 045] ¿Qué distingue la equidad de género (Art. 5.e) de la equidad generacional (Art. 5.f)?
+A. La de género valora las diferencias de edad entre las personas; la generacional, las diferencias físicas y biológicas entre mujeres y hombres, según lo dispuesto en la Ley N.º 045.
+B. La de género se aplica solo en el ámbito laboral; la generacional se aplica solo en el ámbito familiar y en el escolar de los estudiantes, según la norma.
+C. La de género es un principio general de la Ley; la generacional es un delito tipificado en el Código Penal por la Ley N.º 045, conforme a la normativa vigente.
+D. La de género valora las diferencias físicas y biológicas de mujeres y hombres; la generacional, las diferencias generacionales sin perjuicio de la edad, según la Ley N.º 045.
+Respuesta correcta: D
+Explicación: «e) Equidad de Género. Es el reconocimiento y valoración de las diferencias físicas y biológicas de mujeres y hombres […] f) Equidad Generacional. Es el reconocimiento y valoración de las diferencias generacionales de mujeres y hombres, con el fin de alcanzar justicia social que garantice el beneficio pleno de sus derechos sin perjuicio de su edad […]».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 5, incisos e) y f) (página impresa 3; página PDF 3).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+46. [Ley N.º 045] ¿Qué diferencia establece la Ley entre las faltas en instituciones públicas (Art. 13.I) y las de instituciones privadas (Art. 14.I)?
+A. Las públicas incluyen además las «acciones denigrantes», que no figuran entre las faltas de las instituciones privadas.
+B. Las privadas excluyen el maltrato físico, psicológico y sexual, que solo es falta en el ejercicio de la función pública, según la Ley.
+C. Las privadas incluyen además las «acciones denigrantes», que no figuran entre las faltas de la función pública del Art. 13.I.
+D. Las públicas excluyen la denegación de acceso al servicio, que solo es falta en las instituciones privadas del país.
+Respuesta correcta: C
+Explicación: Art. 13.I: «a) Agresiones verbales […] b) Denegación de acceso al servicio […] c) Maltrato físico, psicológico y sexual […]». Art. 14.I: «a) Agresiones verbales […] b) Denegación de acceso al servicio […] c) Maltrato físico, psicológico y sexual […] d) Acciones denigrantes».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Arts. 13, parágrafo I (página impresa 9; página PDF 9) y 14, parágrafo I (páginas impresas 9-10; páginas PDF 9-10).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+47. [Ley N.º 045] ¿Qué distingue el delito de difusión e incitación (Art. 281 quater) del delito de organizaciones racistas (Art. 281 septieser), según el Artículo 23?
+A. El primero sanciona difundir ideas racistas o incitar a la violencia, con uno a cinco años; el segundo, participar en esas organizaciones, con uno a cuatro años, en el marco de la Ley N.º 045.
+B. El primero sanciona participar en organizaciones racistas, con uno a cuatro años; el segundo, difundir ideas racistas, con uno a cinco años, conforme a la Ley N.º 045.
+C. El primero sanciona insultos verbales con trabajo comunitario; el segundo, restringir derechos por motivos de raza, con tres a siete años, conforme a la Ley N.º 045.
+D. El primero es un delito de acción privada; el segundo, una falta administrativa sancionada solo en las instituciones públicas, según lo dispuesto en la Ley N.º 045.
+Respuesta correcta: A
+Explicación: Art. 281 quater: «La persona que por cualquier medio difunda ideas basadas en la superioridad o en el odio racial […] o incite a la violencia […] será sancionado con la pena privativa de libertad de uno a cinco años». Art. 281 septieser: «La persona que participe en una organización o asociación que promuevan y/o justifiquen el racismo o la discriminación […] serán sancionados con pena privativa de libertad de uno a cuatro años».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 23, Arts. 281 quater (página impresa 12; página PDF 12) y 281 septieser (página impresa 13; página PDF 13).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+48. [Ley N.º 045] ¿Qué diferencia existe entre la vía administrativa (Art. 13) y la denuncia falsa (Art. 20) en la Ley?
+A. La vía administrativa sanciona faltas de servidores públicos; la denuncia falsa sanciona a quien acusa a sabiendas a un inocente de un delito de racismo, conforme a la Ley N.º 045.
+B. La vía administrativa sanciona a quien acusa falsamente; la denuncia falsa sanciona las faltas de los servidores públicos en sus funciones, conforme a lo establecido en la Ley N.º 045.
+C. La vía administrativa se aplica solo a instituciones privadas; la denuncia falsa, solo a servidores públicos que denuncian, según lo dispuesto en la Ley N.º 045.
+D. La vía administrativa es competencia del Ministerio Público; la denuncia falsa, competencia de cada institución pública, según lo dispuesto en la Ley N.º 045.
+Respuesta correcta: A
+Explicación: Art. 13.I: «Constituyen faltas en el ejercicio de la función pública, las siguientes conductas […]». Art. 20: «La persona que a sabiendas acusare o denunciare como autor o autora, o partícipe de un delito de racismo o cualquier forma de discriminación a una persona que no lo cometió […] será sancionado conforme a lo previsto en el Artículo 166 del Código Penal».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Arts. 13, parágrafo I (página impresa 9; página PDF 9) y 20 (página impresa 11; página PDF 11).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+49. [Ley N.º 045] Según el Artículo 24 (Art. 26 del CPP), ¿qué distingue la autorización de conversión de acciones en delitos contra la dignidad del ser humano de la de delitos patrimoniales?
+A. En delitos contra la dignidad la autoriza el Fiscal de Distrito; en delitos patrimoniales, el juez competente en audiencia, conforme a la Ley N.º 045.
+B. En delitos contra la dignidad la autoriza el juez competente; en delitos patrimoniales, el Fiscal de Distrito o quien él delegue, conforme a norma.
+C. En ambos casos la autoriza el juez competente, dentro de los tres días de presentada la solicitud por la víctima, según la Ley.
+D. En delitos contra la dignidad no procede la conversión; en patrimoniales la autoriza el Ministerio de Justicia, según la norma.
+Respuesta correcta: B
+Explicación: «En los casos previstos en los numerales 1) y 2) la conversión será autorizada por el Fiscal de Distrito o por quien él delegue, autorización que será emitida dentro de los tres días de solicitada. En el caso del numeral 3) la conversión será autorizada por el juez competente».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 24, Art. 26 del Código de Procedimiento Penal (página impresa 14; página PDF 14).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+50. [Ley N.º 045] ¿Qué distingue el delito de racismo (Art. 281 bis) del de insultos y agresiones verbales (Art. 281 octies), según el Artículo 23?
+A. El racismo se sanciona con prestación de trabajo y multa; los insultos restringen derechos y se sancionan con privación de libertad.
+B. El racismo restringe o impide el ejercicio de derechos, con privación de libertad; los insultos se sancionan con prestación de trabajo y multa, según la norma.
+C. El racismo es de acción privada y admite retractación; los insultos son de acción pública y no admiten retractación alguna, según la Ley.
+D. El racismo solo puede cometerlo un servidor público; los insultos solo pueden cometerlos los particulares en servicios públicos.
+Respuesta correcta: B
+Explicación: Art. 281 bis: «La persona que arbitrariamente e ilegalmente, restrinja, anule, menoscabe o impida el ejercicio de derechos individuales o colectivos por motivos de raza […] será sancionado con pena privativa de libertad de tres a siete años». Art. 281 octies: «El que por cualquier medio realizare insultos u otras agresiones verbales, por motivos racistas o discriminatorios […] incurrirá en prestación de trabajo de cuarenta días a dieciocho meses y multa de cuarenta a ciento cincuenta días».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 23, Arts. 281 bis (página impresa 11; página PDF 11) y 281 octies (página impresa 13; página PDF 13).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+51. [Ley N.º 045] Una entidad pública no incluyó en su Reglamento Interno de Personal las faltas por racismo y discriminación, alegando que «la Ley basta». ¿Qué análisis corresponde?
+A. Es correcto, porque la Ley se aplica directamente y no requiere ninguna modificación de los reglamentos internos.
+B. Es correcto si la entidad cuenta con un comité propio contra el racismo, que sustituye la modificación reglamentaria.
+C. Incumple la Ley solo si se trata de una institución privada, pues las públicas aplican directamente el Código Penal.
+D. Incumple la obligación de modificar sus reglamentos para incluir esas faltas como causal de proceso interno y sanción, según la Ley N.º 045.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «IV. Todas las instituciones públicas deberán modificar sus Reglamentos Internos de Personal, Reglamentos Disciplinarios u otros que correspondan, de manera que se incluyan las faltas descritas en el parágrafo I del presente Artículo, como causal de inicio de proceso interno y motivo de sanción administrativa o disciplinaria». Aplicación razonada: la omisión contraviene el Art. 13.IV.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 13, parágrafo IV (página impresa 9; página PDF 9).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+52. [Ley N.º 045] Un servidor de ventanilla niega atención a una persona por su vestimenta tradicional. ¿Qué análisis corresponde en la vía administrativa?
+A. Constituye falta de denegación de acceso al servicio por motivos discriminatorios, sancionable por la institución, por mandato legal.
+B. No constituye falta, porque la institución puede fijar requisitos de vestimenta para la atención del público.
+C. Constituye solo una descortesía, sin consecuencias disciplinarias si no hubo violencia física contra el usuario, conforme a la Ley N.º 045.
+D. Constituye falta solo si la persona pertenece a un pueblo indígena reconocido por el Comité Nacional, conforme a norma.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «I. Constituyen faltas en el ejercicio de la función pública, las siguientes conductas: […] b) Denegación de acceso al servicio por motivos racistas y/o discriminatorios […]». Aplicación razonada: la vestimenta es un motivo discriminatorio descrito en el Art. 281 ter.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 13, parágrafo I, inciso b) (página impresa 9; página PDF 9).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+53. [Ley N.º 045] Un servidor público que presenció un acto de discriminación decide no denunciarlo «para evitar conflictos». ¿Qué análisis corresponde?
+A. Incumple su obligación de denunciar y es pasible a la sanción del Artículo 178 del Código Penal.
+B. Actúa correctamente, porque la denuncia es facultativa para los servidores públicos que presencian hechos.
+C. Actúa correctamente si informa verbalmente a su superior, sin necesidad de denunciar ante otra autoridad.
+D. Incumple solo una norma ética, sin consecuencia jurídica alguna, por no ser la víctima directa del hecho.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La persona que en ejercicio de la función pública conociere hechos de racismo y toda forma de discriminación, está en la obligación de denunciar ante las autoridades correspondientes; en caso de no hacerlo será pasible a la sanción dispuesta en el Artículo 178 del Código Penal». Aplicación razonada: la omisión encaja en el supuesto del Art. 17.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 17 (página impresa 10; página PDF 10).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+54. [Ley N.º 045] Una persona denuncia a sabiendas a un inocente como autor de un delito de racismo, y se inicia el proceso penal. ¿Qué análisis corresponde?
+A. No tiene responsabilidad, porque la Ley protege a todos los denunciantes de delitos de racismo, conforme a la normativa vigente.
+B. Solo debe retractarse por el mismo medio, sin otra consecuencia jurídica para el denunciante, según la Ley.
+C. Puede ser sancionada conforme al Artículo 166 del Código Penal por denuncia falsa o temeraria, según la Ley N.º 045.
+D. Puede ser sancionada solo administrativamente, por la institución en que trabaja el denunciado, según la Ley.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La persona que a sabiendas acusare o denunciare como autor o autora, o partícipe de un delito de racismo o cualquier forma de discriminación a una persona que no lo cometió, dando lugar a que se inicie el proceso penal correspondiente, será sancionado conforme a lo previsto en el Artículo 166 del Código Penal». Aplicación razonada: concurren el conocimiento de la falsedad y el inicio del proceso.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 20 (página impresa 11; página PDF 11).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+55. [Ley N.º 045] Un establecimiento coloca un cartel que restringe el ingreso de personas de determinado origen. Es la segunda vez. ¿Qué análisis corresponde?
+A. Corresponde la clausura por treinta días, aplicada por el Gobierno Autónomo Municipal.
+B. Corresponde la clausura definitiva, aplicada por el Comité Nacional.
+C. Corresponde la clausura por tres días, aplicada por el Ministerio de Culturas.
+D. Corresponde solo una multa económica, aplicada por la Defensoría del Pueblo.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «I. […] bajo sanción de clausura por tres días en la primera vez, de treinta días en la segunda y definitiva en la tercera […] II. Esta medida será aplicada por los Gobiernos Autónomos Municipales de acuerdo a reglamentación especial, quienes deberán verificar los extremos de la denuncia». Aplicación razonada: la reincidencia corresponde a la segunda vez.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 15, parágrafos I y II (página impresa 10; página PDF 10).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+56. [Ley N.º 045] Un medio de comunicación autoriza y publica ideas racistas. ¿Qué consecuencia administrativa prevé el Artículo 16?
+A. Solo una amonestación pública, sin sanciones económicas ni suspensión de licencia.
+B. Sanciones económicas y suspensión de licencia de funcionamiento, sujeto a reglamentación.
+C. La clausura definitiva del medio, aplicada por el Gobierno Autónomo Municipal, según la Ley.
+D. Ninguna, porque la libertad de expresión impide sancionar a los medios de comunicación, según la Ley.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El medio de comunicación que autorizare y publicare ideas racistas y discriminatorias será pasible de sanciones económicas y de suspensión de licencia de funcionamiento, sujeto a reglamentación». Aplicación razonada: la conducta descrita coincide con el supuesto del Art. 16.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 16 (página impresa 10; página PDF 10).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+57. [Ley N.º 045] Una autoridad sostiene que una medida temporal en favor de un sector en desventaja «es discriminatoria contra los demás». ¿Qué análisis corresponde?
+A. Es correcto: toda medida que beneficie a un sector constituye discriminación contra los demás.
+B. Es incorrecto: las medidas de acción afirmativa no se consideran discriminación según la Ley.
+C. Es correcto: la Ley prohíbe toda diferenciación, aunque sea temporal y en favor de sectores vulnerables.
+D. Es incorrecto solo si la medida es permanente, pues las temporales siempre son discriminatorias.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «No se considerará discriminación a las medidas de acción afirmativa». Aplicación razonada: la medida descrita reúne las características del Art. 5.k).
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 5, inciso a) (página impresa 3; página PDF 3).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+58. [Ley N.º 045] Un particular que presta un servicio público impide con violencia el ejercicio de derechos de una persona por su idioma propio. ¿Qué análisis corresponde?
+A. Configura racismo con pena agravada, por ser cometido por un particular en la prestación de un servicio público y con violencia, según la norma.
+B. Configura solo una falta administrativa, porque el autor no es servidor público y la Ley no le alcanza en lo penal, según lo dispuesto en la normativa vigente.
+C. Configura insultos verbales con prestación de trabajo, porque el idioma no es un motivo previsto en la Ley N.º 045, según la norma.
+D. Configura discriminación simple sin agravante, porque la violencia solo agrava los delitos de servidores públicos, según la norma.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «I. La persona que arbitrariamente e ilegalmente, restrinja, anule, menoscabe o impida el ejercicio de derechos individuales o colectivos por motivos de […] uso de su vestimenta o idioma propio […] II. La sanción será agravada […] cuando: […] b) El hecho sea cometido por un particular en la prestación de un servicio público. c) El hecho sea cometido con violencia». Aplicación razonada: concurren dos agravantes del Art. 281 bis.II.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 23, Art. 281 bis (páginas impresas 11-12; páginas PDF 11-12).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+59. [Ley N.º 045] Un servidor público insulta a un colega por su orientación sexual en un correo masivo institucional. ¿Qué análisis corresponde?
+A. Solo configura una falta ética, pues las agresiones verbales entre colegas no están previstas en la Ley N.º 045.
+B. Solo configura delito de racismo, pues la orientación sexual es un motivo racial previsto en el Art. 281 bis, según la Ley.
+C. Puede configurar falta administrativa y el delito de insultos agravado por cometerse mediante medio escrito o de comunicación, según la norma.
+D. No configura falta ni delito, porque el correo institucional es un medio privado entre servidores públicos, según la Ley.
+Respuesta correcta: C
+Explicación: Aplicación razonada: Art. 13.I: «a) Agresiones verbales fundadas en motivos racistas y/o discriminatorios […] Siempre que estas faltas se cometan […] en la relación entre compañeros de trabajo […]». Art. 281 octies.I: «Si este delito fuera cometido mediante impreso, manuscrito o a través de medios de comunicación, la pena será agravada en un tercio el mínimo y en un medio el máximo». Aplicación razonada: el hecho puede encuadrarse en ambas vías; el medio escrito activa la agravante.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Arts. 13, parágrafo I (página impresa 9; página PDF 9) y 23, Art. 281 octies (página impresa 13; página PDF 13).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+60. [Ley N.º 045] Una institución privada recibe una denuncia por discriminación contra un empleado y advierte indicios de delito. ¿Qué análisis corresponde?
+A. Debe remitir el caso al Ministerio Público y enviar copia de la denuncia a la Dirección General de Lucha contra el Racismo.
+B. Debe resolver el caso internamente, pues las instituciones privadas no están obligadas a informar a ninguna instancia.
+C. Debe remitir el caso al Gobierno Autónomo Municipal, que es competente para sancionar a las instituciones privadas.
+D. Debe esperar que la víctima denuncie ante la Policía, pues la institución privada no tiene obligación de remitir el caso, según la Ley.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «III. En caso de existir indicios de responsabilidad penal, deberá remitirse a conocimiento del Ministerio Público. IV. La institución privada que conozca denuncias sobre racismo y toda forma de discriminación contra sus empleados, deberá remitir copia de las mismas a la Dirección General de Lucha contra el Racismo y toda forma de Discriminación […]». Aplicación razonada: concurren los supuestos del Art. 14.III y IV.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 14, parágrafos III y IV (página impresa 10; página PDF 10).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+61. [Ley N.º 045] Una ONG extranjera que opera en Bolivia pregunta si está sujeta a la Ley N.º 045. Según el Artículo 3.d), ¿qué corresponde?
+A. No, porque la Ley solo se aplica a instituciones públicas y a personas naturales bolivianas o nacionalizadas, según lo dispuesto en la normativa vigente.
+B. Solo si recibe fondos del Estado, pues la Ley no alcanza a las ONG financiadas con recursos extranjeros, según la normativa legal.
+C. Solo si tiene sede en Bolivia, pues las extranjeras se rigen exclusivamente por el derecho internacional, por mandato legal.
+D. Sí, la Ley se aplica a instituciones no gubernamentales nacionales o extranjeras a través de sus representantes, conforme a la normativa vigente.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «d) Personas privadas jurídicas, instituciones no gubernamentales nacionales o extranjeras a través de sus representantes».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 3, inciso d) (página impresa 2; página PDF 2).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+62. [Ley N.º 045] Una persona denuncia ante el municipio la restricción ilegal de ingreso a un local abierto al público. Según el Artículo 15.II, ¿qué debe hacer el Gobierno Autónomo Municipal?
+A. Remitir la denuncia al Ministerio Público sin verificar los hechos ni aplicar medida alguna, según la Ley N.º 045.
+B. Clausurar de inmediato y definitivamente el local, sin necesidad de verificar la denuncia.
+C. Verificar los extremos de la denuncia y aplicar la medida de acuerdo a reglamentación especial, según la Ley.
+D. Remitir la denuncia al Comité Nacional, que es el único competente para clausurar locales.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «II. Esta medida será aplicada por los Gobiernos Autónomos Municipales de acuerdo a reglamentación especial, quienes deberán verificar los extremos de la denuncia».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 15, parágrafo II (página impresa 10; página PDF 10).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+63. [Ley N.º 045] La víctima de insultos racistas desea saber cómo se persigue este delito. Según el Artículo 24 (Art. 20 del CPP), ¿qué tipo de acción corresponde?
+A. Acción privada.
+B. Acción pública.
+C. Acción popular.
+D. Acción de oficio.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Son delitos de acción privada: […] e insultos y otras agresiones verbales por motivos racistas o discriminatorios».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 24, Art. 20 del Código de Procedimiento Penal (página impresa 13; página PDF 13).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+64. [Ley N.º 045] La víctima de un delito contra la dignidad del ser humano pide convertir la acción pública en privada. Según el Artículo 24 (Art. 26 del CPP), ¿qué condición se exige?
+A. Que no exista un interés público gravemente comprometido, según la Ley.
+B. Que el imputado haya confesado el hecho ante el fiscal, por mandato legal.
+C. Que el delito no haya sido cometido por un particular, según la Ley.
+D. Que la víctima renuncie a toda reparación del daño, según la Ley.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «3. Cuando se trate de “Delitos contra la Dignidad del Ser Humano” siempre que no exista un interés público gravemente comprometido».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 24, Art. 26 del Código de Procedimiento Penal (página impresa 14; página PDF 14).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+65. [Ley N.º 045] En un proceso penal por discriminación, el Ministerio Público evalúa cómo resolver el conflicto. Según el Artículo 19, ¿qué debe buscar?
+A. La condena máxima en todos los casos, sin aplicar salidas alternativas por la gravedad de los delitos, según la norma.
+B. La solución del conflicto penal, en el marco de la legalidad, mediante las salidas alternativas previstas por ley.
+C. La remisión del caso al Comité Nacional, que decide si corresponde una salida alternativa al proceso.
+D. La conciliación obligatoria entre las partes, aunque esta no esté prevista como salida alternativa.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Conforme a lo establecido por el Artículo 26 del Código de Procedimiento Penal, el Ministerio Público buscará en el marco de la legalidad la solución del conflicto penal, mediante la aplicación de las salidas alternativas previstas por ley».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 19 (página impresa 11; página PDF 11).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+66. [Ley N.º 045] Un testigo de un delito de racismo teme represalias. Según el Artículo 18, ¿qué garantiza el Estado?
+A. La seguridad física y psicológica de las víctimas, testigos y denunciantes de delitos de racismo y discriminación, por mandato legal.
+B. La reserva absoluta de su identidad, sin que pueda declarar en ninguna etapa del proceso penal, según la Ley N.º 045.
+C. Una indemnización económica a cargo del imputado, fijada por el Comité Nacional contra el Racismo, según lo dispuesto en la Ley N.º 045.
+D. Su traslado obligatorio a otro departamento, con gastos a cargo del Ministerio de Culturas, conforme a la Ley N.º 045.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El Estado garantizará la seguridad física y psicológica de las víctimas, testigos y denunciantes de delitos de racismo y toda forma de discriminación».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 18 (página impresa 11; página PDF 11).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+67. [Ley N.º 045] La víctima de una falta cometida por un servidor público desea que su denuncia quede registrada. Según el Artículo 13.VIII, ¿qué puede hacer?
+A. Presentar la denuncia directamente ante el Ministerio de Culturas, que aplica la sanción disciplinaria, según la norma.
+B. Remitir copia de la denuncia al Ministerio de Culturas, para fines de registro y seguimiento, según la Ley N.º 045.
+C. Exigir que la institución publique la denuncia en un medio de comunicación de alcance nacional.
+D. Remitir copia al Gobierno Autónomo Municipal, que registra todas las denuncias del municipio.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «VIII. La denunciante o el denunciante, podrá remitir copia de la denuncia contra la servidora o servidor público, al Ministerio de Culturas para fines de registro y seguimiento».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 13, parágrafo VIII (página impresa 9; página PDF 9).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+68. [Ley N.º 045] Una autoridad pública participa en una asociación que justifica la discriminación. Según el Artículo 23 (Art. 281 septieser), ¿qué consecuencia tiene su condición de autoridad?
+A. La pena de uno a cuatro años se agrava en un tercio el mínimo y en una mitad el máximo, según la Ley.
+B. La pena de uno a cuatro años se reduce a la mitad, por tratarse de una autoridad electa, según la norma.
+C. La pena se sustituye por la destitución del cargo, sin privación de libertad alguna.
+D. La autoridad no puede ser procesada mientras ejerza el cargo, por gozar de fuero, según la Ley.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] serán sancionados con pena privativa de libertad de uno a cuatro años. La sanción será agravada en un tercio el mínimo y en una mitad el máximo, cuando el hecho sea cometido por una servidora o servidor público o autoridad pública».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 23, Art. 281 septieser (página impresa 13; página PDF 13).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+69. [Ley N.º 045] Un periódico publica insultos racistas contra una persona. Según el Artículo 23 (Art. 281 octies.I), ¿qué efecto tiene el medio empleado?
+A. La pena se reduce, por la libertad de prensa del medio, según la Ley.
+B. La pena se agrava en un tercio el mínimo y en un medio el máximo.
+C. La acción se convierte automáticamente en acción pública, según la Ley.
+D. La pena se duplica sin límite alguno en su máximo, según la Ley.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «I. Si este delito fuera cometido mediante impreso, manuscrito o a través de medios de comunicación, la pena será agravada en un tercio el mínimo y en un medio el máximo».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 23, Art. 281 octies, parágrafo I (página impresa 13; página PDF 13).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+70. [Ley N.º 045] Un Gobierno Autónomo Departamental consulta si debe observar la Ley N.º 045. Según el Artículo 4, ¿qué corresponde?
+A. No, la Ley solo obliga a las autoridades del nivel central, sin alcanzar a las entidades territoriales autónomas, según la norma.
+B. Solo si su estatuto autonómico lo dispone expresamente, pues la Ley no se impone a las autonomías, en el marco de la normativa vigente.
+C. Sí, las autoridades de cualquier nivel y jerarquía observarán la Ley conforme a la CPE y los instrumentos internacionales ratificados, según la norma.
+D. Solo en materia penal, pues las medidas de prevención corresponden exclusivamente al nivel central, en el marco de la Ley N.º 045.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las autoridades nacionales, departamentales, regionales, municipales e indígena originario campesinas o de cualquier jerarquía, observarán la presente Ley, de conformidad a la Constitución Política del Estado y normas e instrumentos internacionales sobre derechos humanos […]».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 4 (página impresa 2; página PDF 2).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Ley N.º 045] Caso: en una unidad educativa, estudiantes se burlan reiteradamente de una compañera afroboliviana; el personal lo considera «bromas». ¿Qué orientación de la Ley debe guiar la intervención educativa?
+A. Tolerar las burlas como parte de la convivencia escolar, pues no constituyen violencia física contra la estudiante, conforme a la Ley N.º 045.
+B. Separar a la estudiante en otro curso, para evitar que continúe expuesta a las burlas de sus compañeros, según la norma.
+C. Promover formación en derechos humanos y valores para modificar actitudes fundadas en el racismo y contrarrestar prejuicios y estereotipos.
+D. Denunciar a los estudiantes ante el juez penal, como única respuesta prevista por la Ley N.º 045 para estos hechos.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «c) Promover la implementación de procesos de formación y educación en derechos humanos y en valores […] para modificar actitudes y comportamientos fundados en el racismo y la discriminación; promover el respeto a la diversidad; y contrarrestar el sexismo, prejuicios, estereotipos y toda práctica de racismo y/o discriminación». Aplicación razonada: la respuesta educativa prevista por el Art. 6.I.c) se aplica a la convivencia escolar.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo II: De las medidas de prevención y educación, destinadas a erradicar el racismo y toda forma de discriminación. Art. 6, parágrafo I, inciso c) (página impresa 5; página PDF 5).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Ley N.º 045] Caso: una secretaria de una dirección distrital niega un trámite a una madre por hablar solo su idioma originario. ¿Qué vía corresponde y ante quién se denuncia la falta?
+A. La vía penal exclusivamente, denunciando ante el Ministerio Público sin intervención de la institución.
+B. La vía administrativa o disciplinaria, denunciando ante la misma institución a la que pertenece la servidora.
+C. La vía municipal, denunciando ante el Gobierno Autónomo Municipal para la clausura de la oficina.
+D. La vía comunitaria, denunciando ante las autoridades originarias para que apliquen su justicia propia.
+Respuesta correcta: B
+Explicación: Aplicación razonada: Art. 13.I.b: «Denegación de acceso al servicio por motivos racistas y/o discriminatorios». Art. 13.VI: «Los actos de racismo y toda forma de discriminación que constituyan faltas cometidas por servidoras y servidores públicos serán denunciados ante la misma institución a la que pertenecen […]». Aplicación razonada: la conducta es denegación de acceso al servicio por motivo de idioma.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 13, parágrafos I y VI (página impresa 9; página PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Ley N.º 045] Caso: un docente es denunciado por un acto de discriminación y el director teme que el denunciante sufra represalias. ¿Qué garantía de la Ley respalda la protección?
+A. La garantía estatal de la seguridad física y psicológica de víctimas, testigos y denunciantes, conforme a la Ley N.º 045.
+B. La garantía de que el denunciante no deberá declarar en ninguna instancia del proceso, según lo dispuesto en la Ley N.º 045.
+C. La garantía de que el docente será suspendido de inmediato sin proceso ni defensa, conforme a la Ley N.º 045.
+D. La garantía de que la denuncia será resuelta en secreto por el Comité Nacional, conforme a la Ley N.º 045.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El Estado garantizará la seguridad física y psicológica de las víctimas, testigos y denunciantes de delitos de racismo y toda forma de discriminación». Aplicación razonada: la protección del Art. 18 alcanza a los denunciantes.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 18 (página impresa 11; página PDF 11).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Ley N.º 045] Caso: un portero de una institución pública impide el ingreso de una persona por su apariencia física y la agrede verbalmente. ¿Qué faltas del Artículo 13.I concurren?
+A. Maltrato sexual y acciones denigrantes por motivos racistas, conforme a la Ley N.º 045.
+B. Difusión de ideas racistas e incitación a la violencia, conforme a norma.
+C. Participación en organizaciones o asociaciones racistas, conforme a norma.
+D. Agresiones verbales y denegación de acceso al servicio por motivos discriminatorios.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «a) Agresiones verbales fundadas en motivos racistas y/o discriminatorios, b) Denegación de acceso al servicio por motivos racistas y/o discriminatorios […]». Aplicación razonada: la apariencia física es un motivo discriminatorio; la conducta descrita encaja en los incisos a) y b).
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 13, parágrafo I (página impresa 9; página PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Ley N.º 045] Caso: una persona insultó por motivos racistas a un vecino y, antes de la imputación formal, se retracta por el mismo medio y alcance. ¿Qué efecto tiene?
+A. La pena se reduce a la mitad.
+B. La acción se vuelve de acción pública.
+C. La acción penal queda extinguida.
+D. El proceso se suspende por un año.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «II. Si la persona sindicada de este delito se retractare, antes o a tiempo de la imputación formal, la acción penal quedará extinguida».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 23, Art. 281 octies, parágrafo II (página impresa 13; página PDF 13).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Ley N.º 045] Caso: tras una primera retractación por insultos racistas, la misma persona reitera el insulto sobre el mismo hecho y vuelve a ofrecer retractarse. ¿Qué dispone la Ley?
+A. Se admite la segunda retractación con multa adicional, según la Ley N.º 045.
+B. Se admiten hasta tres retractaciones sobre el mismo hecho, conforme a norma.
+C. Se admite si la víctima la acepta por escrito ante el juez, conforme a norma.
+D. No se admite una segunda retractación sobre el mismo hecho, en el marco de la Ley N.º 045.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «No se admitirá una segunda retractación sobre el mismo hecho».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 23, Art. 281 octies, parágrafo II (página impresa 13; página PDF 13).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Ley N.º 045] Caso: un empleado de un colegio privado es denunciado por agresiones discriminatorias contra estudiantes. El colegio no tiene esas faltas en su reglamento. ¿Qué obligación incumple el colegio?
+A. Ninguna, porque las instituciones privadas solo están obligadas a remitir los casos al Ministerio Público, según la Ley.
+B. Adoptar o modificar su Reglamento Interno para incluir como faltas las conductas racistas y/o discriminatorias.
+C. Exhibir el cartel «Todas las personas son iguales ante la Ley» en cada aula del colegio privado.
+D. Contratar personal técnico del Viceministerio de Descolonización para resolver las denuncias, según la Ley.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «I. Todas las instituciones privadas deberán adoptar o modificar sus Reglamentos Internos de manera que incluyan como faltas, conductas racistas y/o discriminatorias, tales como: […]». Aplicación razonada: un colegio privado es una institución privada alcanzada por el Art. 14.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 14, parágrafo I (página impresa 9; página PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Ley N.º 045] Caso: un funcionario municipal difunde en redes sociales mensajes que justifican el odio racial. ¿Qué delito y qué agravante pueden configurarse?
+A. Insultos verbales (Art. 281 octies), sin agravante alguno por la condición de servidor público.
+B. Discriminación (Art. 281 ter), atenuado por haberse cometido fuera del horario de trabajo.
+C. Difusión e incitación al racismo (Art. 281 quater), agravado por ser cometido por un servidor público.
+D. Ningún delito, porque las redes sociales no son un medio de difusión previsto en la Ley N.º 045, según la norma.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La persona que por cualquier medio difunda ideas basadas en la superioridad o en el odio racial, o que promuevan y/o justifiquen el racismo […] será sancionado con la pena privativa de libertad de uno a cinco años. I. La sanción será agravada en un tercio del mínimo y en una mitad del máximo, cuando el hecho sea cometido por una servidora o servidor público, o autoridad pública». Aplicación razonada: «por cualquier medio» comprende las redes sociales.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 23, Art. 281 quater (página impresa 12; página PDF 12).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Ley N.º 045] Caso: un médico de un hospital público niega atención a una mujer embarazada por su condición económica. ¿Qué delito puede configurarse en la vía penal?
+A. Discriminación (Art. 281 ter), con pena agravada por ser cometido por un servidor público, en el marco de la Ley N.º 045.
+B. Racismo (Art. 281 bis), porque la condición económica es un motivo racial previsto por la Ley, según la norma.
+C. Insultos verbales (Art. 281 octies), porque no hubo restricción alguna en el ejercicio de derechos, conforme a la Ley N.º 045.
+D. Ningún delito, porque la negativa de atención solo constituye una falta administrativa interna, según la Ley.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La persona que arbitrariamente e ilegalmente obstruya, restrinja, menoscabe, impida o anule el ejercicio de los derechos […] por motivos de […] condición económica o social […] estado de embarazo […] será sancionado con pena privativa de libertad de uno a cinco años. I. La sanción será agravada […] cuando: a) El hecho sea cometido por una servidora o servidor público o autoridad pública». Aplicación razonada: los motivos económicos y de embarazo corresponden al Art. 281 ter.
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 23, Art. 281 ter (página impresa 12; página PDF 12).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Ley N.º 045] Caso: un caso de discriminación se resolvió en vía administrativa en una entidad. El Comité desea hacer seguimiento. ¿Quién sistematiza la información de procesos administrativos y judiciales por racismo?
+A. La Defensoría del Pueblo, a través de su sistema nacional de registro de denuncias, según lo dispuesto en la Ley N.º 045.
+B. El Ministerio Público, a través de su base de datos de procesos penales del país, según la Ley N.º 045.
+C. Cada Gobierno Autónomo Municipal, a través de su unidad de derechos ciudadanos, conforme a la Ley N.º 045.
+D. El Comité Nacional y el Ministerio de Culturas, a través del Viceministerio de Descolonización, por mandato legal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Con fines de registro y seguimiento, el Comité Nacional Contra el Racismo y toda forma de Discriminación; el Ministerio de Culturas a través del Viceministerio de Descolonización, sistematizará y producirá información sobre los procesos administrativos y judiciales iniciados por causa de racismo y toda forma de discriminación».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo III: Del Comité Nacional contra el Racismo y toda forma de Discriminación. Art. 10 (página impresa 8; página PDF 8).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Ley N.º 045] El Comité Nacional debe decidir su primera tarea de planificación. Según el Artículo 9.a), ¿qué debe dirigir?
+A. La redacción de un nuevo Código Penal que incorpore todos los delitos de racismo y discriminación del país, según lo previsto en la normativa de la Ley N.º 045.
+B. La creación de juzgados especializados en racismo en cada departamento, con presupuesto del Tesoro, según lo dispuesto en la Ley N.º 045.
+C. La elaboración de un Diagnóstico y un Plan Nacional de Acción contra el Racismo, sobre la base de los lineamientos del Artículo 6, según la Ley N.º 045.
+D. La aprobación de los Reglamentos Internos de Personal de todas las entidades públicas del Estado, conforme a lo establecido en la Ley N.º 045.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «a) Dirigir la elaboración de un Diagnóstico y un Plan Nacional de Acción contra el Racismo y toda Forma de Discriminación, sobre la base de los lineamientos propuestos en el Artículo 6 de la presente Ley».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo III: Del Comité Nacional contra el Racismo y toda forma de Discriminación. Art. 9, inciso a) (página impresa 7; página PDF 7).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Ley N.º 045] El Comité debe decidir su intervención en reglamentos institucionales. Según el Artículo 9.e), ¿qué debe velar?
+A. Que los reglamentos de personal de las empresas privadas sean aprobados previamente por el Ministerio de Culturas, según la Ley.
+B. Que los reglamentos de personal y disciplinarios de la Administración Pública, Policía y FF.AA. incluyan faltas por racismo y discriminación.
+C. Que los reglamentos disciplinarios de las unidades educativas sancionen penalmente a los estudiantes infractores, según la Ley.
+D. Que los reglamentos de los medios de comunicación fijen las tarifas de publicidad de las campañas contra el racismo, en el marco de la Ley N.º 045.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «e) Velar porque los Reglamentos Internos de Personal, Reglamentos disciplinarios u otros al interior de la Administración Pública, Policía Boliviana y Fuerzas Armadas, incluyan como causal de proceso interno, faltas relativas al racismo y toda forma de discriminación, conforme a la presente Ley».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo III: Del Comité Nacional contra el Racismo y toda forma de Discriminación. Art. 9, inciso e) (página impresa 8; página PDF 8).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Ley N.º 045] Para fortalecer la atención de denuncias, ¿qué debe promover el Comité en todas las entidades públicas, según el Artículo 9.f)?
+A. La creación de tribunales internos con facultad de imponer penas privativas de libertad a los servidores infractores.
+B. La supresión de los procesos administrativos internos, para remitir todas las denuncias directamente al juez penal, según la Ley.
+C. La creación de instancias de prevención, la recepción de denuncias y el impulso de procesos administrativos hasta su conclusión, según la Ley N.º 045.
+D. La contratación de abogados privados para defender a los servidores públicos denunciados por discriminación, por mandato legal.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «f) Promover en todas las entidades públicas, la creación de instancias de prevención contra el racismo y toda forma de discriminación, así como la recepción de denuncias e impulso de procesos administrativos hasta su conclusión, de acuerdo a reglamento».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo III: Del Comité Nacional contra el Racismo y toda forma de Discriminación. Art. 9, inciso f) (página impresa 8; página PDF 8).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Ley N.º 045] El Comité evalúa un proyecto de ley que podría afectar a sectores vulnerables. Según el Artículo 9.c), ¿qué debe hacer?
+A. Aprobar o rechazar el proyecto de ley con carácter vinculante para la Asamblea Legislativa Plurinacional, según la Ley.
+B. Abstenerse de intervenir, porque los proyectos de ley son competencia exclusiva del Órgano Legislativo.
+C. Remitir el proyecto al Tribunal Constitucional para su control previo obligatorio de constitucionalidad.
+D. Precautelar el respeto a la igualdad y no discriminación en las propuestas de políticas públicas y proyectos de ley.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «c) Precautelar el respeto a la igualdad y no discriminación en las propuestas de políticas públicas y proyectos de ley».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo III: Del Comité Nacional contra el Racismo y toda forma de Discriminación. Art. 9, inciso c) (página impresa 7; página PDF 7).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Ley N.º 045] El Viceministerio de Descolonización necesita apoyo para el funcionamiento del Comité. Según el Artículo 8.IV, ¿qué puede decidir?
+A. Pagar salarios del Tesoro a los miembros del Comité, para asegurar su dedicación exclusiva, según la Ley.
+B. Delegar el funcionamiento del Comité a la Defensoría del Pueblo, como órgano observador.
+C. Suspender el funcionamiento del Comité hasta contar con presupuesto de los municipios.
+D. Contratar personal técnico, profesional o no profesional, para apoyar el funcionamiento del Comité.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «IV. El Viceministerio de Descolonización podrá contratar personal técnico, profesional o no profesional, para apoyar el funcionamiento del Comité Nacional contra el Racismo y toda forma de Discriminación».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo III: Del Comité Nacional contra el Racismo y toda forma de Discriminación. Art. 8, parágrafo IV (página impresa 7; página PDF 7).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Ley N.º 045] Para la reparación simbólica, el Comité decide reconocer públicamente a quienes combaten la discriminación. Según el Artículo 9.h), ¿a quiénes puede reconocer?
+A. A personas naturales y/o jurídicas estatales o privadas destacadas por su labor contra la discriminación, conforme a norma.
+B. Solo a servidores públicos del Ministerio de Culturas que hayan sustanciado procesos administrativos.
+C. Solo a organizaciones indígenas originario campesinas reconocidas por el Viceministerio de Descolonización, por mandato legal.
+D. Solo a víctimas de racismo que hayan obtenido sentencia condenatoria ejecutoriada contra el autor, según la Ley.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «h) Promover el reconocimiento público de personas naturales y/o jurídicas estatales o privadas que se hayan destacado por su labor en contra de la discriminación racial o toda forma de discriminación».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo III: Del Comité Nacional contra el Racismo y toda forma de Discriminación. Art. 9, inciso h) (página impresa 8; página PDF 8).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Ley N.º 045] Un gobierno autónomo decide crear instancias locales contra la discriminación. ¿Qué función del Comité respalda esta decisión según el Artículo 9.g)?
+A. Aprobar previamente toda instancia local, que solo puede funcionar con autorización expresa del Comité Nacional, en el marco de la Ley N.º 045.
+B. Promover la conformación de Comisiones y Comités contra el Racismo, para implementar medidas de prevención en el marco de las autonomías, según la Ley N.º 045.
+C. Prohibir instancias locales, pues la lucha contra el racismo es competencia exclusiva del nivel central del Estado, según lo previsto en la normativa de la Ley N.º 045.
+D. Administrar directamente las instancias locales, designando a sus miembros y financiando su funcionamiento, según lo dispuesto en la Ley N.º 045.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «g) Promover la conformación de Comisiones y Comités contra el Racismo y toda forma de Discriminación, con el propósito de implementar medidas de prevención en el marco de las autonomías».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo III: Del Comité Nacional contra el Racismo y toda forma de Discriminación. Art. 9, inciso g) (página impresa 8; página PDF 8).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Ley N.º 045] El Estado decide qué datos producir para orientar sus políticas contra la discriminación. Según el Artículo 6.III.a) y b), ¿qué debe promover?
+A. Registros de la identidad étnica de todos los servidores públicos, para asignar cargos según su pertenencia cultural, según lo dispuesto en la Ley N.º 045.
+B. Encuestas de opinión sobre la conveniencia de sancionar el racismo, para decidir si se aplica la Ley N.º 045, según la normativa legal.
+C. Datos estadísticos e investigaciones cuantitativas y cualitativas sobre el racismo, la discriminación y sus efectos en las víctimas, por mandato legal.
+D. Bases de datos de las personas denunciadas, publicadas en medios de comunicación como medida preventiva, conforme a la Ley N.º 045.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «a) El Estado deberá promover la producción y difusión de datos estadísticos, sobre racismo y toda forma de discriminación con el fin de eliminar las desigualdades sociales. b) Promover la realización de investigaciones y estudios cuantitativos y cualitativos, sobre el racismo y toda forma de discriminación, así como los efectos de estos fenómenos sobre sus víctimas […]».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo II: De las medidas de prevención y educación, destinadas a erradicar el racismo y toda forma de discriminación. Art. 6, parágrafo III, incisos a) y b) (página impresa 5; página PDF 5).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Ley N.º 045] Una entidad pública debe decidir qué hacer con la denuncia de discriminación que conoce. Según el Artículo 13.VII, ¿qué decisión es obligatoria?
+A. Remitir copia de la denuncia a la Dirección General de Lucha contra el Racismo, para registro y seguimiento.
+B. Archivar la denuncia si el servidor denunciado ofrece disculpas privadas a la víctima afectada.
+C. Publicar la denuncia en su página institucional como medida de transparencia y prevención.
+D. Remitir la denuncia original al Ministerio de Justicia, que asume el proceso disciplinario.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «VII. La institución pública que conoce denuncias sobre racismo y toda forma de discriminación deberá remitir copia de las mismas a la Dirección General de Lucha contra el Racismo y toda forma de Discriminación del Viceministerio de Descolonización, del Ministerio de Culturas, para fines de registro y seguimiento».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo IV: Instancias competentes de protección a las víctimas de racismo y toda forma de discriminación. Art. 13, parágrafo VII (página impresa 9; página PDF 9).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Ley N.º 045] El Estado decide orientar inversiones para la inclusión. Según el Artículo 6.IV.a), ¿hacia dónde deben orientarse especialmente?
+A. Hacia los sectores productivos más rentables, para maximizar el crecimiento económico, conforme a norma.
+B. Hacia los sectores más vulnerables, para generar oportunidades y erradicar la pobreza, según la Ley.
+C. Hacia las ciudades capitales de departamento, para concentrar los servicios públicos.
+D. Hacia las empresas privadas exportadoras, para atraer inversión extranjera directa.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «a) El Estado promoverá la inclusión social a través de la ejecución de las inversiones públicas y privadas, para generar oportunidades y la erradicación de la pobreza; orientada especialmente a los sectores más vulnerables».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo II: De las medidas de prevención y educación, destinadas a erradicar el racismo y toda forma de discriminación. Art. 6, parágrafo IV, inciso a) (página impresa 6; página PDF 6).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Ley N.º 045] Según el Artículo 6, ¿con qué perspectiva y alcance territorial debe definirse la política pública de prevención y lucha contra el racismo?
+A. Con perspectiva étnica exclusiva, aplicable solo en los territorios indígena originario campesinos.
+B. Con perspectiva de género y generacional, aplicable en los niveles nacional, departamental y municipal.
+C. Con perspectiva económica, aplicable solo en las ciudades capitales de departamento del país.
+D. Con perspectiva penal, aplicable solo en las instituciones del Órgano Judicial y del Ministerio Público.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Es deber del Estado Plurinacional de Bolivia definir y adoptar una política pública de prevención y lucha contra el racismo y toda forma de discriminación, con perspectiva de género y generacional, de aplicación en todos los niveles territoriales nacionales, departamentales y municipales […]».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo II: De las medidas de prevención y educación, destinadas a erradicar el racismo y toda forma de discriminación. Art. 6 (página impresa 4; página PDF 4).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Ley N.º 045] Para el seguimiento estratégico de las políticas contra el racismo, ¿qué función tiene el Comité según el Artículo 9.d)?
+A. Juzgar y sancionar penalmente a quienes incumplan las políticas públicas contra el racismo y la discriminación, según la Ley.
+B. Administrar el presupuesto de todas las entidades públicas destinado a las políticas contra la discriminación.
+C. Aprobar las leyes contra el racismo en sustitución de la Asamblea Legislativa Plurinacional del Estado.
+D. Realizar seguimiento, evaluación y monitoreo a la implementación de políticas públicas y normativa contra el racismo.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «d) Realizar seguimiento, evaluación y monitoreo a la implementación de políticas públicas y normativa vigente contra el racismo y toda forma de discriminación».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo III: Del Comité Nacional contra el Racismo y toda forma de Discriminación. Art. 9, inciso d) (página impresa 8; página PDF 8).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Ley N.º 045] Según el Artículo 6.II.a), ¿qué acción de fortalecimiento institucional prevé la Ley en la administración pública?
+A. Evaluar a los servidores públicos según su pertenencia étnica, para garantizar la representación cultural en los cargos, según la Ley.
+B. Sustituir a los servidores públicos que no hablen un idioma originario, como medida de descolonización institucional.
+C. Reducir el número de servidores públicos, para financiar las campañas de concientización contra el racismo.
+D. Capacitar a servidoras y servidores públicos sobre medidas de prevención, sanción y eliminación del racismo y la discriminación.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «a) Capacitar a las servidoras y servidores de la administración pública sobre las medidas de prevención, sanción y eliminación del racismo y toda forma de discriminación».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo II: De las medidas de prevención y educación, destinadas a erradicar el racismo y toda forma de discriminación. Art. 6, parágrafo II, inciso a) (página impresa 5; página PDF 5).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Ley N.º 045] Para la gestión de servicios públicos como la educación y la salud, ¿qué prevé el Artículo 6.II.c) y d)?
+A. Promover políticas institucionales contra el racismo en esos sistemas y adoptar procedimientos o protocolos para la atención de poblaciones específicas.
+B. Crear servicios separados de educación y salud para cada población específica, con presupuesto propio y personal exclusivo.
+C. Privatizar los servicios de educación y salud, para que el mercado elimine las prácticas discriminatorias en la atención.
+D. Suspender la atención en los servicios públicos a las personas denunciadas por racismo, hasta la conclusión del proceso.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «c) Promover políticas institucionales de prevención y lucha contra el racismo y la discriminación en los sistemas de educación, salud y otros de prestación de servicios públicos, que incluyan. d) Adopción de procedimientos o protocolos para la atención de poblaciones específicas».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo II: De las medidas de prevención y educación, destinadas a erradicar el racismo y toda forma de discriminación. Art. 6, parágrafo II, incisos c) y d) (página impresa 5; página PDF 5).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Ley N.º 045] ¿Qué objetivos estratégicos fija el Artículo 1.II?
+A. Sancionar penalmente todo acto de racismo y discriminación, sin necesidad de políticas públicas de prevención y protección, conforme a la Ley N.º 045.
+B. Eliminar conductas de racismo y discriminación y consolidar políticas públicas de protección y prevención de delitos de racismo y discriminación.
+C. Crear un sistema educativo diferenciado para cada nación y pueblo, como medio para eliminar las conductas de racismo.
+D. Fortalecer la cultura nacional mayoritaria, como medio para consolidar la unidad del Estado frente a la discriminación.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «II. La presente Ley tiene por objetivos eliminar conductas de racismo y toda forma de discriminación y consolidar políticas públicas de protección y prevención de delitos de racismo y toda forma de discriminación».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo I: Disposiciones generales. Art. 1, parágrafo II (página impresa 1; página PDF 1).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Ley N.º 045] Según el Artículo 8.II, ¿qué papel cumplen la Oficina del Alto Comisionado para los Derechos Humanos y la Defensoría del Pueblo en el Comité?
+A. Son miembros plenos con derecho a voto en el Comité.
+B. Son órganos observadores y de acompañamiento técnico.
+C. Son instancias que presiden y dirigen las comisiones.
+D. Son órganos que financian el funcionamiento del Comité.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «II. La Oficina del Alto Comisionado para los Derechos Humanos de Bolivia y la Defensoría del Pueblo como órganos observadores y de acompañamiento técnico».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo III: Del Comité Nacional contra el Racismo y toda forma de Discriminación. Art. 8, parágrafo II (página impresa 7; página PDF 7).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Ley N.º 045] Según el Artículo 6.III.d), ¿qué deben eliminar los medios de comunicación, incluido internet, de sus programaciones?
+A. Todo contenido en idiomas originarios, para garantizar la comprensión de toda la población del país.
+B. Toda información sobre procesos por racismo, para proteger la presunción de inocencia de los acusados.
+C. Toda opinión política crítica, para evitar conflictos sociales derivados de la discriminación y el racismo.
+D. Lenguajes, expresiones y manifestaciones racistas, xenófobas y otros de contenido discriminatorio.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «d) Disponer que los medios de comunicación, radiales, televisivos, escritos y las nuevas tecnologías de la información y comunicación, como el internet, eliminen de sus programaciones, lenguajes, expresiones y manifestaciones racistas, xenófobas y otros de contenido discriminatorio».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo II: De las medidas de prevención y educación, destinadas a erradicar el racismo y toda forma de discriminación. Art. 6, parágrafo III, inciso d) (página impresa 6; página PDF 6).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Ley N.º 045] ¿Qué acción de memoria histórica prevén tanto el Artículo 6.II.g) como el Artículo 9.i)?
+A. Retirar de los espacios públicos los monumentos de personajes históricos vinculados a la etapa colonial del país, según lo dispuesto en la Ley N.º 045.
+B. Declarar feriados nacionales en honor de los pueblos indígenas, en sustitución de las fechas cívicas vigentes, según lo dispuesto en la Ley N.º 045.
+C. Elaborar un registro oficial de los linajes indígenas del país, para otorgar beneficios a sus descendientes, conforme a lo establecido en la Ley N.º 045.
+D. Promover el reconocimiento de héroes y heroínas de las naciones y pueblos indígena originario campesinos, afrobolivianos y comunidades interculturales, según la Ley N.º 045.
+Respuesta correcta: D
+Explicación: Aplicación razonada: Art. 6.II.g: «Promover el reconocimiento de los héroes y las heroínas nacionales pertenecientes a las naciones pueblos indígena originario campesinos, el pueblo afroboliviano y de comunidades interculturales». Art. 9.i: «Promover el reconocimiento de los héroes y heroínas bolivianas y bolivianos, pertenecientes a las naciones pueblos indígena originario campesinos, el pueblo afroboliviano y de comunidades interculturales».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo II: De las medidas de prevención y educación, destinadas a erradicar el racismo y toda forma de discriminación. Arts. 6, parágrafo II, inciso g) (página impresa 5; página PDF 5) y 9, inciso i) (página impresa 8; página PDF 8).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Ley N.º 045] Según el Artículo 22, ¿cómo quedó denominado el Título VIII del Libro Segundo del Código Penal?
+A. «Delitos Contra la Igualdad y la No Discriminación de las Personas», según la Ley.
+B. «Delitos Contra la Vida, la Integridad y la Dignidad del Ser Humano», según la norma.
+C. «Delitos Contra los Derechos Humanos y la Interculturalidad del Estado», según la norma.
+D. «Delitos Contra la Vida, la Salud y el Honor de las Personas Humanas».
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Se modifica el Título VIII del Libro Segundo del Código Penal cuyo texto quedará redactado en los siguientes términos: “Delitos Contra la Vida, la Integridad y la Dignidad del Ser Humano”».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo V: Delitos contra la dignidad del ser humano. Art. 22 (página impresa 11; página PDF 11).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Ley N.º 045] Según el Artículo 6.III.c), ¿qué deben proveerse los medios de comunicación públicos y privados?
+A. Autorizaciones previas del Comité Nacional para cada publicación sobre temas de racismo y discriminación en el país, conforme a lo establecido en la Ley N.º 045.
+B. Mecanismos internos que garanticen la eliminación del racismo y la discriminación, en relación a su responsabilidad de generar opinión pública, según la Ley.
+C. Espacios gratuitos y permanentes para la propaganda de los partidos políticos sobre la lucha contra el racismo, conforme a la Ley N.º 045.
+D. Defensores públicos propios para representar a las víctimas de racismo en los procesos penales correspondientes, conforme a la Ley N.º 045.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «c) Los medios de comunicación públicos y privados deberán proveerse de mecanismos internos que garanticen la eliminación del racismo y toda forma de discriminación, en relación a su responsabilidad de generar opinión pública conforme a la Constitución Política del Estado».
+Sustento: Ley N.º 045 contra el Racismo y toda Forma de Discriminación, de 8 de octubre de 2010, Capítulo II: De las medidas de prevención y educación, destinadas a erradicar el racismo y toda forma de discriminación. Art. 6, parágrafo III, inciso c) (páginas impresas 5-6; páginas PDF 5-6).

@@ -11,6 +11,12 @@ const ICONS = {
   check: '<svg viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>',
   cross: '<svg viewBox="0 0 24 24"><path d="M7 7l10 10M17 7L7 17"/></svg>',
   legal: '<svg viewBox="0 0 24 24"><path d="M6.5 2.5h7.5l4 4v15h-11.5z"/><path d="M14 2.5v4h4M9.5 11h5M9.5 14.5h5M9.5 18h3"/></svg>',
+  docCheck: '<svg viewBox="0 0 24 24"><path d="M13 20.5H6a2 2 0 0 1-2-2v-13a2 2 0 0 1 2-2h9l4 4v5"/><path d="M15 3.5v4h4M8 9h3M8 12.5h7M8 16h3"/><circle cx="17.5" cy="17.5" r="4"/><path d="M15.8 17.6l1.2 1.2 2.3-2.4"/></svg>',
+  cap: '<svg viewBox="0 0 24 24"><path d="M12 4 2 9l10 5 10-5-10-5Z"/><path d="M6 11.2V16c0 1.7 2.7 3.2 6 3.2s6-1.5 6-3.2v-4.8M22 9v6"/></svg>',
+  chevron: '<svg viewBox="0 0 24 24"><path d="M10 7l5 5-5 5"/></svg>',
+  timer: '<svg viewBox="0 0 24 24"><circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2M9.5 2.5h5"/></svg>',
+  bulb: '<svg viewBox="0 0 24 24"><path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-3.5 10.9c.6.4 1 1.1 1 1.8V16h5v-.3c0-.7.4-1.4 1-1.8A6 6 0 0 0 12 3Z"/></svg>',
+  progress: '<svg viewBox="0 0 24 24"><path d="M3 17l6-6 4 4 8-8M15 7h6v6"/></svg>',
 };
 
 const icon = (name) => ICONS[name] || ICONS.book;
@@ -48,6 +54,7 @@ function el(tag, className, text) {
 // Vista visible, encabezado y botón «volver», comunes a todas las etapas.
 const Shell = (() => {
   const views = {
+    portal: document.querySelector("#portalView"),
     home: document.querySelector("#homeView"),
     book: document.querySelector("#bookView"),
     history: document.querySelector("#historyView"),
@@ -65,13 +72,13 @@ const Shell = (() => {
       nav.hidden = name === "quiz";
       document.body.classList.toggle("in-quiz", name === "quiz");
       nav.querySelectorAll("a").forEach((link) => {
-        const active = link.dataset.nav === name || (name === "book" && link.dataset.nav === "home");
+        const active = link.dataset.nav === name || (name !== "history" && link.dataset.nav === "home");
         if (active) link.setAttribute("aria-current", "page");
         else link.removeAttribute("aria-current");
       });
       window.scrollTo(0, 0);
     },
-    setHeader({ title, subtitle = "Técnico pedagógico", onBack = null }) {
+    setHeader({ title, subtitle = "Cargos directivos · SEP 2026–2029", onBack = null }) {
       document.querySelector("#headerTitle").textContent = title;
       document.querySelector("#headerSubtitle").textContent = subtitle;
       back.hidden = !onBack;

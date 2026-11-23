@@ -1,0 +1,1111 @@
+# Fuente: ley-348-t5.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia (9 de marzo de 2013)
+# Título V: Legislación penal (Arts. 76 al 100)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar el Título V (Arts. 76 al 100) de la Ley N.º 348 en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto de la Ley proporcionado, sin incorporar fuentes externas, y su fundamentación transcribe textualmente el fragmento que respalda la respuesta correcta.
+# Criterios documentales aplicados
+# Alcance de la fuente. El Título V, «Legislación penal», comprende el Capítulo I, Sanciones alternativas (Arts. 76 al 82: multa, detención de fin de semana, trabajos comunitarios, medidas de seguridad, inhabilitación y cumplimiento de instrucciones); el Capítulo II, Delitos de violencia contra las mujeres (Arts. 83 al 85, que modifican e incorporan tipos penales del Código Penal, entre ellos feminicidio, violencia familiar o doméstica, acoso sexual y violencia económica y patrimonial); y el Capítulo III, Simplificación del procedimiento penal (Arts. 86 al 100: principios procesales, directrices, reserva, prueba y responsabilidad del Ministerio Público). En el PDF proporcionado ocupa las páginas 39 a 53. Las Disposiciones Transitorias quedan fuera del alcance.
+# Página impresa. El documento (versión de la Gaceta Oficial de Bolivia) numera sus páginas al pie desde la primera página del PDF, por lo que la página impresa coincide con la página PDF. Cada referencia consigna ambas.
+# Fundamentación textual. Cada fundamentación transcribe entre comillas el fragmento de la Ley que respalda la respuesta correcta. En las preguntas derivadas se añade una nota breve rotulada «Aplicación razonada», que distingue la inferencia del contenido textual.
+# Competencias directivas. El Título V no regula funciones específicas del director de Unidad Educativa: en ese sentido estricto, la dimensión 3 está «No respaldada por el documento fuente». Sí contiene normas penales que alcanzan directamente a quienes ejercen funciones en el ámbito educativo: la inhabilitación para quien ejerza «cargo administrativo en universidades o unidades educativas» u ocupaciones de educación (Art. 81), el delito de incumplimiento de deberes de protección del servidor público que propicie la impunidad u obstaculice la investigación (Art. 154 bis del Código Penal), el acoso sexual agravado del servidor público jerárquico con destitución (Art. 312 quater), la agravante de violación cuando el autor está encargado de la educación de la víctima (Art. 310.g) y la confidencialidad (Art. 86.14). Esas preguntas llevan la nota «Aplicación razonada».
+# Cobertura y no duplicación. Las preguntas cubren los tres capítulos del Título V, incluidos los tipos penales que el Título modifica o incorpora al Código Penal. Algunos artículos centrales (Arts. 76, 77, 81, 86 y 252 bis del Código Penal) se evalúan en varias preguntas con enfoques distintos; no hay preguntas repetidas ni con la misma respuesta y el mismo enfoque.
+# Etiqueta de trazabilidad. Cada enunciado inicia con [Ley N.º 348 – TÍTULO V], para su integración en plataformas de simulación que combinan preguntas de varios documentos; el capítulo y el artículo exactos figuran en la referencia.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 25 preguntas y la más corta en 9, por lo que la longitud no es una pista.
+# 2. Distribución metodológica y ponderación
+# N.º
+# Tipo de evaluación
+# ¿Qué evalúa?
+# Preg.
+# Peso
+# N.º preg.
+# 1
+# Conocimiento y memorización
+# Dominio de conceptos, definiciones, principios, fechas, disposiciones y contenidos fundamentales del documento.
+# 10
+# 10%
+# 1–10
+# 2
+# Dominio conceptual
+# Comprensión de los fundamentos pedagógicos, administrativos, curriculares y organizativos del Sistema Educativo Plurinacional.
+# 10
+# 10%
+# 11–20
+# 3
+# Competencias y responsabilidades directivas
+# Conocimiento de las funciones, atribuciones, obligaciones y responsabilidades del director de una Unidad Educativa (en esta fuente: disposiciones aplicables a autoridades y servidores del ámbito educativo, con nota «Aplicación razonada»).
+# 10
+# 10%
+# 21–30
+# 4
+# Comprensión e interpretación
+# Capacidad para interpretar documentos, orientaciones pedagógicas y situaciones educativas.
+# 10
+# 10%
+# 31–40
+# 5
+# Diferenciación conceptual
+# Capacidad para distinguir conceptos, funciones, procedimientos, niveles de responsabilidad y enfoques educativos similares.
+# 10
+# 10%
+# 41–50
+# 6
+# Análisis crítico
+# Capacidad para identificar problemas institucionales, analizar sus causas, valorar alternativas y emitir criterios fundamentados.
+# 10
+# 10%
+# 51–60
+# 7
+# Aplicación normativa
+# Capacidad para aplicar correctamente la normativa en situaciones institucionales.
+# 10
+# 10%
+# 61–70
+# 8
+# Resolución de casos prácticos
+# Capacidad para resolver conflictos escolares, problemas administrativos, dificultades pedagógicas y situaciones con estudiantes, profesores y familias.
+# 10
+# 10%
+# 71–80
+# 9
+# Toma de decisiones
+# Capacidad para adoptar decisiones oportunas, pertinentes, fundamentadas y responsables ante situaciones institucionales.
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# Capacidad para planificar, organizar, dirigir, supervisar y evaluar acciones orientadas al mejoramiento de la calidad educativa.
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–10)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta [Ley N.º 348 – TÍTULO V]; el capítulo y el artículo exactos figuran en la referencia.
+# Cada fundamentación transcribe el fragmento textual de la Ley y remite al artículo, parágrafo e inciso, con página impresa y página PDF.
+# Contenido limitado exclusivamente a el Título V (Arts. 76 al 100) de la Ley N.º 348; no se atribuyen al director de Unidad Educativa competencias que la fuente no contiene.
+
+CAPÍTULO: ley-348-t5
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Ley N.º 348 – TÍTULO V] Según el Artículo 252 bis del Código Penal, incorporado por el Artículo 84, ¿qué pena corresponde al delito de feminicidio?
+A. Presidio de veinte años con derecho a indulto.
+B. Reclusión de quince a veinte años con indulto.
+C. Presidio de veinticinco años sin derecho a indulto.
+D. Presidio de treinta (30) años sin derecho a indulto.
+Respuesta correcta: D
+Explicación: «Se sancionará con la pena de presidio de treinta (30) años sin derecho a indulto, a quien mate a una mujer, en cualquiera de las siguientes circunstancias […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 84, que incorpora el Art. 252 bis al Código Penal (página impresa 45; página PDF 45).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Ley N.º 348 – TÍTULO V] Según el Artículo 78, ¿en qué horario se aplica la detención de fin de semana?
+A. Desde el sábado a horas 8:00 hasta el domingo a horas 20:00.
+B. Desde el viernes a horas 18:00 hasta el domingo a horas 18:00.
+C. Desde el sábado a horas 0:00 hasta el lunes a horas 8:00.
+D. Desde el viernes a horas 19:00 hasta el lunes a horas 6:00.
+Respuesta correcta: D
+Explicación: «Es una limitación de la libertad que se aplica desde el día viernes a horas 19:00 hasta el día lunes a horas 6:00 […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 78 (página impresa 40; página PDF 40).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Ley N.º 348 – TÍTULO V] Según el Artículo 81, ¿cuál es el límite temporal de la sanción de inhabilitación?
+A. Ocho años.
+B. Doce años.
+C. Veinte años.
+D. Cinco años.
+Respuesta correcta: B
+Explicación: «[…] Tiene un límite temporal de doce años y no pueden imponerse todas las restricciones de esos derechos en una sola sentencia […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 81 (página impresa 41; página PDF 41).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Ley N.º 348 – TÍTULO V] Según el Artículo 79, ¿cuál es la duración mínima y máxima de la sanción de trabajos comunitarios?
+A. Un mínimo de un año (52 semanas) y un máximo de hasta 104 semanas.
+B. Un mínimo de seis meses (26 semanas) y un máximo de hasta 52 semanas.
+C. Un mínimo de dos años (104 semanas) y un máximo de hasta 156 semanas.
+D. Un mínimo de tres meses (12 semanas) y un máximo de hasta 48 semanas.
+Respuesta correcta: A
+Explicación: «[…] Esta sanción se aplicará por un mínimo de un (1) año que equivale al trabajo de cincuenta y dos (52) semanas, con sus respectivos feriados y días hábiles, y un máximo de hasta ciento cuatro (104) semanas».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 79 (página impresa 40; página PDF 40).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Ley N.º 348 – TÍTULO V] Según el Artículo 90, ¿qué naturaleza tienen todos los delitos contemplados en la Ley N.º 348?
+A. Son delitos de acción privada.
+B. Son delitos de acción mixta.
+C. Son delitos de acción pública.
+D. Son faltas administrativas.
+Respuesta correcta: C
+Explicación: «Todos los delitos contemplados en la Presente Ley, son delitos de acción pública».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 90 (página impresa 51; página PDF 51).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+6. [Ley N.º 348 – TÍTULO V] Según el Artículo 88, ¿durante cuánto tiempo deben estar disponibles, por turno, los jueces de instrucción en materia de violencia hacia las mujeres?
+A. Las doce horas diurnas.
+B. Las veinticuatro (24) horas.
+C. Solo los días hábiles.
+D. Las ocho horas laborales.
+Respuesta correcta: B
+Explicación: «Las y los jueces de Instrucción en materia de violencia hacia las mujeres, por turno, deberán estar disponibles las veinticuatro (24) horas para adoptar las medidas de protección y restricción necesarias».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 88 (página impresa 51; página PDF 51).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+7. [Ley N.º 348 – TÍTULO V] Según el Artículo 94, ¿en qué plazo máximo debe el Ministerio Público reunir las pruebas necesarias?
+A. Dentro del plazo máximo de ocho (8) días, bajo responsabilidad.
+B. Dentro del plazo máximo de treinta días hábiles, bajo responsabilidad.
+C. Dentro del plazo máximo de seis meses de la denuncia.
+D. Dentro del plazo máximo de setenta y dos horas, bajo responsabilidad.
+Respuesta correcta: A
+Explicación: «[…] será el Ministerio Público quien, como responsable de la investigación de los delitos, reúna las pruebas necesarias, dentro el plazo máximo de ocho (8) días bajo responsabilidad […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 94 (página impresa 52; página PDF 52).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+8. [Ley N.º 348 – TÍTULO V] Según el Artículo 77, ¿a quiénes se destinan las multas impuestas como sanción en la Ley N.º 348?
+A. Al Tesoro General de la Nación, para el financiamiento general del Órgano Judicial.
+B. A la víctima directamente, como indemnización sustitutiva de la reparación del daño, según la norma.
+C. Al Ministerio de Justicia, para el funcionamiento del SIPPASE y sus registros.
+D. A los Servicios de Atención Integral a cargo de los Gobiernos Autónomos Municipales.
+Respuesta correcta: D
+Explicación: «Las multas serán destinadas a los Servicios de Atención Integral a cargo de los Gobiernos Autónomos Municipales, quienes constituirán un fondo y abrirán una cuenta fiscal exclusiva para este propósito […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 77, párrafo segundo (página impresa 40; página PDF 40).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+9. [Ley N.º 348 – TÍTULO V] ¿Qué pena establece el Artículo 272 bis del Código Penal (violencia familiar o doméstica), incorporado por el Artículo 84?
+A. Reclusión de cuatro a ocho años, aunque el hecho constituya otro delito más grave.
+B. Reclusión de dos (2) a cuatro (4) años, siempre que no constituya otro delito.
+C. Multa de cien a trescientos sesenta y cinco días, sin pena privativa de libertad.
+D. Presidio de diez años sin derecho a indulto, en todos los casos de agresión física.
+Respuesta correcta: B
+Explicación: «Quien agrediere físicamente, psicológica o sexualmente dentro los casos comprendidos en el numeral 1 al 4 del presente Artículo incurrirá en pena de reclusión de dos (2) a cuatro (4) años, siempre que no constituya otro delito».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 84, que incorpora el Art. 272 bis al Código Penal (página impresa 46; página PDF 46).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+10. [Ley N.º 348 – TÍTULO V] ¿Cuáles son los capítulos del Título V de la Ley N.º 348?
+A. Denuncia; Investigación; Persecución penal; y Jurisdicción ordinaria contra la violencia.
+B. Prevención; Atención; Medidas de protección; y Alerta contra la violencia hacia las mujeres.
+C. Políticas públicas; Institucionalidad; y Sistema de registro de la violencia en razón de género, conforme a norma.
+D. Sanciones alternativas; Delitos de violencia contra las mujeres; y Simplificación del procedimiento penal.
+Respuesta correcta: D
+Explicación: «TÍTULO V / LEGISLACIÓN PENAL / CAPÍTULO I / SANCIONES ALTERNATIVAS […] CAPÍTULO II / DELITOS DE VIOLENCIA CONTRA LAS MUJERES […] CAPÍTULO III / SIMPLIFICACIÓN DEL PROCEDIMIENTO PENAL PARA DELITOS DE VIOLENCIA CONTRA LAS MUJERES».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V, Capítulos I a III (páginas impresas 39, 41 y 48-49; páginas PDF 39, 41 y 48-49).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+11. [Ley N.º 348 – TÍTULO V] Según el Artículo 76.I, ¿cuándo pueden aplicarse sanciones alternativas a la privación de libertad en delitos de violencia hacia las mujeres?
+A. Si el autor repara económicamente el daño, sin importar la pena impuesta ni su condición de reincidente.
+B. Si la víctima lo solicita expresamente, aun cuando el autor sea reincidente y la pena supere los diez años.
+C. Si el autor es primerizo, en cualquier delito, desde el inicio del cumplimiento de penas de hasta diez años, según la normativa.
+D. Si el autor no es reincidente y la pena no supera tres años, o si cumplió la mitad de una pena mayor a tres años.
+Respuesta correcta: D
+Explicación: «En delitos de violencia hacia las mujeres, siempre que el autor no sea reincidente, se podrán aplicar sanciones alternativas a la privación de libertad, cuando: 1. La pena impuesta no sea mayor a tres años […]. 2. A solicitud del condenado a pena privativa de libertad superior a tres años que hubiera cumplido al menos la mitad de ésta […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 76, parágrafo I (página impresa 40; página PDF 40).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+12. [Ley N.º 348 – TÍTULO V] ¿Qué relación establece el Artículo 77 entre la multa y la reparación del daño a la mujer?
+A. La multa, como sanción alternativa o accesoria, no sustituye la reparación a la mujer por el daño causado.
+B. La multa sustituye la reparación del daño, por lo que su pago extingue toda responsabilidad civil del autor.
+C. La multa se descuenta de la reparación del daño, reduciendo proporcionalmente el monto debido a la mujer.
+D. La multa solo procede cuando la mujer renuncia expresamente a la reparación del daño causado por el agresor.
+Respuesta correcta: A
+Explicación: «La imposición de una multa como sanción alternativa o accesoria no sustituye la reparación a la mujer por el daño causado como efecto de la violencia […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 77 (página impresa 40; página PDF 40).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+13. [Ley N.º 348 – TÍTULO V] ¿Qué establece el principio de gratuidad del Artículo 86.1?
+A. Las mujeres pagan solo la mitad de los valores y peritajes, y el saldo es asumido por el agresor al concluir el proceso.
+B. Las mujeres están exentas de pagos solo en el Órgano Judicial, pero deben pagar los trámites en la Policía y la Fiscalía.
+C. Las mujeres están exentas de pagos solo si acreditan insolvencia mediante certificado del Servicio de Defensa a la Víctima.
+D. Las mujeres en situación de violencia están exentas del pago de valores, legalizaciones, notificaciones, peritajes y otros en las reparticiones públicas.
+Respuesta correcta: D
+Explicación: «Gratuidad. Las mujeres en situación de violencia estarán exentas del pago de valores, legalizaciones, notificaciones, formularios, testimonios, certificaciones, mandamientos, costos de remisión, exhortos, órdenes instruidas, peritajes y otros, en todas las reparticiones públicas».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 86, numeral 1 (página impresa 49; página PDF 49).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+14. [Ley N.º 348 – TÍTULO V] Según el Artículo 86.12, ¿a quién corresponde la carga de la prueba en los procesos penales por hechos contra la vida, seguridad o integridad de las mujeres?
+A. A la mujer denunciante.
+B. Al imputado en su defensa.
+C. Al Ministerio Público.
+D. Al juez de instrucción.
+Respuesta correcta: C
+Explicación: «Carga de la prueba. En todo proceso penal por hechos que atenten contra la vida, la seguridad o la integridad física, psicológica y/o sexual de las mujeres, la carga de la prueba corresponderá al Ministerio Público».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 86, numeral 12 (página impresa 50; página PDF 50).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+15. [Ley N.º 348 – TÍTULO V] ¿Qué establece el principio de verdad material del Artículo 86.11?
+A. Las decisiones deben ajustarse estrictamente a las formalidades, aunque ello impida conocer la verdad.
+B. Las decisiones deben basarse en la versión de la víctima, sin necesidad de comprobar los hechos denunciados, según lo establecido.
+C. Las decisiones deben priorizar los acuerdos entre las partes, por encima de los hechos comprobados.
+D. Las decisiones deben considerar la verdad de los hechos comprobados, por encima de la formalidad pura y simple.
+Respuesta correcta: D
+Explicación: «Verdad material. Las decisiones administrativas o judiciales que se adopten respecto a casos de violencia contra las mujeres, debe considerar la verdad de los hechos comprobados, por encima de la formalidad pura y simple».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 86, numeral 11 (página impresa 50; página PDF 50).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+16. [Ley N.º 348 – TÍTULO V] ¿Cómo define el Artículo 86.15 la reparación?
+A. Como la disculpa pública del agresor, que sustituye cualquier indemnización por los daños causados a la mujer.
+B. Como la multa impuesta al agresor, destinada a los Servicios de Atención Integral de los Gobiernos Municipales, según lo dispuesto.
+C. Como la indemnización por el daño material e inmaterial causado, a la que tiene derecho toda mujer que haya sufrido violencia.
+D. Como la indemnización solo por el daño material, excluyendo los daños inmateriales sufridos por la mujer.
+Respuesta correcta: C
+Explicación: «Reparación. Es la indemnización por el daño material e inmaterial causado, al que tiene derecho toda mujer que haya sufrido violencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 86, numeral 15 (página impresa 50; página PDF 50).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+17. [Ley N.º 348 – TÍTULO V] ¿Qué establece el principio de accesibilidad del Artículo 86.9?
+A. Que los procesos solo pueden iniciarse si la denuncia cumple todos los requisitos formales del Código de Procedimiento Penal, según lo dispuesto.
+B. Que la falta de requisitos formales o materiales no debe retrasar, entorpecer ni impedir la restitución de derechos ni la sanción.
+C. Que las instalaciones judiciales deben adecuarse físicamente para personas con discapacidad, sin otra consecuencia procesal.
+D. Que el acceso a los expedientes está restringido a las partes que acrediten cumplir los requisitos formales exigidos.
+Respuesta correcta: B
+Explicación: «Accesibilidad. La falta de requisitos formales o materiales en el procedimiento no deberá retrasar, entorpecer ni impedir la restitución de los derechos vulnerados y la sanción a los responsables».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 86, numeral 9 (página impresa 50; página PDF 50).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+18. [Ley N.º 348 – TÍTULO V] ¿Qué conductas tipifica el Artículo 250 bis del Código Penal (violencia económica), incorporado por el Artículo 85?
+A. Impedir el uso o disposición de bienes propios de la mujer con quien se mantiene matrimonio, sancionado solo con multa de cien a 365 días.
+B. Disponer unilateralmente de las ganancias de una actividad económica familiar en perjuicio del cónyuge, con pena de seis meses a un año.
+C. Privar a otra persona de su función reproductiva sin su consentimiento expreso, voluntario, libre e informado, de forma temporal o permanente, en el marco legal.
+D. Menoscabar la libre disposición del ingreso de la mujer, destruir sus documentos, controlar los ingresos del hogar o impedirle trabajar, entre otras.
+Respuesta correcta: D
+Explicación: «Será sancionada con pena privativa de libertad de dos (2) a cuatro (4) años, la persona que incurra en alguna de las siguientes conductas: a) Menoscabe, limite o restrinja la libre disposición del ingreso económico de la mujer. b) Destruya u oculte documentos […] d) Controle los ingresos o flujo de recursos monetarios que ingresan al hogar […] e) Impida que la mujer realice una actividad laboral o productiva que le genere ingresos».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 85, que incorpora el Art. 250 bis al Código Penal (página impresa 48; página PDF 48).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+19. [Ley N.º 348 – TÍTULO V] Según el Artículo 89, ¿qué carácter tiene el proceso por hechos de violencia y qué se mantiene siempre en estricta reserva?
+A. Es público en todos los casos, pero el nombre del agresor se mantiene en reserva hasta la sentencia ejecutoriada.
+B. Es reservado, salvo que la mujer solicite su publicidad; el nombre de la víctima se mantiene siempre en estricta reserva.
+C. Es reservado solo en la etapa preparatoria; desde el juicio oral, el nombre de la víctima puede difundirse libremente, según la norma.
+D. Es secreto para la víctima y su abogado, y solo el juez y el fiscal pueden conocer las actuaciones del proceso.
+Respuesta correcta: B
+Explicación: «El proceso por hechos de violencia es reservado, salvo que la propia mujer, previa información, libre y oportuna, solicite la total o parcial publicidad. En todos los casos se mantendrá en estricta reserva el nombre de la víctima».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 89 (página impresa 51; página PDF 51).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+20. [Ley N.º 348 – TÍTULO V] Según el Artículo 92, ¿qué se admite como medio de prueba en los delitos de la Ley N.º 348?
+A. Solo los documentos públicos y las declaraciones de testigos presenciales mayores de edad sin relación con la víctima.
+B. Solo los peritajes oficiales del Instituto de Investigaciones Forenses, con exclusión de cualquier otro medio.
+C. Solo las pruebas presentadas junto con la denuncia, sin posibilidad de ofrecerlas en etapas posteriores del proceso.
+D. Todos los elementos de convicción obtenidos que puedan conducir al conocimiento de los hechos denunciados.
+Respuesta correcta: D
+Explicación: «Se admitirán como medios de prueba todos los elementos de convicción obtenidos, que puedan conducir al conocimiento de los hechos denunciados. La prueba será apreciada por la jueza o el juez, exponiendo los razonamientos en que se funda su valoración jurídica».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 92 (página impresa 51; página PDF 51).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+21. [Ley N.º 348 – TÍTULO V] Un director de Unidad Educativa es sancionado por un delito de violencia hacia las mujeres. Según el Artículo 81, ¿puede aplicársele la inhabilitación respecto a su cargo?
+A. No, la inhabilitación solo alcanza a profesionales de la salud y a autoridades policiales y militares del Estado.
+B. Sí, la inhabilitación puede aplicarse a quien ejerza un cargo administrativo en unidades educativas u ocupaciones de educación.
+C. No, la inhabilitación solo procede en delitos de feminicidio, y no en los demás delitos de violencia hacia las mujeres, según lo dispuesto.
+D. Sí, pero solo si la víctima fue una estudiante de su propia unidad educativa y el hecho ocurrió en horario escolar.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Podrá aplicarse la sanción inhabilitación cuando quien fuera sancionado por delitos de violencia hacia las mujeres ejerza una profesión u ocupación relacionada con la educación, cuidado y atención de personas […] cargo administrativo en universidades o unidades educativas […]». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como servidor público o persona que ejerce un cargo en una unidad educativa, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 81 (página impresa 41; página PDF 41).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+22. [Ley N.º 348 – TÍTULO V] Un director oculta información y obstaculiza la investigación de un hecho de violencia contra una docente para proteger a un colega. ¿Qué tipo penal del Artículo 154 bis podría configurarse?
+A. Acoso sexual, con privación de libertad de cuatro a ocho años y destitución, por su posición jerárquica sobre la docente.
+B. Incumplimiento de deberes de protección a mujeres en situación de violencia, con trabajos comunitarios e inhabilitación para la función pública.
+C. Violencia patrimonial, con multa de cien a trescientos sesenta y cinco días, por impedir el uso de los bienes de la docente.
+D. Denuncia falsa, con acción a cargo del colega protegido, una vez concluido el proceso con sentencia absolutoria.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «La servidora o servidor público que mediante acción u omisión en ejercicio de una función pública propicie la impunidad u obstaculicen la investigación de delito de violencia contra las mujeres, recibirá sanción alternativa de trabajos comunitarios de noventa (90) días a ciento veinte (120) días e inhabilitación de uno (1) a cuatro (4) años para el ejercicio de la función pública». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como servidor público o persona que ejerce un cargo en una unidad educativa, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 84, que incorpora el Art. 154 bis al Código Penal (página impresa 45; página PDF 45).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+23. [Ley N.º 348 – TÍTULO V] Según el Artículo 154 bis del Código Penal, ¿qué sanción recibe el servidor público que propicie la impunidad u obstaculice la investigación de un delito de violencia contra las mujeres?
+A. Trabajos comunitarios de 90 a 120 días e inhabilitación de uno a cuatro años para la función pública.
+B. Privación de libertad de cuatro a ocho años y destitución inmediata de su cargo en la función pública.
+C. Multa de cien a trescientos sesenta y cinco días, sin inhabilitación para el ejercicio de la función pública.
+D. Detención de fin de semana por un año, sin trabajos comunitarios ni inhabilitación en la función pública.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] recibirá sanción alternativa de trabajos comunitarios de noventa (90) días a ciento veinte (120) días e inhabilitación de uno (1) a cuatro (4) años para el ejercicio de la función pública». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como servidor público o persona que ejerce un cargo en una unidad educativa, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 84, que incorpora el Art. 154 bis al Código Penal (página impresa 45; página PDF 45).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+24. [Ley N.º 348 – TÍTULO V] Un director condiciona la renovación del contrato de una docente a que mantenga con él una relación de contenido sexual. Según el Artículo 312 quater.II, ¿qué consecuencia agravada corresponde al servidor público?
+A. Será destituido de su cargo y la pena de cuatro a ocho años será agravada en un tercio.
+B. Recibirá una amonestación escrita y la suspensión de su cargo por un periodo de tres meses.
+C. Será trasladado a otra unidad educativa, sin pena privativa de libertad ni destitución del cargo.
+D. Recibirá solo la pena de cuatro a ocho años, sin destitución ni agravación por ser servidor público.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «I. La persona que valiéndose de una posición jerárquica o poder de cualquier índole hostigue […] condicione la obtención de un beneficio u obligue por cualquier medio a otra persona a mantener una relación o realizar actos o tener comportamientos de contenido sexual […] será sancionada con privación de libertad de cuatro (4) a ocho (8) años. II. Si la exigencia, solicitud o imposición fuera ejercida por un servidor público en el ámbito de la relación jerárquica que ostenta, será destituido de su cargo y la pena será agravada en un tercio». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como servidor público o persona que ejerce un cargo en una unidad educativa, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 84, que incorpora el Art. 312 quater al Código Penal (página impresa 47; página PDF 47).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+25. [Ley N.º 348 – TÍTULO V] Según el Artículo 310 del Código Penal, modificado por el Artículo 83, ¿se agrava la pena de violación cuando el autor estuviere encargado de la educación de la víctima?
+A. No, la Ley no prevé agravante alguna vinculada a la relación educativa entre el autor y la víctima.
+B. Sí, la pena se agrava con cinco años cuando el autor estuviere encargado de la educación de la víctima.
+C. Sí, pero solo si la víctima es mayor de 60 años y el autor ejerce la docencia en el nivel superior.
+D. No, la relación educativa solo se considera atenuante cuando el autor carece de antecedentes penales, en el marco legal.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «La pena será agravada en los casos de los delitos anteriores, con cinco (5) años cuando: […] g) El autor estuviere encargado de la educación de la víctima, o si ésta se encontrara en situación de dependencia respecto a éste […]». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como servidor público o persona que ejerce un cargo en una unidad educativa, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 83, que modifica el Art. 310 del Código Penal (página impresa 44; página PDF 44).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+26. [Ley N.º 348 – TÍTULO V] Una estudiante víctima de violencia pide que su caso no se difunda en la unidad educativa. Según el principio de confidencialidad del Artículo 86.14, ¿qué deben observar las instancias que conocen el caso?
+A. Guardar la confidencialidad de los asuntos sometidos a su consideración, salvo que la propia mujer solicite su publicidad.
+B. Difundir el caso en la comunidad educativa, como medida preventiva para el resto del estudiantado de la unidad.
+C. Comunicar el caso a todos los padres de familia, para que vigilen la conducta del presunto agresor identificado, por mandato legal.
+D. Publicar el caso en el periódico mural, omitiendo solo el apellido de la estudiante y manteniendo su nombre.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Confidencialidad. Los órganos receptores de la denuncia, los funcionarios de las unidades de atención y tratamiento, los tribunales competentes y otros deberán guardar la confidencialidad de los asuntos que se someten a su consideración, salvo que la propia mujer solicite la total o parcial publicidad […]». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como servidor público o persona que ejerce un cargo en una unidad educativa, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 86, numeral 14 (página impresa 50; página PDF 50).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+27. [Ley N.º 348 – TÍTULO V] Un docente denunciado por violencia fue sobreseído por resolución fiscal. Según el Artículo 100, ¿qué puede hacer?
+A. Exigir a la dirección que sancione administrativamente a la denunciante por su denuncia, según la norma.
+B. Iniciar la acción correspondiente por denuncia falsa, con la resolución de sobreseimiento.
+C. Solicitar al juez la inhabilitación de la denunciante para ejercer cargos en la unidad.
+D. Nada, pues la Ley no prevé acción alguna para quien fue denunciado falsamente.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Quien hubiere sido falsamente denunciado o acusado como autor y/o participe en la comisión de un delito contemplado en la presente Ley, podrá iniciar la acción correspondiente, con la resolución fiscal de rechazo de la denuncia o de sobreseimiento, o concluido el proceso con sentencia absolutoria ejecutoriada». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como servidor público o persona que ejerce un cargo en una unidad educativa, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 100 (página impresa 53; página PDF 53).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+28. [Ley N.º 348 – TÍTULO V] Según el Artículo 81, ¿transcurrido qué plazo puede darse la rehabilitación de un inhabilitado, por ejemplo, para cargos en unidades educativas?
+A. Transcurrido un tercio del plazo, o un mínimo de dos años de la sanción.
+B. Transcurrida la mitad del plazo impuesto, o un mínimo de cinco años.
+C. Transcurrido el plazo íntegro de doce años, sin posibilidad de reducción.
+D. Transcurrido un año desde la sentencia, a solicitud de la autoridad educativa.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «[…] Transcurrida la mitad del plazo impuesto, o un mínimo de cinco años, puede darse la rehabilitación». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como servidor público o persona que ejerce un cargo en una unidad educativa, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 81 (página impresa 41; página PDF 41).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+29. [Ley N.º 348 – TÍTULO V] Una institución especializada en derechos de las mujeres desea aportar argumentos técnicos en el proceso por violencia contra una docente. ¿Qué figura del Artículo 99 lo permite?
+A. El tercero coadyuvante, persona ajena a las partes con reconocida experiencia, que ofrece argumentos especializados.
+B. El querellante adhesivo, que asume la calidad de parte y cobra honorarios por su intervención en el proceso.
+C. El perito oficial, designado por el Instituto de Investigaciones Forenses a solicitud exclusiva del imputado, conforme a la Ley.
+D. El conciliador judicial, que propone acuerdos entre las partes antes de la audiencia de juicio oral.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «En cualquier caso de violencia hacia las mujeres, podrá intervenir una persona física o jurídica, ajena a las partes, que cuente con reconocida experiencia o competencia sobre la cuestión debatida, a fin de que ofrezca argumentos especializados de trascendencia para la decisión del asunto […]». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como servidor público o persona que ejerce un cargo en una unidad educativa, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 99, parágrafo I (página impresa 53; página PDF 53).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+30. [Ley N.º 348 – TÍTULO V] Un juez dispone que un condenado con sanción alternativa asista a un centro educativo como parte de su plan de conducta, y la unidad educativa consulta el fundamento. ¿Qué disposición lo respalda?
+A. El Artículo 81, que inhabilita al condenado para ejercer cualquier ocupación vinculada a la educación.
+B. El Artículo 79, que obliga al condenado a prestar trabajos comunitarios en las unidades educativas.
+C. El Artículo 82.5, que prevé como instrucción asistir a un centro educativo o aprender un oficio.
+D. El Artículo 78, que dispone la detención de fin de semana en los locales de las unidades educativas.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «[…] Las instrucciones que se pueden imponer serán: […] 5. Asistir a un centro educativo o aprender un oficio». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como servidor público o persona que ejerce un cargo en una unidad educativa, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 82, numeral 5 (página impresa 41; página PDF 41).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+31. [Ley N.º 348 – TÍTULO V] Según el Artículo 254 del Código Penal, modificado por el Artículo 83, ¿procede el homicidio por emoción violenta en caso de feminicidio?
+A. Sí, siempre que la emoción violenta sea excusable.
+B. Sí, si el autor acredita no tener antecedentes previos.
+C. No, este tipo penal no procederá en caso de feminicidio.
+D. No, salvo que la víctima haya provocado la emoción.
+Respuesta correcta: C
+Explicación: «Quien matare a otra u otro en estado de emoción violenta excusable, será sancionada(o) con reclusión de dos (2) a ocho (8) años. Este tipo penal no procederá en caso de feminicidio».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 83, que modifica el Art. 254 del Código Penal (página impresa 42; página PDF 42).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+32. [Ley N.º 348 – TÍTULO V] ¿Qué se desprende del Artículo 256 del Código Penal cuando una persona comete suicidio como consecuencia de una situación de violencia?
+A. Que no hay responsabilidad penal, pues el suicidio es un acto voluntario de la víctima.
+B. Que el agresor solo responde civilmente mediante la reparación del daño a la familia.
+C. Que el agresor recibe trabajos comunitarios, por no haber causado directamente la muerte.
+D. Que la agresora o agresor será sancionado con privación de libertad de diez (10) años.
+Respuesta correcta: D
+Explicación: «Cuando una persona cometa suicidio como consecuencia de una situación de violencia, la agresora o agresor será sancionado con privación de libertad de diez (10) años».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 83, que modifica el Art. 256 del Código Penal (página impresa 42; página PDF 42).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+33. [Ley N.º 348 – TÍTULO V] ¿Qué significa, según el Artículo 81, que «no pueden imponerse todas las restricciones de esos derechos en una sola sentencia»?
+A. Que la inhabilitación debe limitarse a algunas restricciones, sin acumular todas las previstas en el artículo en una sola sentencia.
+B. Que la inhabilitación solo puede imponerse en una segunda sentencia, nunca en la primera condena por violencia.
+C. Que cada restricción requiere una sentencia distinta, dictada por un juez diferente en cada caso concreto.
+D. Que la inhabilitación no puede acompañar a ninguna otra sanción, ni principal ni alternativa, en la sentencia.
+Respuesta correcta: A
+Explicación: «[…] Tiene un límite temporal de doce años y no pueden imponerse todas las restricciones de esos derechos en una sola sentencia […]». Aplicación razonada: la prohibición impide acumular todas las restricciones del artículo en una misma condena.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 81 (página impresa 41; página PDF 41).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+34. [Ley N.º 348 – TÍTULO V] Según el Artículo 82, ¿qué límites tienen las instrucciones del plan de conducta impuesto al condenado?
+A. Pueden ser vejatorias si su finalidad es disuasiva, y pueden extenderse por el doble del tiempo de la pena principal.
+B. Son inmodificables durante la ejecución de la sentencia, y pueden extenderse indefinidamente según criterio del juez.
+C. No pueden ser vejatorias ni ofender su dignidad o autoestima, y no pueden extenderse más allá de la pena principal.
+D. Solo pueden consistir en prohibiciones de portar armas, sin posibilidad de imponer programas educativos u oficios.
+Respuesta correcta: C
+Explicación: «[…] deberá cumplir con instrucciones que no podrán ser vejatorias o susceptibles de ofender la dignidad o la autoestima. Pueden modificarse durante la ejecución de sentencia y no pueden extenderse más allá del tiempo que dure la pena principal […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 82 (página impresa 41; página PDF 41).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+35. [Ley N.º 348 – TÍTULO V] Según el Artículo 308 bis del Código Penal, ¿qué relaciones quedan exentas de la sanción por violación de infante, niña, niño o adolescente?
+A. Las consensuadas entre cualquier adolescente y un adulto, siempre que no exista violencia física ni intimidación grave, conforme a la norma.
+B. Las consensuadas entre adolescentes de cualquier edad, aunque exista una diferencia de edad mayor de cinco años.
+C. Ninguna relación queda exenta, pues el consentimiento del menor de catorce años carece de todo valor jurídico.
+D. Las consensuadas entre adolescentes mayores de doce años, sin diferencia de edad mayor a tres años ni violencia o intimidación.
+Respuesta correcta: D
+Explicación: «Quedan exentas de esta sanción las relaciones consensuadas entre adolescentes mayores de doce (12) años, siempre que no exista diferencia de edad mayor de tres (3) años entre ambos y no se haya cometido violencia o intimidación».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 83, que modifica el Art. 308 bis del Código Penal (página impresa 44; página PDF 44).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+36. [Ley N.º 348 – TÍTULO V] Según el Artículo 97, ¿impide la falta de prueba al presentar la denuncia que esta sea admitida?
+A. No, la falta de prueba a tiempo de plantear la denuncia no impide su admisión.
+B. Sí, la denuncia sin prueba debe rechazarse de inmediato por el fiscal, según la norma.
+C. Sí, salvo que la víctima presente la prueba dentro de las 24 horas.
+D. No, pero la denuncia queda suspendida hasta que se aporte la prueba.
+Respuesta correcta: A
+Explicación: «Las pruebas pueden ser presentadas junto a la denuncia, contestación, audiencia o antes de emitirse la resolución; la falta de prueba a tiempo de plantear la denuncia o demanda, no impedirá la admisión de la misma».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 97 (páginas impresas 52-53; páginas PDF 52-53).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+37. [Ley N.º 348 – TÍTULO V] ¿Qué implica el principio de publicidad del Artículo 86.5 respecto a la víctima?
+A. Que los procesos son públicos en todos sus aspectos, incluyendo la identidad y el domicilio de la víctima.
+B. Que los procesos son secretos, y solo pueden conocerse una vez dictada la sentencia ejecutoriada del caso.
+C. Que los procesos son de conocimiento público, resguardando la identidad, domicilio y otros datos de la víctima.
+D. Que los procesos son públicos solo para el agresor y su defensa, y reservados para la víctima y su familia, por mandato legal.
+Respuesta correcta: C
+Explicación: «Publicidad. Todos los procesos relativos a la violencia contra las mujeres serán de conocimiento público, resguardando la identidad, domicilio y otros datos de la víctima».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 86, numeral 5 (página impresa 49; página PDF 49).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+38. [Ley N.º 348 – TÍTULO V] Según el Artículo 96, ¿cómo se valoran los antecedentes de víctimas o testigos que no pueden comparecer al juicio oral por su fallecimiento?
+A. Carecen de valor, pues toda prueba testifical debe producirse en el juicio oral.
+B. Se valoran solo como indicio, sin valor probatorio pleno en la sentencia.
+C. Se valoran como prueba, siempre que consten en actas escritas y recibidas según procedimiento.
+D. Se valoran solo si el imputado consiente expresamente su incorporación.
+Respuesta correcta: C
+Explicación: «Los antecedentes de víctimas o testigos que no puedan comparecer a la audiencia de juicio oral en razón de su fallecimiento, siempre y cuando consten en actas escritas y recibidas según procedimiento, serán valoradas como prueba por la autoridad judicial».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 96 (página impresa 52; página PDF 52).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+39. [Ley N.º 348 – TÍTULO V] Según el Artículo 99.II, ¿qué alcance tienen las opiniones del tercero coadyuvante?
+A. Son vinculantes para el juez y otorgan al experto la calidad de parte con derecho a honorarios.
+B. Orientan la comprensión del hecho; no tienen calidad de parte ni derecho a cobrar honorarios.
+C. Sustituyen el peritaje oficial y deben presentarse antes de la audiencia de juicio oral.
+D. Solo pueden presentarse después de la sentencia, como fundamento de un recurso.
+Respuesta correcta: B
+Explicación: «Las opiniones expertas se limitan a una opinión que orientará la comprensión del hecho, podrán presentarse en cualquier momento del proceso, antes de que la sentencia sea dictada y no tendrán calidad de parte ni derecho a cobrar honorarios».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 99, parágrafo II (página impresa 53; página PDF 53).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+40. [Ley N.º 348 – TÍTULO V] Según el Artículo 76.II, ¿cuándo aplicará la autoridad judicial una sanción alternativa junto a otras?
+A. Cuando el condenado lo solicite para reducir el tiempo de cumplimiento de la pena principal impuesta.
+B. Cuando la víctima renuncie a la reparación del daño civil derivado del delito de violencia cometido.
+C. Cuando el condenado sea reincidente y la pena principal supere los diez años de privación de libertad, conforme a la norma.
+D. Cuando sea necesario para proteger a la mujer, hijos e hijas o el núcleo familiar en situación de violencia.
+Respuesta correcta: D
+Explicación: «La autoridad judicial aplicará una sanción alternativa junto a otras, cuando sea necesario para proteger a la mujer, hijos e hijas o el núcleo familiar en situación de violencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 76, parágrafo II (página impresa 40; página PDF 40).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+41. [Ley N.º 348 – TÍTULO V] ¿Qué diferencia existe entre la violencia económica (Art. 250 bis) y la violencia patrimonial (Art. 250 ter) del Código Penal?
+A. La económica impide el uso de los bienes propios de la mujer con multa; la patrimonial restringe sus ingresos o trabajo con prisión de 2 a 4 años, según lo establecido.
+B. La económica se aplica solo a la mujer casada; la patrimonial solo a la conviviente, ambas sancionadas con la misma pena privativa de libertad.
+C. La económica restringe ingresos, documentos o trabajo de la mujer con prisión de 2 a 4 años; la patrimonial impide el uso de sus bienes propios con multa.
+D. La económica es un delito de acción privada; la patrimonial es una falta administrativa sancionada por el Gobierno Autónomo Municipal.
+Respuesta correcta: C
+Explicación: Art. 250 bis: «Será sancionada con pena privativa de libertad de dos (2) a cuatro (4) años, la persona que incurra en alguna de las siguientes conductas: a) Menoscabe, limite o restrinja la libre disposición del ingreso económico de la mujer […]». Art. 250 ter: «Quien por cualquier medio impida, limite o prohíba el uso, el disfrute, la administración, la transformación, o la disposición de uno o varios bienes propios de la mujer […] será sancionado con multa de cien (100) hasta trescientos sesenta y cinco (365) días».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 85, que incorpora los Arts. 250 bis y 250 ter al Código Penal (página impresa 48; página PDF 48).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+42. [Ley N.º 348 – TÍTULO V] ¿Qué distingue la violación (Art. 308) del abuso sexual (Art. 312) en el Código Penal modificado?
+A. La violación comprende actos sexuales no constitutivos de penetración; el abuso sexual implica acceso carnal mediante penetración.
+B. La violación solo se configura contra mujeres adultas; el abuso sexual solo contra niñas, niños y adolescentes menores de catorce años, según la normativa.
+C. La violación requiere siempre violencia física; el abuso sexual requiere siempre engaño, sin intimidación ni violencia psicológica.
+D. La violación implica actos sexuales con acceso carnal o penetración; el abuso sexual, actos sexuales no constitutivos de penetración o acceso carnal.
+Respuesta correcta: D
+Explicación: Art. 308: «[…] actos sexuales no consentidos que importen acceso carnal, mediante la penetración […]». Art. 312: «Cuando en las mismas circunstancias y por los medios señalados en los Artículos 308 y 308 bis se realizaran actos sexuales no constitutivos de penetración o acceso carnal […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 83, que modifica los Arts. 308 y 312 del Código Penal (páginas impresas 43 y 45; páginas PDF 43 y 45).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+43. [Ley N.º 348 – TÍTULO V] ¿Qué diferencia existe entre la detención de fin de semana (Art. 78) y los trabajos comunitarios (Art. 79)?
+A. La detención consiste en prestar trabajos en favor del Gobierno Municipal; los trabajos comunitarios limitan la libertad del viernes al lunes.
+B. La detención limita la libertad del viernes 19:00 al lunes 6:00; los trabajos comunitarios consisten en prestar trabajos en favor del Gobierno Municipal.
+C. La detención se cumple en el domicilio del condenado; los trabajos comunitarios se cumplen en un centro penitenciario durante los días hábiles, en el marco legal.
+D. La detención se aplica solo en días feriados; los trabajos comunitarios se aplican solo durante el horario laboral habitual del condenado.
+Respuesta correcta: B
+Explicación: Art. 78: «Es una limitación de la libertad que se aplica desde el día viernes a horas 19:00 hasta el día lunes a horas 6:00 […]». Art. 79: «El trabajo comunitario consiste en la prestación de trabajos en favor del Gobierno Autónomo Municipal, que se realizará en fines de semana, feriados y los días hábiles en horarios diferentes a los habituales […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Arts. 78 y 79 (página impresa 40; página PDF 40).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+44. [Ley N.º 348 – TÍTULO V] ¿Qué distingue a los actos sexuales abusivos (Art. 312 bis) del acoso sexual (Art. 312 quater)?
+A. Los actos abusivos se dan cuando se usa una posición jerárquica para obtener actos sexuales; el acoso, cuando en una relación consentida se obliga a la pareja a soportar violencia.
+B. Los actos abusivos se cometen en el marco de un ataque generalizado contra una población; el acoso, mediante prostitución forzada de una o más personas.
+C. Los actos abusivos obligan a la pareja, en una relación consentida, a soportar violencia y humillación; el acoso usa una posición jerárquica para obtener actos sexuales.
+D. Los actos abusivos solo se sancionan con multa; el acoso solo con trabajos comunitarios, sin pena privativa de libertad para ninguno de ellos.
+Respuesta correcta: C
+Explicación: Art. 312 bis: «[…] a la persona que durante la relación sexual consentida, obligue a su pareja o cónyuge a soportar actos de violencia física y humillación». Art. 312 quater.I: «La persona que valiéndose de una posición jerárquica o poder de cualquier índole hostigue […] u obligue por cualquier medio a otra persona a mantener una relación o realizar actos o tener comportamientos de contenido sexual […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 84, que incorpora los Arts. 312 bis y 312 quater al Código Penal (página impresa 47; página PDF 47).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+45. [Ley N.º 348 – TÍTULO V] ¿Qué diferencia existe entre el principio de reserva (Art. 89) y el de publicidad (Art. 86.5)?
+A. El 89 declara reservado el proceso salvo que la mujer pida publicidad; el 86.5 declara públicos los procesos, resguardando la identidad y datos de la víctima.
+B. El 89 declara públicos los procesos resguardando la identidad de la víctima; el 86.5 declara reservado el proceso salvo petición de la mujer, conforme a la norma.
+C. El 89 se aplica solo al agresor; el 86.5 se aplica solo a los testigos, sin relación con los datos personales de la víctima del proceso.
+D. Ambos permiten difundir libremente el nombre de la víctima, siempre que el proceso se encuentre en la etapa de juicio oral público.
+Respuesta correcta: A
+Explicación: Art. 89: «El proceso por hechos de violencia es reservado, salvo que la propia mujer, previa información, libre y oportuna, solicite la total o parcial publicidad. En todos los casos se mantendrá en estricta reserva el nombre de la víctima». Art. 86.5: «Todos los procesos relativos a la violencia contra las mujeres serán de conocimiento público, resguardando la identidad, domicilio y otros datos de la víctima». Aplicación razonada: en ambos casos se protege siempre la identidad de la víctima.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 89 (página impresa 51; página PDF 51) y Art. 86, numeral 5 (página impresa 49; página PDF 49).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+46. [Ley N.º 348 – TÍTULO V] ¿Qué distingue el principio de celeridad (Art. 86.2) del de inmediatez y continuidad (Art. 86.6)?
+A. La celeridad exige concluir la audiencia el mismo día; la inmediatez y continuidad exige cumplir estrictamente los plazos procesales previstos, según la norma.
+B. La celeridad exige cumplir estrictamente los plazos procesales; la inmediatez y continuidad exige concluir la audiencia el mismo día o en días consecutivos.
+C. La celeridad permite omitir pruebas para acelerar el proceso; la inmediatez exige que el juez conozca la causa solo por escrito y a distancia.
+D. La celeridad se aplica solo a la policía; la inmediatez y continuidad se aplica solo a los fiscales durante la etapa preparatoria del proceso.
+Respuesta correcta: B
+Explicación: «2. Celeridad. Todas las operadoras y operadores de la administración de justicia, bajo responsabilidad, deben dar estricto cumplimiento a los plazos procesales previstos, sin dilación alguna bajo apercibimiento. […] 6. Inmediatez y continuidad. Iniciada la audiencia, ésta debe concluir en el mismo día. Si no es posible, continuará durante el menor número de días consecutivos».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 86, numerales 2 y 6 (página impresa 49; página PDF 49).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+47. [Ley N.º 348 – TÍTULO V] ¿Qué diferencia existe entre las lesiones gravísimas (Art. 270) y las lesiones graves (Art. 271) del Código Penal modificado?
+A. Las gravísimas producen consecuencias como discapacidad, daño permanente o incapacidad mayor a 90 días; las graves, incapacidad de 15 a 90 días.
+B. Las gravísimas producen incapacidad de 15 a 90 días; las graves, consecuencias como discapacidad, daño permanente o incapacidad mayor a 90 días, según la Ley 348.
+C. Las gravísimas solo comprenden daños físicos; las graves solo daños psicológicos, sin relación con los días de incapacidad de la víctima.
+D. Las gravísimas se sancionan con trabajos comunitarios; las graves, con multa de cien a trescientos sesenta y cinco días a favor de la víctima.
+Respuesta correcta: A
+Explicación: Art. 270: «[…] una lesión de la cual resulte alguna de las siguientes consecuencias: 1. Enfermedad o discapacidad […] 2. Daño psicológico o psiquiátrico permanente. […] 4. Incapacidad permanente para el trabajo o que sobrepase de noventa días […]». Art. 271: «[…] un daño físico o psicológico, no comprendido en los casos del Artículo anterior, del cual derive incapacidad para el trabajo de quince (15) hasta noventa (90) días».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 83, que modifica los Arts. 270 y 271 del Código Penal (páginas impresas 42-43; páginas PDF 42-43).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+48. [Ley N.º 348 – TÍTULO V] ¿Qué diferencia existe entre la terapia de rehabilitación del agresor y la de fortalecimiento de la mujer según el Artículo 87?
+A. La de rehabilitación se dispone para mujeres que salen del ciclo de violencia; la de fortalecimiento, para el agresor, sustituyendo su sanción.
+B. La de rehabilitación se dispone para el agresor y nunca sustituye la sanción; la de fortalecimiento, para mujeres que estén saliendo del ciclo de violencia.
+C. Ambas se imparten conjuntamente a la mujer y al agresor, como terapia de pareja que sustituye la sanción penal del agresor denunciado.
+D. La de rehabilitación es voluntaria para el agresor; la de fortalecimiento es obligatoria para la mujer como condición para continuar el proceso, según la ley vigente.
+Respuesta correcta: B
+Explicación: «5. Disposición de terapias de rehabilitación para el agresor, que en ningún caso sustituirán la sanción. 6. Disposición de terapias de fortalecimiento para mujeres que estén saliendo del ciclo de violencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 87, numerales 5 y 6 (página impresa 51; página PDF 51).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+49. [Ley N.º 348 – TÍTULO V] ¿Qué distingue la acción por denuncia falsa (Art. 100) de la declaratoria de rebeldía (Art. 91)?
+A. La acción por denuncia falsa la inicia quien fue falsamente denunciado; la rebeldía se declara al imputado que no se presenta a la primera audiencia tras ser notificado.
+B. La rebeldía la inicia quien fue falsamente denunciado; la acción por denuncia falsa se declara al imputado que no se presenta a la primera audiencia.
+C. La acción por denuncia falsa la inicia el fiscal de oficio; la rebeldía la declara el Ministerio de Justicia como Ente Rector de la Ley N.º 348.
+D. Ambas se declaran al imputado que no comparece, con la diferencia de que la denuncia falsa requiere notificación por edictos públicos.
+Respuesta correcta: A
+Explicación: Art. 100: «Quien hubiere sido falsamente denunciado o acusado como autor y/o participe […] podrá iniciar la acción correspondiente […]». Art. 91: «En los casos de delitos previstos en la presente Ley, se declarará rebelde al imputado cuando no se presente a la primera audiencia señalada por la autoridad jurisdiccional, después de haber sido notificado legalmente».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 100 (página impresa 53; página PDF 53) y Art. 91 (página impresa 51; página PDF 51).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+50. [Ley N.º 348 – TÍTULO V] ¿Qué diferencia existe entre el principio de protección (Art. 86.7) y el de imposición de medidas cautelares (Art. 86.13)?
+A. El de protección obliga a dictar medidas cautelares hasta la acusación formal; el de medidas cautelares obliga a dictar medidas de protección al conocer la causa, según la Ley 348.
+B. El de protección se aplica solo a los hijos de la mujer; el de medidas cautelares solo al patrimonio del agresor durante la ejecución de la sentencia.
+C. El de protección obliga al juez a dictar medidas de protección al conocer la causa; el de medidas cautelares, a dictarlas al presentarse la denuncia hasta la acusación formal.
+D. Ambos facultan al fiscal, y no al juez, a dictar medidas, siempre que la mujer las solicite por escrito en la audiencia de juicio oral.
+Respuesta correcta: C
+Explicación: «7. Protección. Las juezas y jueces inmediatamente conocida la causa, dictarán medidas de protección para salvaguardar la vida, integridad física, psicológica, sexual […]. 13. Imposición de medidas cautelares. Una vez presentada la denuncia, la autoridad judicial dictará inmediatamente las medidas cautelares previstas en el Código Procesal Penal, privilegiando la protección y seguridad de la mujer durante la investigación, hasta la realización de la acusación formal […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 86, numerales 7 y 13 (páginas impresas 49-50; páginas PDF 49-50).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+51. [Ley N.º 348 – TÍTULO V] Un abogado defensor pide calificar como «homicidio por emoción violenta» la muerte de una mujer a manos de su conviviente, para reducir la pena. ¿Qué análisis corresponde?
+A. Es procedente: la emoción violenta excusable siempre atenúa la pena del homicidio.
+B. Es improcedente: el homicidio por emoción violenta no procede en caso de feminicidio.
+C. Es procedente si el conviviente no tenía antecedentes de violencia contra la mujer, según la normativa.
+D. Es improcedente solo si existían hijos menores de edad en común con la víctima.
+Respuesta correcta: B
+Explicación: Aplicación razonada: Art. 254: «[…] Este tipo penal no procederá en caso de feminicidio». Art. 252 bis.1: «El autor sea o haya sido cónyuge o conviviente de la víctima […]». Aplicación razonada: la muerte por el conviviente encuadra en el feminicidio, que excluye la emoción violenta.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 83, que modifica el Art. 254 del Código Penal (página impresa 42; página PDF 42) y Art. 84, que incorpora el Art. 252 bis (página impresa 45; página PDF 45).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+52. [Ley N.º 348 – TÍTULO V] Un juez sustituye por multa la pena de cinco años impuesta a un agresor reincidente, que no cumplió aún ninguna parte de ella. ¿Qué análisis corresponde?
+A. Es correcto: el juez puede sustituir cualquier pena por multa cuando el agresor repara económicamente el daño causado.
+B. Es correcto si la víctima consiente la sustitución, pues su consentimiento suple los requisitos de la sanción alternativa.
+C. Es contrario a la Ley: las sanciones alternativas exigen que el autor no sea reincidente y que la pena no supere tres años, o que haya cumplido la mitad.
+D. Es contrario a la Ley solo porque la pena supera tres años, pues la reincidencia no impide aplicar sanciones alternativas.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «En delitos de violencia hacia las mujeres, siempre que el autor no sea reincidente, se podrán aplicar sanciones alternativas a la privación de libertad, cuando: 1. La pena impuesta no sea mayor a tres años […]. 2. A solicitud del condenado a pena privativa de libertad superior a tres años que hubiera cumplido al menos la mitad de ésta […]». Aplicación razonada: concurren dos impedimentos, la reincidencia y la pena sin cumplir.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 76, parágrafo I (página impresa 40; página PDF 40).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+53. [Ley N.º 348 – TÍTULO V] Un Gobierno Municipal destina los fondos de las multas por violencia a obras viales. ¿Qué análisis corresponde?
+A. Es correcto: los fondos de las multas ingresan al presupuesto general del municipio y pueden destinarse a cualquier fin.
+B. Es correcto si las obras viales benefician a barrios con alta incidencia de violencia hacia las mujeres del municipio.
+C. Es contrario a la Ley solo si el municipio no tiene Casas de Acogida, pues en otro caso puede usar los fondos libremente.
+D. Es contrario a la Ley: los fondos van a los Servicios de Atención Integral, preferentemente a Casas de Acogida y salud, sin poder destinarse a otro fin.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Las multas serán destinadas a los Servicios de Atención Integral a cargo de los Gobiernos Autónomos Municipales, quienes constituirán un fondo y abrirán una cuenta fiscal exclusiva para este propósito, debiendo asignar los recursos con carácter preferente a las Casas de Acogida y Refugio Temporal y costo por servicios de salud. Los fondos no podrán ser destinados a otro fin». Aplicación razonada: el destino vial vulnera la afectación exclusiva de los fondos.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 77, párrafo segundo (página impresa 40; página PDF 40).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+54. [Ley N.º 348 – TÍTULO V] Un fiscal exige a la mujer que demuestre judicialmente los hechos de violencia y le pide que consiga los peritajes. ¿Qué análisis corresponde?
+A. Es correcto: la denunciante debe demostrar los hechos que alega, conforme a la regla general de la carga de la prueba.
+B. Es correcto si la mujer tiene recursos económicos, pues la exención de peritajes alcanza solo a mujeres insolventes.
+C. Contradice la Ley: ninguna mujer debe demostrar los hechos; el Ministerio Público reúne las pruebas y no debe exigirle peritajes.
+D. Contradice la Ley solo si el delito es flagrante, pues en los demás casos la mujer debe aportar los peritajes técnicos, conforme a la Ley.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Ninguna mujer debe tener la responsabilidad de demostrar judicialmente aquellas acciones, actos, situaciones o hechos relacionados con su situación de violencia; será el Ministerio Público quien, como responsable de la investigación de los delitos, reúna las pruebas necesarias […]. En caso de requerirse peritajes técnicos, no deberán ser exigidos a la mujer […]». Aplicación razonada: la exigencia invierte la responsabilidad probatoria que la Ley asigna al Ministerio Público.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 94 (página impresa 52; página PDF 52).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+55. [Ley N.º 348 – TÍTULO V] Un juez rechaza una denuncia por violencia porque el formulario presentado tenía errores de llenado. ¿Qué análisis corresponde?
+A. Es correcto: toda denuncia debe cumplir los requisitos formales, y su omisión justifica el rechazo inmediato.
+B. Es correcto si los errores impiden identificar al agresor, aunque la víctima pueda aclararlos en audiencia.
+C. Vulnera el principio de accesibilidad: la falta de requisitos formales no debe impedir la restitución de derechos ni la sanción.
+D. Vulnera la Ley solo si la víctima es analfabeta, pues en los demás casos los requisitos formales son exigibles, según la ley vigente.
+Respuesta correcta: C
+Explicación: Aplicación razonada: Art. 86.9: «Accesibilidad. La falta de requisitos formales o materiales en el procedimiento no deberá retrasar, entorpecer ni impedir la restitución de los derechos vulnerados y la sanción a los responsables». Art. 86.11: «[…] debe considerar la verdad de los hechos comprobados, por encima de la formalidad pura y simple». Aplicación razonada: el rechazo por errores formales antepone la forma a la restitución de derechos.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 86, numerales 9 y 11 (página impresa 50; página PDF 50).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+56. [Ley N.º 348 – TÍTULO V] Un medio publica el nombre completo de una víctima de violación, alegando que el juicio es público. ¿Qué análisis corresponde?
+A. Es contrario a la Ley: en todos los casos se mantiene en estricta reserva el nombre de la víctima, aun cuando el proceso sea público.
+B. Es correcto: la publicidad del juicio permite difundir todos los datos de las partes, incluido el nombre de la víctima, según lo dispuesto.
+C. Es correcto si la víctima es mayor de edad, pues la reserva del nombre solo alcanza a niñas, niños y adolescentes.
+D. Es contrario a la Ley solo si el medio es estatal, pues los medios privados no están obligados a guardar la reserva.
+Respuesta correcta: A
+Explicación: Aplicación razonada: Art. 89: «[…] En todos los casos se mantendrá en estricta reserva el nombre de la víctima». Art. 86.5: «Todos los procesos relativos a la violencia contra las mujeres serán de conocimiento público, resguardando la identidad, domicilio y otros datos de la víctima». Aplicación razonada: la publicidad del proceso no alcanza a la identidad de la víctima.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 89 (página impresa 51; página PDF 51).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+57. [Ley N.º 348 – TÍTULO V] Un juez impone a un condenado, como instrucción, limpiar públicamente la plaza con un cartel que diga «soy agresor». ¿Qué análisis corresponde?
+A. Es correcto: el plan de conducta puede incluir medidas de escarmiento público para prevenir la reincidencia, conforme a norma.
+B. Es correcto si la víctima lo solicita, pues su voluntad permite imponer instrucciones de carácter vejatorio.
+C. Es contrario a la Ley: las instrucciones no pueden ser vejatorias ni susceptibles de ofender la dignidad o la autoestima.
+D. Es contrario a la Ley solo si la instrucción supera el tiempo de la pena principal impuesta al condenado.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «[…] deberá cumplir con instrucciones que no podrán ser vejatorias o susceptibles de ofender la dignidad o la autoestima […]». Aplicación razonada: el cartel infamante es una instrucción vejatoria.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 82 (página impresa 41; página PDF 41).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+58. [Ley N.º 348 – TÍTULO V] Un juez de violencia con antecedentes de violencia contra su expareja se niega a excusarse en un caso de feminicidio. ¿Qué análisis corresponde según el Artículo 86.10?
+A. Puede solicitarse su excusa por tener antecedentes de violencia, y el caso debe remitirse inmediatamente al juzgado competente.
+B. No procede su excusa, pues los antecedentes personales del juez no afectan su imparcialidad en el proceso.
+C. Procede su excusa solo si la víctima del caso es su expareja, y no en los demás procesos que conozca.
+D. Procede su excusa solo después de dictar sentencia, mediante recurso de apelación ante la sala penal.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Excusa. Podrá solicitarse la excusa del juez, vocal o magistrado que tenga antecedentes de violencia, debiendo remitirse el caso inmediatamente al juzgado o tribunal competente». Aplicación razonada: los antecedentes de violencia del juez habilitan la solicitud de excusa.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 86, numeral 10 (página impresa 50; página PDF 50).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+59. [Ley N.º 348 – TÍTULO V] Un juez solicita a la víctima nuevas declaraciones y peritajes reiterados sobre los mismos hechos ya acreditados. ¿Qué análisis corresponde?
+A. Contradice el principio de economía procesal, que impide solicitar pruebas, declaraciones o peritajes que constituyan revictimización.
+B. Es correcto: la reiteración de pruebas fortalece la convicción del juez y garantiza el derecho a la defensa.
+C. Es correcto si el imputado lo solicita, pues su derecho a la defensa prevalece sobre la economía procesal.
+D. Contradice la Ley solo si la víctima es menor de edad, pues las mujeres adultas pueden declarar reiteradamente.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Economía procesal. La jueza o juez podrá llevar a cabo uno o más actuados en una diligencia judicial y no solicitará pruebas, declaraciones o peritajes que pudieran constituir revictimización». Aplicación razonada: la reiteración innecesaria revictimiza a la mujer.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 86, numeral 8 (página impresa 49; página PDF 49).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+60. [Ley N.º 348 – TÍTULO V] El imputado por violencia no se presenta a la primera audiencia pese a estar legalmente notificado, y el juez decide simplemente reprogramarla indefinidamente. ¿Qué análisis corresponde?
+A. Es correcto: el juez debe reprogramar la audiencia hasta que el imputado comparezca voluntariamente.
+B. Se aparta del Artículo 91: debe declararse rebelde al imputado que no se presenta a la primera audiencia tras ser notificado.
+C. Es correcto si el imputado justifica su inasistencia dentro de los treinta días siguientes a la audiencia.
+D. Se aparta de la Ley solo si es la tercera inasistencia, pues la rebeldía requiere tres incomparecencias.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «En los casos de delitos previstos en la presente Ley, se declarará rebelde al imputado cuando no se presente a la primera audiencia señalada por la autoridad jurisdiccional, después de haber sido notificado legalmente». Aplicación razonada: la reprogramación indefinida desconoce la declaratoria de rebeldía.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 91 (página impresa 51; página PDF 51).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+61. [Ley N.º 348 – TÍTULO V] Un hombre mata a una mujer que se negó a iniciar con él una relación de enamoramiento. ¿Qué tipo penal corresponde según el Artículo 252 bis?
+A. Homicidio por emoción violenta, pues el rechazo provocó en el autor un estado de emoción excusable.
+B. Asesinato común, pues el autor no era ni había sido cónyuge ni conviviente de la víctima del hecho.
+C. Homicidio simple, pues el feminicidio exige que exista convivencia previa entre el autor y la víctima, según la ley vigente.
+D. Feminicidio, por haberse negado la víctima a establecer con el autor una relación de pareja o enamoramiento.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Se sancionará con la pena de presidio de treinta (30) años sin derecho a indulto, a quien mate a una mujer, en cualquiera de las siguientes circunstancias: […] 2. Por haberse negado la víctima a establecer con el autor, una relación de pareja, enamoramiento, afectividad o intimidad […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 84, que incorpora el Art. 252 bis al Código Penal (página impresa 45; página PDF 45).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+62. [Ley N.º 348 – TÍTULO V] Un hombre agrede psicológicamente a la madre de su hijo, con quien nunca convivió. ¿Puede configurarse violencia familiar o doméstica según el Artículo 272 bis?
+A. No, el tipo penal exige siempre convivencia actual entre el autor y la víctima.
+B. No, el tipo penal solo comprende agresiones físicas, y no las de tipo psicológico, según lo establecido.
+C. Sí, comprende a la persona que haya procreado hijos con la víctima, aun sin convivencia.
+D. Sí, pero solo si la agresión ocurre en el domicilio donde vive el hijo en común.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Quien agrediere físicamente, psicológica o sexualmente dentro los casos comprendidos en el numeral 1 al 4 del presente Artículo incurrirá en pena de reclusión de dos (2) a cuatro (4) años, siempre que no constituya otro delito. […] 2. La persona que haya procreado hijos o hijas con la víctima, aún sin convivencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 84, que incorpora el Art. 272 bis al Código Penal (página impresa 46; página PDF 46).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+63. [Ley N.º 348 – TÍTULO V] Un esposo dispone unilateralmente de todas las ganancias del negocio familiar para su beneficio exclusivo, en perjuicio de su cónyuge. ¿Qué tipo penal del Artículo 85 aplica?
+A. Violencia patrimonial por impedir el uso de bienes propios (Art. 250 ter).
+B. Esterilización forzada por privación de la función reproductiva (Art. 271 bis).
+C. Sustracción de utilidades de actividades económicas familiares (Art. 250 quater).
+D. Incumplimiento de deberes de protección a mujeres (Art. 154 bis).
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La persona que disponga unilateralmente de las ganancias derivadas de una actividad económica familiar o disponga de ellas para su exclusivo beneficio personal, en perjuicio de los derechos de su cónyuge o conviviente, será sancionada con pena de privación de libertad de seis (6) meses a un (1) año más multa […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 85, que incorpora el Art. 250 quater al Código Penal (página impresa 48; página PDF 48).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+64. [Ley N.º 348 – TÍTULO V] Una mujer en situación de violencia no desea encontrarse con el agresor al aportar pruebas en el juzgado. ¿Qué le permite el Artículo 93?
+A. Ninguna alternativa: toda prueba debe producirse en audiencia pública con presencia de ambas partes del proceso, conforme a la norma.
+B. Acogerse a medios optativos: declarar por medios alternativos sin comparecer o aportar pruebas sin encontrarse con el agresor.
+C. Delegar su declaración al agresor, quien la transmite al juez en la audiencia en representación de ambas partes.
+D. Presentar las pruebas solo después de la sentencia, como fundamento de un recurso de apelación ante la sala.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Para la presentación de la prueba, la mujer en situación de violencia podrá decidir si se acoge al procedimiento regular o a los medios optativos siguientes: 1. Prestar declaración o presentar pruebas por medios alternativos, sin que comparezca ante el juzgado. 2. Aportar pruebas en instancias judiciales sin verse obligada a encontrarse con el agresor».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 93 (páginas impresas 51-52; páginas PDF 51-52).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+65. [Ley N.º 348 – TÍTULO V] Una mujer quiere presentar como prueba los mensajes de texto amenazantes que recibió del agresor, obtenidos lícitamente. ¿Qué dispone el Artículo 95?
+A. Se admiten solo si el agresor reconoce su autoría en audiencia ante la autoridad judicial.
+B. No se admiten, pues los mensajes electrónicos carecen de valor probatorio en el proceso penal.
+C. Se admiten solo como indicio, sin valor de prueba documental, salvo peritaje informático.
+D. Se admiten como prueba documental las cartas, mensajes de texto, correos electrónicos u otros obtenidos lícitamente.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Además de otras establecidas por Ley se admitirá como prueba documental, cualquiera de las siguientes: […] 5. Cartas, mensajes de texto, correos electrónicos u otros obtenidos lícitamente […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 95, numeral 5 (página impresa 52; página PDF 52).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+66. [Ley N.º 348 – TÍTULO V] Un condenado con sanción alternativa de libertad parcial suele frecuentar bares donde ejerce violencia. ¿Qué instrucción del Artículo 82 puede imponerle el juez?
+A. Asistir obligatoriamente a terapia conjunta con la mujer agredida en su domicilio.
+B. Prestar trabajos comunitarios en los bares que frecuenta durante los fines de semana.
+C. Presentarse diariamente ante la víctima para informar sobre su conducta y lugar de trabajo, según la norma.
+D. Abstenerse de asistir a lugares públicos en los que se expendan bebidas alcohólicas y lenocinios.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] Las instrucciones que se pueden imponer serán: 1. Prohibición de portar cualquier tipo de arma, en especial de fuego; 2. Abstenerse de asistir a lugares públicos en los que se expendan bebidas alcohólicas y lenocinios […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 82, numeral 2 (página impresa 41; página PDF 41).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+67. [Ley N.º 348 – TÍTULO V] Ejecutoriada la sentencia condenatoria por violencia, la mujer pregunta cuándo se fija la reparación del daño civil. ¿Qué dispone el Artículo 98?
+A. Ejecutoriada la sentencia, la autoridad judicial procederá a la calificación y reparación del daño civil.
+B. La reparación se fija solo en un proceso civil independiente, iniciado por la mujer con abogado propio, según lo dispuesto.
+C. La reparación se fija antes de la sentencia, en audiencia de conciliación entre la mujer y el agresor.
+D. La reparación no procede si se impuso una multa, pues esta sustituye la reparación del daño causado.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Ejecutoriada la sentencia, la autoridad judicial procederá a la calificación y reparación del daño civil».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 98 (página impresa 53; página PDF 53).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+68. [Ley N.º 348 – TÍTULO V] Un agresor golpea a su pareja causándole una incapacidad de 10 días. Según el Artículo 271 del Código Penal, ¿qué sanción corresponde?
+A. Privación de libertad de tres a seis años, por tratarse de lesiones graves con incapacidad laboral, según la Ley 348.
+B. Privación de libertad de cinco a doce años, por tratarse de lesiones gravísimas con daño corporal.
+C. Trabajos comunitarios de uno a tres años y el cumplimiento de las instrucciones que determine el juez.
+D. Multa de cien a trescientos sesenta y cinco días, sin trabajos comunitarios ni instrucciones.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «[…] Si la incapacidad fuere hasta de catorce (14) días, se impondrá al autor sanción de trabajos comunitarios de uno (1) a tres (3) años y cumplimiento de instrucciones que la jueza o el juez determine […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 83, que modifica el Art. 271 del Código Penal (página impresa 43; página PDF 43).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+69. [Ley N.º 348 – TÍTULO V] Un condenado con sanción alternativa tiene como instrucción incorporarse a un programa. Según el Artículo 82.4, ¿a qué tipo de grupos o programas puede ordenarse su incorporación?
+A. A grupos de apoyo de mujeres en situación de violencia, para conocer de cerca su experiencia, según la Ley 348.
+B. A programas de conciliación familiar, para restablecer la convivencia con la mujer agredida.
+C. A grupos o programas para modificar comportamientos que hayan incidido en la realización del hecho.
+D. A grupos religiosos de su elección, para fortalecer sus valores personales y familiares.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «4. Incorporarse a grupos o programas para modificar comportamientos que hayan incidido en la realización del hecho».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 82, numeral 4 (página impresa 41; página PDF 41).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+70. [Ley N.º 348 – TÍTULO V] Un Gobierno Municipal supervisa a un condenado a trabajos comunitarios. Según el Artículo 79, ¿a quién debe reportar el cumplimiento de la sanción?
+A. Solo a la víctima de la violencia.
+B. Al Ministerio de Trabajo y al Concejo.
+C. A la Policía y a la junta vecinal.
+D. Al juzgado competente y al SIPPASE.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El Gobierno Autónomo Municipal deberá supervisar y reportar el cumplimiento de la sanción al juzgado competente y al SIPPASE».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 79, párrafo segundo (página impresa 40; página PDF 40).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Ley N.º 348 – TÍTULO V] Caso: un agresor fue condenado a dos años de prisión por violencia y no es reincidente. Su defensa pide una sanción alternativa. ¿Cómo se resuelve según el Artículo 76?
+A. No procede: las sanciones alternativas solo se aplican tras cumplir la mitad de cualquier pena impuesta.
+B. No procede: en delitos de violencia hacia las mujeres nunca se aplican sanciones alternativas a la prisión.
+C. Procede: al no ser reincidente y no superar la pena tres años, la pena será reemplazada por una sanción alternativa de la Ley.
+D. Procede solo si la víctima consiente expresamente, pues su conformidad es requisito de toda sanción alternativa, según la ley vigente.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «En delitos de violencia hacia las mujeres, siempre que el autor no sea reincidente, se podrán aplicar sanciones alternativas a la privación de libertad, cuando: 1. La pena impuesta no sea mayor a tres años, en cuyo caso será remplazada por una sanción alternativa de las señaladas en la presente Ley».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 76, parágrafo I, numeral 1 (página impresa 40; página PDF 40).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Ley N.º 348 – TÍTULO V] Caso: tras años de violencia psicológica de su esposo, una mujer se suicida. La familia pregunta si el agresor responde penalmente. ¿Qué dispone el Artículo 256?
+A. El agresor no responde penalmente, pues el suicidio fue un acto voluntario de la mujer sin intervención directa suya.
+B. El agresor responde solo si instigó expresamente al suicidio, con reclusión de dos a seis años por instigación.
+C. El agresor será sancionado con privación de libertad de diez años, por el suicidio cometido como consecuencia de la situación de violencia.
+D. El agresor responde con trabajos comunitarios de uno a tres años, por no haber causado directamente la muerte.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Cuando una persona cometa suicidio como consecuencia de una situación de violencia, la agresora o agresor será sancionado con privación de libertad de diez (10) años».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 83, que modifica el Art. 256 del Código Penal (página impresa 42; página PDF 42).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Ley N.º 348 – TÍTULO V] Caso: el padre de una estudiante la retiene contra su voluntad y la oculta de la madre para presionarla. La estudiante tiene 14 años. ¿Qué consecuencia prevé el Artículo 246 del Código Penal?
+A. Substracción de un menor; la pena se agrava en el doble si la comete un progenitor para ejercer coacción contra el otro.
+B. Ninguna consecuencia penal, pues el padre ejerce la patria potestad sobre la hija y puede decidir su residencia, según la norma.
+C. Violencia patrimonial, sancionada con multa, por impedir a la madre el disfrute de la convivencia con la hija.
+D. Rapto agravado en un tercio, por tratarse de una adolescente substraída con fines lascivos por su progenitor.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Quien substrajere a un menor de diez y seis años (16) o a un incapaz, de la potestad de sus padres […] y el que retuviere al menor contra su voluntad, será sancionado con privación de libertad de uno (1) a tres (3) años. […] La pena será agravada en el doble si el delito es cometido por uno de los progenitores con el objeto de ejercer contra el otro cualquier tipo de coacción».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 83, que modifica el Art. 246 del Código Penal (páginas impresas 41-42; páginas PDF 41-42).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Ley N.º 348 – TÍTULO V] Caso: un hombre impide a su esposa trabajar y controla todos los ingresos del hogar mediante amenazas. ¿Qué tipo penal corresponde?
+A. Violencia patrimonial (Art. 250 ter), con multa de cien a 365 días.
+B. Violencia económica (Art. 250 bis), con privación de libertad de dos a cuatro años.
+C. Actos sexuales abusivos (Art. 312 bis), con prisión de cuatro a seis años.
+D. Substracción de utilidades (Art. 250 quater), con prisión de seis meses a un año.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Será sancionada con pena privativa de libertad de dos (2) a cuatro (4) años, la persona que incurra en alguna de las siguientes conductas: […] d) Controle los ingresos o flujo de recursos monetarios que ingresan al hogar mediante violencia psicológica, sexual o física. e) Impida que la mujer realice una actividad laboral o productiva que le genere ingresos».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 85, que incorpora el Art. 250 bis al Código Penal (página impresa 48; página PDF 48).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Ley N.º 348 – TÍTULO V] Caso: una mujer es víctima de violación por parte de su conviviente. ¿Qué consecuencia tiene esa relación según el Artículo 310 del Código Penal?
+A. La pena se agrava con cinco años, porque el autor es conviviente de la víctima.
+B. La pena se reduce a la mitad, por existir una relación de convivencia previa.
+C. No se configura violación, pues entre convivientes no hay actos no consentidos, conforme a norma.
+D. La pena se mantiene sin agravante, pues la relación de pareja no la modifica.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La pena será agravada en los casos de los delitos anteriores, con cinco (5) años cuando: […] f) El autor fuese cónyuge, conviviente, o con quien la víctima mantiene o hubiera mantenido una relación análoga de intimidad […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 83, que modifica el Art. 310 del Código Penal (página impresa 44; página PDF 44).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Ley N.º 348 – TÍTULO V] Caso: una mujer pide que el juicio por violencia en su contra sea público para visibilizar el caso. ¿Qué dispone el Artículo 89?
+A. No puede solicitarlo, pues el proceso es reservado en todos los casos sin excepción, aunque ella lo pida expresamente, según lo establecido.
+B. Puede solicitarlo, y en ese caso su nombre y domicilio se difunden libremente durante todo el proceso judicial.
+C. Puede solicitar la publicidad total o parcial, previa información libre y oportuna, pero su nombre se mantiene siempre en reserva.
+D. Puede solicitarlo solo si el agresor está de acuerdo, pues la publicidad requiere el consentimiento de ambas partes.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El proceso por hechos de violencia es reservado, salvo que la propia mujer, previa información, libre y oportuna, solicite la total o parcial publicidad. En todos los casos se mantendrá en estricta reserva el nombre de la víctima».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 89 (página impresa 51; página PDF 51).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Ley N.º 348 – TÍTULO V] Caso: una mujer que se negó a esterilizarse fue intervenida sin su consentimiento informado y perdió su función reproductiva. ¿Qué tipo penal corresponde?
+A. Esterilización forzada (Art. 271 bis), con privación de libertad de cinco a doce años.
+B. Lesiones graves (Art. 271), con privación de libertad de tres a seis años.
+C. Aborto forzado (Art. 267 bis), con reclusión de cuatro a ocho años.
+D. Violencia patrimonial (Art. 250 ter), con multa de cien a 365 días.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La persona que prive a otra de su función reproductiva de forma temporal o permanente sin su consentimiento expreso, voluntario, libre e informado […] será sancionada con pena privativa de libertad de cinco (5) a doce (12) años».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 84, que incorpora el Art. 271 bis al Código Penal (página impresa 46; página PDF 46).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Ley N.º 348 – TÍTULO V] Caso: en una denuncia por violencia, la mujer no adjuntó pruebas al presentarla, y el fiscal duda en admitirla. ¿Cómo se resuelve?
+A. Debe rechazarse: toda denuncia debe acompañarse de prueba suficiente desde el momento de su presentación.
+B. Debe suspenderse: la denuncia queda en espera hasta que la mujer presente la prueba en un plazo de diez días, según lo dispuesto.
+C. Debe derivarse al SLIM: solo ese servicio puede admitir denuncias que no estén acompañadas de prueba alguna.
+D. Debe admitirse: la falta de prueba al plantear la denuncia no impide su admisión, y la prueba puede presentarse después.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Las pruebas pueden ser presentadas junto a la denuncia, contestación, audiencia o antes de emitirse la resolución; la falta de prueba a tiempo de plantear la denuncia o demanda, no impedirá la admisión de la misma».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 97 (páginas impresas 52-53; páginas PDF 52-53).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Ley N.º 348 – TÍTULO V] Caso: un hombre agrede a su exnovia, con quien nunca convivió, causándole un aborto mediante violencia física. ¿Qué tipo penal corresponde?
+A. Lesiones leves (Art. 271), con trabajos comunitarios de uno a tres años.
+B. Violencia familiar (Art. 272 bis), con reclusión de dos a cuatro años.
+C. Aborto forzado (Art. 267 bis), con reclusión de cuatro a ocho años.
+D. Rapto (Art. 313), con privación de libertad de cuatro a ocho años.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Quien mediante violencia física, psicológica o sexual contra la mujer le causare un aborto, será sancionado con reclusión de cuatro (4) a ocho (8) años».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 83, que modifica el Art. 267 bis del Código Penal (página impresa 42; página PDF 42).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Ley N.º 348 – TÍTULO V] Caso: una víctima de violencia que había declarado en la investigación falleció antes del juicio oral. ¿Cómo se valora su declaración?
+A. Se excluye del juicio, pues no puede ser sometida al contradictorio de la defensa, según la norma.
+B. Se valora solo como indicio, si el imputado no se opone a su incorporación.
+C. Se valora solo si un familiar ratifica su contenido en la audiencia de juicio.
+D. Se valora como prueba, siempre que conste en actas escritas y recibidas según procedimiento.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Los antecedentes de víctimas o testigos que no puedan comparecer a la audiencia de juicio oral en razón de su fallecimiento, siempre y cuando consten en actas escritas y recibidas según procedimiento, serán valoradas como prueba por la autoridad judicial».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 96 (página impresa 52; página PDF 52).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Ley N.º 348 – TÍTULO V] Un juez de instrucción de turno recibe de madrugada un pedido urgente de medidas de protección. ¿Qué decisión es coherente con el Artículo 88?
+A. Diferir la atención al horario hábil del día siguiente, por no corresponder al turno ordinario del juzgado, conforme a la norma.
+B. Atender el pedido de inmediato, pues los jueces de instrucción de turno deben estar disponibles las 24 horas.
+C. Derivar el pedido al juez de familia, que es el competente para dictar medidas fuera del horario hábil.
+D. Remitir el pedido al fiscal, para que dicte las medidas sin intervención judicial durante la noche.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Las y los jueces de Instrucción en materia de violencia hacia las mujeres, por turno, deberán estar disponibles las veinticuatro (24) horas para adoptar las medidas de protección y restricción necesarias».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 88 (página impresa 51; página PDF 51).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Ley N.º 348 – TÍTULO V] Presentada una denuncia por violencia, la autoridad judicial debe decidir sobre las medidas cautelares. ¿Qué decisión es coherente con el Artículo 86.13?
+A. Esperar la acusación formal para dictar las medidas cautelares, una vez concluida la investigación, por mandato legal.
+B. Dictar inmediatamente las medidas cautelares, privilegiando la protección de la mujer hasta la acusación formal.
+C. Dictar las medidas cautelares solo si el imputado no se opone en audiencia conciliatoria previa.
+D. Delegar las medidas cautelares a la Policía, que las ejecuta sin resolución judicial alguna.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Imposición de medidas cautelares. Una vez presentada la denuncia, la autoridad judicial dictará inmediatamente las medidas cautelares previstas en el Código Procesal Penal, privilegiando la protección y seguridad de la mujer durante la investigación, hasta la realización de la acusación formal. En esta etapa, ratificará o ampliará las medidas adoptadas».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 86, numeral 13 (página impresa 50; página PDF 50).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Ley N.º 348 – TÍTULO V] Un fiscal define cómo conducir la etapa preparatoria de un caso de violencia con alto riesgo para la mujer. ¿Qué decisión es coherente con el Artículo 94?
+A. Utilizar todos los plazos máximos de la etapa preparatoria, para asegurar una investigación exhaustiva, conforme a norma.
+B. Suspender la etapa preparatoria hasta que la mujer supere su situación de riesgo y pueda declarar.
+C. Acortar todos los plazos de la etapa preparatoria hasta la acusación, por la situación de riesgo de la mujer.
+D. Prolongar la etapa preparatoria por seis meses adicionales, para reunir pruebas con mayor amplitud.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La o el Fiscal deberá acortar todos los plazos de la etapa preparatoria hasta la acusación en casos de violencia contra la mujer por su situación de riesgo».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 94, párrafo tercero (página impresa 52; página PDF 52).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Ley N.º 348 – TÍTULO V] En ejecución de sentencia, un juez que dispuso sanciones alternativas debe decidir cómo proteger a la mujer. ¿Qué decisión es coherente con el Artículo 80?
+A. Abstenerse de toda medida adicional, pues la sanción alternativa agota la protección debida a la mujer, según la Ley 348.
+B. Aplicar medidas de seguridad solo si el condenado incumple la sanción alternativa por segunda vez.
+C. Delegar la protección de la mujer a su familia, sin medidas de seguridad dispuestas por la autoridad.
+D. Aplicar las medidas de seguridad necesarias para proteger a la mujer y a sus hijas e hijos o su núcleo familiar.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La autoridad judicial en ejecución de sentencia, cuando se hayan dispuesto sanciones alternativas, aplicará las medidas de seguridad necesarias para proteger a la mujer que se encuentra en situación de violencia, y a sus hijas e hijos o su núcleo familiar».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 80 (página impresa 41; página PDF 41).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Ley N.º 348 – TÍTULO V] Un Gobierno Municipal debe decidir cómo administrar los recursos de las multas por violencia. ¿Qué decisión es coherente con el Artículo 77?
+A. Incorporar los recursos al presupuesto general del municipio, para su libre asignación en la gestión anual.
+B. Constituir un fondo con cuenta fiscal exclusiva y asignar los recursos preferentemente a Casas de Acogida y servicios de salud.
+C. Transferir los recursos al Tesoro General de la Nación, para su redistribución entre todos los municipios.
+D. Entregar los recursos directamente a las víctimas, en sustitución de la reparación del daño civil.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Las multas serán destinadas a los Servicios de Atención Integral a cargo de los Gobiernos Autónomos Municipales, quienes constituirán un fondo y abrirán una cuenta fiscal exclusiva para este propósito, debiendo asignar los recursos con carácter preferente a las Casas de Acogida y Refugio Temporal y costo por servicios de salud […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 77, párrafo segundo (página impresa 40; página PDF 40).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Ley N.º 348 – TÍTULO V] Un juez debe decidir cómo calcular una multa impuesta a un sancionado de salario indeterminado. ¿Qué decisión es coherente con el Artículo 77?
+A. Calcularla sobre el cien por ciento del salario mínimo nacional, sin límite de días de multa en la sentencia, por mandato legal.
+B. Calcularla sobre el cincuenta por ciento del salario mínimo nacional, sin exceder trescientos sesenta y cinco días.
+C. Calcularla sobre el patrimonio total del sancionado, por un periodo de hasta setecientos treinta días.
+D. Abstenerse de imponer multa, pues no es posible calcularla cuando el salario del sancionado es indeterminado.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «[…] no podrá ser mayor de trescientos sesenta y cinco días ni comprender para el cálculo más del cincuenta por ciento (50%) del salario del sancionado y cuando el salario es indeterminado, se calculará sobre el cincuenta por ciento (50%) del salario mínimo nacional […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 77 (página impresa 40; página PDF 40).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Ley N.º 348 – TÍTULO V] Un juez debe decidir si admite como prueba un informe psicológico emitido por una institución privada especializada y legalmente reconocida. ¿Qué decisión es coherente con el Artículo 95?
+A. Admitirlo como prueba documental, por ser expedido por profesionales de una institución especializada reconocida legalmente.
+B. Rechazarlo, pues solo los informes de instituciones públicas tienen valor de prueba documental en el proceso.
+C. Admitirlo solo como indicio, hasta que sea ratificado por un psicólogo del Instituto de Investigaciones Forenses, según la norma.
+D. Rechazarlo, pues los informes psicológicos solo se admiten si fueron solicitados por el imputado.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «2. Informe psicológico y/o de trabajo social, expedido por profesionales que trabajen en instituciones públicas o privadas especializadas en la temática y reconocidas legalmente».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 95, numeral 2 (página impresa 52; página PDF 52).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Ley N.º 348 – TÍTULO V] Una mujer que está saliendo del ciclo de violencia necesita apoyo para fortalecerse. ¿Qué directriz del Artículo 87 orienta la decisión de la autoridad?
+A. Disponer terapias conjuntas con el agresor, para restablecer la convivencia en el hogar, en el marco legal.
+B. Disponer terapias de fortalecimiento para mujeres que estén saliendo del ciclo de violencia.
+C. Disponer el archivo del caso, pues la mujer ya superó la situación de violencia vivida.
+D. Disponer su internación en un centro de salud, hasta que supere el ciclo de violencia.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «6. Disposición de terapias de fortalecimiento para mujeres que estén saliendo del ciclo de violencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 87, numeral 6 (página impresa 51; página PDF 51).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Ley N.º 348 – TÍTULO V] Una autoridad indígena originaria campesina debe decidir qué directrices aplicar en un procedimiento por violencia. ¿Qué dispone el Artículo 87?
+A. Aplicar únicamente sus normas propias, sin sujeción a las directrices de procedimiento de la Ley N.º 348.
+B. Aplicar las directrices solo si el agresor no pertenece a la comunidad donde ejerce sus funciones.
+C. Aplicar las mismas directrices previstas para todo procedimiento administrativo, judicial e indígena originario campesino.
+D. Aplicar las directrices solo en los casos de feminicidio, dejando los demás a sus usos y costumbres.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «En todos los procedimientos administrativos, judiciales e indígena originario campesinos, se aplicarán las siguientes directrices: […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 87 (página impresa 50; página PDF 50).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Ley N.º 348 – TÍTULO V] Una mujer violentada solicita la intervención de una experta en género como tercero coadyuvante. ¿Qué decisión es coherente con el Artículo 99.I?
+A. Admitir la intervención, pues puede ser planteada de oficio, por el fiscal, por la mujer o solicitada por la experta.
+B. Rechazar la intervención, pues solo el juez puede plantear de oficio la participación del tercero coadyuvante, según la normativa.
+C. Admitir la intervención solo si el imputado consiente, pues afecta su derecho a la defensa en el proceso.
+D. Rechazar la intervención, pues el tercero coadyuvante solo procede en delitos de feminicidio y violación.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] Su participación podrá ser planteada de oficio, la o el fiscal, por la mujer en situación de violencia o solicitada por el o la experta».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 99, parágrafo I (página impresa 53; página PDF 53).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Ley N.º 348 – TÍTULO V] El Órgano Judicial planifica la mejora de los procesos por violencia. ¿Qué principios del Artículo 86 resultan centrales para una justicia rápida y sin revictimización?
+A. Escrituralidad, formalismo, publicidad plena y conciliación obligatoria previa, según la norma.
+B. Reserva absoluta, dilación justificada, prueba tasada y carga de la víctima.
+C. Dispositividad, impulso de parte, prueba escrita y suspensión del proceso.
+D. Celeridad, oralidad, inmediatez y continuidad, economía procesal y accesibilidad.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «2. Celeridad. […] 3. Oralidad. […] 6. Inmediatez y continuidad. […] 8. Economía procesal. […] 9. Accesibilidad. […]». Aplicación razonada: la planificación articula los principios orientados a la rapidez y la no revictimización.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 86 (páginas impresas 49-50; páginas PDF 49-50).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Ley N.º 348 – TÍTULO V] Para asegurar que los procedimientos culminen efectivamente, ¿qué directrices del Artículo 87 resultan estratégicamente fundamentales?
+A. La obligación de investigar, proseguir y procesar hasta lograr la sanción, y el seguimiento al cumplimiento de sanciones y terapias.
+B. La conciliación como vía preferente, y el archivo de los casos en que la víctima no impulse la investigación penal.
+C. La suspensión de los procesos en casos leves, y la sustitución de las sanciones por terapias para el agresor.
+D. El registro de denuncias sin seguimiento, y la remisión de todos los casos a la jurisdicción indígena.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «4. Obligación de investigar, proseguir y procesar hasta lograr la sanción de todos los hechos que constituyan violencia hacia las mujeres. […] 7. Seguimiento y verificación del cumplimiento de sanciones y terapias dispuestas por la autoridad competente».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 87, numerales 4 y 7 (página impresa 51; página PDF 51).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Ley N.º 348 – TÍTULO V] Para unificar el tratamiento de las denuncias en todas las instancias, ¿qué directriz del Artículo 87 debe incorporarse en la planificación institucional?
+A. La elaboración de un protocolo distinto por cada institución, según su propio criterio, por mandato legal.
+B. La aplicación de un protocolo único de recepción, registro y tramitación de la denuncia.
+C. La recepción de denuncias solo por escrito y con patrocinio de abogado particular.
+D. La tramitación de denuncias solo en las capitales, sin registro en el área rural.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «2. Aplicación de un protocolo único de recepción, registro y tramitación de la denuncia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 87, numeral 2 (página impresa 50; página PDF 50).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Ley N.º 348 – TÍTULO V] Un sistema educativo diseña su estrategia de protección del estudiantado. ¿Qué medida del Título V refuerza la exclusión de agresores sancionados de cargos en unidades educativas?
+A. La inhabilitación del Artículo 81 para quienes ejerzan ocupaciones de educación o cargos administrativos en unidades educativas.
+B. La detención de fin de semana del Artículo 78, que impide al condenado trabajar en unidades educativas de manera permanente, conforme a la Ley.
+C. La multa del Artículo 77, cuyos fondos se destinan a financiar la contratación de personal en las unidades educativas.
+D. El tercero coadyuvante del Artículo 99, que decide la permanencia de los docentes denunciados en sus cargos.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Podrá aplicarse la sanción inhabilitación cuando quien fuera sancionado por delitos de violencia hacia las mujeres ejerza una profesión u ocupación relacionada con la educación, cuidado y atención de personas […] cargo administrativo en universidades o unidades educativas […]». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como servidor público o persona que ejerce un cargo en una unidad educativa, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 81 (página impresa 41; página PDF 41).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Ley N.º 348 – TÍTULO V] Para garantizar que las víctimas no asuman costos en el sistema de justicia, ¿qué principio debe orientar la planificación presupuestaria de las reparticiones públicas?
+A. El principio de economía procesal, que reduce los costos del proceso trasladándolos a la víctima que lo inicia.
+B. El principio de celeridad, que permite cobrar aranceles adicionales por la atención prioritaria de los casos.
+C. El principio de publicidad, que financia los procesos mediante la venta de información sobre los casos.
+D. El principio de gratuidad, que exime a las mujeres en situación de violencia de valores, notificaciones, peritajes y otros costos.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Gratuidad. Las mujeres en situación de violencia estarán exentas del pago de valores, legalizaciones, notificaciones, formularios, testimonios, certificaciones, mandamientos, costos de remisión, exhortos, órdenes instruidas, peritajes y otros, en todas las reparticiones públicas».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 86, numeral 1 (página impresa 49; página PDF 49).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Ley N.º 348 – TÍTULO V] Un Gobierno Municipal planifica la gestión de los trabajos comunitarios impuestos como sanción. ¿Qué responsabilidades le asigna el Artículo 79?
+A. Definir libremente la duración de la sanción, sin límites mínimos ni máximos, y sin reporte a ninguna instancia, en el marco legal.
+B. Delegar la supervisión de los trabajos a la víctima, que informa al juzgado sobre el cumplimiento de la sanción.
+C. Asignar los trabajos en horario laboral habitual, sin supervisión municipal ni reporte al juzgado competente.
+D. Recibir los trabajos en su favor, en horarios no habituales, y supervisar y reportar su cumplimiento al juzgado y al SIPPASE.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El trabajo comunitario consiste en la prestación de trabajos en favor del Gobierno Autónomo Municipal, que se realizará en fines de semana, feriados y los días hábiles en horarios diferentes a los habituales […]. El Gobierno Autónomo Municipal deberá supervisar y reportar el cumplimiento de la sanción al juzgado competente y al SIPPASE».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 79 (página impresa 40; página PDF 40).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Ley N.º 348 – TÍTULO V] Para fortalecer la calidad de las decisiones judiciales en casos complejos de violencia, ¿qué mecanismo de participación experta prevé el Título V?
+A. El jurado popular, integrado por vecinos de la víctima, que decide la culpabilidad del agresor en el juicio.
+B. El tercero coadyuvante, que aporta argumentos especializados de trascendencia sin calidad de parte ni honorarios.
+C. La junta de conciliación, integrada por familiares de las partes, que propone acuerdos previos a la sentencia, conforme a norma.
+D. El consejo consultivo, integrado por abogados del imputado, que revisa la sentencia antes de su ejecutoria.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «I. En cualquier caso de violencia hacia las mujeres, podrá intervenir una persona física o jurídica, ajena a las partes, que cuente con reconocida experiencia o competencia sobre la cuestión debatida, a fin de que ofrezca argumentos especializados de trascendencia para la decisión del asunto […] II. […] no tendrán calidad de parte ni derecho a cobrar honorarios».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo III: Simplificación del procedimiento penal para delitos de violencia contra las mujeres. Art. 99 (página impresa 53; página PDF 53).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Ley N.º 348 – TÍTULO V] Para prevenir la reincidencia de condenados con libertad total o parcial, ¿qué herramienta del Artículo 82 puede integrarse en la estrategia de ejecución de sentencias?
+A. Un plan de escarmiento público, con instrucciones vejatorias que expongan al condenado ante la comunidad del lugar.
+B. Un plan de vigilancia privada, financiado por la víctima, que controle permanentemente la conducta del condenado.
+C. Un plan de reconciliación obligatoria, que exija al condenado convivir nuevamente con la mujer agredida.
+D. Un plan de conducta con instrucciones como no portar armas, abstenerse de alcohol y drogas, incorporarse a programas y aprender un oficio.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La autoridad judicial podrá aplicar un plan de conducta al condenado cuando le sean aplicadas sanciones alternativas que impliquen su libertad total o parcial […] Las instrucciones que se pueden imponer serán: 1. Prohibición de portar cualquier tipo de arma […] 3. Abstenerse de consumir drogas o alcohol; 4. Incorporarse a grupos o programas […] 5. Asistir a un centro educativo o aprender un oficio».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo I: Sanciones alternativas. Art. 82 (página impresa 41; página PDF 41).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Ley N.º 348 – TÍTULO V] Al diseñar una política de persecución penal del feminicidio, ¿qué circunstancias del Artículo 252 bis amplían el tipo penal más allá de la relación de pareja?
+A. Subordinación, dependencia, amistad o compañerismo; vulnerabilidad; violencia previa; trata; y ritos o prácticas culturales.
+B. Solo la relación conyugal actual con convivencia, sin incluir otras relaciones ni circunstancias de la víctima, conforme a la Ley.
+C. Solo la muerte producida con arma de fuego, en presencia de testigos y dentro del domicilio de la víctima.
+D. Solo la muerte de mujeres mayores de edad, con antecedentes de denuncia registrados en el SIPPASE.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «4. La víctima que se encuentre en una situación o relación de subordinación o dependencia respecto del autor, o tenga con éste una relación de amistad, laboral o de compañerismo; 5. La víctima se encuentre en una situación de vulnerabilidad; 6. Cuando con anterioridad al hecho de la muerte, la mujer haya sido víctima de violencia […] 8. Cuando la muerte sea conexa al delito de trata o tráfico de personas; 9. Cuando la muerte sea resultado de ritos, desafíos grupales o prácticas culturales».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 84, que incorpora el Art. 252 bis al Código Penal (páginas impresas 45-46; páginas PDF 45-46).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Ley N.º 348 – TÍTULO V] Para planificar la respuesta penal a la violencia sexual en contextos de ataques sistemáticos, ¿qué tipo penal del Artículo 84 resulta aplicable?
+A. Padecimientos sexuales (Art. 312 ter), con pena de quince a treinta años en el marco de un ataque generalizado o sistemático.
+B. Acoso sexual (Art. 312 quater), con pena de cuatro a ocho años por el uso de una posición jerárquica.
+C. Actos sexuales abusivos (Art. 312 bis), con pena de cuatro a seis años durante una relación consentida.
+D. Abuso sexual (Art. 312), con pena de seis a diez años por actos no constitutivos de penetración.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Será sancionada con pena privativa de libertad de quince (15) a treinta (30) años, quien en el marco de un ataque generalizado o sistemático contra una población o grupo humano, incurra en las siguientes acciones: 1. Someta a una o más personas a violación o cualquier forma de abuso sexual, humillaciones y ultrajes sexuales. 2. Someta a una o más personas a prostitución forzada. 3. Mantenga confinada a una mujer a la que se haya embarazado por la fuerza […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título V: Legislación penal, Capítulo II: Delitos de violencia contra las mujeres. Art. 84, que incorpora el Art. 312 ter al Código Penal (página impresa 47; página PDF 47).

@@ -10,6 +10,8 @@ Formato esperado del .docx (un párrafo por línea):
     Aplicación razonada. ...                  <- nota general, va al encabezado
     Referencia verificable. Documento, p. 24, párr. 4.   <- se usa como sustento
     —
+Si antes del enunciado hay "Dimensión: …" o "Modalidad: …", quedan como
+comentario sobre la pregunta (Modalidad «Aplicación razonada» marca la explicación).
 Lo que aparece antes de "Pregunta 1" y después de la última referencia se
 copia como comentario (#) al inicio del .txt.
 
@@ -37,6 +39,8 @@ NOTE_RE = re.compile(r"^Aplicaci[oó]n razonada\.\s*", re.I)
 REFERENCE_RE = re.compile(
     r"^(?:Tipo de sustento\s*:\s*(?P<kind>[^|]*?)\s*\|\s*)?Referencia(\s+verificable)?\s*[.:]\s*", re.I)
 REASONED_RE = re.compile(r"aplicaci[oó]n razonada", re.I)
+# Ficha antes del enunciado: "Dimensión: Conocimiento y memorización." / "Modalidad: Conceptual."
+META_RE = re.compile(r"^(Dimensi[oó]n|Modalidad)\s*:\s*(.+?)\.?$", re.I)
 
 
 def tidy_quotes(text):
@@ -67,7 +71,7 @@ def parse(lines):
         match = QUESTION_RE.match(line)
         if match:
             current = {"n": match.group(1), "stem": [], "options": [], "answer": None,
-                       "feedback": [], "legal": "", "done": False, "after": [],
+                       "feedback": [], "legal": "", "done": False, "after": [], "meta": [],
                        "reasoned": bool(match.group("kind") and REASONED_RE.search(match.group("kind")))}
             questions.append(current)
             continue
@@ -78,6 +82,11 @@ def parse(lines):
                 current["after"].append(line)
         elif ANSWER_RE.match(line):
             current["answer"] = ANSWER_RE.match(line).group(1).upper()
+        elif not current["stem"] and META_RE.match(line):
+            label, value = META_RE.match(line).groups()
+            current["meta"].append(f"{label.capitalize()}: {value}")
+            if REASONED_RE.search(value):
+                current["reasoned"] = True
         elif current["answer"] is None:
             option = OPTION_RE.match(line)
             expected = "ABCD"[len(current["options"])] if len(current["options"]) < 4 else None
@@ -142,6 +151,8 @@ def main():
                         + (q["options"][ord(q["answer"]) - 65] if q["answer"] and len(q["options"]) == 4 else ""))
             text.append("")
             continue
+        if q["meta"]:
+            text.append("# " + " · ".join(q["meta"]))
         text.append(f"{q['n']}. " + "\n\n".join(q["stem"]))
         text += [f"{letter}. {option}" for letter, option in zip("ABCD", q["options"])]
         text.append(f"Respuesta correcta: {q['answer']}")

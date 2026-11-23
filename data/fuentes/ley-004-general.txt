@@ -1,0 +1,1111 @@
+# Fuente: ley-004-general.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz» (31 de marzo de 2010)
+# Capítulos I al IV: Disposiciones generales, entidades de lucha contra la corrupción, delitos de corrupción y modificaciones normativas (Arts. 1 al 40)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar los Artículos 1 al 40 de la Ley N.º 004 en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto de la Ley proporcionado, sin incorporar fuentes externas, y su fundamentación transcribe textualmente el fragmento que respalda la respuesta correcta.
+# Criterios documentales aplicados
+# Alcance de la fuente. El banco cubre los Artículos 1 al 40 de la Ley N.º 004: Capítulo I, Disposiciones generales (Arts. 1 a 5); Capítulo II, De las entidades encargadas de la lucha contra la corrupción (Arts. 6 a 23); Capítulo III, Delitos de corrupción (Arts. 24 a 35, incluidos los artículos del Código Penal modificados o incorporados por el Art. 34); y Capítulo IV, Inclusiones y modificaciones al Código de Procedimiento Penal, Código Civil y Ley Orgánica del Ministerio Público (Arts. 36 a 40). En el PDF proporcionado ocupa las páginas 1 a 15. Las disposiciones derogatoria, transitorias y finales quedan fuera del alcance.
+# Página impresa. La edición proporcionada no numera sus páginas impresas; por eso cada referencia consigna «página impresa s/n» y la página del PDF en que se encuentra el texto citado.
+# Fundamentación textual. Cada fundamentación transcribe entre comillas el fragmento de la Ley que respalda la respuesta correcta. En las preguntas derivadas se añade una nota breve rotulada «Aplicación razonada», que distingue la inferencia del contenido textual.
+# Competencias directivas. La Ley no regula funciones ni atribuciones específicas del director de Unidad Educativa; en ese sentido estricto, la dimensión 3 está «No respaldada por el documento fuente». Sí lo alcanza como servidor público (Art. 5.I.1), sujeto a los tipos penales que protegen los bienes y recursos que administra: uso indebido de bienes y servicios públicos (Art. 26), beneficios en razón del cargo (Art. 147 CP), nombramientos ilegales (Art. 157 CP), concusión (Art. 151 CP), conducta antieconómica en cargos directivos (Art. 224 CP), omisión y falsedad en la declaración jurada de bienes y rentas (Arts. 149 CP y 33), además de la protección al denunciante (Art. 17) y la renuncia voluntaria al secreto bancario (Art. 20.II). Esas preguntas, y los casos que las aplican, llevan la nota «Aplicación razonada». No se atribuye al director la obligación de querellar del Art. 14, que corresponde a la máxima autoridad ejecutiva de la entidad afectada.
+# Cobertura y no duplicación. Las preguntas cubren los cuatro capítulos, con énfasis en los principios (Art. 4), el ámbito de aplicación (Art. 5), las entidades y mecanismos de investigación (Arts. 6 a 23), los nuevos tipos penales (Arts. 25 a 33), los delitos del Código Penal modificados (Art. 34) y las reglas procesales especiales (Arts. 36 a 38). Algunos artículos centrales (Arts. 4, 26, 34 y 36) se evalúan en varias preguntas con enfoques distintos; no hay preguntas repetidas ni con la misma respuesta y el mismo enfoque.
+# Etiqueta de trazabilidad. Cada enunciado inicia con el documento y el capítulo de procedencia, por ejemplo [Ley N.º 004 – CAPÍTULO III], para su integración en plataformas de simulación que combinan preguntas de varios documentos; el artículo exacto figura en la referencia.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 21 preguntas y la más corta en 3, por lo que la longitud no es una pista; las fórmulas de cierre («según la norma», «conforme a la Ley N.º 004», etc.) aparecen en proporción similar en alternativas correctas (66%) e incorrectas (68%).
+# 2. Distribución metodológica y ponderación
+# N.º
+# Tipo de evaluación
+# ¿Qué evalúa?
+# Preg.
+# Peso
+# N.º preg.
+# 1
+# Conocimiento y memorización
+# Conceptos, principios, definiciones y disposiciones fundamentales.
+# 5
+# 5%
+# 1–5
+# 2
+# Dominio conceptual
+# Comprensión de fundamentos, relaciones y planteamientos del documento.
+# 5
+# 5%
+# 6–10
+# 3
+# Competencias y responsabilidades directivas
+# Responsabilidades y atribuciones únicamente cuando estén respaldadas por la fuente (aquí: deberes y tipos penales aplicables a todo servidor público, con nota «Aplicación razonada»).
+# 10
+# 10%
+# 11–20
+# 4
+# Comprensión e interpretación
+# Interpretación de artículos, disposiciones y principios.
+# 10
+# 10%
+# 21–30
+# 5
+# Diferenciación conceptual
+# Distinción entre conceptos, delitos, procedimientos y disposiciones similares.
+# 5
+# 5%
+# 31–35
+# 6
+# Análisis crítico
+# Identificación de problemas, valoración de situaciones y argumentación fundamentada.
+# 10
+# 10%
+# 36–45
+# 7
+# Aplicación normativa
+# Aplicación de las disposiciones de la Ley a situaciones concretas.
+# 15
+# 15%
+# 46–60
+# 8
+# Resolución de casos prácticos
+# Solución razonada de situaciones institucionales contextualizadas.
+# 20
+# 20%
+# 61–80
+# 9
+# Toma de decisiones
+# Selección de alternativas pertinentes, responsables y fundamentadas.
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# Análisis de escenarios y decisiones orientadas a la gestión, sin atribuir competencias no contempladas en la fuente.
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–5)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta [Ley N.º 004 – CAPÍTULO …]; el capítulo y el artículo exactos figuran en la referencia.
+# Cada fundamentación transcribe el fragmento textual de la Ley y remite al artículo, parágrafo e inciso, con página impresa y página PDF.
+# Contenido limitado exclusivamente a los Artículos 1 al 40 de la Ley N.º 004; no se atribuyen al director de Unidad Educativa competencias que la fuente no contiene.
+
+CAPÍTULO: ley-004-general
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Ley N.º 004 – CAPÍTULO I] ¿En qué fecha se promulgó la Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz»?
+A. El 31 de marzo de 2010.
+B. El 29 de marzo de 2010.
+C. El 8 de octubre de 2010.
+D. El 31 de marzo de 2012.
+Respuesta correcta: A
+Explicación: «Ley Nº 004 LEY DE 31 DE MARZO DE 2010».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo I: Disposiciones generales. Encabezado (página impresa s/n; página PDF 1).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Ley N.º 004 – CAPÍTULO I] Según el Artículo 2, ¿cómo define la Ley N.º 004 la corrupción?
+A. Apropiación de dinero, valores o bienes del Estado por un servidor público, aprovechando el cargo que desempeña en la entidad, conforme a la Ley N.º 004.
+B. Incremento desproporcionado del patrimonio de un servidor público respecto de sus ingresos legítimos que no pueda justificarse, según lo previsto en la normativa de la Ley N.º 004.
+C. Uso de bienes del Estado con un fin distinto al cual se hallan destinados, en beneficio propio o de terceros, conforme a lo establecido en la Ley N.º 004.
+D. Requerimiento, aceptación, ofrecimiento u otorgamiento de objetos de valor o beneficios, a cambio de actos u omisiones que afecten los intereses del Estado, según la Ley.
+Respuesta correcta: D
+Explicación: «Es el requerimiento o la aceptación, el ofrecimiento u otorgamiento directo o indirecto, de un servidor público, de una persona natural o jurídica, nacional o extranjera, de cualquier objeto de valor pecuniario u otros beneficios como dádivas, favores, promesas o ventajas para sí mismo o para otra persona o entidad, a cambio de la acción u omisión de cualquier acto que afecte a los intereses del Estado».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo I: Disposiciones generales. Art. 2 (página impresa s/n; página PDF 1).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Ley N.º 004 – CAPÍTULO II] Según el Artículo 6.II, ¿quién preside el Consejo Nacional de Lucha contra la Corrupción, Enriquecimiento Ilícito y Legitimación de Ganancias Ilícitas?
+A. El Contralor General del Estado, como órgano rector del control gubernamental.
+B. El Fiscal General del Estado, como titular de la acción penal pública.
+C. El Titular del Ministerio de Transparencia Institucional y Lucha contra la Corrupción.
+D. El Procurador General del Estado, como defensor de los intereses del Estado.
+Respuesta correcta: C
+Explicación: «El Consejo Nacional de Lucha Contra la Corrupción, Enriquecimiento Ilícito y Legitimación de Ganancias Ilícitas, estará presidido por el Titular del Ministerio de Transparencia Institucional y Lucha Contra la Corrupción».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 6, parágrafo II (página impresa s/n; página PDF 3).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Ley N.º 004 – CAPÍTULO II] Según el Artículo 6.III, ¿con qué frecuencia mínima debe reunirse en forma ordinaria el Consejo Nacional?
+A. Por lo menos cuatro veces al año, según la Ley.
+B. Por lo menos dos veces al año, según la Ley.
+C. Por lo menos una vez al mes, según la Ley.
+D. Por lo menos seis veces al año, según la Ley.
+Respuesta correcta: A
+Explicación: «[…] deberá reunirse en forma ordinaria por lo menos cuatro veces al año y extraordinariamente a convocatoria de cuatro de sus miembros».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 6, parágrafo III (página impresa s/n; página PDF 3).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Ley N.º 004 – CAPÍTULO III] Según el Artículo 25, ¿cuál de los siguientes es uno de los nuevos tipos penales creados por la Ley N.º 004?
+A. Omisión de declaración de bienes y rentas, conforme a la Ley N.º 004.
+B. Negociaciones incompatibles con la función, según lo dispuesto en la Ley N.º 004.
+C. Incumplimiento de deberes del servidor, en el marco de la Ley N.º 004.
+D. Falsedad en la declaración jurada de bienes y rentas, por mandato legal.
+Respuesta correcta: D
+Explicación: «Se crean los siguientes tipos penales: 1) Uso indebido de bienes y servicios públicos; 2) Enriquecimiento ilícito; […] 7) Obstrucción de la justicia; y 8) Falsedad en la declaración jurada de bienes y rentas».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 25 (página impresa s/n; página PDF 7).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+6. [Ley N.º 004 – CAPÍTULO I] ¿Qué establece el principio «Ama Suwa (No seas ladrón)» del Artículo 4?
+A. Que la investigación y la administración de justicia en temas de lucha contra la corrupción tienen carácter gratuito para todas las personas, según lo dispuesto en la Ley N.º 004.
+B. Que todas las entidades de lucha contra la corrupción deben cooperarse mutuamente, intercambiando información sin restricción alguna, por mandato legal.
+C. Que toda persona debe velar por los bienes y patrimonio del Estado, protegiéndolos y custodiándolos como si fueran propios, en beneficio del bien común, conforme a norma.
+D. Que los recursos del Estado deben manejarse de manera visible por los servidores públicos y las personas que comprometan esos recursos, conforme a norma.
+Respuesta correcta: C
+Explicación: «Ama Suwa (No seas ladrón), Uhua’na machapi’tya (No robar). Toda persona nacional o extranjera debe velar por los bienes y patrimonio del Estado; tiene la obligación de protegerlos y custodiarlos como si fueran propios, en beneficio del bien común».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo I: Disposiciones generales. Art. 4 (página impresa s/n; página PDF 2).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+7. [Ley N.º 004 – CAPÍTULO I] ¿Cómo define el Artículo 4 el principio de transparencia?
+A. Como el comportamiento conforme a principios morales de servicio a la comunidad, reflejados en honestidad, integridad y probidad.
+B. Como la práctica y manejo visible de los recursos del Estado por servidores públicos y personas que presten servicios o comprometan recursos del Estado.
+C. Como la obligación de toda boliviana o boliviano de precautelar el patrimonio del Estado, denunciando todo acto de corrupción.
+D. Como el derecho de toda boliviana y boliviano a una pronta, efectiva y transparente administración de justicia en el país.
+Respuesta correcta: B
+Explicación: «Transparencia. Es la práctica y manejo visible de los recursos del Estado por las servidoras y servidores públicos, así como personas naturales y jurídicas, nacionales o extranjeras que presten servicios o comprometan recursos del Estado».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo I: Disposiciones generales. Art. 4 (página impresa s/n; página PDF 2).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+8. [Ley N.º 004 – CAPÍTULO I] Según el Artículo 3, ¿cuál es la finalidad de la Ley N.º 004?
+A. La prevención, acabar con la impunidad y la lucha contra la corrupción, y la recuperación y protección del patrimonio del Estado, con participación activa de la sociedad.
+B. La sanción exclusiva de los servidores públicos corruptos, sin participación de entidades privadas ni de la sociedad civil en el proceso, según lo dispuesto en la Ley N.º 004.
+C. La creación de un régimen disciplinario administrativo para los servidores públicos, en sustitución de la vía penal ordinaria del país, según la Ley.
+D. La regulación de las declaraciones juradas de bienes y rentas, como único mecanismo de control del patrimonio de los servidores, según la Ley N.º 004.
+Respuesta correcta: A
+Explicación: «La presente Ley tiene por finalidad la prevención, acabar con la impunidad en hechos de corrupción y la efectiva lucha contra la corrupción, recuperación y protección del patrimonio del Estado, con la participación activa de las entidades públicas, privadas y la sociedad civil».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo I: Disposiciones generales. Art. 3 (página impresa s/n; página PDF 1).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+9. [Ley N.º 004 – CAPÍTULO I] ¿Qué establece el principio de «Defensa del Patrimonio del Estado» del Artículo 4?
+A. La facultad exclusiva de la Procuraduría General del Estado de defender el patrimonio público, sin participación de otras personas, en el marco de la Ley N.º 004.
+B. La prohibición de que los particulares denuncien hechos de corrupción, reservada a las entidades encargadas de la lucha anticorrupción, según lo previsto en la normativa de la Ley N.º 004.
+C. La obligación constitucional de toda boliviana o boliviano de precautelar y resguardar el patrimonio del Estado, denunciando todo acto o hecho de corrupción, según la Ley N.º 004.
+D. La obligación de los servidores públicos de asegurar sus bienes personales, como garantía de su gestión ante el Estado, conforme a lo establecido en la Ley N.º 004.
+Respuesta correcta: C
+Explicación: «Defensa del Patrimonio del Estado. Se rige por la obligación constitucional que tiene toda boliviana o boliviano de precautelar y resguardar el patrimonio del Estado, denunciando todo acto o hecho de corrupción».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo I: Disposiciones generales. Art. 4 (página impresa s/n; página PDF 2).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+10. [Ley N.º 004 – CAPÍTULO II] Según el Artículo 9, ¿quiénes pueden participar del Control Social para prevenir y luchar contra la corrupción?
+A. Todos los actores sociales, de manera individual y/o colectiva, en el marco de la Ley N.º 004.
+B. Solo las organizaciones sociales con personería jurídica, según la Ley N.º 004.
+C. Solo los representantes acreditados ante el Consejo Nacional, conforme a norma.
+D. Solo los servidores públicos designados por cada entidad, según la Ley N.º 004.
+Respuesta correcta: A
+Explicación: «De conformidad con la Constitución Política del Estado, el Control Social será ejercido para prevenir y luchar contra la corrupción. Podrán participar del control social todos los actores sociales, de manera individual y/o colectiva».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 9 (página impresa s/n; página PDF 3).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+11. [Ley N.º 004 – CAPÍTULO I] Un director, como servidor público, pregunta si la Ley N.º 004 le alcanza. Según el Artículo 5, ¿qué corresponde?
+A. No, se aplica solo a las autoridades electas y a los ministros, excluyendo a los servidores del sistema educativo, en el marco de la Ley N.º 004.
+B. Sí, se aplica a servidores y ex servidores públicos de todos los niveles, sin reconocer inmunidad, fuero ni privilegio alguno, según la Ley.
+C. Solo mientras ejerza el cargo, pues la Ley no alcanza a los ex servidores públicos del Estado Plurinacional, según la norma.
+D. Solo si administra recursos superiores a un monto fijado por el Consejo Nacional de Lucha contra la Corrupción, según la Ley.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «I. La presente Ley se aplica a: 1) Los servidores y ex servidores públicos de todos los Órganos del Estado Plurinacional […] II. Esta Ley, de conformidad con la Constitución Política del Estado, no reconoce inmunidad, fuero o privilegio alguno, debiendo ser de aplicación preferente». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo I: Disposiciones generales. Art. 5 (página impresa s/n; página PDF 2).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+12. [Ley N.º 004 – CAPÍTULO III] Un director utiliza el vehículo asignado a la unidad educativa para fines particulares. Según el Artículo 26, ¿qué delito puede configurarse?
+A. Uso indebido de bienes y servicios públicos, con privación de libertad de uno a cuatro años, según la Ley.
+B. Peculado, con privación de libertad de cinco a diez años y multa de doscientos a quinientos días.
+C. Malversación, con privación de libertad de tres a ocho años y multa de cien a doscientos cincuenta días, según la Ley.
+D. Conducta antieconómica, con privación de libertad de tres a ocho años por mala administración.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La servidora pública o el servidor público que en beneficio propio o de terceros otorgue un fin distinto al cual se hallaren destinados bienes, derechos y acciones pertenecientes al Estado o a sus instituciones, a las cuales tenga acceso en el ejercicio de la función pública, será sancionado con privación de libertad de uno a cuatro años». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 26 (página impresa s/n; página PDF 7).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+13. [Ley N.º 004 – CAPÍTULO III] Un director acepta regalos de padres de familia en consideración a su cargo. ¿Qué delito tipifica el Artículo 147 del Código Penal, modificado por el Artículo 34?
+A. Concusión, con privación de libertad de tres a ocho años sin multa alguna, según la Ley.
+B. Exacciones, con privación de libertad de uno a cuatro años sin multa.
+C. Beneficios en razón del cargo, con privación de libertad de tres a ocho años y multa.
+D. Uso indebido de influencias, con privación de libertad de uno a tres años.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Artículo 147. (Beneficios en Razón del Cargo). La servidora o el servidor público o autoridad que en consideración a su cargo admitiere regalos u otros beneficios, será sancionado con privación de libertad de tres a ocho años y multa de cien a doscientos cincuenta días». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 147 del Código Penal (página impresa s/n; página PDF 9).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+14. [Ley N.º 004 – CAPÍTULO III] Un director designa en un cargo a una persona que no reúne las condiciones legales para su desempeño. ¿Qué delito tipifica el Artículo 157 del Código Penal, modificado por el Artículo 34?
+A. Nombramientos ilegales, con privación de libertad de uno a cuatro años y multa.
+B. Uso indebido de influencias, con privación de libertad de tres a ocho años.
+C. Resoluciones contrarias a la Constitución, con privación de cinco a diez años, según la Ley.
+D. Negociaciones incompatibles, con privación de libertad de cinco a diez años.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Artículo 157. (Nombramientos Ilegales). Será sancionado con privación de libertad de uno a cuatro años y multa de treinta a cien días, la servidora o el servidor público que propusiere en terna o nombrare para un cargo público a persona que no reuniere las condiciones legales para su desempeño». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 157 del Código Penal (página impresa s/n; página PDF 10).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+15. [Ley N.º 004 – CAPÍTULO III] Un director obligado por ley no presenta su declaración de bienes y rentas al tomar posesión del cargo. ¿Qué sanción prevé el Artículo 149 del Código Penal, modificado por el Artículo 34?
+A. Multa de treinta días, sin privación de libertad, según la Ley.
+B. Privación de libertad de uno a cuatro años, según la Ley.
+C. Multa de cincuenta a doscientos días, según la Ley.
+D. Inhabilitación para la función pública, según la Ley.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Artículo 149. (Omisión de Declaración de Bienes y Rentas). La servidora o el servidor público que conforme a la Ley estuviere obligado a declarar sus bienes y rentas a tiempo de tomar posesión o a tiempo de dejar su cargo y no lo hiciere, será sancionado con multa de treinta días». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 149 del Código Penal (página impresa s/n; página PDF 9).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+16. [Ley N.º 004 – CAPÍTULO III] Un director omite datos patrimoniales en su declaración jurada de bienes y rentas. ¿Qué delito tipifica el Artículo 33?
+A. Omisión de declaración de bienes y rentas, sancionada únicamente con multa de treinta días, conforme a lo establecido en la Ley N.º 004.
+B. Enriquecimiento ilícito, con privación de libertad de cinco a diez años e inhabilitación, conforme a la Ley N.º 004.
+C. Favorecimiento al enriquecimiento ilícito, con privación de libertad de tres a ocho años, conforme a la Ley N.º 004.
+D. Falsedad en la declaración jurada de bienes y rentas, con privación de libertad de uno a cuatro años y multa, conforme a norma.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El que falseare u omitiere insertar los datos económicos, financieros o patrimoniales, que la declaración jurada de bienes y rentas deba contener, incurrirá en privación de libertad de uno a cuatro años y multa de cincuenta a doscientos días». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 33 (página impresa s/n; página PDF 8).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+17. [Ley N.º 004 – CAPÍTULO III] Un director exige a los padres un pago no previsto legalmente, cuyo destino es su beneficio personal. ¿Qué delito tipifica el Artículo 151 del Código Penal, modificado por el Artículo 34?
+A. Exacciones, por exigir dinero en beneficio propio, según lo dispuesto en la Ley N.º 004.
+B. Malversación, por dar otro destino a los caudales, conforme a la Ley N.º 004.
+C. Peculado, por apropiarse de bienes bajo custodia, conforme a la Ley N.º 004.
+D. Concusión, por exigir dinero en beneficio propio, en el marco de la Ley N.º 004.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Artículo 151. (Concusión). La servidora o el servidor público o autoridad que con abuso de su condición o funciones, directa o indirectamente, exigiere u obtuviere dinero u otra ventaja ilegítima o en proporción superior a la fijada legalmente, en beneficio propio o de un tercero, será sancionado con privación de libertad de tres a ocho años». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 151 del Código Penal (página impresa s/n; página PDF 10).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+18. [Ley N.º 004 – CAPÍTULO II] Un director que conoce un hecho de corrupción teme represalias por denunciarlo. Según el Artículo 17.III, ¿qué garantía le ofrece la Ley?
+A. La Contraloría General asumirá la denuncia en su nombre, sin necesidad de identificarlo en ninguna etapa, conforme a la Ley N.º 004.
+B. El Consejo Nacional le otorgará inmunidad frente a cualquier proceso derivado de su propia gestión, según la Ley.
+C. El Ministerio de Transparencia guardará reserva de la identidad de los servidores públicos que denuncien hechos de corrupción.
+D. El Ministerio Público publicará su identidad para garantizar la transparencia de todo el proceso, según la norma.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «III. El Ministerio de Transparencia Institucional y Lucha Contra la Corrupción, guardará reserva de la identidad de las personas particulares y servidoras o servidores públicos que denuncien hechos y/o delitos de corrupción y guardará en reserva la documentación presentada, recolectada y generada durante el cumplimiento de sus funciones». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 17, parágrafo III (página impresa s/n; página PDF 5).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+19. [Ley N.º 004 – CAPÍTULO III] Un director, en ejercicio de un cargo directivo, causa por mala administración daños al patrimonio de la institución estatal. ¿Qué delito tipifica el Artículo 224 del Código Penal, modificado por el Artículo 34?
+A. Contratos lesivos al Estado, sin pena distinta por culpa, según la Ley.
+B. Conducta antieconómica, con pena menor si actuare culposamente.
+C. Malversación, con agravante si hubo culpa del servidor, según la Ley.
+D. Peculado, con atenuante si actuare culposamente, según la Ley.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Artículo 224. (Conducta Antieconómica). La servidora o el servidor público o el que hallándose en el ejercicio de cargos directivos u otros de responsabilidad, en instituciones o empresas estatales, causare por mala administración, dirección técnica o por cualquier otra causa, daños al patrimonio de ellas o a los intereses del Estado, será sancionado con privación de libertad de tres a ocho años. Si actuare culposamente, será sancionado con privación de libertad de uno a cuatro años». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 224 del Código Penal (página impresa s/n; página PDF 12).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+20. [Ley N.º 004 – CAPÍTULO II] Un director quiere renunciar voluntariamente al secreto bancario durante su gestión. Según el Artículo 20.II, ¿qué dispone la Ley?
+A. Que puede renunciar voluntariamente y que la renuncia queda sin efecto al concluir sus funciones.
+B. Que no puede renunciar, porque el secreto bancario es irrenunciable para todos los servidores públicos.
+C. Que la renuncia es obligatoria y permanece vigente aun después de concluir sus funciones en el cargo.
+D. Que puede renunciar solo con autorización judicial previa, que se mantiene por cinco años adicionales.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «II. Los servidores públicos podrán renunciar de manera voluntaria al secreto bancario. La renuncia efectuada quedará sin efecto cuando el servidor público concluya sus funciones». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 20, parágrafo II (página impresa s/n; página PDF 5).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+21. [Ley N.º 004 – CAPÍTULO I] ¿Qué implica que, según el Artículo 5.II, la Ley N.º 004 sea «de aplicación preferente»?
+A. Que, sin reconocer inmunidad, fuero ni privilegio, se aplica con prioridad en la lucha contra la corrupción, de conformidad con la Constitución, según la Ley N.º 004.
+B. Que se aplica solo cuando no exista otra norma especial, de manera supletoria respecto de las leyes sectoriales vigentes, según lo previsto en la normativa de la Ley N.º 004.
+C. Que se aplica preferentemente a los particulares, y solo de manera excepcional a las autoridades con fuero especial, en el marco de la Ley N.º 004.
+D. Que se aplica con preferencia a la Constitución Política del Estado, en todos los casos de corrupción en el país, según lo dispuesto en la Ley N.º 004.
+Respuesta correcta: A
+Explicación: «II. Esta Ley, de conformidad con la Constitución Política del Estado, no reconoce inmunidad, fuero o privilegio alguno, debiendo ser de aplicación preferente». Aplicación razonada: la preferencia opera «de conformidad con la Constitución», no sobre ella.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo I: Disposiciones generales. Art. 5, parágrafo II (página impresa s/n; página PDF 2).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+22. [Ley N.º 004 – CAPÍTULO III] Según el Artículo 105 del Código Penal, modificado por el Artículo 34, ¿qué ocurre con la prescripción de la pena en delitos de corrupción?
+A. Procede en diez años desde la sentencia, según la Ley.
+B. Procede en siete años si la pena es menor, según la Ley.
+C. No procede bajo ninguna circunstancia, por mandato legal.
+D. Procede en cinco años para las demás penas, conforme a norma.
+Respuesta correcta: C
+Explicación: «No procederá la prescripción de la pena, bajo ninguna circunstancia, en delitos de corrupción».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 105 del Código Penal (página impresa s/n; página PDF 9).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+23. [Ley N.º 004 – CAPÍTULO IV] Según el Artículo 29 Bis del CPP, incluido por el Artículo 36, ¿qué delitos son imprescriptibles?
+A. Todos los delitos cometidos por particulares que hayan contratado con el Estado, cualquiera sea el daño causado, por mandato legal.
+B. Solo los delitos de enriquecimiento ilícito de particulares que afecten el patrimonio del Estado en forma leve.
+C. Los cometidos por servidores públicos que atenten contra el patrimonio del Estado y causen grave daño económico, según la norma.
+D. Los cometidos por servidores públicos en el ejercicio de funciones, aunque no causen daño económico al Estado.
+Respuesta correcta: C
+Explicación: «Artículo 29 Bis. (Imprescriptibilidad). De conformidad con el Articulo 112 de la Constitución Política del Estado, los delitos cometidos por servidoras o servidores públicos que atenten contra el patrimonio del Estado y causen grave daño económico, son imprescriptibles y no admiten régimen de inmunidad».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo IV: Inclusiones y modificaciones al Código de Procedimiento Penal, Código Civil y Ley Orgánica del Ministerio Público. Art. 36, Art. 29 Bis del Código de Procedimiento Penal (página impresa s/n; página PDF 13).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+24. [Ley N.º 004 – CAPÍTULO II] Según el Artículo 19, ¿qué implica la exención de secreto o confidencialidad cuando la UIF, el Ministerio de Transparencia, el Ministerio Público o la Procuraduría requieren información?
+A. Que la información puede obtenerse solo con orden judicial previa, y puede usarse para cualquier fin de interés público, conforme a la Ley N.º 004.
+B. Que la información se obtiene sin orden judicial, requerimiento fiscal ni trámite previo, y solo puede usarse para investigar delitos de corrupción, conforme a norma.
+C. Que la información se obtiene sin trámite previo, y puede publicarse libremente durante la fase de análisis e investigación, conforme a lo establecido en la Ley N.º 004.
+D. Que la información puede negarse invocando secreto tributario, salvo que el titular autorice expresamente su entrega, conforme a la Ley N.º 004.
+Respuesta correcta: B
+Explicación: «I. No se podrá invocar secreto o confidencialidad en materia de valores y seguros, comercial, tributario y económico cuando […] requieran información para el cumplimiento de sus funciones; esta información será obtenida sin necesidad de orden judicial, requerimiento fiscal ni trámite previo alguno. II. La información obtenida sólo podrá ser utilizada a objeto de investigar delitos de corrupción y vinculados […]».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 19 (página impresa s/n; página PDF 5).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+25. [Ley N.º 004 – CAPÍTULO II] Según el Artículo 22, ¿qué ocurre con la información obtenida por la Unidad de Investigaciones Financieras en la fase de análisis e investigación?
+A. Debe publicarse para garantizar la transparencia, según lo dispuesto en la Ley N.º 004.
+B. No puede ser compartida ni publicada en esa fase, en el marco de la Ley N.º 004.
+C. Puede compartirse libremente con los medios, en el marco de la Ley N.º 004.
+D. Debe entregarse al investigado para su defensa, conforme a la Ley N.º 004.
+Respuesta correcta: B
+Explicación: «I. La información obtenida por la Unidad de Investigaciones Financieras, no podrá ser compartida ni publicada en la fase de análisis e investigación».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 22, parágrafo I (página impresa s/n; página PDF 6).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+26. [Ley N.º 004 – CAPÍTULO II] ¿Qué implica el Artículo 10 al enumerar los derechos y atribuciones del Control Social «de manera enunciativa pero no limitativa»?
+A. Que el Control Social solo puede ejercer las tres atribuciones expresamente enumeradas en el artículo, sin otras.
+B. Que las atribuciones enumeradas son meras sugerencias sin efecto jurídico para las autoridades competentes.
+C. Que los derechos enumerados (denunciar corrupción y falta de transparencia, coadyuvar en procesos) no agotan sus atribuciones.
+D. Que el Control Social puede sustituir a los fiscales en la acusación de los delitos de corrupción en todo caso.
+Respuesta correcta: C
+Explicación: «De manera enunciativa pero no limitativa, son derechos y atribuciones del Control Social: a) Identificar y denunciar hechos de corrupción ante autoridades competentes. b) Identificar y denunciar la falta de transparencia ante las autoridades competentes. c) Coadyuvar en los procesos administrativos y judiciales, por hechos y delitos de corrupción». Aplicación razonada: la fórmula indica una lista abierta.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 10 (página impresa s/n; página PDF 4).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+27. [Ley N.º 004 – CAPÍTULO III] Según el Artículo 185 Bis del Código Penal, modificado por el Artículo 34, ¿qué carácter tiene el delito de legitimación de ganancias ilícitas?
+A. Es accesorio y requiere sentencia condenatoria previa por el delito del cual provienen las ganancias ilícitas, según la Ley N.º 004.
+B. Es autónomo y se investiga y sentencia sin necesidad de sentencia condenatoria previa por el delito precedente, conforme a norma.
+C. Es de acción privada y solo puede perseguirse a instancia de la víctima directa del delito precedente, según la Ley.
+D. Es aplicable solo si el delito precedente se cometió íntegramente en territorio boliviano y no en otro país.
+Respuesta correcta: B
+Explicación: «Se ratifica que el delito de la legitimación de ganancias ilícitas es autónomo y será investigado, enjuiciado y sentenciado sin necesidad de sentencia condenatoria previa, respecto a los delitos mencionados en el primer párrafo».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 185 Bis del Código Penal (página impresa s/n; página PDF 11).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+28. [Ley N.º 004 – CAPÍTULO II] Según el Artículo 17.IV, ¿qué sucede con la reserva de identidad del denunciante si se pronuncia sentencia absolutoria ejecutoriada conforme al Art. 363 inc. 3) del CPP?
+A. Se mantiene de forma permanente, sin posibilidad de levantarla en ningún caso ni a solicitud de la parte interesada.
+B. Se levanta de oficio de inmediato por el Ministerio de Transparencia, sin necesidad de solicitud de la parte interesada.
+C. Se levanta solo si el denunciante lo autoriza por escrito ante el Consejo Nacional de Lucha contra la Corrupción.
+D. A solicitud de parte, la instancia que conoció inicialmente el proceso la levanta en un plazo máximo de 72 horas, conforme a norma.
+Respuesta correcta: D
+Explicación: «IV. En caso de pronunciarse sentencia absolutoria, conforme el inc. 3) del Artículo 363 del Código de Procedimiento Penal, ejecutoriada la misma, la instancia jurisdiccional que tomó conocimiento inicial del proceso, a solicitud de la parte interesada levantará la reserva de identidad en el plazo máximo de 72 horas […]».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 17, parágrafo IV (página impresa s/n; página PDF 5).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+29. [Ley N.º 004 – CAPÍTULO IV] Según el Artículo 38, ¿qué régimen procesal rige la investigación y juzgamiento de los delitos de corrupción?
+A. El Código de Procedimiento Penal, en todo lo que no contravenga lo dispuesto en la Ley N.º 004, conforme a norma.
+B. Un procedimiento especial creado por el Consejo Nacional, que sustituye al Código de Procedimiento Penal.
+C. El procedimiento administrativo de cada entidad afectada, con apelación ante la jurisdicción penal ordinaria, según la Ley.
+D. El Código de Procedimiento Civil, por tratarse de la recuperación del patrimonio afectado del Estado.
+Respuesta correcta: A
+Explicación: «Los delitos de corrupción se acogerán en su procedimiento de investigación y juzgamiento a lo establecido en el Código de Procedimiento Penal, en todo lo que no contravenga a lo dispuesto en esta Ley».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo IV: Inclusiones y modificaciones al Código de Procedimiento Penal, Código Civil y Ley Orgánica del Ministerio Público. Art. 38 (página impresa s/n; página PDF 14).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+30. [Ley N.º 004 – CAPÍTULO IV] Según el Artículo 1502.6) del Código Civil, modificado por el Artículo 39, ¿qué ocurre con la prescripción de las deudas por daños económicos causados al Estado?
+A. La prescripción corre en diez años desde el daño.
+B. La prescripción no corre en cuanto a esas deudas.
+C. La prescripción corre desde que cesan las funciones.
+D. La prescripción se suspende solo entre cónyuges.
+Respuesta correcta: B
+Explicación: «Artículo 1502. (Excepciones). La prescripción no corre: […] 6) En cuanto a las deudas por daños económicos causados al Estado».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo IV: Inclusiones y modificaciones al Código de Procedimiento Penal, Código Civil y Ley Orgánica del Ministerio Público. Art. 39, Art. 1502 del Código Civil (página impresa s/n; página PDF 14).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+31. [Ley N.º 004 – CAPÍTULO III] ¿Qué distingue el peculado (Art. 142 CP) de la malversación (Art. 144 CP), según el Artículo 34?
+A. En el peculado el servidor se apropia de bienes a su cargo; en la malversación da a los caudales una aplicación distinta de la que estaban destinados, por mandato legal.
+B. En el peculado da a los caudales una aplicación distinta; en la malversación se apropia de los bienes de cuya custodia se halla encargado, según lo dispuesto en la Ley N.º 004.
+C. En el peculado admite regalos en consideración a su cargo; en la malversación obtiene ventajas usando indebidamente sus influencias, conforme a norma.
+D. En el peculado exige dinero en beneficio propio; en la malversación exige dinero en beneficio de la administración pública, conforme a la Ley N.º 004.
+Respuesta correcta: A
+Explicación: «Artículo 142. (Peculado). La servidora o el servidor público que aprovechando del cargo que desempeña se apropiare de dinero, valores o bienes de cuya administración, cobro o custodia se hallare encargado […]. Artículo 144. (Malversación). La servidora o el servidor público que diere a los caudales que administra, percibe o custodia, una aplicación distinta de aquella a que estuvieren destinados […]».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Arts. 142 y 144 del Código Penal (página impresa s/n; página PDF 9).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+32. [Ley N.º 004 – CAPÍTULO III] ¿Qué distingue la concusión (Art. 151 CP) de las exacciones (Art. 152 CP), según el Artículo 34?
+A. En la concusión lo exigido es para la administración pública; en las exacciones, en beneficio propio o de un tercero, según la Ley N.º 004.
+B. En la concusión el autor es un particular; en las exacciones el autor es siempre una autoridad judicial o un fiscal, según la Ley N.º 004.
+C. En la concusión se requiere violencia; en las exacciones la violencia excluye la configuración del delito, según lo dispuesto en la Ley N.º 004.
+D. En la concusión lo exigido es en beneficio propio o de un tercero; en las exacciones, para convertirlo en beneficio de la administración pública, conforme a norma.
+Respuesta correcta: D
+Explicación: «Artículo 151. (Concusión). […] exigiere u obtuviere dinero u otra ventaja ilegítima o en proporción superior a la fijada legalmente, en beneficio propio o de un tercero […]. Artículo 152. (Exacciones). La servidora o el servidor público que exigiere u obtuviere las exacciones expresadas en el artículo anterior para convertirlas en beneficio de la administración pública […]».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Arts. 151 y 152 del Código Penal (página impresa s/n; página PDF 10).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+33. [Ley N.º 004 – CAPÍTULO III] ¿Qué diferencia existe entre el enriquecimiento ilícito (Art. 27) y el favorecimiento al enriquecimiento ilícito (Art. 29)?
+A. El primero lo comete el servidor que incrementa injustificadamente su patrimonio; el segundo, quien facilita su nombre o participa para ocultarlo, según la norma.
+B. El primero lo comete quien facilita su nombre para ocultar el patrimonio; el segundo, el servidor que lo incrementa sin justificación, en el marco de la Ley N.º 004.
+C. El primero lo comete la persona natural en actividad privada; el segundo, el funcionario público extranjero que acepta beneficios.
+D. El primero se sanciona solo con multa; el segundo, con privación de libertad de cinco a diez años e inhabilitación, conforme a la Ley N.º 004.
+Respuesta correcta: A
+Explicación: «Artículo 27. […] La servidora pública o servidor público, que hubiere incrementado desproporcionadamente su patrimonio respecto de sus ingresos legítimos y que no pueda ser justificado […]. Artículo 29. […] El que con la finalidad de ocultar, disimular o legitimar el incremento patrimonial previsto en los artículos precedentes, facilitare su nombre o participare en actividades económicas, financieras y comerciales […]».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Arts. 27 (página impresa s/n; página PDF 7) y 29 (página impresa s/n; página PDF 8).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+34. [Ley N.º 004 – CAPÍTULO III] ¿Qué distingue el cohecho activo transnacional (Art. 30) del cohecho pasivo transnacional (Art. 31)?
+A. El activo lo comete el funcionario extranjero que acepta beneficios; el pasivo, quien se los promete u otorga, según lo previsto en la normativa de la Ley N.º 004.
+B. El activo lo comete un juez boliviano que acepta dádivas; el pasivo, un fiscal que demora una resolución, según lo dispuesto en la Ley N.º 004.
+C. El activo lo comete quien ofrece beneficios a un funcionario extranjero; el pasivo, el funcionario extranjero que los solicita o acepta, conforme a norma.
+D. El activo se sanciona con multa; el pasivo, con privación de libertad de cinco a diez años sin multa, según lo dispuesto en la Ley N.º 004.
+Respuesta correcta: C
+Explicación: «Artículo 30. (Cohecho Activo Transnacional). El que prometiere, ofreciere u otorgare en forma directa o indirecta, a un funcionario público extranjero […]. Artículo 31. (Cohecho Pasivo Transnacional). El funcionario público extranjero o funcionario de una organización internacional pública que solicitare o aceptare en forma directa o indirecta un beneficio indebido […]».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Arts. 30 y 31 (página impresa s/n; página PDF 8).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+35. [Ley N.º 004 – CAPÍTULO III] ¿Qué distingue a los delitos de corrupción de los delitos vinculados con corrupción, según el Artículo 24?
+A. Los de corrupción solo los cometen particulares; los vinculados solo los cometen servidores públicos en funciones.
+B. Los de corrupción se rigen por el Código Civil; los vinculados, exclusivamente por el Código de Procedimiento Penal, según la Ley.
+C. Los de corrupción son imprescriptibles; los vinculados prescriben siempre en cinco años desde su comisión.
+D. Ambos se sistematizan por artículos del Código Penal; por ejemplo, el 142 es de corrupción y el 132 bis es vinculado.
+Respuesta correcta: D
+Explicación: «[…] se consideran delitos de corrupción los contenidos en los siguientes Artículos del Código Penal: 142, 144, 145 […]. Son considerados delitos vinculados con corrupción, los contenidos en los siguientes Artículos del Código Penal: 132, 132 bis, 143, 150 bis, 153, 154, 177, 185 bis, 228, 228 bis, 229 y 230».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 24 (página impresa s/n; página PDF 7).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+36. [Ley N.º 004 – CAPÍTULO II] La máxima autoridad ejecutiva de una entidad afectada por un delito de corrupción decide no constituirse en parte querellante. ¿Qué análisis corresponde?
+A. Actúa válidamente, porque la querella es facultativa y depende de la decisión de la máxima autoridad, conforme a la Ley N.º 004.
+B. Actúa válidamente si delega la acción en el Control Social, que asume la querella en su nombre, según la Ley.
+C. Incurre solo en una falta administrativa, sin consecuencias penales por la omisión de la querella, según la Ley.
+D. Incurre en el delito de incumplimiento de deberes y otros que correspondan, pues la querella es obligatoria, según la Ley.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La máxima autoridad ejecutiva de la entidad afectada o las autoridades llamadas por Ley, deberán constituirse obligatoriamente en parte querellante de los delitos de corrupción y vinculados, una vez conocidos éstos […]. Su omisión importará incurrir en el delito de incumplimiento de deberes y otros que correspondan […]». Aplicación razonada: la omisión descrita activa la consecuencia del Art. 14.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 14 (página impresa s/n; página PDF 4).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+37. [Ley N.º 004 – CAPÍTULO II] Una entidad niega información tributaria a la UIF alegando «secreto tributario» y exige orden judicial. ¿Qué análisis corresponde?
+A. Es correcto: el secreto tributario solo puede levantarse mediante orden judicial expresa y fundamentada, según lo dispuesto en la Ley N.º 004.
+B. Es improcedente: no puede invocarse secreto tributario, y la información se obtiene sin orden judicial ni trámite previo, conforme a norma.
+C. Es correcto: la UIF solo puede pedir información financiera, no tributaria, para sus investigaciones, por mandato legal.
+D. Es improcedente solo si la entidad es privada, pues las públicas pueden invocar el secreto tributario, conforme a norma.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «I. No se podrá invocar secreto o confidencialidad en materia de valores y seguros, comercial, tributario y económico cuando la Unidad de Investigaciones Financieras […] requieran información para el cumplimiento de sus funciones; esta información será obtenida sin necesidad de orden judicial, requerimiento fiscal ni trámite previo alguno». Aplicación razonada: la negativa contradice el Art. 19.I.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 19, parágrafo I (página impresa s/n; página PDF 5).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+38. [Ley N.º 004 – CAPÍTULO IV] Un servidor pide al tribunal la suspensión condicional de la pena de dos años impuesta por un delito de corrupción, por ser su primera condena. ¿Qué análisis corresponde?
+A. Es improcedente, porque la suspensión condicional de la pena no procede en delitos de corrupción, conforme a la Ley N.º 004.
+B. Es procedente, porque la pena no excede de tres años y no tiene condena anterior por delito doloso, en el marco de la Ley N.º 004.
+C. Es procedente si repara el daño económico causado al Estado antes de la ejecutoria de la sentencia, según la Ley.
+D. Es improcedente solo si la pena supera los dos años, umbral para delitos de corrupción en la Ley, según la norma.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Artículo 366. (Suspensión Condicional de la Pena). […] La suspensión condicional de la pena no procede en delitos de corrupción». Aplicación razonada: aunque concurran los requisitos generales, la exclusión expresa prevalece.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo IV: Inclusiones y modificaciones al Código de Procedimiento Penal, Código Civil y Ley Orgánica del Ministerio Público. Art. 37, Art. 366 del Código de Procedimiento Penal (página impresa s/n; página PDF 14).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+39. [Ley N.º 004 – CAPÍTULO IV] Un condenado por un primer delito de corrupción a pena de un año solicita el perdón judicial. ¿Qué análisis corresponde?
+A. Procede, porque la pena no supera los dos años y es su primer delito, según la norma.
+B. Procede si la víctima institucional lo acepta en audiencia pública.
+C. Procede solo si el condenado restituye los bienes en diez días, según la Ley.
+D. No procede bajo ninguna circunstancia en delitos de corrupción, conforme a norma.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Artículo 368. (Perdón Judicial). […] No procederá el perdón judicial, bajo ninguna circunstancia, en delitos de corrupción». Aplicación razonada: la exclusión expresa impide el beneficio.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo IV: Inclusiones y modificaciones al Código de Procedimiento Penal, Código Civil y Ley Orgánica del Ministerio Público. Art. 37, Art. 368 del Código de Procedimiento Penal (página impresa s/n; página PDF 14).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+40. [Ley N.º 004 – CAPÍTULO IV] Un imputado por corrupción no comparece al juicio oral y se pretende suspender el juicio respecto de él. ¿Qué análisis corresponde?
+A. Es correcto: la rebeldía suspende el juicio respecto del rebelde hasta que sea aprehendido, por mandato legal.
+B. Es correcto: la rebeldía extingue la acción penal respecto del imputado que no comparece, según la Ley N.º 004.
+C. Es incorrecto: se lo declara rebelde y el juicio prosigue en su ausencia, con defensor de oficio, conforme a la Ley N.º 004.
+D. Es incorrecto solo si existen otros imputados presentes; si es único, el juicio se suspende, según lo dispuesto en la Ley N.º 004.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Artículo 344 Bis. […] En caso de constatarse la incomparecencia del imputado por delitos de corrupción, se lo declarará rebelde y se señalará nuevo día de audiencia de juicio oral para su celebración en su ausencia, con la participación de su defensor de oficio […]». Aplicación razonada: la regla especial desplaza la suspensión general del juicio.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo IV: Inclusiones y modificaciones al Código de Procedimiento Penal, Código Civil y Ley Orgánica del Ministerio Público. Art. 36, Art. 344 Bis del Código de Procedimiento Penal (página impresa s/n; página PDF 14).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+41. [Ley N.º 004 – CAPÍTULO III] Un servidor intimida a un testigo para que no declare en un proceso por corrupción. ¿Qué análisis corresponde?
+A. Configura incumplimiento de deberes, con privación de libertad de uno a cuatro años, según la Ley.
+B. Configura uso indebido de influencias, con privación de libertad de tres a ocho años, en el marco de la Ley N.º 004.
+C. No configura delito, porque el testigo puede negarse a declarar por voluntad propia, según la Ley.
+D. Configura obstrucción de la justicia, con privación de libertad de tres a ocho años y multa, por mandato legal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El que utilice fuerza física, amenazas, intimidación, promesas, ofrecimiento o la concesión de un beneficio indebido para inducir a una persona a prestar falso testimonio u obstaculizar la prestación de testimonio o la aportación de pruebas en procesos por delitos de corrupción, será sancionado con privación de libertad de tres a ocho años y multa de treinta a quinientos días». Aplicación razonada: la intimidación para impedir el testimonio encaja en el Art. 32.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 32 (página impresa s/n; página PDF 8).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+42. [Ley N.º 004 – CAPÍTULO III] Un servidor cuyo patrimonio creció desproporcionadamente frente a sus ingresos legítimos no logra justificarlo. ¿Qué análisis corresponde?
+A. Solo configura una falta administrativa, sancionada con multa de treinta días por la entidad empleadora, según la Ley.
+B. No configura delito, porque la Ley exige probar el origen ilícito concreto de cada uno de los bienes.
+C. Configura favorecimiento al enriquecimiento ilícito, porque el servidor facilitó su propio nombre.
+D. Puede configurar enriquecimiento ilícito, con privación de libertad, inhabilitación, multa y decomiso de bienes.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La servidora pública o servidor público, que hubiere incrementado desproporcionadamente su patrimonio respecto de sus ingresos legítimos y que no pueda ser justificado, será sancionado con privación de libertad de cinco a diez años, inhabilitación para el ejercicio de la función pública y/o cargos electos, multa de doscientos hasta quinientos días y el decomiso de los bienes obtenidos ilegalmente». Aplicación razonada: concurren el incremento desproporcionado y la falta de justificación.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 27 (página impresa s/n; página PDF 7).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+43. [Ley N.º 004 – CAPÍTULO III] Un servidor celebra culposamente un contrato en perjuicio del Estado. ¿Qué análisis corresponde según el Artículo 221 del Código Penal, modificado por el Artículo 34?
+A. Se configura contratos lesivos al Estado, con privación de libertad de uno a cuatro años por actuar culposamente.
+B. No hay delito, porque los contratos lesivos solo se sancionan cuando se celebran a sabiendas del perjuicio.
+C. Se configura contratos lesivos con la misma pena de cinco a diez años, sin distinguir entre dolo y culpa.
+D. Se configura incumplimiento de contratos, con privación de libertad de tres a ocho años por culpa grave.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Artículo 221. (Contratos Lesivos al Estado). La servidora o el servidor público que a sabiendas celebrare contratos en perjuicio del Estado […] será sancionado con privación de libertad de cinco a diez años. En caso de que actuare culposamente, la pena será de privación de libertad de uno a cuatro años». Aplicación razonada: la conducta culposa tiene pena propia en el Art. 221.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 221 del Código Penal (página impresa s/n; página PDF 12).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+44. [Ley N.º 004 – CAPÍTULO III] Un servidor revela en beneficio propio datos reservados de política económica que conoce por su cargo. ¿Qué análisis corresponde?
+A. Configura infidencia económica, con la sanción de uno a cuatro años agravada en un tercio por usarlos en beneficio propio, según la norma.
+B. Configura infidencia económica con pena rebajada en un tercio, porque la revelación fue en beneficio propio, según lo dispuesto en la Ley N.º 004.
+C. Configura concusión, porque el servidor obtuvo una ventaja ilegítima con abuso de sus funciones públicas, por mandato legal.
+D. No configura delito, porque la información económica es pública y no está sujeta a reserva alguna, conforme a la Ley N.º 004.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «ARTÍCULO 225. (Infidencia Económica). […] relativos a la política económica y los revelare, será sancionado con privación de libertad de uno a cuatro años. Incurrirá en la misma sanción, agravada en un tercio, la servidora o el servidor público o el que en las condiciones anteriores usare o revelare dichos datos o noticias en beneficio propio o de terceros». Aplicación razonada: el uso en beneficio propio activa la agravante.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 225 del Código Penal (página impresa s/n; página PDF 12).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+45. [Ley N.º 004 – CAPÍTULO III] Un instigador de un delito de peculado denuncia voluntariamente el hecho y colabora en la investigación. ¿Qué análisis corresponde?
+A. Queda exento de toda pena, por haber denunciado voluntariamente el hecho, conforme a la Ley N.º 004.
+B. Se beneficia con la reducción de dos tercios de la pena que le correspondiere, conforme a la Ley N.º 004.
+C. Se beneficia con la reducción de la mitad de la pena que le correspondiere, según lo dispuesto en la Ley N.º 004.
+D. No obtiene beneficio, porque la denuncia voluntaria solo favorece al autor, según la Ley N.º 004.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Toda persona que hubiere participado o participe como instigador, cómplice o encubridor, que voluntariamente denuncie y colabore en la investigación y juzgamiento de los delitos sistematizados en los Artículos 24 y 25 de la presente Ley, se beneficiará con la reducción de dos tercios de la pena que le correspondiere». Aplicación razonada: el peculado (Art. 142 CP) está sistematizado en el Art. 24.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 35 (página impresa s/n; página PDF 13).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+46. [Ley N.º 004 – CAPÍTULO I] Una empresa privada que no es servidora pública causa daño económico al Estado mediante un delito de corrupción. Según el Artículo 5.I.5, ¿le alcanza la Ley?
+A. No, la Ley se aplica solo a servidores y ex servidores públicos, sin alcanzar a personas privadas, conforme a norma.
+B. Solo si la empresa tiene participación patrimonial del Estado, conforme al numeral 4 del Artículo 5, según la norma.
+C. Solo si sus representantes legales fueron antes servidores públicos de la entidad perjudicada, según la Ley N.º 004.
+D. Sí, la Ley se aplica a personas privadas que cometan delitos de corrupción causando daño económico al Estado, conforme a la normativa vigente.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «5) Personas privadas, naturales o jurídicas y todas aquellas personas que no siendo servidores públicos cometan delitos de corrupción causando daño económico al Estado o se beneficien indebidamente con sus recursos».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo I: Disposiciones generales. Art. 5, parágrafo I, numeral 5 (página impresa s/n; página PDF 2).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+47. [Ley N.º 004 – CAPÍTULO III] Una persona natural incrementó desproporcionadamente su patrimonio mediante actividad privada, afectando el patrimonio del Estado, sin desvirtuarlo. Según el Artículo 28, ¿qué pena corresponde?
+A. Privación de libertad de cinco a diez años, inhabilitación para la función pública y decomiso de bienes.
+B. Privación de libertad de tres a ocho años, multa de cien a trescientos días y decomiso de los bienes, conforme a norma.
+C. Privación de libertad de uno a cuatro años y multa de cincuenta a doscientos días, sin decomiso de bienes, según la norma.
+D. Multa del veinticinco por ciento de su patrimonio, sin privación de libertad ni decomiso de los bienes.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «La persona natural que mediante actividad privada hubiere incrementado desproporcionadamente su patrimonio respecto de sus ingresos legítimos afectando el patrimonio del Estado, no logrando desvirtuar tal situación, será sancionada con la privación de libertad de tres a ocho años, multa de cien a trescientos días y el decomiso de los bienes obtenidos ilegalmente».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 28 (página impresa s/n; páginas PDF 7-8).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+48. [Ley N.º 004 – CAPÍTULO III] Una persona jurídica incrementó su patrimonio afectando al Estado, sin demostrar su origen lícito. Según el Artículo 28, ¿qué consecuencia adicional sufre la persona jurídica?
+A. Se disuelve de pleno derecho y sus bienes pasan al Estado, sin necesidad de restitución ni de multa adicional, conforme a la Ley N.º 004.
+B. Restituye al Estado los bienes afectados y los obtenidos como producto del delito, con multa del 25% de su patrimonio, según la Ley.
+C. Paga una multa del 50% de su patrimonio, sin obligación de restituir los bienes obtenidos con el delito, según la Ley.
+D. Queda inhabilitada para contratar con el Estado por cinco años, sin restitución de bienes ni multa, conforme a norma.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «[…] adicionalmente, la persona jurídica restituirá al Estado los bienes que le hubiesen sido afectados además de los obtenidos como producto del delito y será sancionada con una multa del 25% de su patrimonio».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 28, párrafo segundo (página impresa s/n; página PDF 8).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+49. [Ley N.º 004 – CAPÍTULO II] Una ONG recibe un requerimiento de información de la UIF dentro de una investigación. Según el Artículo 21, ¿qué obligación tiene?
+A. Remitir solo la información que considere pertinente, previa autorización de su directorio y de sus financiadores.
+B. Negarse a entregar información, porque las ONG están excluidas del deber de informar a la UIF.
+C. Remitir toda la información solicitada, e informar de oficio si detecta la posible comisión de hechos de corrupción.
+D. Remitir la información solo con orden judicial, sin obligación de informar de oficio a la UIF.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «I. Tienen el deber de remitir toda la información solicitada por la Unidad de Investigaciones Financieras […] h) Organizaciones no gubernamentales, fundaciones y asociaciones […] II. Las entidades o sujetos mencionados en los incisos anteriores deberán informar de oficio a la Unidad de Investigaciones Financieras cuando en el ejercicio de sus funciones y/o actividades, detecten la posible comisión de hechos o delitos de corrupción».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 21 (página impresa s/n; página PDF 6).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+50. [Ley N.º 004 – CAPÍTULO IV] En un caso de corrupción con grave daño al Estado, el fiscal requiere la incautación de bienes. Según el Artículo 253 Bis del CPP, incluido por el Artículo 36, ¿en qué plazo procede?
+A. En un plazo perentorio de cinco días, desde el inicio de las investigaciones, según la Ley N.º 004.
+B. En un plazo de treinta días, una vez presentada la acusación formal, según la Ley N.º 004.
+C. En un plazo de diez días, después de la sentencia de primera instancia, conforme a norma.
+D. En un plazo de setenta y dos horas, tras la imputación formal del fiscal, en el marco de la Ley N.º 004.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «En el caso de delitos de corrupción que causen grave daño al Estado, desde el inicio de las investigaciones, previo requerimiento fiscal a la autoridad jurisdiccional competente y en un plazo perentorio de cinco días, se procederá a la incautación de los bienes y activos que razonablemente se presuman medio, instrumento o resultado del delito […]».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo IV: Inclusiones y modificaciones al Código de Procedimiento Penal, Código Civil y Ley Orgánica del Ministerio Público. Art. 36, Art. 253 Bis del Código de Procedimiento Penal (página impresa s/n; página PDF 13).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+51. [Ley N.º 004 – CAPÍTULO IV] Bienes producto de delitos de corrupción se encuentran en el extranjero. Según el Artículo 148 Bis del CPP, incluido por el Artículo 36, ¿qué puede hacer el Estado?
+A. Renunciar a su recuperación, porque los bienes fuera del país escapan a la jurisdicción boliviana.
+B. Embargar directamente los bienes en el extranjero, sin intervención de autoridades extranjeras.
+C. Esperar la extradición del imputado como condición previa a cualquier gestión de recuperación.
+D. Solicitar a las autoridades extranjeras la cooperación necesaria y efectiva para recuperarlos.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Artículo 148 Bis. (Recuperación de Bienes en el Extranjero). El Estado podrá solicitar a las autoridades extranjeras la cooperación necesaria y efectiva para recuperar bienes y activos sustraídos por servidoras o servidores y ex servidoras o ex servidores públicos, objeto o producto de delitos de corrupción y delitos vinculados que se encuentren fuera del país».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo IV: Inclusiones y modificaciones al Código de Procedimiento Penal, Código Civil y Ley Orgánica del Ministerio Público. Art. 36, Art. 148 Bis del Código de Procedimiento Penal (página impresa s/n; página PDF 13).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+52. [Ley N.º 004 – CAPÍTULO IV] El Ministerio de Transparencia desea proteger el patrimonio del Estado sobre un inmueble en disputa. Según el Artículo 1552 del Código Civil, modificado por el Artículo 39, ¿qué puede pedir?
+A. La confiscación inmediata del inmueble, sin intervención de la autoridad jurisdiccional, según la Ley.
+B. La anotación preventiva de sus derechos en el registro público, ante la autoridad jurisdiccional, conforme a norma.
+C. La inscripción definitiva del inmueble a nombre del Estado, sin sentencia previa, según la norma.
+D. La demolición del inmueble, como medida cautelar de protección del patrimonio, por mandato legal.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «I. Podrán pedir a la autoridad jurisdiccional la anotación preventiva de sus derechos en el registro público: […] 6) La Procuraduría General del Estado y el Ministerio de Transparencia Institucional y Lucha contra la Corrupción, para efectos de protección del Patrimonio del Estado».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo IV: Inclusiones y modificaciones al Código de Procedimiento Penal, Código Civil y Ley Orgánica del Ministerio Público. Art. 39, Art. 1552 del Código Civil (página impresa s/n; página PDF 15).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+53. [Ley N.º 004 – CAPÍTULO IV] Una anotación preventiva a favor del Estado no ha sido convertida en inscripción definitiva. Según el Artículo 1553.III del Código Civil, modificado por el Artículo 39, ¿cuándo caduca?
+A. A los dos años, prorrogables a uno más.
+B. A los diez años, sin posibilidad de prórroga.
+C. A los cinco años, prorrogables a tres más.
+D. A los cuatro años, prorrogables a dos más.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «III. La anotación preventiva a favor del Estado caducará a los cuatro años, prorrogables a dos más, si no es convertida en inscripción definitiva».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo IV: Inclusiones y modificaciones al Código de Procedimiento Penal, Código Civil y Ley Orgánica del Ministerio Público. Art. 39, Art. 1553 del Código Civil (página impresa s/n; página PDF 15).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+54. [Ley N.º 004 – CAPÍTULO III] Un juez que conoce un caso de corrupción acepta dádivas para demorar su fallo. ¿Qué delito tipifica el Artículo 173 Bis del Código Penal, modificado por el Artículo 34?
+A. Prevaricato, con privación de libertad de cinco a diez años sin inhabilitación alguna, conforme a la Ley N.º 004.
+B. Negativa o retardo de justicia, con privación de libertad de tres a ocho años, conforme a norma.
+C. Consorcio de jueces y abogados, con multa de doscientos a quinientos días, según la Ley N.º 004.
+D. Cohecho pasivo de la jueza, juez o fiscal, con inhabilitación especial para la función pública, según la Ley.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Artículo 173 Bis. (Cohecho Pasivo de la Jueza, Juez o Fiscal). La jueza, el juez o fiscal que aceptare promesas o dádivas para dictar, demorar u omitir dictar una resolución o fallo en asunto sometido a su competencia, será sancionado con privación de libertad de cinco a diez años y con multa de doscientos a quinientos días, más la inhabilitación especial para acceder a cualquier función pública y/o cargos electos».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 173 Bis del Código Penal (página impresa s/n; página PDF 11).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+55. [Ley N.º 004 – CAPÍTULO III] Una persona que no participó en un delito de corrupción compra a sabiendas las ganancias resultantes. ¿Qué delito tipifica el Artículo 172 Bis del Código Penal, incorporado por el Artículo 34?
+A. Favorecimiento al enriquecimiento ilícito, solo con multa de cincuenta a quinientos días, en el marco de la Ley N.º 004.
+B. Legitimación de ganancias ilícitas, con inhabilitación y multa de doscientos días, según la Ley N.º 004.
+C. Receptación proveniente de delitos de corrupción, con privación de libertad y decomiso, conforme a la Ley N.º 004.
+D. Encubrimiento simple, sancionado con prestación de trabajo y multa reducida, conforme a la Ley N.º 004.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Artículo 172 Bis. (Receptación Proveniente de Delitos de Corrupción). El que después de haberse cometido un delito de corrupción ayudare a su autor a asegurar el beneficio o resultado del mismo o recibiere, ocultare, vendiere o comprare a sabiendas las ganancias resultantes del delito, será sancionado con privación de libertad de tres a ocho años y el decomiso de los bienes obtenidos ilícitamente».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 172 Bis del Código Penal (página impresa s/n; página PDF 10).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+56. [Ley N.º 004 – CAPÍTULO III] Un perito interviene en una subasta en razón de su oficio y obtiene un beneficio para sí. ¿Qué disposición le resulta aplicable según el Artículo 34?
+A. El Artículo 150, negociaciones incompatibles, aplicable solo a servidores públicos en funciones, según la Ley N.º 004.
+B. El Artículo 150 Bis, negociaciones incompatibles por particulares, con pena de cinco a diez años, conforme a norma.
+C. El Artículo 229, sociedades ficticias, con pena de uno a cuatro años y multa de cien días, según la Ley.
+D. El Artículo 228, contribuciones ilegítimas, con pena de uno a tres años sin agravante, según la Ley.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Artículo 150 Bis. (Negociaciones Incompatibles con el Ejercicio de Funciones Públicas por Particulares). El delito previsto en el artículo anterior también será aplicado a los árbitros, peritos, auditores, contadores, martilleros o rematadores, y demás profesionales respecto a los actos en los cuales por razón de su oficio intervienen […] con una pena privativa de libertad de cinco a diez años y multa de treinta a quinientos días».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 150 Bis del Código Penal (página impresa s/n; página PDF 10).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+57. [Ley N.º 004 – CAPÍTULO III] Un servidor público, abusando de su condición de dirigente, exige dinero y causa daño económico al Estado. Según el Artículo 228 Bis del Código Penal, incorporado por el Artículo 34, ¿qué pena corresponde?
+A. Privación de libertad de uno a tres años.
+B. Privación de libertad de cinco a diez años.
+C. Privación de libertad de tres a ocho años.
+D. Multa de treinta a cien días sin privación.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «ARTÍCULO 228 Bis. (Contribuciones y Ventajas Ilegítimas de la Servidora o Servidor Público). Si la conducta descrita en el artículo anterior, hubiere sido cometida por servidora o servidor público, causando daño económico al estado, la pena será de privación de libertad de tres a ocho años».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 228 Bis del Código Penal (página impresa s/n; página PDF 12).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+58. [Ley N.º 004 – CAPÍTULO IV] Se declara la rebeldía de un imputado por delitos de corrupción durante el juicio, existiendo otros imputados presentes. Según el Artículo 90 del CPP, modificado por el Artículo 37, ¿qué ocurre?
+A. El juicio se suspende respecto del rebelde y continúa solo para los imputados presentes.
+B. El juicio se suspende para todos los imputados hasta la comparecencia del rebelde.
+C. La acción penal se extingue respecto del rebelde por su incomparecencia al juicio.
+D. Debe proseguirse la acción penal contra todos los imputados, estando o no presentes.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Artículo 90. (Efectos de la Rebeldía). La declaratoria de rebeldía no suspenderá la etapa preparatoria. Cuando sea declarada durante el juicio, éste se suspenderá con respecto al rebelde y continuará para los demás imputados presentes, excepto en los delitos de corrupción, debiendo proseguirse la acción penal en contra de todos los imputados, estando o no presentes».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo IV: Inclusiones y modificaciones al Código de Procedimiento Penal, Código Civil y Ley Orgánica del Ministerio Público. Art. 37, Art. 90 del Código de Procedimiento Penal (página impresa s/n; página PDF 14).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+59. [Ley N.º 004 – CAPÍTULO III] Un servidor da a los caudales que administra una aplicación distinta, causando entorpecimiento del servicio público. Según el Artículo 144 del Código Penal, modificado por el Artículo 34, ¿qué efecto tiene ese resultado?
+A. La sanción de malversación se reduce a la mitad, según la Ley.
+B. La sanción de malversación se agrava en un tercio, conforme a norma.
+C. El delito se convierte en peculado con pena mayor, según la Ley.
+D. El delito se extingue si se devuelven los caudales, según la Ley N.º 004.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Si del hecho resultare daño o entorpecimiento para el servicio público, la sanción será agravada en un tercio».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 144 del Código Penal (página impresa s/n; página PDF 9).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+60. [Ley N.º 004 – CAPÍTULO III] Un servidor omite ilegalmente un acto propio de sus funciones y ocasiona daño económico al Estado. Según el Artículo 154 del Código Penal, modificado por el Artículo 34, ¿qué pena corresponde?
+A. Privación de libertad de cinco a diez años, sin agravante por el daño económico causado.
+B. Multa de treinta días, con inhabilitación temporal para el ejercicio de la función pública, según la norma.
+C. Privación de libertad de tres a ocho años, reducida si el servidor repara el daño causado.
+D. Privación de libertad de uno a cuatro años, agravada en un tercio por el daño económico, según la norma.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Artículo 154. (Incumplimiento de Deberes). La servidora o el servidor público que ilegalmente omitiere, rehusare hacer o retardare un acto propio de sus funciones, será sancionado con privación de libertad de uno a cuatro años. La pena será agravada en un tercio, cuando el delito ocasione daño económico al Estado».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 154 del Código Penal (página impresa s/n; página PDF 10).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+61. [Ley N.º 004 – CAPÍTULO III] Caso: el director de una unidad educativa usa al portero, remunerado por el Estado, para trabajos en su domicilio particular. ¿Qué disposición le resulta aplicable?
+A. El Artículo 157 del Código Penal, que sanciona los nombramientos ilegales de personas sin requisitos.
+B. El Artículo 146 del Código Penal, que sanciona el uso indebido de influencias para obtener ventajas.
+C. El Artículo 26, que sanciona a quien utilice servicios de personas remuneradas por el Estado dándoles un fin distinto.
+D. El Artículo 224 del Código Penal, que sanciona la conducta antieconómica en cargos directivos.
+Respuesta correcta: C
+Explicación: «La pena del párrafo primero, será aplicada al particular o servidor público que utilice los servicios de personas remuneradas por el Estado o de personas que se encuentren en el cumplimiento de un deber legal, dándoles un fin distinto para los cuales fueron contratados o destinados». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 26, párrafo tercero (página impresa s/n; página PDF 7).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+62. [Ley N.º 004 – CAPÍTULO III] Caso: equipos de computación de una unidad educativa son usados por un servidor para un negocio particular y se deterioran. ¿Qué pena prevé el Artículo 26?
+A. Privación de libertad de uno a cuatro años, sin reparación del daño, conforme a la Ley N.º 004.
+B. Privación de libertad de tres a ocho años y reparación del daño causado, en el marco de la Ley N.º 004.
+C. Multa de treinta días y devolución del valor de los equipos dañados, conforme a la Ley N.º 004.
+D. Privación de libertad de cinco a diez años y multa de quinientos días, según lo dispuesto en la Ley N.º 004.
+Respuesta correcta: B
+Explicación: «Si por el uso indebido, el bien sufriere deterioro, destrozos o pereciere, la pena será de tres a ocho años y reparación del daño causado». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 26, párrafo segundo (página impresa s/n; página PDF 7).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+63. [Ley N.º 004 – CAPÍTULO III] Caso: un servidor encargado de custodiar fondos de una dirección distrital se apropia de ellos. ¿Qué delito y pena corresponden según el Artículo 142 del Código Penal, modificado por el Artículo 34?
+A. Malversación, con privación de libertad de tres a ocho años y multa de cien a doscientos días, según la Ley.
+B. Uso indebido de bienes, con privación de libertad de uno a cuatro años sin multa alguna.
+C. Peculado, con privación de libertad de cinco a diez años y multa de doscientos a quinientos días.
+D. Concusión, con privación de libertad de tres a ocho años sin multa ni inhabilitación.
+Respuesta correcta: C
+Explicación: «Artículo 142. (Peculado). La servidora o el servidor público que aprovechando del cargo que desempeña se apropiare de dinero, valores o bienes de cuya administración, cobro o custodia se hallare encargado, será sancionado con privación de libertad de cinco a diez años y multa de doscientos a quinientos días». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 142 del Código Penal (página impresa s/n; página PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+64. [Ley N.º 004 – CAPÍTULO III] Caso: un servidor destina fondos asignados para el desayuno escolar a la compra de mobiliario de oficina. ¿Qué delito tipifica el Artículo 144 del Código Penal, modificado por el Artículo 34?
+A. Peculado, por apropiación de caudales a su cargo.
+B. Concusión, por exigencia de dinero indebido.
+C. Exacciones, por cobro en favor de la administración.
+D. Malversación, por aplicación distinta de caudales.
+Respuesta correcta: D
+Explicación: «Artículo 144. (Malversación). La servidora o el servidor público que diere a los caudales que administra, percibe o custodia, una aplicación distinta de aquella a que estuvieren destinados, será sancionada con privación de libertad de tres a ocho años […]». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 144 del Código Penal (página impresa s/n; página PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+65. [Ley N.º 004 – CAPÍTULO III] Caso: un director cobra a los padres un monto no previsto legalmente, destinado a mejoras de la propia unidad educativa. ¿Qué delito tipifica el Artículo 152 del Código Penal, modificado por el Artículo 34?
+A. Concusión, con privación de libertad de tres a ocho años, según la Ley.
+B. Exacciones, con privación de libertad de uno a cuatro años, según la norma.
+C. Peculado, con privación de libertad de cinco a diez años, según la Ley.
+D. Malversación, con privación de libertad de tres a ocho años, conforme a norma.
+Respuesta correcta: B
+Explicación: «Artículo 152. (Exacciones). La servidora o el servidor público que exigiere u obtuviere las exacciones expresadas en el artículo anterior para convertirlas en beneficio de la administración pública, será sancionado con privación de libertad de uno a cuatro años». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 152 del Código Penal (página impresa s/n; página PDF 10).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+66. [Ley N.º 004 – CAPÍTULO III] Caso: en el mismo cobro indebido del caso anterior, el servidor usa violencia contra un padre que se niega a pagar. ¿Qué efecto tiene la violencia según el Artículo 152 del Código Penal?
+A. La sanción se reduce a la mitad.
+B. El delito se convierte en robo.
+C. La sanción se agrava en un tercio.
+D. La sanción no sufre variación.
+Respuesta correcta: C
+Explicación: «Si se usare de alguna violencia en los casos de los artículos anteriores, la sanción será agravada en un tercio». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 152 del Código Penal (página impresa s/n; página PDF 10).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+67. [Ley N.º 004 – CAPÍTULO III] Caso: un servidor de una dirección departamental acepta dinero de un proveedor para favorecerlo en un acto contrario a los deberes de su cargo. ¿Qué delito tipifica el Artículo 145 del Código Penal, modificado por el Artículo 34?
+A. Cohecho pasivo propio, con privación de libertad de tres a ocho años y multa, conforme a norma.
+B. Cohecho activo transnacional, con privación de libertad de cinco a diez años, según la Ley N.º 004.
+C. Beneficios en razón del cargo, con multa de treinta días sin privación, según la Ley.
+D. Uso indebido de influencias, con privación de uno a cuatro años sin multa, según la Ley.
+Respuesta correcta: A
+Explicación: «Artículo 145. (Cohecho Pasivo Propio). La servidora o el servidor público o autoridad que para hacer o dejar de hacer un acto relativo a sus funciones o contrario a los deberes de su cargo, recibiere directamente o por interpuesta persona, para sí o un tercero, dádivas o cualquier otra ventaja o aceptare ofrecimientos o promesas, será sancionado con privación de libertad de tres a ocho años y multa de cincuenta a ciento cincuenta días». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 145 del Código Penal (página impresa s/n; página PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+68. [Ley N.º 004 – CAPÍTULO III] Caso: un servidor se interesa y obtiene un beneficio en un contrato de construcción de aulas en el que interviene por su cargo. ¿Qué delito tipifica el Artículo 150 del Código Penal, modificado por el Artículo 34?
+A. Contratos lesivos al Estado celebrados culposamente, según la Ley N.º 004.
+B. Incumplimiento de contratos celebrados con el Estado, según la Ley N.º 004.
+C. Negociaciones incompatibles con el ejercicio de funciones públicas, según la norma.
+D. Sociedades o asociaciones ficticias para obtener beneficios, conforme a la Ley N.º 004.
+Respuesta correcta: C
+Explicación: «Artículo 150. (Negociaciones Incompatibles con el Ejercicio de Funciones Públicas). La servidora o el servidor público que por sí o por interpuesta persona o por acto simulado se interesare y obtuviere para sí o para tercero un beneficio en cualquier contrato, suministro, subasta u operación en que interviene en razón de su cargo, será sancionado con privación de libertad de cinco a diez años y multa de treinta a quinientos días». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 150 del Código Penal (página impresa s/n; páginas PDF 9-10).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+69. [Ley N.º 004 – CAPÍTULO III] Caso: un empresario contrata con el Estado la refacción de una unidad educativa y no cumple el contrato sin justa causa. ¿Qué disposición le resulta aplicable según el Artículo 34?
+A. El Artículo 222, incumplimiento de contratos, con privación de libertad de tres a ocho años, según la Ley.
+B. El Artículo 221, contratos lesivos, aplicable solo a servidores públicos que contratan, según la Ley N.º 004.
+C. El Artículo 224, conducta antieconómica, aplicable a quienes ocupan cargos directivos.
+D. El Artículo 230, franquicias ilegales, con privación de libertad de tres a ocho años, según la Ley.
+Respuesta correcta: A
+Explicación: «Artículo 222. (Incumplimiento de Contratos). El que habiendo celebrado contratos con el Estado o con las entidades a que se refiere el artículo anterior, no los cumpliere sin justa causa, será sancionado con privación de libertad de tres a ocho años». Aplicación razonada: el empresario contratista encaja en el sujeto «el que habiendo celebrado contratos con el Estado».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 222 del Código Penal (página impresa s/n; página PDF 12).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+70. [Ley N.º 004 – CAPÍTULO III] Caso: un servidor usa la influencia de su cargo para conseguir que su familiar obtenga un beneficio indebido. ¿Qué delito tipifica el Artículo 146 del Código Penal, modificado por el Artículo 34?
+A. Nombramientos ilegales.
+B. Beneficios en razón del cargo.
+C. Contribuciones ilegítimas.
+D. Uso indebido de influencias.
+Respuesta correcta: D
+Explicación: «Artículo 146. (Uso Indebido de Influencias). La servidora o el servidor público o autoridad que directamente o por interpuesta persona y aprovechando de las funciones que ejerce o usando indebidamente de las influencias derivadas de las mismas obtuviere ventajas o beneficios, para sí o para un tercero, será sancionado con privación de libertad de tres a ocho años y multa de cien a quinientos días». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 146 del Código Penal (página impresa s/n; página PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+71. [Ley N.º 004 – CAPÍTULO III] Caso: un servidor dicta una resolución administrativa contraria a la Constitución que causa daño económico al Estado. ¿Qué pena corresponde según el Artículo 153 del Código Penal, modificado por el Artículo 34?
+A. Privación de libertad de cinco a diez años, agravada en un tercio por el daño económico, por mandato legal.
+B. Privación de libertad de uno a cuatro años, sin agravante por el daño económico, según la Ley.
+C. Multa de treinta a cien días, con inhabilitación para el ejercicio de la función, según la Ley.
+D. Privación de libertad de tres a ocho años, reducida si revoca la resolución, según la Ley.
+Respuesta correcta: A
+Explicación: «Artículo 153. (Resoluciones Contrarias a la Constitución y a las Leyes). La servidora o el servidor público o autoridad que dictare resoluciones u órdenes contrarias a la Constitución o a las leyes, o ejecutare o hiciere ejecutar dichas resoluciones u órdenes, será sancionado con privación de libertad de cinco a diez años. […] Si el delito ocasionare daño económico al Estado, la pena será agravada en un tercio». Aplicación razonada: la Ley N.º 004 se aplica a todo servidor público (Art. 5.I.1) sin nombrar al director de Unidad Educativa; la respuesta aplica la disposición citada a su función como servidor público que administra bienes y recursos del Estado.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 153 del Código Penal (página impresa s/n; página PDF 10).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+72. [Ley N.º 004 – CAPÍTULO II] Caso: un padre de familia detecta irregularidades en el manejo de recursos de una unidad educativa y desea actuar. ¿Qué atribuciones le reconoce el Control Social según el Artículo 10?
+A. Sancionar directamente al director y disponer la devolución inmediata de los recursos observados, según lo dispuesto en la Ley N.º 004.
+B. Intervenir la administración de la unidad educativa y designar a un nuevo director interino, según la Ley N.º 004.
+C. Identificar y denunciar hechos de corrupción y falta de transparencia, y coadyuvar en los procesos, en el marco de la Ley N.º 004.
+D. Ninguna, porque solo las entidades públicas pueden denunciar hechos de corrupción en la gestión, conforme a norma.
+Respuesta correcta: C
+Explicación: «a) Identificar y denunciar hechos de corrupción ante autoridades competentes. b) Identificar y denunciar la falta de transparencia ante las autoridades competentes. c) Coadyuvar en los procesos administrativos y judiciales, por hechos y delitos de corrupción». Aplicación razonada: el padre puede ejercer el Control Social de manera individual (Art. 9).
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 10 (página impresa s/n; página PDF 4).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+73. [Ley N.º 004 – CAPÍTULO II] Caso: una docente denuncia un hecho de corrupción en su unidad educativa y recibe amenazas. ¿Qué sistema de la Ley la protege?
+A. El Sistema Integrado de Información Anticorrupción, a cargo de la Contraloría y la Procuraduría General del Estado, según la Ley.
+B. El Sistema de Evaluación Permanente, a cargo del Consejo de la Magistratura y del Control Social organizado.
+C. El Sistema de Protección de Denunciantes y Testigos, a cargo del Ministerio de Gobierno, la Policía y el Ministerio Público.
+D. El Sistema de Control Gubernamental, a cargo de la unidad de auditoría interna de la entidad educativa.
+Respuesta correcta: C
+Explicación: «I. Se establece el Sistema de Protección de Denunciantes y Testigos que estará a cargo del Ministerio de Gobierno, la Policía Boliviana y el Ministerio Público, de acuerdo a reglamento. II. El Sistema brindará protección adecuada contra toda amenaza, agresión, represalia o intimidación a denunciantes y testigos […]». Aplicación razonada: la docente denunciante amenazada está comprendida en el Art. 17.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 17, parágrafos I y II (página impresa s/n; páginas PDF 4-5).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+74. [Ley N.º 004 – CAPÍTULO III] Caso: un servidor facilita su nombre para que un exfuncionario oculte bienes obtenidos por enriquecimiento ilícito. ¿Qué delito y pena corresponden según el Artículo 29?
+A. Favorecimiento al enriquecimiento ilícito, con privación de libertad de tres a ocho años, inhabilitación y multa.
+B. Enriquecimiento ilícito, con privación de libertad de cinco a diez años y decomiso de los bienes, por mandato legal.
+C. Receptación, con privación de libertad de uno a cuatro años sin inhabilitación ni multa, según la Ley.
+D. Obstrucción de la justicia, con privación de libertad de tres a ocho años y multa, según la norma.
+Respuesta correcta: A
+Explicación: «El que con la finalidad de ocultar, disimular o legitimar el incremento patrimonial previsto en los artículos precedentes, facilitare su nombre o participare en actividades económicas, financieras y comerciales, será sancionado con privación de libertad de tres a ocho años, inhabilitación para el ejercicio de la función pública y/o cargos electos y multa de cincuenta a quinientos días».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 29 (página impresa s/n; página PDF 8).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+75. [Ley N.º 004 – CAPÍTULO II] Caso: tras la denuncia de un hecho de corrupción en una unidad educativa, la máxima autoridad ejecutiva de la entidad afectada debe actuar. ¿Qué exige el Artículo 14?
+A. Esperar el informe de auditoría, sin constituirse en parte querellante hasta que concluya la investigación, en el marco de la Ley N.º 004.
+B. Delegar la querella al Control Social, que asume la representación de la entidad en el proceso penal, según la norma.
+C. Resolver el caso por vía administrativa interna, sin promover acciones legales ante otras instancias, según la norma.
+D. Constituirse obligatoriamente en parte querellante y promover las acciones legales ante las instancias competentes, por mandato legal.
+Respuesta correcta: D
+Explicación: «La máxima autoridad ejecutiva de la entidad afectada o las autoridades llamadas por Ley, deberán constituirse obligatoriamente en parte querellante de los delitos de corrupción y vinculados, una vez conocidos éstos, debiendo promover las acciones legales correspondientes ante las instancias competentes […]». Aplicación razonada: la obligación recae en la máxima autoridad ejecutiva de la entidad afectada.
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 14 (página impresa s/n; página PDF 4).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+76. [Ley N.º 004 – CAPÍTULO III] Caso: un servidor que debía declarar bienes al dejar su cargo, no lo hace. Luego, otro servidor presenta su declaración omitiendo un inmueble. ¿Qué diferencia de tratamiento prevé la Ley?
+A. El primero incurre en omisión de declaración, con multa de treinta días; el segundo, en falsedad, con privación de libertad y multa.
+B. El primero incurre en falsedad, con privación de libertad; el segundo, en omisión, sancionada solo con multa, conforme a la Ley N.º 004.
+C. Ambos incurren en enriquecimiento ilícito, con privación de libertad de cinco a diez años y decomiso, según la Ley.
+D. Ambos incurren solo en faltas administrativas, sin sanción penal prevista en la Ley N.º 004, conforme a la normativa vigente.
+Respuesta correcta: A
+Explicación: Art. 149 CP: «[…] estuviere obligado a declarar sus bienes y rentas a tiempo de tomar posesión o a tiempo de dejar su cargo y no lo hiciere, será sancionado con multa de treinta días». Art. 33: «El que falseare u omitiere insertar los datos económicos, financieros o patrimoniales […] incurrirá en privación de libertad de uno a cuatro años y multa de cincuenta a doscientos días».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Arts. 33 (página impresa s/n; página PDF 8) y 34, Art. 149 del Código Penal (página impresa s/n; página PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+77. [Ley N.º 004 – CAPÍTULO IV] Caso: un imputado por corrupción es declarado rebelde. Según el Artículo 91 Bis del CPP, incluido por el Artículo 36, ¿cómo prosigue el proceso?
+A. No se suspende; el Estado designa defensor de oficio y se lo juzga en rebeldía con los demás imputados presentes, según la norma.
+B. Se suspende hasta su aprehensión; el Estado no designa defensor de oficio para el imputado rebelde ausente.
+C. Se archiva respecto del rebelde; los demás imputados son juzgados de forma separada en otro proceso, según la Ley.
+D. Se convierte en acción privada; la víctima decide si continúa o no contra el imputado declarado rebelde.
+Respuesta correcta: A
+Explicación: «Artículo 91 Bis. (Prosecución del Juicio en Rebeldía). Cuando se declare la rebeldía de un imputado dentro del proceso penal por los delitos establecidos en los Artículos 24, 25 y siguientes de la Ley de Lucha Contra la Corrupción […] el proceso no se suspenderá con respecto del rebelde. El Estado designará un defensor de oficio y el imputado será juzgado en rebeldía, juntamente con los demás imputados presentes».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo IV: Inclusiones y modificaciones al Código de Procedimiento Penal, Código Civil y Ley Orgánica del Ministerio Público. Art. 36, Art. 91 Bis del Código de Procedimiento Penal (página impresa s/n; página PDF 13).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+78. [Ley N.º 004 – CAPÍTULO III] Caso: un servidor organiza una asociación ficticia para obtener beneficios indebidos de un programa estatal. ¿Qué pena corresponde según el Artículo 229 del Código Penal, modificado por el Artículo 34?
+A. Privación de libertad de uno a cuatro años y multa de cien a quinientos días, sin agravante, conforme a la Ley N.º 004.
+B. Privación de libertad de cinco a diez años e inhabilitación, por tratarse de un servidor, según la Ley.
+C. Privación de libertad de tres a ocho años y multa de treinta a cien días, por ser servidor público, según la Ley.
+D. Multa del veinticinco por ciento de su patrimonio, sin privación de libertad alguna, conforme a norma.
+Respuesta correcta: C
+Explicación: «Si fuere servidora o servidor público el que por sí o por interpuesta persona cometiere el delito, será sancionado con privación de libertad de tres a ocho años y multa de treinta a cien días».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 229 del Código Penal (página impresa s/n; páginas PDF 12-13).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+79. [Ley N.º 004 – CAPÍTULO III] Caso: un juez retarda sin justificación la resolución de un proceso, incumpliendo los términos procesales. ¿Qué delito tipifica el Artículo 177 del Código Penal, modificado por el Artículo 34?
+A. Negativa o retardo de justicia, con privación de libertad de cinco a diez años, según la norma.
+B. Prevaricato, con privación de libertad de tres a ocho años y multa, según la Ley.
+C. Incumplimiento de deberes, con privación de libertad de uno a cuatro años, según la Ley.
+D. Consorcio de jueces, con privación de libertad de uno a tres años, según la Ley.
+Respuesta correcta: A
+Explicación: «Artículo 177. (Negativa o Retardo de Justicia). El funcionario judicial o administrativo que en ejercicio de la función pública con jurisdicción y competencia, administrando justicia, retardare o incumpliere los términos en los cuales les corresponda pronunciarse […] será sancionado con privación de libertad de cinco a diez años».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 177 del Código Penal (página impresa s/n; página PDF 11).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico
+80. [Ley N.º 004 – CAPÍTULO III] Caso: un servidor concede ilegalmente una franquicia a una empresa. ¿Qué pena corresponde según el Artículo 230 del Código Penal, modificado por el Artículo 34?
+A. La de uno a cuatro años, sin agravante por ser servidor público, conforme a la Ley N.º 004.
+B. La de tres a ocho años, agravada en un tercio por ser servidor público, según la norma.
+C. La de cinco a diez años, reducida en un tercio por ser culposo, según la Ley.
+D. Solo multa de cien a quinientos días, sin privación de libertad, según la Ley.
+Respuesta correcta: B
+Explicación: «La servidora o el servidor público que concediere, usare o negociare ilegalmente tales liberaciones, franquicias o privilegios, será sancionado con la pena establecida en el párrafo anterior, agravada en un tercio».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo III: Delitos de corrupción. Art. 34, Art. 230 del Código Penal (página impresa s/n; página PDF 13).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Ley N.º 004 – CAPÍTULO II] El Consejo Nacional debe decidir sobre el Plan Nacional de Lucha contra la Corrupción. Según el Artículo 7, ¿qué le corresponde?
+A. Elaborar el Plan directamente, sin intervención del Ministerio del ramo.
+B. Delegar la aprobación del Plan a los gobiernos autónomos departamentales, según la Ley.
+C. Aprobar el Plan elaborado por el Ministerio del ramo y evaluar su ejecución.
+D. Someter el Plan a referéndum nacional antes de su aprobación definitiva.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «2. Aprobar el Plan Nacional de Lucha Contra la Corrupción, elaborado por el Ministerio del ramo, responsable de esas funciones. 3. Evaluar la ejecución del Plan Nacional de Lucha Contra la Corrupción».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 7, numerales 2 y 3 (página impresa s/n; página PDF 3).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Ley N.º 004 – CAPÍTULO II] El Consejo Nacional decide cómo rendir cuentas de su gestión. Según el Artículo 8, ¿a quiénes debe informar anualmente?
+A. Solo al Presidente del Estado, mediante un informe reservado sobre metas y resultados, según la Ley N.º 004.
+B. A la Contraloría General y al Ministerio Público, como órganos de control y de acusación, según lo dispuesto en la Ley N.º 004.
+C. A los Gobiernos Autónomos Municipales, que lo transmiten a las organizaciones sociales, según la Ley N.º 004.
+D. Al Presidente del Estado, a la Asamblea Legislativa Plurinacional y a la Sociedad Civil Organizada, según la Ley N.º 004.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El Consejo Nacional […] tiene la obligación de informar anualmente al Presidente del Estado Plurinacional, a la Asamblea Legislativa Plurinacional y a la Sociedad Civil Organizada, sobre el Plan Nacional de Lucha Contra la Corrupción y las metas y resultados alcanzados en su ejecución».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 8 (página impresa s/n; página PDF 3).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Ley N.º 004 – CAPÍTULO II] La UIF concluye que la información analizada contiene presuntos hechos de corrupción. Según el Artículo 22.II, ¿qué decisión debe adoptar?
+A. Publicarla en su portal institucional para que el Control Social la conozca y denuncie los hechos detectados, según lo dispuesto en la Ley N.º 004.
+B. Archivarla hasta que el investigado presente su descargo, sin remitirla a ninguna otra instancia del Estado, según la norma.
+C. Remitirla únicamente a la Contraloría General, que decide si corresponde iniciar una acción penal, conforme a la Ley N.º 004.
+D. Remitirla con sus antecedentes al Ministerio Público y ponerla en conocimiento del Ministerio de Transparencia y la Procuraduría, según la Ley.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «II. Cuando la Unidad de Investigaciones Financieras considere que la información contiene presuntos hechos de corrupción, la remitirá con todos sus antecedentes al Ministerio Público y la pondrá en conocimiento del Ministerio de Transparencia Institucional y Lucha Contra la Corrupción y de la Procuraduría General del Estado».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 22, parágrafo II (página impresa s/n; página PDF 6).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Ley N.º 004 – CAPÍTULO II] El Fiscal General decide cómo organizar la persecución de los delitos de corrupción. Según el Artículo 12, ¿qué debe hacer?
+A. Delegar la investigación de los delitos de corrupción a la Policía, sin dirección funcional de fiscales, conforme a la Ley N.º 004.
+B. Designar en cada Departamento fiscales especializados y dedicados exclusivamente a investigar y acusar delitos de corrupción.
+C. Concentrar todos los casos de corrupción en una sola fiscalía nacional con sede en la ciudad de La Paz.
+D. Asignar los casos de corrupción a fiscales de materia general, junto con los demás delitos comunes, según la Ley.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El Fiscal General del Estado, conforme a la Ley Orgánica del Ministerio Público, designará en cada Departamento a los fiscales especializados y dedicados exclusivamente a la investigación y acusación de los delitos de corrupción y delitos vinculados».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 12 (página impresa s/n; página PDF 4).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Ley N.º 004 – CAPÍTULO II] La Policía Boliviana decide cómo organizar la investigación anticorrupción. Según el Artículo 13, ¿bajo qué dirección actúan sus investigadores especializados?
+A. Bajo la dirección del Ministerio de Gobierno, conforme a norma.
+B. Bajo la dirección del Consejo Nacional, conforme a la Ley N.º 004.
+C. Bajo la dirección funcional de los fiscales, en el marco de la Ley N.º 004.
+D. Bajo la dirección de la Contraloría General, por mandato legal.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La Policía Boliviana contará con investigadores especializados anticorrupción, dentro de una División de Lucha Contra la Corrupción en cada Departamento, quienes desempeñarán sus actividades bajo la dirección funcional de los fiscales».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 13 (página impresa s/n; página PDF 4).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Ley N.º 004 – CAPÍTULO II] El Consejo de la Magistratura decide cómo dotar de jueces a los Tribunales y Juzgados Anticorrupción. Según el Artículo 11.II, ¿qué corresponde?
+A. Designar un solo juez anticorrupción para todo el país, con sede en la capital del Estado, según la Ley.
+B. Designar en cada departamento el número de jueces necesarios, de acuerdo a la Constitución.
+C. Delegar la designación de jueces al Fiscal General del Estado, conforme a su Ley Orgánica.
+D. Designar jueces solo en los departamentos con mayor número de denuncias de corrupción.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «II. El Consejo de la Magistratura designará en cada departamento el número de jueces necesarios para conocer y resolver los procesos, de acuerdo a la Constitución Política del Estado».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 11, parágrafo II (página impresa s/n; página PDF 4).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Ley N.º 004 – CAPÍTULO II] Ante un requerimiento escrito de un Fiscal Anticorrupción, la UIF debe decidir su actuación. Según el Artículo 18, ¿qué le corresponde?
+A. Rechazar el requerimiento, porque la UIF solo actúa de oficio y nunca a requerimiento de los fiscales.
+B. Imponer directamente sanciones patrimoniales al investigado, sin remitir los resultados a otras instancias.
+C. Analizar y realizar actividades de inteligencia financiera y patrimonial, y remitir los resultados a las instancias señaladas.
+D. Solicitar autorización judicial previa para analizar la información requerida por el fiscal anticorrupción.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «1 A requerimiento escrito del Ministerio de Transparencia y Lucha Contra la Corrupción, Procuraduría General del Estado y/o de los Fiscales Anticorrupción, o de oficio, analizará y realizará actividades de inteligencia financiera y patrimonial, para identificar presuntos hechos o delitos de corrupción. 2 Remitir los resultados del análisis y antecedentes al Ministerio de Transparencia […], Procuraduría General del Estado, Ministerio Público y a la autoridad jurisdiccional competente, cuando así corresponda».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 18 (página impresa s/n; página PDF 5).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Ley N.º 004 – CAPÍTULO II] Un caso de corrupción involucra a autoridades de una comunidad indígena originaria campesina. Según el Artículo 15, ¿qué decisión es coherente con la Ley?
+A. Excluir en todos los casos la jurisdicción indígena, porque los delitos de corrupción son de competencia exclusiva ordinaria, en el marco de la Ley N.º 004.
+B. Aplicar la jurisdicción indígena originaria campesina conforme a los Arts. 190, 191 y 192 de la CPE y la Ley de Deslinde Jurisdiccional, según la norma.
+C. Remitir el caso al Consejo Nacional, que decide discrecionalmente la jurisdicción competente para cada caso concreto, según la norma.
+D. Aplicar solo el derecho consuetudinario de la comunidad, sin considerar la Constitución ni la Ley de Deslinde, según la normativa legal.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «La aplicación de la jurisdicción indígena originaria campesina se regirá conforme disponen los Artículos 190, 191 y 192 de la Constitución Política del Estado y la Ley de Deslinde Jurisdiccional».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 15 (página impresa s/n; página PDF 4).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Ley N.º 004 – CAPÍTULO II] El Ministerio Público valora información de la UIF y decide su uso en el proceso. Según el Artículo 22.III, ¿qué puede hacer?
+A. Publicarla como medida de transparencia procesal, según la Ley.
+B. Remitirla al investigado antes de la imputación, según la Ley.
+C. Presentarla como prueba en los procesos penales, por mandato legal.
+D. Descartarla porque carece de valor probatorio, según la Ley.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «III. Esta información valorada por el Ministerio Público, podrá ser presentada como prueba en los procesos penales».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 22, parágrafo III (página impresa s/n; página PDF 6).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Ley N.º 004 – CAPÍTULO II] El Consejo Nacional decide su relación con los gobiernos autónomos. Según el Artículo 7.4, ¿en qué marco debe hacerlo?
+A. Conforme a los acuerdos que cada gobernador suscriba libremente con el Ministerio de Gobierno.
+B. Conforme a la normativa establecida por la Ley Marco de Autonomías y Descentralización, según la norma.
+C. Conforme a las instrucciones de la Contraloría General sobre el control de los gobiernos autónomos, según la Ley.
+D. Conforme a los estatutos de cada organización social que integre el Control Social del municipio.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «4. Relacionarse con los gobiernos autónomos en lo relativo a sus atribuciones, conforme a la normativa establecida por la Ley Marco de Autonomías y Descentralización».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 7, numeral 4 (página impresa s/n; página PDF 3).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Ley N.º 004 – CAPÍTULO II] Para la política anticorrupción, ¿qué atribución estratégica tiene el Consejo Nacional según el Artículo 7.1?
+A. Juzgar y sancionar directamente los delitos de corrupción, en sustitución de los Tribunales y Juzgados Anticorrupción, conforme a lo establecido en la Ley N.º 004.
+B. Proponer, supervisar y fiscalizar las políticas públicas orientadas a prevenir y sancionar la corrupción y a proteger y recuperar el patrimonio, según la norma.
+C. Administrar el patrimonio recuperado del Estado, distribuyéndolo entre las entidades que integran el Consejo Nacional, según la Ley N.º 004.
+D. Designar a los fiscales anticorrupción en cada departamento, en coordinación con el Consejo de la Magistratura, conforme a la Ley N.º 004.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «1. Proponer, supervisar y fiscalizar las políticas públicas, orientadas a prevenir y sancionar actos de corrupción, para proteger y recuperar el patrimonio del Estado».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 7, numeral 1 (página impresa s/n; página PDF 3).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Ley N.º 004 – CAPÍTULO II] ¿Qué objeto tiene el SIIARBE según el Artículo 23.I?
+A. Centralizar e intercambiar información de las entidades anticorrupción para diseñar políticas y hacer seguimiento de procesos.
+B. Registrar los antecedentes penales de todos los ciudadanos, como requisito para el acceso a cargos públicos, según la Ley N.º 004.
+C. Administrar los bienes incautados en procesos de corrupción, hasta su devolución o confiscación definitiva.
+D. Publicar las denuncias de corrupción recibidas por las entidades, como mecanismo de Control Social, según la Ley.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «I. Créase el Sistema Integrado de Información Anticorrupción y de Recuperación de Bienes del Estado - SIIARBE, a cargo del Ministerio de Transparencia Institucional y Lucha Contra la Corrupción. El mismo tiene por objeto la centralización e intercambio de información de las entidades relacionadas con la lucha contra la corrupción, para diseñar y aplicar políticas y estrategias preventivas, represivas y sancionatorias, además del eficiente seguimiento y monitoreo de procesos en el ámbito de la lucha contra la corrupción».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 23, parágrafo I (página impresa s/n; página PDF 6).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Ley N.º 004 – CAPÍTULO II] Según el Artículo 23.II, ¿qué atribución de control patrimonial tiene el SIIARBE?
+A. La aprobación previa de todas las declaraciones juradas de bienes y rentas de los servidores públicos del país, conforme a lo establecido en la Ley N.º 004.
+B. La verificación de oficio de las declaraciones juradas de bienes y rentas de servidores clasificados según indicadores y criterios, según la norma.
+C. La sanción directa de los servidores públicos que omitan presentar su declaración jurada de bienes y rentas, conforme a la Ley N.º 004.
+D. La custodia de los bienes declarados por los servidores públicos durante el ejercicio de sus funciones, en el marco de la Ley N.º 004.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «II. El SIIARBE tendrá dentro sus atribuciones la verificación de oficio de las declaraciones juradas de bienes y rentas de aquellos servidores públicos clasificados de acuerdo a indicadores, parámetros y criterios definidos por las entidades relacionadas con la lucha contra la corrupción».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 23, parágrafo II (página impresa s/n; página PDF 6).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Ley N.º 004 – CAPÍTULO II] Para garantizar probidad en el sistema anticorrupción, ¿qué establece el Artículo 16?
+A. Un sistema de evaluación permanente de jueces, fiscales y policías especializados, con participación del Control Social, según la Ley.
+B. Un sistema de rotación anual obligatoria de jueces y fiscales especializados, sin evaluación de su desempeño.
+C. Un sistema de incentivos económicos por cada sentencia condenatoria obtenida en casos de corrupción, según la Ley.
+D. Un sistema de inamovilidad absoluta de los jueces anticorrupción, para garantizar su independencia, según la Ley.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Los jueces, fiscales y policías especializados estarán sujetos a un sistema de evaluación permanente implementado en cada entidad, tomando en cuenta los lineamientos establecidos por el Consejo Nacional […] para garantizar la probidad y eficiencia en el cumplimiento de sus funciones. En este sistema de evaluación tendrá participación el Control Social».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 16 (página impresa s/n; página PDF 4).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Ley N.º 004 – CAPÍTULO I] ¿Qué principio del Artículo 4 orienta la coordinación estratégica entre las entidades anticorrupción?
+A. Celeridad: los mecanismos de investigación y justicia en temas de corrupción deben ser prontos y oportunos, conforme a la Ley N.º 004.
+B. Gratuidad: la investigación y la administración de justicia en temas de corrupción son gratuitas, según la norma.
+C. Imparcialidad: toda persona tiene derecho a una pronta, efectiva y transparente administración de justicia.
+D. Cooperación amplia: cooperarse mutuamente, trabajar coordinadamente e intercambiar información sin restricción, conforme a norma.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Cooperación Amplia. Todas las entidades que tienen la misión de la lucha contra la corrupción deberán cooperarse mutuamente, trabajando de manera coordinada e intercambiando información sin restricción».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo I: Disposiciones generales. Art. 4 (página impresa s/n; página PDF 2).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Ley N.º 004 – CAPÍTULO II] Según el Artículo 6.I, ¿qué entidades integran, entre otras, el Consejo Nacional de Lucha contra la Corrupción?
+A. El Ministerio de Educación, el Ministerio de Salud, el Órgano Electoral, la Defensoría del Pueblo y las universidades públicas, según lo dispuesto en la Ley N.º 004.
+B. El Ministerio de Transparencia, el Ministerio de Gobierno, el Ministerio Público, la Contraloría, la UIF, la Procuraduría y la sociedad civil, según la norma.
+C. El Consejo de la Magistratura, el Tribunal Constitucional, la Policía Boliviana, las Fuerzas Armadas y los gobiernos autónomos, según la Ley.
+D. El Ministerio de Economía, el Banco Central, la Autoridad de Supervisión Financiera, los bancos y las cooperativas, conforme a la Ley N.º 004.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «I. Se crea el Consejo Nacional […] que estará integrada por: a) Ministerio de Transparencia Institucional y Lucha Contra la Corrupción b) Ministerio de Gobierno c) Ministerio Público d) Contraloría General del Estado e) Unidad de Investigaciones Financieras f) Procuraduría General del Estado g) Representantes de la Sociedad Civil Organizada […]».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 6, parágrafo I (página impresa s/n; página PDF 3).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Ley N.º 004 – CAPÍTULO II] Según el Artículo 6.II, ¿qué relación existe entre las entidades que integran el Consejo Nacional y sus atribuciones específicas?
+A. Se subordinan al Ministerio de Transparencia en el cumplimiento de todas sus atribuciones específicas, según la norma.
+B. Son independientes en el cumplimiento de sus atribuciones específicas, en el marco de la Constitución y las leyes.
+C. Pierden sus atribuciones específicas al integrarse al Consejo, que las ejerce de manera conjunta.
+D. Requieren autorización del Consejo para ejercer cada una de sus atribuciones específicas legales.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Las entidades que integran el Consejo son independientes en el cumplimiento de sus atribuciones específicas en el marco de la Constitución Política del Estado y las leyes».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo II: De las entidades encargadas de la lucha contra la corrupción. Art. 6, parágrafo II (página impresa s/n; página PDF 3).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Ley N.º 004 – CAPÍTULO I] Según el Artículo 1, ¿qué incluye el objeto de la Ley N.º 004 además de prevenir, investigar, procesar y sancionar actos de corrupción?
+A. Indemnizar a los servidores públicos absueltos con fondos del Consejo Nacional, conforme a lo establecido en la Ley N.º 004.
+B. Administrar directamente las empresas privadas que contraten con el Estado, en el marco de la Ley N.º 004.
+C. Reformar la Constitución en materia de responsabilidad de los servidores, según lo dispuesto en la Ley N.º 004.
+D. Recuperar el patrimonio afectado del Estado a través de los órganos jurisdiccionales competentes, conforme a norma.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] destinados a prevenir, investigar, procesar y sancionar actos de corrupción […] así como recuperar el patrimonio afectado del Estado a través de los órganos jurisdiccionales competentes».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo I: Disposiciones generales. Art. 1 (página impresa s/n; página PDF 1).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Ley N.º 004 – CAPÍTULO IV] Según el Artículo 40, ¿qué atribución se incluye en la Ley Orgánica del Ministerio Público?
+A. Crear juzgados anticorrupción en cada departamento, con jueces designados por el Fiscal General del Estado, según la Ley N.º 004.
+B. Verificar de oficio las declaraciones juradas de bienes y rentas de todos los servidores públicos del país.
+C. Presidir el Consejo Nacional de Lucha contra la Corrupción en ausencia del Ministro de Transparencia.
+D. Designar en cada Departamento fiscales especializados y dedicados exclusivamente a investigar y acusar delitos de corrupción.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «36) Designar en cada Departamento a los fiscales especializados y dedicados exclusivamente a la investigación y acusación de los delitos de corrupción».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo IV: Inclusiones y modificaciones al Código de Procedimiento Penal, Código Civil y Ley Orgánica del Ministerio Público. Art. 40 (página impresa s/n; página PDF 15).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Ley N.º 004 – CAPÍTULO I] Según el Artículo 4, ¿qué carácter deben tener los mecanismos de investigación y administración de justicia en temas de corrupción?
+A. Onerosos para el denunciante, para evitar denuncias infundadas o temerarias, en el marco de la Ley N.º 004.
+B. Reservados y sin plazos, para garantizar investigaciones exhaustivas, según la Ley N.º 004.
+C. Gratuitos, prontos y oportunos, conforme a los principios de gratuidad y celeridad, conforme a norma.
+D. Optativos para el Estado, según la cuantía del daño económico causado, según la Ley N.º 004.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Gratuidad. La investigación y la administración de justicia en temas de lucha contra la corrupción, tienen carácter gratuito. Celeridad. Los mecanismos de investigación y administración de justicia en temas de lucha contra la corrupción, deben ser prontos y oportunos».
+Sustento: Ley N.º 004 de Lucha contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas «Marcelo Quiroga Santa Cruz», de 31 de marzo de 2010, Capítulo I: Disposiciones generales. Art. 4 (página impresa s/n; página PDF 2).

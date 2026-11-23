@@ -1,0 +1,1111 @@
+# Fuente: ley-548-l1.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Ley N.º 548, Código Niña, Niño y Adolescente (17 de julio de 2014)
+# Título Preliminar y Libro I: Derechos, garantías, deberes y protección de las niñas, niños y adolescentes (Arts. 1 al 192)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar el Título Preliminar y el Libro I (Arts. 1 al 192) de la Ley N.º 548 en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto de la Ley proporcionado, sin incorporar fuentes externas, y su fundamentación transcribe textualmente el fragmento que respalda la respuesta correcta.
+# Criterios documentales aplicados
+# Alcance de la fuente. El banco cubre el Título Preliminar (Arts. 1 al 15: objeto, sujetos de derechos, garantías, principios, Sistema Plurinacional Integral y Ente Rector) y el Libro I, con su Título I (derechos a la vida y salud, familia, educación, información y cultura, opinión y participación, protección en el trabajo, libertad, dignidad e imagen, integridad personal y protección contra la violencia —incluida la violencia en el Sistema Educativo—, y deberes) y su Título II (Sistema Plurinacional de Protección Integral, políticas, medidas de protección, sanciones, Defensorías de la Niñez y Comités de Niñas, Niños y Adolescentes). En el PDF proporcionado ocupa las páginas 11 a 80. Por la extensión del Libro I, se priorizaron las disposiciones con mayor relevancia para la gestión educativa.
+# Página impresa. La edición proporcionada (Asamblea Legislativa Plurinacional) numera sus páginas al pie; la página impresa equivale a la página PDF menos dos (p. ej., página PDF 41 = página impresa 39). Cada referencia consigna ambas.
+# Fundamentación textual. Cada fundamentación transcribe entre comillas el fragmento de la Ley que respalda la respuesta correcta. En las preguntas derivadas se añade una nota breve rotulada «Aplicación razonada», que distingue la inferencia del contenido textual.
+# Competencias directivas. El Libro I contiene disposiciones directamente aplicables a la gestión de una Unidad Educativa: garantías del Sistema Educativo (Art. 116), disciplina escolar con derecho a opinar, a la defensa y a la impugnación, y prohibición de sanciones corporales (Art. 117), prohibición de expulsar a estudiantes embarazadas, con VIH/SIDA, en situación de discapacidad o por su orientación sexual (Art. 118), tipos de violencia en el Sistema Educativo (Art. 151), Plan de Convivencia pacífica y armónica, obligatorio y elaborado por las autoridades superiores (Art. 152) y obligación de denunciar la violencia en 24 horas (Art. 155). Como el Código se refiere a «autoridades del Sistema Educativo», «maestras y maestros» o «servidores públicos» y no al director por su nombre, esas preguntas llevan la nota «Aplicación razonada».
+# Cobertura y no duplicación. Las preguntas abarcan el Título Preliminar y los dos títulos del Libro I, con énfasis en el derecho a la educación (Arts. 115 a 121), la protección contra la violencia (Arts. 145 a 157) y el Sistema de Protección (Arts. 159 a 192). Algunos artículos centrales (Arts. 12, 117, 151 y 152) se evalúan en varias preguntas con enfoques distintos; no hay preguntas repetidas ni con la misma respuesta y el mismo enfoque. Las disposiciones sobre autorización excepcional del trabajo de niñas y niños de 10 a 14 años no se evaluaron.
+# Etiqueta de trazabilidad. Cada enunciado inicia con [Ley N.º 548 – LIBRO I], para su integración en plataformas de simulación que combinan preguntas de varios documentos; el título, capítulo y artículo exactos figuran en la referencia.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 26 preguntas y la más corta en 11, por lo que la longitud no es una pista.
+# 2. Distribución metodológica y ponderación
+# N.º
+# Tipo de evaluación
+# ¿Qué evalúa?
+# Preg.
+# Peso
+# N.º preg.
+# 1
+# Conocimiento y memorización
+# Dominio de conceptos, definiciones, principios, fechas, disposiciones y contenidos fundamentales del documento.
+# 10
+# 10%
+# 1–10
+# 2
+# Dominio conceptual
+# Comprensión de los fundamentos pedagógicos, administrativos, curriculares y organizativos del Sistema Educativo Plurinacional.
+# 10
+# 10%
+# 11–20
+# 3
+# Competencias y responsabilidades directivas
+# Conocimiento de las funciones, atribuciones, obligaciones y responsabilidades del director de una Unidad Educativa (en esta fuente: disposiciones aplicables a autoridades y servidores del ámbito educativo, con nota «Aplicación razonada»).
+# 10
+# 10%
+# 21–30
+# 4
+# Comprensión e interpretación
+# Capacidad para interpretar documentos, orientaciones pedagógicas y situaciones educativas.
+# 10
+# 10%
+# 31–40
+# 5
+# Diferenciación conceptual
+# Capacidad para distinguir conceptos, funciones, procedimientos, niveles de responsabilidad y enfoques educativos similares.
+# 10
+# 10%
+# 41–50
+# 6
+# Análisis crítico
+# Capacidad para identificar problemas institucionales, analizar sus causas, valorar alternativas y emitir criterios fundamentados.
+# 10
+# 10%
+# 51–60
+# 7
+# Aplicación normativa
+# Capacidad para aplicar correctamente la normativa en situaciones institucionales.
+# 10
+# 10%
+# 61–70
+# 8
+# Resolución de casos prácticos
+# Capacidad para resolver conflictos escolares, problemas administrativos, dificultades pedagógicas y situaciones con estudiantes, profesores y familias.
+# 10
+# 10%
+# 71–80
+# 9
+# Toma de decisiones
+# Capacidad para adoptar decisiones oportunas, pertinentes, fundamentadas y responsables ante situaciones institucionales.
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# Capacidad para planificar, organizar, dirigir, supervisar y evaluar acciones orientadas al mejoramiento de la calidad educativa.
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–10)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta [Ley N.º 548 – LIBRO I]; el título, el capítulo y el artículo exactos figuran en la referencia.
+# Cada fundamentación transcribe el fragmento textual de la Ley y remite al artículo, parágrafo e inciso, con página impresa y página PDF.
+# Contenido limitado exclusivamente a el Título Preliminar y el Libro I (Arts. 1 al 192) de la Ley N.º 548; no se atribuyen al director de Unidad Educativa competencias que la fuente no contiene.
+
+CAPÍTULO: ley-548-l1
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Ley N.º 548 – LIBRO I] Según el Artículo 5, ¿hasta qué edad comprende la etapa de la niñez?
+A. Desde la concepción hasta los doce (12) años cumplidos.
+B. Desde el nacimiento hasta los catorce (14) años cumplidos.
+C. Desde la concepción hasta los diez (10) años cumplidos.
+D. Desde el nacimiento hasta los once (11) años cumplidos.
+Respuesta correcta: A
+Explicación: «a) Niñez, desde la concepción hasta los doce (12) años cumplidos; y b) Adolescencia, desde los doce (12) años hasta los dieciocho (18) años cumplidos».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 5 (página impresa 10; página PDF 12).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Ley N.º 548 – LIBRO I] Según el Artículo 6, ¿qué rango de edad comprende la infancia escolar?
+A. Entre las edades de cinco (5) a once (11) años.
+B. Entre las edades de cuatro (4) a diez (10) años.
+C. Entre las edades de siete (7) a catorce (14) años.
+D. Entre las edades de seis (6) a doce (12) años.
+Respuesta correcta: D
+Explicación: «Se considera primera infancia a las niñas y niños comprendidos desde su nacimiento hasta los cinco (5) años, e infancia escolar a las niñas y niños comprendidos entre las edades de seis (6) a doce (12) años».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 6 (página impresa 10; página PDF 12).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Ley N.º 548 – LIBRO I] Según el Artículo 14, ¿qué entidad es el Ente Rector del Código Niña, Niño y Adolescente?
+A. El Ministerio de Educación.
+B. El Ministerio de Salud.
+C. El Ministerio de Trabajo.
+D. El Ministerio de Justicia.
+Respuesta correcta: D
+Explicación: «La entidad pública cabeza de sector, es el Ministerio de Justicia».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 14 (página impresa 12; página PDF 14).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Ley N.º 548 – LIBRO I] Según el Artículo 155.I, ¿en qué plazo máximo deben denunciarse los hechos de violencia contra niñas, niños o adolescentes?
+A. En un plazo máximo de cuarenta y ocho (48) horas de conocido el hecho.
+B. En un plazo máximo de setenta y dos (72) horas de conocido el hecho.
+C. En un plazo máximo de veinticuatro (24) horas de conocido el hecho.
+D. En un plazo máximo de ocho (8) días hábiles de conocido el hecho.
+Respuesta correcta: C
+Explicación: «Todas las personas, sean particulares, servidoras y servidores públicos, que tengan conocimiento de hechos de violencia en contra de las niñas, niños o adolescentes, están obligados a denunciarlos en un plazo máximo de veinticuatro (24) horas de conocido el hecho, ante las Defensorías de la Niñez y Adolescencia o cualquier otra autoridad competente».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 155, parágrafo I (página impresa 57; página PDF 59).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Ley N.º 548 – LIBRO I] Según el Artículo 129.I, ¿cuál es la edad mínima para trabajar?
+A. Dieciséis (16) años de edad.
+B. Catorce (14) años de edad.
+C. Doce (12) años de edad.
+D. Dieciocho (18) años de edad.
+Respuesta correcta: B
+Explicación: «Se fija como edad mínima para trabajar, los catorce (14) años de edad».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VI: Derecho a la protección de la niña, niño y adolescente en relación al trabajo. Art. 129, parágrafo I (página impresa 42; página PDF 44).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+6. [Ley N.º 548 – LIBRO I] Según el Artículo 12, ¿cuántos y cuáles son, entre otros, los principios del Código?
+A. Legalidad, celeridad, publicidad, oralidad, inmediatez, contradicción y otros, hasta un total de nueve principios.
+B. Interés superior, prioridad absoluta, igualdad y no discriminación, equidad de género, participación y otros, hasta once.
+C. Interés superior, autonomía de la voluntad, libre contratación, buena fe procesal y otros, hasta un total de siete, según lo dispuesto.
+D. Prioridad absoluta, presunción de inocencia, debido proceso, doble instancia y otros, hasta un total de ocho.
+Respuesta correcta: B
+Explicación: «Son principios de este Código: a) Interés Superior. […] b) Prioridad Absoluta. […] c) Igualdad y no Discriminación. […] d) Equidad de Género. […] e) Participación. […] k) Especialidad. […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 12, incisos a) al k) (páginas impresas 11-12; páginas PDF 13-14).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+7. [Ley N.º 548 – LIBRO I] Según el Artículo 13.I, ¿por qué sistemas está compuesto el Sistema Plurinacional Integral de la Niña, Niño y Adolescente?
+A. Por el Sistema Educativo Plurinacional y el Sistema Único de Salud, coordinados por el Ministerio de Justicia del Estado.
+B. Por el Sistema de Defensorías Municipales y el Sistema de Juzgados de Familia, bajo tuición del Órgano Judicial.
+C. Por el Sistema de Protección Social y el Sistema de Seguridad Ciudadana, coordinados por las gobernaciones.
+D. Por el Sistema Plurinacional de Protección Integral de la Niña, Niño y Adolescente y el Sistema Penal para Adolescentes.
+Respuesta correcta: D
+Explicación: «Está compuesto por el Sistema Plurinacional de Protección Integral de la Niña, Niño y Adolescente, y el Sistema Penal para Adolescentes […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 13, parágrafo I (página impresa 12; página PDF 14).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+8. [Ley N.º 548 – LIBRO I] Según el Artículo 185, ¿de quién depende la Defensoría de la Niñez y Adolescencia?
+A. Del Ministerio de Justicia.
+B. De los gobiernos municipales.
+C. De los gobiernos departamentales.
+D. Del Órgano Judicial del Estado.
+Respuesta correcta: B
+Explicación: «La Defensoría de la Niñez y Adolescencia es la instancia dependiente de los gobiernos municipales, que presta servicios públicos de defensa psico-socio-jurídica gratuitos […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo III: Instancias del Sistema de Protección. Art. 185 (página impresa 75; página PDF 77).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+9. [Ley N.º 548 – LIBRO I] Según el Artículo 191.I, ¿qué porcentaje mínimo de participación de niñas y adolescentes mujeres deben respetar los Comités de Niñas, Niños y Adolescentes?
+A. Al menos el treinta por ciento (30%).
+B. Al menos el cuarenta por ciento (40%).
+C. Al menos el cincuenta por ciento (50%).
+D. Al menos el sesenta por ciento (60%).
+Respuesta correcta: C
+Explicación: «Los Comités de Niñas, Niños y Adolescentes estarán conformados por representantes de las organizaciones estudiantiles de unidades educativas públicas, privadas y de convenio que tengan entre diez (10) y dieciocho (18) años de edad, respetando una participación de al menos cincuenta por ciento (50%) de niñas y adolescentes mujeres […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo III: Instancias del Sistema de Protección. Art. 191, parágrafo I (página impresa 78; página PDF 80).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+10. [Ley N.º 548 – LIBRO I] Según el Artículo 170.d, ¿cada cuánto tiempo deben revisarse las medidas de protección, excepto la adopción?
+A. Cada seis (6) meses, desde su imposición.
+B. Cada tres (3) meses, desde su imposición.
+C. Cada doce (12) meses, desde su imposición.
+D. Cada dos (2) años, desde su imposición.
+Respuesta correcta: A
+Explicación: «Las medidas de protección, excepto la adopción, serán revisadas cada seis (6) meses, a partir del momento en que fueron impuestas pudiendo ser sustituidas, modificadas o revocadas, cuando varíen o cesen las circunstancias que las causaron».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo II: Políticas, programas, medidas, entidades de atención y sanciones. Art. 170, inciso d) (página impresa 65; página PDF 67).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+11. [Ley N.º 548 – LIBRO I] ¿Cómo define el Artículo 12.a el principio de interés superior?
+A. Como la preferencia absoluta de la opinión de los padres sobre cualquier decisión relativa a la niña, niño o adolescente, conforme a la norma.
+B. Como la prevalencia de los intereses de la familia sobre los derechos individuales de la niña, niño y adolescente.
+C. Como la atención preferente de la niñez en la asignación de recursos y el acceso a los servicios públicos del Estado.
+D. Como toda situación que favorezca el desarrollo integral de la niña, niño y adolescente en el goce de sus derechos y garantías.
+Respuesta correcta: D
+Explicación: «Interés Superior. Por el cual se entiende toda situación que favorezca el desarrollo integral de la niña, niño y adolescente en el goce de sus derechos y garantías […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 12, inciso a) (página impresa 11; página PDF 13).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+12. [Ley N.º 548 – LIBRO I] ¿Qué implica el principio de prioridad absoluta del Artículo 12.b?
+A. Que toda situación que favorezca el desarrollo integral debe apreciarse considerando la opinión de la niña, niño o adolescente, según la norma.
+B. Que la niñez y adolescencia son objeto de preferente atención en políticas, recursos, servicios públicos, auxilio y protección.
+C. Que la familia tiene un rol fundamental e irrenunciable como medio natural para garantizar la protección integral.
+D. Que las y los servidores públicos deben contar con conocimientos específicos para garantizar los derechos de la niñez.
+Respuesta correcta: B
+Explicación: «Prioridad Absoluta. Por el cual las niñas, niños y adolescentes serán objeto de preferente atención y protección, en la formulación y ejecución de las políticas públicas, en la asignación de recursos, en el acceso a servicios públicos, en la prestación de auxilio y atención en situaciones de vulnerabilidad, y en la protección y socorro en cualquier circunstancia […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 12, inciso b) (página impresa 11; página PDF 13).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+13. [Ley N.º 548 – LIBRO I] ¿Qué reconoce el principio del rol de la familia (Art. 12.i)?
+A. El rol subsidiario de la familia, que interviene solo cuando el Estado no puede garantizar la educación de la niñez, por mandato legal.
+B. El rol exclusivo del Estado en la educación, limitando la función de la familia al sustento económico de los hijos.
+C. El rol fundamental e irrenunciable de la familia en la protección integral y su papel primario en la educación y formación.
+D. El rol de la comunidad educativa como sustituta permanente de la familia en la formación de valores de la niñez.
+Respuesta correcta: C
+Explicación: «Rol de la Familia. Por el cual se reconoce el rol fundamental e irrenunciable de la familia como medio natural para garantizar la protección integral de niñas, niños y adolescentes, y su papel primario y preponderante en la educación y formación de los mismos […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 12, inciso i) (página impresa 12; página PDF 14).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+14. [Ley N.º 548 – LIBRO I] ¿Qué establece el principio de ejercicio progresivo de derechos (Art. 12.j)?
+A. El ejercicio personal de los derechos de manera progresiva y conforme a la capacidad evolutiva, exigiéndose también los deberes.
+B. El ejercicio pleno de todos los derechos desde el nacimiento, sin consideración de la capacidad evolutiva de la persona, según la norma.
+C. El ejercicio de los derechos solo a partir de los dieciocho años, siendo antes ejercidos exclusivamente por los padres.
+D. El ejercicio de los derechos por etapas fijas de cinco años, sin exigencia de deberes durante la niñez y adolescencia.
+Respuesta correcta: A
+Explicación: «Ejercicio Progresivo de Derechos. Por el cual se garantiza a las niñas, niños y adolescentes, el ejercicio personal de sus derechos, de manera progresiva y conforme a su capacidad evolutiva. De la misma forma se le exigirá el cumplimiento de sus deberes […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 12, inciso j) (página impresa 12; página PDF 14).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+15. [Ley N.º 548 – LIBRO I] Según el Artículo 115.II, ¿qué características debe tener la educación a la que tienen derecho las niñas, niños y adolescentes?
+A. Uniforme y monolingüe, centrada en la transmisión de contenidos académicos comunes para todo el territorio nacional, según la normativa.
+B. Selectiva y competitiva, orientada a la preparación de los mejores estudiantes para el ingreso a la universidad.
+C. De calidad y calidez, intracultural, intercultural y plurilingüe, que les permita su desarrollo integral diferenciado.
+D. Técnica y especializada, dirigida exclusivamente a la cualificación para el trabajo desde los primeros años.
+Respuesta correcta: C
+Explicación: «Las niñas, niños y adolescentes tienen derecho a una educación de calidad y calidez, intracultural, intercultural y plurilingüe, que les permita su desarrollo integral diferenciado, les prepare para el ejercicio de sus derechos y ciudadanía […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo IV: Derecho a la educación, información, cultura y recreación. Art. 115, parágrafo II (página impresa 38; página PDF 40).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+16. [Ley N.º 548 – LIBRO I] ¿Qué finalidad persigue, según el Artículo 150, la protección contra la violencia en el Sistema Educativo?
+A. Sancionar penalmente a los estudiantes infractores, en el marco del sistema de justicia penal para adolescentes, conforme a norma.
+B. Garantizar la disciplina escolar mediante la autoridad del director, en el marco de la jerarquía institucional.
+C. Reducir los índices de deserción escolar, en el marco de las políticas de permanencia educativa del Ministerio.
+D. Consolidar la convivencia pacífica y armónica, la cultura de paz, tolerancia y justicia, en el marco del Vivir Bien.
+Respuesta correcta: D
+Explicación: «La protección a la vida y a la integridad física y psicológica de los miembros de la comunidad educativa, implica la prevención, atención y sanción de la violencia ejercida en el Sistema Educativo del Estado Plurinacional de Bolivia, con la finalidad de consolidar la convivencia pacífica y armónica, la cultura de paz, tolerancia y justicia, en el marco del Vivir Bien […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 150 (página impresa 53; página PDF 55).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+17. [Ley N.º 548 – LIBRO I] ¿Qué comprende el derecho al buen trato según el Artículo 146.I?
+A. Una disciplina estricta, basada en la obediencia a la autoridad de padres y maestros.
+B. Una formación en valores religiosos, basada en el credo de la familia de la niña o niño.
+C. Una crianza y educación no violenta, basada en el respeto recíproco y la solidaridad.
+D. Una educación competitiva, basada en el mérito y el rendimiento académico individual.
+Respuesta correcta: C
+Explicación: «La niña, niño y adolescente tiene derecho al buen trato, que comprende una crianza y educación no violenta, basada en el respeto recíproco y la solidaridad».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 146, parágrafo I (página impresa 51; página PDF 53).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+18. [Ley N.º 548 – LIBRO I] ¿Cómo define el Artículo 147.I la violencia?
+A. Como la acción física intencional, cometida exclusivamente por adultos, que ocasione lesiones visibles en la niña o niño, por mandato legal.
+B. Como la acción u omisión, por cualquier medio, que ocasione privaciones, lesiones, daños o sufrimientos, e incluso la muerte.
+C. Como la conducta reiterada y permanente que afecte la salud física, excluyendo los daños afectivos y psicológicos.
+D. Como toda conducta tipificada como delito en el Código Penal, sin incluir las omisiones ni las infracciones.
+Respuesta correcta: B
+Explicación: «Constituye violencia, la acción u omisión, por cualquier medio, que ocasione privaciones, lesiones, daños, sufrimientos, perjuicios en la salud física, mental, afectiva, sexual, desarrollo deficiente e incluso la muerte de la niña, niño o adolescente».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 147, parágrafo I (página impresa 51; página PDF 53).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+19. [Ley N.º 548 – LIBRO I] ¿Qué es el SIPPROINA según el Artículo 159.I?
+A. El registro informático de niñas, niños y adolescentes en actividad laboral, administrado por las Defensorías municipales, conforme a la Ley.
+B. La instancia judicial especializada que conoce los procesos de protección y las infracciones contra la niñez.
+C. El conjunto articulado de órganos, instancias, instituciones, organizaciones, entidades y servicios que ejecuta el Plan Plurinacional.
+D. El fondo fiscal donde se depositan las multas por infracciones, administrado por el Tesoro General de la Nación.
+Respuesta correcta: C
+Explicación: «El Sistema Plurinacional de Protección Integral de la Niña, Niño y Adolescente-SIPPROINA, es el conjunto articulado de órganos, instancias, instituciones, organizaciones, entidades y servicios. Este Sistema ejecutará el Plan Plurinacional de la Niña, Niño y Adolescente […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo I: Sistema Plurinacional de Protección Integral – Disposiciones generales. Art. 159, parágrafo I (páginas impresas 58-59; páginas PDF 60-61).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+20. [Ley N.º 548 – LIBRO I] ¿Qué son las medidas de protección según el Artículo 168.I?
+A. Órdenes de cumplimiento obligatorio emanadas de la Jueza o Juez Público en materia de Niñez y Adolescencia.
+B. Recomendaciones voluntarias emitidas por la Defensoría de la Niñez a las familias y las unidades educativas.
+C. Sanciones disciplinarias impuestas por el director de la unidad educativa a los estudiantes infractores.
+D. Acuerdos conciliatorios suscritos entre la familia y el agresor ante la autoridad indígena del lugar.
+Respuesta correcta: A
+Explicación: «Las medidas de protección son órdenes de cumplimiento obligatorio, emanadas de la Jueza o Juez Público en materia de Niñez y Adolescencia, es la autoridad competente, frente a una amenaza o vulneración de los derechos de niñas, niños o adolescentes».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo II: Políticas, programas, medidas, entidades de atención y sanciones. Art. 168, parágrafo I (página impresa 63; página PDF 65).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+21. [Ley N.º 548 – LIBRO I] Un director debe aplicar una sanción a un estudiante. Según el Artículo 117.c, ¿qué debe garantizar antes de imponerla?
+A. La firma de los padres en un acta de conformidad, sin necesidad de escuchar previamente al estudiante involucrado, en el marco legal.
+B. La aprobación del consejo de profesores, que decide la sanción sin audiencia previa del estudiante ni impugnación.
+C. El ejercicio de los derechos a opinar y a la defensa, y el derecho a impugnar ante una autoridad superior e imparcial.
+D. La publicación de la sanción en el periódico mural, para garantizar la transparencia ante la comunidad educativa.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Antes de la imposición de cualquier amonestación y/o sanción, debe garantizarse a todas las niñas, niños y adolescentes, el ejercicio de los derechos a opinar y a la defensa, garantizando así también su derecho a la impugnación ante la autoridad superior e imparcial […]». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo IV: Derecho a la educación, información, cultura y recreación. Art. 117, inciso c) (página impresa 39; página PDF 41).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+22. [Ley N.º 548 – LIBRO I] Una estudiante embarazada solicita continuar sus estudios y un grupo de padres pide a la dirección su retiro. Según el Artículo 118, ¿qué corresponde?
+A. Está prohibido rechazarla o expulsarla, y deben promoverse políticas de inclusión y protección para su permanencia.
+B. Puede retirarse temporalmente, hasta el nacimiento, para no afectar el normal desarrollo de las actividades escolares.
+C. Puede trasladarse a otra unidad educativa, a solicitud de la mayoría de los padres de familia del curso respectivo.
+D. Puede continuar solo si es casada, pues el Código protege la permanencia de las estudiantes según su estado civil.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Se prohíbe a las autoridades del Sistema Educativo Plurinacional, rechazar o expulsar a las estudiantes embarazadas, sea cualquiera su estado civil, así como a la y el estudiante a causa de su orientación sexual, en situación de discapacidad o con VIH/SIDA. Deberán promoverse políticas de inclusión, protección e infraestructura para su permanencia […]». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo IV: Derecho a la educación, información, cultura y recreación. Art. 118 (página impresa 39; página PDF 41).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+23. [Ley N.º 548 – LIBRO I] Según el Artículo 152.II, ¿quién debe elaborar el Plan de Convivencia pacífica y armónica de cada unidad educativa y cómo?
+A. Las autoridades superiores, en un proceso abierto, participativo y plural que convoque a todos los miembros de la comunidad educativa.
+B. El Ministerio de Educación, mediante un plan único y uniforme que las unidades educativas aplican sin adecuación alguna, según lo establecido.
+C. La junta escolar de forma exclusiva, sin intervención de las autoridades educativas ni de los estudiantes de la unidad.
+D. Cada maestra y maestro en su curso, sin un plan institucional común ni convocatoria a la comunidad educativa.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El Plan de Convivencia pacífica y armónica tendrá carácter obligatorio para cada una de las unidades educativas y/o centros, y deberá ser elaborado por las autoridades superiores, en un proceso abierto participativo y plural, que convoque obligatoriamente a todas las y los miembros de la comunidad educativa […]». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 152, parágrafo II (página impresa 55; página PDF 57).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+24. [Ley N.º 548 – LIBRO I] Según el Artículo 152.IV, ¿dónde debe insertarse el Plan de Convivencia pacífica y armónica y con qué periodicidad se evalúa?
+A. En el reglamento del Ministerio de Educación, y debe ser evaluado cada cinco años.
+B. Dentro de la planificación anual de la unidad educativa, y debe ser evaluado anualmente.
+C. En el plan municipal de seguridad ciudadana, y debe ser evaluado semestralmente.
+D. En el proyecto de la junta escolar, y debe ser evaluado al cierre de cada trimestre, conforme a la Ley.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El Plan de Convivencia pacífica y armónica deberá estar inserto dentro de la planificación anual de las unidades educativas y/o centros, y ser evaluado anualmente». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 152, parágrafo IV (página impresa 55; página PDF 57).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+25. [Ley N.º 548 – LIBRO I] Según el Artículo 152.III.g, ¿a quién deben remitirse los informes anuales sobre casos de acoso, violencia y/o abusos previstos en el Plan de Convivencia?
+A. A la Defensoría del Pueblo.
+B. Al Ministerio de Justicia.
+C. Al Concejo Municipal local.
+D. Al Ministerio de Educación.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «g) La remisión de informes anuales, sobre los casos de acoso, violencia y/o abusos en sus distintas manifestaciones, al Ministerio de Educación […]». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 152, parágrafo III, inciso g) (página impresa 55; página PDF 57).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+26. [Ley N.º 548 – LIBRO I] Un director toma conocimiento de que un estudiante sufre violencia en su hogar. Según el Artículo 155.I, ¿qué debe hacer?
+A. Denunciarlo en un plazo máximo de 24 horas ante la Defensoría de la Niñez y Adolescencia u otra autoridad competente.
+B. Convocar a los padres a una reunión de conciliación, antes de cualquier denuncia ante las autoridades competentes.
+C. Esperar a que el estudiante presente la denuncia por sí mismo, pues el director carece de legitimación para hacerlo, en el marco legal.
+D. Registrar el caso en el libro de novedades de la unidad y denunciarlo solo si la situación se repite en el futuro.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Todas las personas, sean particulares, servidoras y servidores públicos, que tengan conocimiento de hechos de violencia en contra de las niñas, niños o adolescentes, están obligados a denunciarlos en un plazo máximo de veinticuatro (24) horas de conocido el hecho, ante las Defensorías de la Niñez y Adolescencia o cualquier otra autoridad competente». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 155, parágrafo I (página impresa 57; página PDF 59).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+27. [Ley N.º 548 – LIBRO I] Una unidad educativa va a contratar personal que trabajará con estudiantes. Según el Artículo 149.I.d, ¿qué requisito previo exige el Código?
+A. Exigir a las o los postulantes una carta de recomendación de la junta escolar del lugar de residencia.
+B. Exigir a las o los postulantes un certificado de antecedentes emitido por la Defensoría de la Niñez.
+C. Someter a las o los postulantes a un examen de conocimientos generales sobre el Código Niña, Niño.
+D. Someter a las o los postulantes a exámenes psicológicos, valorándolos como requisito de idoneidad.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Tanto las instituciones públicas como privadas, que desempeñen labores en las cuales se relacionen con niñas, niños o adolescentes, para fines de contratación de personal, deberán previamente, someter a las o los postulantes a exámenes psicológicos valorando los mismos como requisito de idoneidad […]». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 149, parágrafo I, inciso d) (página impresa 53; página PDF 55).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+28. [Ley N.º 548 – LIBRO I] Un medio de comunicación solicita a la dirección el nombre y la fotografía de un estudiante involucrado en un proceso. Según el Artículo 144.II, ¿qué obligación tiene la dirección?
+A. Mantener reserva y resguardar la identidad del estudiante, restringiendo el acceso a la documentación salvo autorización competente.
+B. Entregar la información solicitada, pues la transparencia institucional prevalece sobre la identidad del estudiante.
+C. Entregar solo la fotografía sin el nombre, pues la imagen no está protegida por las normas de confidencialidad.
+D. Consultar a la junta escolar, que decide si corresponde difundir la identidad del estudiante en los medios.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Las autoridades judiciales, servidoras y servidores públicos, y el personal de instituciones privadas tienen la obligación de mantener reserva y resguardar la identidad de la niña, niño y adolescente, que se vea involucrado en cualquier tipo de proceso y de restringir el acceso a la documentación sobre los mismos, salvo autorización expresa de la autoridad competente». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VII: Derecho a la libertad, dignidad e imagen. Art. 144, parágrafo II (página impresa 50; página PDF 52).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+29. [Ley N.º 548 – LIBRO I] Según el Artículo 116.I.h, ¿a quiénes garantiza el Sistema Educativo el acceso a la información del proceso pedagógico y de la gestión educativa?
+A. Solo a la junta escolar, como representante de las familias ante la dirección.
+B. A la o el estudiante y a su madre, padre, guardadora o guardador, tutora o tutor.
+C. Solo a las autoridades distritales, que la comunican a las familias que la piden, según la Ley 548.
+D. Solo a los padres de familia, excluyendo a la o el estudiante menor de edad.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «h) Acceso a la información del proceso pedagógico y de la gestión educativa para la y el estudiante y su madre, padre, guardadora o guardador, tutora o tutor […]». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo IV: Derecho a la educación, información, cultura y recreación. Art. 116, parágrafo I, inciso h) (página impresa 38; página PDF 40).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+30. [Ley N.º 548 – LIBRO I] Según el Artículo 175.II, ¿qué consecuencia tiene que un servidor público omita denunciar la amenaza o vulneración de derechos de niñas, niños o adolescentes institucionalizados en una entidad de atención?
+A. La omisión no tiene consecuencia alguna, pues la denuncia es una facultad del servidor público, conforme a la Ley.
+B. La omisión se sanciona solo con una amonestación verbal del superior jerárquico del servidor.
+C. La omisión de denuncia constituye infracción, sancionada de acuerdo a lo dispuesto en el Código.
+D. La omisión constituye siempre delito penal, con privación de libertad de uno a tres años.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las servidoras y servidores públicos, tienen el deber de denunciar dichas amenazas o vulneración, y la omisión de denuncia constituye infracción que será sancionada de acuerdo a lo dispuesto en este Código». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo II: Políticas, programas, medidas, entidades de atención y sanciones. Art. 175, parágrafo II (página impresa 68; página PDF 70).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+31. [Ley N.º 548 – LIBRO I] ¿Qué implica el Artículo 4.II al establecer que los derechos no serán restringidos por la distinción de etapas de desarrollo?
+A. Que la diferencia entre niñez y adolescencia no puede usarse como argumento para restringir derechos.
+B. Que los adolescentes gozan de más derechos que los niños, por su mayor grado de madurez y desarrollo, conforme a norma.
+C. Que los niños menores de seis años carecen de derechos propios hasta alcanzar la infancia escolar.
+D. Que las etapas de desarrollo determinan qué derechos pueden ejercerse y cuáles quedan suspendidos.
+Respuesta correcta: A
+Explicación: «En ningún caso serán restringidos los derechos de las niñas, niños o adolescentes, teniendo como argumento la distinción de las etapas de desarrollo».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 4, parágrafo II (página impresa 10; página PDF 12).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+32. [Ley N.º 548 – LIBRO I] Según el Artículo 7, ¿cómo debe actuarse cuando no se conoce con certeza si una persona es menor de dieciocho años?
+A. Se presume que es mayor de edad, hasta que presente documento que acredite su minoría.
+B. Se suspende toda protección, hasta que un perito determine su edad biológica exacta.
+C. Se aplica el régimen de adultos, salvo que sus padres acrediten la minoría de edad.
+D. Se presume que es menor de dieciocho años, en tanto no se pruebe lo contrario.
+Respuesta correcta: D
+Explicación: «A los fines de protección de la niña, niño o adolescente, se presumirá que es menor de dieciocho (18) años, en tanto no se pruebe lo contrario, mediante documento de identificación o por otros medios reconocidos por el Estado Plurinacional».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 7 (página impresa 10; página PDF 12).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+33. [Ley N.º 548 – LIBRO I] Según el Artículo 9, ¿cómo deben interpretarse las normas del Código?
+A. De forma literal y restrictiva, sin considerar los Tratados Internacionales de derechos humanos ratificados por el Estado, por mandato legal.
+B. Velando por el interés superior, conforme a la Constitución y los Tratados de derechos humanos cuando sean más favorables.
+C. Conforme al criterio de la autoridad que las aplica, priorizando el orden público sobre los derechos de la niñez.
+D. Velando por el interés de la familia, conforme al Código de las Familias y a las costumbres de cada comunidad.
+Respuesta correcta: B
+Explicación: «Las normas de este Código deben interpretarse velando por el interés superior de la niña, niño y adolescente, de acuerdo con la Constitución Política del Estado y Tratados Internacionales en materia de derechos humanos, cuando éstos sean más favorables».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 9 (página impresa 10; página PDF 12).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+34. [Ley N.º 548 – LIBRO I] Según el Artículo 147.II y III, ¿quién sanciona las formas de violencia que no están tipificadas como delito?
+A. La Jueza o Juez Penal, aplicando por analogía los tipos penales del Código Penal a esas conductas.
+B. El director de la unidad educativa, mediante el reglamento interno de convivencia de su institución, en el marco legal.
+C. La Defensoría de la Niñez, que impone directamente las sanciones sin intervención judicial alguna.
+D. La Jueza o Juez Público de la Niñez y Adolescencia, como infracciones, según la gravedad y la sana crítica.
+Respuesta correcta: D
+Explicación: «II. La violencia será sancionada por la Jueza o el Juez Penal cuando esté tipificada como delito por la Ley Penal. III. Las formas de violencia que no estén tipificadas como delito en la Ley Penal, constituyen infracciones y serán sancionadas por la Jueza o Juez Público de la Niñez y Adolescencia […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 147, parágrafos II y III (página impresa 51; página PDF 53).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+35. [Ley N.º 548 – LIBRO I] Según el Artículo 151.II, ¿cómo se consideran los tipos de violencia en el Sistema Educativo descritos en ese artículo?
+A. Como infracciones, mientras no constituyan delitos.
+B. Como delitos, en todos los casos sin excepción.
+C. Como faltas leves, sujetas solo a amonestación.
+D. Como conductas lícitas, si no hay daño físico.
+Respuesta correcta: A
+Explicación: «Los tipos de violencia descritos en el presente Artículo, serán considerados infracciones mientras no constituyan delitos».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 151, parágrafo II (página impresa 54; página PDF 56).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+36. [Ley N.º 548 – LIBRO I] ¿Qué significa, según el Artículo 153.II, que las acciones de violencia «no necesitan ser permanentes»?
+A. Que las infracciones solo se configuran si los hechos se repiten durante al menos un año.
+B. Que basta un hecho, sin necesidad de reiteración, para que se configure la infracción.
+C. Que las acciones temporales se consideran faltas leves sin sanción judicial alguna.
+D. Que la infracción se extingue cuando la conducta deja de repetirse en el tiempo.
+Respuesta correcta: B
+Explicación: «Estas acciones no necesitan ser permanentes para ser consideradas infracciones». Aplicación razonada: la no exigencia de permanencia implica que un solo hecho puede configurar la infracción.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 153, parágrafo II (página impresa 56; página PDF 58).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+37. [Ley N.º 548 – LIBRO I] Según el Artículo 157.IV, ¿qué se prohíbe en casos de niñas, niños o adolescentes víctimas de violencia?
+A. Toda forma de denuncia sin abogado.
+B. Toda intervención de la Defensoría.
+C. Toda medida de protección provisional.
+D. Toda forma de conciliación o transacción.
+Respuesta correcta: D
+Explicación: «[…] Se prohíbe toda forma de conciliación o transacción en casos de niñas, niños o adolescentes víctimas de violencia».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 157, parágrafo IV (páginas impresas 57-58; páginas PDF 59-60).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+38. [Ley N.º 548 – LIBRO I] Según el Artículo 116.II, ¿qué constituye el núcleo de la implementación del modelo educativo?
+A. La disciplina escolar, el rendimiento académico y la competitividad de los estudiantes del sistema.
+B. Los derechos de la niña, niño y adolescente, su desarrollo integral y la calidad de la educación.
+C. Los intereses de la comunidad educativa, la autoridad del director y la eficiencia administrativa.
+D. La formación técnica, la productividad económica y la inserción laboral temprana de la niñez.
+Respuesta correcta: B
+Explicación: «La implementación del modelo educativo tiene como núcleo los derechos de la niña, niño y adolescente, su desarrollo integral y la calidad de la educación».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo IV: Derecho a la educación, información, cultura y recreación. Art. 116, parágrafo II (página impresa 39; página PDF 41).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+39. [Ley N.º 548 – LIBRO I] ¿Qué significa el derecho de petición del Artículo 124 para un estudiante?
+A. Que solo puede presentar peticiones por medio de sus padres o tutores, quienes las firman en su representación, conforme a la norma.
+B. Que solo puede presentar peticiones escritas ante entidades públicas, sin derecho a una respuesta en plazo.
+C. Que puede efectuar peticiones directamente, oral o escrita, sin necesidad de representación, y ser respondido oportunamente.
+D. Que puede presentar peticiones colectivas, pero no individuales, a través de su organización estudiantil.
+Respuesta correcta: C
+Explicación: «Las niñas, niños y adolescentes tienen derecho a efectuar de manera directa peticiones, individual o colectivamente, de manera oral o escrita ante cualquier entidad pública o privada sin necesidad de representación, y a ser respondidos oportuna y adecuadamente».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo V: Derecho a opinar, participar y pedir. Art. 124 (página impresa 41; página PDF 43).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+40. [Ley N.º 548 – LIBRO I] Según el Artículo 151.I.g, ¿qué medios comprende la violencia cibernética en el Sistema Educativo?
+A. Solo las redes sociales públicas, excluyendo la mensajería privada y los correos electrónicos de los estudiantes, según la ley vigente.
+B. Solo los mensajes enviados desde las computadoras de la unidad educativa, durante el horario escolar regular.
+C. Correos electrónicos, videojuegos en internet, redes sociales, blogs, mensajería y cualquier tecnología de información.
+D. Solo las publicaciones en medios de comunicación masiva que identifiquen a los miembros de la comunidad.
+Respuesta correcta: C
+Explicación: «g) Violencia Cibernética en el Sistema Educativo. Se presenta cuando una o un miembro de la comunidad educativa es hostigada u hostigado […] a través de correos electrónicos, videojuegos conectados al internet, redes sociales, blogs, mensajería instantánea y mensajes de texto a través de internet, teléfono móvil o cualquier otra tecnología de información y comunicación».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 151, parágrafo I, inciso g) (página impresa 54; página PDF 56).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+41. [Ley N.º 548 – LIBRO I] ¿Qué distingue la violencia entre pares de la violencia entre no pares (Art. 151.I)?
+A. Entre pares es la ejercida por maestros contra estudiantes; entre no pares, el maltrato entre estudiantes del mismo curso.
+B. Entre pares es la violencia verbal; entre no pares, la violencia física con lesiones tipificadas en la normativa penal.
+C. Entre pares ocurre fuera de la unidad educativa; entre no pares, dentro de ella y durante el horario escolar regular.
+D. Entre pares es el maltrato entre estudiantes; entre no pares, la ejercida con abuso de poder por padres, maestros o personal contra estudiantes.
+Respuesta correcta: D
+Explicación: «a) Violencia Entre Pares. Cualquier tipo de maltrato bajo el ejercicio de poder entre dos (2) estudiantes, o un grupo de estudiantes contra una o un estudiante […] b) Violencia Entre no Pares. Cualquier tipo de violencia con ejercicio y/o abuso de poder de madres, padres, maestras, maestros, personal administrativo, de servicio y profesionales […] contra las o los estudiantes […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 151, parágrafo I, incisos a) y b) (página impresa 53; página PDF 55).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+42. [Ley N.º 548 – LIBRO I] ¿Qué diferencia existe entre la violencia verbal (Art. 151.I.c) y la discriminación en el Sistema Educativo (Art. 151.I.d)?
+A. La verbal comprende toda distinción o exclusión fundada en sexo u origen; la discriminación, los insultos y palabras denigrantes de forma oral.
+B. La verbal solo se configura entre estudiantes; la discriminación solo puede ser cometida por maestras, maestros y personal administrativo.
+C. La verbal comprende insultos y palabras denigrantes orales y repetidas; la discriminación, toda distinción o exclusión fundada en sexo, origen u otras.
+D. La verbal constituye siempre delito penal; la discriminación constituye solo una falta leve sancionada por el reglamento de convivencia.
+Respuesta correcta: C
+Explicación: «c) Violencia Verbal. Referida a insultos, gritos, palabras despreciativas, despectivas, descalificantes y/o denigrantes, expresadas de forma oral y repetida entre los miembros de la comunidad educativa; d) Discriminación en el Sistema Educativo. Conducta que consiste en toda forma de distinción, exclusión, restricción o preferencia fundada en razón de sexo, color, edad […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 151, parágrafo I, incisos c) y d) (página impresa 53; página PDF 55).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+43. [Ley N.º 548 – LIBRO I] ¿Qué distingue a la primera infancia de la infancia escolar según el Artículo 6?
+A. La primera infancia va desde la concepción hasta los seis años; la infancia escolar, de los siete a los catorce años.
+B. La primera infancia va desde el nacimiento hasta los tres años; la infancia escolar, de los cuatro a los diez años.
+C. La primera infancia va desde el nacimiento hasta los cinco años; la infancia escolar, de los seis a los doce años.
+D. La primera infancia y la infancia escolar coinciden con la niñez, que va desde la concepción hasta los doce años.
+Respuesta correcta: C
+Explicación: «Se considera primera infancia a las niñas y niños comprendidos desde su nacimiento hasta los cinco (5) años, e infancia escolar a las niñas y niños comprendidos entre las edades de seis (6) a doce (12) años».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 6 (página impresa 10; página PDF 12).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+44. [Ley N.º 548 – LIBRO I] ¿Qué diferencia existe entre las políticas de prevención (Art. 164.I.a) y las de protección especial (Art. 164.I.c)?
+A. Las de prevención restablecen derechos ya vulnerados; las de protección especial promueven derechos ante situaciones que pudieran atentar contra la niñez.
+B. Las de prevención promueven derechos ante situaciones que pudieran atentar contra la niñez; las de protección especial restablecen derechos vulnerados.
+C. Las de prevención atienden la extrema pobreza y los desastres naturales; las de protección especial garantizan salud, educación y vivienda universales.
+D. Las de prevención son de aplicación municipal exclusiva; las de protección especial corresponden solo al nivel central del Estado.
+Respuesta correcta: B
+Explicación: «a) De Prevención, que comprenden políticas y programas de prevención y promoción de derechos en cuanto a situaciones que pudieran atentar contra la integridad y dignidad de niñas, niños y adolescentes […] c) De Protección Especial, que comprenden acciones encaminadas a prevenir o restablecer los derechos que se encuentren amenazados o vulnerados […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo II: Políticas, programas, medidas, entidades de atención y sanciones. Art. 164, parágrafo I, incisos a) y c) (página impresa 61; página PDF 63).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+45. [Ley N.º 548 – LIBRO I] ¿Qué distingue a las políticas de asistencia (Art. 164.I.b) de las sociales básicas (Art. 164.I.d)?
+A. Las de asistencia generan condiciones mínimas y universales para toda la población; las sociales básicas protegen a la niñez vulnerable por pobreza extrema, según la norma.
+B. Las de asistencia protegen a la niñez vulnerable por pobreza extrema o desastres; las sociales básicas generan condiciones mínimas y universales para toda la población.
+C. Las de asistencia atienden a víctimas de abuso y explotación; las sociales básicas sancionan a los infractores mediante la jurisdicción especializada.
+D. Las de asistencia son temporales y voluntarias; las sociales básicas son permanentes y financiadas solo por las empresas privadas.
+Respuesta correcta: B
+Explicación: «b) De Asistencia, que comprenden políticas necesarias para proteger a las niñas, niños y adolescentes que se encuentren en situaciones de vulnerabilidad o exclusión social, debido a la extrema pobreza, desastres naturales u otras condiciones […] d) Sociales Básicas, que se refieren a políticas que generen condiciones mínimas y universales que garanticen el desarrollo de toda la población […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo II: Políticas, programas, medidas, entidades de atención y sanciones. Art. 164, parágrafo I, incisos b) y d) (página impresa 61; página PDF 63).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+46. [Ley N.º 548 – LIBRO I] ¿Qué diferencia existe entre las medidas de protección dirigidas a los padres (Art. 169.I.a) y las dirigidas a terceros (Art. 169.I.b)?
+A. A los padres se les puede ordenar el cese de la situación o restringir su tránsito; a terceros, obligar a inscribir y controlar la asistencia escolar del niño.
+B. A los padres solo se les puede advertir y amonestar; a terceros solo se les puede imponer multas a favor de la unidad educativa del niño afectado.
+C. A los padres se les puede obligar a inscribir y controlar la asistencia escolar; a terceros, ordenar el cese de la situación o restringir su presencia en la comunidad educativa.
+D. A los padres se les puede ordenar la permanencia en la escuela; a terceros, la integración del niño a una familia sustituta o entidad de acogimiento.
+Respuesta correcta: C
+Explicación: «a) A la madre, padre, guardadora o guardador, tutora o tutor: […] 6. Obligación de inscribir y controlar la asistencia y aprovechamiento escolar de la hija, hijo, pupila o pupilo […] b) A terceros: […] 2. Orden de cese inmediato de la situación que amenace o vulnere el derecho; […] 4. Prohibición o restricción temporal de la presencia de quien amenace o viole derechos […] comunidad educativa […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo II: Políticas, programas, medidas, entidades de atención y sanciones. Art. 169, parágrafo I, incisos a) y b) (página impresa 64; página PDF 66).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+47. [Ley N.º 548 – LIBRO I] ¿Qué distingue a los Comités de Niñas, Niños y Adolescentes (Art. 190) de la Defensoría de la Niñez y Adolescencia (Art. 185)?
+A. Los Comités prestan servicios gratuitos de defensa psico-socio-jurídica; la Defensoría es una instancia de participación social de la niñez, según lo establecido.
+B. Los Comités son instancias de participación social de la niñez; la Defensoría presta servicios públicos gratuitos de defensa psico-socio-jurídica.
+C. Los Comités dependen del Órgano Judicial; la Defensoría depende del Ministerio de Educación y de las direcciones distritales.
+D. Los Comités imponen medidas de protección; la Defensoría elabora el Plan de Convivencia de cada unidad educativa del municipio.
+Respuesta correcta: B
+Explicación: Art. 190: «Se crean los Comités de Niñas, Niños y Adolescentes, como instancias de participación social […]». Art. 185: «La Defensoría de la Niñez y Adolescencia es la instancia dependiente de los gobiernos municipales, que presta servicios públicos de defensa psico-socio-jurídica gratuitos […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo III: Instancias del Sistema de Protección. Art. 190 (página impresa 78; página PDF 80) y Art. 185 (página impresa 75; página PDF 77).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+48. [Ley N.º 548 – LIBRO I] ¿Qué diferencia existe entre el derecho a opinar (Art. 122) y el derecho a participar (Art. 123)?
+A. Opinar es expresar libremente su opinión y que sea tomada en cuenta; participar es intervenir activamente en la vida familiar, escolar y comunitaria.
+B. Opinar es intervenir activamente en la vida familiar y escolar; participar es expresar libremente su opinión y que sea tomada en cuenta, según la norma.
+C. Opinar solo procede desde los dieciocho años; participar procede desde los doce años en las organizaciones estudiantiles.
+D. Opinar es un deber de la niñez; participar es una facultad discrecional de los padres en representación de sus hijos.
+Respuesta correcta: A
+Explicación: Art. 122.I: «[…] tiene derecho a expresar libremente su opinión en asuntos de su interés y a que las opiniones que emitan sean tomadas en cuenta». Art. 123.I: «Las niñas, niños y adolescentes tienen derecho a participar libre, activa y plenamente en la vida familiar, comunitaria, social, escolar […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo V: Derecho a opinar, participar y pedir. Arts. 122 y 123 (páginas impresas 40-41; páginas PDF 42-43).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+49. [Ley N.º 548 – LIBRO I] ¿Qué distingue la integridad personal (Art. 145) del buen trato (Art. 146)?
+A. La integridad comprende una crianza no violenta basada en respeto; el buen trato, la protección física, psicológica y sexual.
+B. La integridad protege solo contra la violencia física; el buen trato protege solo contra la violencia verbal en la escuela.
+C. La integridad comprende lo físico, psicológico y sexual; el buen trato, una crianza y educación no violenta basada en respeto y solidaridad.
+D. La integridad es un deber de la niñez; el buen trato es un derecho exclusivo de los padres frente a sus hijos.
+Respuesta correcta: C
+Explicación: Art. 145.I: «La niña, niño y adolescente, tiene derecho a la integridad personal, que comprende su integridad física, psicológica y sexual». Art. 146.I: «[…] tiene derecho al buen trato, que comprende una crianza y educación no violenta, basada en el respeto recíproco y la solidaridad».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Arts. 145 y 146 (página impresa 51; página PDF 53).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+50. [Ley N.º 548 – LIBRO I] ¿Qué diferencia existe entre la violencia en razón de género (Art. 151.I.e) y la violencia en razón de la situación económica (Art. 151.I.f)?
+A. La de género discrimina por la situación económica; la económica se basa en la identidad de género y causa daño físico o sexual.
+B. La de género solo afecta a estudiantes mujeres; la económica solo afecta a maestras y maestros con menor remuneración.
+C. La de género se basa en la identidad de género y causa daño físico, sexual o psicológico; la económica discrimina por la situación económica.
+D. La de género es siempre delito penal; la económica es una conducta lícita si no afecta el rendimiento académico en todo el país.
+Respuesta correcta: C
+Explicación: «e) Violencia en Razón de Género. Todo acto de violencia basado en la pertenencia a identidad de género que tenga o pueda tener como resultado un daño o sufrimiento físico, sexual o psicológico […] f) Violencia en Razón de la Situación Económica. Todo acto orientado a la discriminación de cualquiera de las y los miembros de la comunidad educativa, basada en su situación económica […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 151, parágrafo I, incisos e) y f) (página impresa 54; página PDF 56).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+51. [Ley N.º 548 – LIBRO I] Un maestro castiga a un estudiante obligándolo a permanecer de rodillas frente al curso, alegando que es una «medida educativa». ¿Qué análisis corresponde?
+A. Es admisible, porque las medidas educativas pueden incluir castigos físicos leves si no producen lesiones visibles al estudiante, conforme a la Ley.
+B. Es contrario al Código: se prohíbe cualquier castigo físico, violento o humillante, y los educadores deben emplear métodos no violentos.
+C. Es admisible si los padres del estudiante autorizaron previamente el uso de castigos como medida disciplinaria en la unidad.
+D. Es contrario al Código solo si el estudiante es menor de doce años, pues a los adolescentes se les aplica otra disciplina.
+Respuesta correcta: B
+Explicación: Aplicación razonada: Art. 146.II: «[…] educadoras y educadores, deben emplear métodos no violentos en la crianza, formación, educación y corrección. Se prohíbe cualquier tipo de castigo físico, violento o humillante». Art. 117.d: «Se prohíben las sanciones corporales». Aplicación razonada: el castigo humillante está prohibido aunque se invoque una finalidad educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 146, parágrafo II (página impresa 51; página PDF 53) y Art. 117, inciso d) (página impresa 39; página PDF 41).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+52. [Ley N.º 548 – LIBRO I] Una unidad educativa sanciona a un estudiante sin darle a conocer previamente el reglamento ni escucharlo. ¿Qué análisis corresponde?
+A. Es válido, porque el desconocimiento del reglamento no exime al estudiante de la sanción prevista para su conducta.
+B. Es válido si la sanción es leve, pues los derechos a opinar y a la defensa solo se garantizan en sanciones graves.
+C. Vulnera el Código solo si la sanción implica expulsión, pues las demás sanciones no requieren audiencia previa.
+D. Vulnera el acceso oportuno al reglamento de convivencia y los derechos a opinar, a la defensa y a la impugnación antes de la sanción.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «a) Todas las niñas, niños y adolescentes deben tener acceso e información oportuna al contenido de los reglamentos internos de convivencia pacífica y armónica correspondientes; […] c) Antes de la imposición de cualquier amonestación y/o sanción, debe garantizarse a todas las niñas, niños y adolescentes, el ejercicio de los derechos a opinar y a la defensa […]». Aplicación razonada: se omitieron dos garantías del Art. 117.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo IV: Derecho a la educación, información, cultura y recreación. Art. 117, incisos a) y c) (página impresa 39; página PDF 41).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+53. [Ley N.º 548 – LIBRO I] Una dirección rechaza la inscripción de un estudiante con VIH/SIDA por «temor de los padres». ¿Qué análisis corresponde?
+A. Es justificado, porque la salud colectiva de la comunidad educativa prevalece sobre la inscripción de un estudiante, por mandato legal.
+B. Es justificado si la familia no presentó un certificado médico que acredite la ausencia de riesgo de contagio.
+C. Es contrario al Código solo si el estudiante ya estaba inscrito, pues la prohibición alcanza solo a la expulsión.
+D. Es contrario al Código, que prohíbe rechazar o expulsar a estudiantes con VIH/SIDA y manda promover su inclusión y permanencia.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Se prohíbe a las autoridades del Sistema Educativo Plurinacional, rechazar o expulsar a […] la y el estudiante a causa de su orientación sexual, en situación de discapacidad o con VIH/SIDA. Deberán promoverse políticas de inclusión, protección e infraestructura para su permanencia […]». Aplicación razonada: el temor de terceros no justifica el rechazo prohibido.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo IV: Derecho a la educación, información, cultura y recreación. Art. 118 (página impresa 39; página PDF 41).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+54. [Ley N.º 548 – LIBRO I] Una unidad educativa no cuenta con Plan de Convivencia porque «no hubo casos de violencia el año anterior». ¿Qué análisis corresponde?
+A. Es coherente con el Código, que exige el Plan de Convivencia solo a las unidades educativas con casos de violencia registrados.
+B. Es coherente si la unidad educativa es privada, pues el Plan de Convivencia es obligatorio solo para las unidades fiscales.
+C. Es contrario al Código: el Plan de Convivencia tiene carácter obligatorio para cada unidad educativa, con independencia de los casos registrados.
+D. Es contrario al Código solo si la Defensoría lo exige por escrito, pues en otro caso el Plan es de elaboración facultativa.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El Plan de Convivencia pacífica y armónica tendrá carácter obligatorio para cada una de las unidades educativas y/o centros […]». Aplicación razonada: la obligatoriedad no depende de la existencia previa de casos.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 152, parágrafo II (página impresa 55; página PDF 57).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+55. [Ley N.º 548 – LIBRO I] Una maestra que conoce un caso de violencia sexual contra una estudiante decide esperar una semana para «reunir más pruebas» antes de denunciar. ¿Qué análisis corresponde?
+A. Incumple la obligación de denunciar en un plazo máximo de 24 horas de conocido el hecho.
+B. Actúa correctamente, porque la denuncia debe acompañarse de pruebas suficientes del hecho.
+C. Actúa correctamente si informa primero al director, que decide si corresponde denunciar.
+D. Incumple el Código solo si la estudiante es menor de doce años, por su mayor vulnerabilidad.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Todas las personas, sean particulares, servidoras y servidores públicos, que tengan conocimiento de hechos de violencia en contra de las niñas, niños o adolescentes, están obligados a denunciarlos en un plazo máximo de veinticuatro (24) horas de conocido el hecho […]». Aplicación razonada: el Código no condiciona la denuncia a la reunión de pruebas.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 155, parágrafo I (página impresa 57; página PDF 59).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+56. [Ley N.º 548 – LIBRO I] Una unidad propone resolver un caso de violencia de un padre contra su hijo mediante un acuerdo firmado entre ambos ante la dirección. ¿Qué análisis corresponde?
+A. Es coherente con el Código, que promueve los procedimientos alternativos de resolución de conflictos en todos los casos de violencia, según la norma.
+B. Es coherente si el acuerdo es homologado por la junta escolar, que actúa como garante de su cumplimiento por parte del padre.
+C. Es contrario al Código solo si el padre es reincidente, pues en el primer hecho la conciliación ante la dirección es válida.
+D. Es contrario al Código, que prohíbe toda forma de conciliación o transacción en casos de niñas, niños o adolescentes víctimas de violencia.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] Se prohíbe toda forma de conciliación o transacción en casos de niñas, niños o adolescentes víctimas de violencia». Aplicación razonada: el acuerdo propuesto es una forma de conciliación prohibida.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 157, parágrafo IV (página impresa 58; página PDF 60).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+57. [Ley N.º 548 – LIBRO I] Una docente difunde en un grupo de mensajería del curso un video que ridiculiza a un estudiante. ¿Qué análisis corresponde?
+A. Es una conducta privada de la docente, ajena al Sistema Educativo por haberse producido en un grupo de mensajería, según la Ley 548.
+B. Es una broma sin relevancia jurídica, salvo que el estudiante presente un certificado de daño psicológico grave.
+C. Configura violencia cibernética en el Sistema Educativo y vulnera el derecho del estudiante al respeto de su propia imagen.
+D. Configura violencia entre pares, por tratarse de un hecho ocurrido entre miembros de la misma comunidad educativa.
+Respuesta correcta: C
+Explicación: Aplicación razonada: Art. 151.I.g: «Violencia Cibernética en el Sistema Educativo. Se presenta cuando una o un miembro de la comunidad educativa es hostigada u hostigado […] humillada o humillado, de forma dolosa […] a través de […] mensajería instantánea […]». Art. 144.I: «La niña, niño y adolescente tiene derecho al respeto de su propia imagen». Aplicación razonada: la conducta reúne los elementos de la violencia cibernética y afecta la imagen del estudiante.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 151, parágrafo I, inciso g) (página impresa 54; página PDF 56) y Art. 144 (página impresa 50; página PDF 52).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+58. [Ley N.º 548 – LIBRO I] Una unidad utiliza textos escolares que presentan a las mujeres solo en roles domésticos. ¿Qué análisis corresponde según el Artículo 116.I.d?
+A. Es admisible, porque los textos reflejan la realidad social y cultural de las familias del lugar, según la norma.
+B. Contradice la garantía de prácticas y uso de recursos pedagógicos y didácticos no sexistas ni discriminatorios.
+C. Es admisible si los textos fueron aprobados por la junta escolar en una gestión anterior.
+D. Contradice el Código solo si los textos se usan en el nivel secundario y no en el primario.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «d) Prácticas y el uso de recursos pedagógicos y didácticos no sexistas ni discriminatorios […]». Aplicación razonada: los textos con roles estereotipados son recursos sexistas.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo IV: Derecho a la educación, información, cultura y recreación. Art. 116, parágrafo I, inciso d) (página impresa 38; página PDF 40).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+59. [Ley N.º 548 – LIBRO I] Un padre afirma que puede golpear a su hijo «porque tiene autoridad paterna». ¿Qué análisis corresponde?
+A. La autoridad paterna permite el castigo físico moderado, siempre que no produzca lesiones tipificadas como delito.
+B. La autoridad paterna debe ejercerse con métodos no violentos; se prohíbe cualquier castigo físico, violento o humillante.
+C. La autoridad paterna no está regulada por el Código, que solo se aplica a las instituciones públicas y privadas.
+D. La autoridad paterna permite el castigo físico solo a partir de la adolescencia, cuando el hijo puede comprenderlo, según la Ley 548.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El ejercicio de la autoridad de la madre, padre, guardadora o guardador, tutora o tutor, familiares, educadoras y educadores, deben emplear métodos no violentos en la crianza, formación, educación y corrección. Se prohíbe cualquier tipo de castigo físico, violento o humillante». Aplicación razonada: la autoridad no habilita el castigo físico.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 146, parágrafo II (página impresa 51; página PDF 53).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+60. [Ley N.º 548 – LIBRO I] Un estudiante que trabaja por cuenta ajena tiene un empleador que le impide asistir a clases. ¿Qué análisis corresponde según el Artículo 132.IV?
+A. El empleador puede limitar la asistencia escolar si el adolescente percibe un salario igual al mínimo nacional.
+B. El empleador puede fijar libremente el horario, pues la educación es responsabilidad exclusiva de la familia.
+C. El empleador debe otorgar una hora semanal no remunerada para estudio, si el adolescente lo solicita por escrito, según lo establecido.
+D. El empleador no puede limitar su derecho a la educación y debe otorgarle dos horas diarias remuneradas para estudio.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La empleadora o el empleador no podrá limitar su derecho a la educación, debiendo otorgar dos (2) horas diarias destinadas a estudio, que deberán ser remuneradas». Aplicación razonada: la conducta del empleador contradice la garantía educativa del adolescente trabajador.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VI: Derecho a la protección de la niña, niño y adolescente en relación al trabajo. Art. 132, parágrafo IV (página impresa 44; página PDF 46).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+61. [Ley N.º 548 – LIBRO I] Un estudiante considera que su calificación no se ajusta a los criterios de evaluación establecidos por la autoridad competente. ¿Qué garantía del Artículo 116 lo respalda?
+A. La provisión de servicios de asesoría y sensibilización para el ejercicio de sus derechos.
+B. La educación sin racismo ni discriminación, que promueva una cultura pacífica y de buen trato.
+C. La sensibilización y formación oportuna en educación sobre sexualidad integral en el currículo.
+D. La impugnación de los criterios de evaluación, pudiendo recurrir a las instancias superiores.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «f) Impugnación de los criterios de evaluación cuando éstos no se ajusten a los establecidos por la autoridad competente, pudiendo recurrir a las instancias superiores […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo IV: Derecho a la educación, información, cultura y recreación. Art. 116, parágrafo I, inciso f) (página impresa 38; página PDF 40).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+62. [Ley N.º 548 – LIBRO I] Una persona condenada por delito contra la libertad sexual de un niño, ya cumplida su pena, quiere instalar un negocio frente a una unidad educativa. ¿Qué dispone el Artículo 149.I.c?
+A. Puede instalar el negocio, porque al cumplir la pena se extinguen todas las restricciones de la sentencia, según la normativa.
+B. Se le prohíbe vivir, trabajar o mantenerse cerca de unidades educativas y lugares de concurrencia de la niñez.
+C. Puede instalar el negocio si obtiene autorización de la junta escolar y de la Defensoría de la Niñez.
+D. Se le prohíbe solo trabajar dentro de la unidad, pero puede instalar negocios en sus inmediaciones.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «c) Prohibición para las personas descritas en los incisos precedentes, de que una vez cumplida la sanción penal, vivan, trabajen o se mantengan cerca de parques, centros de esparcimiento y recreación para niñas, niños y adolescentes, unidades educativas, o lugares en los cuales exista concurrencia de esta población […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 149, parágrafo I, inciso c) (página impresa 52; página PDF 54).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+63. [Ley N.º 548 – LIBRO I] Una familia no inscribe a su hijo en la escuela pese a tener posibilidades para hacerlo. ¿Qué medida de protección puede imponer la Jueza o Juez de la Niñez a los padres según el Artículo 169?
+A. La separación definitiva de la niña o niño de su familia de origen y su inclusión en una entidad.
+B. La suspensión total de la autoridad paterna y materna por el plazo de cinco años de duración.
+C. La obligación de inscribir y controlar la asistencia y aprovechamiento escolar de la hija o hijo.
+D. La prohibición de tránsito de los padres por los lugares que frecuenta la niña o niño en la escuela.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «a) A la madre, padre, guardadora o guardador, tutora o tutor: […] 6. Obligación de inscribir y controlar la asistencia y aprovechamiento escolar de la hija, hijo, pupila o pupilo […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo II: Políticas, programas, medidas, entidades de atención y sanciones. Art. 169, parágrafo I, inciso a), numeral 6 (página impresa 64; página PDF 66).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+64. [Ley N.º 548 – LIBRO I] Un tercero amenaza reiteradamente a una estudiante en las inmediaciones de su unidad educativa. ¿Qué medida de protección puede imponerle la Jueza o Juez de la Niñez?
+A. Obligación de inscribir y controlar la asistencia escolar de la estudiante afectada por las amenazas.
+B. Inclusión obligatoria en programas de promoción de la familia de la estudiante amenazada.
+C. Orden de permanencia de la estudiante en la escuela durante todo el horario de clases.
+D. Prohibición o restricción temporal de su presencia en los lugares frecuentados, incluida la comunidad educativa.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «b) A terceros: […] 4. Prohibición o restricción temporal de la presencia de quien amenace o viole derechos de niñas, niños y adolescentes del hogar, lugares frecuentados, comunidad educativa o lugar de trabajo, para el caso de adolescentes […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo II: Políticas, programas, medidas, entidades de atención y sanciones. Art. 169, parágrafo I, inciso b), numeral 4 (página impresa 64; página PDF 66).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+65. [Ley N.º 548 – LIBRO I] Una persona es sancionada por una infracción contra los derechos de un niño. Según el Artículo 176.I, ¿qué sanciones puede imponer la Jueza o Juez Público de la Niñez?
+A. Privación de libertad de uno a tres años, inhabilitación definitiva y pérdida de la nacionalidad del infractor, según la normativa.
+B. Amonestación verbal, trabajos en la unidad educativa y expulsión del infractor del municipio de residencia.
+C. Multa a favor de la víctima, detención domiciliaria por un año y prohibición de ejercer cargos públicos.
+D. Servicios a la comunidad, multa, arresto de 8 a 24 horas y suspensión temporal del cargo, función, profesión u oficio.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «a) Prestación de servicios a la comunidad; b) Multa, para personas naturales, de uno (1) a cien (100) salarios mínimos, y para personas jurídicas de cien (100) a doscientos (200) salarios mínimos; c) Arresto de ocho (8) a veinticuatro (24) horas; y d) Suspensión temporal del cargo, función, profesión u oficio».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo II: Políticas, programas, medidas, entidades de atención y sanciones. Art. 176, parágrafo I (página impresa 68; página PDF 70).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+66. [Ley N.º 548 – LIBRO I] En una comunidad rural no existe Defensoría de la Niñez ni otra autoridad competente cercana para denunciar un caso de violencia contra un niño. ¿Qué prevé el Artículo 155.II?
+A. Se debe esperar la visita periódica de la Defensoría de la Niñez para presentar la denuncia en forma personal, en el marco legal.
+B. Se debe presentar la denuncia ante la junta escolar, que resuelve el caso según el reglamento de convivencia.
+C. Se podrá acudir a las autoridades indígena originario campesinas, que remitirán la denuncia a las instancias competentes.
+D. Se exime de la obligación de denunciar, por la imposibilidad material de acudir a una autoridad competente.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Ante la ausencia de las instancias descritas en el Parágrafo anterior del presente Artículo, se podrá acudir a las autoridades indígena originario campesinas, quienes según el caso deberán remitir la denuncia ante las instancias competentes».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 155, parágrafo II (página impresa 57; página PDF 59).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+67. [Ley N.º 548 – LIBRO I] Un juez penal dicta sentencia condenatoria por un delito contra la libertad sexual de una niña. Según el Artículo 149.I.e, ¿qué debe incluir en la sentencia?
+A. Las prohibiciones de los incisos b) y c): tratamiento psicológico o psiquiátrico y no acercarse a lugares de concurrencia de la niñez.
+B. Solo la pena privativa de libertad, pues las demás medidas corresponden a la Defensoría de la Niñez y Adolescencia.
+C. La obligación del condenado de pagar una multa a favor de la unidad educativa de la víctima del delito sexual.
+D. La autorización para que el condenado trabaje en unidades educativas una vez cumplida su pena principal en todo el país.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «e) Las Juezas o Jueces en materia penal, que emitan sentencias condenatorias por delitos contra la libertad sexual, cometidos contra niñas, niños o adolescentes, deberán incluir en éstas, las prohibiciones previstas en los incisos b) y c) del presente Artículo».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 149, parágrafo I, inciso e) (página impresa 53; página PDF 55).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+68. [Ley N.º 548 – LIBRO I] La Defensoría de la Niñez recibe una denuncia de violencia en un local público. ¿Qué atribución del Artículo 188 le permite verificarla?
+A. Imponer de oficio sanciones penales al responsable del local público denunciado, según lo dispuesto.
+B. Clausurar el local en forma definitiva sin intervención de autoridad municipal.
+C. Ordenar la detención preventiva del responsable hasta que concluya el proceso.
+D. Verificar las denuncias de violencia con facultades de ingreso a lugares públicos.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «cc) Verificar las denuncias de violencia con facultades de ingreso a lugares públicos […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo III: Instancias del Sistema de Protección. Art. 188, inciso cc) (página impresa 77; página PDF 79).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+69. [Ley N.º 548 – LIBRO I] Un estudiante perdió sus útiles escolares a raíz de una situación de violencia en su hogar. ¿Qué atribución del Artículo 188 permite a la Defensoría actuar?
+A. Exigir a la unidad educativa la reposición inmediata de los útiles con recursos de la junta escolar, según la Ley 548.
+B. Realizar acciones para la recuperación de los enseres personales y útiles escolares, en los casos que corresponda.
+C. Ordenar a la Policía el allanamiento del domicilio sin intervención de autoridad judicial alguna.
+D. Derivar el caso al Ministerio de Educación para la entrega de nuevos útiles al estudiante.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «dd) Realizar acciones para la recuperación de los enseres personales y útiles escolares, en los casos que corresponda […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo III: Instancias del Sistema de Protección. Art. 188, inciso dd) (página impresa 77; página PDF 79).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+70. [Ley N.º 548 – LIBRO I] Un adolescente de 15 años trabaja por cuenta ajena. Según el Artículo 132.VI, ¿cuál es la jornada máxima permitida?
+A. Ocho (8) horas diarias diurnas y cuarenta (40) horas diurnas semanales, sin exceder las diez de la noche.
+B. Seis (6) horas diarias y treinta (30) horas semanales, sin restricción de horario nocturno alguno, según lo dispuesto.
+C. Diez (10) horas diarias y cincuenta (50) horas semanales, con descanso obligatorio los domingos.
+D. Ocho (8) horas diarias y cuarenta y ocho (48) horas semanales, incluyendo el horario nocturno.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La jornada de trabajo no podrá ser mayor a ocho (8) horas diarias diurnas y a cuarenta (40) horas diurnas semanales. El horario de trabajo no deberá exceder las diez (10) de la noche».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VI: Derecho a la protección de la niña, niño y adolescente en relación al trabajo. Art. 132, parágrafo VI (página impresa 44; página PDF 46).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Ley N.º 548 – LIBRO I] Caso: un grupo de estudiantes hostiga y acosa sistemáticamente a un compañero durante los recreos. ¿Cómo se califica la conducta según el Artículo 151?
+A. Como violencia entre no pares, por tratarse de un grupo de estudiantes contra uno.
+B. Como violencia entre pares, considerada infracción mientras no constituya delito.
+C. Como violencia cibernética, por producirse en espacios abiertos de la unidad educativa.
+D. Como conducta lícita, si no se producen lesiones físicas tipificadas como delito penal.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «a) Violencia Entre Pares. Cualquier tipo de maltrato bajo el ejercicio de poder entre dos (2) estudiantes, o un grupo de estudiantes contra una o un estudiante o participante, que sea hostigado, castigado o acosado […] II. Los tipos de violencia descritos en el presente Artículo, serán considerados infracciones mientras no constituyan delitos».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 151, parágrafos I, inciso a), y II (páginas impresas 53-54; páginas PDF 55-56).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Ley N.º 548 – LIBRO I] Caso: un administrativo de la unidad insulta y humilla reiteradamente a una estudiante. ¿Cómo se califica según el Artículo 151?
+A. Como violencia entre pares, por ser ambos miembros de la misma comunidad educativa, conforme a norma.
+B. Como violencia entre no pares, por ejercicio o abuso de poder del personal contra una estudiante.
+C. Como violencia en razón de la situación económica, por la diferencia de ingresos.
+D. Como discriminación, únicamente si la estudiante pertenece a una cultura distinta.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «b) Violencia Entre no Pares. Cualquier tipo de violencia con ejercicio y/o abuso de poder de madres, padres, maestras, maestros, personal administrativo, de servicio y profesionales, que prestan servicio dentro de una unidad educativa y/o centro contra las o los estudiantes y/o participantes […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 151, parágrafo I, inciso b) (página impresa 53; página PDF 55).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Ley N.º 548 – LIBRO I] Caso: un estudiante es excluido de las actividades del curso por sus compañeros debido a su apellido indígena y su vestimenta. ¿Cómo se califica la conducta?
+A. Como violencia verbal, únicamente si los compañeros profieren insultos de forma oral y repetida.
+B. Como violencia en razón de género, por basarse en la identidad cultural del estudiante.
+C. Como conducta lícita, porque los estudiantes pueden elegir libremente a sus compañeros.
+D. Como discriminación en el Sistema Educativo, por distinción o exclusión fundada en apellido, vestimenta u origen.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «d) Discriminación en el Sistema Educativo. Conducta que consiste en toda forma de distinción, exclusión, restricción o preferencia fundada en razón de sexo, color, edad, orientación sexual e identidad de género, origen, cultura […] apariencia física, vestimenta, apellido u otras, dentro del sistema educativo […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 151, parágrafo I, inciso d) (página impresa 53; página PDF 55).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Ley N.º 548 – LIBRO I] Caso: un padre utiliza a su hija como objeto de presión en el conflicto de separación con la madre. ¿Qué dispone el Artículo 153.I?
+A. Constituye infracción por violencia, que la Jueza o Juez de la Niñez conoce y sanciona a denuncia de la Defensoría.
+B. Constituye un asunto familiar privado, en el que no corresponde intervención de autoridad alguna.
+C. Constituye delito penal en todos los casos, de competencia exclusiva del Ministerio Público.
+D. Constituye falta disciplinaria, que debe sancionar el director de la unidad de la estudiante.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La Jueza o el Juez Público en materia de Niñez y Adolescencia, a denuncia de la Defensoría de la Niñez y Adolescencia, conocerá y sancionará las siguientes infracciones por violencia: […] d) Utilización de la niña, niño o adolescente, como objeto de presión, chantaje, hostigamiento en conflictos familiares […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 153, parágrafo I, inciso d) (página impresa 56; página PDF 58).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Ley N.º 548 – LIBRO I] Caso: un grupo de adultos instiga a estudiantes a participar en un bloqueo durante un conflicto social. ¿Cómo se califica según el Artículo 153.I.e?
+A. Como ejercicio legítimo del derecho a la participación de las niñas, niños y adolescentes en la vida social, según la norma.
+B. Como infracción por violencia, por instigar a la niñez a participar en medidas de hecho en conflictos sociales.
+C. Como ejercicio de la libertad de manifestación pacífica, sin límites para los adolescentes mayores de doce.
+D. Como asunto ajeno al Código, que solo regula la violencia ejercida en el ámbito familiar y escolar.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «e) Utilización de la niña, niño o adolescente, como objeto de presión o chantaje en conflictos sociales, así como la instigación a participar en cualquier tipo de medidas de hecho […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 153, parágrafo I, inciso e) (página impresa 56; página PDF 58).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Ley N.º 548 – LIBRO I] Caso: el centro de estudiantes de una unidad desea participar en la elaboración del Plan de Convivencia, pero la dirección lo excluye. ¿Cómo se resuelve?
+A. La exclusión es válida: el Plan es competencia exclusiva de las autoridades superiores, sin participación estudiantil.
+B. La exclusión es válida si los padres de familia participan, pues ellos representan los intereses de los estudiantes.
+C. Debe incluirse: el Plan se elabora en un proceso abierto que convoca obligatoriamente a todos los miembros de la comunidad educativa.
+D. Debe incluirse solo con voz y sin voto, pues los estudiantes menores de dieciocho años no pueden decidir.
+Respuesta correcta: C
+Explicación: Aplicación razonada: Art. 152.II: «[…] en un proceso abierto participativo y plural, que convoque obligatoriamente a todas las y los miembros de la comunidad educativa […]». Art. 116.I.g: «Participación en procesos de la gestión educativa […]». Aplicación razonada: los estudiantes son miembros de la comunidad educativa con derecho a participar en la gestión.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 152, parágrafo II (página impresa 55; página PDF 57) y Art. 116, parágrafo I, inciso g) (página impresa 38; página PDF 40).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Ley N.º 548 – LIBRO I] Caso: un estudiante con discapacidad física no puede acceder a la biblioteca de la unidad por la falta de rampas. ¿Qué disposición orienta la solución?
+A. El Artículo 129.I, que fija la edad mínima para trabajar en catorce años en todo el territorio nacional, por mandato legal.
+B. El Artículo 176.I, que establece las sanciones que impone la Jueza o Juez de la Niñez por infracciones.
+C. El Artículo 191.I, que regula la conformación de los Comités de Niñas, Niños y Adolescentes municipales.
+D. El Artículo 121.IV, que exige aplicar parámetros técnicos mínimos de accesibilidad en las infraestructuras educativas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Las instancias responsables de la construcción de infraestructuras educativas, deportivas, recreativas y de esparcimiento, deberán aplicar parámetros técnicos mínimos de accesibilidad para que las niñas, niños y adolescentes en situación de discapacidad, puedan ejercer y gozar plenamente y en igualdad de condiciones de todos sus derechos […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo IV: Derecho a la educación, información, cultura y recreación. Art. 121, parágrafo IV (página impresa 40; página PDF 42).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Ley N.º 548 – LIBRO I] Caso: una estudiante relata a su maestra que un familiar la obliga a posar con vestimenta y actitudes eróticas para fotografías. ¿Cómo se califica?
+A. Como sexualización precoz o hipersexualización, que vulnera la integridad sexual e incurre en violencia psicológica.
+B. Como ejercicio de la libertad de expresión de la estudiante, sin vulneración alguna a su integridad.
+C. Como violencia en razón de la situación económica, si la familia obtiene recursos con las fotos.
+D. Como asunto familiar privado, protegido por el derecho a la intimidad de la vida familiar en todo el país.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «c) Sexualización precoz o hipersexualización, que constituye la sexualización de las expresiones, posturas o códigos de la vestimenta precoces, permitiendo o instruyendo que niñas, niños o adolescentes adopten roles y comportamientos con actitudes eróticas, que no corresponden a su edad, incurriendo en violencia psicológica […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 148, parágrafo II, inciso c) (página impresa 52; página PDF 54).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Ley N.º 548 – LIBRO I] Caso: un estudiante de 14 años quiere presentar por sí mismo un pedido escrito al director sobre las condiciones de su aula. La secretaría exige que lo firme su padre. ¿Cómo se resuelve?
+A. El pedido debe ser firmado por su padre, pues los menores de dieciocho años no pueden hacer peticiones.
+B. El pedido debe canalizarse por la junta escolar, única instancia autorizada para presentar peticiones.
+C. El pedido puede presentarse solo de forma colectiva, con la firma de al menos la mitad del curso.
+D. El estudiante puede efectuar la petición directamente, sin necesidad de representación, y debe ser respondido oportunamente.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Las niñas, niños y adolescentes tienen derecho a efectuar de manera directa peticiones, individual o colectivamente, de manera oral o escrita ante cualquier entidad pública o privada sin necesidad de representación, y a ser respondidos oportuna y adecuadamente».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo V: Derecho a opinar, participar y pedir. Art. 124 (página impresa 41; página PDF 43).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Ley N.º 548 – LIBRO I] Caso: un padre se niega a proporcionar a su hijo alimentos, vestido y educación, teniendo posibilidades para hacerlo. ¿Cómo lo califica el Artículo 153.I.c?
+A. Como infracción por violencia, por falta de provisión adecuada y oportuna de alimentos, vestido, educación o salud.
+B. Como ejercicio legítimo de la autoridad paterna, que permite al padre decidir sobre los gastos de la familia, conforme a norma.
+C. Como conducta lícita, salvo que la madre presente una demanda de asistencia familiar ante el juez de familia.
+D. Como delito penal de abandono, de competencia exclusiva del juez penal y no del juez de la niñez.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «c) Falta de provisión adecuada y oportuna de alimentos, vestido, vivienda, educación o cuidado de su salud, teniendo las posibilidades para hacerlo […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 153, parágrafo I, inciso c) (página impresa 56; página PDF 58).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Ley N.º 548 – LIBRO I] Al revisar el reglamento de su unidad, un director encuentra una norma que permite «jalones de oreja» como sanción. ¿Qué decisión es coherente con el Código?
+A. Eliminar la norma, porque se prohíben las sanciones corporales en las unidades educativas.
+B. Mantener la norma si los padres de familia la aprobaron en asamblea general por mayoría.
+C. Mantener la norma para estudiantes mayores de doce años, con autorización escrita de los padres.
+D. Sustituir la norma por castigos de pie frente al curso, que no implican contacto físico alguno.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «d) Se prohíben las sanciones corporales». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo IV: Derecho a la educación, información, cultura y recreación. Art. 117, inciso d) (página impresa 39; página PDF 41).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Ley N.º 548 – LIBRO I] Una dirección debe decidir cómo responder a tensiones y conflictos entre estudiantes. ¿Qué acción colectiva del Artículo 152.I es coherente?
+A. Expulsar a los estudiantes involucrados en conflictos para preservar el orden de la unidad.
+B. Elaborar y desarrollar medidas de no violencia para resolver las tensiones y conflictos emergentes.
+C. Ignorar los conflictos menores para no afectar el desarrollo normal de las actividades escolares, conforme a la norma.
+D. Delegar la resolución de todos los conflictos a la Policía Boliviana destacada en la zona.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «a) Elaborar y desarrollar medidas de no violencia para resolver las tensiones y conflictos emergentes […]». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 152, parágrafo I, inciso a) (página impresa 54; página PDF 56).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Ley N.º 548 – LIBRO I] Ante casos de violencia que nadie denuncia por temor, ¿qué acción colectiva del Artículo 152.I debe promover la comunidad educativa?
+A. Romper la cultura del silencio y del miedo, denunciando conductas y actos de cualquier tipo de violencia.
+B. Mantener la reserva absoluta de los casos, para proteger la imagen de la unidad educativa.
+C. Resolver los casos en reuniones privadas entre las familias, sin denuncia ante autoridades.
+D. Esperar a que los casos se agraven, para denunciar solo aquellos que constituyan delito.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «c) Romper la cultura del silencio y del miedo denunciando conductas y actos de cualquier tipo de violencia […]». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 152, parágrafo I, inciso c) (página impresa 54; página PDF 56).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Ley N.º 548 – LIBRO I] Al definir el procedimiento disciplinario del Plan de Convivencia, ¿qué directriz del Artículo 152.III.e debe observar la dirección?
+A. Sujetar las decisiones disciplinarias a criterios y valores conocidos por normas educativas, evitando decisiones arbitrarias.
+B. Dejar las decisiones disciplinarias al criterio personal del director en cada caso, sin reglas previas.
+C. Aplicar las sanciones que decida la mayoría de los padres en asamblea, sin sujeción a normas educativas.
+D. Copiar el procedimiento disciplinario de otra unidad educativa, sin adecuarlo a las normas vigentes.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «e) El procedimiento marco para la adopción de decisiones disciplinarias que deben sujetarse a criterios y valores conocidos por normas educativas nacionales, departamentales, municipales y de la región, evitando de toda forma las decisiones arbitrarias […]». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 152, parágrafo III, inciso e) (página impresa 55; página PDF 57).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Ley N.º 548 – LIBRO I] Una comunidad educativa desea incorporar procedimientos alternativos de resolución de conflictos en su Plan de Convivencia. ¿Qué decisión es coherente con el Artículo 152.III.f?
+A. Incluirlos para todos los casos, incluidos los de violencia sexual contra estudiantes.
+B. Rechazarlos, porque el Código prohíbe toda resolución alternativa de conflictos escolares, según la ley vigente.
+C. Incluirlos si la comunidad así lo establece, siempre que no sean contrarios a ninguna norma.
+D. Incluirlos solo con autorización previa del Ministerio de Justicia como Ente Rector.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «f) La descripción de procedimientos alternativos, para la resolución de conflictos, si la comunidad así lo establece, siempre que no sean contrarios a ninguna norma […]». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 152, parágrafo III, inciso f) (página impresa 55; página PDF 57).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Ley N.º 548 – LIBRO I] Al determinar el interés superior de un estudiante en un caso concreto, ¿qué elementos debe apreciar la autoridad según el Artículo 12.a?
+A. Su opinión y la de sus padres o tutores, el equilibrio entre derechos y deberes, y su condición de persona en desarrollo.
+B. Solo la opinión de los padres o tutores, pues la niña o niño no tiene capacidad para expresar su interés.
+C. Solo el rendimiento académico del estudiante, como indicador objetivo de su desarrollo integral.
+D. Solo la opinión de la autoridad educativa, como responsable de la gestión de la unidad educativa.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] Para determinar el interés superior de las niñas, niños y adolescentes en una situación concreta, se debe apreciar su opinión y de la madre, padre o ambos padres, guardadora o guardador, tutora o tutor; la necesidad de equilibrio entre sus derechos, garantías y deberes; su condición específica como persona en desarrollo […]». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 12, inciso a) (página impresa 11; página PDF 13).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Ley N.º 548 – LIBRO I] Una unidad educativa decide cómo abordar la educación sobre sexualidad. ¿Qué garantía del Artículo 116.I.i orienta la decisión?
+A. Omitir toda información sobre sexualidad, por corresponder exclusivamente a la familia de cada estudiante.
+B. Impartir educación sexual solo a estudiantes mayores de dieciséis años, con autorización notarial de los padres.
+C. Sensibilización, información adecuada y formación oportuna sobre sexualidad integral en el marco de los contenidos curriculares.
+D. Delegar la educación sexual a organizaciones externas, sin relación con los contenidos curriculares oficiales.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «i) Sensibilización y acceso a la información adecuada y formación oportuna en educación sobre sexualidad integral en el marco de los contenidos curriculares». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo IV: Derecho a la educación, información, cultura y recreación. Art. 116, parágrafo I, inciso i) (página impresa 39; página PDF 41).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Ley N.º 548 – LIBRO I] La Jueza de la Niñez debe elegir medidas de protección para un estudiante. ¿Qué criterio del Artículo 170.b debe preferir?
+A. Las medidas de separación familiar, por ser las más eficaces para proteger al niño de su entorno.
+B. Las medidas sancionatorias, por su efecto disuasivo sobre la familia y la comunidad del niño.
+C. Las medidas de institucionalización, por garantizar un control permanente sobre el niño protegido, conforme a la norma.
+D. Las medidas pedagógicas y las que fomenten los vínculos con la familia y la comunidad a la que pertenece.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «b) En la aplicación de las medidas, se deben preferir las pedagógicas y las que fomenten los vínculos con la familia y la comunidad a la cual pertenece la niña, el niño y el adolescente […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo II: Políticas, programas, medidas, entidades de atención y sanciones. Art. 170, inciso b) (página impresa 65; página PDF 67).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Ley N.º 548 – LIBRO I] Una entidad que trabaja con niñas y niños debe contratar a un educador. ¿Qué decisión es coherente con el Artículo 149.I.d?
+A. Contratar al postulante con mayor experiencia, sin exámenes psicológicos previos ni otros requisitos.
+B. Exigir solo un certificado de antecedentes policiales, que sustituye cualquier examen psicológico.
+C. Someter previamente a los postulantes a exámenes psicológicos como requisito de idoneidad.
+D. Aplicar exámenes psicológicos solo después de seis meses de trabajo, en el periodo de prueba.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «d) Tanto las instituciones públicas como privadas, que desempeñen labores en las cuales se relacionen con niñas, niños o adolescentes, para fines de contratación de personal, deberán previamente, someter a las o los postulantes a exámenes psicológicos valorando los mismos como requisito de idoneidad […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 149, parágrafo I, inciso d) (página impresa 53; página PDF 55).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Ley N.º 548 – LIBRO I] Un estudiante sancionado considera injusta la decisión del director. ¿Qué decisión institucional es coherente con el Artículo 117.c?
+A. Rechazar la impugnación, pues la decisión del director es definitiva e inapelable en la unidad.
+B. Permitir la impugnación solo si los padres pagan una garantía por los gastos del trámite.
+C. Remitir la impugnación al mismo director, que revisa su propia decisión sin otra instancia.
+D. Garantizarle el derecho a impugnar la sanción ante una autoridad superior e imparcial.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «c) Antes de la imposición de cualquier amonestación y/o sanción, debe garantizarse a todas las niñas, niños y adolescentes, el ejercicio de los derechos a opinar y a la defensa, garantizando así también su derecho a la impugnación ante la autoridad superior e imparcial […]». Aplicación razonada: el Código se refiere a las autoridades, maestras, maestros y servidores del Sistema Educativo; la respuesta aplica la disposición citada a la función del director de Unidad Educativa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo IV: Derecho a la educación, información, cultura y recreación. Art. 117, inciso c) (página impresa 39; página PDF 41).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Ley N.º 548 – LIBRO I] Al elaborar el Plan de Convivencia, ¿qué contenidos mínimos exige el Artículo 152.III?
+A. Derechos y deberes, normas de conducta, procedimiento disciplinario, sanciones internas, informes anuales y programas de prevención, entre otros.
+B. Solo el listado de sanciones aplicables a los estudiantes, sin derechos, procedimientos ni programas de prevención de la violencia.
+C. Solo el calendario de actividades festivas de la unidad educativa, sin normas de conducta ni procedimientos disciplinarios.
+D. Solo las obligaciones de los padres de familia, sin derechos de los estudiantes ni informes al Ministerio de Educación.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «a) Los derechos y deberes de las y los miembros de la comunidad educativa y/o centros; b) Normas de conducta […] c) El procedimiento disciplinario […] d) La descripción de las sanciones internas […] g) La remisión de informes anuales […] h) La organización de programas y talleres de capacitación destinados a prevención […]». Aplicación razonada: la planificación del Plan integra las directrices del Artículo 152.III.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo VIII: Derecho a la integridad personal y protección contra la violencia. Art. 152, parágrafo III (página impresa 55; página PDF 57).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Ley N.º 548 – LIBRO I] ¿Qué carácter tiene el Plan Plurinacional de la Niña, Niño y Adolescente según el Artículo 164.II?
+A. Se elabora de forma anual y es independiente de las políticas y planes generales del Estado Plurinacional.
+B. Se elabora de forma quinquenal y armoniza las políticas de la niñez con los planes generales del Estado.
+C. Se elabora cada diez años por las Defensorías municipales, sin relación con los planes del nivel central.
+D. Se elabora una única vez y no admite modificaciones durante la vigencia del Código Niña, Niño y Adolescente.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Las Políticas para las niñas, niños y adolescentes, deberán armonizarse con las otras políticas y planes generales del Estado y se derivarán en el Plan Plurinacional de la Niña, Niño y Adolescente que se elaborará de forma quinquenal».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo II: Políticas, programas, medidas, entidades de atención y sanciones. Art. 164, parágrafo II (página impresa 61; página PDF 63).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Ley N.º 548 – LIBRO I] Para garantizar la idoneidad del personal que atiende a la niñez, ¿qué fin de las políticas de protección del Artículo 165 debe orientar la gestión de recursos humanos?
+A. Garantizar procesos de selección, capacitación y evaluación de los servidores encargados de la atención, prevención y protección.
+B. Garantizar la estabilidad laboral indefinida del personal, sin procesos de evaluación ni capacitación periódica.
+C. Garantizar la contratación del personal por recomendación de las organizaciones sociales del lugar.
+D. Garantizar la rotación anual obligatoria del personal entre las distintas instituciones del Estado.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «e) Garantía de procesos de selección, capacitación y evaluación de servidoras y servidores públicos encargados de la atención, prevención y protección de niñas, niños y adolescentes, en todos los niveles del Estado, como parte del Sistema de Protección, asegurando su idoneidad […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo II: Políticas, programas, medidas, entidades de atención y sanciones. Art. 165, inciso e) (página impresa 62; página PDF 64).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Ley N.º 548 – LIBRO I] ¿Qué deben incluir prioritariamente las políticas de protección integral en su formulación, según el Artículo 163.II?
+A. La consulta de las niñas, niños y adolescentes, tomando en cuenta aspectos interculturales e intergeneracionales.
+B. La aprobación de los padres de familia, sin consulta directa a la niñez ni enfoque intercultural alguno, conforme a norma.
+C. La opinión exclusiva de los técnicos del Ministerio de Justicia, como Ente Rector de la política.
+D. La consulta a las empresas privadas, por su obligación de ejecutar programas de responsabilidad social.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] La participación de la sociedad en la formulación de las políticas deberá incluir prioritariamente la consulta de las niñas, niños y adolescentes, y tomar en cuenta aspectos interculturales e intergeneracionales».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo II: Políticas, programas, medidas, entidades de atención y sanciones. Art. 163, parágrafo II (páginas impresas 60-61; páginas PDF 62-63).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Ley N.º 548 – LIBRO I] ¿Qué deben hacer las Entidades Territoriales Autónomas con un índice de embarazo adolescente superior al fijado por el Ministerio de Salud, según el Artículo 23.III?
+A. Suspender la escolaridad de las estudiantes embarazadas hasta que el índice baje del límite nacional.
+B. Realizar acciones diferenciadas y, si es necesario, reasignaciones presupuestarias para disminuir el índice.
+C. Esperar la revisión quinquenal del índice por el Ministerio de Salud, sin acciones propias en el periodo, según la Ley 548.
+D. Transferir la responsabilidad al Ministerio de Educación, que asume las acciones de prevención.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Las Entidades Territoriales Autónomas que tengan un índice de embarazo en adolescentes por encima del fijado por el Ministerio de Salud, deberán realizar acciones diferenciadas y podrán realizar las reasignaciones presupuestarias necesarias para la disminución de este índice».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo I: Derecho a la vida y a la salud. Art. 23, parágrafo III (página impresa 15; página PDF 17).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Ley N.º 548 – LIBRO I] Para el seguimiento de las políticas dirigidas a la niñez en el municipio, ¿qué atribución reconoce el Artículo 192 a los Comités de Niñas, Niños y Adolescentes?
+A. Aprobar el presupuesto municipal destinado a la niñez, con carácter vinculante para el Concejo Municipal.
+B. Designar a los profesionales de la Defensoría de la Niñez, mediante elección entre sus representantes.
+C. Realizar el seguimiento y monitoreo del cumplimiento de políticas, planes, programas, proyectos y normativas para la niñez.
+D. Imponer sanciones a los servidores públicos que incumplan las políticas dirigidas a la niñez del lugar.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «b) Realizar el seguimiento y monitoreo del cumplimiento de políticas, planes, programas, proyectos, acciones y normativas dirigidas a niñas, niños y adolescentes en el Departamento y en el Municipio […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título II, Capítulo III: Instancias del Sistema de Protección. Art. 192, parágrafo I, inciso b) (página impresa 78; página PDF 80).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Ley N.º 548 – LIBRO I] ¿Qué deben ejecutar las Entidades Territoriales Autónomas municipales según el Artículo 15.II, y con qué recursos?
+A. El Programa Municipal de la Niña, Niño y Adolescente, que incluye la Defensoría, con recursos suficientes de carácter obligatorio.
+B. El Programa Penal para Adolescentes, que incluye los centros de reintegración, con recursos de la cooperación externa, según lo dispuesto.
+C. El Plan Plurinacional de la Niñez, en sustitución del nivel central, con recursos del Tesoro General de la Nación.
+D. El Programa de Responsabilidad Social, que incluye a las empresas privadas, con recursos voluntarios de estas.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Las Entidades Territoriales Autónomas Departamentales y Municipales ejecutarán […] el Programa Municipal de la Niña, Niño y Adolescente que incluye el funcionamiento de la Defensoría de la Niñez y Adolescencia y sus actividades programáticas respectivamente; […] deberán disponer de los recursos económicos y humanos suficientes con carácter obligatorio».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 15, parágrafo II (páginas impresas 12-13; páginas PDF 14-15).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Ley N.º 548 – LIBRO I] Para articular la protección de la niñez entre los niveles del Estado, ¿cómo funciona el Sistema Plurinacional Integral según el Artículo 13.II?
+A. Solo en el nivel central, mediante acciones sectoriales del Ministerio de Justicia sin participación privada, según la ley vigente.
+B. Solo en el nivel municipal, mediante las Defensorías, sin articulación con los demás niveles del Estado.
+C. En todos los niveles del Estado, mediante acciones intersectoriales de interés público de entes públicos y privados.
+D. Solo en el ámbito judicial, mediante los Juzgados de la Niñez, sin intervención de otras instancias.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El Sistema funciona en todos los niveles del Estado, a través de acciones intersectoriales de interés público, desarrolladas por entes del sector público y del sector privado».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 13, parágrafo II (página impresa 12; página PDF 14).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Ley N.º 548 – LIBRO I] Para fortalecer la especialización del personal que trabaja con la niñez, ¿qué deben desarrollar las instituciones del Estado según el Artículo 11?
+A. Programas de rotación de personal entre instituciones, sin capacitación ni especialización específica.
+B. Programas de capacitación, especialización, actualización e institucionalización de sus operadores.
+C. Programas de contratación temporal de consultores externos, en sustitución del personal permanente.
+D. Programas de evaluación de rendimiento académico de la niñez, a cargo de los operadores del sistema.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Las instituciones del Estado en todos sus niveles, involucradas en la protección de los derechos de la niña, niño y adolescente, garantizarán a favor de las niñas, niños y adolescentes el tratamiento especializado, para lo cual desarrollarán programas de capacitación, especialización, actualización e institucionalización de sus operadores».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Título Preliminar, Capítulo Único: Disposiciones generales. Art. 11 (página impresa 10; página PDF 12).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Ley N.º 548 – LIBRO I] Para una gestión institucional con enfoque de derechos, ¿qué garantías del Artículo 116.I debe integrar estratégicamente una unidad educativa?
+A. Disciplina estricta, recursos uniformes, decisiones centralizadas en el director y reserva de la información pedagógica.
+B. Selección por rendimiento, recursos competitivos, gestión sin participación estudiantil y evaluación sin impugnación.
+C. Educación diferenciada por sexo, recursos tradicionales, participación solo de los padres y reserva de las calificaciones, según lo establecido.
+D. Educación sin violencia ni discriminación, recursos no sexistas, participación en la gestión y acceso a la información educativa.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «a) Educación sin violencia […] b) Educación, sin racismo y ninguna forma de discriminación […] d) Prácticas y el uso de recursos pedagógicos y didácticos no sexistas ni discriminatorios; […] g) Participación en procesos de la gestión educativa; h) Acceso a la información del proceso pedagógico y de la gestión educativa […]». Aplicación razonada: la gestión institucional articula varias garantías del Artículo 116.I.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro I, Título I, Capítulo IV: Derecho a la educación, información, cultura y recreación. Art. 116, parágrafo I (páginas impresas 38-39; páginas PDF 40-41).

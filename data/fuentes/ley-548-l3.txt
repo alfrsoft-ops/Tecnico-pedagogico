@@ -1,0 +1,1111 @@
+# Fuente: ley-548-l3.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Ley N.º 548, Código Niña, Niño y Adolescente (17 de julio de 2014)
+# Libro III: Sistema penal para adolescentes (Arts. 259 al 348)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar el Libro III (Arts. 259 al 348) de la Ley N.º 548 en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto de la Ley proporcionado, sin incorporar fuentes externas, y su fundamentación transcribe textualmente el fragmento que respalda la respuesta correcta.
+# Criterios documentales aplicados
+# Alcance de la fuente. El Libro III comprende el Título I, Disposiciones generales (sistema penal, responsabilidad, garantías y ámbito de aplicación); el Título II, Competencias, atribuciones y funciones de los integrantes del Sistema Penal para adolescentes; el Título III, Proceso penal del adolescente (acción penal, aprehensión y medidas cautelares, investigación, remisión, salidas alternativas y otros requerimientos conclusivos); y el Título IV, Mecanismos de justicia restaurativa, con las secciones sobre medidas socio-educativas, centros especializados y ejecución de las medidas. En el PDF proporcionado ocupa las páginas 100 a 135. Las disposiciones adicionales, transitorias, abrogatorias y finales quedan fuera del alcance.
+# Página impresa. La edición proporcionada (Asamblea Legislativa Plurinacional) numera sus páginas al pie; la página impresa equivale a la página PDF menos dos (p. ej., página PDF 41 = página impresa 39). Cada referencia consigna ambas.
+# Fundamentación textual. Cada fundamentación transcribe entre comillas el fragmento de la Ley que respalda la respuesta correcta. En las preguntas derivadas se añade una nota breve rotulada «Aplicación razonada», que distingue la inferencia del contenido textual.
+# Competencias directivas. El Libro III no establece funciones del director de Unidad Educativa: en ese sentido estricto, la dimensión 3 está «No respaldada por el documento fuente». Sí contiene normas que orientan la actuación de una autoridad educativa frente a estudiantes involucrados en el Sistema Penal: la confidencialidad de los datos que permitan identificar al adolescente (Art. 262.I.m) y la prohibición de difundir su imagen o identidad (Art. 263.I), la imposibilidad de procesar o privar de libertad a niñas y niños (Art. 269.III), la presunción de minoría de catorce años (Art. 265.III), la regla de conducta de inscribirse y asistir a un centro de educación formal (Art. 323.IV.c) y la compatibilidad de las medidas con el estudio (Arts. 326, 328 y 330). Esas preguntas llevan la nota «Aplicación razonada».
+# Cobertura y no duplicación. Las preguntas cubren los cuatro títulos del Libro III, con énfasis en los derechos y garantías (Art. 262), la remisión y las salidas alternativas (Arts. 298 a 303), los mecanismos de justicia restaurativa (Arts. 316 a 321) y las medidas socio-educativas (Arts. 322 a 345). Algunos artículos centrales se evalúan en varias preguntas con enfoques distintos; no hay preguntas repetidas ni con la misma respuesta y el mismo enfoque.
+# Etiqueta de trazabilidad. Cada enunciado inicia con [Ley N.º 548 – LIBRO III], para su integración en plataformas de simulación que combinan preguntas de varios documentos; el título, capítulo y artículo exactos figuran en la referencia.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 26 preguntas y la más corta en 11, por lo que la longitud no es una pista.
+# 2. Distribución metodológica y ponderación
+# N.º
+# Tipo de evaluación
+# ¿Qué evalúa?
+# Preg.
+# Peso
+# N.º preg.
+# 1
+# Conocimiento y memorización
+# Dominio de conceptos, definiciones, principios, fechas, disposiciones y contenidos fundamentales del documento.
+# 10
+# 10%
+# 1–10
+# 2
+# Dominio conceptual
+# Comprensión de los fundamentos pedagógicos, administrativos, curriculares y organizativos del Sistema Educativo Plurinacional.
+# 10
+# 10%
+# 11–20
+# 3
+# Competencias y responsabilidades directivas
+# Conocimiento de las funciones, atribuciones, obligaciones y responsabilidades del director de una Unidad Educativa (en esta fuente: disposiciones aplicables a autoridades y servidores del ámbito educativo, con nota «Aplicación razonada»).
+# 10
+# 10%
+# 21–30
+# 4
+# Comprensión e interpretación
+# Capacidad para interpretar documentos, orientaciones pedagógicas y situaciones educativas.
+# 10
+# 10%
+# 31–40
+# 5
+# Diferenciación conceptual
+# Capacidad para distinguir conceptos, funciones, procedimientos, niveles de responsabilidad y enfoques educativos similares.
+# 10
+# 10%
+# 41–50
+# 6
+# Análisis crítico
+# Capacidad para identificar problemas institucionales, analizar sus causas, valorar alternativas y emitir criterios fundamentados.
+# 10
+# 10%
+# 51–60
+# 7
+# Aplicación normativa
+# Capacidad para aplicar correctamente la normativa en situaciones institucionales.
+# 10
+# 10%
+# 61–70
+# 8
+# Resolución de casos prácticos
+# Capacidad para resolver conflictos escolares, problemas administrativos, dificultades pedagógicas y situaciones con estudiantes, profesores y familias.
+# 10
+# 10%
+# 71–80
+# 9
+# Toma de decisiones
+# Capacidad para adoptar decisiones oportunas, pertinentes, fundamentadas y responsables ante situaciones institucionales.
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# Capacidad para planificar, organizar, dirigir, supervisar y evaluar acciones orientadas al mejoramiento de la calidad educativa.
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–10)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta [Ley N.º 548 – LIBRO III]; el título, el capítulo y el artículo exactos figuran en la referencia.
+# Cada fundamentación transcribe el fragmento textual de la Ley y remite al artículo, parágrafo e inciso, con página impresa y página PDF.
+# Contenido limitado exclusivamente a el Libro III (Arts. 259 al 348) de la Ley N.º 548; no se atribuyen al director de Unidad Educativa competencias que la fuente no contiene.
+
+CAPÍTULO: ley-548-l3
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Ley N.º 548 – LIBRO III] Según el Artículo 267.I, ¿a qué personas se aplican las disposiciones del Libro III?
+A. A adolescentes desde los doce (12) años y menores de dieciocho (18), sindicados por cualquier infracción escolar, según la Ley 548.
+B. A niñas, niños y adolescentes de cualquier edad, sindicados por hechos tipificados como delitos o infracciones.
+C. A adolescentes desde los catorce (14) años y menores de dieciocho (18), sindicados por hechos tipificados como delitos.
+D. A jóvenes desde los dieciséis (16) años y menores de veintiuno (21), sindicados por delitos de acción pública.
+Respuesta correcta: C
+Explicación: «Las disposiciones de este Libro se aplican a adolescentes a partir de catorce (14) años de edad y menores de dieciocho (18) años de edad, sindicados por la comisión de hechos tipificados como delitos».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo II: Ámbito de aplicación. Art. 267, parágrafo I (página impresa 101; página PDF 103).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Ley N.º 548 – LIBRO III] Según el Artículo 267.II, ¿cuál es la edad máxima para el cumplimiento de la sanción en privación de libertad?
+A. Dieciocho (18) años.
+B. Veintiún (21) años.
+C. Veinticuatro (24) años.
+D. Treinta (30) años.
+Respuesta correcta: C
+Explicación: «Se establece la edad máxima de veinticuatro (24) años para el cumplimiento de la sanción en privación de libertad».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo II: Ámbito de aplicación. Art. 267, parágrafo II (página impresa 102; página PDF 104).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Ley N.º 548 – LIBRO III] Según el Artículo 268.I, ¿en qué proporción se atenúa la responsabilidad penal de la o el adolescente?
+A. En dos terceras partes respecto del mínimo penal del delito.
+B. En cuatro quintas partes respecto del máximo penal del delito.
+C. En la mitad respecto del máximo penal del delito cometido.
+D. En un tercio respecto de la pena que corresponde a un adulto, según la norma.
+Respuesta correcta: B
+Explicación: «La responsabilidad penal de la o el adolescente será atenuada en cuatro quintas partes respecto del máximo penal correspondiente al delito establecido en la norma penal».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo II: Ámbito de aplicación. Art. 268, parágrafo I (página impresa 102; página PDF 104).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Ley N.º 548 – LIBRO III] Según el Artículo 264, ¿cuál es la duración máxima del proceso jurisdiccional, desde la denuncia hasta la sentencia ejecutoriada?
+A. Doce meses.
+B. Seis meses.
+C. Dos años.
+D. Ocho meses.
+Respuesta correcta: D
+Explicación: «La duración del proceso jurisdiccional desde la denuncia hasta la sentencia ejecutoriada dictada por la Jueza o el Juez Público en materia de Niñez y Adolescencia, no deberá exceder de ocho meses […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 264 (página impresa 101; página PDF 103).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Ley N.º 548 – LIBRO III] Según el Artículo 293.II, ¿cuál es el plazo máximo de la etapa investigativa a cargo del Fiscal, con un solo adolescente imputado?
+A. Cuarenta y cinco (45) días.
+B. Sesenta (60) días hábiles.
+C. Treinta y cinco (35) días.
+D. Noventa (90) días corridos.
+Respuesta correcta: A
+Explicación: «La etapa investigativa a cargo de la o el Fiscal, no deberá ser mayor a los cuarenta y cinco (45) días, contados a partir de la presentación de la denuncia en sede policial o fiscal […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo III: Investigación. Art. 293, parágrafo II (página impresa 113; página PDF 115).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+6. [Ley N.º 548 – LIBRO III] Según el Artículo 280, ¿cuáles son las entidades de atención del Sistema Penal para adolescentes?
+A. Centros penitenciarios y recintos de máxima seguridad.
+B. Casas de acogida y centros de rehabilitación municipal.
+C. Unidades educativas especiales y hogares sustitutos.
+D. Centros de orientación y centros de reintegración social.
+Respuesta correcta: D
+Explicación: «Son entidades de atención del Sistema Penal, las siguientes: 1. Centros de orientación; 2. Centros de reintegración social».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título II, Capítulo VI: Entidades de atención y programas del Sistema Penal. Art. 280 (página impresa 106; página PDF 108).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+7. [Ley N.º 548 – LIBRO III] Según el Artículo 272.I, ¿qué entidad ejerce la rectoría técnica del Sistema Penal para Adolescentes?
+A. El Ministerio de Gobierno.
+B. El Ministerio de Educación.
+C. El Ministerio de Trabajo.
+D. El Ministerio de Justicia.
+Respuesta correcta: D
+Explicación: «El Ministerio de Justicia, ejercerá la rectoría técnica del Sistema Penal para Adolescentes […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título II, Capítulo II: Ministerio de Justicia. Art. 272, parágrafo I (página impresa 103; página PDF 105).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+8. [Ley N.º 548 – LIBRO III] Según el Artículo 326.III, ¿en qué horario y con qué límites se cumple la prestación de servicios a la comunidad?
+A. Solo en horario diurno, no más de tres horas semanales ni menos de una hora.
+B. En cualquier horario, no más de diez horas semanales ni menos de cinco horas.
+C. Solo en horario nocturno, no más de ocho horas diarias ni menos de dos horas.
+D. Solo en días hábiles, no más de veinte horas mensuales ni menos de diez horas.
+Respuesta correcta: A
+Explicación: «La medida socio-educativa será cumplida, exclusivamente en horario diurno, no pudiendo exceder de las tres (3) horas semanales, ni ser inferior de una (1) hora. Podrán cumplirse en días hábiles, sábados, domingos o feriados».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección II: Definición de las medidas. Art. 326, parágrafo III (página impresa 126; página PDF 128).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+9. [Ley N.º 548 – LIBRO III] Según el Artículo 284.I.a, ¿en qué plazo prescribe la acción penal contra adolescentes por delitos con pena máxima de diez o más años?
+A. En cinco (5) años.
+B. En diez (10) años.
+C. En tres (3) años.
+D. En un (1) año.
+Respuesta correcta: C
+Explicación: «a) En tres (3) años, para los delitos que tengan señalada una pena privativa de libertad cuyo máximo legal sea de diez (10) o más años […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo I: Acción penal y participación. Art. 284, parágrafo I, inciso a) (página impresa 108; página PDF 110).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+10. [Ley N.º 548 – LIBRO III] Según el Artículo 344.II, ¿en qué plazo debe estar listo el plan individual de ejecución de medidas?
+A. A más tardar en noventa (90) días desde la sentencia ejecutoriada.
+B. A más tardar en diez (10) días desde la imputación formal del fiscal.
+C. A más tardar en seis (6) meses desde el ingreso al centro especializado.
+D. A más tardar en treinta (30) días desde la sentencia ejecutoriada.
+Respuesta correcta: D
+Explicación: «El plan deberá estar listo, a más tardar en treinta (30) días a partir de la sentencia debidamente ejecutoriada».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección IV: Ejecución de las medidas socio-educativas. Art. 344, parágrafo II (página impresa 131; página PDF 133).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+11. [Ley N.º 548 – LIBRO III] ¿En qué consiste, según el Artículo 261.I, la responsabilidad diferenciada de la o el adolescente respecto del adulto?
+A. En la reducción de la pena a la mitad y su cumplimiento en un recinto penitenciario común.
+B. En la exención total de responsabilidad penal y la aplicación de medidas solo civiles.
+C. En la jurisdicción especializada y en la medida socio-educativa que se le imponga.
+D. En la competencia del juez penal ordinario y la aplicación de sanciones alternativas.
+Respuesta correcta: C
+Explicación: «La o el adolescente que incurra en la comisión de conductas punibles tipificados como delitos en el Código Penal y en leyes especiales, responderá por el hecho de forma diferenciada del adulto. La diferencia consiste en la Jurisdicción Especializada y en la medida socio-educativa que se le imponga».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 261, parágrafo I (página impresa 98; página PDF 100).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+12. [Ley N.º 548 – LIBRO III] ¿Qué finalidad tienen las medidas socio-educativas según el Artículo 322.I?
+A. Una finalidad primordialmente retributiva, de castigo proporcional al daño causado a la víctima del delito, según lo establecido.
+B. Una finalidad primordialmente educativa de reintegración social y, cuando fuere posible, de reparación del daño.
+C. Una finalidad exclusivamente preventiva general, para disuadir a otros adolescentes de cometer delitos.
+D. Una finalidad exclusivamente reparadora, centrada en la indemnización económica a la víctima del hecho.
+Respuesta correcta: B
+Explicación: «Las medidas tienen finalidad primordialmente educativa de reintegración social y, cuando fuere posible, de reparación del daño. Asimismo, tendrá la finalidad de evitar la reincidencia por medio de la intervención interdisciplinaria e individualizada […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección I: Medidas socio-educativas. Art. 322, parágrafo I (página impresa 124; página PDF 126).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+13. [Ley N.º 548 – LIBRO III] ¿Qué son los mecanismos de justicia restaurativa según el Artículo 316.I?
+A. Los procedimientos que acompañan la aplicación de la remisión, las salidas alternativas y las medidas socio-educativas.
+B. Las sanciones privativas de libertad que se aplican en los centros de reintegración social a los reincidentes, conforme a la Ley.
+C. Los recursos de apelación que pueden interponer las víctimas contra las sentencias absolutorias del juez.
+D. Las medidas cautelares que se dictan para asegurar la presencia del adolescente durante el proceso penal.
+Respuesta correcta: A
+Explicación: «Son mecanismos de justicia restaurativa los procedimientos que acompañan la aplicación de la remisión, las salidas alternativas y las medidas socio-educativas».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV: Mecanismos de justicia restaurativa. Art. 316, parágrafo I (página impresa 122; página PDF 124).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+14. [Ley N.º 548 – LIBRO III] ¿Qué es la remisión según el Artículo 298.I?
+A. La sanción que remite al adolescente a un centro de reintegración social, por el tiempo que dure su condena, según la reglamentación.
+B. La medida de desjudicialización que excluye al adolescente del proceso judicial, para evitar efectos negativos en su desarrollo.
+C. La derivación del caso a la jurisdicción penal ordinaria, cuando el adolescente es mayor de dieciocho años.
+D. La remisión de antecedentes a la Defensoría de la Niñez, para que esta imponga medidas de protección.
+Respuesta correcta: B
+Explicación: «Es la medida de desjudicialización por la cual se excluye a la persona adolescente del proceso judicial, con el fin de evitar los efectos negativos que éste pudiera ocasionar a su desarrollo integral».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo IV: Finalización de la investigación. Art. 298, parágrafo I (página impresa 114; página PDF 116).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+15. [Ley N.º 548 – LIBRO III] Según el Artículo 262.I.g, ¿qué características tiene el proceso penal de adolescentes?
+A. Es escrito, público, extenso y conciliatorio.
+B. Es oral, público, sumario e inquisitivo.
+C. Es oral, reservado, rápido y contradictorio.
+D. Es escrito, reservado, lento y dispositivo.
+Respuesta correcta: C
+Explicación: «g) Al Debido Proceso. El proceso penal de adolescentes es oral, reservado, rápido y contradictorio […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 262, parágrafo I, inciso g) (página impresa 99; página PDF 101).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+16. [Ley N.º 548 – LIBRO III] ¿Qué establece el derecho a la defensa especializada del Artículo 262.I.h?
+A. Que es onerosa y renunciable, pudiendo el adolescente defenderse por sí mismo en todas las etapas del proceso, según lo dispuesto.
+B. Que es gratuita solo en la etapa de juicio, pudiendo realizarse la investigación sin presencia del defensor.
+C. Que es gratuita e irrenunciable, y que no es válida ninguna actuación sin la presencia de su defensora o defensor.
+D. Que la ejerce la madre o el padre del adolescente, sin necesidad de un abogado especializado en la materia.
+Respuesta correcta: C
+Explicación: «h) A la Defensa Especializada. A la defensa especializada gratuita, la cual es irrenunciable, no siendo válida ninguna actuación sin presencia de su defensora o defensor […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 262, parágrafo I, inciso h) (página impresa 99; página PDF 101).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+17. [Ley N.º 548 – LIBRO III] ¿Qué implica el principio de única persecución del Artículo 262.I.p?
+A. Que solo puede perseguirse al adolescente una vez al año, aunque cometa varios hechos distintos en ese periodo.
+B. Que la remisión, el sobreseimiento y la absolución impiden una nueva investigación o juzgamiento por el mismo hecho.
+C. Que el adolescente puede ser juzgado nuevamente si se conocen nuevas circunstancias del mismo hecho investigado, conforme a la norma.
+D. Que solo el Ministerio Público puede perseguir al adolescente, sin intervención de la víctima en ningún caso.
+Respuesta correcta: B
+Explicación: «p) Única Persecución. La remisión, el sobreseimiento y la absolución impiden nueva investigación o juzgamiento de la o el adolescente por el mismo hecho, aunque se modifique la calificación legal o se conozcan nuevas circunstancias […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 262, parágrafo I, inciso p) (página impresa 100; página PDF 102).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+18. [Ley N.º 548 – LIBRO III] ¿Qué es la mediación según el Artículo 319?
+A. El procedimiento en el que una persona técnica sin facultad de decisión acerca a las partes para un diálogo voluntario sobre el conflicto.
+B. El procedimiento en el que el juez decide de forma obligatoria la reparación del daño que debe pagar el adolescente.
+C. El procedimiento en el que la familia del adolescente negocia con el fiscal la reducción de la medida socio-educativa, conforme a la normativa.
+D. El procedimiento en el que el director de la unidad educativa resuelve el conflicto según su reglamento interno.
+Respuesta correcta: A
+Explicación: «La mediación es el procedimiento mediante el cual una persona técnica especializada que no tiene facultad de decisión, busca acercar a las partes para establecer un diálogo y comunicación voluntaria sobre el hecho que originó el conflicto penal […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV: Mecanismos de justicia restaurativa. Art. 319 (página impresa 123; página PDF 125).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+19. [Ley N.º 548 – LIBRO III] Según el Artículo 282.I, ¿qué finalidad tienen los programas del Sistema Penal?
+A. Lograr la segregación de los adolescentes infractores para proteger a la sociedad de su peligrosidad, por mandato legal.
+B. Lograr el desarrollo pleno e integral de las y los adolescentes y su adecuada reinserción familiar y social.
+C. Lograr la reparación económica integral de las víctimas mediante el trabajo del adolescente.
+D. Lograr la reducción de costos del sistema penitenciario mediante la privatización de los centros.
+Respuesta correcta: B
+Explicación: «Los programas del Sistema Penal, tienen la finalidad de lograr el desarrollo pleno e integral de las y los adolescentes, así como su adecuada reinserción familiar y social».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título II, Capítulo VI: Entidades de atención y programas del Sistema Penal. Art. 282, parágrafo I (página impresa 107; página PDF 109).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+20. [Ley N.º 548 – LIBRO III] Según el Artículo 262.VI, ¿qué garantiza el Estado en el Sistema Penal para adolescentes?
+A. La justicia restaurativa, así como la oportuna salida o la liberación del conflicto.
+B. La privación de libertad como regla general para todos los delitos graves.
+C. La publicidad de los juicios para garantizar el control social de las sentencias.
+D. La aplicación supletoria del Código Penal de adultos en todos los casos.
+Respuesta correcta: A
+Explicación: «El Estado garantizará la justicia restaurativa, así como la oportuna salida o la liberación del conflicto».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 262, parágrafo VI (página impresa 100; página PDF 102).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+21. [Ley N.º 548 – LIBRO III] Un periódico solicita a la dirección datos de un estudiante adolescente investigado por un delito. Según el Artículo 262.I.m, ¿qué debe observar la dirección?
+A. Puede entregar los datos si el periódico se compromete a no publicar el nombre completo del estudiante.
+B. Puede entregar los datos si el delito es grave, pues el interés público prevalece sobre la confidencialidad, conforme a la norma.
+C. Se prohíbe publicar datos de la investigación o del juicio que directa o indirectamente permitan identificar al adolescente.
+D. Debe entregar los datos, pues la unidad educativa no está obligada por las normas del Sistema Penal.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «m) Confidencialidad. Se prohíbe la publicación de datos de la investigación o del juicio, que directa o indirectamente posibiliten identificar a la o el adolescente, exceptuando las informaciones estadísticas […]». Aplicación razonada: el Libro III no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa respecto a estudiantes adolescentes involucrados en el Sistema Penal.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 262, parágrafo I, inciso m) (página impresa 100; página PDF 102).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+22. [Ley N.º 548 – LIBRO III] Un docente quiere difundir en las redes de la unidad educativa la fotografía de un estudiante aprehendido por la policía. Según el Artículo 263.I, ¿qué corresponde?
+A. Es permitido si la fotografía fue tomada en un espacio público y no dentro de la unidad educativa, por mandato legal.
+B. Es permitido si el estudiante es mayor de dieciséis años, por su mayor grado de responsabilidad.
+C. Está prohibida la obtención o difusión de imágenes y la divulgación de la identidad del adolescente.
+D. Es permitido con autorización del director, como medida preventiva para la comunidad educativa.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Está prohibida la obtención o difusión de imágenes, así como la divulgación de su identidad o de las personas relacionadas con las actuaciones procesales, policiales o administrativas». Aplicación razonada: el Libro III no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa respecto a estudiantes adolescentes involucrados en el Sistema Penal.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 263, parágrafo I (página impresa 101; página PDF 103).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+23. [Ley N.º 548 – LIBRO III] Un estudiante de 12 años sustrae objetos de un compañero. Un padre exige a la dirección que lo «denuncie penalmente para que lo procesen». Según el Artículo 269.III, ¿qué corresponde?
+A. El estudiante puede ser procesado con responsabilidad atenuada en cuatro quintas partes del máximo penal.
+B. El estudiante puede ser sometido a medidas socio-educativas en libertad, pero no a privación de libertad.
+C. El estudiante puede ser procesado si sus padres no reparan el daño en un plazo de diez días.
+D. Las niñas y los niños en ningún caso pueden ser privados de libertad, procesados o sometidos a medidas socio-educativas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Las niñas y los niños en ningún caso podrán ser privados de libertad, procesados o sometidos a medidas socio-educativas». Aplicación razonada: el Libro III no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa respecto a estudiantes adolescentes involucrados en el Sistema Penal.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo II: Ámbito de aplicación. Art. 269, parágrafo III (página impresa 102; página PDF 104).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+24. [Ley N.º 548 – LIBRO III] Un juez impone a un estudiante adolescente, como regla de conducta, inscribirse y asistir a un centro de educación formal. ¿Qué disposición respalda esta regla que la unidad educativa debe facilitar?
+A. El Artículo 269.I, que exime de responsabilidad penal a la persona adolescente menor de catorce años de edad, conforme a la norma.
+B. El Artículo 323.IV.c, que prevé como regla de conducta inscribirse y asistir a un centro de educación formal o adquirir trabajo.
+C. El Artículo 284.I, que regula los plazos de prescripción de la acción penal contra la persona adolescente.
+D. El Artículo 280, que enumera los centros de orientación y de reintegración social del Sistema Penal.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «IV. Se podrá imponer, cuando corresponda de forma complementaria, a la o el adolescente sancionado […] una o varias de las siguientes reglas de conducta: […] c) Inscribirse y asistir a un centro de educación formal o adquirir trabajo […]». Aplicación razonada: el Libro III no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa respecto a estudiantes adolescentes involucrados en el Sistema Penal.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección I: Medidas socio-educativas. Art. 323, parágrafo IV, inciso c) (página impresa 125; página PDF 127).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+25. [Ley N.º 548 – LIBRO III] Un estudiante cumple la medida de prestación de servicios a la comunidad. Según el Artículo 326.II, ¿cómo deben organizarse sus tareas respecto a su escolaridad?
+A. Deben cumplirse durante el horario escolar, con justificación de las inasistencias por la dirección.
+B. Deben sustituir la asistencia a clases, pues la medida tiene prioridad sobre la actividad escolar.
+C. Deben cumplirse en jornada completa los días hábiles, suspendiendo temporalmente sus estudios.
+D. Deben ser acordes con sus aptitudes, sin perjudicar su actividad normal, estudio o trabajo.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Las tareas serán acordes con las aptitudes de la persona adolescente, sin perjudicar la actividad normal, estudio o trabajo». Aplicación razonada: el Libro III no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa respecto a estudiantes adolescentes involucrados en el Sistema Penal.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección II: Definición de las medidas. Art. 326, parágrafo II (página impresa 126; página PDF 128).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+26. [Ley N.º 548 – LIBRO III] Un estudiante está sujeto a régimen semi-abierto. Según el Artículo 330.I, ¿puede asistir a la unidad educativa?
+A. Sí, puede salir del centro especializado para actividades de estudio, formativas, laborales, deportivas y culturales previstas en su plan.
+B. No, el régimen semi-abierto impide toda salida del centro especializado mientras dure la sanción impuesta por el juez.
+C. Sí, pero solo los fines de semana y feriados, cuando no existen actividades escolares regulares en la unidad.
+D. No, el estudio solo puede realizarse dentro del centro especializado, sin salidas a unidades educativas externas.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Esta medida consiste en la incorporación de la persona adolescente, por el tiempo que dure la sanción en un centro especializado del cual sólo podrá salir para realizar actividades de estudio, formativas, laborales, deporte y cultura, establecidas en el plan individual de ejecución de la medida». Aplicación razonada: el Libro III no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa respecto a estudiantes adolescentes involucrados en el Sistema Penal.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección II: Definición de las medidas. Art. 330, parágrafo I (página impresa 127; página PDF 129).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+27. [Ley N.º 548 – LIBRO III] Un estudiante está sujeto a régimen domiciliario. Según el Artículo 328.II, ¿qué ocurre con sus actividades de estudio?
+A. El régimen domiciliario suspende la asistencia escolar por todo el tiempo que dure la sanción impuesta, en el marco legal.
+B. El régimen domiciliario permite estudiar solo mediante educación a distancia, sin asistir a la unidad.
+C. El régimen domiciliario no podrá afectar el normal desarrollo de sus actividades de estudio o de trabajo.
+D. El régimen domiciliario obliga a la unidad educativa a enviar un docente al domicilio del adolescente.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El régimen domiciliario no podrá afectar el cumplimiento del plan individual de ejecución de medida ni el normal desarrollo de las actividades de estudio o de trabajo». Aplicación razonada: el Libro III no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa respecto a estudiantes adolescentes involucrados en el Sistema Penal.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección II: Definición de las medidas. Art. 328, parágrafo II (página impresa 127; página PDF 129).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+28. [Ley N.º 548 – LIBRO III] La policía interviene en la unidad educativa ante un hecho en el que podría estar involucrado un estudiante de 13 años. Según el Artículo 276.I.a, ¿cómo debe actuar la policía?
+A. Remitir a la autoridad judicial competente e informar a la Defensoría y al Ministerio Público, bajo reserva y sin violencia.
+B. Aprehender al estudiante y trasladarlo a una celda policial para adultos hasta la llegada del fiscal, según la normativa vigente.
+C. Entregar al estudiante a la dirección de la unidad educativa para que esta le imponga una sanción.
+D. Interrogar al estudiante sin presencia de sus padres, para obtener información inmediata del hecho.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «a) En casos de comisión de delitos en los que puedan estar involucradas personas menores de catorce (14) años de edad, deberá remitir a la autoridad judicial competente e informar de la intervención a la Defensoría de la Niñez y Adolescencia y al Ministerio Público, acerca de los hechos, circunstancias y actuaciones, bajo reserva, evitando toda forma de violencia física o psicológica […]». Aplicación razonada: el Libro III no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa respecto a estudiantes adolescentes involucrados en el Sistema Penal.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título II, Capítulo IV: Ministerio Público y Policía Boliviana. Art. 276, parágrafo I, inciso a) (página impresa 105; página PDF 107).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+29. [Ley N.º 548 – LIBRO III] Existen dudas sobre si un estudiante involucrado en un hecho delictivo tiene trece o catorce años. Según el Artículo 265.III, ¿qué presunción se aplica?
+A. Se presume que tiene catorce años, por lo que puede ser procesado hasta que pruebe su menor edad, conforme a la norma.
+B. Se presume que es mayor de edad, por lo que debe ser remitido a la jurisdicción penal ordinaria.
+C. Se presume que es menor de catorce años hasta que se pruebe lo contrario, estando exento de responsabilidad.
+D. No se aplica presunción alguna; el proceso se suspende hasta un peritaje médico de edad ósea.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Si existieren dudas sobre si una persona es menor de catorce (14) años se le presume tal edad hasta que se pruebe lo contrario, estando en tanto exenta de responsabilidad». Aplicación razonada: el Libro III no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa respecto a estudiantes adolescentes involucrados en el Sistema Penal.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 265, parágrafo III (página impresa 101; página PDF 103).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+30. [Ley N.º 548 – LIBRO III] Una entidad de atención solicita a una unidad educativa admitir a un adolescente sujeto a medida socio-educativa. Según el Artículo 281.4, ¿qué obligación tienen las entidades de atención?
+A. Garantizar su acceso a la educación.
+B. Garantizar su aislamiento de otros jóvenes.
+C. Garantizar su trabajo remunerado inmediato.
+D. Garantizar su traslado a otro departamento.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Todas las entidades de atención deben sujetarse a las normas del presente Código […] y cumplir las siguientes obligaciones en relación a éstas y éstos: […] 4. Garantizar su acceso a la educación […]». Aplicación razonada: el Libro III no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa respecto a estudiantes adolescentes involucrados en el Sistema Penal.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título II, Capítulo VI: Entidades de atención y programas del Sistema Penal. Art. 281, numeral 4 (página impresa 107; página PDF 109).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+31. [Ley N.º 548 – LIBRO III] Según el Artículo 265.I, ¿qué ocurre si durante el proceso se determina que la persona era mayor de dieciocho años al cometer el hecho?
+A. El juez se declara incompetente y remite los antecedentes a la jurisdicción penal ordinaria, siendo válido lo obrado.
+B. El juez continúa el proceso aplicando la atenuación de cuatro quintas partes de la pena máxima prevista, según la norma.
+C. El juez anula todo lo obrado y dispone la libertad inmediata de la persona procesada en el sistema.
+D. El juez remite el caso a la Instancia Técnica Departamental para su inclusión en programas sociales.
+Respuesta correcta: A
+Explicación: «Si durante el proceso se determina que la persona adolescente era mayor de dieciocho (18) años al momento de la comisión del hecho, la Jueza o el Juez se declarará incompetente y remitirá los antecedentes a la jurisdicción penal ordinaria, siendo válido lo obrado hasta el estado en que se encuentre».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 265, parágrafo I (página impresa 101; página PDF 103).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+32. [Ley N.º 548 – LIBRO III] Según el Artículo 266, ¿qué debe hacerse cuando en un mismo hecho intervienen adolescentes y adultos?
+A. Tramitar un proceso único en la jurisdicción ordinaria, aplicando atenuantes a los adolescentes.
+B. Tramitar el proceso por separado en la jurisdicción ordinaria y en la de justicia para adolescentes.
+C. Tramitar un proceso único en la jurisdicción de adolescentes, extendiendo sus garantías a los adultos.
+D. Suspender el proceso contra los adolescentes hasta que concluya el proceso contra los adultos.
+Respuesta correcta: B
+Explicación: «Cuando en la investigación de la comisión de un mismo hecho delictivo, se identificaran elementos suficientes sobre la intervención de una o más personas adolescentes con una o más personas adultas, el proceso deberá tramitarse por separado en la jurisdicción ordinaria y en la de justicia para adolescentes en el Sistema Penal».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 266 (página impresa 101; página PDF 103).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+33. [Ley N.º 548 – LIBRO III] Según el Artículo 268.II y III, ¿cómo se determina dónde se cumple la sanción según el máximo penal del delito?
+A. Con máximo entre 5 y 10 años, en recinto penitenciario de adultos; con máximo menor a 5, medidas solo en libertad.
+B. Con máximo superior a 30 años, en centro especializado; con cualquier otro máximo, la sanción se cumple en el domicilio, conforme a la normativa.
+C. Con máximo entre 15 y 30 años, en centro especializado de privación de libertad; con máximo menor a 15, medidas con restricción y en libertad.
+D. En todos los casos en centros especializados de privación de libertad, sin distinción del máximo penal del delito.
+Respuesta correcta: C
+Explicación: «II. Para delitos cuyo máximo penal esté entre quince (15) y treinta (30) años en la Ley Penal, la sanción deberá cumplirse en un centro especializado en privación de libertad. III. Para delitos cuyo máximo penal sea menor a quince (15) años en la Ley Penal, se aplicarán medidas socio-educativas con restricción de libertad y en libertad».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo II: Ámbito de aplicación. Art. 268, parágrafos II y III (página impresa 102; página PDF 104).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+34. [Ley N.º 548 – LIBRO III] Según el Artículo 298.II, ¿qué implica la remisión respecto a la responsabilidad del adolescente?
+A. No implica necesariamente reconocimiento de responsabilidad ni puede considerarse antecedente penal.
+B. Implica la confesión del delito, que queda registrada como antecedente penal del adolescente.
+C. Implica la absolución del adolescente, que no puede ser obligado a ningún mecanismo restaurativo.
+D. Implica la responsabilidad civil de los padres, que deben reparar el daño a la víctima en todo caso, según la norma.
+Respuesta correcta: A
+Explicación: «La remisión no implica necesariamente el reconocimiento o comprobación de la responsabilidad sobre el hecho, no pudiendo considerarse como antecedente penal […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo IV: Finalización de la investigación. Art. 298, parágrafo II (página impresa 114; página PDF 116).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+35. [Ley N.º 548 – LIBRO III] Según el Artículo 318.d y e, ¿qué consecuencias no pueden derivarse de la participación del adolescente en mecanismos de justicia restaurativa?
+A. No puede usarse para reducir la medida, y su cumplimiento no extingue la acción penal en ningún caso concreto.
+B. No puede usarse para la reparación del daño, y su cumplimiento debe registrarse como antecedente del adolescente, conforme a norma.
+C. No puede usarse como prueba de culpabilidad, y su incumplimiento no fundamenta una sentencia sancionatoria ni agrava la medida.
+D. No puede usarse en favor del adolescente, y su incumplimiento duplica automáticamente la medida socio-educativa.
+Respuesta correcta: C
+Explicación: «d) La participación de la persona adolescente en el Sistema Penal, no se utilizará como prueba de admisión de culpabilidad en procedimientos jurídicos posteriores; e) El incumplimiento de un acuerdo no deberá utilizarse como fundamento para una sentencia sancionatoria o para la agravación de una medida socio-educativa […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV: Mecanismos de justicia restaurativa. Art. 318, incisos d) y e) (página impresa 123; página PDF 125).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+36. [Ley N.º 548 – LIBRO III] Según el Artículo 289.II, ¿cuándo no procede la detención preventiva en delitos contra la propiedad?
+A. Cuando el valor de la cosa sea inferior a un salario mínimo, aunque no haya sido devuelta ni reparada, según lo establecido.
+B. Cuando el adolescente sea primerizo, aunque la cosa no haya sido recuperada ni el daño reparado.
+C. Cuando la víctima sea mayor de edad, sin considerar la restitución de la cosa ni la reparación.
+D. Cuando se devuelva, restituya o recupere la cosa, no haya salido del dominio de la víctima o el daño haya sido reparado.
+Respuesta correcta: D
+Explicación: «No procederá la detención preventiva por hechos que se adecuen a delitos contra la propiedad, cuando se devuelva, restituya o recupere la cosa, o ésta no haya salido del dominio de la víctima, o el daño haya sido reparado».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo II: Aprehensión, medidas cautelares y peligros procesales. Art. 289, parágrafo II (página impresa 111; página PDF 113).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+37. [Ley N.º 548 – LIBRO III] Según el Artículo 290.II, ¿cuándo se considera que no existe riesgo de fuga del adolescente?
+A. Si presenta una garantía económica equivalente a diez salarios mínimos nacionales.
+B. Si trabaja en el país y coopera permanentemente en el sostenimiento de su familia.
+C. Si es estudiante regular y tiene buen rendimiento académico en su unidad educativa.
+D. Si sus padres firman un compromiso de presentación ante el fiscal del caso.
+Respuesta correcta: B
+Explicación: «Si trabajara en el país y cooperara permanentemente en el sostenimiento de su familia, se considerará que no existe riesgo de fuga».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo II: Aprehensión, medidas cautelares y peligros procesales. Art. 290, parágrafo II (página impresa 112; página PDF 114).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+38. [Ley N.º 548 – LIBRO III] Según el Artículo 287.IV, ¿dónde no puede ser detenida la persona adolescente aprehendida?
+A. En centros de reintegración social para adolescentes, diferenciados por género y por situación procesal, según la normativa.
+B. En su propio domicilio, bajo el cuidado de su madre, padre, guardadora o guardador, tutora o tutor.
+C. En dependencias policiales, penitenciarias o del Ministerio Público para personas adultas, ni incomunicada.
+D. En centros de orientación, donde se cumplen las medidas en libertad y el régimen domiciliario.
+Respuesta correcta: C
+Explicación: «La persona adolescente aprehendida, en ningún caso podrá ser incomunicada o detenida en dependencias policiales, penitenciarias o del Ministerio Público para personas adultas».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo II: Aprehensión, medidas cautelares y peligros procesales. Art. 287, parágrafo IV (página impresa 110; página PDF 112).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+39. [Ley N.º 548 – LIBRO III] Según el Artículo 283.I, ¿qué carácter tiene la acción penal contra persona adolescente?
+A. Es pública, sin diferenciar si se trata de delitos de acción privada o pública.
+B. Es privada en todos los casos, y solo puede iniciarse por querella de la víctima.
+C. Es mixta, y su naturaleza depende de la edad del adolescente imputado del delito.
+D. Es pública solo en delitos graves, y privada en los demás delitos del Código Penal.
+Respuesta correcta: A
+Explicación: «La acción penal contra persona adolescente es pública, sin diferenciar si se trata de delitos de acción privada o pública».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo I: Acción penal y participación. Art. 283, parágrafo I (página impresa 108; página PDF 110).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+40. [Ley N.º 548 – LIBRO III] Según el Artículo 262.I.q, ¿cuándo procede la privación de libertad de un adolescente, salvo la flagrancia?
+A. Por orden del fiscal o de la policía, en cualquier caso, sin posibilidad de revisión durante la etapa de investigación, en el marco legal.
+B. Por decisión de los padres del adolescente, como medida correctiva, con aprobación posterior de la Defensoría.
+C. Por orden judicial, siempre por un plazo mínimo de seis meses, sin revisión antes de la sentencia de primera instancia.
+D. Solo por orden judicial, en los casos, condiciones y lapsos del Código; la prisión preventiva es revisable en cualquier tiempo.
+Respuesta correcta: D
+Explicación: «q) A la Excepcionalidad de la Privación de Libertad. Salvo la detención en flagrancia, la privación de libertad sólo procede por orden judicial, en los casos, bajo las condiciones y por los lapsos previstos en este Código. La prisión preventiva es revisable en cualquier tiempo a solicitud de la o el adolescente».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 262, parágrafo I, inciso q) (página impresa 100; página PDF 102).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+41. [Ley N.º 548 – LIBRO III] ¿Qué distingue a los centros de orientación de los centros de reintegración social (Art. 332)?
+A. Los de orientación cumplen la detención preventiva y las medidas privativas; los de reintegración, las medidas en libertad y domiciliarias, según la normativa.
+B. Los de orientación son para niñas y niños menores de catorce años; los de reintegración, para jóvenes mayores de dieciocho años.
+C. Los de orientación atienden medidas en libertad, régimen domiciliario y restaurativas; los de reintegración, la detención preventiva y medidas privativas.
+D. Los de orientación dependen del Ministerio Público; los de reintegración dependen de las Defensorías de la Niñez municipales.
+Respuesta correcta: C
+Explicación: «a) Centros de Orientación. En los que se brindará atención y se hará seguimiento y evaluación en el cumplimiento de los mecanismos de justicia restaurativa, las medidas socio-educativas en libertad y las de permanencia en régimen domiciliario, así como las medidas cautelares en libertad; y b) Centros de Reintegración Social. En los que se cumplirán la detención […]». Aplicación razonada: el inciso b) se refiere a la detención preventiva y a las medidas privativas de libertad.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección I: Medidas socio-educativas. Art. 332 (página impresa 127; página PDF 129).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+42. [Ley N.º 548 – LIBRO III] ¿Qué diferencia existe entre la remisión (Art. 298) y la conciliación (Art. 301)?
+A. La remisión es una salida alternativa que soluciona el conflicto hasta la sentencia; la conciliación excluye al adolescente del proceso judicial.
+B. La remisión desjudicializa excluyendo al adolescente del proceso; la conciliación es una salida alternativa que soluciona el conflicto hasta antes de la sentencia.
+C. La remisión la decide la víctima de forma exclusiva; la conciliación la decide el juez de oficio sin participación de las partes en el proceso.
+D. La remisión se aplica solo a delitos con pena mayor a diez años; la conciliación solo a delitos con pena menor a un año en el proceso.
+Respuesta correcta: B
+Explicación: Art. 298.I: «Es la medida de desjudicialización por la cual se excluye a la persona adolescente del proceso judicial […]». Art. 301.I: «La conciliación es la salida alternativa al proceso, a través de la cual se soluciona el conflicto, que puede realizarse hasta antes de pronunciarse la sentencia».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo IV: Finalización de la investigación. Art. 298 (página impresa 114; página PDF 116) y Art. 301 (página impresa 115; página PDF 117).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+43. [Ley N.º 548 – LIBRO III] ¿Qué diferencia existe entre las medidas en libertad (Art. 323.I) y las medidas con restricción de libertad (Art. 323.II)?
+A. En libertad: régimen domiciliario y semi-abierto; con restricción: servicios a la comunidad y libertad asistida, conforme a la norma.
+B. En libertad: servicios a la comunidad y libertad asistida; con restricción: régimen domiciliario, en tiempo libre y semi-abierto.
+C. En libertad: régimen de internamiento; con restricción: libertad asistida y régimen en tiempo libre.
+D. En libertad: reglas de conducta solamente; con restricción: internamiento en centro de reintegración.
+Respuesta correcta: B
+Explicación: «I. Las medidas socio-educativas que se cumplen en libertad, son: a) Prestación de servicios a la comunidad; y b) Libertad asistida. II. Las medidas socio-educativas que se cumplen con restricción de libertad, son: a) Régimen domiciliario; b) Régimen en tiempo libre; y c) Régimen semi-abierto».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección I: Medidas socio-educativas. Art. 323, parágrafos I y II (páginas impresas 124-125; páginas PDF 126-127).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+44. [Ley N.º 548 – LIBRO III] ¿Qué distingue a la libertad asistida (Art. 327) de la prestación de servicios a la comunidad (Art. 326)?
+A. La libertad asistida consiste en tareas gratuitas de beneficio común; los servicios someten al adolescente a supervisión de un técnico, según la norma.
+B. La libertad asistida se cumple en un centro especializado; los servicios se cumplen exclusivamente en horario nocturno.
+C. La libertad asistida es una medida privativa de libertad; los servicios son una medida con restricción de libertad.
+D. La libertad asistida somete al adolescente a supervisión y orientación de un técnico; los servicios consisten en tareas gratuitas de beneficio común.
+Respuesta correcta: D
+Explicación: Art. 327.I: «Esta medida consiste en otorgar la libertad a la o el adolescente, obligándose a ésta o éste a someterse, durante el tiempo que debiera durar la sanción, a la supervisión, asistencia y orientación de una persona técnica, debidamente capacitada». Art. 326.I: «La prestación de servicios a la comunidad consiste en la realización de tareas concretas y gratuitas de beneficio común para la población […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección II: Definición de las medidas. Arts. 326 y 327 (página impresa 126; página PDF 128).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+45. [Ley N.º 548 – LIBRO III] ¿Qué diferencia existe entre el régimen en tiempo libre (Art. 329) y el régimen de internamiento (Art. 331)?
+A. En tiempo libre, se priva su libertad en régimen cerrado; en internamiento, permanece en el centro solo en feriados y fines de semana, según lo dispuesto.
+B. En tiempo libre, permanece en su domicilio con sus padres; en internamiento, cumple tareas comunitarias en horario diurno.
+C. En tiempo libre, el adolescente permanece en el centro en feriados y fines de semana; en internamiento, se priva su libertad en régimen cerrado.
+D. En tiempo libre, puede salir para estudiar y trabajar; en internamiento, puede salir para actividades deportivas y culturales.
+Respuesta correcta: C
+Explicación: Art. 329: «Esta medida consiste en la permanencia de la persona adolescente en un centro especializado en los días feriados y de fines de semana, en los que no tenga actividad normal de estudio o trabajo». Art. 331: «Esta medida consiste en la privación de libertad de la persona adolescente en el tiempo en el que debiera durar la sanción y se cumplirá en régimen de cerrado en un centro especializado».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección II: Definición de las medidas. Arts. 329 y 331 (página impresa 127; página PDF 129).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+46. [Ley N.º 548 – LIBRO III] ¿Qué diferencia existe entre los mecanismos restaurativos con participación de la víctima y sin ella (Art. 317.I)?
+A. Con la víctima se aplica un programa de orientación socio-educativa; sin ella, mediación y círculos restaurativos con la comunidad, conforme a norma.
+B. Con la víctima se aplica la privación de libertad; sin ella, la remisión inmediata del caso a la jurisdicción penal ordinaria.
+C. Con la víctima se aplican mediación, reuniones familiares y círculos restaurativos; sin ella, un programa de orientación socio-educativa.
+D. Con la víctima el mecanismo es obligatorio; sin ella, el adolescente queda exento de todo mecanismo de justicia restaurativa.
+Respuesta correcta: C
+Explicación: «Los mecanismos de justicia restaurativa con participación de la víctima se realizan a través de la mediación, reuniones familiares, círculos restaurativos y otros similares. Cuando la víctima no participa, el mecanismo se realiza a través de un programa de orientación socio-educativa».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV: Mecanismos de justicia restaurativa. Art. 317, parágrafo I (página impresa 123; página PDF 125).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+47. [Ley N.º 548 – LIBRO III] ¿Qué distingue a la exención de responsabilidad del menor de catorce años (Art. 269.I) de la del adolescente con discapacidad (Art. 269.IV)?
+A. El menor de catorce no es declarado penal ni civilmente responsable; el adolescente con discapacidad responde civilmente a través de sus responsables legales en la vía civil.
+B. El menor de catorce es procesado con responsabilidad atenuada; el adolescente con discapacidad es procesado en la jurisdicción penal ordinaria de adultos del país.
+C. Ambos son procesados en el Sistema Penal para adolescentes, con medidas socio-educativas en libertad y sin privación de libertad alguna en el proceso judicial respectivo.
+D. El menor de catorce está exento penalmente, pero sus responsables responden civilmente; el adolescente con discapacidad que no comprende la antijuricidad no es declarado penal ni civilmente responsable.
+Respuesta correcta: D
+Explicación: «I. La persona adolescente menor de catorce (14) años de edad está exenta de responsabilidad penal, sin perjuicio de la responsabilidad civil, la cual será demandada a sus responsables legales en la jurisdicción civil. […] IV. No será procesado ni declarado penal o civilmente responsable, la o el adolescente entre catorce (14) y dieciocho (18) años con discapacidad intelectual, psíquica o mental, que no pueda comprender la antijuricidad de su acción».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo II: Ámbito de aplicación. Art. 269, parágrafos I y IV (página impresa 102; página PDF 104).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+48. [Ley N.º 548 – LIBRO III] ¿Qué diferencia existe entre la conciliación (Art. 301) y la reparación del daño (Art. 302) como salidas alternativas?
+A. La conciliación soluciona el conflicto mediante acta con obligaciones; la reparación procede en delitos patrimoniales o culposos sin muerte, con extinción de la acción.
+B. La conciliación procede solo en delitos patrimoniales o culposos sin muerte; la reparación soluciona el conflicto mediante acta con obligaciones.
+C. La conciliación se realiza después de la sentencia; la reparación se realiza solo durante la etapa de ejecución de la medida socio-educativa.
+D. La conciliación la decide el fiscal sin audiencia; la reparación la decide la Defensoría de la Niñez sin intervención judicial.
+Respuesta correcta: A
+Explicación: Art. 301.III: «El acta de conciliación contemplará las obligaciones establecidas y, en su caso, el plazo para su cumplimiento […]». Art. 302.I: «La reparación integral del daño causado, es la salida alternativa […] en los delitos de contenido patrimonial o en los delitos culposos que no tengan por resultado la muerte, siempre que lo admita la víctima o la o el Fiscal, según el caso, con la consiguiente declaratoria de extinción de la acción penal […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo IV: Finalización de la investigación. Arts. 301 y 302 (página impresa 116; página PDF 118).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+49. [Ley N.º 548 – LIBRO III] ¿Qué distingue los derechos del Artículo 341 de los del Artículo 342 en la ejecución de medidas?
+A. El 341 rige solo para el privado de libertad; el 342 se aplica a todas las medidas, incluidas las cumplidas en libertad, según la Ley 548.
+B. El 341 se aplica a los adultos condenados; el 342 se aplica solo a los adolescentes en régimen domiciliario.
+C. El 341 rige para toda medida, como trato digno y servicios educativos; el 342 añade derechos para el adolescente privado de libertad.
+D. El 341 regula los deberes del adolescente; el 342 regula las sanciones disciplinarias de los centros especializados.
+Respuesta correcta: C
+Explicación: Art. 341: «Durante la ejecución de las medidas, la o el adolescente tiene los siguientes derechos […]: a) A un trato digno y humanitario; […] c) A recibir servicios de salud, sociales y educativos […]». Art. 342: «Además de lo establecido en el Artículo anterior la o el adolescente privada o privado de libertad, tiene los siguientes derechos […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección IV: Ejecución de las medidas socio-educativas. Arts. 341 y 342 (página impresa 130; página PDF 132).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+50. [Ley N.º 548 – LIBRO III] ¿Qué diferencia existe entre la prescripción de la acción penal en dos años y en seis meses (Art. 284.I)?
+A. Dos años para delitos con pena privativa de libertad cuyo máximo sea menor a diez años; seis meses para delitos con penas no privativas.
+B. Dos años para delitos con penas no privativas de libertad; seis meses para delitos con pena privativa menor a diez años.
+C. Dos años para delitos cometidos por menores de dieciséis; seis meses para delitos cometidos por mayores de dieciséis años, en el marco legal.
+D. Dos años para delitos contra la propiedad; seis meses para delitos contra la vida y la integridad de las personas.
+Respuesta correcta: A
+Explicación: «b) En dos (2) años, para los demás delitos que sean sancionados con penas privativas de libertad; y c) En seis (6) meses para los delitos sancionados con penas no privativas de libertad». Aplicación razonada: «los demás delitos» son los no comprendidos en el inciso a), con máximo menor a diez años.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo I: Acción penal y participación. Art. 284, parágrafo I, incisos b) y c) (página impresa 108; página PDF 110).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+51. [Ley N.º 548 – LIBRO III] Un adolescente aprehendido en flagrancia es retenido dos días en una celda policial con adultos. ¿Qué análisis corresponde?
+A. Es correcto, porque en flagrancia la policía puede retener al adolescente hasta setenta y dos horas con adultos, según la normativa vigente.
+B. Es correcto si no existe un centro especializado en la localidad, pues la detención con adultos es subsidiaria.
+C. Vulnera el Código: el adolescente no puede ser detenido en dependencias para adultos, y la policía debe informar al Fiscal en ocho horas.
+D. Vulnera el Código solo si el adolescente es menor de dieciséis años, pues los mayores pueden estar con adultos.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «II. En caso de los incisos a) y b) del Parágrafo precedente, la autoridad policial que la o le haya aprehendido, deberá comunicar esta situación a la o el Fiscal mediante informe circunstanciado en el término de ocho (8) horas […] IV. La persona adolescente aprehendida, en ningún caso podrá ser incomunicada o detenida en dependencias policiales, penitenciarias o del Ministerio Público para personas adultas». Aplicación razonada: concurren dos vulneraciones del Art. 287.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo II: Aprehensión, medidas cautelares y peligros procesales. Art. 287, parágrafos II y IV (página impresa 110; página PDF 112).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+52. [Ley N.º 548 – LIBRO III] Un fiscal toma la declaración de un adolescente imputado sin la presencia de su defensor, alegando urgencia. ¿Qué análisis corresponde?
+A. La actuación no es válida: la defensa especializada es irrenunciable y ninguna actuación vale sin presencia del defensor.
+B. La actuación es válida si el adolescente consintió declarar sin defensor ante la urgencia del caso.
+C. La actuación es válida en la etapa de investigación, pues la defensa solo es obligatoria en el juicio, conforme a la normativa.
+D. La actuación es válida si estuvieron presentes los padres del adolescente durante la declaración.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «h) A la Defensa Especializada. A la defensa especializada gratuita, la cual es irrenunciable, no siendo válida ninguna actuación sin presencia de su defensora o defensor […]». Aplicación razonada: la urgencia no habilita prescindir de la defensa irrenunciable.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 262, parágrafo I, inciso h) (página impresa 99; página PDF 101).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+53. [Ley N.º 548 – LIBRO III] Un medio publica el barrio, la unidad educativa y las iniciales de un adolescente procesado, sin dar su nombre. ¿Qué análisis corresponde?
+A. Vulnera la confidencialidad: se prohíbe publicar datos que directa o indirectamente permitan identificar al adolescente.
+B. Es admisible, porque no se publicó el nombre completo del adolescente, que es el único dato protegido, según la normativa.
+C. Es admisible si el delito es grave, pues la gravedad del hecho justifica informar a la comunidad.
+D. Vulnera el Código solo si se publican fotografías, pues los datos escritos no están protegidos.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «m) Confidencialidad. Se prohíbe la publicación de datos de la investigación o del juicio, que directa o indirectamente posibiliten identificar a la o el adolescente, exceptuando las informaciones estadísticas […]». Aplicación razonada: la combinación de datos permite identificar indirectamente al adolescente.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 262, parágrafo I, inciso m) (página impresa 100; página PDF 102).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+54. [Ley N.º 548 – LIBRO III] Un juez mantiene a un adolescente en detención preventiva durante cuatro meses sin sentencia en primera instancia, siendo el único imputado. ¿Qué análisis corresponde?
+A. Es correcto, porque la detención preventiva puede durar hasta un año sin sentencia en todos los casos, según la norma.
+B. Debió cesar la detención: no puede exceder de tres meses sin sentencia en primera instancia con un solo imputado.
+C. Es correcto si el delito es grave, pues los plazos de cesación solo se aplican a delitos leves.
+D. Debió cesar a los seis meses, que es el plazo aplicable a cualquier adolescente imputado.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «d) Cuando su duración exceda de tres (3) meses sin sentencia en primera instancia, o de seis (6) meses en caso de pluralidad de personas adolescentes imputadas, contados a partir de la notificación con la imputación a la persona adolescente». Aplicación razonada: con un solo imputado rige el plazo de tres meses.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo II: Aprehensión, medidas cautelares y peligros procesales. Art. 291, parágrafo I, inciso d) (página impresa 112; página PDF 114).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+55. [Ley N.º 548 – LIBRO III] Un juez agrava la medida de un adolescente porque incumplió un acuerdo de mediación. ¿Qué análisis corresponde?
+A. Es contrario al Código: el incumplimiento de un acuerdo restaurativo no debe fundamentar una sentencia sancionatoria ni agravar la medida.
+B. Es correcto, porque el incumplimiento del acuerdo demuestra la falta de voluntad de reintegración del adolescente, según la normativa vigente.
+C. Es correcto si la víctima lo solicita, pues su interés prevalece sobre las reglas de la justicia restaurativa.
+D. Es contrario al Código solo si el incumplimiento fue parcial, pues el incumplimiento total permite agravar.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «e) El incumplimiento de un acuerdo no deberá utilizarse como fundamento para una sentencia sancionatoria o para la agravación de una medida socio-educativa […]». Aplicación razonada: la agravación contraría la regla expresa del Art. 318.e.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV: Mecanismos de justicia restaurativa. Art. 318, inciso e) (página impresa 123; página PDF 125).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+56. [Ley N.º 548 – LIBRO III] Un adolescente absuelto por un hecho es investigado nuevamente por el mismo hecho, con una calificación legal distinta. ¿Qué análisis corresponde?
+A. Es válido, porque la nueva calificación legal convierte el hecho en uno distinto al anteriormente juzgado, conforme a la Ley.
+B. Es válido si aparecen nuevas pruebas, pues la absolución solo impide reabrir el caso con las mismas.
+C. Vulnera el Código solo si la nueva investigación la inicia el mismo fiscal que intervino antes.
+D. Vulnera la única persecución: la absolución impide nueva investigación por el mismo hecho aunque cambie la calificación.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «p) Única Persecución. La remisión, el sobreseimiento y la absolución impiden nueva investigación o juzgamiento de la o el adolescente por el mismo hecho, aunque se modifique la calificación legal o se conozcan nuevas circunstancias […]». Aplicación razonada: el cambio de calificación no habilita una nueva persecución.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 262, parágrafo I, inciso p) (página impresa 100; página PDF 102).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+57. [Ley N.º 548 – LIBRO III] El proceso de un adolescente lleva diez meses desde la denuncia sin sentencia ejecutoriada, por demoras del juzgado. ¿Qué análisis corresponde?
+A. Excede el plazo máximo de ocho meses, y la demora judicial genera responsabilidad a la autoridad judicial.
+B. Es normal, porque el plazo de ocho meses se computa desde la acusación y no desde la denuncia, según lo establecido.
+C. Es normal si el delito es complejo, pues el plazo de ocho meses es meramente referencial.
+D. Excede el plazo, pero la responsabilidad recae en el fiscal y no en la autoridad judicial.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La duración del proceso jurisdiccional desde la denuncia hasta la sentencia ejecutoriada […] no deberá exceder de ocho meses. No se computará el tiempo de retardación o dilación del proceso cuando ésta sea atribuible a la persona adolescente. La demora judicial generará responsabilidad a la autoridad judicial». Aplicación razonada: la demora es atribuible al juzgado, no al adolescente.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 264 (página impresa 101; página PDF 103).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+58. [Ley N.º 548 – LIBRO III] Un juez ordena detención preventiva a un adolescente que sustrajo un celular, pese a que el objeto fue recuperado de inmediato. ¿Qué análisis corresponde?
+A. Es procedente, porque la recuperación del objeto no elimina el riesgo de fuga del adolescente imputado.
+B. Es improcedente: no procede detención preventiva en delitos contra la propiedad cuando la cosa se recupera.
+C. Es procedente si el adolescente tiene otros procesos, aunque la cosa haya sido recuperada.
+D. Es improcedente solo si los padres pagan una garantía económica fijada por el juez.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «No procederá la detención preventiva por hechos que se adecuen a delitos contra la propiedad, cuando se devuelva, restituya o recupere la cosa, o ésta no haya salido del dominio de la víctima, o el daño haya sido reparado». Aplicación razonada: la recuperación del objeto excluye la detención preventiva.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo II: Aprehensión, medidas cautelares y peligros procesales. Art. 289, parágrafo II (página impresa 111; página PDF 113).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+59. [Ley N.º 548 – LIBRO III] En una audiencia de conciliación promovida por el fiscal participan los abogados particulares de ambas partes. ¿Qué análisis corresponde?
+A. Se aparta del Código, que prevé la audiencia sin la presencia de los abogados particulares de las partes.
+B. Es correcto, porque la presencia de abogados particulares garantiza la legalidad del acuerdo conciliatorio.
+C. Es correcto si la víctima es mayor de edad, pues entonces puede actuar con su abogado particular.
+D. Se aparta del Código solo si falta la Defensoría, pues la presencia de abogados es irrelevante.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «A fin de promover la conciliación, la Jueza, el Juez, la o el Fiscal deberán convocar a una audiencia con la presencia de la persona adolescente con responsabilidad penal, su madre, padre, guardadora o guardador, tutora o tutor, la víctima o su representante legal, la abogada o el abogado de la Defensoría de la Niñez y Adolescencia, sin la presencia de la abogada o el abogado particular de las partes». Aplicación razonada: la presencia de abogados particulares contraviene la regla del Art. 301.II.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo IV: Finalización de la investigación. Art. 301, parágrafo II (página impresa 115; página PDF 117).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+60. [Ley N.º 548 – LIBRO III] Un fiscal concede la remisión en un delito con pena máxima de ocho años y sin consentimiento del adolescente. ¿Qué análisis corresponde?
+A. Es procedente, porque la remisión puede aplicarse a cualquier delito por decisión discrecional del fiscal, según la Ley 548.
+B. Es procedente si la víctima está de acuerdo, pues su conformidad sustituye la del adolescente.
+C. Es improcedente solo por la falta de consentimiento, pues la pena máxima no limita la remisión.
+D. Es improcedente: la remisión exige pena máxima de hasta cinco años y el consentimiento del adolescente y sus responsables.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La remisión solamente podrá aplicarse cuando el delito tenga una pena máxima privativa de libertad hasta cinco (5) años establecida en la Ley Penal, y exista el consentimiento y voluntad de la persona adolescente con responsabilidad penal, así como de su madre, padre, guardadora o guardador, tutora o tutor […]». Aplicación razonada: faltan dos requisitos concurrentes.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo IV: Finalización de la investigación. Art. 299, parágrafo I (página impresa 115; página PDF 117).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+61. [Ley N.º 548 – LIBRO III] La pena atenuada impuesta a un adolescente es de ocho meses. Según el Artículo 324.I, ¿qué tipo de medida corresponde?
+A. Medidas socio-educativas privativas de libertad, en régimen de internamiento.
+B. Medidas socio-educativas con restricción de libertad, en régimen semi-abierto, según lo establecido.
+C. Medidas socio-educativas en libertad, sin perjudicar la actividad normal de estudio o trabajo.
+D. Ninguna medida, pues las penas menores a un año se extinguen automáticamente.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las medidas socio-educativas en libertad, serán aplicadas cuando la pena atenuada impuesta a la persona adolescente sea menor a un (1) año, sin perjudicar la actividad normal de estudio o trabajo».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección I: Medidas socio-educativas. Art. 324, parágrafo I (página impresa 125; página PDF 127).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+62. [Ley N.º 548 – LIBRO III] La pena atenuada impuesta a un adolescente es de tres años. Según el Artículo 324.III, ¿qué tipo de medida corresponde?
+A. Medidas socio-educativas en libertad asistida.
+B. Medidas socio-educativas privativas de libertad.
+C. Medidas con restricción de libertad domiciliaria.
+D. Medidas de prestación de servicios comunitarios.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Las medidas socio-educativas privativas de libertad serán aplicadas cuando la pena atenuada impuesta a la persona adolescente sea superior a dos (2) años».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección I: Medidas socio-educativas. Art. 324, parágrafo III (página impresa 125; página PDF 127).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+63. [Ley N.º 548 – LIBRO III] Durante la ejecución de una medida privativa de libertad, el adolescente cumple dieciocho años. Según el Artículo 345, ¿qué puede recomendar el equipo interdisciplinario al juez?
+A. Que sea liberado de inmediato, pues la medida socio-educativa se extingue al cumplir la mayoría de edad, según la normativa vigente.
+B. Que sea trasladado a un recinto penitenciario común junto con los adultos condenados por delitos graves.
+C. Que cumpla el resto de la medida en su domicilio, bajo responsabilidad de sus padres o tutores legales.
+D. Que permanezca en el centro con valoraciones periódicas en ambiente separado, o sea trasladado a un recinto separado de adultos.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Si durante la ejecución de la medida socio-educativa en privación de libertad, la persona cumple los dieciocho (18) años de edad, el equipo interdisciplinario del centro de reintegración social valorará la situación […] pudiendo recomendar a la Jueza o al Juez disponer que la o el joven permanezca en el centro con valoraciones periódicas, en un ambiente separado de los demás adolescentes o sea trasladado a un Recinto Penitenciario separado de los adultos».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección IV: Ejecución de las medidas socio-educativas. Art. 345 (página impresa 132; página PDF 134).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+64. [Ley N.º 548 – LIBRO III] Un adolescente de 13 años es aprehendido por la policía. Según el Artículo 269.II, ¿a qué instancia debe ser remitido?
+A. A la Instancia Técnica Departamental de Política Social, para verificar sus derechos e incluirlo en programas de protección.
+B. Al Juzgado Público de la Niñez, para su procesamiento con responsabilidad penal atenuada en cuatro quintos.
+C. A un centro de reintegración social, para su detención preventiva mientras dure la investigación en el proceso.
+D. Al Ministerio Público, para que formule imputación y solicite medidas cautelares personales en el proceso.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Cuando una persona adolescente menor de catorce (14) años fuera aprehendida o arrestada, será remitida a la Instancia Técnica Departamental de Política Social, para la verificación del respeto de sus derechos y garantías y la inclusión en los programas de protección que correspondan […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo II: Ámbito de aplicación. Art. 269, parágrafo II (página impresa 102; página PDF 104).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+65. [Ley N.º 548 – LIBRO III] Una víctima de 10 años participa en el proceso penal contra un adolescente. Según el Artículo 286.II, ¿qué presencia es necesaria?
+A. La de su maestra de curso y del director de su unidad educativa, que actúan como sus representantes legales en el proceso.
+B. La de su madre, padre o responsable, con un representante de la Defensoría y de la Unidad de Atención de Víctimas del Ministerio Público.
+C. La de un abogado particular contratado por la familia, sin intervención de otras instancias públicas en el proceso.
+D. La de un perito psicológico forense, que declara en lugar de la niña o niño en la audiencia de juicio oral.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «En caso de víctima niña, niño o adolescente, para su participación será necesaria la presencia de su madre, padre, guardadora o guardador, tutora o tutor, acompañada de un representante de la Defensoría de la Niñez y Adolescencia, y de la Unidad de Atención de Víctimas y Testigos del Ministerio Público».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo I: Acción penal y participación. Art. 286, parágrafo II (página impresa 109; página PDF 111).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+66. [Ley N.º 548 – LIBRO III] Un adolescente imputado no comparece, sin causa justificada, a una citación de la autoridad competente. Según el Artículo 285, ¿qué corresponde?
+A. Será condenado en ausencia, con la medida máxima prevista para el delito imputado.
+B. Será liberado de toda responsabilidad, por haber vencido el plazo de comparecencia.
+C. Será declarado rebelde; la declaratoria no suspende la etapa de investigación.
+D. Será citado nuevamente sin consecuencia alguna, hasta que comparezca voluntariamente.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «I. La persona adolescente en el Sistema Penal será declarada rebelde cuando: a) No comparezca, sin causa justificada, a una citación emanada de autoridad competente; […] II. La declaratoria de rebeldía no suspenderá la etapa de investigación […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo I: Acción penal y participación. Art. 285, parágrafos I y II (página impresa 109; página PDF 111).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+67. [Ley N.º 548 – LIBRO III] Para determinar la medida socio-educativa y su duración, ¿qué pautas debe considerar el juez según el Artículo 325?
+A. Antecedentes familiares, situación económica de los padres, rendimiento escolar y opinión de la unidad educativa del adolescente, según la ley vigente.
+B. Opinión de la víctima, presión social del caso, reincidencia de los hermanos y gravedad del daño patrimonial causado.
+C. Edad de la víctima, número de testigos, duración del proceso y disponibilidad de cupos en los centros especializados.
+D. Naturaleza y gravedad de los hechos, grado de responsabilidad, proporcionalidad, edad y capacidad, y esfuerzos por reparar los daños.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «a) La naturaleza y gravedad de los hechos; b) El grado de responsabilidad de la o del adolescente; c) La proporcionalidad e idoneidad de la medida; d) La edad de la y el adolescente y su capacidad para cumplir la medida; y e) Los esfuerzos de la o el adolescente por reparar los daños».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección I: Medidas socio-educativas. Art. 325 (páginas impresas 125-126; páginas PDF 127-128).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+68. [Ley N.º 548 – LIBRO III] Una persona tiene un registro de antecedentes penales como adolescente y alguien solicita certificarlo. Según el Artículo 263.II, ¿cómo puede certificarse?
+A. Mediante solicitud simple ante la Policía Boliviana, con pago del arancel correspondiente.
+B. Solo mediante auto motivado de la Jueza o el Juez Público en materia de Niñez y Adolescencia.
+C. Mediante certificación de la Defensoría de la Niñez, a pedido de cualquier persona interesada.
+D. Mediante consulta pública en el registro judicial, sin necesidad de resolución alguna.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El registro de antecedentes penales y policiales, será reservado y sólo podrá certificarse mediante auto motivado, emitido por la Jueza o el Juez Público en materia de Niñez y Adolescencia».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 263, parágrafo II (página impresa 101; página PDF 103).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+69. [Ley N.º 548 – LIBRO III] Un adolescente imputado no habla castellano. Según el Artículo 262.I.f, ¿qué derecho le asiste?
+A. La asistencia gratuita de una traductora, traductor o intérprete.
+B. La suspensión del proceso hasta que aprenda el idioma castellano.
+C. La traducción a cargo de sus padres, sin costo para el Estado.
+D. La designación de un defensor que hable su idioma, sin intérprete.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «f) A un Traductor o Intérprete. A contar con la asistencia gratuita de una traductora o un traductor, una o un intérprete si no comprende o no habla el idioma o lenguaje utilizado o se trate de adolescente en situación de discapacidad, en los casos que sea necesario […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo I: Sistema penal, responsabilidad y garantías. Art. 262, parágrafo I, inciso f) (página impresa 99; página PDF 101).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+70. [Ley N.º 548 – LIBRO III] Los mecanismos de justicia restaurativa de una remisión se cumplieron satisfactoriamente. Según el Artículo 300.II, ¿qué debe declararse?
+A. La reapertura de la investigación para verificar el cumplimiento de los mecanismos.
+B. El cierre definitivo de la causa, por la autoridad que otorgó la remisión.
+C. La imposición de una medida en libertad, como continuidad de los mecanismos cumplidos.
+D. La remisión del caso al juez de sentencia para el dictado de una resolución absolutoria.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Al cumplimiento de los mecanismos de justicia restaurativa, que no deberán exceder de seis (6) meses computables a partir de su aplicación, la Jueza, el Juez, la o el Fiscal que haya otorgado la remisión, declarará el cierre definitivo de la causa».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo IV: Finalización de la investigación. Art. 300, parágrafo II (página impresa 115; página PDF 117).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Ley N.º 548 – LIBRO III] Caso: un estudiante de 15 años es acusado de lesiones a un compañero. La familia de la víctima y el adolescente desean resolver el conflicto antes de la sentencia. ¿Qué salida alternativa prevé el Código?
+A. La remisión al director de la unidad educativa, que impone una sanción disciplinaria sustitutiva del proceso.
+B. La conciliación, que puede realizarse hasta antes de la sentencia, con acompañamiento de mecanismos de justicia restaurativa.
+C. La renuncia de la acción penal por la víctima, que extingue el proceso sin acta ni mecanismos restaurativos.
+D. La suspensión indefinida del proceso, hasta que el adolescente cumpla dieciocho años de edad cumplidos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: Art. 301.I: «La conciliación es la salida alternativa al proceso, a través de la cual se soluciona el conflicto, que puede realizarse hasta antes de pronunciarse la sentencia». Art. 301.III: «[…] para lo que la Jueza o el Juez dispondrá el acompañamiento de los mecanismos de justicia restaurativa, los cuales tendrán una duración máxima de seis (6) meses». Aplicación razonada: la conciliación es la vía prevista para solucionar el conflicto antes de la sentencia.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo IV: Finalización de la investigación. Art. 301, parágrafos I y III (páginas impresas 115-116; páginas PDF 117-118).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Ley N.º 548 – LIBRO III] Caso: un adolescente de 16 años daña culposamente la bicicleta de un vecino y desea repararla. ¿Qué salida alternativa procede?
+A. La detención preventiva hasta que repare el daño, por tratarse de un delito contra la propiedad ajena, según lo dispuesto.
+B. La remisión obligatoria a un centro de reintegración social por el tiempo que dure la reparación.
+C. La exención total de responsabilidad, por tratarse de un daño menor causado sin intención alguna.
+D. La reparación integral del daño, en delitos patrimoniales o culposos sin muerte, si la admite la víctima o el fiscal.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La reparación integral del daño causado, es la salida alternativa a través de la cual se soluciona el conflicto, que puede realizarse hasta antes de pronunciarse la sentencia, en los delitos de contenido patrimonial o en los delitos culposos que no tengan por resultado la muerte, siempre que lo admita la víctima o la o el Fiscal, según el caso, con la consiguiente declaratoria de extinción de la acción penal […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo IV: Finalización de la investigación. Art. 302, parágrafo I (página impresa 116; página PDF 118).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Ley N.º 548 – LIBRO III] Caso: tras su sentencia, un adolescente debe cumplir una medida socio-educativa. ¿Quién formula su plan individual de ejecución y con qué participación?
+A. El equipo interdisciplinario de la Instancia Técnica Departamental, con la participación del adolescente.
+B. El director de la unidad educativa del adolescente, con la participación de la junta escolar del lugar, conforme a la Ley.
+C. La Policía Boliviana, con la participación del fiscal que llevó adelante la investigación del caso.
+D. El juez de sentencia, sin participación del adolescente ni de su familia, mediante resolución escrita.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La ejecución de las medidas socio-educativas se realizará mediante la elaboración de un plan individual diferenciado para cada adolescente. El plan formulado por el equipo interdisciplinario de la Instancia Técnica Departamental de Política Social, con la participación de la y el adolescente, se basará en el estudio de los factores y carencias que incidieron en su conducta […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección IV: Ejecución de las medidas socio-educativas. Art. 344, parágrafo I (página impresa 131; página PDF 133).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Ley N.º 548 – LIBRO III] Caso: un adolescente privado de libertad ingresa a un centro de reintegración social. ¿Qué derecho tiene respecto a su examen médico según el Artículo 342.c?
+A. A ser examinado por un médico solo si lo solicita por escrito, dentro de los treinta días de su ingreso al centro.
+B. A ser examinado al concluir su medida, para verificar su estado de salud antes de su egreso del centro especializado, según la norma.
+C. A ser examinado por un médico particular contratado por su familia, sin intervención de la entidad de atención.
+D. A ser examinado por un médico inmediatamente después de su ingreso, para comprobar anteriores violaciones a su integridad.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «c) A ser examinada o examinado por un médico, inmediatamente después de su ingreso a la entidad, con el objeto de comprobar anteriores violaciones a su integridad personal y verificar cualquier estado físico o psicológico que requiera tratamiento […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección IV: Ejecución de las medidas socio-educativas. Art. 342, inciso c) (página impresa 130; página PDF 132).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Ley N.º 548 – LIBRO III] Caso: un adolescente privado de libertad pide ser trasladado a un centro cercano a la ciudad donde vive su madre. ¿Qué derecho del Artículo 342.a lo respalda?
+A. A elegir libremente cualquier centro del país, sin consideración del domicilio de su familia, conforme a la normativa.
+B. A cumplir la medida en el domicilio de su madre, en sustitución del internamiento dispuesto.
+C. A permanecer internado en la misma localidad o en la más próxima al domicilio de su madre, padre o responsable.
+D. A ser trasladado solo si su madre paga los costos de traslado y de manutención en el centro.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «a) A permanecer internada o internado en la misma localidad o en la más próxima al domicilio de su madre, padre, guardadora, guardador, tutora o tutor […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección IV: Ejecución de las medidas socio-educativas. Art. 342, inciso a) (página impresa 130; página PDF 132).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Ley N.º 548 – LIBRO III] Caso: un adolescente con discapacidad intelectual que no puede comprender la antijuricidad de su acción es denunciado por un hecho. ¿Cómo se resuelve según el Artículo 269.IV?
+A. Será procesado con responsabilidad atenuada y sometido a medidas solo en libertad.
+B. No será procesado ni declarado penal o civilmente responsable, según la Ley 548.
+C. Será procesado en la jurisdicción penal ordinaria, con asistencia de un intérprete especializado.
+D. Será declarado civilmente responsable, debiendo sus padres reparar el daño causado a la víctima.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «No será procesado ni declarado penal o civilmente responsable, la o el adolescente entre catorce (14) y dieciocho (18) años con discapacidad intelectual, psíquica o mental, que no pueda comprender la antijuricidad de su acción».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título I, Capítulo II: Ámbito de aplicación. Art. 269, parágrafo IV (página impresa 102; página PDF 104).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Ley N.º 548 – LIBRO III] Caso: en una investigación con tres adolescentes imputados, el fiscal no ha concluido la etapa investigativa a los 60 días. ¿Está dentro del plazo?
+A. No, el plazo máximo es de cuarenta y cinco días aunque existan varios adolescentes imputados, según la Ley 548.
+B. No, el plazo máximo es de treinta días, ampliable solo con autorización del Fiscal General.
+C. Sí, porque la etapa investigativa no tiene plazo máximo cuando existen varios imputados.
+D. Sí, con pluralidad de imputados el plazo máximo de la etapa investigativa es de noventa días.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] En caso de pluralidad de personas adolescentes imputadas el plazo máximo de la etapa investigativa no excederá de los noventa (90) días».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo III: Investigación. Art. 293, parágrafo II (página impresa 113; página PDF 115).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Ley N.º 548 – LIBRO III] Caso: un adolescente cumple una medida en libertad asistida. ¿Qué implica esta medida según el Artículo 327?
+A. Permanecer en un centro especializado los fines de semana, con salidas solo para actividades de estudio, según la normativa vigente.
+B. Someterse a supervisión, asistencia y orientación de un técnico capacitado, con inclusión en un programa de la Instancia Técnica.
+C. Realizar tareas comunitarias de tres horas semanales, sin supervisión técnica ni inclusión en programas.
+D. Permanecer en su domicilio bajo el cuidado de sus padres, sin supervisión técnica de ninguna instancia.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «I. Esta medida consiste en otorgar la libertad a la o el adolescente, obligándose a ésta o éste a someterse, durante el tiempo que debiera durar la sanción, a la supervisión, asistencia y orientación de una persona técnica, debidamente capacitada. II. Esta medida se aplicará mientras dure la sanción y amerita la inclusión de la persona adolescente penalmente responsable en un programa desarrollado para este fin por la Instancia Técnica Departamental de Política Social».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección II: Definición de las medidas. Art. 327 (página impresa 126; página PDF 128).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Ley N.º 548 – LIBRO III] Caso: el fiscal no requiere la remisión para un adolescente, pero su defensor considera que procede. ¿Qué puede hacer según el Artículo 299.III?
+A. Nada, pues la remisión es una facultad exclusiva del fiscal que no puede ser revisada por el juez.
+B. Solicitarla a la Defensoría de la Niñez, que la concede mediante resolución administrativa.
+C. Esperar a la sentencia para solicitar la remisión como forma de cumplimiento de la medida.
+D. Solicitarla al juez, quien puede disponerla aun cuando el fiscal haya presentado acusación.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Si la o el Fiscal no requiriera la remisión, la defensora o defensor de la persona adolescente podrán solicitar su aplicación a la Jueza o al Juez, quien podrá disponerla aun cuando la o el Fiscal haya presentado acusación […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo IV: Finalización de la investigación. Art. 299, parágrafo III (página impresa 115; página PDF 117).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Ley N.º 548 – LIBRO III] Caso: una víctima no está de acuerdo con la remisión dispuesta por el fiscal en favor de un adolescente. ¿Qué puede hacer según el Artículo 298.III?
+A. Apelar directamente ante el Tribunal Supremo de Justicia, en el plazo de treinta días hábiles.
+B. Nada, porque la remisión es una decisión inimpugnable para la víctima en todos los casos.
+C. Solicitar a la Defensoría de la Niñez que anule la remisión mediante resolución administrativa, según la ley vigente.
+D. Solicitar su revisión ante el fiscal que la dictó en cinco días, quien remite antecedentes al Fiscal Departamental.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La víctima podrá solicitar la revisión de la resolución de la remisión ante la o el Fiscal que la dictó, en el plazo de cinco (5) días a partir de su notificación, quien remitirá antecedentes al Fiscal Departamental, dentro el plazo de un (1) día».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo IV: Finalización de la investigación. Art. 298, parágrafo III (página impresa 114; página PDF 116).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Ley N.º 548 – LIBRO III] Un juez debe decidir si dispone detención preventiva a un adolescente. Según el Artículo 289.I, ¿qué circunstancias deben concurrir?
+A. La sola gravedad del delito imputado, sin necesidad de evaluar riesgos procesales en el caso.
+B. La solicitud verbal de la víctima, aunque no exista pedido escrito y fundamentado del fiscal.
+C. Elementos suficientes de probable participación en el hecho y riesgo razonable de fuga u obstaculización.
+D. La existencia de antecedentes escolares de mala conducta del adolescente en su unidad educativa, según la normativa.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «A pedido escrito y fundamentado de la o el Fiscal, podrá la Jueza o el Juez ordenar la detención preventiva, cuando se presenten, de manera concurrente, las siguientes circunstancias: a) La existencia de elementos suficientes sobre la probable participación de la o el adolescente en el hecho; y b) Que exista riesgo razonable de fuga u obstaculización de la averiguación de la verdad».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo II: Aprehensión, medidas cautelares y peligros procesales. Art. 289, parágrafo I (página impresa 111; página PDF 113).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Ley N.º 548 – LIBRO III] Un juez evalúa qué medida cautelar menos gravosa aplicar a un adolescente que vive con sus padres. ¿Qué opción del Artículo 288 es coherente?
+A. La detención preventiva en un recinto penitenciario para adultos de la localidad, conforme a la norma.
+B. El internamiento en un centro de reintegración social por el plazo de un año.
+C. La incomunicación en dependencias policiales hasta la audiencia de juicio oral.
+D. La obligación de permanecer en su propio domicilio, con el cuidado de su madre, padre o responsable.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «f) La obligación de permanecer en su propio domicilio, con el cuidado de su madre, padre, guardadora o guardador, tutora o tutor […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo II: Aprehensión, medidas cautelares y peligros procesales. Art. 288, inciso f) (página impresa 111; página PDF 113).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Ley N.º 548 – LIBRO III] Un fiscal concluye la investigación de un caso que admite salidas no judiciales. ¿Qué atribución específica del Artículo 275 debe considerar?
+A. Requerir siempre la acusación formal, sin considerar la desjudicialización ni las salidas alternativas.
+B. Promover y requerir la desjudicialización y las salidas alternativas, y hacer seguimiento a los mecanismos restaurativos.
+C. Archivar el caso de oficio, sin requerimiento conclusivo ni comunicación a la autoridad judicial.
+D. Remitir el caso a la jurisdicción ordinaria, para que se juzgue al adolescente como adulto.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «a) Promover y requerir la desjudicialización, siempre que fuera procedente; revisar y hacer el seguimiento al cumplimiento de los mecanismos de justicia restaurativa que la acompañen; y b) Promover y requerir la aplicación de salidas alternativas; revisar y hacer el seguimiento al cumplimiento de los mecanismos de justicia restaurativa que las acompañen».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título II, Capítulo IV: Ministerio Público y Policía Boliviana. Art. 275 (páginas impresas 104-105; páginas PDF 106-107).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Ley N.º 548 – LIBRO III] Al aplicar un mecanismo de justicia restaurativa, ¿qué reglas del Artículo 318 deben observarse en cuanto al acceso y consentimiento?
+A. Debe ser oneroso y obligatorio, con consentimiento solo del juez, sin posibilidad de retiro por las partes.
+B. Debe ser público y obligatorio para la víctima, sin necesidad del consentimiento del adolescente.
+C. Debe ser gratuito, voluntario y confidencial, con consentimiento libre de las partes, que pueden retirarlo en cualquier momento.
+D. Debe ser gratuito pero irrevocable, sin que las partes puedan retirar su consentimiento una vez dado.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «a) Deberán ser de acceso gratuito, voluntario y confidencial; b) Se realizan a solicitud de la autoridad competente, con el consentimiento libre y voluntario de la víctima, la persona adolescente en el Sistema Penal, la madre, padre, guardadora o guardador, tutora o tutor, y la comunidad, quienes podrán retirar ese consentimiento en cualquier momento del proceso […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV: Mecanismos de justicia restaurativa. Art. 318, incisos a) y b) (página impresa 123; página PDF 125).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Ley N.º 548 – LIBRO III] Un juez debe valorar la prueba en el proceso penal de un adolescente. ¿Qué criterio exige el Artículo 294.II?
+A. Aplicar la prueba tasada, otorgando valor pleno solo a los documentos públicos certificados.
+B. Aplicar la íntima convicción, sin obligación de fundamentar el valor otorgado a la prueba.
+C. Aplicar el criterio del equipo interdisciplinario, cuya valoración es vinculante para el juez.
+D. Aplicar la sana crítica, fundamentando el valor de cada prueba en la apreciación conjunta y armónica de toda la prueba.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La Jueza o el Juez valorará la prueba, aplicando las reglas de la sana crítica, justificando y fundamentando adecuadamente las razones por las cuales les otorga determinado valor, en base a la apreciación conjunta y armónica de toda la prueba producida».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo III: Investigación. Art. 294, parágrafo II (página impresa 113; página PDF 115).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Ley N.º 548 – LIBRO III] Una prueba fue obtenida vulnerando garantías constitucionales del adolescente. ¿Qué decisión corresponde según el Artículo 295?
+A. Admitirla si es la única prueba existente del hecho.
+B. Excluirla, pues carece de toda eficacia probatoria.
+C. Admitirla con valor de simple indicio procesal.
+D. Admitirla si la defensa no la impugna en audiencia.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Carecerán de toda eficacia probatoria los actos que vulneren derechos y garantías consagradas en la Constitución Política del Estado, en las Convenciones y Tratados Internacionales, en este Código y en otras leyes del Estado, así como los elementos probatorios obtenidos por medios ilícitos».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título III, Capítulo III: Investigación. Art. 295 (página impresa 113; página PDF 115).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Ley N.º 548 – LIBRO III] Un juez evalúa la pena atenuada de un adolescente comprendida entre uno y dos años. Según el Artículo 324.II, ¿qué tipo de medidas debe aplicar?
+A. Medidas socio-educativas privativas de libertad.
+B. Medidas en libertad sin supervisión de ningún tipo.
+C. Medidas exclusivamente de reparación económica.
+D. Medidas socio-educativas con restricción de libertad.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Las medidas socio-educativas que se cumplen con restricción de libertad serán aplicadas cuando la pena atenuada impuesta a la persona adolescente esté comprendida entre un (1) año y dos (2) años […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección I: Medidas socio-educativas. Art. 324, parágrafo II (página impresa 125; página PDF 127).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Ley N.º 548 – LIBRO III] Al someter un caso a un proceso restaurativo entre partes de culturas distintas y posiciones desiguales, ¿qué regla del Artículo 318 debe orientar la decisión?
+A. Ignorar las diferencias culturales, aplicando un único procedimiento estándar a todas las partes.
+B. Tener en cuenta las diferencias de posición y culturales, así como la seguridad de las partes.
+C. Excluir del proceso restaurativo a la parte con menor poder, para evitar desequilibrios en el acuerdo.
+D. Aplicar las normas culturales de la parte con mayor poder, por representar a la mayoría social.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «f) Las diferencias conducentes a una desigualdad de posiciones, así como las diferencias culturales entre las partes, se deben tener en cuenta al someter un caso a un proceso restaurativo y al llevarlo a cabo; g) La seguridad de las partes debe ser tomada en cuenta […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV: Mecanismos de justicia restaurativa. Art. 318, incisos f) y g) (página impresa 123; página PDF 125).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Ley N.º 548 – LIBRO III] Un juez puede complementar una medida socio-educativa con reglas de conducta. ¿Qué regla del Artículo 323.IV es pertinente para un adolescente que consume alcohol?
+A. La obligación de trabajar en bares, para conocer los efectos del consumo de alcohol.
+B. La prohibición de consumir bebidas alcohólicas, estupefacientes o psicotrópicos.
+C. La prohibición de asistir a la unidad educativa, para alejarlo de sus compañeros.
+D. La obligación de residir en un centro penitenciario para adultos durante la medida.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «f) Prohibición de consumir bebidas alcohólicas, estupefacientes o psicotrópicos […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección I: Medidas socio-educativas. Art. 323, parágrafo IV, inciso f) (página impresa 125; página PDF 127).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Ley N.º 548 – LIBRO III] Las máximas autoridades de una institución del Sistema Penal planifican su personal. ¿Qué exige el Artículo 270.I?
+A. Contratar personal sin especialización, siempre que cumpla los requisitos generales de la función pública vigente.
+B. Reducir el personal al mínimo indispensable, delegando funciones en voluntarios de la comunidad del lugar.
+C. Garantizar la designación de personal especializado en cantidad y calidad necesaria para su funcionamiento y la garantía de derechos.
+D. Designar personal por recomendación de las organizaciones sociales, sin requisitos de especialidad alguna.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las máximas autoridades de cada institución que integra el Sistema Penal para adolescentes, deberán garantizar la designación de personal especializado en cantidad y calidad necesaria para su óptimo funcionamiento y para la garantía de los derechos de adolescentes que se encuentren en su ámbito de actuación».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título II, Capítulo I: Obligaciones generales. Art. 270, parágrafo I (página impresa 102; página PDF 104).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Ley N.º 548 – LIBRO III] ¿Qué responsabilidades asigna el Artículo 277.I a los Gobiernos Autónomos Departamentales en el Sistema Penal?
+A. La creación, implementación, financiamiento, dirección, organización y gestión de servicios, centros y programas para ejecutar medidas y justicia restaurativa.
+B. La investigación de los delitos cometidos por adolescentes y la formulación de la acusación ante el juez competente del distrito.
+C. El juzgamiento de los adolescentes en primera instancia y la imposición de las medidas socio-educativas en el proceso judicial respectivo.
+D. La defensa técnica de los adolescentes imputados y la representación de las víctimas en el proceso penal en el proceso judicial respectivo.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Los Gobiernos Autónomos Departamentales, son responsables de la creación, implementación, financiamiento, dirección, organización y gestión de los servicios, instituciones, centros especializados y programas para garantizar la correcta ejecución de las medidas y sanciones previstas por este Código, así como de los programas y servicios destinados a la realización de la justicia restaurativa».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título II, Capítulo V: Gobiernos Autónomos Departamentales e Instancia Técnica Departamental de Política Social. Art. 277, parágrafo I (páginas impresas 105-106; páginas PDF 107-108).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Ley N.º 548 – LIBRO III] Para la gestión técnica del Sistema Penal, ¿qué atribuciones de rectoría tiene el Ministerio de Justicia según el Artículo 272.I?
+A. Formular políticas y programas, elaborar diagnósticos, supervisar los centros, identificar necesidades y evaluar periódicamente el Sistema.
+B. Juzgar a los adolescentes, imponer las medidas socio-educativas y resolver las apelaciones de sentencia del caso.
+C. Investigar los delitos, aprehender a los adolescentes y conducirlos a los centros de reintegración social.
+D. Financiar los centros departamentales, designar a sus directores y aprobar sus reglamentos internos de funcionamiento.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «a) Formulación y coordinación del desarrollo de planes, políticas, programas […] b) Elaboración de diagnósticos regionales […] c) Supervisión y Control de los Centros Especializados […] d) Identificación de las necesidades del Sistema […] e) Realización de evaluaciones periódicas del funcionamiento del Sistema».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título II, Capítulo II: Ministerio de Justicia. Art. 272, parágrafo I (página impresa 103; página PDF 105).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Ley N.º 548 – LIBRO III] ¿Qué busca la justicia restaurativa para la comunidad según el Artículo 316.III?
+A. Su protección frente al adolescente infractor, mediante la segregación de este en centros cerrados durante su medida.
+B. Su indemnización económica por los daños sufridos, a cargo de la familia del adolescente que cometió el delito.
+C. Su participación activa en la reintegración social de la víctima y del adolescente, y la reducción del impacto social por prevención secundaria.
+D. Su exclusión del proceso, para garantizar la confidencialidad de la identidad del adolescente y de la víctima.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «[…] Para la comunidad, la participación activa en el proceso de reintegración social tanto de la víctima como del adolescente, y la reducción del impacto social a través de la prevención secundaria».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV: Mecanismos de justicia restaurativa. Art. 316, parágrafo III (página impresa 122; página PDF 124).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Ley N.º 548 – LIBRO III] ¿Qué deben contener los programas de orientación socio-educativos según el Artículo 321.II?
+A. Un régimen disciplinario de aislamiento, con restricciones de visitas familiares y de actividades educativas.
+B. Un programa de trabajo remunerado obligatorio, para reparar económicamente el daño causado a la víctima del delito.
+C. Un calendario de presentaciones ante la policía, sin intervención psicológica ni social del adolescente.
+D. Un plan integral de orientación con aspectos a desarrollar en los ámbitos familiar, educativo, laboral, ocupacional y espiritual.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Son diseñados e implementados por las instancias departamentales de gestión social, en el marco de sus competencias, en base al diagnóstico realizado por el equipo interdisciplinario, a través de la elaboración de un plan integral de orientación para cada persona adolescente en el Sistema Penal, y en su caso para su familia. Contendrán aspectos a desarrollar en los ámbitos familiar, educativo, laboral, ocupacional y espiritual».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV: Mecanismos de justicia restaurativa. Art. 321, parágrafo II (página impresa 124; página PDF 126).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Ley N.º 548 – LIBRO III] ¿Qué debe garantizar el diseño de los centros especializados según el Artículo 277.II?
+A. Infraestructura, espacios acondicionados y personal especializado necesarios para garantizar los derechos de los adolescentes.
+B. Máxima seguridad y aislamiento, con personal policial y sin actividades educativas ni recreativas.
+C. Bajo costo de operación, con personal voluntario y espacios compartidos con adultos condenados.
+D. Ubicación alejada de los centros urbanos, para evitar el contacto de los adolescentes con su familia.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Los centros especializados para personas adolescentes en el Sistema Penal, tendrán la infraestructura, los espacios acondicionados y el personal especializado, necesarios para la garantía de los derechos de las y los adolescentes en el Sistema Penal».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título II, Capítulo V: Gobiernos Autónomos Departamentales e Instancia Técnica Departamental de Política Social. Art. 277, parágrafo II (página impresa 106; página PDF 108).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Ley N.º 548 – LIBRO III] Para asegurar la reinserción, ¿qué obligaciones del Artículo 281 deben planificar las entidades de atención?
+A. Aislamiento disciplinario, trabajo forzoso, restricción de visitas y supresión de las actividades educativas, según la reglamentación.
+B. Registro policial, custodia armada, control de pertenencias y traslado a recintos de adultos al egreso.
+C. Estudio judicial, revisión de la sentencia, cobro de manutención a la familia y egreso sin preparación.
+D. Estudio personal y social, alimentación y vivienda, atención médica y psicológica, educación y preparación gradual para el egreso.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «1. Efectuar el estudio personal y social de cada caso; 2. Garantizar la alimentación, vestido y vivienda […] 3. Garantizar la atención médica y psicológica; 4. Garantizar su acceso a la educación; […] 6. Prepararlas o prepararlos gradualmente, para su separación de la entidad […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título II, Capítulo VI: Entidades de atención y programas del Sistema Penal. Art. 281 (página impresa 107; página PDF 109).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Ley N.º 548 – LIBRO III] ¿Qué programas debe implementar el Sistema Penal para adolescentes según el Artículo 282.III?
+A. El Programa Nacional de Seguridad Ciudadana, con el Programa de Patrullaje Escolar y de Control de Pandillas juveniles.
+B. El Programa Departamental de la Niña, Niño y Adolescente, con el Programa de Centros Especializados y los de Orientación Socio-educativos.
+C. El Programa Municipal de Defensorías, con el Programa de Conciliación Familiar y de Mediación Escolar del municipio.
+D. El Programa Penitenciario Nacional, con el Programa de Trabajo Penitenciario para adolescentes infractores del país.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El Sistema Penal para adolescentes, implementará el Programa Departamental de la Niña, Niño y Adolescente que desarrollará a su vez el Programa de Centros Especializados y los Programas de Orientación Socio-educativos, entre otros».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título II, Capítulo VI: Entidades de atención y programas del Sistema Penal. Art. 282, parágrafo III (página impresa 107; página PDF 109).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Ley N.º 548 – LIBRO III] ¿Qué atribuciones tiene la Instancia Técnica Departamental de Política Social en el Sistema Penal según el Artículo 278?
+A. Investigar los delitos cometidos por adolescentes y formular la acusación ante el juez de la niñez competente del lugar.
+B. Dictar las sentencias en los procesos penales de adolescentes y resolver las apelaciones de las partes en segunda instancia.
+C. Designar a los defensores públicos de los adolescentes y supervisar la actuación de la Policía Boliviana en el departamento.
+D. Ejecutar programas para el cumplimiento de medidas y seguimiento restaurativo, vigilar derechos de menores de catorce y elaborar el plan individual.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «a) Ejecutar programas y servicios personalizados, integrados y especializados dirigidos a adolescentes en el Sistema Penal, para el cumplimiento de medidas socio-educativas […] b) Ejecutar servicios y programas para el seguimiento de los mecanismos de justicia restaurativa […] c) Vigilar el cumplimiento de los derechos y garantías de los adolescentes menores de catorce (14) años que fueren aprehendidos o arrestados; y d) Elaborar con la plena participación de la o el adolecente, su plan individual de ejecución de la medida que le fuere impuesta».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título II, Capítulo V: Gobiernos Autónomos Departamentales e Instancia Técnica Departamental de Política Social. Art. 278 (página impresa 106; página PDF 108).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Ley N.º 548 – LIBRO III] ¿Qué objetivo tiene la ejecución de las medidas socio-educativas según el Artículo 340?
+A. Lograr el pleno desarrollo de las capacidades del adolescente y su adecuada convivencia con su familia y entorno.
+B. Lograr el castigo proporcional del adolescente por el daño causado a la víctima y a la sociedad.
+C. Lograr la separación definitiva del adolescente de su familia, por considerarla factor de riesgo, según la reglamentación.
+D. Lograr la reducción de la población de los centros especializados mediante egresos anticipados.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La ejecución de las medidas tiene por objeto lograr el pleno desarrollo de las capacidades de la o el adolescente, así como la adecuada convivencia con su familia y con su entorno familiar».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título IV, Sección IV: Ejecución de las medidas socio-educativas. Art. 340 (página impresa 129; página PDF 131).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Ley N.º 548 – LIBRO III] Para la capacitación del personal del Sistema Penal para adolescentes, ¿qué responsabilidad establece el Artículo 270.II?
+A. Solo el Ministerio de Justicia capacita a los servidores, sin responsabilidad de las demás instituciones, según la normativa.
+B. Todas las instituciones, en sus competencias, son responsables de capacitar a los servidores que implementan el Código.
+C. Solo las universidades capacitan a los servidores, mediante cursos de posgrado financiados por ellos.
+D. Ninguna institución está obligada a capacitar, pues el personal debe llegar ya especializado al cargo.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Todas las instituciones en sus respectivas competencias, son responsables de capacitar a las y los servidores públicos a cargo de implementar las disposiciones de este Código».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro III, Título II, Capítulo I: Obligaciones generales. Art. 270, parágrafo II (página impresa 103; página PDF 105).

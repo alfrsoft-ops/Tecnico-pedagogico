@@ -1,0 +1,1111 @@
+# Fuente: ley-070-t1.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez» (20 de diciembre de 2010)
+# Título I: Marco filosófico y político de la educación boliviana (Arts. 1 al 7)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar el Título I de la Ley N.º 070 en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto de la Ley proporcionado, sin incorporar fuentes externas, y su fundamentación transcribe textualmente el fragmento que respalda la respuesta correcta.
+# Criterios documentales aplicados
+# Alcance de la fuente. El Título I comprende tres capítulos: Capítulo I, La educación como derecho fundamental (Arts. 1 y 2); Capítulo II, Bases, fines y objetivos de la educación (Arts. 3, 4 y 5); y Capítulo III, Diversidad sociocultural y lingüística (Arts. 6 y 7). En el PDF proporcionado ocupa las páginas 2 a 10.
+# Página impresa. El documento (versión de la Gaceta Oficial) numera sus páginas al pie con el formato «n/39», a partir de la segunda página del PDF. Por eso la página impresa equivale a la página PDF menos uno (p. ej., página PDF 4 = página impresa «3/39»). Cada referencia consigna ambas.
+# Fundamentación textual. Cada fundamentación transcribe entre comillas el fragmento de la Ley que respalda la respuesta correcta. En las preguntas derivadas se añade una nota breve rotulada «Aplicación razonada», que distingue la inferencia del contenido textual.
+# Competencias directivas. El Título I no regula funciones ni atribuciones específicas del director de una Unidad Educativa: «No respaldado por el documento fuente». Por ello, la dimensión 3 evalúa garantías, derechos y obligaciones del Título I que enmarcan la gestión institucional (participación social, tipos de unidades educativas, inamovilidad, escalafón, sindicalización, organización estudiantil, derecho de las familias, obligación del Estado y formación continua), sin atribuirlos al director.
+# Cobertura y no duplicación. Con siete artículos como fuente, algunos numerales se evalúan en dos preguntas con enfoques distintos (conocimiento textual frente a aplicación o caso). No hay preguntas repetidas ni con la misma respuesta y el mismo enfoque.
+# Etiqueta de trazabilidad. Cada enunciado inicia con [Ley N.º 070 – TÍTULO I], para su integración en plataformas de simulación que combinan preguntas de varios documentos; el capítulo y artículo exactos figuran en la referencia.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 30 preguntas y la más corta en 12, por lo que la longitud no es una pista.
+# 2. Distribución metodológica y ponderación
+# N.º
+# Tipo de evaluación
+# ¿Qué evalúa?
+# Preg.
+# Peso
+# N.º preg.
+# 1
+# Conocimiento y memorización
+# Dominio de conceptos, definiciones, principios, fechas, disposiciones y contenidos fundamentales del documento.
+# 10
+# 10%
+# 1–10
+# 2
+# Dominio conceptual
+# Comprensión de los fundamentos pedagógicos, administrativos, curriculares y organizativos del Sistema Educativo Plurinacional.
+# 10
+# 10%
+# 11–20
+# 3
+# Competencias y responsabilidades directivas
+# Conocimiento de las funciones, atribuciones, obligaciones y responsabilidades del director (en este Título: garantías y obligaciones que enmarcan la gestión institucional).
+# 10
+# 10%
+# 21–30
+# 4
+# Comprensión e interpretación
+# Capacidad para interpretar documentos, orientaciones pedagógicas y situaciones educativas.
+# 10
+# 10%
+# 31–40
+# 5
+# Diferenciación conceptual
+# Capacidad para distinguir conceptos, funciones, procedimientos, niveles de responsabilidad y enfoques educativos similares.
+# 10
+# 10%
+# 41–50
+# 6
+# Análisis crítico
+# Capacidad para identificar problemas institucionales, analizar sus causas, valorar alternativas y emitir criterios fundamentados.
+# 10
+# 10%
+# 51–60
+# 7
+# Aplicación normativa
+# Capacidad para aplicar correctamente la normativa en situaciones institucionales.
+# 10
+# 10%
+# 61–70
+# 8
+# Resolución de casos prácticos
+# Capacidad para resolver conflictos escolares, problemas administrativos, dificultades pedagógicas y situaciones con estudiantes, profesores y familias.
+# 10
+# 10%
+# 71–80
+# 9
+# Toma de decisiones
+# Capacidad para adoptar decisiones oportunas, pertinentes, fundamentadas y responsables ante situaciones institucionales.
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# Capacidad para planificar, organizar, dirigir, supervisar y evaluar acciones orientadas al mejoramiento de la calidad educativa.
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–10)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta [Ley N.º 070 – TÍTULO I]; el capítulo y artículo exactos figuran en la referencia.
+# Cada fundamentación transcribe el fragmento textual de la Ley y remite al artículo y numeral, con página impresa y página PDF.
+# Contenido limitado exclusivamente al Título I de la Ley N.º 070; no se atribuyen al director competencias que el Título I no contiene.
+
+CAPÍTULO: ley-070-t1
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Ley N.º 070 – TÍTULO I] ¿En qué fecha fue promulgada la Ley N.º 070 de la Educación?
+A. El 20 de noviembre de 2010.
+B. El 7 de febrero de 2010.
+C. El 20 de diciembre de 2010.
+D. El 10 de junio de 2012.
+Respuesta correcta: C
+Explicación: «LEY Nº 070 / LEY DE 20 DE DICIEMBRE DE 2010».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», encabezado de la Ley; página impresa: 1 (numeración «1/39»); página PDF: 2.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Ley N.º 070 – TÍTULO I] ¿Cuál es la denominación oficial de la Ley N.º 070?
+A. Ley de la Educación Plurinacional Comunitaria Productiva.
+B. Ley de la Educación «Avelino Siñani - Elizardo Pérez».
+C. Ley de la Revolución Educativa Intercultural y Plurilingüe.
+D. Ley del Sistema Educativo Plurinacional Descolonizador.
+Respuesta correcta: B
+Explicación: «LEY DE LA EDUCACIÓN “AVELINO SIÑANI - ELIZARDO PÉREZ”».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», encabezado de la Ley; página impresa: 1 (numeración «1/39»); página PDF: 2.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Ley N.º 070 – TÍTULO I] ¿Cómo se denomina el Título I de la Ley N.º 070?
+A. Marco filosófico y político de la educación boliviana.
+B. Marco conceptual y curricular de la educación boliviana.
+C. Marco normativo y administrativo del sistema educativo.
+D. Bases constitucionales y pedagógicas de la educación.
+Respuesta correcta: A
+Explicación: «TÍTULO I / MARCO FILOSÓFICO Y POLÍTICO DE LA EDUCACIÓN BOLIVIANA».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana (denominación del Título); página impresa: 1 (numeración «1/39»); página PDF: 2.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Ley N.º 070 – TÍTULO I] Según el Artículo 1.5, la educación es:
+A. Unitaria, pública, selectiva, democrática, participativa, comunitaria, descolonizadora y de calidad.
+B. Diversa, estatal, universal, representativa, participativa, comunitaria, descolonizadora y eficiente.
+C. Unitaria, pública, universal, democrática, participativa, comunitaria, descolonizadora y de calidad.
+D. Unitaria, pública, universal, democrática, competitiva, comunitaria, neutral y de excelencia.
+Respuesta correcta: C
+Explicación: «La educación es unitaria, pública, universal, democrática, participativa, comunitaria, descolonizadora y de calidad».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 1, numeral 5; página impresa: 2 (numeración «2/39»); página PDF: 3.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Ley N.º 070 – TÍTULO I] Según el Artículo 1.3, ¿sobre qué criterios desarrolla sus procesos el sistema educativo?
+A. Sobre la base de criterios de jerarquía y subordinación.
+B. Sobre la base de criterios de competencia y eficiencia.
+C. Sobre la base de criterios de armonía y coordinación.
+D. Sobre la base de criterios de autonomía y desconcentración.
+Respuesta correcta: C
+Explicación: «El sistema educativo desarrolla sus procesos sobre la base de criterios de armonía y coordinación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 1, numeral 3; página impresa: 1 (numeración «1/39»); página PDF: 2.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+6. [Ley N.º 070 – TÍTULO I] ¿Qué par de principios ético morales del Artículo 3.13 aparece con su significado correcto?
+A. Ivi maraei: vida buena; ñandereko: camino o vida noble.
+B. Ivi maraei: tierra sin mal; ñandereko: vida armoniosa.
+C. Teko kavi: tierra sin mal; qhapaj ñan: vida armoniosa.
+D. Ñandereko: vida buena; ivi maraei: camino o vida noble.
+Respuesta correcta: B
+Explicación: «[…] ñandereko (vida armoniosa), teko kavi (vida buena), ivi maraei (tierra sin mal) y qhapaj ñan (camino o vida noble) […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 13; página impresa: 4 (numeración «4/39»); página PDF: 5.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+7. [Ley N.º 070 – TÍTULO I] ¿Cuál de los siguientes es un fin de la educación según el Artículo 4.10?
+A. Contribuir a reafirmar el derecho preferente de Bolivia a la libre navegación de los ríos de la cuenca amazónica.
+B. Contribuir a reafirmar la integración económica de Bolivia con los países vecinos mediante corredores bioceánicos.
+C. Contribuir a reafirmar el derecho irrenunciable e imprescriptible del territorio que dé acceso al Océano Pacífico.
+D. Contribuir a reafirmar el derecho de Bolivia a participar en los organismos internacionales de integración regional.
+Respuesta correcta: C
+Explicación: «Contribuir a reafirmar el derecho irrenunciable e imprescriptible del territorio que le dé acceso al Océano Pacífico y su espacio marítimo, al Estado Plurinacional de Bolivia».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 4, numeral 10; página impresa: 6 (numeración «6/39»); página PDF: 7.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+8. [Ley N.º 070 – TÍTULO I] Según el Artículo 5.6, ¿qué prioriza la educación para contribuir a la seguridad, defensa y desarrollo del Estado?
+A. La educación en las fronteras, para resguardar la soberanía.
+B. La educación premilitar, para fortalecer la defensa nacional.
+C. La educación técnica, para sustituir las importaciones del país.
+D. La educación en las ciudades capitales, para la gobernabilidad.
+Respuesta correcta: A
+Explicación: «Contribuir al fortalecimiento de la seguridad, defensa y desarrollo del Estado Plurinacional, priorizando la educación en las fronteras para resguardar la soberanía».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 6; página impresa: 6 (numeración «6/39»); página PDF: 7.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+9. [Ley N.º 070 – TÍTULO I] Según el Artículo 2.10, ¿qué práctica deportiva debe promover y desarrollar el Estado en toda la estructura del Sistema Educativo Plurinacional?
+A. Recreativa, formativa, profesional y de alto rendimiento.
+B. Preventiva, terapéutica, competitiva y comercial.
+C. Preventiva, recreativa, formativa y competitiva.
+D. Formativa, competitiva, federada y de selección.
+Respuesta correcta: C
+Explicación: «El Estado deberá promover y desarrollar la práctica deportiva, preventiva, recreativa, formativa y competitiva en toda la estructura del Sistema Educativo Plurinacional […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numeral 10; página impresa: 3 (numeración «3/39»); página PDF: 4.
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+10. [Ley N.º 070 – TÍTULO I] Según el Artículo 1.7, el sistema educativo se fundamenta en una educación:
+A. Abierta, humanista, científica, técnica y tecnológica, productiva, territorial, teórica y práctica, liberadora y revolucionaria, crítica y solidaria.
+B. Cerrada, humanista, científica, técnica y tecnológica, competitiva, urbana, teórica y memorística, conservadora, crítica y selectiva.
+C. Abierta, confesional, científica, técnica y tecnológica, productiva, centralizada, teórica y práctica, neutral y competitiva.
+D. Abierta, humanista, academicista, técnica y comercial, extractiva, territorial, teórica y abstracta, reformista y meritocrática.
+Respuesta correcta: A
+Explicación: «El sistema educativo se fundamenta en una educación abierta, humanista, científica, técnica y tecnológica, productiva, territorial, teórica y práctica, liberadora y revolucionaria, crítica y solidaria».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 1, numeral 7; página impresa: 2 (numeración «2/39»); página PDF: 3.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+11. [Ley N.º 070 – TÍTULO I] ¿Cómo define el Artículo 6.1 la intraculturalidad?
+A. Promueve la interacción en igualdad de condiciones entre las culturas bolivianas y las del resto del mundo para universalizar la sabiduría propia de cada pueblo.
+B. Promueve la integración de las culturas de las NPIOC en una cultura nacional única, mediante la enseñanza común del castellano oficial.
+C. Promueve la recuperación, fortalecimiento, desarrollo y cohesión al interior de las culturas de las NPIOC, comunidades interculturales y afrobolivianas.
+D. Promueve la conservación museográfica de las culturas de las NPIOC, separándolas del currículo del Sistema Educativo Plurinacional.
+Respuesta correcta: C
+Explicación: «Intraculturalidad: La intraculturalidad promueve la recuperación, fortalecimiento, desarrollo y cohesión al interior de las culturas de las naciones y pueblos indígena originario campesinos, comunidades interculturales y afrobolivianas para la consolidación del Estado Plurinacional […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo III: Diversidad sociocultural y lingüística. Art. 6, numeral 1; página impresa: 8 (numeración «8/39»); página PDF: 9.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+12. [Ley N.º 070 – TÍTULO I] ¿Cómo define el Artículo 6.2 la interculturalidad?
+A. Como la recuperación y cohesión de los saberes al interior de cada cultura, sin relación con las demás culturas del país y del mundo.
+B. Como la asimilación de las culturas originarias a los conocimientos universales, para unificar el currículo.
+C. Como la interrelación e interacción de conocimientos, saberes, ciencia y tecnología de cada cultura con otras culturas.
+D. Como la coexistencia separada de las culturas, cada una con un sistema educativo propio e independiente.
+Respuesta correcta: C
+Explicación: «Interculturalidad: El desarrollo de la interrelación e interacción de conocimientos, saberes, ciencia y tecnología propios de cada cultura con otras culturas, que fortalece la identidad propia y la interacción en igualdad de condiciones […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo III: Diversidad sociocultural y lingüística. Art. 6, numeral 2 (páginas impresas 8-9; PDF 9-10).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+13. [Ley N.º 070 – TÍTULO I] Según el encabezado del Artículo 3, ¿en qué se sustenta la educación?
+A. En el Estado, a través de la planificación centralizada del Ministerio sobre el Sistema Educativo Plurinacional.
+B. En la sociedad, a través de la participación plena de las bolivianas y los bolivianos en el Sistema Educativo Plurinacional.
+C. En la familia, a través de la elección individual de las madres y los padres sobre la educación de sus hijos.
+D. En el mercado, a través de la competencia entre unidades educativas fiscales, privadas y de convenio del país.
+Respuesta correcta: B
+Explicación: «La educación se sustenta en la sociedad, a través de la participación plena de las bolivianas y los bolivianos en el Sistema Educativo Plurinacional, respetando sus diversas expresiones sociales y culturales, en sus diferentes formas de organización».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3 (encabezado); página impresa: 3 (numeración «3/39»); página PDF: 4.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+14. [Ley N.º 070 – TÍTULO I] Según el Artículo 3.5, la educación es:
+A. Descentralizada por regiones y promueve la competencia entre los departamentos del Estado Plurinacional.
+B. Unitaria y uniformadora del Estado Plurinacional, y suprime las diferencias culturales entre las regiones.
+C. Regional y autónoma, y promueve que cada región defina su propia política educativa sin coordinación.
+D. Unitaria e integradora del Estado Plurinacional y promueve el desarrollo armonioso entre las regiones.
+Respuesta correcta: D
+Explicación: «Es unitaria e integradora del Estado Plurinacional y promueve el desarrollo armonioso entre las regiones».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 5; página impresa: 4 (numeración «4/39»); página PDF: 5.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+15. [Ley N.º 070 – TÍTULO I] ¿Qué implica que la educación sea «de la vida y en la vida, para Vivir Bien», según el Artículo 3.11?
+A. Una formación técnica que prioriza la inserción laboral inmediata y la productividad individual sobre la vida en comunidad.
+B. Una formación académica que prioriza los contenidos teóricos universales sobre la identidad y la afectividad de las personas y comunidades.
+C. Una formación espiritual de carácter confesional, que sustituye la formación científica por la enseñanza de una religión.
+D. Una formación integral que promueve la realización de la identidad, afectividad, espiritualidad y subjetividad de personas y comunidades.
+Respuesta correcta: D
+Explicación: «Es educación de la vida y en la vida, para Vivir Bien. Desarrolla una formación integral que promueve la realización de la identidad, afectividad, espiritualidad y subjetividad de las personas y comunidades; es vivir en armonía con la Madre Tierra y en comunidad entre los seres humanos».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 11; página impresa: 4 (numeración «4/39»); página PDF: 5.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+16. [Ley N.º 070 – TÍTULO I] ¿Por qué la educación es «liberadora en lo pedagógico», según el Artículo 3.14?
+A. Porque libera a las personas de la obligación de asistir a clases y les permite aprender sin seguir el currículo base.
+B. Porque promueve que la persona tome conciencia de su realidad para transformarla, desarrollando su personalidad y pensamiento crítico.
+C. Porque promueve que la persona se adapte a su realidad sin cuestionarla, desarrollando disciplina y obediencia institucional permanente.
+D. Porque libera a los docentes de toda planificación curricular, y deja el aprendizaje a la iniciativa de cada estudiante.
+Respuesta correcta: B
+Explicación: «Es liberadora en lo pedagógico porque promueve que la persona tome conciencia de su realidad para transformarla, desarrollando su personalidad y pensamiento crítico».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 14 (página impresa 5; PDF 6).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+17. [Ley N.º 070 – TÍTULO I] Según el Artículo 3.1, ¿cuáles son algunos de los caracteres de la educación como base fundamental?
+A. Colonizadora, conservadora, reformista, globalizadora, patriarcal y reproductora de las estructuras económicas y sociales existentes.
+B. Descolonizadora, neutral, evolutiva, cosmopolita, igualitaria y adaptadora a las estructuras económicas y sociales vigentes.
+C. Descolonizadora, liberadora, revolucionaria, anti-imperialista, despatriarcalizadora y transformadora de las estructuras económicas y sociales.
+D. Liberal, liberadora, democrática, pluralista, competitiva y modernizadora de las estructuras económicas y sociales del país.
+Respuesta correcta: C
+Explicación: «Es descolonizadora, liberadora, revolucionaria, anti-imperialista, despatriarcalizadora y transformadora de las estructuras económicas y sociales; orientada a la reafirmación cultural de las naciones y pueblos indígena originario campesinos […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 1; página impresa: 3 (numeración «3/39»); página PDF: 4.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+18. [Ley N.º 070 – TÍTULO I] ¿Cuál es el primer fin de la educación según el Artículo 4.1?
+A. Contribuir a la modernización de la educación tradicional, para garantizar un Estado competitivo y una sociedad del conocimiento global.
+B. Contribuir a la consolidación de la educación descolonizada, para garantizar un Estado Plurinacional y una sociedad del Vivir Bien.
+C. Contribuir a la unificación lingüística de la educación nacional, para garantizar un Estado unitario y una sociedad homogénea.
+D. Contribuir a la privatización progresiva de la educación superior, para garantizar un Estado eficiente y una sociedad de mercado.
+Respuesta correcta: B
+Explicación: «Contribuir a la consolidación de la educación descolonizada, para garantizar un Estado Plurinacional y una sociedad del Vivir Bien con justicia social, productiva y soberana».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 4, numeral 1; página impresa: 5 (numeración «5/39»); página PDF: 6.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+19. [Ley N.º 070 – TÍTULO I] Según el Artículo 7.4, ¿qué se implementará en el caso de las lenguas en peligro de extinción?
+A. Políticas de sustitución gradual por el castellano, para asegurar la comunicación en todo el sistema educativo.
+B. Políticas lingüísticas de recuperación y desarrollo con participación directa de los hablantes de dichas lenguas.
+C. Políticas de registro documental en archivos y museos, sin enseñanza activa en las unidades educativas de todo el país.
+D. Políticas lingüísticas de recuperación dirigidas solo por el Ministerio, sin participación de los hablantes.
+Respuesta correcta: B
+Explicación: «En el caso de las lenguas en peligro de extinción, se implementarán políticas lingüísticas de recuperación y desarrollo con participación directa de los hablantes de dichas lenguas».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo III: Diversidad sociocultural y lingüística. Art. 7, numeral 4; página impresa: 9 (numeración «9/39»); página PDF: 10.
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+20. [Ley N.º 070 – TÍTULO I] ¿Qué significa que la educación sea «productiva y territorial», según el Artículo 3.9?
+A. Que se orienta a la producción industrial para la exportación, priorizando la explotación intensiva de los recursos del territorio nacional.
+B. Que se organiza por territorios autónomos, cada uno con una política educativa propia, independiente del Sistema Educativo Plurinacional.
+C. Que se orienta a la producción intelectual y material, al trabajo creador y a la relación armónica con la Madre Tierra, fortaleciendo la gestión territorial.
+D. Que se orienta a la producción intelectual en las ciudades, separando la formación escolar del trabajo creador y de la gestión territorial.
+Respuesta correcta: C
+Explicación: «Es productiva y territorial, orientada a la producción intelectual y material, al trabajo creador y a la relación armónica de los sistemas de vida y las comunidades humanas en la Madre Tierra, fortaleciendo la gestión territorial de las naciones y pueblos indígena originario campesinos […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 9; página impresa: 4 (numeración «4/39»); página PDF: 5.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+21. [Ley N.º 070 – TÍTULO I] ¿Cómo se reconoce y garantiza la participación social y de madres y padres de familia según el Artículo 2.1?
+A. Mediante la designación de representantes por la dirección de cada unidad educativa, según su reglamento interno.
+B. Mediante organismos consultivos solo en el nivel central del Estado, sin representación en las unidades educativas de su jurisdicción.
+C. Mediante asambleas convocadas por el Ministerio, que sustituyen las normas y procedimientos propios de las NPIOC.
+D. Mediante organismos representativos en todos los niveles del Estado y, en las NPIOC, según sus normas y procedimientos propios.
+Respuesta correcta: D
+Explicación: «Participación social. Se reconoce y garantiza la participación social, la participación comunitaria, de madres y padres de familia en el sistema educativo, mediante organismos representativos en todos los niveles del Estado. En las naciones y pueblos indígena originario campesinos, comunidades interculturales y afro bolivianas de acuerdo a sus normas y procedimientos propios». Nota: El Título I no regula funciones específicas del director; la pregunta identifica la garantía que enmarca la gestión institucional.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numeral 1; página impresa: 2 (numeración «2/39»); página PDF: 3.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+22. [Ley N.º 070 – TÍTULO I] Según el Artículo 2.6, ¿qué personal goza de la garantía de inamovilidad?
+A. Solo el personal docente titulado del magisterio fiscal y de convenio del país.
+B. El personal docente, administrativo y de servicio del magisterio nacional.
+C. El personal docente y directivo, excluido el personal de servicio.
+D. El personal administrativo con más de cinco años de antigüedad.
+Respuesta correcta: B
+Explicación: «Inamovilidad funcionaría. Se garantiza la carrera docente y la inamovilidad del personal docente, administrativo y de servicio del magisterio nacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numeral 6 (página impresa 3; PDF 4).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+23. [Ley N.º 070 – TÍTULO I] ¿Qué naturaleza atribuye el Artículo 2.7 al reglamento del escalafón nacional del servicio de educación?
+A. Es el instrumento normativo de vigencia plena que garantiza la carrera docente, administrativa y de servicio.
+B. Es un instrumento orientador de aplicación facultativa para la carrera docente de las unidades privadas del sistema.
+C. Es el instrumento de evaluación del desempeño que sustituye la carrera docente por contratos temporales.
+D. Es un instrumento transitorio que rige solo hasta que cada unidad educativa apruebe su propio escalafón.
+Respuesta correcta: A
+Explicación: «Escalafón nacional del magisterio. El reglamento del escalafón nacional del servicio de educación, es el instrumento normativo de vigencia plena que garantiza la carrera docente, administrativa y de servicio del Sistema Educativo Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numeral 7 (página impresa 3; PDF 4).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+24. [Ley N.º 070 – TÍTULO I] Según el Artículo 2.8, ¿cómo reconoce el Estado el derecho a la sindicalización del magisterio?
+A. Como medio de negociación salarial exclusiva, sin participación en el mejoramiento de la educación.
+B. Como medio de defensa profesional, respetando su participación activa en el mejoramiento de la educación.
+C. Como facultad sujeta a autorización de cada dirección, según el reglamento interno de la unidad.
+D. Como derecho limitado al personal administrativo, excluyendo a las maestras y los maestros del aula regular.
+Respuesta correcta: B
+Explicación: «Sindicalización. El Estado reconoce al magisterio el derecho a la sindicalización como medio de defensa profesional, se ocupa de su dignificación social y económica, respetando su participación activa en el mejoramiento de la educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numeral 8 (página impresa 3; PDF 4).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+25. [Ley N.º 070 – TÍTULO I] Según el Artículo 2.9, ¿cómo reconoce el Estado la participación de las organizaciones estudiantiles?
+A. En la administración de la unidad, según el criterio directivo.
+B. En la defensa de sus derechos, según reglamento específico.
+C. En la evaluación docente, según acuerdo con la junta escolar.
+D. En la defensa de sus derechos, sin sujeción a reglamento alguno.
+Respuesta correcta: B
+Explicación: «Organización estudiantil. El Estado reconoce la participación de las organizaciones estudiantiles en la defensa de sus derechos, según reglamento específico […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numeral 9 (página impresa 3; PDF 4).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+26. [Ley N.º 070 – TÍTULO I] ¿Con qué finalidad se consolidan y fortalecen las unidades educativas fiscales según el Artículo 2.2?
+A. Para garantizar la atención de quienes no pueden pagar una unidad privada, como servicio subsidiario del sistema educativo plurinacional.
+B. Para garantizar la competencia con las unidades privadas, como mecanismo de mejora de la eficiencia del gasto público.
+C. Para garantizar el acceso, permanencia y calidad de la educación de todas y todos, como derecho fundamental y prioridad estratégica.
+D. Para garantizar el acceso de la población rural, como alternativa transitoria hasta la expansión de unidades de convenio.
+Respuesta correcta: C
+Explicación: «Unidades educativas fiscales. Se consolida y fortalece el funcionamiento de unidades educativas fiscales y gratuitas, sostenidas por el Estado Plurinacional, para garantizar el acceso, permanencia y la calidad de la educación de todas y todos, por constituir la educación un derecho fundamental y de prioridad estratégica para la transformación hacia el Vivir Bien».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numeral 2; página impresa: 2 (numeración «2/39»); página PDF: 3.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+27. [Ley N.º 070 – TÍTULO I] Respecto a las unidades educativas de convenio, ¿qué establece el Artículo 2.4?
+A. Funcionan bajo tuición de las autoridades públicas, respetando el derecho de administración de entidades religiosas, con reglamentación del Ministerio.
+B. Funcionan bajo tuición de las entidades religiosas, con planes y programas propios, al margen de la reglamentación del Ministerio.
+C. Funcionan bajo tuición de las autoridades públicas, sin respeto al derecho de administración de entidades religiosas sobre ellas.
+D. Funcionan con fines de lucro moderado, bajo tuición de las autoridades públicas y con reglamentación aprobada por cada entidad.
+Respuesta correcta: A
+Explicación: «Unidades educativas de convenio. Se reconoce y respeta el funcionamiento de unidades educativas de convenio con fines de servicio social, con acceso libre y sin fines de lucro, que deberán funcionar bajo la tuición de las autoridades públicas, respetando el derecho de administración de entidades religiosas sobre dichas unidades educativas […]. Su funcionamiento será regulado mediante reglamentación específica aprobada por el Ministerio de Educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numeral 4; página impresa: 2 (numeración «2/39»); página PDF: 3.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+28. [Ley N.º 070 – TÍTULO I] Según el Artículo 1.2, ¿qué obligación tiene el Estado respecto a la educación?
+A. La obligación subsidiaria de financiarla, cuando las familias y la sociedad no puedan sostener el servicio educativo.
+B. La obligación de regularla, delegando su sostenimiento y gestión a las entidades privadas y de convenio del país.
+C. La obligación indeclinable de sostenerla, garantizarla y gestionarla, por ser función suprema y primera responsabilidad financiera.
+D. La obligación indeclinable de supervisarla, por ser función compartida con las organizaciones sociales y sindicales.
+Respuesta correcta: C
+Explicación: «La educación constituye una función suprema y primera responsabilidad financiera del Estado, que tiene la obligación indeclinable de sostenerla, garantizarla y gestionarla».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 1, numeral 2; página impresa: 1 (numeración «1/39»); página PDF: 2.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+29. [Ley N.º 070 – TÍTULO I] ¿Qué derecho de las madres y los padres reconoce el Artículo 2.5?
+A. El derecho a designar a los docentes de la unidad educativa de sus hijos.
+B. El derecho a aprobar el currículo de la unidad educativa de sus hijos.
+C. El derecho a eximir a sus hijos de la educación obligatoria regular.
+D. El derecho a elegir la educación que convenga para sus hijas e hijos.
+Respuesta correcta: D
+Explicación: «Del derecho de las madres y padres. Se respeta el derecho de las madres y padres a elegir la educación que convenga para sus hijas e hijos».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numeral 5; página impresa: 2 (numeración «2/39»); página PDF: 3.
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+30. [Ley N.º 070 – TÍTULO I] Según el Artículo 5.13, ¿qué políticas educativas deben implementarse respecto a las maestras y los maestros?
+A. Políticas de evaluación punitiva y desvinculación en los subsistemas Regular, Alternativo y Especial.
+B. Políticas de formación inicial exclusiva en universidades privadas, sin actualización posterior.
+C. Políticas de formación continua solo en el subsistema Superior, excluyendo el Regular y el Especial.
+D. Políticas de formación continua y actualización en los subsistemas Regular, Alternativo y Especial.
+Respuesta correcta: D
+Explicación: «Implementar políticas educativas de formación continua y actualización de maestras y maestros en los subsistemas Regular, Alternativo y Especial del Sistema Educativo Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 13; página impresa: 7 (numeración «7/39»); página PDF: 8.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+31. [Ley N.º 070 – TÍTULO I] ¿Cómo se interpreta el mandato del Artículo 1.1 sobre el derecho a la educación?
+A. Toda persona boliviana tiene derecho a recibir educación hasta el nivel secundario de manera gratuita, siempre que acredite residencia en el país.
+B. Toda persona tiene derecho a recibir educación en todos los niveles de manera universal, productiva, gratuita, integral e intercultural, sin discriminación.
+C. Toda persona tiene derecho a recibir educación en todos los niveles de manera universal y productiva, con gratuidad solo para quienes lo acrediten documentalmente.
+D. Toda persona tiene derecho a recibir educación en el nivel regular de manera universal e intercultural, con discriminación positiva por mérito.
+Respuesta correcta: B
+Explicación: «Toda persona tiene derecho a recibir educación en todos los niveles de manera universal, productiva, gratuita, integral e intercultural, sin discriminación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 1, numeral 1; página impresa: 1 (numeración «1/39»); página PDF: 2.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+32. [Ley N.º 070 – TÍTULO I] ¿Qué implica que la educación sea «inclusiva», según el Artículo 3.7?
+A. Ofrecer educación oportuna y pertinente a las necesidades de todas y todos, con igualdad de oportunidades y equiparación de condiciones, sin discriminación.
+B. Ofrecer educación diferenciada en centros separados para cada grupo poblacional, según sus necesidades y su rendimiento académico previo.
+C. Ofrecer educación uniforme para todas y todos, sin atender las necesidades, expectativas e intereses particulares de los grupos poblacionales.
+D. Ofrecer educación preferente a los grupos mayoritarios, con equiparación de condiciones solo cuando los recursos institucionales lo permitan.
+Respuesta correcta: A
+Explicación: «Es inclusiva, asumiendo la diversidad de los grupos poblacionales y personas que habitan el país, ofrece una educación oportuna y pertinente a las necesidades, expectativas e intereses de todas y todos los habitantes del Estado Plurinacional, con igualdad de oportunidades y equiparación de condiciones, sin discriminación alguna según el Artículo 14 de la Constitución Política del Estado».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 7; página impresa: 4 (numeración «4/39»); página PDF: 5.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+33. [Ley N.º 070 – TÍTULO I] Según el Artículo 3.8, ¿desde dónde promueve la educación intracultural, intercultural y plurilingüe la interrelación y convivencia en igualdad?
+A. Desde la sustitución de los saberes e idiomas originarios por los conocimientos universales y la lengua castellana común del Estado.
+B. Desde el potenciamiento de los saberes, conocimientos e idiomas de las NPIOC, comunidades interculturales y afrobolivianas.
+C. Desde la enseñanza exclusiva de lenguas extranjeras, como medio de integración de las culturas bolivianas con el mundo.
+D. Desde la separación de las culturas en sistemas educativos distintos, para preservar la pureza de cada saber e idioma.
+Respuesta correcta: B
+Explicación: «Es intracultural, intercultural y plurilingüe en todo el sistema educativo. Desde el potenciamiento de los saberes, conocimientos e idiomas de las naciones y pueblos indígena originario campesinos, las comunidades interculturales y afrobolivianas, promueve la interrelación y convivencia en igualdad de oportunidades para todas y todos […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 8; página impresa: 4 (numeración «4/39»); página PDF: 5.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+34. [Ley N.º 070 – TÍTULO I] ¿Qué interpretación corresponde al fin del Artículo 4.2 sobre la formación de mujeres y hombres?
+A. Formarlos integral y equitativamente según sus necesidades, valorando sus diferencias y garantizando derechos fundamentales y de la Madre Tierra.
+B. Formarlos de manera diferenciada según roles tradicionales, priorizando la preparación de los hombres para el trabajo productivo y remunerado del país.
+C. Formarlos de manera idéntica, sin considerar sus necesidades, particularidades ni expectativas, para garantizar la igualdad formal.
+D. Formarlos integral y equitativamente, pero excluyendo los derechos de la Madre Tierra del ámbito de la formación escolar regular.
+Respuesta correcta: A
+Explicación: «Formar integral y equitativamente a mujeres y hombres, en función de sus necesidades, particularidades y expectativas, mediante el desarrollo armónico de todas sus potencialidades y capacidades, valorando y respetando sus diferencias y semejanzas, así como garantizando el ejercicio pleno de los derechos fundamentales de todas las personas y colectividades, y los derechos de la Madre Tierra en todos los ámbitos de la educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 4, numeral 2; página impresa: 5 (numeración «5/39»); página PDF: 6.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+35. [Ley N.º 070 – TÍTULO I] ¿Qué propósito persigue el fin de la educación previsto en el Artículo 4.7?
+A. Garantizar la participación de los especialistas en la educación, para construir una sociedad tecnocrática y altamente eficiente.
+B. Garantizar la participación de las familias que financian la educación, para construir una sociedad de libre elección educativa.
+C. Garantizar la participación plena de todas y todos los habitantes en la educación, para construir una sociedad participativa y comunitaria.
+D. Garantizar la participación de las autoridades en la educación, para construir una sociedad jerárquica y ordenada institucionalmente en todos sus niveles.
+Respuesta correcta: C
+Explicación: «Garantizar la participación plena de todas y todos los habitantes del Estado Plurinacional en la educación, para contribuir a la construcción de una sociedad participativa y comunitaria».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 4, numeral 7; página impresa: 5 (numeración «5/39»); página PDF: 6.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+36. [Ley N.º 070 – TÍTULO I] ¿Qué vincula el objetivo del Artículo 5.1 con la formación integral de las personas?
+A. El fortalecimiento de la conciencia individual competitiva, que separe la teoría académica de la práctica productiva y comunitaria.
+B. El fortalecimiento de la conciencia social crítica de la vida y en la vida para Vivir Bien, que vincule la teoría con la práctica productiva.
+C. El fortalecimiento de la disciplina institucional, que priorice la memorización teórica sobre la práctica productiva y social.
+D. El fortalecimiento de la conciencia social crítica, limitada a la formación teórica sin vínculo con la práctica productiva.
+Respuesta correcta: B
+Explicación: «Desarrollar la formación integral de las personas y el fortalecimiento de la conciencia social crítica de la vida y en la vida para Vivir Bien, que vincule la teoría con la práctica productiva […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 1; página impresa: 6 (numeración «6/39»); página PDF: 7.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+37. [Ley N.º 070 – TÍTULO I] ¿A qué contribuye el objetivo del Artículo 5.3?
+A. Al fortalecimiento de una identidad nacional única, que reemplace las identidades culturales de cada nación o pueblo indígena.
+B. Al fortalecimiento de la unidad e identidad de la ciudadanía plurinacional y al entendimiento y enriquecimiento intercultural e intracultural.
+C. Al fortalecimiento de la identidad de cada pueblo de manera aislada, sin entendimiento intercultural dentro del Estado Plurinacional y del exterior.
+D. Al fortalecimiento de la identidad cultural extranjera, como base del enriquecimiento intercultural de la ciudadanía boliviana.
+Respuesta correcta: B
+Explicación: «Contribuir al fortalecimiento de la unidad e identidad de todas las ciudadanas y todos los ciudadanos como parte del Estado Plurinacional, así como a la identidad y desarrollo cultural de los miembros de cada nación o pueblo indígena originario campesino, y al entendimiento y enriquecimiento intercultural e intracultural dentro del Estado Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 3; página impresa: 6 (numeración «6/39»); página PDF: 7.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+38. [Ley N.º 070 – TÍTULO I] ¿Qué procesos establece el objetivo del Artículo 5.16?
+A. Articulación entre subsistemas y secuencialidad curricular desde la educación inicial en familia comunitaria hasta la superior.
+B. Articulación entre unidades privadas y secuencialidad curricular desde la educación primaria hasta la secundaria comunitaria productiva.
+C. Separación entre subsistemas y autonomía curricular de cada nivel, desde la educación inicial hasta la superior profesional.
+D. Articulación entre subsistemas solo en el nivel superior, sin secuencialidad con la educación inicial ni con la primaria.
+Respuesta correcta: A
+Explicación: «Establecer procesos de articulación entre los subsistemas y la secuencialidad de los contenidos curriculares desde la educación inicial en familia comunitaria hasta la educación superior de formación profesional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 16; página impresa: 7 (numeración «7/39»); página PDF: 8.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+39. [Ley N.º 070 – TÍTULO I] ¿Cómo se interpreta la expresión «en todo el sistema educativo» del Artículo 1.6?
+A. Que el carácter intracultural, intercultural y plurilingüe rige solo en las unidades ubicadas en territorios indígenas reconocidos del país.
+B. Que el carácter intracultural, intercultural y plurilingüe rige en todo el sistema, y no solo en unidades rurales o indígenas.
+C. Que el carácter plurilingüe rige solo en la educación superior, y el intercultural únicamente en la educación regular.
+D. Que el carácter intracultural rige en las unidades fiscales, y el intercultural en las unidades privadas y de convenio.
+Respuesta correcta: B
+Explicación: «La educación es intracultural, intercultural y plurilingüe en todo el sistema educativo».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 1, numeral 6; página impresa: 2 (numeración «2/39»); página PDF: 3.
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+40. [Ley N.º 070 – TÍTULO I] ¿Qué papel asigna el Artículo 4.11 a la investigación científica y tecnológica asociada a la innovación?
+A. La de rector de lucha contra la pobreza, la exclusión social y la degradación del medio ambiente.
+B. La de instrumento exclusivo de la educación superior, sin relación con la lucha contra la pobreza.
+C. La de actividad complementaria y optativa, subordinada a la transmisión de contenidos teóricos.
+D. La de rector de la competitividad empresarial y de la expansión de las exportaciones del país.
+Respuesta correcta: A
+Explicación: «Impulsar la investigación científica y tecnológica asociada a la innovación y producción de conocimientos, como rector de lucha contra la pobreza, exclusión social y degradación del medio ambiente».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 4, numeral 11; página impresa: 6 (numeración «6/39»); página PDF: 7.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+41. [Ley N.º 070 – TÍTULO I] ¿Qué distingue la intraculturalidad de la interculturalidad según el Artículo 6?
+A. La primera desarrolla la interacción de cada cultura con otras; la segunda fortalece y cohesiona al interior de cada una de las culturas del país.
+B. La primera se aplica solo en el área rural; la segunda se aplica solo en el área urbana del Sistema Educativo Plurinacional del país.
+C. La primera incorpora conocimientos universales al currículo; la segunda elimina los saberes propios para lograr la igualdad cultural.
+D. La primera fortalece y cohesiona al interior de las culturas; la segunda desarrolla la interrelación e interacción de cada cultura con otras.
+Respuesta correcta: D
+Explicación: «Intraculturalidad: La intraculturalidad promueve la recuperación, fortalecimiento, desarrollo y cohesión al interior de las culturas […]». «Interculturalidad: El desarrollo de la interrelación e interacción de conocimientos, saberes, ciencia y tecnología propios de cada cultura con otras culturas […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo III: Diversidad sociocultural y lingüística. Art. 6, numerales 1 y 2 (páginas impresas 8-9; PDF 9-10).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+42. [Ley N.º 070 – TÍTULO I] ¿Qué diferencia existe entre los fines de los numerales 3 y 4 del Artículo 4?
+A. El 3 fortalece el plurilingüismo en la formación; el 4 universaliza los saberes y conocimientos propios desde las identidades culturales.
+B. El 3 promueve la integración latinoamericana; el 4 reafirma el derecho de acceso al Océano Pacífico y su espacio marítimo del país.
+C. El 3 universaliza los saberes propios desde las identidades culturales; el 4 fortalece la intraculturalidad, la interculturalidad y el plurilingüismo.
+D. El 3 impulsa la investigación científica; el 4 promueve una sociedad despatriarcalizada, cimentada en la equidad de género y no violencia.
+Respuesta correcta: C
+Explicación: «3. Universalizar los saberes y conocimientos propios, para el desarrollo de una educación desde las identidades culturales. 4. Fortalecer el desarrollo de la intraculturalidad, interculturalidad y el plurilingüismo en la formación y la realización plena de las bolivianas y bolivianos […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 4, numerales 3 y 4; página impresa: 5 (numeración «5/39»); página PDF: 6.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+43. [Ley N.º 070 – TÍTULO I] ¿Qué opción distingue correctamente un fin (Art. 4) de un objetivo (Art. 5) de la educación?
+A. Fin: promover la unidad del Estado respetando la diversidad. Objetivo: fortalecer la integridad territorial promoviendo la integración latinoamericana.
+B. Fin: formar en las fronteras para resguardar la soberanía. Objetivo: reafirmar el derecho de acceso al Océano Pacífico y a su espacio marítimo.
+C. Fin: fortalecer la unidad, integridad territorial y soberanía, promoviendo la integración latinoamericana. Objetivo: promover la unidad respetando la diversidad.
+D. Fin: garantizar la permanencia en plena igualdad de condiciones. Objetivo: consolidar la educación descolonizada y la sociedad del Vivir Bien.
+Respuesta correcta: C
+Explicación: Art. 4.9: «Fortalecer la unidad, integridad territorial y soberanía del Estado Plurinacional, promoviendo la integración latinoamericana y mundial». Art. 5.4: «Promover la unidad del Estado Plurinacional respetando la diversidad, consolidando su soberanía política, económica, social y cultural […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 4.9 (página impresa 5; PDF 6) y Art. 5.4 (página impresa 6; PDF 7).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+44. [Ley N.º 070 – TÍTULO I] ¿Qué distingue los tres tipos de unidades educativas reconocidas en el Artículo 2?
+A. Las fiscales son gratuitas y sostenidas por el Estado; las privadas se rigen por el SEP; las de convenio tienen servicio social, acceso libre y sin lucro.
+B. Las fiscales son autónomas del SEP; las privadas son gratuitas y sostenidas por el Estado; las de convenio persiguen fines de lucro regulado.
+C. Las fiscales tienen administración religiosa; las privadas funcionan sin verificación previa; las de convenio no se rigen por las normas y planes del SEP.
+D. Las fiscales y privadas se rigen por normas propias; las de convenio son las únicas sujetas a las políticas y planes del sistema educativo.
+Respuesta correcta: A
+Explicación: Art. 2.2: «[…] unidades educativas fiscales y gratuitas, sostenidas por el Estado Plurinacional […]». Art. 2.3: «[…] unidades educativas privadas […] que se rigen por las políticas, planes, programas y autoridades del Sistema Educativo Plurinacional […]». Art. 2.4: «[…] unidades educativas de convenio con fines de servicio social, con acceso libre y sin fines de lucro […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numerales 2, 3 y 4; página impresa: 2 (numeración «2/39»); página PDF: 3.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+45. [Ley N.º 070 – TÍTULO I] ¿Qué diferencia establecen los numerales 8 y 9 del Artículo 1?
+A. La educación es obligatoria hasta el nivel superior; la educación fiscal es gratuita solo hasta el bachillerato.
+B. La educación es obligatoria hasta el nivel primario; la educación fiscal es gratuita hasta el nivel secundario.
+C. La educación es obligatoria hasta el bachillerato; la educación fiscal es gratuita en todos sus niveles hasta el superior.
+D. La educación es gratuita hasta el bachillerato; la educación fiscal es obligatoria en todos sus niveles hasta el nivel superior.
+Respuesta correcta: C
+Explicación: «8. La educación es obligatoria hasta el bachillerato. 9. La educación fiscal es gratuita en todos sus niveles hasta el superior».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 1, numerales 8 y 9; página impresa: 2 (numeración «2/39»); página PDF: 3.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+46. [Ley N.º 070 – TÍTULO I] ¿Qué base de la educación del Artículo 3 se caracteriza por los consensos en la toma de decisiones sobre políticas educativas?
+A. La base unitaria e integradora, que promueve el desarrollo armonioso entre todas las regiones del país.
+B. La base comunitaria, democrática, participativa y de consensos, que reafirma la unidad en la diversidad.
+C. La base universal, que atiende a todos los habitantes y a los bolivianos que viven en el exterior del país.
+D. La base productiva y territorial, que fortalece la gestión territorial de las NPIOC y comunidades del país.
+Respuesta correcta: B
+Explicación: «Es comunitaria, democrática, participativa y de consensos en la toma de decisiones sobre políticas educativas, reafirmando la unidad en la diversidad».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 2; página impresa: 3 (numeración «3/39»); página PDF: 4.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+47. [Ley N.º 070 – TÍTULO I] Según el Artículo 3.13, ¿qué opción clasifica correctamente un principio ético moral y un valor?
+A. Principio: reciprocidad; valor: suma qamaña (Vivir Bien).
+B. Principio: transparencia; valor: ama llulla (no seas mentiroso).
+C. Principio: solidaridad; valor: teko kavi (vida buena).
+D. Principio: suma qamaña (Vivir Bien); valor: reciprocidad.
+Respuesta correcta: D
+Explicación: «La educación asume y promueve como principios ético morales de la sociedad plural el ama qhilla, ama llulla, ama suwa […], suma qamaña (Vivir Bien) […]. Se sustenta en los valores de unidad, igualdad, inclusión, dignidad, libertad, solidaridad, reciprocidad, respeto, complementariedad […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 13; página impresa: 4 (numeración «4/39»); página PDF: 5.
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+48. [Ley N.º 070 – TÍTULO I] ¿Qué diferencia existe entre los objetivos de los numerales 14 y 21 del Artículo 5?
+A. El 14 garantiza la educación de estudiantes con talentos extraordinarios; el 21 sensibiliza a la sociedad sobre la atención de las personas con discapacidad.
+B. El 14 promueve acceso y permanencia de personas con discapacidad y sensibiliza a la sociedad; el 21 garantiza educación permanente con discapacidad o talentos extraordinarios.
+C. El 14 crea un subsistema separado para personas con discapacidad; el 21 excluye a quienes tienen talentos extraordinarios de la estructura del sistema.
+D. El 14 se refiere a poblaciones vulnerables en desventaja social; el 21 se refiere a programas de alfabetización y postalfabetización de personas adultas.
+Respuesta correcta: B
+Explicación: Art. 5.14: «Desarrollar políticas educativas que promuevan el acceso y la permanencia de personas con necesidades educativas asociadas a discapacidad en el sistema educativo y sensibilizar a la sociedad sobre su atención integral, sin discriminación alguna». Art. 5.21: «Promover y garantizar la educación permanente de niñas, niños y adolescentes con discapacidad o con talentos extraordinarios en el aprendizaje bajo la misma estructura, principios y valores del Sistema Educativo Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5.14 (página impresa 7; PDF 8) y Art. 5.21 (página impresa 8; PDF 9).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+49. [Ley N.º 070 – TÍTULO I] ¿Qué distingue los objetivos de los numerales 11 y 22 del Artículo 5?
+A. El 11 prevé atención integral a poblaciones vulnerables; el 22, programas sociales y becas para estudiantes con menos posibilidades económicas.
+B. El 11 prevé formación continua de maestros; el 22, programas de alfabetización y postalfabetización para personas jóvenes y adultas.
+C. El 11 prevé educación en fronteras para resguardar la soberanía; el 22, investigación pedagógica en el marco del currículo base.
+D. El 11 prevé programas sociales para estudiantes con menos posibilidades económicas y becas; el 22, atención integral a poblaciones vulnerables.
+Respuesta correcta: D
+Explicación: Art. 5.11: «Formular e implementar […] programas sociales específicos que beneficien a las y los estudiantes con menos posibilidades económicas […] y se estimulará con becas a las y los estudiantes de excelente aprovechamiento […]». Art. 5.22: «Implementar políticas y programas de atención integral educativa a poblaciones vulnerables y en condiciones de desventaja social».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5.11 (página impresa 7; PDF 8) y Art. 5.22 (página impresa 8; PDF 9).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+50. [Ley N.º 070 – TÍTULO I] ¿Qué diferencia existe entre los objetivos de los numerales 8 y 19 del Artículo 5?
+A. El 8 orienta la educación cívica al ejercicio de deberes según la Declaración Universal; el 19 cultiva valores estéticos basados en la vida comunitaria del país.
+B. El 8 cultiva civismo, diálogo intercultural y valores basados en la vida comunitaria; el 19 orienta la educación cívica al ejercicio de deberes y derechos según la CPE y la DUDH.
+C. El 8 promueve la investigación científica y pedagógica; el 19 forma conciencia productiva, comunitaria y ambiental en los estudiantes del sistema educativo.
+D. El 8 se limita a la educación artística y deportiva; el 19 se limita al diálogo intercultural entre las culturas bolivianas y las del resto del mundo.
+Respuesta correcta: B
+Explicación: Art. 5.8: «Cultivar y fortalecer el civismo, el diálogo intercultural y los valores éticos, morales y estéticos basados en la vida comunitaria y el respeto a los derechos fundamentales individuales y colectivos». Art. 5.19: «Desarrollar una educación cívica, humanística, histórica, cultural, artística y deportiva orientada al ejercicio pleno de deberes y derechos ciudadanos en el marco de la Constitución Política del Estado y la declaración Universal de los Derechos Humanos».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5.8 (página impresa 7; PDF 8) y Art. 5.19 (página impresa 8; PDF 9).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+51. [Ley N.º 070 – TÍTULO I] Una unidad educativa privada sostiene que, por financiarse con pensiones, no está sujeta a las políticas, planes y autoridades del Sistema Educativo Plurinacional. ¿Qué análisis es correcto?
+A. Es correcto: las unidades privadas solo deben cumplir los requisitos de apertura y luego se autorregulan.
+B. Es correcto si sus planes fueron aprobados por la asociación de madres y padres de familia de la unidad.
+C. Es errado: las unidades privadas se rigen por las políticas, planes, programas y autoridades del SEP.
+D. Es errado solo en el nivel secundario, pues en el nivel inicial las privadas aplican sus propios planes.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Unidades educativas privadas. Se reconoce y respeta el funcionamiento de unidades educativas privadas, en todos los niveles y modalidades, que se rigen por las políticas, planes, programas y autoridades del Sistema Educativo Plurinacional». Aplicación razonada: el financiamiento por pensiones no exime a la unidad privada de las políticas, planes y autoridades del SEP.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numeral 3; página impresa: 2 (numeración «2/39»); página PDF: 3.
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+52. [Ley N.º 070 – TÍTULO I] Una unidad educativa obliga a todo el estudiantado a participar en ritos de una sola confesión religiosa. ¿Qué análisis corresponde según el Artículo 3.6?
+A. Contradice la base laica, pluralista y espiritual, que garantiza la libertad de conciencia y de fe sin imposición dogmática.
+B. Es coherente con la base espiritual, que autoriza a cada unidad a definir una práctica religiosa obligatoria común para todos.
+C. Es coherente si la mayoría de las familias profesa esa religión, pues la base pluralista respeta a las mayorías.
+D. Contradice la base laica solo en las unidades fiscales, pues en las de convenio la práctica obligatoria es válida.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Es laica, pluralista y espiritual, reconoce y garantiza la libertad de conciencia y de fe y de la enseñanza de religión, así como la espiritualidad de las naciones y pueblos indígena originario campesinos, fomenta el respeto y la convivencia mutua entre las personas con diversas opciones religiosas, sin imposición dogmática, y propiciando el diálogo interreligioso». Aplicación razonada: imponer ritos de una sola confesión contradice la libertad de conciencia y la ausencia de imposición dogmática.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 6; página impresa: 4 (numeración «4/39»); página PDF: 5.
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+53. [Ley N.º 070 – TÍTULO I] Una dirección distrital propone aplicar un currículo de menor exigencia en las unidades rurales que en las urbanas, por «realismo pedagógico». ¿Qué análisis es correcto?
+A. Es coherente con la Ley: la educación es diversa y plural, lo que permite fijar niveles de calidad distintos para lo urbano y lo rural del país.
+B. Es coherente si el currículo rural se aprueba en asamblea comunitaria, pues la calidad depende de la decisión de cada comunidad local.
+C. Es contrario a la Ley solo en el nivel secundario, pues en la educación primaria la calidad puede diferenciarse por el área geográfica.
+D. Es contrario a la Ley: la educación es única en calidad, política educativa y currículo base, erradicando diferencias entre lo urbano y rural.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Es única, diversa y plural. Única en cuanto a calidad, política educativa y currículo base, erradicando las diferencias entre lo fiscal y privado, lo urbano y rural. Diversa y plural en su aplicación y pertinencia a cada contexto geográfico, social, cultural y lingüístico […]». Aplicación razonada: la diversidad se refiere a la aplicación y pertinencia, no a niveles distintos de calidad o de currículo base.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 4; página impresa: 3 (numeración «3/39»); página PDF: 4.
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+54. [Ley N.º 070 – TÍTULO I] Un equipo docente excluye del currículo los saberes de las culturas indígenas y afrobolivianas por considerarlos «no académicos». ¿Qué análisis corresponde?
+A. Es coherente con la Ley: el currículo del SEP incorpora solo conocimientos universales validados por la ciencia moderna occidental.
+B. Es coherente si la unidad es urbana, pues los saberes de las NPIOC se incorporan solo en las unidades del área rural.
+C. Es contrario a la Ley solo respecto de los saberes indígenas, pues los afrobolivianos no se incorporan al currículo.
+D. Es contrario a la Ley: en el currículo del SEP se incorporan los saberes y conocimientos de las cosmovisiones de esas culturas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] En el currículo del Sistema Educativo Plurinacional se incorporan los saberes y conocimientos de las cosmovisiones de las naciones y pueblos indígena originario campesinos, comunidades interculturales y afrobolivianas». Aplicación razonada: excluir esos saberes contradice el mandato de incorporarlos en el currículo de todo el SEP.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo III: Diversidad sociocultural y lingüística. Art. 6, numeral 1; página impresa: 8 (numeración «8/39»); página PDF: 9.
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+55. [Ley N.º 070 – TÍTULO I] Una unidad educativa decide iniciar la enseñanza de la lengua extranjera recién en el nivel secundario y sin personal especializado. ¿Qué análisis es correcto?
+A. Es coherente con la Ley: la lengua extranjera es optativa y cada unidad decide el nivel de inicio y el perfil del personal a cargo de su enseñanza.
+B. Es coherente si la unidad prioriza la lengua originaria, pues la Ley prohíbe enseñar lengua extranjera antes del nivel secundario comunitario.
+C. Es contrario a la Ley: la lengua extranjera se inicia gradual y obligatoriamente desde los primeros años, con metodología pertinente y personal especializado.
+D. Es contrario a la Ley solo por la falta de personal especializado, pues el inicio de la enseñanza en el nivel secundario está permitido.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Enseñanza de lengua extranjera. La enseñanza de la lengua extranjera se inicia en forma gradual y obligatoria desde los primeros años de escolaridad, con metodología pertinente y personal especializado, continuando en todos los niveles del Sistema Educativo Plurinacional». Aplicación razonada: la decisión contradice tanto el inicio desde los primeros años como la exigencia de personal especializado.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo III: Diversidad sociocultural y lingüística. Art. 7, numeral 5; página impresa: 9 (numeración «9/39»); página PDF: 10.
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+56. [Ley N.º 070 – TÍTULO I] En una unidad del nivel inicial se prohíbe a los niños hablar su lengua materna originaria para «acelerar» el aprendizaje del castellano. ¿Qué análisis corresponde?
+A. Es coherente con la Ley: la educación debe iniciarse en castellano, por ser la lengua de comunicación común en todo el Estado Plurinacional de Bolivia.
+B. Es coherente si los padres lo solicitan, pues la Ley deja a cada familia la decisión sobre la lengua de inicio de la formación de sus hijos.
+C. Es contrario a la Ley solo en el área rural, pues en el área urbana la educación debe iniciarse obligatoriamente en la lengua castellana.
+D. Es contrario a la Ley: la educación debe iniciarse en la lengua materna, cuyo uso es una necesidad pedagógica en todos los aspectos de la formación.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La educación debe iniciarse en la lengua materna, y su uso es una necesidad pedagógica en todos los aspectos de su formación […]». Aplicación razonada: prohibir la lengua materna en el nivel inicial contradice el principio de iniciar la educación en ella.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo III: Diversidad sociocultural y lingüística. Art. 7 (encabezado); página impresa: 9 (numeración «9/39»); página PDF: 10.
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+57. [Ley N.º 070 – TÍTULO I] Una unidad educativa rechaza la inscripción de un estudiante con discapacidad, alegando que no cuenta con condiciones. ¿Qué análisis es correcto?
+A. Es coherente con la Ley: las personas con discapacidad deben ser derivadas a un sistema educativo separado del Sistema Plurinacional.
+B. Es coherente si la unidad es privada, pues el objetivo de acceso de personas con discapacidad rige solo para las unidades fiscales.
+C. Contradice el objetivo de promover el acceso y la permanencia de personas con discapacidad en el sistema, sin discriminación alguna.
+D. Contradice la Ley solo si la familia demuestra capacidad económica para costear los apoyos que requiere el estudiante en la unidad.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Desarrollar políticas educativas que promuevan el acceso y la permanencia de personas con necesidades educativas asociadas a discapacidad en el sistema educativo y sensibilizar a la sociedad sobre su atención integral, sin discriminación alguna». Aplicación razonada: el rechazo contradice el objetivo de acceso y permanencia sin discriminación; la Ley no prevé un sistema separado.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 14; página impresa: 7 (numeración «7/39»); página PDF: 8.
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+58. [Ley N.º 070 – TÍTULO I] En una unidad educativa se asignan sistemáticamente las tareas de limpieza a las niñas y las actividades deportivas a los niños. ¿Qué análisis corresponde según el Artículo 4.6?
+A. Es coherente con la Ley, pues la formación diferenciada por género responde a las particularidades de mujeres y hombres.
+B. Es coherente si las familias lo aprueban, pues la distribución de roles escolares depende de las costumbres de la comunidad local.
+C. Contradice la Ley solo si genera violencia física, pues la diferencia de roles sin violencia está permitida en la escuela.
+D. Contradice el fin de promover una sociedad despatriarcalizada, cimentada en la equidad de género y la no diferencia de roles.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Promover una sociedad despatriarcalizada, cimentada en la equidad de género, la no diferencia de roles, la no violencia y la vigencia plena de los derechos humanos». Aplicación razonada: la asignación de tareas según el género reproduce la diferencia de roles que la Ley busca erradicar.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 4, numeral 6; página impresa: 5 (numeración «5/39»); página PDF: 6.
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+59. [Ley N.º 070 – TÍTULO I] Una autoridad propone medir la calidad educativa solo con indicadores internacionales estándar, sin participación social ni consideración de la diversidad. ¿Qué análisis es correcto?
+A. Es coherente con la Ley: la calidad se mide solo con indicadores internacionales estándar, sin participación social, para asegurar su comparabilidad.
+B. Es contrario a la Ley: la calidad se garantiza con seguimiento, medición, evaluación y acreditación con participación social, e indicadores que respondan a la diversidad.
+C. Es coherente si los indicadores son aprobados por el Ministerio, pues la participación social se limita a conocer los resultados de la evaluación.
+D. Es contrario a la Ley solo en el subsistema superior, pues en el regular la calidad se mide exclusivamente con estándares internacionales.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Garantizar integralmente la calidad de la educación en todo el Sistema Educativo Plurinacional, implementando estrategias de seguimiento, medición, evaluación y acreditación con participación social. En el marco de la soberanía e identidad plurinacional, plantear a nivel internacional indicadores, parámetros de evaluación y acreditación de la calidad educativa que respondan a la diversidad sociocultural y lingüística del país». Aplicación razonada: la propuesta omite la participación social y la pertinencia de los indicadores a la diversidad del país.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 18; página impresa: 8 (numeración «8/39»); página PDF: 9.
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+60. [Ley N.º 070 – TÍTULO I] La dirección de una unidad educativa elabora la planificación y la evaluación institucional sin ninguna participación de madres, padres ni organizaciones sociales. ¿Qué análisis corresponde?
+A. Es coherente con la Ley: la planificación y evaluación son atribuciones técnicas exclusivas, sin participación de madres ni de padres de familia.
+B. Es coherente si informa los resultados al final de la gestión, pues la participación social se limita a conocer los informes finales.
+C. Contradice el objetivo de consolidar el SEP con su participación directa en planificación, organización, seguimiento y evaluación educativa.
+D. Contradice la Ley solo en la evaluación, pues la planificación institucional es una tarea reservada al personal docente y directivo.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Consolidar el Sistema Educativo Plurinacional con la directa participación de madres y padres de familia, de las organizaciones sociales, sindicales y populares, instituciones, naciones y pueblos indígena originario campesinos, afrobolivianos y comunidades interculturales en la formulación de políticas educativas, planificación, organización, seguimiento y evaluación del proceso educativo, velando por su calidad». Aplicación razonada: la exclusión total contradice el objetivo de participación directa. El Título I no regula funciones específicas del director.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 5; página impresa: 6 (numeración «6/39»); página PDF: 7.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+61. [Ley N.º 070 – TÍTULO I] En una comunidad monolingüe con predominio del aymara, ¿qué principio de uso de lenguas debe aplicarse según el Artículo 7.1?
+A. El aymara como primera lengua y el castellano como segunda lengua.
+B. El castellano como primera lengua y el aymara como segunda lengua.
+C. El aymara como lengua única, sin enseñanza del castellano oficial.
+D. El castellano y una lengua extranjera como primera y segunda lengua.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «En poblaciones o comunidades monolingües y de predominio de la lengua originaria, la lengua originaria como primera lengua y el castellano como segunda lengua». Aplicación razonada: en la comunidad descrita, la lengua originaria predominante es el aymara.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo III: Diversidad sociocultural y lingüística. Art. 7, numeral 1; página impresa: 9 (numeración «9/39»); página PDF: 10.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+62. [Ley N.º 070 – TÍTULO I] En una población urbana monolingüe con predominio del castellano, ¿qué principio de uso de lenguas corresponde según el Artículo 7.2?
+A. El castellano como primera lengua y la originaria como segunda.
+B. La originaria como primera lengua y el castellano como segunda.
+C. El castellano como única lengua, sin enseñanza de la originaria.
+D. El castellano como primera lengua y la extranjera como segunda.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «En poblaciones o comunidades monolingües y de predominio del castellano, el castellano como primera lengua y la originaria como segunda».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo III: Diversidad sociocultural y lingüística. Art. 7, numeral 2; página impresa: 9 (numeración «9/39»); página PDF: 10.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+63. [Ley N.º 070 – TÍTULO I] En una región plurilingüe se debe elegir la lengua originaria que será primera lengua. ¿Quién define los criterios de territorialidad y transterritorialidad según el Artículo 7.3?
+A. La dirección de cada unidad.
+B. El gobierno municipal local.
+C. La junta escolar de padres.
+D. Los consejos comunitarios.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «En las comunidades o regiones trilingües o plurilingües, la elección de la lengua originaria, se sujeta a criterios de territorialidad y transterritorialidad definidos por los consejos comunitarios, que será considerada como primera lengua y el castellano como segunda lengua».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo III: Diversidad sociocultural y lingüística. Art. 7, numeral 3; página impresa: 9 (numeración «9/39»); página PDF: 10.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+64. [Ley N.º 070 – TÍTULO I] Un estudiante sordo requiere lenguaje de señas para aprender. ¿Qué dispone el Artículo 7.6?
+A. Su enseñanza es una facultad de cada unidad educativa y depende de la disponibilidad de personal especializado en la unidad.
+B. Su enseñanza corresponde solo a centros de educación especial, fuera de las unidades del subsistema regular.
+C. Su enseñanza es un derecho de los estudiantes, pero no forma parte de la formación plurilingüe de los maestros.
+D. Su enseñanza es un derecho de los estudiantes que lo requieran y es parte de la formación plurilingüe de los maestros.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La enseñanza del lenguaje en señas es un derecho de las y los estudiantes que lo requieran en el sistema educativo. La enseñanza del lenguaje de señas es parte de la formación plurilingüe de las maestras y maestros».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo III: Diversidad sociocultural y lingüística. Art. 7, numeral 6; página impresa: 9 (numeración «9/39»); página PDF: 10.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+65. [Ley N.º 070 – TÍTULO I] Estudiantes de escasos recursos de un área dispersa abandonan la escuela por la distancia. ¿Qué medidas prevé el objetivo del Artículo 5.11?
+A. Traslado obligatorio de los estudiantes a unidades urbanas, con internados financiados por las familias de los propios estudiantes trasladados.
+B. Programas sociales con recursos, alimentación, vestimenta, transporte y material escolar, y residencias estudiantiles en áreas dispersas.
+C. Becas exclusivas para estudiantes de excelente aprovechamiento, condicionadas a su rendimiento en las evaluaciones nacionales.
+D. Programas de educación a distancia en sustitución de la escuela presencial, sin apoyo de alimentación ni de transporte escolar.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Formular e implementar, desde todos los niveles de gobierno del Estado Plurinacional, programas sociales específicos que beneficien a las y los estudiantes con menos posibilidades económicas para que accedan y permanezcan en el sistema educativo, mediante recursos económicos, programas de alimentación, vestimenta, transporte y material escolar; en áreas dispersas con residencias estudiantiles […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 11; página impresa: 7 (numeración «7/39»); página PDF: 8.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+66. [Ley N.º 070 – TÍTULO I] Estudiantes de un instituto policial pretenden conformar una organización estudiantil para defender sus derechos invocando el Artículo 2.9. ¿Qué dispone la Ley?
+A. Les corresponde ese derecho en igualdad de condiciones con los estudiantes de las unidades del subsistema regular.
+B. Les corresponde ese derecho siempre que la dirección del instituto apruebe previamente los estatutos de la organización estudiantil.
+C. Se exceptúa de ese derecho solo a los estudiantes de institutos militares, no a los de institutos policiales del país.
+D. Se exceptúa de ese derecho a los estudiantes de institutos militares y policiales, por estar sujetos a régimen especial.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] Se exceptúa de este derecho a los estudiantes de los institutos militares y policiales por encontrarse sujetos a régimen especial y normativa específica».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numeral 9 (página impresa 3; PDF 4).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+67. [Ley N.º 070 – TÍTULO I] Una familia boliviana que reside en el exterior consulta si sus hijos son destinatarios de la educación del Sistema Educativo Plurinacional. ¿Qué dispone el Artículo 3.3?
+A. No: la educación universal atiende solo a quienes habitan dentro del territorio del Estado Plurinacional.
+B. Sí, pero solo en el nivel superior, pues la educación regular se limita a quienes residen en el país.
+C. Sí: la educación es universal y atiende también a las bolivianas y los bolivianos que viven en el exterior.
+D. No: la atención a bolivianos en el exterior corresponde a los sistemas educativos de los países de residencia.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Es universal, porque atiende a todas y todos los habitantes del Estado Plurinacional, así como a las bolivianas y los bolivianos que viven en el exterior, se desarrolla a lo largo de toda la vida, sin limitación ni condicionamiento alguno […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 3; página impresa: 3 (numeración «3/39»); página PDF: 4.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+68. [Ley N.º 070 – TÍTULO I] Una unidad educativa fiscal pretende cobrar a las familias una cuota obligatoria para la entrega de libretas. ¿Qué mandato del Artículo 1 se aplica?
+A. La educación fiscal es gratuita solo en los niveles inicial y primario del sistema.
+B. La educación fiscal admite cobros si los aprueba la junta de padres.
+C. La educación fiscal es gratuita solo para quienes acreditan pobreza.
+D. La educación fiscal es gratuita en todos sus niveles hasta el superior.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La educación fiscal es gratuita en todos sus niveles hasta el superior». Aplicación razonada: una cuota obligatoria en una unidad fiscal contradice la gratuidad de la educación fiscal.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 1, numeral 9; página impresa: 2 (numeración «2/39»); página PDF: 3.
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+69. [Ley N.º 070 – TÍTULO I] Una persona adulta que no concluyó su escolaridad desea retomar estudios y continuar hasta el nivel superior. ¿Qué objetivo de la educación respalda esa trayectoria?
+A. El Artículo 5.21, sobre educación permanente de niñas, niños y adolescentes con talentos extraordinarios en el aprendizaje.
+B. El Artículo 5.17, sobre formación para personas jóvenes y adultas que posibilite la continuidad de sus estudios hasta el nivel superior.
+C. El Artículo 5.6, sobre educación en las fronteras para resguardar la soberanía y la seguridad del Estado Plurinacional.
+D. El Artículo 5.13, sobre formación continua y actualización de maestras y maestros en los subsistemas del sistema educativo.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Implementar políticas y programas de alfabetización y postalfabetización integral de carácter intracultural, intercultural y plurilingüe, de formación para personas jóvenes y adultas que posibiliten la continuidad de sus estudios hasta el nivel de educación superior […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 17 (página impresa 8; PDF 9).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+70. [Ley N.º 070 – TÍTULO I] Una estudiante muestra talentos extraordinarios en el aprendizaje. ¿Bajo qué estructura debe garantizarse su educación permanente según el Artículo 5.21?
+A. Bajo la misma estructura, principios y valores del Sistema Educativo Plurinacional.
+B. Bajo una estructura paralela de élite, separada del Sistema Educativo Plurinacional.
+C. Bajo la estructura de la educación superior, desde el inicio de su escolaridad regular.
+D. Bajo la estructura que defina su familia, al margen de los principios del sistema.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Promover y garantizar la educación permanente de niñas, niños y adolescentes con discapacidad o con talentos extraordinarios en el aprendizaje bajo la misma estructura, principios y valores del Sistema Educativo Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 21 (página impresa 8; PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Ley N.º 070 – TÍTULO I] Caso: en un curso se registran agresiones reiteradas entre estudiantes y burlas hacia una compañera. ¿Qué base de la educación debe orientar la respuesta institucional?
+A. La base promotora de la convivencia pacífica, que contribuye a erradicar toda forma de violencia y se sustenta en la cultura de paz y el buen trato.
+B. La base productiva y territorial, que orienta la formación al trabajo creador y deja la convivencia a la responsabilidad de cada familia.
+C. La base universal, que atiende a todos los habitantes y limita la intervención institucional a garantizar la matrícula de los estudiantes.
+D. La base científica y técnica, que prioriza el rendimiento académico y considera los conflictos de convivencia como asuntos privados.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Es promotora de la convivencia pacífica, contribuye a erradicar toda forma de violencia en el ámbito educativo, para el desarrollo de una sociedad sustentada en la cultura de paz, el buen trato y el respeto a los derechos humanos individuales y colectivos de las personas y de los pueblos». Aplicación razonada: las agresiones y burlas son formas de violencia en el ámbito educativo que esa base manda erradicar.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 12; página impresa: 4 (numeración «4/39»); página PDF: 5.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Ley N.º 070 – TÍTULO I] Caso: el quiosco de una unidad educativa vende principalmente productos ultraprocesados, y el consejo educativo propone promover alimentos locales y ecológicos. ¿Qué objetivo respalda la propuesta?
+A. Desarrollar programas de alfabetización y postalfabetización para personas jóvenes y adultas en todos los subsistemas del país.
+B. Formar una conciencia productiva, comunitaria y ambiental, fomentando la producción y consumo de productos ecológicos con soberanía alimentaria.
+C. Promover la educación en las fronteras para resguardar la soberanía, la seguridad y la defensa del Estado Plurinacional boliviano.
+D. Implementar formación continua de maestras y maestros en los subsistemas Regular, Alternativo y Especial del sistema educativo.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Formar una conciencia productiva, comunitaria y ambiental en las y los estudiantes, fomentando la producción y consumo de productos ecológicos, con seguridad y soberanía alimentaria, conservando y protegiendo la biodiversidad, el territorio y la Madre Tierra, para Vivir Bien». Aplicación razonada: la propuesta del consejo concreta ese objetivo en el consumo escolar.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 12; página impresa: 7 (numeración «7/39»); página PDF: 8.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Ley N.º 070 – TÍTULO I] Caso: una unidad educativa ubicada junto a un río con riesgo de desborde debe planificar acciones con su comunidad. ¿Qué objetivo de la educación orienta esa planificación?
+A. Desarrollar una formación cívica orientada a deberes ciudadanos, sin relación con el entorno natural ni con los riesgos del lugar.
+B. Garantizar la articulación curricular desde la educación inicial hasta la superior, sin acciones de prevención de riesgos naturales en la unidad.
+C. Desarrollar programas de becas para estudiantes de excelencia, como incentivo frente a los riesgos naturales de la comunidad.
+D. Desarrollar una conciencia integradora con la Madre Tierra, asegurando su protección y la prevención de riesgos y desastres naturales.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Desarrollar una conciencia integradora y equilibrada de las comunidades humanas y la Madre Tierra que contribuya a la relación de convivencia armónica con su entorno, asegurando su protección, prevención de riesgos y desastres naturales, conservación y manejo sostenible considerando la diversidad de cosmovisiones y culturas». Aplicación razonada: la situación de riesgo del entorno escolar se vincula directamente con la prevención de desastres naturales prevista.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 9; página impresa: 7 (numeración «7/39»); página PDF: 8.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Ley N.º 070 – TÍTULO I] Caso: un grupo de maestros quiere investigar sus prácticas pedagógicas para mejorar la enseñanza, articulándolas con el currículo regionalizado. ¿Qué objetivo respalda la iniciativa?
+A. Promover la investigación solo en la educación superior, sin relación con el currículo base ni con los currículos regionalizados.
+B. Promover la investigación científica, técnica, tecnológica y pedagógica en todo el SEP, en el marco del currículo base y los regionalizados.
+C. Prohibir la investigación pedagógica en las unidades regulares, por ser una competencia exclusiva de las universidades del país.
+D. Promover la investigación pedagógica al margen del currículo base, según los intereses particulares de cada maestra o maestro.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Promover la investigación científica, técnica, tecnológica y pedagógica en todo el Sistema Educativo Plurinacional, en el marco del currículo base y los currículos regionalizados».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 20 (página impresa 8; PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Ley N.º 070 – TÍTULO I] Caso: un estudiante abandona la escuela porque trabaja en las tardes, y la unidad analiza cómo asegurar su continuidad. ¿Qué objetivo orienta la respuesta?
+A. Garantizar la permanencia solo de quienes asisten con regularidad, sin equiparar las condiciones de los estudiantes.
+B. Garantizar el acceso a la educación, dejando la permanencia a la exclusiva responsabilidad del estudiante y su familia.
+C. Garantizar la excelencia académica, priorizando a quienes no trabajan por su mayor disponibilidad para el estudio.
+D. Garantizar el acceso a la educación y la permanencia en condiciones de plena igualdad y equiparación de condiciones.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Garantizar el acceso a la educación y la permanencia de ciudadanas y ciudadanos en condiciones de plena igualdad y equiparación de condiciones». Aplicación razonada: la equiparación de condiciones orienta a buscar medidas que permitan la permanencia del estudiante que trabaja.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 10; página impresa: 7 (numeración «7/39»); página PDF: 8.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Ley N.º 070 – TÍTULO I] Caso: una unidad educativa del Chaco aplica sin adecuación programas diseñados para otro contexto, con bajos resultados. ¿Qué objetivo orienta la corrección?
+A. Desarrollar programas uniformes para todo el país, sin adecuación al contexto, para garantizar la igualdad formal de los aprendizajes escolares.
+B. Desarrollar programas propios de cada unidad, sin sujeción al currículo base, según las preferencias particulares de su equipo docente.
+C. Desarrollar programas importados de otros países, adecuados al mercado laboral internacional y no al contexto sociocultural local.
+D. Desarrollar programas educativos pertinentes a cada contexto sociocultural, lingüístico, histórico, ecológico y geográfico, sustentados en el currículo base intercultural.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Desarrollar programas educativos pertinentes a cada contexto sociocultural, lingüístico, histórico, ecológico y geográfico, sustentados en el currículo base de carácter intercultural». Aplicación razonada: la falta de adecuación al contexto contradice la pertinencia contextual sustentada en el currículo base.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 15; página impresa: 7 (numeración «7/39»); página PDF: 8.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Ley N.º 070 – TÍTULO I] Caso: estudiantes de una unidad educativa proponen un intercambio con comunidades indígenas y afrodescendientes de otros países del continente. ¿Qué fin de la educación respalda la propuesta?
+A. Promover la reciprocidad, solidaridad e integración entre NPIOC y afrodescendientes en el ámbito continental y mundial, y entre organizaciones estudiantiles.
+B. Fortalecer la intraculturalidad aislando a las comunidades de toda relación con pueblos de otros países del continente y del mundo entero.
+C. Reafirmar el acceso al Océano Pacífico mediante la cooperación con los pueblos de otros países del continente y del resto del mundo.
+D. Garantizar la educación en las fronteras, limitando los intercambios estudiantiles a comunidades ubicadas dentro del territorio nacional.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Promover la amplia reciprocidad, solidaridad e integración entre las naciones y pueblos indígena originario campesinos y afro descendientes que luchan por la construcción de su unidad en el ámbito continental y mundial. Así como de las organizaciones sociales, estudiantiles y de las comunidades educativas». Aplicación razonada: el intercambio propuesto concreta la integración continental prevista en ese fin.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 4, numeral 8; página impresa: 5 (numeración «5/39»); página PDF: 6.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Ley N.º 070 – TÍTULO I] Caso: para una feria de ciencias, los estudiantes investigan técnicas agrícolas ancestrales de su comunidad y las comparan con métodos científicos actuales. ¿Qué objetivo respalda el enfoque?
+A. Desarrollar una formación científica, técnica y productiva a partir de saberes propios, en complementariedad con la ciencia y tecnología universal.
+B. Desarrollar una formación científica exclusivamente universal, que reemplace los saberes propios por los métodos científicos actuales.
+C. Desarrollar una formación basada solo en saberes propios, que rechace cualquier complementariedad con la ciencia y la tecnología universal moderna.
+D. Desarrollar una formación técnica para la exportación, que valore los saberes propios solo por su rentabilidad económica en el mercado.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Desarrollar una formación científica, técnica, tecnológica y productiva, a partir de saberes y conocimientos propios, fomentando la investigación vinculada a la cosmovisión y cultura de los pueblos, en complementariedad con los avances de la ciencia y la tecnología universal en todo el Sistema Educativo Plurinacional». Aplicación razonada: la feria combina saberes propios y ciencia universal en la forma que ese objetivo describe.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 2; página impresa: 6 (numeración «6/39»); página PDF: 7.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Ley N.º 070 – TÍTULO I] Caso: un docente de ciencias descalifica en clase la cosmovisión de una cultura originaria como «superstición sin valor». ¿Qué base de la educación debe orientar la intervención?
+A. La base laica y pluralista, que obliga a excluir del aula toda referencia a las cosmovisiones originarias por su carácter espiritual.
+B. La base universal, que prioriza los conocimientos universales y deja las cosmovisiones originarias fuera del desarrollo curricular.
+C. La base productiva, que valora las cosmovisiones originarias solo cuando contribuyen a la producción material de las comunidades.
+D. La base científica, técnica, tecnológica y artística, que desarrolla saberes desde las cosmovisiones originarias en complementariedad con los universales.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Es científica, técnica, tecnológica y artística, desarrollando los conocimientos y saberes desde la cosmovisión de las culturas indígena originaria campesinas, comunidades interculturales y afro bolivianas, en complementariedad con los saberes y conocimientos universales, para contribuir al desarrollo integral de la sociedad». Aplicación razonada: descalificar esa cosmovisión contradice la complementariedad entre saberes originarios y universales.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 10; página impresa: 4 (numeración «4/39»); página PDF: 5.
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Ley N.º 070 – TÍTULO I] Caso: una unidad educativa rural planifica un huerto escolar y un comité propone usar agroquímicos intensivos sin considerar el ecosistema. ¿Qué fin de la educación orienta la decisión?
+A. Contribuir a la máxima productividad del huerto escolar, aunque implique prácticas depredadoras del ecosistema local.
+B. Contribuir a la integración latinoamericana mediante la adopción de técnicas agrícolas de otros países vecinos.
+C. Contribuir a la convivencia armónica y equilibrada del ser humano con la Madre Tierra, frente a toda acción depredadora.
+D. Contribuir a la consolidación de la soberanía mediante la producción intensiva de alimentos para exportación.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Contribuir a la convivencia armónica y equilibrada del ser humano con la Madre Tierra, frente a toda acción depredadora, respetando y recuperando las diversas cosmovisiones y culturas». Aplicación razonada: el uso intensivo de agroquímicos sin considerar el ecosistema se opone a la convivencia armónica con la Madre Tierra.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 4, numeral 5; página impresa: 5 (numeración «5/39»); página PDF: 6.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Ley N.º 070 – TÍTULO I] Al organizar la coordinación educativa de un distrito, ¿qué instituciones deben considerarse como parte del sistema educativo según el Artículo 1.4?
+A. Solo las instituciones educativas fiscales y de convenio.
+B. Solo las instituciones educativas fiscales del distrito.
+C. Las instituciones educativas fiscales, privadas y de convenio.
+D. Las instituciones fiscales y privadas, sin las de convenio religioso.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El sistema educativo está compuesto por las instituciones educativas fiscales, instituciones educativas privadas y de convenio». Aplicación razonada: la coordinación distrital debe abarcar todos los tipos de instituciones que componen el sistema.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 1, numeral 4; página impresa: 2 (numeración «2/39»); página PDF: 3.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Ley N.º 070 – TÍTULO I] Al planificar una salida pedagógica a otra región del país, ¿qué objetivo de la educación debe orientar sus propósitos formativos?
+A. Formar mujeres y hombres con identidad y conciencia de la diversidad territorial, económica, social y cultural del país.
+B. Formar mujeres y hombres con preferencia por la cultura de su propia región, frente a las demás regiones del país.
+C. Formar mujeres y hombres para el turismo internacional, con dominio exclusivo de lenguas extranjeras y comercio.
+D. Formar mujeres y hombres con conocimiento teórico de la geografía, sin relación con la diversidad cultural y regional del país.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Formar mujeres y hombres con identidad y conciencia de la diversidad territorial, económica, social y cultural del país, para consolidar la integración del Estado Plurinacional». Aplicación razonada: la salida pedagógica puede orientarse a fortalecer la conciencia de la diversidad del país.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 7 (páginas impresas 6-7; PDF 7-8).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Ley N.º 070 – TÍTULO I] Al diseñar el programa deportivo anual, ¿qué decisión es coherente con el Artículo 2.10?
+A. Incluir la práctica preventiva, recreativa, formativa y competitiva, articulada con políticas de educación, recreación y salud pública.
+B. Limitar el programa a la práctica competitiva, seleccionando solo a los estudiantes con mejor rendimiento físico de la unidad educativa.
+C. Limitar el programa a la práctica recreativa, sin relación con las políticas de educación ni de salud pública del Estado.
+D. Delegar el programa a clubes privados, sin integrarlo a la estructura del Sistema Educativo Plurinacional ni a sus políticas.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Promoción del deporte. El Estado deberá promover y desarrollar la práctica deportiva, preventiva, recreativa, formativa y competitiva en toda la estructura del Sistema Educativo Plurinacional, mediante la implementación de políticas de educación, recreación y salud pública». Aplicación razonada: un programa coherente integra los cuatro tipos de práctica y su articulación con las políticas señaladas.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numeral 10; página impresa: 3 (numeración «3/39»); página PDF: 4.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Ley N.º 070 – TÍTULO I] Al definir la metodología de enseñanza de la unidad educativa, ¿qué opción es coherente con la base del Artículo 3.14?
+A. Promover la memorización de contenidos sin análisis de la realidad, para asegurar la uniformidad del aprendizaje.
+B. Promover que los estudiantes analicen su realidad para transformarla, desarrollando su pensamiento crítico.
+C. Promover la obediencia acrítica a la autoridad docente, para garantizar el orden y la disciplina en el aula.
+D. Promover la adaptación pasiva de los estudiantes a su realidad, evitando cuestionamientos en el proceso educativo.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Es liberadora en lo pedagógico porque promueve que la persona tome conciencia de su realidad para transformarla, desarrollando su personalidad y pensamiento crítico». Aplicación razonada: la metodología coherente con esa base promueve la conciencia crítica y transformadora.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 14 (página impresa 5; PDF 6).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Ley N.º 070 – TÍTULO I] Al organizar la enseñanza de la lengua extranjera en una unidad educativa, ¿qué decisión se ajusta al Artículo 7.5?
+A. Iniciarla gradual y obligatoriamente desde los primeros años, con metodología pertinente y personal especializado, en todos los niveles.
+B. Iniciarla de forma optativa en el último año de secundaria, con personal sin especialización y sin continuidad en otros niveles del sistema.
+C. Iniciarla de forma intensiva en el nivel inicial, sustituyendo la enseñanza en lengua materna y en castellano por la extranjera.
+D. Iniciarla gradualmente desde los primeros años, pero interrumpirla en el nivel secundario para priorizar las materias técnicas.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Enseñanza de lengua extranjera. La enseñanza de la lengua extranjera se inicia en forma gradual y obligatoria desde los primeros años de escolaridad, con metodología pertinente y personal especializado, continuando en todos los niveles del Sistema Educativo Plurinacional». Aplicación razonada: la decisión debe respetar el inicio temprano, la gradualidad, la especialización y la continuidad.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo III: Diversidad sociocultural y lingüística. Art. 7, numeral 5; página impresa: 9 (numeración «9/39»); página PDF: 10.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Ley N.º 070 – TÍTULO I] En una unidad educativa de una comunidad indígena, se debe conformar la instancia de participación de madres y padres. ¿Qué decisión se ajusta al Artículo 2.1?
+A. Conformarla según un modelo único urbano, sin considerar las normas propias.
+B. Conformarla por designación directa de la autoridad educativa distrital.
+C. Conformarla solo con docentes, por tratarse de una comunidad indígena.
+D. Conformarla de acuerdo a las normas y procedimientos propios de la comunidad.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] En las naciones y pueblos indígena originario campesinos, comunidades interculturales y afro bolivianas de acuerdo a sus normas y procedimientos propios». Aplicación razonada: en la comunidad indígena, la participación se organiza según sus normas y procedimientos propios.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numeral 1; página impresa: 2 (numeración «2/39»); página PDF: 3.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Ley N.º 070 – TÍTULO I] Una familia solicita inscribir a su hija, que proviene de otra región y otra cultura, y un docente sugiere derivarla a otra unidad. ¿Qué decisión es coherente con el Artículo 3.7?
+A. Derivarla a una unidad de su región de origen, para evitar diferencias culturales con sus compañeros de curso.
+B. Inscribirla de forma condicional, sujeta a que adopte las costumbres culturales de la mayoría local.
+C. Postergar su inscripción hasta que acredite conocimientos equivalentes a los de su curso de destino.
+D. Inscribirla, ofreciéndole educación pertinente con igualdad de oportunidades y sin discriminación alguna.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Es inclusiva, asumiendo la diversidad de los grupos poblacionales y personas que habitan el país, ofrece una educación oportuna y pertinente […], con igualdad de oportunidades y equiparación de condiciones, sin discriminación alguna […]». Aplicación razonada: la diversidad cultural de la estudiante no justifica derivarla; la base inclusiva exige atenderla sin discriminación.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 7; página impresa: 4 (numeración «4/39»); página PDF: 5.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Ley N.º 070 – TÍTULO I] Al planificar actividades de integración entre estudiantes de distintas culturas, ¿qué decisión se ajusta al Artículo 6.2?
+A. Promover actividades separadas por cultura, para evitar el contacto entre distintas visiones del mundo en la unidad educativa del lugar.
+B. Promover la adopción de una sola visión del mundo en la unidad, para asegurar la homogeneidad cultural de los estudiantes.
+C. Promover prácticas de interacción que desarrollen actitudes de valoración, convivencia y diálogo entre distintas visiones del mundo.
+D. Promover actividades de competencia entre culturas, para que cada estudiante demuestre la superioridad de su propia visión.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «[…] Se promueven prácticas de interacción entre diferentes pueblos y culturas desarrollando actitudes de valoración, convivencia y diálogo entre distintas visiones del mundo para proyectar y universalizar la sabiduría propia». Aplicación razonada: la actividad coherente con la interculturalidad promueve interacción, valoración y diálogo.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo III: Diversidad sociocultural y lingüística. Art. 6, numeral 2 (página impresa 9; PDF 10).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Ley N.º 070 – TÍTULO I] Al organizar el tránsito de estudiantes entre niveles, ¿qué decisión es coherente con el objetivo del Artículo 5.16?
+A. Asegurar la secuencialidad de los contenidos curriculares, articulando los niveles desde la educación inicial en familia comunitaria.
+B. Permitir que cada nivel defina contenidos independientes, sin coordinación con los niveles anterior y posterior.
+C. Iniciar la secuencia curricular recién en la educación primaria, sin considerar la educación inicial comunitaria.
+D. Repetir los mismos contenidos en cada nivel, para reforzar aprendizajes sin progresión curricular alguna.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Establecer procesos de articulación entre los subsistemas y la secuencialidad de los contenidos curriculares desde la educación inicial en familia comunitaria hasta la educación superior de formación profesional». Aplicación razonada: el tránsito entre niveles debe garantizar articulación y secuencialidad curricular.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 16; página impresa: 7 (numeración «7/39»); página PDF: 8.
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Ley N.º 070 – TÍTULO I] Una familia decide trasladar a su hijo de una unidad fiscal a una unidad privada debidamente autorizada, y una autoridad pretende impedirlo. ¿Qué decisión se ajusta al Artículo 2.5?
+A. Impedir el traslado, pues la educación fiscal es obligatoria hasta el bachillerato para todos los estudiantes.
+B. Condicionar el traslado a la autorización de la junta escolar de la unidad fiscal de la que procede el estudiante trasladado.
+C. Respetar la decisión, pues se reconoce el derecho de madres y padres a elegir la educación que convenga a sus hijos.
+D. Impedir el traslado si la unidad fiscal tiene cupos disponibles, para asegurar el uso de la oferta pública.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Del derecho de las madres y padres. Se respeta el derecho de las madres y padres a elegir la educación que convenga para sus hijas e hijos». Aplicación razonada: la obligatoriedad es hasta el bachillerato, no de la educación fiscal; la elección de la familia se respeta.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numeral 5; página impresa: 2 (numeración «2/39»); página PDF: 3.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Ley N.º 070 – TÍTULO I] Al diseñar el sistema de evaluación de la calidad de una unidad educativa, ¿qué estrategia es coherente con el Artículo 5.18?
+A. Implementar seguimiento, medición, evaluación y acreditación con participación social, con indicadores pertinentes a la diversidad del país.
+B. Implementar evaluaciones externas estandarizadas como único instrumento, sin participación social ni consideración de la diversidad.
+C. Implementar autoevaluaciones docentes como único instrumento, sin seguimiento institucional ni participación de la comunidad educativa de la unidad.
+D. Implementar rankings de unidades educativas por resultados, sin acreditación ni indicadores relacionados con la diversidad cultural.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Garantizar integralmente la calidad de la educación en todo el Sistema Educativo Plurinacional, implementando estrategias de seguimiento, medición, evaluación y acreditación con participación social […] indicadores, parámetros de evaluación y acreditación de la calidad educativa que respondan a la diversidad sociocultural y lingüística del país». Aplicación razonada: la estrategia institucional traslada al ámbito de la unidad los componentes que el objetivo define para todo el SEP.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 18 (página impresa 8; PDF 9).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Ley N.º 070 – TÍTULO I] Para el plan anual de una unidad educativa, ¿qué estrategia de gestión participativa es coherente con el Artículo 5.5?
+A. Incorporar a madres y padres solo en actividades festivas, reservando la planificación al personal directivo y docente.
+B. Delegar a madres y padres la conducción pedagógica de la unidad, sin intervención del personal directivo ni docente.
+C. Incorporar a las organizaciones sociales solo en la recaudación de fondos, sin participación en la evaluación educativa institucional.
+D. Incorporar a madres, padres y organizaciones en la planificación, organización, seguimiento y evaluación del proceso educativo.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Consolidar el Sistema Educativo Plurinacional con la directa participación de madres y padres de familia, de las organizaciones sociales, sindicales y populares […] en la formulación de políticas educativas, planificación, organización, seguimiento y evaluación del proceso educativo, velando por su calidad». Aplicación razonada: el plan anual puede incorporar la participación directa en las fases que el objetivo enumera.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 5; página impresa: 6 (numeración «6/39»); página PDF: 7.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Ley N.º 070 – TÍTULO I] Al proyectar el desarrollo profesional del equipo docente de una unidad del subsistema regular, ¿qué lineamiento del Artículo 5.13 debe considerarse?
+A. La implementación de políticas de formación continua y actualización de maestras y maestros en el subsistema.
+B. La sustitución de la formación continua por la contratación de personal externo en cada nueva gestión escolar.
+C. La limitación de la actualización docente al subsistema superior, sin acciones en el subsistema regular del país.
+D. La implementación de formación continua solo para el personal directivo, excluyendo a las maestras y los maestros.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Implementar políticas educativas de formación continua y actualización de maestras y maestros en los subsistemas Regular, Alternativo y Especial del Sistema Educativo Plurinacional». Aplicación razonada: la planificación institucional del desarrollo docente se articula con las políticas de formación continua previstas.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 13; página impresa: 7 (numeración «7/39»); página PDF: 8.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Ley N.º 070 – TÍTULO I] Al adecuar el currículo de una unidad educativa a su contexto, ¿qué estrategia respeta la base del Artículo 3.4?
+A. Sustituir el currículo base por uno propio de la unidad, sin relación con la política educativa ni con la calidad común del sistema.
+B. Aplicar el currículo base sin ninguna adecuación al contexto, para garantizar la uniformidad absoluta de la aplicación curricular.
+C. Reducir los contenidos del currículo base en el área rural, para adecuarlo a las supuestas limitaciones de ese contexto escolar.
+D. Mantener el currículo base común y adecuar su aplicación a la pertinencia geográfica, social, cultural y lingüística del contexto.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Es única, diversa y plural. Única en cuanto a calidad, política educativa y currículo base […]. Diversa y plural en su aplicación y pertinencia a cada contexto geográfico, social, cultural y lingüístico […]». Aplicación razonada: la estrategia conjuga lo único (currículo base) con lo diverso (aplicación pertinente al contexto).
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 4; página impresa: 3 (numeración «3/39»); página PDF: 4.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Ley N.º 070 – TÍTULO I] Una unidad educativa proyecta un programa institucional de investigación con impacto en su comunidad. ¿Qué orientación del Artículo 4.11 debe guiar su diseño?
+A. Asociar la investigación a la obtención de premios externos, sin vínculo con la pobreza, la exclusión ni la degradación del ambiente.
+B. Asociar la investigación a la innovación y producción de conocimientos como rector de lucha contra la pobreza, exclusión y degradación ambiental.
+C. Asociar la investigación exclusivamente a la repetición de experimentos de texto, sin producción de conocimientos ni innovación alguna.
+D. Asociar la investigación a fines comerciales de empresas privadas, como rector de la competitividad y de la rentabilidad económica.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Impulsar la investigación científica y tecnológica asociada a la innovación y producción de conocimientos, como rector de lucha contra la pobreza, exclusión social y degradación del medio ambiente». Aplicación razonada: el programa institucional adopta la orientación social y ambiental que ese fin asigna a la investigación.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 4, numeral 11; página impresa: 6 (numeración «6/39»); página PDF: 7.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Ley N.º 070 – TÍTULO I] Al planificar proyectos productivos en una unidad educativa rural, ¿qué estrategia es coherente con la base del Artículo 3.9?
+A. Orientarlos a la producción intensiva para la venta, priorizando la rentabilidad sobre la relación armónica con la Madre Tierra.
+B. Orientarlos a la producción intelectual y material y al trabajo creador, en relación armónica con la Madre Tierra y la gestión territorial.
+C. Orientarlos a la producción teórica en el aula, sin trabajo creador ni vínculo con la gestión territorial de las comunidades.
+D. Orientarlos a la producción industrial urbana, desvinculada del territorio y de las comunidades donde se ubica la unidad.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Es productiva y territorial, orientada a la producción intelectual y material, al trabajo creador y a la relación armónica de los sistemas de vida y las comunidades humanas en la Madre Tierra, fortaleciendo la gestión territorial […]». Aplicación razonada: los proyectos productivos coherentes con esa base articulan producción, trabajo creador y territorio.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 9; página impresa: 4 (numeración «4/39»); página PDF: 5.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Ley N.º 070 – TÍTULO I] Al definir la política lingüística institucional de una unidad educativa, ¿qué fin de la educación ofrece el marco estratégico más directo?
+A. Reafirmar el acceso al Océano Pacífico y su espacio marítimo como eje de la política lingüística institucional.
+B. Impulsar la investigación científica como rector de la política lingüística, sin relación con el plurilingüismo.
+C. Fortalecer la intraculturalidad, interculturalidad y el plurilingüismo en la formación, para una sociedad del Vivir Bien.
+D. Garantizar la participación de todos los habitantes, sin relación con los idiomas en la formación de los estudiantes de la unidad.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Fortalecer el desarrollo de la intraculturalidad, interculturalidad y el plurilingüismo en la formación y la realización plena de las bolivianas y bolivianos, para una sociedad del Vivir Bien […]». Aplicación razonada: la política lingüística institucional se enmarca directamente en el fin de fortalecer el plurilingüismo.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 4, numeral 4; página impresa: 5 (numeración «5/39»); página PDF: 6.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Ley N.º 070 – TÍTULO I] Al elaborar el plan de convivencia institucional, ¿qué orientación estratégica es coherente con el Artículo 3.12?
+A. Contribuir a erradicar toda forma de violencia, desarrollando la cultura de paz, el buen trato y el respeto a los derechos humanos.
+B. Limitar la intervención a sanciones disciplinarias, sin acciones de cultura de paz ni de buen trato en la unidad educativa del distrito.
+C. Delegar la convivencia a cada familia, sin acciones institucionales para erradicar la violencia en el ámbito educativo.
+D. Priorizar el rendimiento académico, considerando la violencia escolar como un asunto ajeno a la gestión institucional.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Es promotora de la convivencia pacífica, contribuye a erradicar toda forma de violencia en el ámbito educativo, para el desarrollo de una sociedad sustentada en la cultura de paz, el buen trato y el respeto a los derechos humanos individuales y colectivos de las personas y de los pueblos». Aplicación razonada: el plan de convivencia traduce a la gestión institucional los componentes de esa base.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 3, numeral 12; página impresa: 4 (numeración «4/39»); página PDF: 5.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Ley N.º 070 – TÍTULO I] Al proyectar la mejora de una unidad educativa fiscal, ¿qué finalidad del Artículo 2.2 debe orientar el plan estratégico?
+A. Garantizar la rentabilidad de la unidad fiscal, mediante el cobro de servicios complementarios a las familias de los estudiantes inscritos.
+B. Garantizar la selección de los mejores estudiantes, para que la unidad fiscal compita en resultados con las unidades privadas.
+C. Garantizar solo el acceso a la unidad fiscal, dejando la permanencia y la calidad a cargo de las familias de los estudiantes.
+D. Garantizar el acceso, la permanencia y la calidad de la educación de todas y todos, como prioridad estratégica para el Vivir Bien.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Unidades educativas fiscales. Se consolida y fortalece el funcionamiento de unidades educativas fiscales y gratuitas, sostenidas por el Estado Plurinacional, para garantizar el acceso, permanencia y la calidad de la educación de todas y todos, por constituir la educación un derecho fundamental y de prioridad estratégica para la transformación hacia el Vivir Bien». Aplicación razonada: el plan estratégico de una unidad fiscal se orienta a las tres finalidades que la Ley asigna a esas unidades.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo I: La educación como derecho fundamental. Art. 2, numeral 2; página impresa: 2 (numeración «2/39»); página PDF: 3.
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Ley N.º 070 – TÍTULO I] Una unidad educativa ubicada en zona fronteriza formula su proyecto institucional. ¿Qué objetivo de la educación le brinda un marco estratégico específico?
+A. Contribuir a la seguridad, defensa y desarrollo del Estado, priorizando la educación en las fronteras para resguardar la soberanía.
+B. Contribuir a la integración comercial con el país vecino, priorizando la enseñanza de su idioma sobre las lenguas oficiales del Estado.
+C. Contribuir al desarrollo de la zona fronteriza, priorizando la educación privada sobre la fiscal para atraer la inversión.
+D. Contribuir a la seguridad del Estado, priorizando la formación militar obligatoria sobre el currículo base del sistema.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Contribuir al fortalecimiento de la seguridad, defensa y desarrollo del Estado Plurinacional, priorizando la educación en las fronteras para resguardar la soberanía». Aplicación razonada: el proyecto institucional de una unidad fronteriza puede alinearse con la prioridad que este objetivo asigna a la educación en las fronteras.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título I: Marco filosófico y político de la educación boliviana, Capítulo II: Bases, fines y objetivos de la educación. Art. 5, numeral 6; página impresa: 6 (numeración «6/39»); página PDF: 7.

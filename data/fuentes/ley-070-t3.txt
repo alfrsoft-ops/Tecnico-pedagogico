@@ -1,0 +1,1111 @@
+# Fuente: ley-070-t3.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez» (20 de diciembre de 2010)
+# Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional (Arts. 69 al 92)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar el Título III de la Ley N.º 070 en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto de la Ley proporcionado, sin incorporar fuentes externas, y su fundamentación transcribe textualmente el fragmento que respalda la respuesta correcta.
+# Criterios documentales aplicados
+# Alcance de la fuente. El Título III comprende cuatro capítulos: Capítulo I, Organización Curricular (Arts. 69 y 70); Capítulo II, Administración y Gestión de la Educación (Arts. 71 al 83), que incluye la estructura por niveles central, departamental y autonómico, la designación de autoridades, el Diploma de Bachiller, la certificación de competencias y el Observatorio Plurinacional de la Calidad Educativa; Capítulo III, Apoyo Técnico de Recursos y Servicios (Arts. 84 al 89); y Capítulo IV, Participación Social Comunitaria (Arts. 90 al 92). En el PDF proporcionado ocupa las páginas 28 a 37 (páginas impresas 27 a 36).
+# Página impresa. El documento (versión de la Gaceta Oficial) numera sus páginas al pie con el formato «n/39», a partir de la segunda página del PDF. Por eso la página impresa equivale a la página PDF menos uno (p. ej., página PDF 4 = página impresa «3/39»). Cada referencia consigna ambas.
+# Fundamentación textual. Cada fundamentación transcribe entre comillas el fragmento de la Ley que respalda la respuesta correcta. En las preguntas derivadas se añade una nota breve rotulada «Aplicación razonada», que distingue la inferencia del contenido textual.
+# Competencias directivas. A diferencia de los Títulos I y II, el Título III sí contiene disposiciones directas sobre la dirección de Unidades Educativas: el Artículo 78.5 establece que las Direcciones de Unidad Educativa dependen de las Direcciones de Núcleo y son «responsables de la gestión educativa y administración curricular en la Unidad Educativa correspondiente»; el Artículo 79.3 dispone que sus directores son designados por las y los Directores Distritales mediante concurso de méritos y examen de competencia, y el 79.4, que las designaciones son periódicas. La dimensión 3 se apoya en estas normas y en las relacionadas (Arts. 73.1, 74.1, 78.4, 80.2, 85, 91.2 y 92.4). El Título no enumera funciones detalladas del director más allá de esa responsabilidad general, que remite a «sus funciones y competencias definidas por la normatividad»; esas funciones específicas no se evalúan por no estar en la fuente.
+# Cobertura y no duplicación. Las preguntas cubren los 24 artículos del Título III. Por la extensión reducida de la fuente, algunos artículos centrales (por ejemplo, 73, 79, 80, 91 y 92) se evalúan en varias preguntas con enfoques distintos (conocimiento textual, diferenciación, análisis de casos o estrategia); no hay preguntas repetidas ni con la misma respuesta y el mismo enfoque.
+# Etiqueta de trazabilidad. Cada enunciado inicia con [Ley N.º 070 – TÍTULO III], para su integración en plataformas de simulación que combinan preguntas de varios documentos; el capítulo y artículo exactos figuran en la referencia.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 27 preguntas y la más corta en 8, por lo que la longitud no es una pista.
+# 2. Distribución metodológica y ponderación
+# N.º
+# Tipo de evaluación
+# ¿Qué evalúa?
+# Preg.
+# Peso
+# N.º preg.
+# 1
+# Conocimiento y memorización
+# Dominio de conceptos, definiciones, principios, fechas, disposiciones y contenidos fundamentales del documento.
+# 10
+# 10%
+# 1–10
+# 2
+# Dominio conceptual
+# Comprensión de los fundamentos pedagógicos, administrativos, curriculares y organizativos del Sistema Educativo Plurinacional.
+# 10
+# 10%
+# 11–20
+# 3
+# Competencias y responsabilidades directivas
+# Conocimiento de las funciones, atribuciones, obligaciones y responsabilidades del director de una Unidad Educativa (en este Título: Arts. 78.5 y 79, dependencia, responsabilidad y designación de autoridades).
+# 10
+# 10%
+# 21–30
+# 4
+# Comprensión e interpretación
+# Capacidad para interpretar documentos, orientaciones pedagógicas y situaciones educativas.
+# 10
+# 10%
+# 31–40
+# 5
+# Diferenciación conceptual
+# Capacidad para distinguir conceptos, funciones, procedimientos, niveles de responsabilidad y enfoques educativos similares.
+# 10
+# 10%
+# 41–50
+# 6
+# Análisis crítico
+# Capacidad para identificar problemas institucionales, analizar sus causas, valorar alternativas y emitir criterios fundamentados.
+# 10
+# 10%
+# 51–60
+# 7
+# Aplicación normativa
+# Capacidad para aplicar correctamente la normativa en situaciones institucionales.
+# 10
+# 10%
+# 61–70
+# 8
+# Resolución de casos prácticos
+# Capacidad para resolver conflictos escolares, problemas administrativos, dificultades pedagógicas y situaciones con estudiantes, profesores y familias.
+# 10
+# 10%
+# 71–80
+# 9
+# Toma de decisiones
+# Capacidad para adoptar decisiones oportunas, pertinentes, fundamentadas y responsables ante situaciones institucionales.
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# Capacidad para planificar, organizar, dirigir, supervisar y evaluar acciones orientadas al mejoramiento de la calidad educativa.
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–10)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta [Ley N.º 070 – TÍTULO III]; el capítulo y el artículo exactos figuran en la referencia.
+# Cada fundamentación transcribe el fragmento textual de la Ley y remite al artículo y numeral, con página impresa y página PDF.
+# Contenido limitado exclusivamente al Título III de la Ley N.º 070; las preguntas sobre la dirección de Unidades Educativas se limitan a lo que disponen los Artículos 78.5 y 79.
+
+CAPÍTULO: ley-070-t3
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Ley N.º 070 – TÍTULO III] ¿Cómo se denomina el Título III de la Ley N.º 070?
+A. Estructura curricular, financiamiento y evaluación del Sistema Educativo Plurinacional.
+B. Organización curricular, administración y gestión del Sistema Educativo Plurinacional.
+C. Organización pedagógica, supervisión y control del Sistema Educativo Plurinacional.
+D. Diseño curricular, descentralización y autonomía del Sistema Educativo Plurinacional.
+Respuesta correcta: B
+Explicación: «TÍTULO III / ORGANIZACIÓN CURRICULAR, ADMINISTRACIÓN Y GESTIÓN DEL SISTEMA EDUCATIVO PLURINACIONAL».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional (encabezado del Título; páginas impresas 27-28; páginas PDF 28-29).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Ley N.º 070 – TÍTULO III] Según el Artículo 76, la administración y gestión del Sistema Educativo Plurinacional se organiza en:
+A. Nivel Central, Nivel Regional y Nivel Comunitario.
+B. Nivel Central, Nivel Departamental y Nivel Autonómico.
+C. Nivel Nacional, Nivel Distrital y Nivel Institucional.
+D. Nivel Ministerial, Nivel Municipal y Nivel de Núcleo.
+Respuesta correcta: B
+Explicación: «La administración y gestión se organiza en: 1. Nivel Central. 2. Nivel Departamental. 3. Nivel Autonómico».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 76 (página impresa 30, numeración «30/39»; página PDF 31).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Ley N.º 070 – TÍTULO III] Según el Artículo 78.2, ¿qué subdirecciones tiene bajo su dependencia cada Dirección Departamental de Educación?
+A. Educación Inicial, Educación Primaria y Secundaria, y Educación Técnica y Tecnológica del departamento.
+B. Gestión Administrativa, Gestión Curricular y Gestión de Participación Social Comunitaria del departamento.
+C. Educación Regular, Educación Universitaria Autónoma y Educación Permanente de Personas Adultas.
+D. Educación Regular, Educación Superior de Formación Profesional y Educación Alternativa y Especial.
+Respuesta correcta: D
+Explicación: «Cada Dirección Departamental tendrá bajo su dependencia la: i. Subdirección de Educación Regular. ii. Subdirección de Educación Superior de Formación Profesional. iii. Subdirección Educación Alternativa y Especial».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 78, numeral 2 (páginas impresas 30-31; páginas PDF 31-32).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Ley N.º 070 – TÍTULO III] Según el Artículo 92.1, ¿quién convoca al Congreso Plurinacional de Educación y con qué periodicidad?
+A. La Asamblea Legislativa, cada cuatro años.
+B. El Consejo Educativo Plurinacional, cada año.
+C. El Ministerio de Educación, cada diez años.
+D. El Ministerio de Educación, cada cinco años.
+Respuesta correcta: D
+Explicación: «Congreso Plurinacional de Educación: Es la instancia máxima de participación de todos los sectores de la sociedad, para la formulación y definición de lineamientos de la política plurinacional de educación. Será convocado por el Ministerio de Educación cada cinco años».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 92, numeral 1 (página impresa 35; página PDF 36).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Ley N.º 070 – TÍTULO III] Según el Artículo 73, ¿en qué principios se sustenta la administración y gestión de la educación?
+A. Jerarquía, disciplina y obediencia; verticalidad; eficiencia y rentabilidad; y reserva y confidencialidad administrativa, conforme a la Ley.
+B. Participación, democracia y comunitarismo; horizontalidad; equidad y complementariedad; y transparencia y rendición de cuentas.
+C. Participación, democracia y comunitarismo; centralización; homogeneidad cultural; y control jerárquico de los recursos.
+D. Autonomía, competencia y meritocracia; descentralización plena; uniformidad; y rendición de cuentas solo al Ministerio.
+Respuesta correcta: B
+Explicación: «1. Participación, democracia y comunitarismo […]. 2. Horizontalidad en la toma de decisiones […]. 3. Equitativa y complementaria, entre el campo y la ciudad […]. 4. Transparencia y rendición de cuentas de los responsables de la administración y gestión del Sistema Educativo Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 73 (página impresa 29, numeración «29/39»; página PDF 30).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+6. [Ley N.º 070 – TÍTULO III] Según el Artículo 83.3, ¿cómo está compuesto el Observatorio Plurinacional de la Calidad Educativa?
+A. Por un Consejo de Rectores, un Secretario General y un cuerpo de evaluadores internacionales acreditados.
+B. Por representantes del magisterio, de las juntas escolares y de las Direcciones Departamentales de Educación.
+C. Por un Directorio, una Directora o Director Ejecutivo y un equipo técnico multidisciplinario especializado.
+D. Por un Directorio, un Viceministro de Calidad y las comisiones técnicas de cada Dirección Distrital Educativa.
+Respuesta correcta: C
+Explicación: «Su composición está constituida por un Directorio, Directora o Director Ejecutivo y un equipo técnico multidisciplinario especializado».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 83, numeral 3 (página impresa 33, numeración «33/39»; página PDF 34).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+7. [Ley N.º 070 – TÍTULO III] Según el Artículo 81, ¿quién otorga el Diploma de Bachiller y en qué condiciones?
+A. La Dirección de Unidad Educativa, de forma directa, previo pago de los aranceles fijados en el reglamento interno.
+B. La Dirección Distrital Educativa, a solicitud de los padres, previo pago de un monto fijado por cada departamento.
+C. El Ministerio de Educación, a través de las universidades públicas, de forma gratuita y sin reglamentación específica.
+D. El Ministerio de Educación, a través de las Direcciones Departamentales, de forma gratuita y sujeto a reglamentación.
+Respuesta correcta: D
+Explicación: «El Ministerio de Educación a través de las Direcciones Departamentales de Educación, a la culminación de los estudios del nivel de Educación Secundaria Comunitaria Productiva y Educación Secundaria de Adultos, otorgará gratuitamente el Diploma de Bachiller, sujeto a reglamentación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 81 (página impresa 33, numeración «33/39»; página PDF 34).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+8. [Ley N.º 070 – TÍTULO III] Según el Artículo 88.1, ¿qué naturaleza tiene el Instituto Plurinacional de Estudio de Lenguas y Culturas?
+A. Es una entidad privada sin fines de lucro que certifica el dominio de lenguas extranjeras en el sistema educativo.
+B. Es una entidad descentralizada del Ministerio de Educación que desarrolla procesos de investigación lingüística y cultural.
+C. Es una dependencia de las universidades públicas que forma traductores e intérpretes en lenguas originarias del país, conforme a la Ley.
+D. Es una entidad desconcentrada de los gobiernos municipales que administra la enseñanza de lenguas en las unidades.
+Respuesta correcta: B
+Explicación: «Se crea el Instituto Plurinacional de Estudio de Lenguas y Culturas como entidad descentralizada del Ministerio de Educación, que desarrollará procesos de investigación lingüística y cultural».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo III: Apoyo técnico de recursos y servicios. Art. 88, numeral 1 (página impresa 34, numeración «34/39»; página PDF 35).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+9. [Ley N.º 070 – TÍTULO III] Según el Artículo 87, ¿de quién depende el Instituto de Investigaciones Educativas Plurinacional y para qué se crea?
+A. Depende de las universidades públicas y se crea para acreditar la calidad de las carreras de educación en todo el sistema plurinacional, según la norma.
+B. Depende del Ministerio de Educación y se crea para diseñar y desarrollar estrategias de apoyo a las políticas de transformación del sistema.
+C. Depende de las Direcciones Departamentales y se crea para evaluar el desempeño individual de las maestras y los maestros del sistema.
+D. Depende del Consejo Educativo Plurinacional y se crea para convocar al Congreso Plurinacional de Educación cada cinco años de gestión.
+Respuesta correcta: B
+Explicación: «Se crea el Instituto de Investigaciones Educativas Plurinacional dependiente del Ministerio de Educación, para diseñar y desarrollar estrategias de apoyo a las políticas de transformación del Sistema Educativo Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo III: Apoyo técnico de recursos y servicios. Art. 87 (página impresa 34, numeración «34/39»; página PDF 35).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+10. [Ley N.º 070 – TÍTULO III] Según el Artículo 77, ¿qué instancias conforman el Nivel Central de la gestión del Sistema Educativo Plurinacional?
+A. El Ministerio de Educación y sus Viceministerios, y las Entidades Desconcentradas de su directa dependencia.
+B. El Ministerio de Educación y las Direcciones Departamentales, como entidades descentralizadas del nivel central.
+C. El Ministerio de Educación, los gobiernos departamentales y los gobiernos municipales de las capitales del país.
+D. El Congreso Plurinacional de Educación y el Consejo Educativo Plurinacional, como instancias máximas del sistema.
+Respuesta correcta: A
+Explicación: «Conformado por las siguientes instancias: 1. Ministerio de Educación y sus Viceministerios, como máxima autoridad educativa […]. 2. Entidades Desconcentradas, de directa dependencia del Ministerio de Educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 77 (página impresa 30, numeración «30/39»; página PDF 31).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+11. [Ley N.º 070 – TÍTULO III] ¿Cómo define el Artículo 69.1 la organización curricular?
+A. Como el listado de asignaturas y cargas horarias de cada nivel, definido por cada unidad educativa según su proyecto institucional propio.
+B. Como la estructura, organización y conjunto de relaciones entre los componentes del currículo, articulados a las necesidades de la sociedad y el Estado.
+C. Como el conjunto de textos escolares aprobados por el Ministerio, sin relación con las necesidades y demandas de la sociedad y del Estado.
+D. Como la estructura administrativa de las Direcciones Departamentales, encargada de controlar el cumplimiento del calendario escolar.
+Respuesta correcta: B
+Explicación: «Es la estructura, organización y el conjunto de relaciones que se establecen entre los componentes del currículo del Sistema Educativo Plurinacional en sus diversos subsistemas y niveles de formación, articulados a las necesidades, demandas y expectativas de la sociedad y el Estado Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo I: Organización curricular. Art. 69, numeral 1 (página impresa 28, numeración «28/39»; página PDF 29).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+12. [Ley N.º 070 – TÍTULO III] Según el Artículo 69.2, ¿qué garantiza la complementariedad entre el currículo base y los currículos regionalizados y diversificados?
+A. La autonomía curricular plena de cada región, así como la independencia de los currículos regionalizados frente al currículo base.
+B. La uniformidad absoluta de contenidos en todo el país, así como la eliminación de las particularidades culturales y lingüísticas.
+C. La unidad e integridad del Sistema Educativo Plurinacional, así como el respeto a la diversidad cultural y lingüística de Bolivia.
+D. La competencia entre regiones por mejores resultados, así como la jerarquía del currículo regionalizado sobre el currículo base.
+Respuesta correcta: C
+Explicación: «La organización curricular establece los mecanismos de articulación entre la teoría y la práctica educativa, se expresa en el currículo base de carácter intercultural, los currículos regionalizados y diversificados de carácter intracultural que en su complementariedad, garantizan la unidad e integridad del Sistema Educativo Plurinacional, así como el respeto a la diversidad cultural y lingüística de Bolivia».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo I: Organización curricular. Art. 69, numeral 2 (página impresa 28, numeración «28/39»; página PDF 29).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+13. [Ley N.º 070 – TÍTULO III] ¿Cómo define el Artículo 70.1 el currículo regionalizado?
+A. Conjunto de normas administrativas de cada departamento, que sustituye al currículo base en las unidades educativas de su territorio.
+B. Conjunto de actividades extracurriculares definidas por cada unidad educativa, sin relación con el currículo base del sistema educativo, según la Ley 070.
+C. Conjunto de contenidos universales comunes a todo el país, que excluye las características del contexto sociocultural y lingüístico.
+D. Conjunto organizado de planes, programas, objetivos, contenidos y criterios que expresa la particularidad en armonía con el currículo base.
+Respuesta correcta: D
+Explicación: «El currículo regionalizado se refiere al conjunto organizado de planes y programas, objetivos, contenidos, criterios metodológicos y de evaluación en un determinado subsistema y nivel educativo, que expresa la particularidad y complementariedad en armonía con el currículo base del Sistema Educativo Plurinacional, considerando fundamentalmente las características del contexto sociocultural y lingüístico que hacen a su identidad».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo I: Organización curricular. Art. 70, numeral 1 (página impresa 28, numeración «28/39»; página PDF 29).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+14. [Ley N.º 070 – TÍTULO III] ¿Cómo define el Artículo 71 la administración y gestión de la educación?
+A. Como la instancia que planifica, organiza, dirige y controla los recursos del Sistema Educativo Plurinacional, con participación social.
+B. Como la instancia que diseña y aprueba el currículo base del Sistema Educativo Plurinacional, sin participación de los actores.
+C. Como la instancia que evalúa y acredita la calidad educativa de forma independiente, sin control sobre los recursos del sistema.
+D. Como la instancia que representa a madres y padres de familia, con atribuciones de control sobre el personal docente del sistema, conforme a la Ley.
+Respuesta correcta: A
+Explicación: «Es la instancia que planifica, organiza, dirige y controla los recursos del Sistema Educativo Plurinacional, con participación social».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 71 (página impresa 29, numeración «29/39»; página PDF 30).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+15. [Ley N.º 070 – TÍTULO III] ¿Qué son las instancias de apoyo técnico de recursos y servicios según el Artículo 84?
+A. Instancias de control disciplinario del personal docente, que sancionan el incumplimiento del currículo según su propio reglamento, según la normativa.
+B. Instancias de participación social comunitaria, que representan a las familias en la implementación del currículo de cada unidad.
+C. Instancias de financiamiento educativo, que asignan recursos del Tesoro a las unidades según su rendimiento en la evaluación.
+D. Instancias de apoyo técnico pedagógico al sistema para la adecuada implementación del currículo, según la reglamentación del Ministerio.
+Respuesta correcta: D
+Explicación: «Son las instancias de apoyo técnico pedagógico al Sistema Educativo Plurinacional, para la adecuada implementación del currículo educativo, en el marco de lo establecido en la reglamentación emanada del Ministerio de Educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo III: Apoyo técnico de recursos y servicios. Art. 84 (página impresa 33, numeración «33/39»; página PDF 34).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+16. [Ley N.º 070 – TÍTULO III] ¿Cómo define el Artículo 90 la Participación Social Comunitaria?
+A. Como la instancia de participación de actores sociales, comunitarios, madres y padres de familia con representación y legitimidad, vinculados al ámbito educativo.
+B. Como la instancia de dirección de las unidades educativas, integrada por madres y padres de familia con atribuciones sobre el personal docente del sistema, conforme a norma.
+C. Como la instancia de evaluación de la calidad educativa, integrada por especialistas independientes sin vínculo con los actores del ámbito educativo.
+D. Como la instancia de financiamiento de la educación, integrada por organizaciones sociales que administran los recursos de las unidades educativas.
+Respuesta correcta: A
+Explicación: «Es la instancia de participación de los actores sociales, actores comunitarios, madres y padres de familia con representación y legitimidad, vinculados al ámbito educativo. La participación social comunitaria comprende la estructura, mecanismos, composición y atribuciones dirigida al apoyo en el desarrollo de la educación, sujeta a reglamentación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 90 (página impresa 34, numeración «34/39»; página PDF 35).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+17. [Ley N.º 070 – TÍTULO III] Según el Artículo 89, ¿cómo se financia el Sistema Educativo Plurinacional?
+A. Por las familias, con aportes obligatorios fijados por cada unidad educativa, y de forma complementaria por el Tesoro del Estado.
+B. Por la cooperación internacional, con donaciones administradas por el Ministerio, sin participación de las entidades autónomas.
+C. Por el Estado, con recursos del Tesoro General del Estado y de las entidades territoriales autónomas, según el Presupuesto General.
+D. Por los gobiernos municipales de forma exclusiva, con recursos propios y sin aporte del Tesoro General del Estado Plurinacional.
+Respuesta correcta: C
+Explicación: «El Sistema Educativo Plurinacional será financiado por el Estado Plurinacional, a través de recursos del Tesoro General del Estado y de las entidades territoriales autónomas, según corresponda y acorde a la Ley del Presupuesto General del Estado, en concordancia con el Artículo 77 de la Constitución Política del Estado».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo III: Apoyo técnico de recursos y servicios. Art. 89 (página impresa 34, numeración «34/39»; página PDF 35).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+18. [Ley N.º 070 – TÍTULO III] Según el Artículo 75, ¿con qué criterios se crean los mecanismos de la gestión educativa?
+A. Área geográfica, piso ecológico, sociocultural, territorial, histórico y lingüístico, respondiendo a las necesidades de cada contexto.
+B. Densidad poblacional, rendimiento académico, capacidad económica y disponibilidad presupuestaria de cada gobierno municipal.
+C. Criterios uniformes para todo el país, definidos por el Ministerio sin considerar las particularidades de cada contexto regional, según la ley vigente.
+D. Área geográfica y afinidad política de las autoridades locales, respondiendo a los acuerdos entre los gobiernos autónomos.
+Respuesta correcta: A
+Explicación: «Los mecanismos de la gestión educativa se crean considerando los criterios de área geográfica, piso ecológico, sociocultural, territorial, histórico y lingüístico, respondiendo a las necesidades de cada contexto».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 75 (página impresa 30, numeración «30/39»; página PDF 31).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+19. [Ley N.º 070 – TÍTULO III] ¿Qué establece el Artículo 72 respecto a la tuición sobre la administración y gestión del Sistema Educativo Plurinacional?
+A. El Estado la ejerce a través de los gobiernos departamentales, y las Universidades Públicas se someten al Ministerio de Educación.
+B. La ejercen de forma compartida las juntas escolares y el Ministerio, incluidas las Universidades Públicas Autónomas del país.
+C. El Estado la ejerce a través del Ministerio de Educación, y las Universidades Públicas Autónomas se amparan en la Constitución.
+D. La ejercen las Direcciones Distritales de manera autónoma, y las Universidades Públicas se amparan en sus propios estatutos.
+Respuesta correcta: C
+Explicación: «I. El Estado Plurinacional, a través del Ministerio de Educación, ejerce tuición sobre la administración y gestión del Sistema Educativo Plurinacional. II. Las Universidades Públicas Autónomas se encuentran amparadas por lo establecido en la Constitución Política del Estado».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 72 (página impresa 29, numeración «29/39»; página PDF 30).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+20. [Ley N.º 070 – TÍTULO III] Según el Artículo 69.4, ¿de dónde emergen los principios y objetivos de la organización curricular y dónde se establecen?
+A. Emergen de las necesidades de la vida y del aprendizaje de personas y colectividad, y se establecen en el currículo base plurinacional.
+B. Emergen de los estándares de evaluación internacionales, y se establecen en el reglamento interno de cada unidad educativa del país, por mandato legal.
+C. Emergen de las demandas del mercado laboral, y se establecen en los planes operativos anuales de las Direcciones Distritales.
+D. Emergen de las decisiones de cada maestra y maestro, y se establecen en los currículos regionalizados sin relación con el base.
+Respuesta correcta: A
+Explicación: «Los principios y objetivos de la organización curricular emergen de las necesidades de la vida y del aprendizaje de las personas y de la colectividad, serán establecidos en el currículo base plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo I: Organización curricular. Art. 69, numeral 4 (página impresa 28, numeración «28/39»; página PDF 29).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+21. [Ley N.º 070 – TÍTULO III] Según el Artículo 78.5, ¿de quién dependen las Direcciones de Unidad Educativa y de qué son responsables?
+A. Dependen de las juntas escolares y son responsables de la gestión financiera y de la contratación del personal de la Unidad Educativa.
+B. Dependen de las Direcciones de Núcleo y son responsables de la gestión educativa y administración curricular de la Unidad Educativa.
+C. Dependen del gobierno municipal y son responsables de la infraestructura, el mobiliario y los servicios básicos de la Unidad Educativa.
+D. Dependen directamente del Ministerio y son responsables del diseño del currículo base y de la evaluación de calidad de su Unidad.
+Respuesta correcta: B
+Explicación: «Direcciones de Unidad Educativa, dependiente de las Direcciones de Núcleo, responsables de la gestión educativa y administración curricular en la Unidad Educativa correspondiente, de acuerdo a sus funciones y competencias definidas por la normatividad».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 78, numeral 5 (página impresa 31, numeración «31/39»; página PDF 32).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+22. [Ley N.º 070 – TÍTULO III] Según el Artículo 79.3, ¿quién designa a las y los Directores de Unidades Educativas y por qué procedimiento?
+A. Las juntas escolares de cada unidad, como resultado de una elección entre madres y padres de familia, conforme a su reglamento interno, según la norma.
+B. Las y los Directores Departamentales, por libre nombramiento y sin concurso, conforme a la confianza institucional del Ministerio.
+C. El gobierno municipal, como resultado de una convocatoria pública abierta, conforme a las normas de contratación de personal municipal.
+D. Las y los Directores Distritales, como resultado de concurso de méritos y examen de competencia, conforme al escalafón y la reglamentación.
+Respuesta correcta: D
+Explicación: «Las y los Directores de Núcleo y Unidades Educativas serán designados por las y los Directores Distritales de Educación, como resultado de concurso de méritos y examen de competencia en el marco del reglamento del escalafón y la reglamentación respectiva emanada del Ministerio de Educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 79, numeral 3 (página impresa 31, numeración «31/39»; página PDF 32).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+23. [Ley N.º 070 – TÍTULO III] Según el Artículo 85.2, ¿con qué tipo de personal debe potenciarse la capacidad técnica del sistema educativo?
+A. Con personal administrativo de cualquier nivel, sin requisitos de conocimiento de la realidad sociocultural del Estado Plurinacional.
+B. Con consultores extranjeros especializados, priorizando su experiencia internacional sobre el conocimiento de la realidad del país.
+C. Con personal docente con mayor antigüedad, sin considerar su nivel profesional ni su compromiso con la realidad sociocultural.
+D. Con personal de óptimo nivel profesional, con conocimiento y compromiso de la realidad sociocultural del Estado Plurinacional.
+Respuesta correcta: D
+Explicación: «Potenciar la capacidad técnica del sistema educativo con personal de óptimo nivel profesional, con conocimiento y compromiso de la realidad sociocultural del Estado Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo III: Apoyo técnico de recursos y servicios. Art. 85, numeral 2 (página impresa 33, numeración «33/39»; página PDF 34).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+24. [Ley N.º 070 – TÍTULO III] Según el Artículo 78.4, ¿de quién dependen las Direcciones de Núcleo y cuál es su ámbito de responsabilidad?
+A. Dependen de las Direcciones Distritales y son responsables de la gestión educativa y administración curricular en su Núcleo Educativo.
+B. Dependen de las Direcciones de Unidad Educativa y son responsables de la administración de los recursos financieros del distrito.
+C. Dependen de las Direcciones Departamentales y son responsables de la designación de los directores de Unidades Educativas.
+D. Dependen de los gobiernos municipales y son responsables de la dotación de infraestructura y mobiliario a las Unidades Educativas, según la Ley 070.
+Respuesta correcta: A
+Explicación: «Direcciones de Núcleo, dependiente de las Direcciones Distritales, responsables de la gestión educativa y administración curricular en el ámbito de su Núcleo Educativo, de acuerdo a sus funciones y competencias definidas por la normatividad».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 78, numeral 4 (página impresa 31, numeración «31/39»; página PDF 32).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+25. [Ley N.º 070 – TÍTULO III] Según el Artículo 74.1, ¿cuál es el primer objetivo de la administración y gestión del sistema educativo?
+A. Lograr una adecuada y transparente gestión y administración del Sistema Educativo Plurinacional.
+B. Lograr una gestión reservada y discrecional de los recursos del Sistema Educativo Plurinacional.
+C. Lograr la máxima recaudación de recursos propios de cada unidad del Sistema Educativo Plurinacional.
+D. Lograr la centralización plena de todas las decisiones del Sistema Educativo Plurinacional en el Ministerio.
+Respuesta correcta: A
+Explicación: «Lograr una adecuada y transparente gestión y administración del Sistema Educativo Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 74, numeral 1 (página impresa 29, numeración «29/39»; página PDF 30).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+26. [Ley N.º 070 – TÍTULO III] Según el Artículo 85.1, ¿a quiénes debe brindar apoyo técnico oportuno y de calidad el apoyo técnico de recursos y servicios?
+A. Solo a las madres y padres de familia que integran los consejos educativos social comunitarios de cada unidad educativa.
+B. Solo a las universidades públicas autónomas, en la implementación de sus programas de formación de pregrado y posgrado.
+C. A las empresas privadas que proveen materiales educativos, para la adecuación de sus productos al currículo del sistema.
+D. A las autoridades administrativas y al personal docente del sistema educativo, de la jerarquía y la función directiva.
+Respuesta correcta: D
+Explicación: «Brindar apoyo técnico oportuno y de calidad a las autoridades administrativas y personal docente del sistema educativo, de la jerarquía y la función directiva».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo III: Apoyo técnico de recursos y servicios. Art. 85, numeral 1 (página impresa 33, numeración «33/39»; página PDF 34).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+27. [Ley N.º 070 – TÍTULO III] Según el Artículo 92.4, ¿en qué niveles existen Consejos Educativos Social Comunitarios y cómo participan?
+A. Solo a nivel nacional; participan en la designación de las autoridades educativas departamentales y distritales del sistema educativo.
+B. A nivel Departamental, Regional, Distrital, de Núcleo y Unidades Educativas; participan en la gestión según su ámbito de competencia.
+C. Solo a nivel de Unidades Educativas; participan en la evaluación del desempeño docente y en la contratación del personal de la unidad.
+D. A nivel Departamental y Municipal; participan en la aprobación del presupuesto del Ministerio de Educación según la normativa vigente.
+Respuesta correcta: B
+Explicación: «Consejos Educativos Social Comunitarios, a nivel Departamental, Regional, Distrital, de Núcleo y Unidades Educativas: Participan en la gestión educativa, de acuerdo a su ámbito de competencia, en correspondencia con las políticas educativas plurinacionales y reglamentación específica».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 92, numeral 4 (página impresa 36; página PDF 37).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+28. [Ley N.º 070 – TÍTULO III] Según el Artículo 91.2, ¿qué aspectos comprende el respeto a las atribuciones, roles y responsabilidades educativas específicas?
+A. Los aspectos financiero-contable, político-partidario, sindical-gremial y de la gestión municipal de los recursos.
+B. Los aspectos disciplinario-sancionador, técnico-docente, deportivo-recreativo y de la evaluación externa de calidad, conforme a norma.
+C. Los aspectos administrativo-jerárquico, técnico-docente, educativo-estudiantil y de la participación social comunitaria.
+D. Los aspectos administrativo-jerárquico, religioso-espiritual, económico-productivo y de la representación política.
+Respuesta correcta: C
+Explicación: «Garantizar el respeto a las atribuciones, roles y responsabilidades educativas específicas, establecidas en las normas y reglamentaciones del Sistema Educativo Plurinacional, en lo concerniente a los aspectos administrativo-jerárquico, técnico-docente, educativo-estudiantil y de la participación social comunitaria».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 91, numeral 2 (página impresa 35; página PDF 36).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+29. [Ley N.º 070 – TÍTULO III] Según el Artículo 80.2.a, ¿qué responsabilidades tienen los gobiernos municipales respecto a las Unidades Educativas de su jurisdicción?
+A. Dotar, financiar y garantizar servicios básicos, infraestructura, mobiliario, material educativo y equipamiento de las Unidades Educativas.
+B. Designar a los directores, aprobar el currículo regionalizado y evaluar el desempeño del personal docente de las Unidades Educativas.
+C. Pagar los salarios del personal docente y administrativo, y aprobar el calendario escolar de las Unidades Educativas de su jurisdicción.
+D. Otorgar el Diploma de Bachiller y certificar las competencias laborales de los estudiantes de las Unidades Educativas de su jurisdicción.
+Respuesta correcta: A
+Explicación: «Gobiernos Municipales: a) Responsables de dotar, financiar y garantizar los servicios básicos, infraestructura, mobiliario, material educativo y equipamiento de las Unidades Educativas de Educación Regular, Educación Alternativa y Especial, así como de las Direcciones Distritales y de Núcleo, en su jurisdicción».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 80, numeral 2, inciso a) (página impresa 32; página PDF 33).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+30. [Ley N.º 070 – TÍTULO III] Según el Artículo 73.1, ¿qué debe respetarse al aplicar el principio de participación, democracia y comunitarismo en la gestión educativa?
+A. Las decisiones de la mayoría de las familias de cada unidad.
+B. Los roles específicos de los distintos actores de la educación.
+C. La jerarquía exclusiva de las autoridades del nivel central.
+D. Los acuerdos sindicales sobre la gestión de cada unidad.
+Respuesta correcta: B
+Explicación: «Participación, democracia y comunitarismo en todo el Sistema Educativo Plurinacional, respetando los roles específicos de los distintos actores de la educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 73, numeral 1 (página impresa 29, numeración «29/39»; página PDF 30).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+31. [Ley N.º 070 – TÍTULO III] ¿Qué responsabilidad asigna el Artículo 69.3 al Ministerio de Educación respecto al currículo?
+A. Diseñar, aprobar e implementar el currículo base con participación de los actores, y apoyar los regionalizados en coordinación con las NPIOC.
+B. Diseñar y aprobar los currículos regionalizados de forma exclusiva, sin coordinación con las naciones y pueblos indígenas del país, según lo establecido.
+C. Delegar el diseño del currículo base a cada unidad educativa, limitándose a registrar los currículos que estas aprueben anualmente.
+D. Aprobar el currículo base sin participación de los actores educativos, y prohibir la formulación de currículos regionalizados.
+Respuesta correcta: A
+Explicación: «Es responsabilidad del Ministerio de Educación diseñar, aprobar e implementar el currículo base con participación de los actores educativos, así como apoyar la formulación y aprobación de los currículos regionalizados, en coordinación con las naciones y pueblos indígena originario campesinos, preservando su armonía y complementariedad con el currículo base plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo I: Organización curricular. Art. 69, numeral 3 (página impresa 28, numeración «28/39»; página PDF 29).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+32. [Ley N.º 070 – TÍTULO III] Según el Artículo 70, ¿qué tipo de competencia es la gestión del currículo regionalizado?
+A. Una competencia exclusiva de las entidades territoriales autónomas, sin intervención del nivel central.
+B. Una competencia privativa del nivel central del Estado, sin participación de las entidades autónomas.
+C. Una competencia concurrente entre el nivel central del Estado y las entidades territoriales autónomas.
+D. Una competencia exclusiva de las unidades educativas, sin intervención de los niveles de gobierno.
+Respuesta correcta: C
+Explicación: «La gestión del currículo regionalizado es una competencia concurrente entre el nivel central del Estado y las entidades territoriales autónomas».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo I: Organización curricular. Art. 70, numeral 3 (página impresa 29; página PDF 30).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+33. [Ley N.º 070 – TÍTULO III] ¿Cómo se interpreta el principio de horizontalidad del Artículo 73.2?
+A. Como ausencia de normas y atribuciones, de modo que cualquier actor puede decidir sobre cualquier ámbito del sistema educativo.
+B. Como verticalidad en la toma de decisiones, de modo que solo el nivel central decide sobre todos los ámbitos del sistema educativo, conforme a la norma.
+C. Como igualdad de remuneración entre todos los actores, sin relación con la toma de decisiones en los niveles del sistema educativo.
+D. Como horizontalidad en la toma de decisiones dentro del marco de las normas y atribuciones fijadas para cada nivel y ámbito del sistema.
+Respuesta correcta: D
+Explicación: «Horizontalidad en la toma de decisiones en el marco de las normas y atribuciones fijadas para cada nivel y ámbito del Sistema Educativo Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 73, numeral 2 (página impresa 29, numeración «29/39»; página PDF 30).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+34. [Ley N.º 070 – TÍTULO III] ¿Qué implica que la gestión educativa sea «equitativa y complementaria», según el Artículo 73.3?
+A. Distribuir los recursos en partes iguales entre todas las unidades, sin considerar las asimetrías entre campo y ciudad.
+B. Priorizar a las unidades urbanas del centro, por concentrar la mayor cantidad de estudiantes del sistema educativo.
+C. Superar asimetrías y enfoques homogeneizadores entre campo y ciudad, centro y periferia, y entre las diferentes culturas.
+D. Aplicar un mismo modelo de gestión a todas las culturas, para garantizar la homogeneidad del sistema educativo.
+Respuesta correcta: C
+Explicación: «Equitativa y complementaria, entre el campo y la ciudad, entre el centro y la periferia, entre las diferentes culturas, superando todo tipo de asimetrías y enfoques homogeneizadores, en congruencia con la gestión organizativa de las comunidades de diferentes culturas».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 73, numeral 3 (página impresa 29, numeración «29/39»; página PDF 30).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+35. [Ley N.º 070 – TÍTULO III] Según el Artículo 74.4, ¿cómo debe garantizarse la provisión de recursos financieros, personal, infraestructura y materiales?
+A. De manera idéntica para todas las regiones, sin considerar sus necesidades ni las competencias de las entidades autónomas.
+B. De acuerdo al rendimiento académico de cada región, como incentivo para las unidades con mejores resultados del sistema.
+C. De acuerdo a la capacidad de pago de las familias de cada región, con aportes complementarios del Tesoro General del Estado.
+D. De acuerdo a las necesidades de cada región y a las competencias concurrentes de las entidades territoriales autónomas.
+Respuesta correcta: D
+Explicación: «Garantizar la provisión de recursos financieros, personal cualificado, infraestructura y materiales de acuerdo a las necesidades de cada región y de acuerdo a las competencias concurrentes de las entidades territoriales autónomas».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 74, numeral 4 (página impresa 30; página PDF 31).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+36. [Ley N.º 070 – TÍTULO III] ¿Qué naturaleza y responsabilidades atribuye el Artículo 78.1 a las Direcciones Departamentales de Educación?
+A. Son entidades autónomas de los gobiernos departamentales, responsables de diseñar el currículo base y de financiar la infraestructura escolar, según la ley vigente.
+B. Son entidades desconcentradas de los municipios, responsables de designar a los directores de unidad y de aprobar los presupuestos locales.
+C. Son entidades descentralizadas del Ministerio, responsables de implementar políticas educativas, administración curricular y recursos en el departamento.
+D. Son instancias de participación social comunitaria, responsables de evaluar la calidad educativa y de convocar al Congreso Plurinacional.
+Respuesta correcta: C
+Explicación: «Direcciones Departamentales de Educación - DDE, entidades descentralizadas del Ministerio de Educación, responsables de la implementación de las políticas educativas y de administración curricular en el departamento, así como la administración y gestión de los recursos en el ámbito de su jurisdicción, funciones y competencias establecidas en la normatividad».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 78, numeral 1 (página impresa 30, numeración «30/39»; página PDF 31).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+37. [Ley N.º 070 – TÍTULO III] Según el Artículo 86, ¿cómo se define la estructura del Apoyo Técnico de Recursos y Servicios?
+A. De acuerdo a las necesidades del sistema, mediante equipos multidisciplinarios de fortalecimiento, regulados por reglamento específico.
+B. De manera uniforme en todo el país, mediante un único equipo nacional, sin regulación por reglamento específico del Ministerio, en el marco legal.
+C. De acuerdo a las preferencias de cada unidad educativa, mediante consultores contratados por las juntas escolares del lugar.
+D. De acuerdo al presupuesto municipal, mediante personal administrativo de las alcaldías, sin equipos multidisciplinarios.
+Respuesta correcta: A
+Explicación: «La estructura de Apoyo Técnico de Recursos y Servicios, se definirá de acuerdo a las necesidades del Sistema Educativo Plurinacional en sus diferentes modalidades y niveles, a través de la constitución de equipos multidisciplinarios de fortalecimiento a los espacios educativos, se regulará mediante reglamento específico».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo III: Apoyo técnico de recursos y servicios. Art. 86 (página impresa 34, numeración «34/39»; página PDF 35).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+38. [Ley N.º 070 – TÍTULO III] ¿Qué características y funciones asigna el Artículo 83 al Observatorio Plurinacional de la Calidad Educativa?
+A. Es dependiente del Viceministerio y sujeto a sus instrucciones, y evalúa solo a las universidades públicas autónomas y a las privadas del país.
+B. Es privado y financiado por las familias, y realiza la designación de directores de unidad según los resultados de sus evaluaciones anuales.
+C. Es descentralizado, técnico e independiente en sus evaluaciones, y realiza seguimiento, medición, evaluación y acreditación en Regular, Alternativo y Especial.
+D. Es descentralizado pero subordinado a las Direcciones Departamentales, y evalúa solo el Subsistema Regular en las ciudades capitales.
+Respuesta correcta: C
+Explicación: «1. Se crea el Observatorio Plurinacional de la Calidad Educativa, institución pública descentralizada, técnica, especializada, independiente en cuanto al proceso y resultados de sus evaluaciones […]. 2. […] estará encargado de realizar el seguimiento, medición, evaluación y acreditación de la calidad educativa del sistema educativo en los subsistemas Regular, Alternativo y Especial».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 83, numerales 1 y 2 (página impresa 33, numeración «33/39»; página PDF 34).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+39. [Ley N.º 070 – TÍTULO III] ¿Qué procesos desarrollará el Instituto Plurinacional de Estudio de Lenguas y Culturas según el Artículo 88.1?
+A. Procesos de certificación de lenguas extranjeras.
+B. Procesos de evaluación del desempeño docente.
+C. Procesos de acreditación de unidades educativas.
+D. Procesos de investigación lingüística y cultural.
+Respuesta correcta: D
+Explicación: «Se crea el Instituto Plurinacional de Estudio de Lenguas y Culturas como entidad descentralizada del Ministerio de Educación, que desarrollará procesos de investigación lingüística y cultural».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo III: Apoyo técnico de recursos y servicios. Art. 88, numeral 1 (página impresa 34, numeración «34/39»; página PDF 35).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+40. [Ley N.º 070 – TÍTULO III] ¿Cómo se interpreta el objetivo de la Participación Social Comunitaria del Artículo 91.1?
+A. Participar en la formulación y lineamientos de políticas educativas para contribuir a la calidad, en el marco de la corresponsabilidad de todos los actores.
+B. Sustituir a las autoridades educativas en la formulación de políticas, asumiendo la responsabilidad exclusiva por la calidad de la educación.
+C. Limitar la participación a actividades festivas y de apoyo logístico, sin intervención en la formulación de políticas educativas del sistema.
+D. Participar solo en la evaluación de resultados, sin intervención en la formulación de políticas ni corresponsabilidad por la calidad.
+Respuesta correcta: A
+Explicación: «Participar en la formulación y lineamientos de políticas educativas en todo el Sistema Educativo Plurinacional, para contribuir a la calidad de la educación, en el marco de la corresponsabilidad de todas y todos los actores educativos».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 91, numeral 1 (página impresa 34; página PDF 35).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+41. [Ley N.º 070 – TÍTULO III] ¿Qué diferencia establece el Artículo 80 entre las responsabilidades de los gobiernos departamentales y municipales en infraestructura y equipamiento?
+A. Los departamentales atienden a los Institutos Técnicos y Tecnológicos; los municipales, a las Unidades Educativas y Direcciones Distritales y de Núcleo.
+B. Los departamentales atienden a las Unidades Educativas y Direcciones Distritales; los municipales, a los Institutos Técnicos y Tecnológicos, según la reglamentación.
+C. Los departamentales atienden a las universidades públicas; los municipales, a las Escuelas Superiores de Formación de Maestras y Maestros.
+D. Ambos atienden por igual a todas las instituciones educativas de su jurisdicción, sin distinción de subsistema ni de tipo de institución.
+Respuesta correcta: A
+Explicación: «1. Gobiernos Departamentales: a) Responsables de dotar, financiar y garantizar los servicios básicos, infraestructura, mobiliario, material educativo y equipamiento a los Institutos Técnicos y Tecnológicos en su jurisdicción. […] 2. Gobiernos Municipales: a) Responsables de dotar, financiar y garantizar […] de las Unidades Educativas de Educación Regular, Educación Alternativa y Especial, así como de las Direcciones Distritales y de Núcleo, en su jurisdicción».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 80, numerales 1 y 2 (páginas impresas 31-32; páginas PDF 32-33).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+42. [Ley N.º 070 – TÍTULO III] ¿Qué distingue al Congreso Plurinacional de Educación del Consejo Educativo Plurinacional?
+A. El Consejo es la instancia máxima que define lineamientos de política; el Congreso propone proyectos de políticas y evalúa el cumplimiento de las conclusiones del Consejo.
+B. El Congreso evalúa la calidad educativa de las unidades; el Consejo designa a las autoridades departamentales y distritales mediante concurso de méritos.
+C. El Congreso se convoca cada año por las Direcciones Departamentales; el Consejo se reúne cada cinco años por convocatoria de la Asamblea Legislativa.
+D. El Congreso es la instancia máxima que define lineamientos de política; el Consejo propone proyectos de políticas y evalúa el cumplimiento de las conclusiones del Congreso.
+Respuesta correcta: D
+Explicación: «1. Congreso Plurinacional de Educación: Es la instancia máxima de participación de todos los sectores de la sociedad, para la formulación y definición de lineamientos de la política plurinacional de educación […]. 2. Consejo Educativo Plurinacional: Propone proyectos de políticas educativas integrales de consenso y evalúa el cumplimiento de las conclusiones del Congreso Plurinacional de Educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 92, numerales 1 y 2 (página impresa 35; página PDF 36).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+43. [Ley N.º 070 – TÍTULO III] ¿Qué diferencia existe en la designación de Directores Departamentales y de Directores Distritales según el Artículo 79?
+A. Los Departamentales son designados por los gobiernos departamentales; los Distritales, por los municipios, ambos por libre elección.
+B. Los Departamentales son designados por los Directores Distritales; los Distritales, por el Ministerio de Educación, ambos por concurso, por mandato legal.
+C. Ambos son designados por el Ministerio de Educación, sin concurso de méritos ni examen de competencia, por ser cargos de confianza.
+D. Los Departamentales son designados por el Ministerio de Educación; los Distritales, por los Directores Departamentales, ambos por concurso.
+Respuesta correcta: D
+Explicación: «1. Las y los Directores y Subdirectores Departamentales serán designados por el Ministerio de Educación, como resultado de concurso de méritos y examen de competencia […]. 2. Las y los Directores Distritales de Educación serán designados por las y los Directores Departamentales de Educación, como resultado de concurso de méritos y examen de competencia […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 79, numerales 1 y 2 (página impresa 31, numeración «31/39»; página PDF 32).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+44. [Ley N.º 070 – TÍTULO III] ¿Qué diferencia de naturaleza institucional establece la Ley entre las Direcciones Departamentales de Educación y las Entidades Desconcentradas del Nivel Central?
+A. Las Direcciones Departamentales son de directa dependencia municipal; las Entidades Desconcentradas son entidades autónomas departamentales, conforme a la normativa.
+B. Las Direcciones Departamentales son entidades descentralizadas del Ministerio; las Entidades Desconcentradas son de directa dependencia del Ministerio.
+C. Las Direcciones Departamentales son entidades desconcentradas del Ministerio; las Entidades Desconcentradas son entidades descentralizadas.
+D. Ambas son instancias de participación social comunitaria, sin dependencia del Ministerio de Educación ni del nivel central del Estado.
+Respuesta correcta: B
+Explicación: Art. 77.2: «Entidades Desconcentradas, de directa dependencia del Ministerio de Educación». Art. 78.1: «Direcciones Departamentales de Educación - DDE, entidades descentralizadas del Ministerio de Educación […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 77, numeral 2 y Art. 78, numeral 1 (página impresa 30; página PDF 31).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+45. [Ley N.º 070 – TÍTULO III] ¿Qué distingue al Observatorio Plurinacional de la Calidad Educativa del Instituto de Investigaciones Educativas Plurinacional?
+A. El Observatorio diseña estrategias de apoyo a las políticas de transformación; el Instituto evalúa y acredita la calidad educativa del sistema.
+B. El Observatorio evalúa y acredita la calidad educativa; el Instituto diseña y desarrolla estrategias de apoyo a las políticas de transformación del sistema.
+C. El Observatorio investiga las lenguas y culturas de cada pueblo; el Instituto certifica las competencias laborales y artísticas de la población, según la norma.
+D. El Observatorio depende de las universidades públicas; el Instituto depende de las Direcciones Departamentales y evalúa a los directores.
+Respuesta correcta: B
+Explicación: Art. 83.2: «El Observatorio Plurinacional de la Calidad Educativa estará encargado de realizar el seguimiento, medición, evaluación y acreditación de la calidad educativa […]». Art. 87: «Se crea el Instituto de Investigaciones Educativas Plurinacional dependiente del Ministerio de Educación, para diseñar y desarrollar estrategias de apoyo a las políticas de transformación del Sistema Educativo Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 83, numeral 2 (página impresa 33; página PDF 34) y Art. 87 (página impresa 34; página PDF 35).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+46. [Ley N.º 070 – TÍTULO III] ¿Qué diferencia existe entre los Consejos Consultivos del Ministerio de Educación y los Consejos Educativos Social Comunitarios?
+A. Los Consultivos participan en la gestión de cada unidad educativa; los Social Comunitarios son instancias de consulta y coordinación del Ministerio con los actores.
+B. Los Consultivos definen los lineamientos de la política plurinacional cada cinco años; los Social Comunitarios designan a los directores de unidad educativa.
+C. Los Consultivos son instancias de consulta y coordinación del Ministerio con los actores; los Social Comunitarios participan en la gestión educativa según su ámbito.
+D. Los Consultivos evalúan la calidad educativa con independencia; los Social Comunitarios aprueban el currículo base del Sistema Educativo Plurinacional.
+Respuesta correcta: C
+Explicación: «4. Consejos Educativos Social Comunitarios, a nivel Departamental, Regional, Distrital, de Núcleo y Unidades Educativas: Participan en la gestión educativa, de acuerdo a su ámbito de competencia […]. 5. Consejos Consultivos del Ministerio de Educación: Instancias de consulta y coordinación del Ministerio de Educación con los actores educativos, sociales e institucionales».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 92, numerales 4 y 5 (página impresa 36; página PDF 37).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+47. [Ley N.º 070 – TÍTULO III] ¿Qué diferencia existe entre el ámbito de responsabilidad de las Direcciones Distritales y el de las Direcciones de Núcleo?
+A. Las Distritales gestionan en su Núcleo Educativo y dependen de las de Núcleo; las de Núcleo, en el distrito y dependen de las Departamentales.
+B. Las Distritales gestionan los Institutos Técnicos del departamento; las de Núcleo, las universidades públicas de su jurisdicción territorial.
+C. Las Distritales y las de Núcleo dependen directamente del Ministerio y tienen el mismo ámbito territorial, sin relación de dependencia entre ellas.
+D. Las Distritales gestionan en el ámbito de su jurisdicción y dependen de las Departamentales; las de Núcleo, en su Núcleo Educativo y dependen de las Distritales.
+Respuesta correcta: D
+Explicación: «3. Direcciones Distritales Educativas, dependientes de las Direcciones Departamentales, responsables de la gestión educativa y administración curricular en el ámbito de su jurisdicción […]. 4. Direcciones de Núcleo, dependiente de las Direcciones Distritales, responsables de la gestión educativa y administración curricular en el ámbito de su Núcleo Educativo […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 78, numerales 3 y 4 (página impresa 31, numeración «31/39»; página PDF 32).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+48. [Ley N.º 070 – TÍTULO III] ¿Qué distingue al apoyo técnico de recursos y servicios de la administración y gestión de la educación?
+A. El apoyo técnico planifica, organiza, dirige y controla los recursos; la administración y gestión brinda soporte pedagógico para el currículo.
+B. El apoyo técnico designa a los directores de unidad; la administración y gestión evalúa con independencia la calidad educativa del sistema.
+C. El apoyo técnico brinda soporte pedagógico para implementar el currículo; la administración y gestión planifica, organiza, dirige y controla los recursos.
+D. El apoyo técnico representa a las familias en la gestión; la administración y gestión define los lineamientos de política cada cinco años.
+Respuesta correcta: C
+Explicación: Art. 84: «Son las instancias de apoyo técnico pedagógico al Sistema Educativo Plurinacional, para la adecuada implementación del currículo educativo […]». Art. 71: «Es la instancia que planifica, organiza, dirige y controla los recursos del Sistema Educativo Plurinacional, con participación social».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo III: Apoyo técnico de recursos y servicios. Art. 84 (página impresa 33; página PDF 34) y Art. 71 (página impresa 29; página PDF 30).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+49. [Ley N.º 070 – TÍTULO III] ¿Qué distingue a los Consejos Educativos de naciones y pueblos indígena originario campesinos de los Consejos Educativos Social Comunitarios?
+A. Los de NPIOC participan solo en la gestión de unidades educativas rurales; los Social Comunitarios formulan las políticas nacionales mediante sus organizaciones matrices, según la normativa.
+B. Los de NPIOC participan, mediante sus organizaciones matrices, en la formulación de políticas y gestión desde lo nacional; los Social Comunitarios, en la gestión según su ámbito.
+C. Los de NPIOC designan a los directores de unidad en territorios indígenas; los Social Comunitarios evalúan la calidad educativa con independencia técnica del Ministerio.
+D. Los de NPIOC son instancias de consulta del Ministerio sin participación en la gestión; los Social Comunitarios convocan al Congreso Plurinacional de Educación.
+Respuesta correcta: B
+Explicación: «3. Consejos Educativos de naciones y pueblos indígena originario campesinos: Las naciones y pueblos indígena originario campesinos en el marco de su estructura organizativa a través de sus organizaciones matrices […] participan en la formulación de políticas y gestión educativas […]. 4. Consejos Educativos Social Comunitarios […]: Participan en la gestión educativa, de acuerdo a su ámbito de competencia […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 92, numerales 3 y 4 (páginas impresas 35-36; páginas PDF 36-37).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+50. [Ley N.º 070 – TÍTULO III] ¿Qué diferencia existe entre el objetivo de la administración del Artículo 74.2 y el de la participación social comunitaria del Artículo 91.6?
+A. La participación social planifica, organiza, ejecuta y dirige la gestión; la administración solo participa en el control, respetando las atribuciones de las familias, según la reglamentación.
+B. La administración se limita a la evaluación de resultados; la participación social ejecuta y dirige la gestión en todos los subsistemas, niveles y modalidades.
+C. La administración planifica, organiza, ejecuta, dirige y evalúa la gestión; la participación social participa en la planificación, control y evaluación, respetando atribuciones.
+D. Ambas tienen idéntico objetivo de ejecución directa de la gestión, sin delimitación de atribuciones entre las autoridades y los actores sociales.
+Respuesta correcta: C
+Explicación: Art. 74.2: «Planificar, organizar, ejecutar, dirigir y evaluar la administración y gestión en todos los subsistemas, niveles y modalidades, con participación social». Art. 91.6: «Participar en la planificación, control, seguimiento y evaluación del proceso educativo, respetando las atribuciones específicas de los actores educativos y la delimitación territorial y geográfica de la Participación Social Comunitaria».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 74, numeral 2 (página impresa 30; página PDF 31) y Art. 91, numeral 6 (página impresa 35; página PDF 36).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+51. [Ley N.º 070 – TÍTULO III] El consejo educativo de una unidad decide por votación cambiar la metodología de enseñanza de una maestra y asignarle otro curso. ¿Qué análisis es correcto?
+A. Excede su rol: la participación social debe respetar las atribuciones técnico-docentes y administrativo-jerárquicas establecidas en las normas.
+B. Es válido: la participación social comunitaria tiene atribuciones plenas sobre la metodología y la asignación de cursos del personal docente.
+C. Es válido si la decisión se aprueba por mayoría absoluta, pues la votación de las familias sustituye a las atribuciones de las autoridades.
+D. Excede su rol solo en la asignación de cursos, pues la definición de la metodología de enseñanza corresponde a las madres y los padres.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Garantizar el respeto a las atribuciones, roles y responsabilidades educativas específicas, establecidas en las normas y reglamentaciones del Sistema Educativo Plurinacional, en lo concerniente a los aspectos administrativo-jerárquico, técnico-docente, educativo-estudiantil y de la participación social comunitaria». Aplicación razonada: la metodología y la asignación de cursos corresponden a los ámbitos técnico-docente y administrativo-jerárquico, no a la participación social.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 91, numeral 2 (página impresa 35; página PDF 36).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+52. [Ley N.º 070 – TÍTULO III] Se designa a una directora de unidad educativa de manera indefinida, sin plazo, alegando que así se garantiza la estabilidad de la gestión. ¿Qué análisis corresponde?
+A. Es coherente con la Ley: las designaciones de directores son vitalicias una vez superado el concurso de méritos, según lo establecido.
+B. Es contrario a la Ley: las designaciones de directores son de carácter periódico, sobre la base de reglamento específico.
+C. Es coherente si la designación la realiza la Dirección Departamental, pues ella puede fijar plazos indefinidos.
+D. Es contrario a la Ley solo si la directora no aprobó el examen de competencia en el concurso de méritos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Las designaciones serán de carácter periódico sobre la base de reglamento específico». Aplicación razonada: una designación indefinida contradice el carácter periódico que exige el Artículo 79.4.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 79, numeral 4 (página impresa 31, numeración «31/39»; página PDF 32).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+53. [Ley N.º 070 – TÍTULO III] Un gobierno municipal se niega a reparar los servicios básicos de una unidad educativa regular, alegando que es responsabilidad del Ministerio de Educación. ¿Qué análisis es correcto?
+A. Es correcto: los servicios básicos de las Unidades Educativas son responsabilidad exclusiva del Ministerio de Educación a través de las Direcciones, conforme a la norma.
+B. Es correcto si la unidad es de Educación Regular, pues el municipio solo atiende a las unidades de Educación Alternativa y Especial del lugar.
+C. Es errado: los gobiernos municipales son responsables de dotar, financiar y garantizar los servicios básicos de las Unidades Educativas de su jurisdicción.
+D. Es errado solo si la unidad es rural, pues en el área urbana los servicios básicos de las unidades corresponden al gobierno departamental.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Gobiernos Municipales: a) Responsables de dotar, financiar y garantizar los servicios básicos, infraestructura, mobiliario, material educativo y equipamiento de las Unidades Educativas de Educación Regular, Educación Alternativa y Especial, así como de las Direcciones Distritales y de Núcleo, en su jurisdicción». Aplicación razonada: la Ley asigna esa responsabilidad al gobierno municipal, no al Ministerio.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 80, numeral 2, inciso a) (página impresa 32; página PDF 33).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+54. [Ley N.º 070 – TÍTULO III] Una Dirección Distrital impone decisiones sobre ámbitos que la normativa asigna a otros niveles, invocando la «horizontalidad». ¿Qué análisis corresponde?
+A. Es correcto: la horizontalidad permite que cualquier nivel decida sobre los ámbitos de los demás niveles del sistema educativo, conforme a la Ley.
+B. Es errado: la horizontalidad en la toma de decisiones opera en el marco de las normas y atribuciones fijadas para cada nivel y ámbito.
+C. Es correcto si la decisión se adopta con participación social, pues esta habilita a decidir sobre los ámbitos de otros niveles.
+D. Es errado solo si la decisión afecta al nivel central, pues entre los niveles departamental y distrital no existen límites.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Horizontalidad en la toma de decisiones en el marco de las normas y atribuciones fijadas para cada nivel y ámbito del Sistema Educativo Plurinacional». Aplicación razonada: invocar la horizontalidad para invadir atribuciones de otros niveles desconoce el marco normativo que la delimita.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 73, numeral 2 (página impresa 29, numeración «29/39»; página PDF 30).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+55. [Ley N.º 070 – TÍTULO III] Un plan distrital concentra recursos en las unidades del centro urbano y relega a las de la periferia y del área rural. ¿Qué análisis es correcto?
+A. Es coherente con la Ley: la gestión debe priorizar a las unidades del centro urbano por su mayor número de estudiantes matriculados, en el marco legal.
+B. Contradice el principio de gestión equitativa y complementaria, que exige superar asimetrías entre campo y ciudad y entre centro y periferia.
+C. Es coherente si el plan fue aprobado por la Dirección Departamental, pues la equidad entre campo y ciudad depende de esa aprobación.
+D. Contradice la Ley solo respecto del área rural, pues la periferia urbana no forma parte del principio de equidad de la gestión.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Equitativa y complementaria, entre el campo y la ciudad, entre el centro y la periferia, entre las diferentes culturas, superando todo tipo de asimetrías y enfoques homogeneizadores […]». Aplicación razonada: el plan reproduce las asimetrías que el principio de equidad manda superar.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 73, numeral 3 (página impresa 29, numeración «29/39»; página PDF 30).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+56. [Ley N.º 070 – TÍTULO III] Un responsable de la administración educativa distrital se niega a informar sobre el uso de los recursos asignados, alegando autonomía de gestión. ¿Qué análisis corresponde?
+A. Es coherente con la Ley: la autonomía de gestión exime a los responsables de rendir cuentas sobre el uso de los recursos, conforme a la Ley.
+B. Es coherente si informa solo al Ministerio, pues la rendición de cuentas no alcanza a los demás actores del sistema.
+C. Contradice la Ley solo si los recursos provienen del Tesoro, pues los recursos municipales no requieren rendición.
+D. Contradice el principio de transparencia y rendición de cuentas de los responsables de la administración y gestión del sistema.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Transparencia y rendición de cuentas de los responsables de la administración y gestión del Sistema Educativo Plurinacional». Aplicación razonada: negarse a informar sobre los recursos contradice la transparencia y la rendición de cuentas exigidas.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 73, numeral 4 (página impresa 29, numeración «29/39»; página PDF 30).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+57. [Ley N.º 070 – TÍTULO III] Un currículo regionalizado propuesto en un departamento omite contenidos del currículo base y lo contradice en sus objetivos. ¿Qué análisis es correcto?
+A. Es coherente con la Ley: el currículo regionalizado prevalece sobre el currículo base en el territorio donde se aplica.
+B. Es contrario a la Ley: el currículo regionalizado expresa la particularidad en armonía y complementariedad con el currículo base.
+C. Es coherente si lo aprueba el gobierno departamental, pues la gestión del currículo regionalizado es competencia exclusiva, según la Ley 070.
+D. Es contrario a la Ley solo si el departamento no tiene población indígena, pues allí el currículo base es obligatorio.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El currículo regionalizado se refiere al conjunto organizado de planes y programas […] que expresa la particularidad y complementariedad en armonía con el currículo base del Sistema Educativo Plurinacional […]». Aplicación razonada: un currículo regionalizado que contradice al currículo base rompe la armonía y complementariedad exigidas.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo I: Organización curricular. Art. 70, numeral 1 (página impresa 28, numeración «28/39»; página PDF 29).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+58. [Ley N.º 070 – TÍTULO III] Un gobierno departamental se niega a dotar de equipamiento a un Instituto Tecnológico fiscal de su jurisdicción, alegando que es tarea del municipio. ¿Qué análisis corresponde?
+A. Es correcto: el equipamiento de los Institutos Técnicos y Tecnológicos corresponde a los gobiernos municipales de cada jurisdicción.
+B. Es correcto si el instituto es fiscal, pues el gobierno departamental solo atiende a los institutos privados y de convenio del lugar.
+C. Es errado: los gobiernos departamentales son responsables de dotar, financiar y garantizar el equipamiento de los Institutos Técnicos y Tecnológicos.
+D. Es errado solo respecto de los servicios básicos, pues el equipamiento de los institutos corresponde al Ministerio de Educación.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Gobiernos Departamentales: a) Responsables de dotar, financiar y garantizar los servicios básicos, infraestructura, mobiliario, material educativo y equipamiento a los Institutos Técnicos y Tecnológicos en su jurisdicción». Aplicación razonada: la Ley asigna esa responsabilidad al gobierno departamental, no al municipal.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 80, numeral 1, inciso a) (páginas impresas 31-32; páginas PDF 32-33).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+59. [Ley N.º 070 – TÍTULO III] Una unidad educativa condiciona la entrega del Diploma de Bachiller al pago de un monto por «gastos de trámite». ¿Qué análisis es correcto?
+A. Es coherente con la Ley: la unidad educativa puede cobrar gastos de trámite por el diploma, pues la gratuidad solo alcanza a la enseñanza.
+B. Es contrario a la Ley: el Ministerio de Educación, a través de las Direcciones Departamentales, otorga gratuitamente el Diploma de Bachiller.
+C. Es coherente si el cobro fue aprobado por el consejo educativo, pues la participación social puede fijar montos por los trámites del diploma.
+D. Es contrario a la Ley solo en la educación de adultos, pues en la secundaria regular el diploma puede tener un costo de trámite reglamentado.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El Ministerio de Educación a través de las Direcciones Departamentales de Educación, a la culminación de los estudios del nivel de Educación Secundaria Comunitaria Productiva y Educación Secundaria de Adultos, otorgará gratuitamente el Diploma de Bachiller, sujeto a reglamentación». Aplicación razonada: condicionar el diploma a un pago contradice la gratuidad dispuesta y desconoce que su otorgamiento corresponde al Ministerio a través de las DDE.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 81 (página impresa 33, numeración «33/39»; página PDF 34).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+60. [Ley N.º 070 – TÍTULO III] Una autoridad pretende modificar los resultados de una evaluación del Observatorio Plurinacional de la Calidad Educativa antes de su publicación. ¿Qué análisis corresponde?
+A. Es coherente con la Ley: el Observatorio depende jerárquicamente de la autoridad, que puede ajustar sus resultados.
+B. Es contrario a la Ley: el Observatorio es independiente en cuanto al proceso y resultados de sus evaluaciones.
+C. Es coherente si la modificación mejora la imagen del sistema, pues los resultados del Observatorio son referenciales.
+D. Es contrario a la Ley solo si la evaluación es de acreditación, pues los resultados de seguimiento pueden modificarse.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Se crea el Observatorio Plurinacional de la Calidad Educativa, institución pública descentralizada, técnica, especializada, independiente en cuanto al proceso y resultados de sus evaluaciones […]». Aplicación razonada: la modificación externa de los resultados vulnera la independencia del Observatorio.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 83, numeral 1 (página impresa 33, numeración «33/39»; página PDF 34).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+61. [Ley N.º 070 – TÍTULO III] Una cocinera con veinte años de experiencia práctica, sin formación formal, desea que se reconozcan sus competencias laborales. ¿Qué dispone el Artículo 82?
+A. El Estado no reconoce competencias adquiridas en la práctica, y debe cursar formación técnica completa en un instituto superior del país.
+B. La Dirección de Unidad Educativa certificará sus competencias, previa evaluación por el consejo educativo social comunitario del lugar.
+C. El gobierno municipal reconocerá sus competencias mediante una ordenanza, sin intervención del Ministerio de Educación del Estado.
+D. El Estado reconocerá sus competencias a través del Sistema Plurinacional de Certificación de Competencias, reglamentado por el Ministerio.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El Estado reconocerá las competencias laborales y artísticas de ciudadanas y ciudadanos bolivianos que desarrollaron competencias en la práctica a lo largo de la vida, a través del Sistema Plurinacional de Certificación de Competencias. El Ministerio de Educación establecerá la reglamentación específica, de los mecanismos y procedimientos».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 82 (página impresa 33, numeración «33/39»; página PDF 34).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+62. [Ley N.º 070 – TÍTULO III] Debe designarse a una nueva Subdirectora Departamental de Educación Regular. ¿Quién la designa y cómo, según el Artículo 79.1?
+A. El gobierno departamental, por libre nombramiento según su propia reglamentación.
+B. La Dirección Departamental, por invitación directa a profesionales del departamento.
+C. El Ministerio de Educación, como resultado de concurso de méritos y examen de competencia.
+D. El Consejo Educativo Plurinacional, por elección entre representantes de los actores, conforme a norma.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las y los Directores y Subdirectores Departamentales serán designados por el Ministerio de Educación, como resultado de concurso de méritos y examen de competencia en el marco del reglamento del escalafón y la reglamentación respectiva emanada del Ministerio de Educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 79, numeral 1 (página impresa 31, numeración «31/39»; página PDF 32).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+63. [Ley N.º 070 – TÍTULO III] En una autonomía indígena originaria campesina, una escuela requiere recursos para alimentación complementaria y, en casos justificados, transporte escolar. ¿Qué dispone el Artículo 80.3.e?
+A. Es competencia de la autonomía indígena garantizar recursos económicos para alimentación complementaria y, en casos justificados, transporte escolar.
+B. Es competencia exclusiva del Ministerio de Educación financiar la alimentación complementaria y el transporte escolar en territorios indígenas, según la ley vigente.
+C. Es responsabilidad de las familias cubrir la alimentación y el transporte, pues la autonomía indígena solo atiende la infraestructura escolar.
+D. Es competencia del gobierno departamental, que financia la alimentación y el transporte de todas las escuelas ubicadas en territorio indígena.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Autonomías Indígena Originaria Campesinas. Sus competencias son: […] e) Garantizar recursos económicos para la atención de alimentación complementaria y en los casos justificados del transporte escolar».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 80, numeral 3, inciso e) (página impresa 32; página PDF 33).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+64. [Ley N.º 070 – TÍTULO III] Una escuela de una autonomía indígena necesita una biblioteca y mantenimiento de su infraestructura. ¿Qué competencia del Artículo 80.3.d resulta aplicable?
+A. Solicitar al Ministerio la construcción y el mantenimiento de la infraestructura, sin responsabilidad alguna de la autonomía indígena.
+B. Gestionar donaciones privadas para la biblioteca, sin responsabilidad de la autonomía en el mantenimiento de la infraestructura escolar, según la normativa.
+C. Dotar de infraestructura educativa, responsabilizarse de su mantenimiento y proveer servicios básicos, mobiliario, equipamiento y bibliotecas.
+D. Delegar la dotación de bibliotecas al gobierno municipal vecino, que asume las competencias educativas de la autonomía indígena.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «d) Dotar de infraestructura educativa necesaria, responsabilizarse de su mantenimiento y proveer los servicios básicos, mobiliario, equipamiento, bibliotecas e insumos necesarios para su funcionamiento».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 80, numeral 3, inciso d) (página impresa 32; página PDF 33).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+65. [Ley N.º 070 – TÍTULO III] Una autonomía indígena proyecta un programa de actualización para maestros, padres y autoridades comunales de su territorio. ¿Qué competencia lo respalda?
+A. Diseñar y aprobar el currículo base plurinacional para su territorio, por mandato legal.
+B. Promover la ejecución de formación continua para la comunidad educativa.
+C. Otorgar títulos de maestro con grado de licenciatura a sus docentes.
+D. Designar a los directores de las unidades por concurso de méritos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «g) Promover la ejecución de formación continua para la comunidad educativa».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 80, numeral 3, inciso g) (página impresa 32; página PDF 33).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+66. [Ley N.º 070 – TÍTULO III] El consejo educativo de una autonomía indígena carece de recursos para funcionar. ¿Qué competencia de la autonomía indígena resulta aplicable según el Artículo 80.3.f?
+A. Disolver el consejo educativo y asumir directamente sus funciones de participación y control social en educación.
+B. Solicitar al Ministerio el financiamiento del consejo, sin responsabilidad de la autonomía en su funcionamiento.
+C. Exigir aportes obligatorios a las familias para el funcionamiento de la estructura de participación y control social.
+D. Apoyar con recursos necesarios para el funcionamiento de la estructura de participación y control social en educación.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «f) Apoyar con recursos necesarios para el funcionamiento de la estructura de participación y control social en educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 80, numeral 3, inciso f) (página impresa 32; página PDF 33).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+67. [Ley N.º 070 – TÍTULO III] Una autonomía indígena desea verificar que las unidades de su territorio apliquen adecuadamente los planes curriculares diversificados. ¿Qué competencia del Artículo 80.3.c lo habilita?
+A. Sancionar a los maestros que no apliquen los planes diversificados, con la destitución inmediata en el marco del currículo regionalizado.
+B. Realizar el seguimiento a la implementación de los planes y programas curriculares diversificados, en el marco del currículo regionalizado.
+C. Aprobar el currículo base de su territorio, en sustitución de los planes del Ministerio de Educación y del currículo regionalizado.
+D. Evaluar y acreditar la calidad educativa de las unidades, en sustitución de las funciones del Observatorio Plurinacional de Calidad.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «c) Realizar el seguimiento a la adecuada implementación de los planes y programas curriculares diversificados en el marco del currículo regionalizado y de sus competencias en el ámbito de su jurisdicción».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 80, numeral 3, inciso c) (página impresa 32; página PDF 33).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+68. [Ley N.º 070 – TÍTULO III] Un gobierno municipal decide apoyar un programa de lectura en las unidades de su jurisdicción. ¿Qué atribución del Artículo 80.2.b respalda esa decisión?
+A. El diseño del currículo base con recursos propios del gobierno municipal, según la norma.
+B. El apoyo a programas educativos con recursos establecidos en las normas en vigencia.
+C. La designación de maestros para el programa con recursos del municipio.
+D. La certificación de competencias lectoras con recursos de las familias.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Gobiernos Municipales: […] b) Apoyo a programas educativos con recursos establecidos en las normas en vigencia».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 80, numeral 2, inciso b) (página impresa 32; página PDF 33).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+69. [Ley N.º 070 – TÍTULO III] Una nación indígena solicita crear un instituto para normalizar y desarrollar su lengua. ¿Qué dispone el Artículo 88.2 sobre su creación y financiamiento?
+A. Lo crea la propia nación indígena con recursos privados, sin intervención del Instituto Plurinacional ni de las entidades autónomas.
+B. Lo crea el Ministerio de Educación, y lo financian exclusivamente las familias de la nación indígena mediante aportes obligatorios.
+C. Lo crea el Instituto Plurinacional de Estudio de Lenguas y Culturas, y lo financian y sostienen las entidades territoriales autónomas.
+D. Lo crea una universidad pública autónoma, y lo financia el Tesoro General del Estado sin participación de las entidades autónomas.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El Instituto Plurinacional de Estudio de Lenguas y Culturas, creará los institutos de lenguas y culturas por cada nación o pueblo indígena originario campesino para la normalización, investigación y desarrollo de sus lenguas y culturas, los mismos que serán financiados y sostenidos por las entidades territoriales autónomas».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo III: Apoyo técnico de recursos y servicios. Art. 88, numeral 2 (página impresa 34, numeración «34/39»; página PDF 35).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+70. [Ley N.º 070 – TÍTULO III] En una región con particularidades lingüísticas y culturales, se debe definir la modalidad de atención de los procesos educativos. ¿Qué dispone el Artículo 69.5?
+A. Las modalidades serán definidas por cada unidad educativa, según la preferencia de su personal docente y sin referencia al currículo, según lo establecido.
+B. Las modalidades serán uniformes en todo el país, sin considerar las particularidades educativas, lingüísticas y culturales del lugar.
+C. Las modalidades serán definidas por el gobierno municipal, según su disponibilidad presupuestaria y la demanda de las familias.
+D. Las modalidades serán definidas por el currículo base y los regionalizados, según las particularidades educativas, lingüísticas y culturales.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Las modalidades de atención en los procesos educativos de los subsistemas y niveles, serán definidos por el currículo base y los currículos regionalizados, de acuerdo a las particularidades educativas, lingüísticas y culturales».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo I: Organización curricular. Art. 69, numeral 5 (página impresa 28, numeración «28/39»; página PDF 29).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Ley N.º 070 – TÍTULO III] Caso: el Consejo Educativo Social Comunitario de una unidad solicita participar en el seguimiento y la evaluación del plan anual, y la dirección se niega. ¿Cómo se resuelve?
+A. Debe rechazarse su participación, porque la evaluación del plan anual es una atribución exclusiva de la dirección y del plantel docente.
+B. Debe admitirse su participación con potestad de modificar el plan, por encima de las atribuciones de la dirección y del personal docente.
+C. Debe admitirse su participación en la planificación, control, seguimiento y evaluación, respetando las atribuciones específicas de cada actor.
+D. Debe admitirse su participación solo en la planificación, porque el seguimiento y la evaluación están reservados a la Dirección Distrital, según la Ley 070.
+Respuesta correcta: C
+Explicación: Aplicación razonada: Art. 91.6: «Participar en la planificación, control, seguimiento y evaluación del proceso educativo, respetando las atribuciones específicas de los actores educativos y la delimitación territorial y geográfica de la Participación Social Comunitaria». Art. 92.4: «Consejos Educativos Social Comunitarios, a nivel […] de Núcleo y Unidades Educativas: Participan en la gestión educativa, de acuerdo a su ámbito de competencia […]». Aplicación razonada: el consejo puede participar en el seguimiento y la evaluación, sin sustituir las atribuciones de la dirección.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 91.6 (página impresa 35; página PDF 36) y Art. 92.4 (página impresa 36; página PDF 37).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Ley N.º 070 – TÍTULO III] Caso: una comunidad de una autonomía indígena desea contar con planes educativos propios para su territorio, sin apartarse del sistema. ¿Qué competencia del Artículo 80.3.a lo hace posible?
+A. Formular, aprobar y ejecutar planes de educación a partir de políticas y estrategias plurinacionales, en el marco del currículo regionalizado.
+B. Formular y aprobar un currículo base propio, independiente de las políticas plurinacionales y sin relación con el currículo regionalizado, conforme a norma.
+C. Ejecutar los planes educativos que defina el gobierno municipal vecino, sin competencia propia de formulación ni de aprobación de planes.
+D. Formular planes educativos sujetos a la aprobación de cada unidad educativa, sin relación con las políticas y estrategias plurinacionales.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «a) Formular, aprobar y ejecutar planes de educación a partir de políticas y estrategias plurinacionales para el ámbito de su jurisdicción territorial autonómicas en el marco del currículo regionalizado».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 80, numeral 3, inciso a) (página impresa 32; página PDF 33).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Ley N.º 070 – TÍTULO III] Caso: familias de una autonomía indígena reclaman participar en la gestión de la Educación Inicial, Primaria y Secundaria de su comunidad. ¿Qué competencia de la autonomía responde al reclamo?
+A. Organizar y apoyar la gestión participativa de los pueblos indígenas en Educación Inicial en Familia Comunitaria, Primaria Vocacional y Secundaria Productiva.
+B. Excluir a las familias de la gestión escolar, reservando la organización de la Educación Inicial, Primaria y Secundaria al nivel central del Estado, conforme a la norma.
+C. Organizar la gestión participativa solo en la Educación Superior, dejando la Educación Inicial, Primaria y Secundaria a cargo de los municipios.
+D. Delegar a las familias la dirección plena de las unidades, con atribuciones sobre la designación de directores y la evaluación del personal docente.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «b) Organizar y apoyar la gestión participativa de los pueblos indígena originario campesinos en el marco de la Educación Inicial en Familia Comunitaria, Primaria Vocacional y Secundaria Productiva».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 80, numeral 3, inciso b) (página impresa 32; página PDF 33).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Ley N.º 070 – TÍTULO III] Caso: el equipo docente de una unidad tiene dificultades para implementar el currículo y la dirección busca apoyo especializado. ¿Qué instancia del Título III responde a esa necesidad?
+A. El Congreso Plurinacional de Educación, mediante resoluciones sobre la metodología de enseñanza de cada unidad del país.
+B. El Observatorio de la Calidad Educativa, mediante la acreditación inmediata de la unidad y la sanción a su personal docente.
+C. El apoyo técnico de recursos y servicios, mediante equipos multidisciplinarios de fortalecimiento a los espacios educativos.
+D. El gobierno municipal, mediante la contratación directa de consultores pedagógicos para el plantel docente de la unidad.
+Respuesta correcta: C
+Explicación: Aplicación razonada: Art. 84: «Son las instancias de apoyo técnico pedagógico al Sistema Educativo Plurinacional, para la adecuada implementación del currículo educativo […]». Art. 86: «[…] a través de la constitución de equipos multidisciplinarios de fortalecimiento a los espacios educativos […]». Aplicación razonada: las dificultades de implementación curricular corresponden al ámbito del apoyo técnico pedagógico.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo III: Apoyo técnico de recursos y servicios. Art. 84 (página impresa 33; página PDF 34) y Art. 86 (página impresa 34; página PDF 35).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Ley N.º 070 – TÍTULO III] Caso: el Ministerio de Educación necesita estudios para diseñar estrategias de apoyo a la transformación del sistema educativo en zonas rurales. ¿A qué instancia corresponde esa tarea?
+A. Al Instituto de Investigaciones Educativas Plurinacional, dependiente del Ministerio de Educación.
+B. Al Consejo Educativo Plurinacional, como instancia de participación de los actores sociales, según la ley vigente.
+C. A las Direcciones de Núcleo, como responsables de la administración curricular de su núcleo.
+D. Al Instituto Plurinacional de Estudio de Lenguas y Culturas, como entidad descentralizada.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Se crea el Instituto de Investigaciones Educativas Plurinacional dependiente del Ministerio de Educación, para diseñar y desarrollar estrategias de apoyo a las políticas de transformación del Sistema Educativo Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo III: Apoyo técnico de recursos y servicios. Art. 87 (página impresa 34, numeración «34/39»; página PDF 35).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Ley N.º 070 – TÍTULO III] Caso: un distrito ubicado en varios pisos ecológicos y con diversidad lingüística aplica un único mecanismo de gestión diseñado para la ciudad. ¿Cómo debe corregirse?
+A. Manteniendo el mecanismo urbano, porque la gestión educativa debe ser idéntica en todos los contextos para garantizar la igualdad formal, en el marco legal.
+B. Delegando la gestión al gobierno municipal, porque los mecanismos de gestión educativa son competencia exclusiva de cada municipio.
+C. Suprimiendo los mecanismos de gestión en las zonas rurales, porque su diversidad impide aplicar criterios comunes en el distrito.
+D. Creando mecanismos de gestión según el área geográfica, el piso ecológico y los criterios socioculturales, territoriales, históricos y lingüísticos.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Los mecanismos de la gestión educativa se crean considerando los criterios de área geográfica, piso ecológico, sociocultural, territorial, histórico y lingüístico, respondiendo a las necesidades de cada contexto». Aplicación razonada: la diversidad de pisos ecológicos y lenguas exige mecanismos ajustados a cada contexto.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 75 (página impresa 30, numeración «30/39»; página PDF 31).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Ley N.º 070 – TÍTULO III] Caso: dos autoridades discuten si la supervisión de la gestión educativa en un Núcleo Educativo corresponde a la Dirección Departamental. ¿Qué dispone el Artículo 78?
+A. La Dirección Departamental gestiona directamente cada Núcleo Educativo, sin intervención de las Direcciones Distritales ni de las de Núcleo, por mandato legal.
+B. La Dirección de Núcleo es responsable de la gestión en su Núcleo y depende de la Dirección Distrital, que a su vez depende de la Departamental.
+C. La Dirección de Núcleo depende del gobierno municipal, y la Dirección Departamental no tiene relación con la gestión de los núcleos.
+D. La Dirección de Núcleo es autónoma y no depende de ninguna instancia, pues responde solo al consejo educativo de su núcleo.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «3. Direcciones Distritales Educativas, dependientes de las Direcciones Departamentales […]. 4. Direcciones de Núcleo, dependiente de las Direcciones Distritales, responsables de la gestión educativa y administración curricular en el ámbito de su Núcleo Educativo […]». Aplicación razonada: la cadena de dependencia ubica a la Dirección de Núcleo bajo la Distrital, y a esta bajo la Departamental.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 78, numerales 3 y 4 (página impresa 31, numeración «31/39»; página PDF 32).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Ley N.º 070 – TÍTULO III] Caso: en una unidad educativa con estudiantes de diversas culturas surgen tensiones que dificultan que docentes y familias desempeñen su rol. ¿Qué objetivo de la administración y gestión orienta la respuesta?
+A. Generar condiciones favorables de relación intercultural para que todos los actores cumplan y desempeñen adecuadamente su rol.
+B. Separar a los estudiantes por cultura, para evitar tensiones que dificulten el desempeño del rol de docentes y familias.
+C. Suspender la participación de las familias, para que solo el personal docente desempeñe su rol sin interferencias externas, según la norma.
+D. Imponer una sola cultura institucional, para que todos los actores adopten un mismo modelo de relación en la unidad.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Generar condiciones favorables de relación intercultural para que todos los actores de la educación cumplan y desempeñen adecuadamente su rol». Aplicación razonada: las tensiones interculturales se abordan generando condiciones favorables de relación entre los actores.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 74, numeral 3 (página impresa 30; página PDF 31).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Ley N.º 070 – TÍTULO III] Caso: una Dirección Departamental designa directamente a la directora de una unidad educativa, sin intervención de la Dirección Distrital. ¿Cómo se valora según el Artículo 79.3?
+A. Es procedente: la Dirección Departamental puede designar directamente a los directores de unidad por ser instancia jerárquica superior.
+B. Es procedente si la directora tiene la mayor antigüedad del distrito, pues la antigüedad sustituye al concurso de méritos y al examen.
+C. Es improcedente: los directores de Unidades Educativas son designados por los Directores Distritales, por concurso de méritos y examen.
+D. Es improcedente solo si la unidad es privada, pues en las unidades fiscales la designación corresponde a la Dirección Departamental.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las y los Directores de Núcleo y Unidades Educativas serán designados por las y los Directores Distritales de Educación, como resultado de concurso de méritos y examen de competencia […]». Aplicación razonada: la designación directa por la Dirección Departamental desconoce la instancia competente y el procedimiento de concurso.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 79, numeral 3 (página impresa 31, numeración «31/39»; página PDF 32).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Ley N.º 070 – TÍTULO III] Caso: un pueblo indígena, a través de su organización matriz, pide participar en la formulación de la política educativa nacional. ¿Qué instancia de participación respalda su pedido?
+A. Los Consejos Consultivos del Ministerio, que solo participan en la gestión de unidades educativas rurales de los territorios indígenas, conforme a la normativa.
+B. Las Direcciones de Núcleo, que representan a los pueblos indígenas en la formulación de la política educativa nacional del Estado.
+C. Los gobiernos municipales, que representan a los pueblos indígenas ante el Ministerio en la definición de políticas educativas.
+D. Los Consejos Educativos de naciones y pueblos indígena originario campesinos, que participan en la formulación de políticas y gestión educativas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Consejos Educativos de naciones y pueblos indígena originario campesinos: Las naciones y pueblos indígena originario campesinos en el marco de su estructura organizativa a través de sus organizaciones matrices […] participan en la formulación de políticas y gestión educativas […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 92, numeral 3 (página impresa 35; página PDF 36).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Ley N.º 070 – TÍTULO III] Ante desacuerdos entre docentes, familias y organizaciones sobre una política educativa local, ¿qué decisión es coherente con el Artículo 91.4?
+A. Imponer la posición de la autoridad educativa, entendiendo que la política local es responsabilidad exclusiva del Estado.
+B. Adoptar la posición mayoritaria de las familias, entendiendo que la educación es un servicio sujeto a la demanda local.
+C. Suspender la definición de la política, entendiendo que los desacuerdos impiden toda participación de los actores.
+D. Promover consensos entre los actores, entendiendo que la educación es un bien común y corresponsabilidad de todas y todos.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Promover consensos entre los diferentes actores de la educación para la definición de políticas educativas, comprendiendo que la educación es un bien común y corresponsabilidad de todas y todos».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 91, numeral 4 (página impresa 35; página PDF 36).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Ley N.º 070 – TÍTULO III] Al organizar la gestión anual de una unidad educativa, ¿qué decisión es coherente con el objetivo de la administración del Artículo 74.2?
+A. Planificar, organizar, ejecutar, dirigir y evaluar la gestión con participación social.
+B. Planificar y ejecutar la gestión sin participación social, para agilizar las decisiones.
+C. Delegar la planificación y la evaluación de la gestión a las familias, sin intervención.
+D. Evaluar la gestión solo al cierre del año, sin planificación ni participación previa.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Planificar, organizar, ejecutar, dirigir y evaluar la administración y gestión en todos los subsistemas, niveles y modalidades, con participación social».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 74, numeral 2 (página impresa 30; página PDF 31).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Ley N.º 070 – TÍTULO III] Al conformar el consejo de participación de una unidad, un grupo propone que sus miembros sean designados por la dirección. ¿Qué decisión se ajusta a la Ley?
+A. Conformarlo por designación de la dirección, para asegurar la afinidad de sus miembros con la gestión institucional.
+B. Conformarlo solo con docentes, para garantizar el conocimiento técnico de sus miembros sobre la gestión educativa.
+C. Conformarlo con representación y legitimidad, respetando la diversidad de los actores y sus formas de organización.
+D. Conformarlo por sorteo entre las familias, sin considerar la representación ni las formas de organización propias.
+Respuesta correcta: C
+Explicación: Aplicación razonada: Art. 91.3: «Consolidar el carácter comunitario y democrático de la Participación Social Comunitaria, respetando la diversidad de los actores educativos y sus formas de organización para la participación social comunitaria, con legitimidad y representatividad». Art. 90: «[…] madres y padres de familia con representación y legitimidad […]». Aplicación razonada: la designación por la dirección no asegura la representatividad ni la legitimidad exigidas.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 91.3 (página impresa 35; página PDF 36) y Art. 90 (página impresa 34; página PDF 35).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Ley N.º 070 – TÍTULO III] El Ministerio de Educación desea coordinar con actores sociales e institucionales la implementación de una nueva política. ¿Qué instancia debe convocar?
+A. Los Consejos Consultivos del Ministerio de Educación, como instancias de consulta y coordinación con los actores.
+B. El Congreso Plurinacional de Educación, que se reúne a convocatoria anual de las Direcciones Departamentales.
+C. Las Direcciones de Unidad Educativa, como instancias de consulta y coordinación del Ministerio con los actores.
+D. El Observatorio de la Calidad Educativa, como instancia de coordinación política con los actores del sistema.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Consejos Consultivos del Ministerio de Educación: Instancias de consulta y coordinación del Ministerio de Educación con los actores educativos, sociales e institucionales».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 92, numeral 5 (página impresa 36; página PDF 37).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Ley N.º 070 – TÍTULO III] Un Instituto Técnico requiere apoyo para un programa educativo complementario. ¿Ante qué nivel autonómico es pertinente gestionarlo según el Artículo 80.1.b?
+A. Ante la autonomía indígena más cercana, que financia todos los programas de los Institutos Técnicos del departamento.
+B. Ante el Consejo Educativo Plurinacional, que asigna recursos a los programas educativos de los Institutos Técnicos.
+C. Ante la Dirección de Núcleo, que administra los recursos de los programas educativos de los Institutos Técnicos.
+D. Ante el gobierno departamental, que apoya programas educativos con recursos establecidos en las normas en vigencia.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Gobiernos Departamentales: a) Responsables de dotar, financiar y garantizar […] a los Institutos Técnicos y Tecnológicos en su jurisdicción. b) Apoyo a programas educativos con recursos establecidos en las normas en vigencia». Aplicación razonada: el gobierno departamental atiende a los Institutos Técnicos y apoya programas educativos.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 80, numeral 1, inciso b) (página impresa 32; página PDF 33).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Ley N.º 070 – TÍTULO III] Al elaborar la planificación curricular de una unidad en una región con currículo regionalizado, ¿qué decisión es coherente con el Artículo 69.2?
+A. Articular el currículo base intercultural con el regionalizado y diversificado intracultural, en complementariedad.
+B. Aplicar solo el currículo regionalizado, prescindiendo del currículo base intercultural en la planificación.
+C. Aplicar solo el currículo base, prescindiendo del regionalizado y diversificado en la planificación de la unidad.
+D. Elaborar un currículo propio de la unidad, sustituyendo al currículo base y al regionalizado del sistema.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] se expresa en el currículo base de carácter intercultural, los currículos regionalizados y diversificados de carácter intracultural que en su complementariedad, garantizan la unidad e integridad del Sistema Educativo Plurinacional, así como el respeto a la diversidad cultural y lingüística de Bolivia». Aplicación razonada: la planificación de la unidad debe articular ambos currículos en complementariedad.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo I: Organización curricular. Art. 69, numeral 2 (página impresa 28, numeración «28/39»; página PDF 29).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Ley N.º 070 – TÍTULO III] Una unidad educativa de un territorio indígena con vocación agrícola define su proyecto productivo. ¿Qué disposición orienta la decisión?
+A. El Artículo 81: el diploma de bachiller se otorga gratuitamente al concluir la secundaria comunitaria productiva y la secundaria de adultos, según lo dispuesto.
+B. El Artículo 72: el Ministerio de Educación ejerce tuición sobre la administración y gestión del Sistema Educativo Plurinacional.
+C. El Artículo 70.2: las NPIOC desarrollan procesos educativos productivos comunitarios acordes a sus vocaciones productivas del contexto territorial.
+D. El Artículo 76: la administración y gestión del sistema se organiza en los niveles central, departamental y autonómico del Estado.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las naciones y pueblos indígena originario campesinos desarrollan procesos educativos productivos comunitarios, acorde a sus vocaciones productivas del contexto territorial». Aplicación razonada: el proyecto productivo se orienta por la vocación agrícola del contexto territorial.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo I: Organización curricular. Art. 70, numeral 2 (página impresa 28, numeración «28/39»; página PDF 29).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Ley N.º 070 – TÍTULO III] Una Dirección Distrital tiene dudas sobre la orientación de las políticas y estrategias educativas que debe implementar. ¿A qué instancia corresponde definirlas según el Artículo 77.1?
+A. Al gobierno municipal de la jurisdicción, como responsable de las políticas y estrategias educativas del distrito, según la reglamentación.
+B. Al Consejo Educativo Social Comunitario distrital, como máxima autoridad educativa en el ámbito de su distrito.
+C. Al Ministerio de Educación y sus Viceministerios, como máxima autoridad educativa responsable de las políticas y estrategias.
+D. A la propia Dirección Distrital, como instancia autónoma responsable de definir las políticas educativas del país.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Ministerio de Educación y sus Viceministerios, como máxima autoridad educativa, responsable de las Políticas y Estrategias educativas del Estado Plurinacional y de las políticas de administración y gestión educativa y curricular».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 77, numeral 1 (página impresa 30, numeración «30/39»; página PDF 31).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Ley N.º 070 – TÍTULO III] Un consejo de participación social discute con qué actitud debe intervenir en la vida de la unidad educativa. ¿Qué orientación del Artículo 91.5 debe adoptar?
+A. Participar con vocación de servicio, compromiso, solidaridad, reciprocidad y complementariedad entre todos los actores.
+B. Participar con actitud fiscalizadora y sancionadora, priorizando el control disciplinario sobre el personal docente, según la Ley 070.
+C. Participar solo cuando lo convoque la dirección, sin compromiso permanente con los demás actores de la educación.
+D. Participar en representación de intereses particulares, sin reciprocidad ni complementariedad con los demás actores.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Lograr una Participación Social Comunitaria con vocación de servicio, compromiso, solidaridad, reciprocidad y complementariedad entre todos los actores educativos».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 91, numeral 5 (página impresa 35; página PDF 36).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Ley N.º 070 – TÍTULO III] Al formular el presupuesto de un programa educativo, una autoridad debe identificar las fuentes de financiamiento del sistema. ¿Qué decisión es coherente con el Artículo 89?
+A. Considerar solo los aportes de las familias, pues el Estado no financia programas educativos complementarios del sistema, conforme a norma.
+B. Considerar los recursos del Tesoro General del Estado y de las entidades territoriales autónomas, según el Presupuesto General.
+C. Considerar solo los recursos de la cooperación internacional, sin inclusión en el Presupuesto General del Estado vigente.
+D. Considerar solo los recursos del Tesoro, pues las entidades territoriales autónomas no financian el sistema educativo.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El Sistema Educativo Plurinacional será financiado por el Estado Plurinacional, a través de recursos del Tesoro General del Estado y de las entidades territoriales autónomas, según corresponda y acorde a la Ley del Presupuesto General del Estado […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo III: Apoyo técnico de recursos y servicios. Art. 89 (página impresa 34, numeración «34/39»; página PDF 35).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Ley N.º 070 – TÍTULO III] Al diseñar el sistema de rendición de cuentas de una unidad educativa, ¿qué principios y objetivos del Título III ofrecen el fundamento más directo?
+A. La reserva de la información administrativa, y el objetivo de una gestión discrecional orientada a la eficiencia del gasto.
+B. La horizontalidad en las decisiones, y el objetivo de delegar a las familias la administración de los recursos de la unidad, según lo dispuesto.
+C. La transparencia y rendición de cuentas de los responsables, y el objetivo de una adecuada y transparente gestión y administración.
+D. La independencia del Observatorio, y el objetivo de acreditar la calidad sin informar sobre el uso de los recursos públicos.
+Respuesta correcta: C
+Explicación: Aplicación razonada: Art. 73.4: «Transparencia y rendición de cuentas de los responsables de la administración y gestión del Sistema Educativo Plurinacional». Art. 74.1: «Lograr una adecuada y transparente gestión y administración del Sistema Educativo Plurinacional». Aplicación razonada: el sistema de rendición de cuentas institucional se apoya en ese principio y en ese objetivo.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 73.4 y Art. 74.1 (página impresa 29; página PDF 30).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Ley N.º 070 – TÍTULO III] Una Dirección Distrital planifica su estrategia de mejora de la calidad. ¿Qué instancia realiza el seguimiento, medición, evaluación y acreditación de la calidad en los subsistemas Regular, Alternativo y Especial?
+A. El Observatorio Plurinacional de la Calidad Educativa.
+B. El Instituto de Investigaciones Educativas Plurinacional.
+C. El Consejo Educativo Plurinacional de los actores sociales.
+D. La Subdirección Departamental de Educación Regular.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El Observatorio Plurinacional de la Calidad Educativa estará encargado de realizar el seguimiento, medición, evaluación y acreditación de la calidad educativa del sistema educativo en los subsistemas Regular, Alternativo y Especial». Aplicación razonada: la estrategia distrital de calidad debe articularse con la instancia que la Ley encarga de evaluarla.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 83, numeral 2 (página impresa 33, numeración «33/39»; página PDF 34).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Ley N.º 070 – TÍTULO III] Al planificar la distribución de apoyos en un distrito con unidades urbanas, periurbanas y rurales de diversas culturas, ¿qué principio debe orientar la estrategia?
+A. La gestión equitativa y complementaria, que supera asimetrías y enfoques homogeneizadores entre campo, ciudad, centro, periferia y culturas.
+B. La gestión uniforme, que distribuye los apoyos en partes iguales sin considerar las asimetrías entre zonas ni entre las culturas, según lo dispuesto.
+C. La gestión por resultados, que concentra los apoyos en las unidades urbanas con mejores indicadores de rendimiento académico.
+D. La gestión centralizada, que asigna los apoyos según instrucciones del nivel central sin considerar la diversidad de las zonas.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Equitativa y complementaria, entre el campo y la ciudad, entre el centro y la periferia, entre las diferentes culturas, superando todo tipo de asimetrías y enfoques homogeneizadores, en congruencia con la gestión organizativa de las comunidades de diferentes culturas». Aplicación razonada: la estrategia de distribución traduce ese principio a la realidad diversa del distrito.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 73, numeral 3 (página impresa 29, numeración «29/39»; página PDF 30).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Ley N.º 070 – TÍTULO III] Al proyectar las necesidades de personal, infraestructura y materiales de un departamento, ¿qué criterio estratégico establece el Artículo 74.4?
+A. Asignar los recursos de forma idéntica en todo el país, sin considerar las competencias de las entidades autónomas.
+B. Asignar los recursos según la capacidad de pago de las familias, con aportes complementarios del gobierno municipal.
+C. Asignar los recursos solo a las capitales de departamento, por concentrar la mayor parte de la matrícula del sistema, según la normativa.
+D. Atender las necesidades de cada región, de acuerdo con las competencias concurrentes de las entidades territoriales autónomas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Garantizar la provisión de recursos financieros, personal cualificado, infraestructura y materiales de acuerdo a las necesidades de cada región y de acuerdo a las competencias concurrentes de las entidades territoriales autónomas». Aplicación razonada: la proyección departamental se orienta por las necesidades regionales y las competencias concurrentes.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo II: Administración y gestión de la educación. Art. 74, numeral 4 (página impresa 30; página PDF 31).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Ley N.º 070 – TÍTULO III] Para optimizar el funcionamiento de las unidades de un núcleo educativo, ¿qué objetivo de la Participación Social Comunitaria puede integrarse en la estrategia de gestión?
+A. Sustituir a las autoridades educativas en la administración de los recursos, para optimizar el funcionamiento del sistema, según la reglamentación.
+B. Limitar la información disponible para el control social, para evitar interferencias en la administración de las unidades.
+C. Contribuir al logro de la transparencia administrativa a través de un control social para optimizar el funcionamiento del sistema.
+D. Concentrar el control social en la evaluación del personal docente, con atribuciones de sanción y de destitución directa.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Contribuir al logro de la transparencia administrativa a través de un control social para optimizar el funcionamiento del Sistema Educativo Plurinacional». Aplicación razonada: la estrategia de gestión puede incorporar el control social como mecanismo de transparencia.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 91, numeral 7 (página impresa 35; página PDF 36).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Ley N.º 070 – TÍTULO III] Al diseñar el ciclo de gestión anual de un distrito, ¿cómo debe integrarse la participación social comunitaria según el Artículo 91.6?
+A. Solo en la inauguración y clausura de la gestión, sin intervención en la planificación, control, seguimiento ni evaluación del proceso educativo.
+B. En la ejecución directa de las tareas administrativas y docentes, sin respetar las atribuciones específicas de los actores del sistema.
+C. En la planificación y evaluación de otros distritos, sin delimitación territorial ni geográfica de la participación social comunitaria.
+D. En la planificación, control, seguimiento y evaluación del proceso educativo, respetando las atribuciones específicas de los actores y su delimitación territorial.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Participar en la planificación, control, seguimiento y evaluación del proceso educativo, respetando las atribuciones específicas de los actores educativos y la delimitación territorial y geográfica de la Participación Social Comunitaria». Aplicación razonada: el ciclo de gestión distrital incorpora la participación social en las fases que la Ley enumera.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 91, numeral 6 (página impresa 35; página PDF 36).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Ley N.º 070 – TÍTULO III] Tras el último Congreso Plurinacional de Educación, ¿qué instancia debe evaluar el cumplimiento de sus conclusiones?
+A. El Consejo Educativo Plurinacional.
+B. El Observatorio de la Calidad Educativa.
+C. La Dirección Departamental de Educación.
+D. El Instituto de Investigaciones Educativas.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Consejo Educativo Plurinacional: Propone proyectos de políticas educativas integrales de consenso y evalúa el cumplimiento de las conclusiones del Congreso Plurinacional de Educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo IV: Participación social comunitaria. Art. 92, numeral 2 (página impresa 35; página PDF 36).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Ley N.º 070 – TÍTULO III] Un gobierno departamental y el nivel central deben coordinar la gestión del currículo regionalizado. ¿Qué carácter competencial debe considerar su planificación conjunta?
+A. Que se trata de una competencia exclusiva del gobierno departamental, sin participación del nivel central del Estado.
+B. Que se trata de una competencia concurrente entre el nivel central del Estado y las entidades territoriales autónomas.
+C. Que se trata de una competencia privativa del nivel central, sin participación de las entidades territoriales autónomas.
+D. Que se trata de una competencia de las unidades educativas, sin participación del nivel central ni de las autonomías.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «La gestión del currículo regionalizado es una competencia concurrente entre el nivel central del Estado y las entidades territoriales autónomas». Aplicación razonada: la planificación conjunta parte del carácter concurrente de la competencia.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo I: Organización curricular. Art. 70, numeral 3 (página impresa 29; página PDF 30).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Ley N.º 070 – TÍTULO III] Al proyectar el fortalecimiento pedagógico de un distrito con necesidades diversas, ¿qué estrategia es coherente con el Artículo 86?
+A. Contratar un único asesor pedagógico para todo el distrito, sin considerar las necesidades de las modalidades y los niveles, según lo dispuesto.
+B. Suprimir el apoyo técnico en las unidades rurales, concentrándolo en las unidades urbanas del distrito por su mayor tamaño.
+C. Delegar el fortalecimiento pedagógico a las familias, sin equipos técnicos ni reglamentación específica del Ministerio.
+D. Constituir equipos multidisciplinarios de fortalecimiento a los espacios educativos, según las necesidades de modalidades y niveles.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La estructura de Apoyo Técnico de Recursos y Servicios, se definirá de acuerdo a las necesidades del Sistema Educativo Plurinacional en sus diferentes modalidades y niveles, a través de la constitución de equipos multidisciplinarios de fortalecimiento a los espacios educativos, se regulará mediante reglamento específico». Aplicación razonada: la estrategia distrital adopta la forma de apoyo técnico que prevé el Artículo 86.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo III: Apoyo técnico de recursos y servicios. Art. 86 (página impresa 34, numeración «34/39»; página PDF 35).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Ley N.º 070 – TÍTULO III] Al planificar la contextualización curricular en una región con fuerte identidad sociocultural y lingüística, ¿qué criterio fundamental del Artículo 70.1 debe guiar la estrategia?
+A. Considerar fundamentalmente los estándares internacionales de evaluación, con independencia del contexto sociocultural y del currículo base.
+B. Considerar fundamentalmente las características del contexto sociocultural y lingüístico que hacen a su identidad, en armonía con el currículo base.
+C. Considerar fundamentalmente la disponibilidad de textos comerciales, sin relación con el contexto sociocultural ni con la identidad regional, según la ley vigente.
+D. Considerar fundamentalmente las preferencias de cada maestro, sin referencia al currículo base ni a las características del contexto.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «[…] que expresa la particularidad y complementariedad en armonía con el currículo base del Sistema Educativo Plurinacional, considerando fundamentalmente las características del contexto sociocultural y lingüístico que hacen a su identidad». Aplicación razonada: la estrategia de contextualización se orienta por el criterio que la Ley señala como fundamental.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título III: Organización curricular, administración y gestión del Sistema Educativo Plurinacional, Capítulo I: Organización curricular. Art. 70, numeral 1 (página impresa 28, numeración «28/39»; página PDF 29).

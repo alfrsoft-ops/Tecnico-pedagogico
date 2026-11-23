@@ -1,0 +1,1111 @@
+# Fuente: ley-348-t4.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia (9 de marzo de 2013)
+# Título IV: Persecución y sanción penal (Arts. 42 al 75)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar el Título IV (Arts. 42 al 75) de la Ley N.º 348 en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto de la Ley proporcionado, sin incorporar fuentes externas, y su fundamentación transcribe textualmente el fragmento que respalda la respuesta correcta.
+# Criterios documentales aplicados
+# Alcance de la fuente. El Título IV, «Persecución y sanción penal», comprende el Capítulo I, Denuncia (Arts. 42 al 52: instancias, obligaciones, garantías, prohibición de conciliar, servicios de justicia y SLIM); el Capítulo II, Investigación (Arts. 53 al 60: Fuerza Especial de Lucha Contra la Violencia e investigación de oficio); el Capítulo III, Persecución penal (Arts. 61 al 67: Ministerio Público, forenses y certificados médicos); y el Capítulo IV, Jurisdicción ordinaria (Arts. 68 al 75: juzgados especializados, que modifican la Ley N.º 025, requisitos, equipo interdisciplinario y reporte de causas). En el PDF proporcionado ocupa las páginas 24 a 39.
+# Página impresa. El documento (versión de la Gaceta Oficial de Bolivia) numera sus páginas al pie desde la primera página del PDF, por lo que la página impresa coincide con la página PDF. Cada referencia consigna ambas.
+# Fundamentación textual. Cada fundamentación transcribe entre comillas el fragmento de la Ley que respalda la respuesta correcta. En las preguntas derivadas se añade una nota breve rotulada «Aplicación razonada», que distingue la inferencia del contenido textual.
+# Competencias directivas. El Título IV no regula funciones específicas del director de Unidad Educativa: en ese sentido estricto, la dimensión 3 está «No respaldada por el documento fuente». Sí contiene disposiciones que orientan la actuación de toda autoridad que conoce un hecho de violencia: cualquier persona que conozca un delito puede denunciarlo (Art. 42.I), las Defensorías de la Niñez cuando la persona agredida es menor de 18 años (Art. 42.II), la prohibición de conciliar (Art. 46), la preferencia de los derechos para la dignidad de las mujeres (Art. 47) y la investigación de oficio (Art. 59). La dimensión 3 evalúa esas disposiciones aplicadas a la función directiva, con la nota «Aplicación razonada».
+# Cobertura y no duplicación. Las preguntas cubren los cuatro capítulos del Título IV, incluidas las modificaciones a la Ley N.º 025 del Órgano Judicial contenidas en el Artículo 68 (Arts. 68, 72, 72 bis y 72 ter de esa Ley). Algunos artículos centrales (Arts. 45, 46, 54, 61) se evalúan en varias preguntas con enfoques distintos; no hay preguntas repetidas ni con la misma respuesta y el mismo enfoque.
+# Etiqueta de trazabilidad. Cada enunciado inicia con [Ley N.º 348 – TÍTULO IV], para su integración en plataformas de simulación que combinan preguntas de varios documentos; el capítulo y el artículo exactos figuran en la referencia.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 27 preguntas y la más corta en 15, por lo que la longitud no es una pista.
+# 2. Distribución metodológica y ponderación
+# N.º
+# Tipo de evaluación
+# ¿Qué evalúa?
+# Preg.
+# Peso
+# N.º preg.
+# 1
+# Conocimiento y memorización
+# Dominio de conceptos, definiciones, principios, fechas, disposiciones y contenidos fundamentales del documento.
+# 10
+# 10%
+# 1–10
+# 2
+# Dominio conceptual
+# Comprensión de los fundamentos pedagógicos, administrativos, curriculares y organizativos del Sistema Educativo Plurinacional.
+# 10
+# 10%
+# 11–20
+# 3
+# Competencias y responsabilidades directivas
+# Conocimiento de las funciones, atribuciones, obligaciones y responsabilidades del director de una Unidad Educativa (en esta fuente: disposiciones aplicables a autoridades y servidores del ámbito educativo, con nota «Aplicación razonada»).
+# 10
+# 10%
+# 21–30
+# 4
+# Comprensión e interpretación
+# Capacidad para interpretar documentos, orientaciones pedagógicas y situaciones educativas.
+# 10
+# 10%
+# 31–40
+# 5
+# Diferenciación conceptual
+# Capacidad para distinguir conceptos, funciones, procedimientos, niveles de responsabilidad y enfoques educativos similares.
+# 10
+# 10%
+# 41–50
+# 6
+# Análisis crítico
+# Capacidad para identificar problemas institucionales, analizar sus causas, valorar alternativas y emitir criterios fundamentados.
+# 10
+# 10%
+# 51–60
+# 7
+# Aplicación normativa
+# Capacidad para aplicar correctamente la normativa en situaciones institucionales.
+# 10
+# 10%
+# 61–70
+# 8
+# Resolución de casos prácticos
+# Capacidad para resolver conflictos escolares, problemas administrativos, dificultades pedagógicas y situaciones con estudiantes, profesores y familias.
+# 10
+# 10%
+# 71–80
+# 9
+# Toma de decisiones
+# Capacidad para adoptar decisiones oportunas, pertinentes, fundamentadas y responsables ante situaciones institucionales.
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# Capacidad para planificar, organizar, dirigir, supervisar y evaluar acciones orientadas al mejoramiento de la calidad educativa.
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–10)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta [Ley N.º 348 – TÍTULO IV]; el capítulo y el artículo exactos figuran en la referencia.
+# Cada fundamentación transcribe el fragmento textual de la Ley y remite al artículo, parágrafo e inciso, con página impresa y página PDF.
+# Contenido limitado exclusivamente a el Título IV (Arts. 42 al 75) de la Ley N.º 348; no se atribuyen al director de Unidad Educativa competencias que la fuente no contiene.
+
+CAPÍTULO: ley-348-t4
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Ley N.º 348 – TÍTULO IV] Según el Artículo 42.I, ¿ante qué instancias puede denunciarse todo hecho de violencia contra las mujeres?
+A. Ante la Policía Boliviana y el Ministerio Público.
+B. Ante el Ministerio de Justicia y la Defensoría.
+C. Ante los juzgados de familia y la Procuraduría.
+D. Ante las juntas vecinales y los SLIM municipales.
+Respuesta correcta: A
+Explicación: «Todo hecho de violencia contra las mujeres podrá ser denunciado por la víctima o cualquier otra persona que conozca de un delito, ante las siguientes instancias: 1. Policía Boliviana. 2. Ministerio Público».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 42, parágrafo I (página impresa 24; página PDF 24).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Ley N.º 348 – TÍTULO IV] Según el Artículo 54.2, ¿en qué plazo máximo debe la Fuerza Especial poner a disposición del Ministerio Público a los aprehendidos en flagrancia?
+A. En el plazo máximo de ocho (8) horas.
+B. En el plazo máximo de veinticuatro horas.
+C. En el plazo máximo de cuarenta y ocho horas.
+D. En el plazo máximo de setenta y dos horas.
+Respuesta correcta: A
+Explicación: «Practicar las diligencias orientadas a la individualización de los autores y partícipes, asegurar su comparecencia, aprehenderlos de inmediato en caso de delito flagrante y ponerlos a disposición del Ministerio Público, en el plazo máximo de ocho (8) horas».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 54, numeral 2 (página impresa 30; página PDF 30).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Ley N.º 348 – TÍTULO IV] Según el Artículo 54.11, ¿durante cuánto tiempo debe la Fuerza Especial hacer seguimiento a la mujer en situación de violencia?
+A. Por cuarenta y ocho horas.
+B. Por setenta y dos (72) horas.
+C. Por treinta días calendario.
+D. Por ocho horas continuas.
+Respuesta correcta: B
+Explicación: «Hacer seguimiento a la mujer por setenta y dos (72) horas, con el fin de garantizar la eficacia de la protección brindada a la mujer en situación de violencia y las otras personas que estuvieran en riesgo».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 54, numeral 11 (página impresa 31; página PDF 31).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Ley N.º 348 – TÍTULO IV] Según el Artículo 53.I, ¿qué es la Fuerza Especial de Lucha Contra la Violencia?
+A. Una unidad del Ministerio de Justicia, bajo la dirección funcional de los Servicios Legales Integrales, según la norma.
+B. Un órgano del Consejo de la Magistratura, bajo la dirección funcional de los jueces de instrucción.
+C. Una dependencia de las Fuerzas Armadas, bajo la dirección funcional del Ministerio de Defensa.
+D. Un organismo especializado de la Policía Boliviana, bajo la dirección funcional del Ministerio Público.
+Respuesta correcta: D
+Explicación: «Se crea la Fuerza Especial de Lucha Contra la Violencia, como organismo especializado de la Policía Boliviana encargado de la prevención, auxilio e investigación, identificación y aprehensión de los presuntos responsables de hechos de violencia hacia las mujeres y la familia, bajo la dirección funcional del Ministerio Público […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 53, parágrafo I (página impresa 30; página PDF 30).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Ley N.º 348 – TÍTULO IV] Según el Artículo 53.I, ¿con cuántos niveles de actuación contará la Fuerza Especial de Lucha Contra la Violencia?
+A. Con tres niveles de actuación.
+B. Con dos niveles de actuación.
+C. Con cuatro niveles de actuación.
+D. Con cinco niveles de actuación.
+Respuesta correcta: C
+Explicación: «[…] Su estructura, organización y procedimientos serán establecidos de acuerdo a reglamento y contarán con cuatro niveles de actuación».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 53, parágrafo I (página impresa 30; página PDF 30).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+6. [Ley N.º 348 – TÍTULO IV] Según el Artículo 74, ¿con qué periodicidad debe el Consejo de la Magistratura reportar al SIPPASE el movimiento de causas por violencia hacia las mujeres?
+A. Con carácter mensual.
+B. Con carácter trimestral.
+C. Con carácter semestral.
+D. Con carácter anual.
+Respuesta correcta: B
+Explicación: «El Consejo de la Magistratura, deberá reportar al SIPPASE, el movimiento de causas por violencia hacia las mujeres, con carácter trimestral […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Art. 74 (página impresa 39; página PDF 39).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+7. [Ley N.º 348 – TÍTULO IV] Según el Artículo 61.6, ¿con qué periodicidad deben los Fiscales de Materia presentar al Fiscal General su informe sobre procedimientos y actuaciones en violencia contra las mujeres?
+A. Cada tres meses.
+B. Cada seis meses.
+C. Cada doce meses.
+D. Cada mes del año.
+Respuesta correcta: B
+Explicación: «Elaboración y presentación semestral a la o el Fiscal General del Estado, para su consolidación a nivel departamental y nacional, un informe sobre los procedimientos aplicados y las actuaciones practicadas por el Ministerio Público en materia de violencia contra las mujeres […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 61, numeral 6 (páginas impresas 33-34; páginas PDF 33-34).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+8. [Ley N.º 348 – TÍTULO IV] Según el Artículo 72 ter de la Ley del Órgano Judicial, modificado por el Artículo 68, ¿qué delitos conocen los Tribunales de Sentencia contra la violencia hacia las mujeres?
+A. Los delitos de acción privada de violencia contra las mujeres con pena privativa de libertad de hasta dos años, en el marco legal.
+B. Los delitos de violencia contra las mujeres con pena máxima de cuatro años o menos, en todos los casos.
+C. Los delitos de acción pública de violencia contra las mujeres con pena privativa de libertad mayor a cuatro (4) años.
+D. Solo los delitos de feminicidio, con independencia de la pena privativa de libertad prevista en la Ley.
+Respuesta correcta: C
+Explicación: «Los Tribunales de Sentencia contra la violencia hacia las mujeres tienen competencia para: 1. Conocer la substanciación y resolución del juicio penal en todos los delitos de acción pública que constituyan violencia contra las mujeres, sancionados con pena privativa de libertad mayores a cuatro (4) años, con las excepciones establecidas en la Ley […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Art. 68, que modifica el Art. 72 ter de la Ley N.º 025 (página impresa 38; página PDF 38).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+9. [Ley N.º 348 – TÍTULO IV] Según el Artículo 67, ¿quién crea y reglamenta la dirección especializada en casos de violencia contra las mujeres dentro del Instituto de Investigaciones Forenses?
+A. La o el Ministro de Justicia.
+B. El Consejo de la Magistratura.
+C. La o el Comandante de la Policía.
+D. La o el Fiscal General del Estado.
+Respuesta correcta: D
+Explicación: «La o el Fiscal General del Estado, en el marco de sus atribuciones, creará y reglamentará dentro el Instituto de Investigaciones Forenses, una dirección especializada en casos de violencia contra las mujeres […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 67 (página impresa 35; página PDF 35).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+10. [Ley N.º 348 – TÍTULO IV] Según el Artículo 49, ¿bajo la tuición de qué Ministerio se encuentra el Servicio Plurinacional de Defensa a la Víctima?
+A. Del Ministerio de Justicia, como institución descentralizada.
+B. Del Ministerio de Gobierno, como unidad desconcentrada.
+C. Del Ministerio de Salud, como servicio de atención integral.
+D. Del Ministerio de Trabajo, como dirección de defensa laboral.
+Respuesta correcta: A
+Explicación: «El Servicio Plurinacional de Defensa a la Víctima, como institución descentralizada bajo tuición del Ministerio de Justicia, apoyará a mujeres en situación de violencia carentes de recursos económicos […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 49 (página impresa 27; página PDF 27).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+11. [Ley N.º 348 – TÍTULO IV] Según el Artículo 46.I, ¿en qué hechos de violencia está prohibida la conciliación?
+A. En cualquier hecho de violencia contra las mujeres que comprometa su vida e integridad sexual.
+B. Solo en los hechos de violencia económica que superen un monto fijado por el Ministerio Público.
+C. Solo en los hechos de violencia psicológica cometidos por personas sin antecedentes registrados.
+D. En ningún hecho, pues la conciliación es la vía preferente para resolver la violencia familiar.
+Respuesta correcta: A
+Explicación: «La conciliación está prohibida en cualquier hecho de violencia contra las mujeres, que comprometa su vida e integridad sexual. Ninguna institución receptora de denuncias ni su personal, podrá promover la conciliación ni suscripción de ningún tipo de acuerdo entre la mujer y su agresor, bajo responsabilidad».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 46, parágrafo I (página impresa 27; página PDF 27).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+12. [Ley N.º 348 – TÍTULO IV] Según el Artículo 46.IV, ¿en qué condiciones puede excepcionalmente promoverse la conciliación?
+A. Por el fiscal o la víctima, hasta dos veces, incluso en los casos de reincidencia del agresor.
+B. Por el agresor, en cualquier momento del proceso, siempre que repare económicamente el daño.
+C. Únicamente por la víctima, sólo por única vez y no siendo posible en casos de reincidencia.
+D. Por la institución receptora, por única vez, para descongestionar la carga procesal del caso.
+Respuesta correcta: C
+Explicación: «Excepcionalmente la conciliación podrá ser promovida únicamente por la víctima, sólo por única vez y no siendo posible en casos de reincidencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 46, parágrafo IV (página impresa 27; página PDF 27).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+13. [Ley N.º 348 – TÍTULO IV] ¿Qué establece el Artículo 47 en caso de conflicto o colisión entre derechos individuales y colectivos?
+A. Se dará preferencia a los derechos colectivos de la comunidad, por encima de los derechos individuales de las mujeres.
+B. Se dará preferencia a los derechos del imputado, en aplicación del principio de presunción de inocencia en el proceso.
+C. Se dará preferencia a los derechos para la dignidad de las mujeres reconocidos en los tratados, la Constitución y la Ley.
+D. Se dará preferencia a la decisión de la autoridad administrativa, según la ponderación que realice en cada caso concreto, según la Ley 348.
+Respuesta correcta: C
+Explicación: «En caso de conflicto o colisión entre derechos individuales y colectivos, se dará preferencia a los derechos para la dignidad de las mujeres, reconocidos en los tratados internacionales de Derechos Humanos, en la Constitución Política del Estado y en la presente Ley».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 47 (página impresa 27; página PDF 27).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+14. [Ley N.º 348 – TÍTULO IV] ¿Qué implica el principio de investigación de oficio del Artículo 59.I?
+A. Que la investigación solo continúa mientras la denunciante la impulse activamente, pudiendo archivarse si ella deja de comparecer.
+B. Que la investigación se sigue independientemente del impulso de la denunciante, y toda denuncia se remite al Ministerio Público y se reporta al SIPPASE.
+C. Que la investigación la realiza de oficio la autoridad indígena del lugar, sin remisión al Ministerio Público ni reporte al SIPPASE.
+D. Que la investigación se inicia solo con orden judicial, a solicitud de la víctima y previo pago de los gastos de las diligencias.
+Respuesta correcta: B
+Explicación: «La investigación se seguirá de oficio, independientemente del impulso de la denunciante. Toda denuncia deberá ser obligatoriamente remitida al Ministerio Público y reportada al SIPPASE, indicando el curso que ha seguido».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 59, parágrafo I (página impresa 32; página PDF 32).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+15. [Ley N.º 348 – TÍTULO IV] Según el Artículo 45.1, ¿cómo garantiza el Estado el acceso a la justicia de las mujeres en situación de violencia?
+A. De manera onerosa pero subsidiada, mediante un proceso sumario sin audiencia de la víctima en ninguna de sus etapas, conforme a la Ley.
+B. De manera gratuita solo para mujeres del área rural, mediante un proceso escrito que no requiere oír a la víctima.
+C. De manera progresiva según la disponibilidad presupuestaria, mediante procesos conciliatorios previos obligatorios.
+D. De manera gratuita, real, oportuna y efectiva, mediante un debido proceso en el que sea oída dentro de un plazo razonable.
+Respuesta correcta: D
+Explicación: «El acceso a la justicia de manera gratuita, real, oportuna y efectiva, mediante un debido proceso en el que sea oída con las debidas garantías y dentro un plazo razonable».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 45, numeral 1 (página impresa 26; página PDF 26).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+16. [Ley N.º 348 – TÍTULO IV] Según el Artículo 45.2, ¿cómo deben ser las decisiones judiciales en casos de violencia contra las mujeres?
+A. Rápidas y sumarias, aunque prescindan de la valoración de las pruebas presentadas por las partes del proceso.
+B. Conciliatorias y flexibles, priorizando el restablecimiento de la convivencia familiar sobre la sanción al agresor.
+C. Reservadas y discrecionales, fundadas en la convicción íntima del juez sin necesidad de valorar la prueba.
+D. Ecuánimes e independientes, sin sesgos de género ni criterios subjetivos que afecten la valoración de pruebas.
+Respuesta correcta: D
+Explicación: «La adopción de decisiones judiciales ecuánimes e independientes, sin sesgos de género o criterios subjetivos que afecten o entorpezcan la valoración de pruebas y la consiguiente sanción al agresor».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 45, numeral 2 (página impresa 26; página PDF 26).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+17. [Ley N.º 348 – TÍTULO IV] Según el Artículo 50.I, ¿con qué carácter deben organizar los Gobiernos Autónomos Municipales los Servicios Legales Integrales Municipales?
+A. Con carácter permanente y gratuito, para la protección y defensa psicológica, social y legal de las mujeres.
+B. Con carácter temporal y oneroso, para la conciliación de los conflictos familiares en el área urbana del municipio.
+C. Con carácter voluntario y privado, para la atención de casos de violencia que no constituyan delito en el municipio.
+D. Con carácter rotativo y gratuito, para la atención exclusiva de casos derivados por el Ministerio Público del lugar.
+Respuesta correcta: A
+Explicación: «Los Gobiernos Autónomos Municipales tienen la obligación de organizar estos servicios o fortalecerlos si ya existen, con carácter permanente y gratuito, para la protección y defensa psicológica, social y legal de las mujeres en situación de violencia, para garantizar la vigencia y ejercicio pleno de sus derechos […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 50, parágrafo I (página impresa 28; página PDF 28).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+18. [Ley N.º 348 – TÍTULO IV] ¿Qué valor otorga el Artículo 65 al certificado médico extendido a una mujer agredida, para fines judiciales?
+A. Es prueba plena desde su emisión, sin necesidad de homologación por un experto forense del Estado.
+B. Carece de todo valor judicial, salvo que lo emita directamente un médico forense del Ministerio Público.
+C. Es un documento informativo sin valor probatorio, aun cuando haya sido homologado por un experto forense.
+D. Es un indicio respecto a los delitos de la Ley y, una vez homologado, adquiere valor probatorio.
+Respuesta correcta: D
+Explicación: «[…] Para fines judiciales, este certificado médico se lo tendrá como un indicio respecto a los delitos establecidos en la presente Ley, una vez homologado, adquirirá valor probatorio […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 65 (páginas impresas 34-35; páginas PDF 34-35).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+19. [Ley N.º 348 – TÍTULO IV] Según el Artículo 61.2, ¿cómo debe el fiscal recolectar las pruebas en delitos de violencia en razón de género?
+A. Sometiendo a la mujer a todas las pruebas médicas y reconstrucciones posibles, para asegurar la solidez de la acusación, conforme a norma.
+B. Basándose exclusivamente en la declaración de la mujer, sin recurrir a métodos científicos ni al apoyo de la tecnología.
+C. Sin someter a la mujer a pruebas, interrogatorios o peritajes no imprescindibles, recurriendo a métodos alternativos y científicos.
+D. Delegando la recolección de pruebas a la propia mujer, que debe aportar los peritajes y certificados a su costo.
+Respuesta correcta: C
+Explicación: «Recolección de las pruebas necesarias, como responsable de la investigación de delitos de violencia en razón de género, sin someter a la mujer a pruebas médicas, interrogatorios, reconstrucciones o peritajes que no sean los imprescindibles, debiendo recurrir a métodos de investigación alternativa, científica y con apoyo de la tecnología, a fin de averiguar la verdad».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 61, numeral 2 (página impresa 33; página PDF 33).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+20. [Ley N.º 348 – TÍTULO IV] ¿Qué exige el Artículo 44 al personal responsable de la recepción, investigación y tramitación de denuncias?
+A. Ser abogado con al menos diez años de ejercicio profesional en materia penal y procesal penal del Estado.
+B. Ser funcionario de carrera de la Policía Boliviana, con grado de oficial y formación en investigación criminal.
+C. Ser integrante de una organización social de mujeres, acreditado por el Ministerio de Justicia como Ente Rector, según lo dispuesto.
+D. Ser especializado o tener experiencia laboral en derechos humanos, derechos de las mujeres o atención a violencia de género.
+Respuesta correcta: D
+Explicación: «El personal responsable de la recepción, investigación y tramitación de denuncias deberá ser especializado o tener experiencia laboral en derechos humanos, derechos de las mujeres o en atención a situaciones de violencia de género».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 44 (página impresa 25; página PDF 25).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+21. [Ley N.º 348 – TÍTULO IV] Un director de Unidad Educativa conoce un hecho de violencia contra una madre de familia. Según el Artículo 42.I, ¿puede denunciarlo aunque no sea la víctima?
+A. No, solo la víctima puede denunciar los hechos de violencia ejercidos en su contra.
+B. No, solo los familiares directos de la víctima están legitimados para presentar denuncia.
+C. Sí, puede denunciarlo la víctima o cualquier otra persona que conozca de un delito.
+D. Sí, pero solo con autorización escrita de la víctima y de la Dirección Distrital.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Todo hecho de violencia contra las mujeres podrá ser denunciado por la víctima o cualquier otra persona que conozca de un delito, ante las siguientes instancias: 1. Policía Boliviana. 2. Ministerio Público». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa que conoce un hecho de violencia.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 42, parágrafo I (página impresa 24; página PDF 24).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+22. [Ley N.º 348 – TÍTULO IV] Una estudiante de 15 años es víctima de violencia. Además de la Policía y el Ministerio Público, ¿a qué institución puede acudir la dirección para promover la denuncia, según el Artículo 42.II?
+A. Al Servicio Plurinacional de Defensa a la Víctima, como única instancia para menores de edad.
+B. A la junta escolar de la unidad, como instancia de participación social de la comunidad educativa.
+C. Al Consejo de la Magistratura, por tratarse de una víctima menor de edad que requiere tutela judicial.
+D. A la Defensoría de la Niñez y Adolescencia, por ser la persona agredida menor de 18 años.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «A fin de promover la denuncia, se podrá acudir a las siguientes instituciones: 1. Servicios Legales Integrales Municipales. 2. Defensorías de la Niñez y Adolescencia, cuando la persona agredida sea menor de 18 años. […]». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa que conoce un hecho de violencia.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 42, parágrafo II (página impresa 25; página PDF 25).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+23. [Ley N.º 348 – TÍTULO IV] Un director propone reunir a una madre agredida y a su pareja para que firmen un «acta de buena conducta» y eviten la denuncia. ¿Qué dispone el Artículo 46?
+A. La conciliación está prohibida si compromete su vida o integridad sexual, y no se reconoce bajo presión a la víctima.
+B. La conciliación es la vía recomendada en el ámbito escolar, siempre que la promueva la autoridad educativa, según la normativa.
+C. La conciliación es válida si el acta se firma ante la junta escolar, que actúa como garante del acuerdo.
+D. La conciliación procede en todos los casos si el agresor se compromete por escrito a no reincidir.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «I. La conciliación está prohibida en cualquier hecho de violencia contra las mujeres, que comprometa su vida e integridad sexual. […] III. No se reconoce la conciliación bajo presión a la víctima o para evitar carga procesal, bajo responsabilidad funcionaria. IV. Excepcionalmente la conciliación podrá ser promovida únicamente por la víctima, sólo por única vez […]». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa que conoce un hecho de violencia.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 46, parágrafos I, III y IV (página impresa 27; página PDF 27).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+24. [Ley N.º 348 – TÍTULO IV] Una madre denunció violencia y luego pide a la dirección que «retire la denuncia» presentada por la unidad. ¿Qué dispone el Artículo 59.I?
+A. La denuncia se archiva automáticamente si la denunciante solicita su retiro por escrito.
+B. La investigación se sigue de oficio, independientemente del impulso de la denunciante.
+C. La denuncia se suspende hasta que la víctima ratifique su voluntad ante el juez de familia.
+D. La denuncia se retira si la dirección y la víctima firman un acuerdo de conciliación.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «La investigación se seguirá de oficio, independientemente del impulso de la denunciante. Toda denuncia deberá ser obligatoriamente remitida al Ministerio Público y reportada al SIPPASE, indicando el curso que ha seguido». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa que conoce un hecho de violencia.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 59, parágrafo I (página impresa 32; página PDF 32).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+25. [Ley N.º 348 – TÍTULO IV] Para promover una denuncia de violencia contra una madre de familia, ¿a qué servicio municipal puede derivarla la dirección según el Artículo 42.II?
+A. A la Dirección Distrital de Educación del municipio.
+B. Al Consejo Municipal, por medio de su comisión social.
+C. A los Servicios Legales Integrales Municipales.
+D. A la Defensoría del Pueblo, por medio de su oficina local.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «A fin de promover la denuncia, se podrá acudir a las siguientes instituciones: 1. Servicios Legales Integrales Municipales. […]». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa que conoce un hecho de violencia.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 42, parágrafo II (página impresa 25; página PDF 25).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+26. [Ley N.º 348 – TÍTULO IV] Una docente agredida carece de recursos para contratar abogado. ¿Qué servicio del Título IV puede orientarle la dirección para obtener patrocinio legal gratuito y apoyo psicológico?
+A. El Servicio Plurinacional de Defensa a la Víctima.
+B. El Instituto de Investigaciones Forenses del Estado.
+C. El Consejo de la Magistratura del distrito judicial.
+D. La Escuela de Jueces del Estado, mediante sus cursos.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El Servicio Plurinacional de Defensa a la Víctima, como institución descentralizada bajo tuición del Ministerio de Justicia, apoyará a mujeres en situación de violencia carentes de recursos económicos, mediante patrocinio legal gratuito y apoyo psicológico […]». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa que conoce un hecho de violencia.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 49 (página impresa 27; página PDF 27).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+27. [Ley N.º 348 – TÍTULO IV] Ante un hecho de violencia contra una estudiante, una autoridad debe decidir entre el interés colectivo de «no afectar la imagen de la comunidad educativa» y los derechos de la estudiante. ¿Qué dispone el Artículo 47?
+A. Se da preferencia al interés colectivo de la comunidad educativa, por representar a la mayoría de sus miembros, según la norma.
+B. Se da preferencia a la decisión de la junta escolar, como instancia de participación social de la comunidad.
+C. Se da preferencia a la reserva institucional, para evitar perjuicios a la gestión de la unidad educativa.
+D. Se da preferencia a los derechos para la dignidad de las mujeres reconocidos en los tratados, la Constitución y la Ley.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «En caso de conflicto o colisión entre derechos individuales y colectivos, se dará preferencia a los derechos para la dignidad de las mujeres, reconocidos en los tratados internacionales de Derechos Humanos, en la Constitución Política del Estado y en la presente Ley». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa que conoce un hecho de violencia.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 47 (página impresa 27; página PDF 27).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+28. [Ley N.º 348 – TÍTULO IV] Un policía que no pertenece a la Fuerza Especial es llamado a una unidad educativa por un hecho de violencia contra una docente y se niega a intervenir «por falta de competencia». ¿Qué dispone el Artículo 58.II?
+A. El policía actúa correctamente, pues solo la Fuerza Especial puede intervenir en hechos de violencia, según la Ley 348.
+B. El policía debe intervenir solo si la dirección presenta una denuncia escrita y firmada previamente.
+C. Ningún funcionario policial negará auxilio a mujeres en situación de violencia alegando falta de competencia.
+D. El policía puede negarse si el hecho ocurrió dentro de una institución pública con autoridad propia.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Ninguna funcionaria o funcionario policial negará el auxilio y apoyo a mujeres en situación de violencia alegando falta de competencia, aunque no forme parte de la Fuerza Especial de Lucha Contra la Violencia». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa que conoce un hecho de violencia.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 58, parágrafo II (página impresa 32; página PDF 32).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+29. [Ley N.º 348 – TÍTULO IV] Según el Artículo 59.II, ¿qué ocurre con las formalidades cuando existe peligro inminente para la integridad física de una persona protegida por la Ley?
+A. La policía debe esperar la orden judicial escrita, aunque exista peligro inminente para la integridad física.
+B. La policía puede intervenir solo con autorización previa de la autoridad institucional del lugar del hecho.
+C. El cumplimiento de las formalidades no se convertirá en impedimento para la intervención oportuna de la policía.
+D. La policía debe cumplir todas las formalidades del Código de Procedimiento Penal antes de cualquier actuación, según lo establecido.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Cuando exista peligro inminente para la integridad física de las personas protegidas por la Ley, el cumplimiento de las formalidades no se convertirá en impedimento para la intervención oportuna de la policía». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa que conoce un hecho de violencia.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 59, parágrafo II (página impresa 32; página PDF 32).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+30. [Ley N.º 348 – TÍTULO IV] Una madre agredida pregunta a la dirección qué puede obtener del proceso. Según el Artículo 45.8, ¿qué garantiza el Estado?
+A. La conciliación con el agresor, la preservación de la unidad familiar y el archivo reservado del caso denunciado, conforme a norma.
+B. La indemnización inmediata a cargo del Estado, sin necesidad de proceso ni de averiguación de los hechos.
+C. La sanción del agresor sin derecho a defensa, como medida de protección inmediata en favor de la mujer.
+D. La averiguación de la verdad, la reparación del daño y la prevención de la reiteración de los actos de violencia.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La averiguación de la verdad, la reparación del daño y prevención de la reiteración de los actos de violencia». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica la disposición citada a la actuación de una autoridad educativa que conoce un hecho de violencia.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 45, numeral 8 (página impresa 26; página PDF 26).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+31. [Ley N.º 348 – TÍTULO IV] Según el Artículo 42.III, ¿qué debe hacerse con la denuncia una vez conocida, cuando constituye delito?
+A. Archivarla en la institución receptora hasta que la víctima confirme su voluntad de continuar el proceso, conforme a norma.
+B. Remitirla de inmediato al Ministerio Público y reportarla al SIPPASE, salvo el caso de las autoridades indígenas.
+C. Remitirla a la junta vecinal para una conciliación previa, antes de su envío al Ministerio Público.
+D. Publicarla en el registro municipal, para conocimiento de la comunidad y prevención de nuevos hechos.
+Respuesta correcta: B
+Explicación: «Conocida la denuncia, ésta deberá ser remitida de inmediato al Ministerio Público cuando constituya delito, excepto en el caso del parágrafo II numeral 5, y consiguientemente, reportada al SIPPASE».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 42, parágrafo III (página impresa 25; página PDF 25).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+32. [Ley N.º 348 – TÍTULO IV] Según el Artículo 54.3, ¿en qué condiciones puede la Fuerza Especial ingresar a un domicilio para socorrer a personas agredidas?
+A. En cualquier caso, con mandamiento judicial previo y únicamente en horario diurno, para preservar la inviolabilidad del domicilio, conforme a la norma.
+B. En caso de flagrancia, pero solo con autorización del propietario del inmueble y durante el horario hábil de los días laborables.
+C. En caso de flagrancia, sin necesidad de mandamiento ni limitación de hora y día, solo para protegerlas y evitar mayores agresiones.
+D. En ningún caso, pues el ingreso a un domicilio requiere siempre orden fiscal escrita, aun cuando exista flagrancia del hecho.
+Respuesta correcta: C
+Explicación: «En caso de flagrancia, socorrer a las personas agredidas y a sus hijas e hijos u otros dependientes, aun cuando se encuentren dentro de un domicilio, sin necesidad de mandamiento ni limitación de hora y día, con la única finalidad de prestarles protección y evitar mayores agresiones».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 54, numeral 3 (página impresa 30; página PDF 30).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+33. [Ley N.º 348 – TÍTULO IV] ¿Qué se desprende del Artículo 46.II para los casos de violencia no comprendidos en la prohibición absoluta de conciliar?
+A. Que el Ministerio Público debe imponer las medidas de seguridad necesarias para preservar la integridad de las mujeres.
+B. Que el Ministerio Público debe promover la conciliación de oficio, para resolver el caso de manera expedita, por mandato legal.
+C. Que el Ministerio Público debe archivar el caso, pues la violencia no grave carece de relevancia penal.
+D. Que el Ministerio Público debe derivar el caso a la autoridad indígena, que lo resuelve por sus normas.
+Respuesta correcta: A
+Explicación: «En los casos no previstos en el parágrafo anterior, el Ministerio Público deberá imponer las medidas de seguridad que sean necesarias a fin de preservar la integridad física, psicológica y sexual de las mujeres».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 46, parágrafo II (página impresa 27; página PDF 27).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+34. [Ley N.º 348 – TÍTULO IV] Según el Artículo 61.3, ¿quién paga los peritajes técnicos y el tratamiento de la mujer en caso de delito flagrante?
+A. El imputado; si fuera probadamente insolvente, se recurre a los servicios del Sistema de Atención Integral de su jurisdicción.
+B. La mujer, que puede solicitar el reembolso al imputado una vez que se dicte la sentencia condenatoria ejecutoriada, en el marco legal.
+C. El Ministerio Público, con cargo a su presupuesto, sin posibilidad de repetir el costo contra el imputado.
+D. La familia de la mujer, que asume los costos mientras el proceso penal se encuentra en etapa preparatoria.
+Respuesta correcta: A
+Explicación: «En caso de requerirse peritajes técnicos, no deberán ser exigidos a la mujer. En caso de delito flagrante, será el imputado el responsable de pagar por éstos, así como por el tratamiento médico y psicológico que la mujer requiera; si fuera probadamente insolvente, se recurrirá a los servicios del Sistema de Atención Integral de su jurisdicción».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 61, numeral 3 (página impresa 33; página PDF 33).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+35. [Ley N.º 348 – TÍTULO IV] Según el Artículo 65, ¿en qué caso puede el experto forense practicar otro examen médico a la mujer al homologar un certificado?
+A. En todos los casos, como requisito previo y obligatorio para homologar cualquier certificado médico presentado.
+B. Solamente en caso de necesidad fundada e ineludible, tras entrevistar en primera instancia al profesional que lo extendió.
+C. Solo si la mujer lo solicita expresamente, sin necesidad de entrevistar al profesional que extendió el certificado, según lo establecido.
+D. Solo si el agresor impugna el certificado, en cuyo caso el nuevo examen se practica en presencia del imputado.
+Respuesta correcta: B
+Explicación: «[…] El certificado deberá ser homologado por un experto o una experta forense, quien deberá entrevistar en primera instancia a la o el profesional que extendió el certificado, y solamente en caso de que exista necesidad fundada e ineludible, podrá practicar otro examen médico a la mujer».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 65 (página impresa 35; página PDF 35).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+36. [Ley N.º 348 – TÍTULO IV] Según el Artículo 66, ¿en qué condiciones puede la mujer agredida obtener copias de las actuaciones de la investigación?
+A. Solo al concluir la investigación, previa notificación al imputado y pago de los aranceles judiciales.
+B. Solo mediante su abogado, previa autorización del fiscal y pago de los valores judiciales vigentes.
+C. Solo en copias legalizadas, previa orden del juez de instrucción y con un plazo de entrega de treinta días.
+D. Desde la denuncia, en forma expedita, sin notificación previa y sin costo adicional al de las fotocopias.
+Respuesta correcta: D
+Explicación: «Toda mujer agredida podrá solicitar copias simples o legalizadas de todas las actuaciones contenidas en la investigación, desde el momento de la denuncia, las cuales deberán ser otorgadas en forma expedita, sin notificación previa y sin costo adicional al de las fotocopias».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 66 (página impresa 35; página PDF 35).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+37. [Ley N.º 348 – TÍTULO IV] Según el Artículo 56.II, ¿qué valor tienen las diligencias realizadas por los servicios desconcentrados de la Fuerza Especial?
+A. Son meramente informativas y carecen de valor probatorio alguno.
+B. Tienen valor de prueba solo si las ratifica la víctima ante el juez.
+C. Son remitidas al nivel de investigación y tienen valor de prueba.
+D. Son archivadas en la estación policial sin remisión a la investigación.
+Respuesta correcta: C
+Explicación: «Todas las diligencias realizadas por estos servicios serán remitidas al nivel de investigación y tendrán valor de prueba».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 56, parágrafo II (página impresa 31; página PDF 31).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+38. [Ley N.º 348 – TÍTULO IV] Según el Artículo 72 bis de la Ley del Órgano Judicial, modificado por el Artículo 68, ¿qué competencia tienen los jueces de sentencia en violencia contra las mujeres cuando el hecho no constituye delito?
+A. Archivar el caso sin medida alguna, pues solo pueden actuar cuando el hecho constituye delito.
+B. Aplicar medidas de restricción y provisionales al agresor, y de asistencia y protección a la mujer.
+C. Derivar el caso al juez de familia, que es el único competente para dictar medidas de protección, según la norma.
+D. Convocar a conciliación obligatoria entre las partes, sin imponer medidas al agresor denunciado.
+Respuesta correcta: B
+Explicación: «2. Aplicar medidas de restricción y provisionales al agresor, y de asistencia y protección a la mujer en situación de violencia, cuando el hecho no constituya delito».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Art. 68, que modifica el Art. 72 bis de la Ley N.º 025 (página impresa 37; página PDF 37).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+39. [Ley N.º 348 – TÍTULO IV] Según el Artículo 75, ¿quiénes pueden interponer acciones constitucionales de defensa para garantizar los derechos de las mujeres?
+A. Las mujeres u otras personas en su nombre, cuando corresponda.
+B. Solo el Ministerio Público, en representación de la sociedad.
+C. Solo la Defensoría del Pueblo, como órgano de defensa de derechos.
+D. Solo las organizaciones de mujeres con personería jurídica.
+Respuesta correcta: A
+Explicación: «Las acciones constitucionales de defensa podrán ser interpuestas por las mujeres, u otras personas en su nombre cuando corresponda, a fin de garantizar el ejercicio pleno de sus derechos».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Art. 75 (página impresa 39; página PDF 39).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+40. [Ley N.º 348 – TÍTULO IV] Según el Artículo 52.I, ¿qué ocurre en casos de conflicto de intereses en el ámbito de las autoridades indígenas?
+A. Se resolverá el caso por la asamblea comunal, sin intervención de la jurisdicción ordinaria en ningún supuesto, conforme a la Ley.
+B. Se remitirá el caso al Ministerio de Justicia, que decide la jurisdicción aplicable mediante resolución.
+C. Se archivará el caso hasta que las partes acuerden la jurisdicción a la que desean someter la controversia.
+D. Se remitirá el caso a la jurisdicción ordinaria, aplicándose los ámbitos de vigencia de la Ley de Deslinde Jurisdiccional.
+Respuesta correcta: D
+Explicación: «A los efectos de la presente Ley serán aplicables los ámbitos de vigencia establecidos en la Ley de Deslinde Jurisdiccional, en casos de surgir conflictos de intereses se remitirá el caso a la jurisdicción ordinaria».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 52, parágrafo I (página impresa 29; página PDF 29).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+41. [Ley N.º 348 – TÍTULO IV] ¿Qué distingue a las instancias del Artículo 42.I de las instituciones del Artículo 42.II?
+A. Las del 42.I son instituciones a las que se acude para promover la denuncia; las del 42.II reciben formalmente la denuncia.
+B. Las del 42.I reciben la denuncia (Policía y Ministerio Público); las del 42.II son instituciones a las que se acude para promoverla.
+C. Las del 42.I atienden solo a menores de edad; las del 42.II atienden solo a mujeres mayores de edad en situación de violencia, según la normativa.
+D. Las del 42.I son municipales; las del 42.II pertenecen al nivel central, bajo tuición del Ministerio de Justicia.
+Respuesta correcta: B
+Explicación: «I. Todo hecho de violencia contra las mujeres podrá ser denunciado […] ante las siguientes instancias: 1. Policía Boliviana. 2. Ministerio Público. II. A fin de promover la denuncia, se podrá acudir a las siguientes instituciones: […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 42, parágrafos I y II (páginas impresas 24-25; páginas PDF 24-25).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+42. [Ley N.º 348 – TÍTULO IV] ¿Qué diferencia existe entre los Servicios Integrados de Justicia Plurinacional (Art. 48) y el Servicio Plurinacional de Defensa a la Víctima (Art. 49)?
+A. Los Integrados apoyan a mujeres sin recursos con patrocinio y apoyo psicológico; el de Defensa recibe denuncias y brinda orientación gratuita, por mandato legal.
+B. Los Integrados reciben denuncias y brindan orientación y patrocinio gratuito; el de Defensa apoya a mujeres sin recursos con patrocinio y apoyo psicológico.
+C. Los Integrados dependen de los municipios; el de Defensa depende del Órgano Judicial y del Consejo de la Magistratura del Estado.
+D. Los Integrados juzgan los delitos de violencia; el de Defensa investiga los hechos bajo la dirección funcional del Ministerio Público.
+Respuesta correcta: B
+Explicación: Art. 48.I: «Los Servicios Integrados de Justicia Plurinacional dependientes del Ministerio de Justicia, reciben denuncias y brindan orientación y patrocinio legal gratuito […]». Art. 49: «El Servicio Plurinacional de Defensa a la Víctima […] apoyará a mujeres en situación de violencia carentes de recursos económicos, mediante patrocinio legal gratuito y apoyo psicológico […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Arts. 48 y 49 (página impresa 27; página PDF 27).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+43. [Ley N.º 348 – TÍTULO IV] ¿Qué distingue la competencia de los jueces de sentencia (Art. 72 bis) de la de los Tribunales de Sentencia (Art. 72 ter) en violencia contra las mujeres?
+A. Los jueces conocen delitos con pena mayor a cuatro años; los Tribunales, delitos con pena máxima de cuatro años o menos.
+B. Los jueces conocen solo delitos de acción privada; los Tribunales conocen solo delitos de acción pública a instancia de parte.
+C. Los jueces conocen delitos con pena máxima de cuatro años o menos; los Tribunales, delitos con pena mayor a cuatro años.
+D. Los jueces conocen la etapa preparatoria; los Tribunales conocen la apelación de los autos dictados en esa etapa preparatoria.
+Respuesta correcta: C
+Explicación: Art. 72 bis: «1. Conocer y resolver los juicios por delitos de acción pública que constituyan violencia contra las mujeres, sancionados con pena privativa de libertad cuyo máximo legal sea de cuatro o menos años […]». Art. 72 ter: «1. […] sancionados con pena privativa de libertad mayores a cuatro (4) años […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Art. 68, que modifica los Arts. 72 bis y 72 ter de la Ley N.º 025 (páginas impresas 37-38; páginas PDF 37-38).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+44. [Ley N.º 348 – TÍTULO IV] ¿Qué distingue la competencia de los jueces de instrucción contra la violencia (Art. 72) de la de los jueces de sentencia (Art. 72 bis)?
+A. Los de instrucción conocen y resuelven los juicios por delitos de hasta cuatro años; los de sentencia controlan la investigación preparatoria, según la normativa.
+B. Los de instrucción controlan la investigación y la etapa preparatoria; los de sentencia conocen y resuelven los juicios por delitos de hasta cuatro años.
+C. Los de instrucción resuelven las apelaciones de sentencias; los de sentencia resuelven las excusas y recusaciones de los vocales de sala.
+D. Los de instrucción imponen sanciones alternativas; los de sentencia deciden solo sobre la cooperación judicial internacional en estos casos.
+Respuesta correcta: B
+Explicación: Art. 72: «1. El control de la investigación, conforme a las facultades y deberes previstos en la Ley; 2. Emitir las resoluciones jurisdiccionales y de protección que correspondan durante la etapa preparatoria […]». Art. 72 bis: «1. Conocer y resolver los juicios por delitos de acción pública […] cuyo máximo legal sea de cuatro o menos años […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Art. 68, que modifica los Arts. 72 y 72 bis de la Ley N.º 025 (página impresa 37; página PDF 37).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+45. [Ley N.º 348 – TÍTULO IV] ¿Qué diferencia existe entre la plataforma de atención y recepción de denuncias (Art. 54) y las unidades móviles (Art. 55) de la Fuerza Especial?
+A. La plataforma recibe denuncias y practica diligencias; las unidades móviles brindan recepción y auxilio en el lugar del hecho, priorizando el área rural.
+B. La plataforma brinda auxilio en el lugar del hecho priorizando el área rural; las unidades móviles reciben denuncias solo en las oficinas centrales, según la Ley 348.
+C. La plataforma juzga los delitos flagrantes en ocho horas; las unidades móviles dictan medidas de protección sin intervención del fiscal.
+D. La plataforma depende del Ministerio de Justicia; las unidades móviles dependen de los Gobiernos Autónomos Municipales del área rural.
+Respuesta correcta: A
+Explicación: Art. 54: «La Fuerza Especial […], en su nivel de atención y recepción de denuncias, tendrá las siguientes funciones: 1. Recibir denuncias […]». Art. 55: «La Fuerza Especial […], en su atención móvil, contará con equipo y personal especializado para la recepción de denuncias y el auxilio inmediato […] en el lugar donde se suscite el hecho, priorizando su acción en el área rural».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Arts. 54 y 55 (páginas impresas 30-31; páginas PDF 30-31).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+46. [Ley N.º 348 – TÍTULO IV] ¿Qué diferencia existe entre la homologación del certificado médico (Art. 65) y la designación de médicos forenses especializados (Art. 64)?
+A. La homologación designa forenses especializados en violencia de género; el Art. 64 da valor probatorio al certificado entrevistando a su emisor.
+B. La homologación da valor probatorio al certificado, entrevistando al profesional que lo extendió; el Art. 64 dispone forenses especializados en violencia de género.
+C. La homologación la realiza el juez de sentencia; el Art. 64 encarga a los forenses emitir los certificados médicos de primera atención.
+D. La homologación es facultativa y sin efecto probatorio; el Art. 64 prohíbe a los forenses atender directamente a las mujeres agredidas.
+Respuesta correcta: B
+Explicación: Art. 65: «[…] una vez homologado, adquirirá valor probatorio. El certificado deberá ser homologado por un experto o una experta forense, quien deberá entrevistar en primera instancia a la o el profesional que extendió el certificado […]». Art. 64: «Se designarán médicos forenses con especialidad en violencia de género […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Arts. 64 y 65 (páginas impresas 34-35; páginas PDF 34-35).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+47. [Ley N.º 348 – TÍTULO IV] ¿Qué distingue el requisito de especialidad del Artículo 69 del de formación del Artículo 70?
+A. El 69 prevé convenios de la Escuela de Jueces con universidades para posgrados; el 70 exige especialidad penal y certificado psicotécnico al postulante, en el marco legal.
+B. El 69 se aplica solo a funcionarios auxiliares; el 70 se aplica solo a los vocales de las salas penales de los Tribunales Departamentales.
+C. El 69 exige experiencia en conciliación familiar; el 70 exige formación en derecho comercial para los jueces contra la violencia.
+D. El 69 exige especialidad penal y conocimientos de género o derechos humanos, y certificado psicotécnico; el 70 prevé convenios de la Escuela de Jueces para posgrados.
+Respuesta correcta: D
+Explicación: Art. 69: «1. Especialidad en materia penal y conocimientos de género o, alternativamente, de derechos humanos […] 2. Certificado de suficiencia expedido por el Consejo de la Magistratura, de aptitud psicotécnica […]». Art. 70: «La Escuela de Jueces del Estado suscribirá convenios con las universidades que puedan organizar cursos de post grado […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Arts. 69 y 70 (páginas impresas 38-39; páginas PDF 38-39).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+48. [Ley N.º 348 – TÍTULO IV] ¿Qué diferencia existe entre el informe del Artículo 61.6 y el informe del Artículo 61.10 de los fiscales?
+A. El del 61.6 se presenta al SIPPASE con causas desagregadas; el del 61.10 se presenta al Fiscal General para su consolidación departamental y nacional.
+B. El del 61.6 es anual y se presenta a la Asamblea Legislativa; el del 61.10 es trimestral y se presenta al Consejo de la Magistratura.
+C. El del 61.6 se presenta semestralmente al Fiscal General; el del 61.10 se presenta semestralmente al SIPPASE, con causas desagregadas por sexo, edad y tipo de delito.
+D. Ambos son el mismo informe, que se presenta una vez al año al Ministerio de Justicia como Ente Rector de la Ley N.º 348, con carácter reservado en cada gestión.
+Respuesta correcta: C
+Explicación: Art. 61.6: «Elaboración y presentación semestral a la o el Fiscal General del Estado […] un informe sobre los procedimientos aplicados y las actuaciones practicadas […]». Art. 61.10: «[…] y presentar ante el SIPPASE, sus informes semestrales, con detalle de todas las causas atendidas, desagregadas al menos por sexo, edad y tipo de delito».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 61, numerales 6 y 10 (páginas impresas 33-34; páginas PDF 33-34).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+49. [Ley N.º 348 – TÍTULO IV] ¿Qué distingue el reporte del Consejo de la Magistratura (Art. 74) del reporte de los SLIM (Art. 50.II.14) al SIPPASE?
+A. Los SLIM reportan trimestralmente el movimiento de causas judiciales; el Consejo reporta las denuncias recibidas, el procedimiento y el resultado.
+B. El Consejo reporta trimestralmente el movimiento de causas judiciales; los SLIM reportan las denuncias recibidas, el procedimiento aplicado y el resultado final.
+C. El Consejo reporta los antecedentes de los postulantes a cargos públicos; los SLIM reportan los certificados médicos homologados por los forenses.
+D. Ninguno reporta al SIPPASE, pues la Ley reserva esa función exclusivamente al Ministerio Público y a la Policía Boliviana del Estado.
+Respuesta correcta: B
+Explicación: Art. 74: «El Consejo de la Magistratura, deberá reportar al SIPPASE, el movimiento de causas por violencia hacia las mujeres, con carácter trimestral […]». Art. 50.II.14: «Reportar todas las denuncias recibidas, el procedimiento aplicado y el resultado final del caso, ante el SIPPASE».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Art. 74 (página impresa 39; página PDF 39) y Art. 50, parágrafo II, numeral 14 (página impresa 29; página PDF 29).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+50. [Ley N.º 348 – TÍTULO IV] ¿Qué diferencia existe entre la capacitación del Artículo 51 para todo el personal municipal y la dirigida a los responsables directos de la atención?
+A. Todo el personal se capacita en derechos humanos, enfoque de género y acción positiva; los responsables directos reciben además formación básica en psicología de la mujer maltratada.
+B. Todo el personal recibe formación en psicología de la mujer maltratada; los responsables directos se capacitan solo en derechos humanos y enfoque de género.
+C. Todo el personal se capacita voluntariamente; los responsables directos reciben formación obligatoria en procedimiento penal y técnicas de interrogatorio.
+D. No existe diferencia, pues todo el personal municipal recibe idéntica capacitación anual, definida por el Ministerio de Justicia como Ente Rector.
+Respuesta correcta: A
+Explicación: «Los Gobiernos Autónomos Municipales adoptarán un sistema de capacitación permanente para su personal sobre Derechos Humanos, en especial de las mujeres, enfoque de género y medidas de acción positiva y, para quienes son responsables directos de su atención, incluirán además formación básica en psicología de la mujer maltratada».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 51 (página impresa 29; página PDF 29).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+51. [Ley N.º 348 – TÍTULO IV] Una funcionaria receptora de denuncias promueve que una mujer agredida sexualmente firme un acuerdo con su agresor «para evitar un largo proceso». ¿Qué análisis corresponde?
+A. Es coherente con la Ley, que promueve los acuerdos para evitar procesos largos en casos de violencia sexual.
+B. Es coherente si la mujer firma voluntariamente, pues su firma valida cualquier acuerdo con el agresor.
+C. Es contrario a la Ley: ninguna institución receptora puede promover la conciliación en hechos que comprometan la integridad sexual.
+D. Es contrario a la Ley solo si el agresor es reincidente, pues en el primer hecho el acuerdo es válido.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La conciliación está prohibida en cualquier hecho de violencia contra las mujeres, que comprometa su vida e integridad sexual. Ninguna institución receptora de denuncias ni su personal, podrá promover la conciliación ni suscripción de ningún tipo de acuerdo entre la mujer y su agresor, bajo responsabilidad». Aplicación razonada: la promoción del acuerdo por la funcionaria vulnera la prohibición expresa.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 46, parágrafo I (página impresa 27; página PDF 27).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+52. [Ley N.º 348 – TÍTULO IV] Un fiscal archiva un caso de violencia porque la denunciante dejó de asistir a las citaciones. ¿Qué análisis corresponde?
+A. Es correcto: sin el impulso de la denunciante, el Ministerio Público carece de facultad para continuar, según lo dispuesto.
+B. Es correcto si transcurrieron treinta días sin comparecencia, plazo que la Ley fija para el abandono.
+C. Es contrario a la Ley: la investigación se sigue de oficio, independientemente del impulso de la denunciante.
+D. Es contrario a la Ley solo si el hecho fue flagrante, pues en los demás casos rige el impulso de parte.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La investigación se seguirá de oficio, independientemente del impulso de la denunciante […]». Aplicación razonada: la inasistencia de la denunciante no justifica el archivo.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 59, parágrafo I (página impresa 32; página PDF 32).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+53. [Ley N.º 348 – TÍTULO IV] Una mujer agredida es sometida a tres exámenes médicos forenses sucesivos sin justificación. ¿Qué análisis corresponde?
+A. Es una práctica correcta, porque la reiteración de exámenes fortalece la prueba pericial presentada en el juicio oral.
+B. Es correcta si la mujer no se opuso expresamente, pues su silencio equivale a consentimiento para los nuevos exámenes.
+C. Contradice la Ley solo si los exámenes los practicó un médico no forense, pues los forenses pueden reiterarlos libremente.
+D. Contradice la Ley, que manda evitar revisiones médicas reiteradas e innecesarias y practicar otro examen solo ante necesidad fundada e ineludible.
+Respuesta correcta: D
+Explicación: Aplicación razonada: Art. 64: «[…] debiendo evitar en lo posible revisiones médicas reiteradas e innecesarias». Art. 65: «[…] y solamente en caso de que exista necesidad fundada e ineludible, podrá practicar otro examen médico a la mujer». Aplicación razonada: la reiteración injustificada revictimiza a la mujer.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Arts. 64 y 65 (páginas impresas 34-35; páginas PDF 34-35).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+54. [Ley N.º 348 – TÍTULO IV] Una víctima de violencia conciliada una vez vuelve a ser agredida por el mismo agresor y este propone una nueva conciliación. ¿Qué análisis corresponde?
+A. Es procedente: la víctima puede conciliar tantas veces como lo considere conveniente para su familia.
+B. Es procedente si la propone el agresor, pues la Ley le reconoce la iniciativa en casos de reincidencia, según lo dispuesto.
+C. Es improcedente: la conciliación excepcional solo procede por única vez y no es posible en casos de reincidencia.
+D. Es improcedente solo si transcurrió menos de un año desde la primera conciliación entre las partes.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Excepcionalmente la conciliación podrá ser promovida únicamente por la víctima, sólo por única vez y no siendo posible en casos de reincidencia». Aplicación razonada: concurren reincidencia, segunda conciliación e iniciativa del agresor.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 46, parágrafo IV (página impresa 27; página PDF 27).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+55. [Ley N.º 348 – TÍTULO IV] Un juez basa su fallo absolutorio en que la víctima «no se comportó como una víctima típica». ¿Qué análisis corresponde según el Artículo 45.2?
+A. Contradice la garantía de decisiones judiciales ecuánimes e independientes, sin sesgos de género ni criterios subjetivos.
+B. Es coherente con la Ley, que permite al juez valorar el comportamiento de la víctima como criterio central del fallo.
+C. Es coherente si el juez es especialista en materia penal, pues su especialidad legitima cualquier criterio de valoración, por mandato legal.
+D. Contradice la Ley solo si la víctima es menor de edad, pues en mujeres adultas se admite la valoración de su conducta.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La adopción de decisiones judiciales ecuánimes e independientes, sin sesgos de género o criterios subjetivos que afecten o entorpezcan la valoración de pruebas y la consiguiente sanción al agresor». Aplicación razonada: el estereotipo de «víctima típica» es un criterio subjetivo con sesgo de género.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 45, numeral 2 (página impresa 26; página PDF 26).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+56. [Ley N.º 348 – TÍTULO IV] Un municipio rural no organiza su Servicio Legal Integral Municipal alegando falta de presupuesto. ¿Qué análisis corresponde?
+A. Es justificado, porque la organización de los SLIM es facultativa y depende de la disponibilidad presupuestaria del municipio.
+B. Es justificado si el municipio deriva los casos a la ciudad capital, pues la Ley admite la atención centralizada en capitales.
+C. Incumple la Ley solo si el municipio tiene más de diez mil habitantes, umbral a partir del cual los SLIM son obligatorios.
+D. Incumple la obligación de organizar o fortalecer los SLIM, asignando presupuesto, infraestructura y personal, en especial para el área rural.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Los Gobiernos Autónomos Municipales tienen la obligación de organizar estos servicios o fortalecerlos si ya existen, con carácter permanente y gratuito […]. Para su funcionamiento, asignarán el presupuesto, infraestructura y personal necesario y suficiente […] en especial aquella que vive en el área rural de su respectiva jurisdicción». Aplicación razonada: la Ley establece una obligación, no una facultad sujeta a disponibilidad.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 50, parágrafo I (página impresa 28; página PDF 28).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+57. [Ley N.º 348 – TÍTULO IV] Para agilizar la carga procesal, un fiscal presiona a la víctima para que concilie en un caso de violencia psicológica. ¿Qué análisis corresponde?
+A. No se reconoce la conciliación bajo presión a la víctima o para evitar carga procesal, bajo responsabilidad funcionaria.
+B. Es válido, porque la violencia psicológica no compromete la vida y admite conciliación promovida por el fiscal.
+C. Es válido si la víctima termina aceptando, pues su aceptación posterior subsana la presión ejercida por el fiscal, conforme a la norma.
+D. No se reconoce la conciliación solo si la víctima presenta una queja formal ante la Fiscalía Departamental.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «No se reconoce la conciliación bajo presión a la víctima o para evitar carga procesal, bajo responsabilidad funcionaria». Aplicación razonada: la presión y el motivo de carga procesal invalidan la conciliación.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 46, parágrafo III (página impresa 27; página PDF 27).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+58. [Ley N.º 348 – TÍTULO IV] En la investigación, una fiscal ordena un careo entre la mujer y su agresor «para contrastar versiones». ¿Qué análisis corresponde según el Artículo 58.I?
+A. Contradice la medida de evitar el contacto, careo o cualquier proximidad de la mujer con su agresor.
+B. Es una diligencia válida, porque el careo es la forma más eficaz de contrastar las versiones de las partes.
+C. Es válida si se realiza en presencia de un abogado de la mujer, que garantiza el respeto a sus derechos.
+D. Contradice la Ley solo si el agresor tiene antecedentes, pues en los demás casos el careo es procedente.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «3. Evitar el contacto, careo o cualquier tipo de proximidad de la mujer con su agresor». Aplicación razonada: el careo está expresamente comprendido en la medida que debe evitarse.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 58, parágrafo I, numeral 3 (página impresa 32; página PDF 32).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+59. [Ley N.º 348 – TÍTULO IV] Una institución niega a la mujer agredida copias de su expediente hasta notificar al imputado y cobra un arancel adicional. ¿Qué análisis corresponde?
+A. Es correcto, porque la notificación previa al imputado protege su derecho a la defensa en el proceso penal.
+B. Es correcto si el arancel está previsto en el reglamento interno de la institución que custodia el expediente.
+C. Vulnera la Ley solo si la mujer pidió copias legalizadas, pues las copias simples requieren notificación previa, conforme a la norma.
+D. Vulnera el derecho a obtener copias en forma expedita, sin notificación previa y sin costo adicional al de las fotocopias.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Toda mujer agredida podrá solicitar copias simples o legalizadas de todas las actuaciones contenidas en la investigación, desde el momento de la denuncia, las cuales deberán ser otorgadas en forma expedita, sin notificación previa y sin costo adicional al de las fotocopias». Aplicación razonada: la notificación previa y el arancel adicional contradicen el Artículo 66.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 66 (página impresa 35; página PDF 35).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+60. [Ley N.º 348 – TÍTULO IV] Un fiscal exige a la mujer pagar los peritajes técnicos de su caso. ¿Qué análisis corresponde según el Artículo 61.3?
+A. Es correcto, pues la parte que ofrece la prueba debe financiar los peritajes requeridos.
+B. Es contrario a la Ley: los peritajes técnicos no deberán ser exigidos a la mujer.
+C. Es correcto si la mujer tiene recursos, pues la gratuidad alcanza solo a mujeres insolventes.
+D. Es contrario a la Ley solo en delitos flagrantes, pues en los demás la mujer debe pagarlos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «En caso de requerirse peritajes técnicos, no deberán ser exigidos a la mujer. En caso de delito flagrante, será el imputado el responsable de pagar por éstos […]». Aplicación razonada: la prohibición de exigir peritajes a la mujer es general.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 61, numeral 3 (página impresa 33; página PDF 33).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+61. [Ley N.º 348 – TÍTULO IV] Una mujer quechua hablante es víctima de violencia y no comprende el castellano. ¿Qué medida del Artículo 61 debe adoptar el fiscal?
+A. Requerir la interpretación o traducción necesaria y disponer la asistencia especializada, evitando la revictimización.
+B. Suspender la investigación hasta que la mujer aprenda el castellano o consiga un intérprete por cuenta propia, por mandato legal.
+C. Recibir su declaración en castellano con ayuda de un familiar del agresor, para agilizar la investigación.
+D. Derivar el caso a la autoridad indígena, por ser la única competente para atender a mujeres quechua hablantes.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Requerir la interpretación o traducción cuando sea necesaria y disponer la asistencia especializada, evitando toda forma de revictimización».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 61, numeral 8 (página impresa 34; página PDF 34).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+62. [Ley N.º 348 – TÍTULO IV] Una mujer en situación de violencia carece de recursos económicos para su defensa. ¿Qué debe hacer el fiscal según el Artículo 61.7?
+A. Exigirle que contrate un abogado particular para continuar.
+B. Solicitar al agresor que cubra los honorarios de su defensa.
+C. Archivar el caso hasta que la mujer obtenga patrocinio propio, según la norma.
+D. Requerir la asignación de patrocinio legal estatal a la mujer.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Requerir la asignación de patrocinio legal estatal a la mujer en situación de violencia carente de recursos económicos».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 61, numeral 7 (página impresa 34; página PDF 34).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+63. [Ley N.º 348 – TÍTULO IV] Un juez de violencia hacia las mujeres se excusa y todos los jueces de esa materia están impedidos. Según el Artículo 68 de la Ley del Órgano Judicial, modificado, ¿a quién pasa el proceso?
+A. A los jueces de materia penal y familiar, en ese orden.
+B. A los jueces de materia civil y comercial, y laboral.
+C. A los jueces de la niñez y adolescencia, y de ejecución.
+D. A los jueces de materia familiar y anticorrupción.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «4. De violencia hacia las mujeres, pasará a los de materia penal y familiar, en ese orden».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Art. 68, que modifica el Art. 68 de la Ley N.º 025 (página impresa 36; página PDF 36).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+64. [Ley N.º 348 – TÍTULO IV] Una víctima directa de un delito contra su libertad sexual corre peligro. ¿Qué puede disponer el fiscal según el Artículo 61.9?
+A. Su traslado obligatorio a otro departamento del país por un año.
+B. Su internación en un centro de salud mental hasta el juicio oral.
+C. Su ingreso a la Unidad de Atención y Protección a Víctimas y Testigos de Delitos.
+D. Su permanencia en la oficina fiscal hasta que concluya la investigación.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Cuando corresponda, disponer el ingreso de las víctimas directas e indirectas de delitos que atenten contra su vida, su integridad corporal o su libertad sexual a la Unidad de Atención y Protección a Víctimas y Testigos de Delitos».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 61, numeral 9 (página impresa 34; página PDF 34).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+65. [Ley N.º 348 – TÍTULO IV] Una mujer quiere retirar sus pertenencias del domicilio donde vive el agresor. ¿Qué función del Artículo 54 cumple la Fuerza Especial si ella lo solicita?
+A. Exigir al agresor que entregue las pertenencias en la estación policial, sin acompañar a la mujer al domicilio.
+B. Acompañarla y asistirla mientras retira sus pertenencias, evitando la retención de efectos o documentos, y llevarla donde ella indique.
+C. Retirar las pertenencias sin la presencia de la mujer y entregarlas al juez para su posterior distribución.
+D. Abstenerse de intervenir, pues el retiro de pertenencias es un asunto civil que requiere orden judicial previa.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Si la mujer en situación de violencia lo solicita, acompañarla y asistirla mientras retira sus pertenencias personales de su domicilio u otro lugar, evitando la retención de cualquier efecto o documentos personales y llevarla donde ella indique o a una casa de acogida o refugio temporal».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 54, numeral 10 (página impresa 31; página PDF 31).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+66. [Ley N.º 348 – TÍTULO IV] Un SLIM conoce un caso de violencia que constituye delito. Según el Artículo 50.II.11, ¿qué debe hacer?
+A. Resolverlo internamente mediante conciliación, sin derivarlo a otra instancia, según la norma.
+B. Derivarlo al Ministerio Público de forma inmediata, con los informes correspondientes.
+C. Archivarlo si la víctima no ratifica la denuncia dentro de las 72 horas.
+D. Remitirlo al juez de familia para que decida si constituye o no delito.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Derivar al Ministerio Público, de forma inmediata, los casos que constituyan delito, con los informes correspondientes».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 50, parágrafo II, numeral 11 (página impresa 29; página PDF 29).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+67. [Ley N.º 348 – TÍTULO IV] Para aspirar al cargo de juez de materia contra la violencia hacia las mujeres, ¿qué certificado exige el Artículo 69.2?
+A. Un certificado de suficiencia del Consejo de la Magistratura, de aptitud psicotécnica para el desempeño del cargo.
+B. Un certificado de antecedentes policiales emitido por la Fuerza Especial de Lucha Contra la Violencia, conforme a la norma.
+C. Un certificado de experiencia docente emitido por una universidad pública con convenio con la Escuela.
+D. Un certificado de afiliación a una organización de mujeres reconocida por el Ministerio de Justicia.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Certificado de suficiencia expedido por el Consejo de la Magistratura, de aptitud psicotécnica para el desempeño del cargo, que permita medir rasgos de personalidad, intereses y valores personales».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Art. 69, numeral 2 (página impresa 38; página PDF 38).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+68. [Ley N.º 348 – TÍTULO IV] Un juez de sentencia en violencia constata que un auxiliar judicial maltrató a la víctima durante una audiencia. ¿Qué competencia le reconoce el Artículo 72 bis?
+A. Sancionar a los servidores de apoyo judicial que incurran en maltrato o revictimización a mujeres en situación de violencia.
+B. Remitir el caso al Ministerio de Justicia, pues el juez carece de competencia sobre el personal de apoyo judicial, según la norma.
+C. Ordenar la conciliación entre la víctima y el auxiliar, para restablecer el clima de trabajo del juzgado.
+D. Archivar la queja, pues el maltrato del personal auxiliar no afecta el desarrollo del proceso penal.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «6. Sancionar a las y los servidores de apoyo judicial que incurran en maltrato o revictimización a mujeres en situación de violencia […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Art. 68, que modifica el Art. 72 bis de la Ley N.º 025 (página impresa 38; página PDF 38).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+69. [Ley N.º 348 – TÍTULO IV] En el área rural, ¿cómo deben actuar los Fiscales de Materia especializados contra la violencia hacia las mujeres según el Artículo 62?
+A. Deben atender solo en la capital de departamento.
+B. Deben desplazarse de forma regular y permanente.
+C. Deben actuar solo cuando la víctima se traslade a la ciudad.
+D. Deben delegar sus funciones a las autoridades indígenas.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «En el área rural las y los Fiscales de Materia especializados contra la violencia hacia las mujeres deberán desplazarse de forma regular y permanente».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 62 (página impresa 34; página PDF 34).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+70. [Ley N.º 348 – TÍTULO IV] Un equipo interdisciplinario de un juzgado contra la violencia debe tomar la declaración de una niña. ¿Qué función del Artículo 72 debe cumplir?
+A. Implementar el protocolo de atención para testimonios según su edad y madurez, evitando la repetición de interrogatorios.
+B. Tomar la declaración en audiencia pública, con presencia del agresor, para garantizar el principio de contradicción, conforme a norma.
+C. Repetir el interrogatorio cuantas veces sea necesario, para asegurar la coherencia del testimonio de la niña.
+D. Delegar la declaración a los padres de la niña, que la transmiten al juez mediante un escrito firmado.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Implementar el protocolo de atención para testimonios y declaraciones de niños, niñas y adolescentes según su edad y grado de madurez, de mujeres jóvenes y adultas en situación de violencia a fin de no alterar su proceso de recuperación mediante la repetición de interrogatorios, debiendo evitar la revictimización».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Art. 72, numeral 2 (página impresa 39; página PDF 39).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Ley N.º 348 – TÍTULO IV] Caso: la Fuerza Especial interviene en flagrancia en un domicilio, a las 2 de la madrugada, sin mandamiento judicial, para socorrer a una mujer y sus hijos. El agresor alega ilegalidad. ¿Cómo se resuelve?
+A. La intervención es ilegal: el ingreso a un domicilio requiere siempre mandamiento judicial y horario diurno.
+B. La intervención es legal solo si el propietario autorizó el ingreso, aunque no existiera mandamiento judicial.
+C. La intervención es ilegal si los hijos no estaban en riesgo, pues la Ley solo autoriza el ingreso para proteger menores, según la ley vigente.
+D. La intervención es legal: en flagrancia puede socorrerse a las personas agredidas sin mandamiento ni limitación de hora y día.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «En caso de flagrancia, socorrer a las personas agredidas y a sus hijas e hijos u otros dependientes, aun cuando se encuentren dentro de un domicilio, sin necesidad de mandamiento ni limitación de hora y día, con la única finalidad de prestarles protección y evitar mayores agresiones».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 54, numeral 3 (página impresa 30; página PDF 30).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Ley N.º 348 – TÍTULO IV] Caso: tras agredir a su pareja, un hombre es aprehendido en flagrancia y la mujer requiere tratamiento psicológico. ¿Quién debe pagarlo?
+A. El imputado; si fuera probadamente insolvente, se recurre al Sistema de Atención Integral de la jurisdicción.
+B. La mujer, con cargo a su seguro de salud, sin posibilidad de reclamar el costo al imputado.
+C. El Ministerio Público, que asume todos los costos del tratamiento sin repetir contra el imputado, según la ley vigente.
+D. La familia de la mujer, hasta que se dicte sentencia condenatoria ejecutoriada contra el agresor.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] En caso de delito flagrante, será el imputado el responsable de pagar por éstos, así como por el tratamiento médico y psicológico que la mujer requiera; si fuera probadamente insolvente, se recurrirá a los servicios del Sistema de Atención Integral de su jurisdicción».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 61, numeral 3 (página impresa 33; página PDF 33).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Ley N.º 348 – TÍTULO IV] Caso: una mujer agredida acude al SLIM y pide que la acompañen en el proceso hasta obtener sentencia. ¿Qué responsabilidad del SLIM corresponde?
+A. Brindar orientación verbal inicial, derivando el patrocinio a un abogado particular a costa de la mujer.
+B. Brindar patrocinio legal gratuito en instancias administrativas, policiales y judiciales hasta conseguir una sentencia firme.
+C. Brindar patrocinio solo en la etapa policial, sin acompañar a la mujer en las instancias judiciales.
+D. Brindar patrocinio solo si el agresor acepta, pues el SLIM requiere el consentimiento de ambas partes.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Brindar patrocinio legal gratuito en instancias administrativas, policiales y judiciales para la prosecución de los procesos hasta conseguir una sentencia firme».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 50, parágrafo II, numeral 6 (página impresa 28; página PDF 28).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Ley N.º 348 – TÍTULO IV] Caso: en una comunidad indígena, una mujer denuncia violencia psicológica ante su autoridad originaria, y ambas partes desean conciliar. ¿Qué marco aplica?
+A. La conciliación puede realizarse en el marco del Artículo 46: promovida solo por la víctima, por única vez y sin reincidencia.
+B. La conciliación puede realizarse sin límite alguno, pues la jurisdicción indígena no está sujeta a la Ley N.º 348, según lo establecido.
+C. La conciliación está prohibida en toda la jurisdicción indígena, aun en los casos de violencia psicológica leve.
+D. La conciliación puede promoverla la autoridad originaria, aunque el agresor sea reincidente en la comunidad.
+Respuesta correcta: A
+Explicación: Aplicación razonada: Art. 52.III: «La conciliación se podrá realizar en el marco de lo establecido en el Artículo 46 de la presente Ley». Art. 46.IV: «Excepcionalmente la conciliación podrá ser promovida únicamente por la víctima, sólo por única vez y no siendo posible en casos de reincidencia». Aplicación razonada: el caso no compromete la vida ni la integridad sexual, por lo que rige la excepción del Art. 46.IV.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 52, parágrafo III (página impresa 29; página PDF 29) y Art. 46, parágrafo IV (página impresa 27; página PDF 27).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Ley N.º 348 – TÍTULO IV] Caso: la Fuerza Especial aprehende en flagrancia a un agresor que portaba un cuchillo con el que amenazó a la víctima. ¿Qué debe hacer con el arma?
+A. Decomisarla y ponerla a disposición del Ministerio Público.
+B. Devolverla al agresor una vez concluida su declaración.
+C. Entregarla a la víctima como medida de protección personal.
+D. Destruirla de inmediato en la estación policial correspondiente.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Decomisar las armas y los objetos utilizados para amenazar y agredir, poniéndolos a disposición del Ministerio Público».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 54, numeral 6 (página impresa 30; página PDF 30).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Ley N.º 348 – TÍTULO IV] Caso: una mujer herida es atendida por la Fuerza Especial en el lugar de los hechos. ¿Qué deben hacer los efectivos respecto a su salud?
+A. Esperar a que un familiar la traslade por sus propios medios a un hospital.
+B. Tomar primero su declaración completa y luego derivarla a un centro de salud.
+C. Conducirla a los servicios de salud, promoviendo su atención inmediata.
+D. Recomendarle acudir al día siguiente al médico forense del Ministerio Público.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Conducir a la persona agredida a los servicios de salud, promoviendo su atención inmediata».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 54, numeral 8 (página impresa 31; página PDF 31).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Ley N.º 348 – TÍTULO IV] Caso: una médica de un centro privado acreditado atiende a una mujer víctima de agresión sexual. ¿Qué debe hacer para establecer su estado físico, según el Artículo 65?
+A. Abstenerse de certificar, pues solo los médicos forenses pueden emitir certificados en casos de violencia.
+B. Extender un certificado médico conforme al protocolo único de salud integrado al formulario único.
+C. Extender un informe libre sin formato, que el juez valora directamente como prueba plena del delito.
+D. Remitir a la mujer a un hospital público, pues los centros privados no pueden extender certificados.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Para establecer el estado físico de la mujer que hubiera sufrido una agresión física o sexual, cualquier profesional de salud que preste servicios en instituciones públicas o privadas acreditadas deberá extender un certificado médico, de acuerdo al protocolo único de salud integrado al formulario único que se establezca […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 65 (página impresa 34; página PDF 34).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Ley N.º 348 – TÍTULO IV] Caso: una mujer denuncia ante la Fuerza Especial y teme nuevas agresiones en los días siguientes. ¿Qué función específica del Artículo 54 garantiza su seguimiento?
+A. Hacer seguimiento al agresor por treinta días, mediante vigilancia policial permanente de su domicilio, por mandato legal.
+B. Hacer seguimiento telefónico mensual a la mujer, hasta la conclusión del proceso penal en el juzgado.
+C. Hacer seguimiento solo si la mujer se encuentra en una Casa de Acogida, durante su permanencia allí.
+D. Hacer seguimiento a la mujer por setenta y dos horas, para garantizar la eficacia de la protección brindada.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Hacer seguimiento a la mujer por setenta y dos (72) horas, con el fin de garantizar la eficacia de la protección brindada a la mujer en situación de violencia y las otras personas que estuvieran en riesgo».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 54, numeral 11 (página impresa 31; página PDF 31).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Ley N.º 348 – TÍTULO IV] Caso: el SLIM considera necesario que se dicten medidas de protección inmediata en favor de una mujer. ¿Cómo debe proceder según el Artículo 50.II.9?
+A. Solicitar, mediante la autoridad competente, la adopción judicial de las medidas y coordinar su cumplimiento con Casas de Acogida y salud.
+B. Dictar directamente las medidas de protección, con la misma fuerza que una resolución judicial ejecutoriada.
+C. Esperar a que la mujer contrate un abogado particular que solicite las medidas ante el juez competente, con sus propios recursos.
+D. Solicitar las medidas al Consejo Municipal, que las aprueba mediante una ordenanza de carácter especial.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Solicitar, a través de la autoridad competente, la adopción judicial de medidas provisionales, medidas cautelares y medidas de protección inmediata, coordinando su cumplimiento con las Casas de Acogida, instituciones de apoyo y de atención en salud».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 50, parágrafo II, numeral 9 (páginas impresas 28-29; páginas PDF 28-29).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Ley N.º 348 – TÍTULO IV] Caso: una mujer agredida desea saber en qué estado se encuentra su caso y qué actuaciones policiales y judiciales se realizaron. ¿Qué garantía del Artículo 45 la respalda?
+A. El acceso a información solo al concluir el proceso, para no afectar el secreto de la investigación en curso, según la Ley 348.
+B. El acceso a información clara, completa, veraz y oportuna sobre las actuaciones judiciales, policiales y otras de su caso.
+C. El acceso a información a través del agresor, que es notificado con todas las actuaciones del proceso penal.
+D. El acceso a información solo mediante orden judicial, previa solicitud escrita de su abogado patrocinante.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El acceso a información clara completa, veraz y oportuna sobre las actuaciones judiciales, policiales y otras que se realicen con relación a su caso, así como sobre los mecanismos y procedimientos contemplados en la presente Ley y otras normas concordantes».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 45, numeral 6 (página impresa 26; página PDF 26).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Ley N.º 348 – TÍTULO IV] Una instancia de recepción de denuncias decide qué hacer al recibir a una mujer agredida. ¿Qué obligación del Artículo 43 debe cumplir respecto a las pruebas?
+A. Exigirle que presente todas las pruebas en el acto de la denuncia.
+B. Recomendarle esperar a que el agresor aporte las pruebas del hecho, según la norma.
+C. Indicarle que las pruebas solo se recogen después de la sentencia.
+D. Asesorarla sobre la importancia y la forma de preservar las pruebas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «1. Asesorarlas sobre la importancia y la forma de preservar las pruebas».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 43, numeral 1 (página impresa 25; página PDF 25).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Ley N.º 348 – TÍTULO IV] Al recibir una denuncia, una instancia policial debe decidir qué documento anexar. ¿Qué exige el Artículo 43.4?
+A. Elaborar un acta de conciliación entre las partes, para anexarla a la denuncia como alternativa al proceso penal.
+B. Elaborar un informe con los elementos conocidos, detectados o determinados que esclarezcan los hechos, para anexarlo a la denuncia.
+C. Elaborar un certificado de buena conducta del agresor, para anexarlo a la denuncia como elemento de descargo.
+D. Elaborar un resumen de la denuncia sin elementos adicionales, pues la investigación corresponde solo al fiscal.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «4. Elaborar un informe que contenga todos los elementos que hubiera conocido, detectado o determinado, que sirvan para el esclarecimiento de los hechos, para anexarlo a la denuncia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 43, numeral 4 (página impresa 25; página PDF 25).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Ley N.º 348 – TÍTULO IV] Un fiscal debe decidir cómo proteger de inmediato a una mujer y a sus hijos en un caso que constituye delito. ¿Qué exige el Artículo 61.1?
+A. Esperar a que la mujer solicite expresamente las medidas, sin adoptar ninguna de oficio ni pedir homologación.
+B. Adoptar medidas solo a favor de los hijos, pues la protección de la mujer corresponde al juez de familia.
+C. Adoptar las medidas de protección necesarias y pedir a la autoridad jurisdiccional su homologación y las medidas cautelares.
+D. Derivar la decisión al SLIM, que es la única instancia facultada para dictar medidas de protección.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Adopción de las medidas de protección que sean necesarias, a fin de garantizar a la mujer en situación de violencia la máxima protección y seguridad, así como a sus hijas e hijos, pedir a la autoridad jurisdiccional su homologación y las medidas cautelares previstas por Ley, cuando el hecho constituya delito».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 61, numeral 1 (página impresa 33; página PDF 33).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Ley N.º 348 – TÍTULO IV] Un Fiscal Departamental decide cómo uniformar la actuación policial en casos de violencia. ¿Qué medida del Artículo 61.4 corresponde a los fiscales?
+A. Dejar que cada unidad policial defina sus propios criterios, sin protocolos comunes ni registro de causas.
+B. Delegar la definición de protocolos al Consejo de la Magistratura, que los aprueba para todo el país.
+C. Limitar la dirección de la investigación a los casos de feminicidio, sin criterios para los demás delitos.
+D. Dirigir la investigación policial definiendo protocolos y criterios comunes, preservando pruebas y generando estadísticas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Dirigir la investigación de las instancias policiales responsables de la investigación de delitos vinculados a la violencia hacia las mujeres, definiendo protocolos y criterios comunes de actuación, a fin de uniformar los procedimientos, preservar las pruebas y lograr un registro y seguimiento de causas hasta su conclusión, generando estadísticas a nivel municipal, departamental y nacional».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 61, numeral 4 (página impresa 33; página PDF 33).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Ley N.º 348 – TÍTULO IV] Un juez contra la violencia necesita un peritaje contable para un caso de violencia patrimonial. ¿Qué decisión le permite el Artículo 73?
+A. Rechazar el peritaje, pues el equipo interdisciplinario solo cubre las áreas social y psicológica.
+B. Ordenar peritajes y otros servicios de asistencia técnica en otras materias y profesiones que coadyuven a su labor.
+C. Exigir a la mujer que contrate un perito contable privado y presente el informe a su costo.
+D. Remitir el caso a un juez civil, competente para conocer la violencia patrimonial y económica.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Cuando el caso lo requiera, la jueza, el juez o el tribunal podrá ordenar peritajes y otros servicios de asistencia técnica en otras materias y profesiones que coadyuven a su labor».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Art. 73 (página impresa 39; página PDF 39).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Ley N.º 348 – TÍTULO IV] Un juzgado contra la violencia no cuenta con psicólogo propio en su equipo interdisciplinario. ¿Qué alternativa le ofrece el Artículo 71?
+A. Que el juez prescinda de los peritajes psicológicos, resolviendo el caso solo con la declaración de la víctima.
+B. Que el agresor proponga un psicólogo de su confianza, cuyo informe tiene el mismo valor legal que el oficial.
+C. Que la mujer contrate un psicólogo particular, cuyo informe se valora como indicio sin valor probatorio pleno.
+D. Que esos servicios sean provistos, con igual valor legal, por profesionales asignados por los Servicios de Atención Integral.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] Estos servicios podrán ser provistos, con igual valor legal, por profesionales, asignados por los Servicios de Atención Integral».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Art. 71 (página impresa 39; página PDF 39).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Ley N.º 348 – TÍTULO IV] Un Gobierno Autónomo Municipal decide cómo capacitar a su personal según la Ley. ¿Qué decisión es coherente con el Artículo 51?
+A. Realizar una capacitación única al ingreso del personal, sin actualización posterior ni contenidos diferenciados para los responsables directos.
+B. Adoptar un sistema de capacitación permanente en derechos humanos, género y acción positiva, con psicología de la mujer maltratada para responsables directos.
+C. Capacitar solo a los responsables directos de la atención, sin incluir al resto del personal municipal en los programas de formación.
+D. Delegar la capacitación de su personal a las organizaciones sociales, sin un sistema municipal propio ni contenidos definidos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Los Gobiernos Autónomos Municipales adoptarán un sistema de capacitación permanente para su personal sobre Derechos Humanos, en especial de las mujeres, enfoque de género y medidas de acción positiva y, para quienes son responsables directos de su atención, incluirán además formación básica en psicología de la mujer maltratada».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 51 (página impresa 29; página PDF 29).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Ley N.º 348 – TÍTULO IV] Una mujer víctima de violencia sexual requiere atención inmediata en un servicio de salud. ¿Qué garantía del Artículo 45.9 orienta la decisión del servicio?
+A. Atención diferida hasta contar con orden fiscal, para no alterar las pruebas del delito de violencia sexual denunciado.
+B. Atención solo en servicios públicos, sin cobertura del seguro social a corto plazo ni de los servicios privados.
+C. Atención psicológica únicamente, pues el tratamiento médico corresponde al médico forense del Ministerio Público.
+D. Acceso inmediato a atención física y psicológica, especialmente tratamiento profiláctico contra ITS y VIH y anticoncepción de emergencia.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Acceso a la atención que requieran para su recuperación física y psicológica, en los servicios públicos, seguro social a corto plazo y servicios privados, especialmente tratamiento profiláctico para prevenir infecciones de transmisión sexual, VIH/SIDA y anticoncepción de emergencia, de forma inmediata y oportuna».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 45, numeral 9 (página impresa 26; página PDF 26).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Ley N.º 348 – TÍTULO IV] La Fuerza Especial decide cómo contribuir a disminuir los índices de violencia en su zona. ¿Qué medida obligatoria del Artículo 58.I.6 corresponde?
+A. Realizar operativos de control de identidad masivos en los barrios con mayor número de denuncias registradas.
+B. Difundir los nombres y fotografías de los denunciados, como medida disuasiva para la comunidad de la zona.
+C. Organizar y diseñar campañas de prevención y orientación a la ciudadanía, a través de las organizaciones de la sociedad civil.
+D. Limitar su acción a la recepción de denuncias, dejando la prevención a cargo exclusivo del Ministerio de Justicia, según la norma.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «6. Organizar y diseñar campañas de prevención y orientación a la ciudadanía, a través de las organizaciones de la sociedad civil, con el fin de disminuir los índices de violencia contra las mujeres».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 58, parágrafo I, numeral 6 (página impresa 32; página PDF 32).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Ley N.º 348 – TÍTULO IV] El Ministerio de Justicia decide cómo ampliar la cobertura de los Servicios Integrados de Justicia Plurinacional. ¿Qué exige el Artículo 48.II?
+A. Concentrar estos servicios solo en las capitales de departamento.
+B. Transferir estos servicios a los municipios en un plazo de un año.
+C. Crear e implementar progresivamente estos servicios en todo el país.
+D. Mantener los servicios existentes sin crear nuevos en el territorio, según la norma.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El Ministerio de Justicia deberá crear e implementar progresivamente estos servicios en todo el país».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 48, parágrafo II (página impresa 27; página PDF 27).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Ley N.º 348 – TÍTULO IV] Para mejorar el sistema de información judicial sobre violencia, ¿qué contenido debe desglosar el reporte trimestral del Consejo de la Magistratura al SIPPASE?
+A. Solo el número total de causas ingresadas, sin desglose por delito ni por estado del proceso judicial.
+B. Los nombres completos de las víctimas y sus domicilios, para facilitar el seguimiento de cada caso.
+C. Solo las sentencias condenatorias ejecutoriadas, sin información de las causas aún en trámite judicial, según la normativa.
+D. Además de los indicadores regulares, el género y edad de las partes, el delito y el estado del proceso.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] con carácter trimestral, desglosando toda la información, además de los indicadores regulares, por género y edad de las partes, delito, estado del proceso».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Art. 74 (página impresa 39; página PDF 39).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Ley N.º 348 – TÍTULO IV] El Ministerio Público planifica su fortalecimiento institucional en casos de violencia. ¿Qué exige el Artículo 63 en cada Departamento?
+A. Un juzgado especializado contra la violencia por cada provincia, dependiente del Fiscal Departamental.
+B. Una Casa de Acogida administrada por la Fiscalía, con personal multidisciplinario y presupuesto propio.
+C. Una oficina del SLIM dentro de cada fiscalía, para la conciliación previa de los casos denunciados.
+D. Al menos un equipo de asesoras y asesores profesionales especializados para investigar casos de violencia hacia las mujeres.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] En cada Departamento el Ministerio Público contará con al menos un equipo de asesoras y asesores profesionales especializados para la investigación de casos de violencia hacia las mujeres, para lo cual podrán también solicitar la colaboración de organismos e instituciones de derechos humanos y de mujeres».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 63 (página impresa 34; página PDF 34).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Ley N.º 348 – TÍTULO IV] ¿Cómo debe proveerse estratégicamente a la Fuerza Especial de Lucha Contra la Violencia según el Artículo 60?
+A. Con los recursos sobrantes de otras unidades policiales, sin prioridad presupuestaria ni personal especializado.
+B. Solo en las capitales de departamento, sin dotación de infraestructura en los niveles desconcentrados ni móviles, conforme a norma.
+C. Con prioridad, de personal especializado y multidisciplinario, infraestructura y equipamiento adecuados, en todos sus niveles.
+D. Mediante donaciones privadas exclusivamente, sin asignación de recursos del Estado ni de la Policía Boliviana.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La Fuerza Especial de Lucha Contra la Violencia, en todos sus niveles de actuación, será provista, con prioridad, de personal especializado y multidisciplinario, infraestructura y equipamiento adecuados, en el marco de la Ley de Seguridad Ciudadana “Para una Vida Segura”».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 60 (página impresa 32; página PDF 32).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Ley N.º 348 – TÍTULO IV] Un SLIM diseña su plan anual de trabajo. ¿Qué combinación de responsabilidades del Artículo 50.II ofrece una gestión integral?
+A. Conciliación de todos los casos; archivo de denuncias no ratificadas; y difusión pública de la identidad de los agresores, según lo establecido.
+B. Apoyo psicológico, social y legal; patrocinio gratuito; prevención coordinada; visitas domiciliarias; y reporte de casos al SIPPASE.
+C. Atención solo de casos que no constituyan delito; derivación de los demás a abogados privados; y ausencia de reportes.
+D. Atención jurídica exclusiva; sin apoyo psicológico ni social; y reporte de casos solo cuando lo solicite el Ministerio.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «2. Prestar servicios de apoyo psicológico, social y legal. […] 6. Brindar patrocinio legal gratuito […] 8. Desarrollar acciones de prevención, en coordinación con instituciones públicas, privadas y organizaciones de mujeres. […] 10. Realizar visitas domiciliarias de apoyo y seguimiento e informes sociales. […] 14. Reportar todas las denuncias recibidas, el procedimiento aplicado y el resultado final del caso, ante el SIPPASE». Aplicación razonada: una gestión integral articula varias responsabilidades del Artículo 50.II.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 50, parágrafo II (páginas impresas 28-29; páginas PDF 28-29).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Ley N.º 348 – TÍTULO IV] El Fiscal General busca coherencia entre las distintas instancias receptoras de denuncias. ¿Qué herramienta prevé el Artículo 61.5?
+A. La fusión de todas las instancias receptoras en una sola oficina nacional bajo dependencia del Ministerio de Justicia.
+B. La delegación de la coordinación al Consejo de la Magistratura, mediante circulares de cumplimiento obligatorio.
+C. La coordinación de criterios de actuación, para lo cual el Fiscal General emitirá las instrucciones correspondientes.
+D. La libre actuación de cada instancia, sin instrucciones generales ni criterios comunes de recepción de denuncias.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Coordinación de los criterios de actuación de las diversas instancias de recepción de denuncias de casos de violencia hacia las mujeres, para lo cual la o el Fiscal General del Estado emitirá las correspondientes instrucciones».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo III: Persecución penal. Art. 61, numeral 5 (página impresa 33; página PDF 33).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Ley N.º 348 – TÍTULO IV] Para la sostenibilidad de la investigación especializada, ¿qué garantiza el Artículo 53.II respecto a los investigadores especiales?
+A. Su rotación anual obligatoria entre las distintas unidades de la Policía, según la norma.
+B. Su permanencia, conforme al Artículo 80 de la Ley del Ministerio Público.
+C. Su contratación temporal por proyectos financiados por la cooperación.
+D. Su transferencia a los municipios al cabo de cinco años de servicio.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Se garantiza la permanencia de las y los investigadores especiales, conforme al Artículo 80 de la Ley del Ministerio Público».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 53, parágrafo II (página impresa 30; página PDF 30).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Ley N.º 348 – TÍTULO IV] La Fuerza Especial planifica la cobertura territorial de su atención móvil. ¿Qué prioridad fija el Artículo 55?
+A. Priorizar su acción en el área rural, con equipo y personal especializado, en coordinación con los Fiscales de Materia.
+B. Priorizar las zonas comerciales urbanas, por concentrar el mayor flujo de personas y de denuncias registradas.
+C. Priorizar los barrios residenciales de las capitales, sin coordinación con los Fiscales de Materia del área.
+D. Priorizar las zonas fronterizas, por ser las únicas con competencia de la atención móvil de la Fuerza Especial, conforme a la Ley.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La Fuerza Especial de Lucha Contra la Violencia, en su atención móvil, contará con equipo y personal especializado para la recepción de denuncias y el auxilio inmediato, en coordinación con las y los Fiscales de Materia, en el lugar donde se suscite el hecho, priorizando su acción en el área rural».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 55 (página impresa 31; página PDF 31).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Ley N.º 348 – TÍTULO IV] ¿Qué estrategia de formación judicial prevé el Artículo 70 para quienes aspiren a ser jueces de materia contra la violencia hacia las mujeres?
+A. Cursos cortos virtuales del Consejo de la Magistratura, sin exigencia de especialización ni de enfoque de género para los aspirantes, según la norma.
+B. Pasantías en organizaciones de mujeres, que sustituyen la especialización académica en materia penal de los aspirantes al cargo.
+C. Convenios de la Escuela de Jueces con universidades para posgrados que aseguren especialización penal con enfoque de género y derechos humanos.
+D. Formación en conciliación familiar, como requisito principal para el ejercicio de la función judicial en materia de violencia.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La Escuela de Jueces del Estado suscribirá convenios con las universidades que puedan organizar cursos de post grado en las especialidades que se requieran para el ejercicio de la función judicial, para exigir que quienes aspiren a ser jueces de materia contra la violencia hacia las mujeres cuenten con una especialización en materia penal con enfoque de género y derechos humanos».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo IV: Jurisdicción ordinaria. Art. 70 (páginas impresas 38-39; páginas PDF 38-39).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Ley N.º 348 – TÍTULO IV] Para asegurar una atención policial integral, ¿qué medidas obligatorias del Artículo 58.I debe incorporar la Fuerza Especial en sus protocolos?
+A. Interrogatorios reiterados, careos con el agresor, difusión pública de los casos y conciliación en la estación policial.
+B. Atención individual sin equipo multidisciplinario, archivo de casos leves y derivación de todos los casos al juez de familia.
+C. Evaluación por equipo multidisciplinario, respeto a la dignidad e intimidad, coordinación con el sistema integral y evitar la revictimización.
+D. Recepción de denuncias solo en horario hábil, exigencia de testigos y suspensión del trámite si la víctima no ratifica.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «1. Asistir, orientar y evaluar la atención y protección que deberá prestarse a las mujeres en situación de violencia a través de un equipo multidisciplinario. 2. Respetar y proteger la dignidad, la intimidad y los derechos de las mujeres […] 4. Realizar acciones de coordinación con todas las instancias del sistema integral de atención […] 5. Evitar toda acción que implique revictimización, bajo responsabilidad».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo II: Investigación. Art. 58, parágrafo I (página impresa 32; página PDF 32).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Ley N.º 348 – TÍTULO IV] El Estado diseña su política de acceso a la justicia para mujeres. ¿Qué garantías del Artículo 45 deben articularse para una protección integral?
+A. Acceso a la justicia oneroso, asistencia jurídica privada, protección diferida hasta la sentencia y conciliación obligatoria previa al juicio, según la Ley 348.
+B. Acceso a la justicia solo en capitales, asistencia jurídica a cargo del agresor y protección limitada a los casos de violencia física grave.
+C. Acceso a la justicia condicionado a pruebas documentales, sin asistencia jurídica estatal y con publicidad de todas las actuaciones.
+D. Acceso a la justicia gratuito y oportuno, asistencia jurídica especializada, protección inmediata, atención con calidad y calidez, y no revictimización.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «1. El acceso a la justicia de manera gratuita, real, oportuna y efectiva […] 3. El acceso a servicios de protección inmediata, oportuna y especializada […] 4. Orientación y asistencia jurídica inmediata, gratuita y especializada. 5. Una atención con calidad y calidez […] 7. La protección de su dignidad e integridad, evitando la revictimización […]». Aplicación razonada: la política integral articula varias garantías del Artículo 45.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título IV: Persecución y sanción penal, Capítulo I: Denuncia. Art. 45 (página impresa 26; página PDF 26).

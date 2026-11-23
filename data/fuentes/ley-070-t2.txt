@@ -1,0 +1,1111 @@
+# Fuente: ley-070-t2.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez» (20 de diciembre de 2010)
+# Título II: Sistema Educativo Plurinacional (Arts. 8 al 68)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar el Título II de la Ley N.º 070 en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto de la Ley proporcionado, sin incorporar fuentes externas, y su fundamentación transcribe textualmente el fragmento que respalda la respuesta correcta.
+# Criterios documentales aplicados
+# Alcance de la fuente. El Título II comprende el Artículo 8 (estructura del sistema) y tres capítulos: Capítulo I, Subsistema de Educación Regular (Arts. 9 al 15); Capítulo II, Subsistema de Educación Alternativa y Especial (Arts. 16 al 27); y Capítulo III, Subsistema de Educación Superior de Formación Profesional (Arts. 28 al 68), con secciones sobre formación de maestros, técnica y tecnológica, artística, universitaria y evaluación y acreditación. En el PDF proporcionado ocupa las páginas 10 a 28.
+# Página impresa. El documento (versión de la Gaceta Oficial) numera sus páginas al pie con el formato «n/39», a partir de la segunda página del PDF. Por eso la página impresa equivale a la página PDF menos uno (p. ej., página PDF 4 = página impresa «3/39»). Cada referencia consigna ambas.
+# Fundamentación textual. Cada fundamentación transcribe entre comillas el fragmento de la Ley que respalda la respuesta correcta. En las preguntas derivadas se añade una nota breve rotulada «Aplicación razonada», que distingue la inferencia del contenido textual.
+# Competencias directivas. El Título II no regula funciones ni atribuciones del director de una Unidad Educativa: «No respaldado por el documento fuente». Solo establece requisitos para Directores Generales de las Escuelas Superiores de Formación de Maestras y Maestros (Art. 35.V) y para Rectores de institutos técnicos y tecnológicos (Art. 46.II). Por ello, la dimensión 3 evalúa esas disposiciones y las responsabilidades institucionales que el Título asigna (responsabilidad compartida en Educación Inicial, condiciones de permanencia, formación continua como derecho y deber, modalidad indirecta de Educación Especial, rezago escolar, Centros de Capacitación Técnica y profesionales en Ciencias de la Educación), sin atribuirlas al director de Unidad Educativa.
+# Cobertura y no duplicación. Las preguntas cubren los tres subsistemas y las cinco secciones de la educación superior. Algunos artículos centrales se evalúan en dos preguntas con enfoques distintos (conocimiento textual frente a aplicación o estrategia); no hay preguntas repetidas ni con la misma respuesta y el mismo enfoque.
+# Etiqueta de trazabilidad. Cada enunciado inicia con [Ley N.º 070 – TÍTULO II], para su integración en plataformas de simulación que combinan preguntas de varios documentos; el capítulo y artículo exactos figuran en la referencia.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 29 preguntas y la más corta en 7, por lo que la longitud no es una pista.
+# 2. Distribución metodológica y ponderación
+# N.º
+# Tipo de evaluación
+# ¿Qué evalúa?
+# Preg.
+# Peso
+# N.º preg.
+# 1
+# Conocimiento y memorización
+# Dominio de conceptos, definiciones, principios, fechas, disposiciones y contenidos fundamentales del documento.
+# 10
+# 10%
+# 1–10
+# 2
+# Dominio conceptual
+# Comprensión de los fundamentos pedagógicos, administrativos, curriculares y organizativos del Sistema Educativo Plurinacional.
+# 10
+# 10%
+# 11–20
+# 3
+# Competencias y responsabilidades directivas
+# Conocimiento de las funciones, atribuciones, obligaciones y responsabilidades del director (en este Título: requisitos de autoridades de instituciones formadoras y responsabilidades institucionales).
+# 10
+# 10%
+# 21–30
+# 4
+# Comprensión e interpretación
+# Capacidad para interpretar documentos, orientaciones pedagógicas y situaciones educativas.
+# 10
+# 10%
+# 31–40
+# 5
+# Diferenciación conceptual
+# Capacidad para distinguir conceptos, funciones, procedimientos, niveles de responsabilidad y enfoques educativos similares.
+# 10
+# 10%
+# 41–50
+# 6
+# Análisis crítico
+# Capacidad para identificar problemas institucionales, analizar sus causas, valorar alternativas y emitir criterios fundamentados.
+# 10
+# 10%
+# 51–60
+# 7
+# Aplicación normativa
+# Capacidad para aplicar correctamente la normativa en situaciones institucionales.
+# 10
+# 10%
+# 61–70
+# 8
+# Resolución de casos prácticos
+# Capacidad para resolver conflictos escolares, problemas administrativos, dificultades pedagógicas y situaciones con estudiantes, profesores y familias.
+# 10
+# 10%
+# 71–80
+# 9
+# Toma de decisiones
+# Capacidad para adoptar decisiones oportunas, pertinentes, fundamentadas y responsables ante situaciones institucionales.
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# Capacidad para planificar, organizar, dirigir, supervisar y evaluar acciones orientadas al mejoramiento de la calidad educativa.
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–10)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta [Ley N.º 070 – TÍTULO II]; el capítulo, la sección y el artículo exactos figuran en la referencia.
+# Cada fundamentación transcribe el fragmento textual de la Ley y remite al artículo y numeral, con página impresa y página PDF.
+# Contenido limitado exclusivamente al Título II de la Ley N.º 070; no se atribuyen al director de Unidad Educativa competencias que el Título II no contiene.
+
+CAPÍTULO: ley-070-t2
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Ley N.º 070 – TÍTULO II] Según el Artículo 8, el Sistema Educativo Plurinacional comprende:
+A. Los subsistemas de Educación Inicial, de Educación Escolarizada Regular, y de Educación Universitaria y Técnica Profesional del país.
+B. Los subsistemas de Educación Regular, de Educación Especial Inclusiva, y de Educación Permanente de Personas Adultas.
+C. Los subsistemas de Educación Regular, de Educación Alternativa y Especial, y de Educación Superior de Formación Profesional.
+D. Los subsistemas de Educación Fiscal, de Educación Privada y de Convenio, y de Educación Superior de Formación Profesional.
+Respuesta correcta: C
+Explicación: «El Sistema Educativo Plurinacional comprende: 1. Subsistema de Educación Regular. 2. Subsistema de Educación Alternativa y Especial. 3. Subsistema de Educación Superior de Formación Profesional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Artículo 8 (disposición inicial del Título). Art. 8 (página impresa 9, numeración «9/39»; página PDF 10).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Ley N.º 070 – TÍTULO II] Según el Artículo 11, el Subsistema de Educación Regular comprende:
+A. Educación Inicial Escolarizada, Primaria Comunitaria Productiva y Secundaria Técnica Humanística Vocacional regional.
+B. Educación Parvularia Comunitaria, Primaria Básica Vocacional y Secundaria Científica Humanística Productiva.
+C. Educación Inicial en Familia Comunitaria, Básica Comunitaria Productiva y Bachillerato Técnico Vocacional.
+D. Educación Inicial en Familia Comunitaria, Primaria Comunitaria Vocacional y Secundaria Comunitaria Productiva.
+Respuesta correcta: D
+Explicación: «El Subsistema de Educación Regular comprende: a) Educación Inicial en Familia Comunitaria. b) Educación Primaria Comunitaria Vocacional. c) Educación Secundaria Comunitaria Productiva».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 11 (página impresa 10, numeración «10/39»; página PDF 11).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Ley N.º 070 – TÍTULO II] ¿Qué duración tiene la Educación Inicial en Familia Comunitaria y cómo se distribuye según el Artículo 12?
+A. Cinco años: tres de la etapa no escolarizada y dos de la etapa escolarizada.
+B. Cuatro años: dos de la etapa no escolarizada y dos de la etapa escolarizada formal.
+C. Cinco años: dos de la etapa no escolarizada y tres de la etapa escolarizada.
+D. Seis años: tres de la etapa no escolarizada y tres de la etapa escolarizada.
+Respuesta correcta: A
+Explicación: «[…] De cinco años de duración, comprende dos etapas: 1. Educación Inicial en Familia Comunitaria, no escolarizada. […] De tres años de duración. 2. Educación Inicial en Familia Comunitaria, escolarizada. […] De dos años de duración».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 12 (páginas impresas 10-11; PDF 11-12).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Ley N.º 070 – TÍTULO II] ¿Qué duración establece el Artículo 13 para la Educación Primaria Comunitaria Vocacional?
+A. Cinco años de duración.
+B. Ocho años de duración.
+C. Cuatro años de duración.
+D. Seis años de duración.
+Respuesta correcta: D
+Explicación: «[…] educación física, deportiva y artística. De seis años de duración».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 13 (página impresa 11, numeración «11/39»; página PDF 12).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Ley N.º 070 – TÍTULO II] Según el Artículo 14.2, ¿a qué está orientada la Educación Secundaria Comunitaria Productiva?
+A. A la obtención del Diploma de Bachiller en Humanidades y, de manera inmediata, del grado de Técnico Superior.
+B. A la obtención del Título de Técnico Superior y, de manera opcional, del Diploma de Bachiller en Humanidades.
+C. A la obtención del Diploma de Bachiller Técnico Humanístico y, de manera progresiva, del grado de Técnico Medio.
+D. A la obtención del Diploma de Bachiller Científico y, de manera progresiva, del grado de Licenciatura técnica regional.
+Respuesta correcta: C
+Explicación: «[…] Está orientada a la formación y la obtención del Diploma de Bachiller Técnico Humanístico, y de manera progresiva con grado de Técnico Medio de acuerdo a las vocaciones y potencialidades productivas de las regiones y del Estado Plurinacional. De seis años de duración».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 14, numeral 2 (página impresa 11, numeración «11/39»; página PDF 12).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+6. [Ley N.º 070 – TÍTULO II] Según el Artículo 19.3, ¿qué certificaciones corresponden a los niveles de formación técnica en el Subsistema de Educación Alternativa y Especial?
+A. Técnico Inicial, Técnico Medio y Técnico Superior.
+B. Técnico Auxiliar, Técnico Superior y Licenciatura.
+C. Capacitación, Técnico Básico y Técnico Superior.
+D. Técnico Básico, Técnico Auxiliar y Técnico Medio.
+Respuesta correcta: D
+Explicación: «Los niveles de la formación y capacitación técnica tendrán su respectiva certificación como Técnico Básico, Técnico Auxiliar y Técnico Medio, que habilita a las y los estudiantes su continuidad en la Educación Superior y su incorporación al sector productivo […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II: Subsistema de Educación Alternativa y Especial. Art. 19, numeral 3 (página impresa 13, numeración «13/39»; página PDF 14).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+7. [Ley N.º 070 – TÍTULO II] Según el Artículo 30, la Educación Superior de Formación Profesional comprende:
+A. Formación de Maestras y Maestros, Técnica, Militar y Universitaria Autónoma y privada.
+B. Formación de Maestras y Maestros, Técnica y Tecnológica, Artística y Universitaria.
+C. Formación Universitaria, Técnica y Tecnológica, Artística y Permanente.
+D. Formación Docente, Tecnológica, Humanística y Universitaria de Posgrado.
+Respuesta correcta: B
+Explicación: «La Educación Superior de Formación Profesional comprende: a) Formación de Maestras y Maestros. b) Formación Técnica y Tecnológica. c) Formación Artística. d) Formación Universitaria».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III: Subsistema de Educación Superior de Formación Profesional. Art. 30 (páginas impresas 16-17; PDF 17-18).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+8. [Ley N.º 070 – TÍTULO II] Según el Artículo 34, la estructura de la Formación de Maestras y Maestros comprende:
+A. Formación Inicial, Formación Técnica y Formación Universitaria pública.
+B. Formación Básica, Formación Especializada y Formación Doctoral.
+C. Formación Inicial, Formación en Servicio y Formación Sindical.
+D. Formación Inicial, Formación Post gradual y Formación Continua.
+Respuesta correcta: D
+Explicación: «1. Formación Inicial de maestras y maestros. 2. Formación Post gradual para maestras y maestros. 3. Formación Continua de maestras y maestros».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección I: Formación Superior de Maestras y Maestros. Art. 34 (página impresa 17, numeración «17/39»; página PDF 18).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+9. [Ley N.º 070 – TÍTULO II] Según el Artículo 54, ¿qué grados académicos comprende el post grado?
+A. Técnico Superior, Licenciatura, Maestría, Doctorado y Diplomado.
+B. Diplomado, Licenciatura, Especialidad, Maestría y Doctorado.
+C. Especialidad, Maestría, Doctorado, Post doctorado y Magisterio.
+D. Diplomado, Especialidad, Maestría, Doctorado y Post doctorado.
+Respuesta correcta: D
+Explicación: «Pre grado: 1. Técnico Superior. 2. Licenciatura. Post grado: 1. Diplomado. 2. Especialidad. 3. Maestría. 4. Doctorado. 5. Post doctorado».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 54 (página impresa 22, numeración «22/39»; página PDF 23).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+10. [Ley N.º 070 – TÍTULO II] Según el Artículo 55, las universidades reconocidas por el Estado Plurinacional son:
+A. Públicas Autónomas, Privadas, Indígenas y de Régimen Especial.
+B. Públicas Autónomas, Privadas, Pedagógicas y Tecnológicas.
+C. Públicas, Privadas, Extranjeras y de Convenio Internacional vigente.
+D. Autónomas, Indígenas, Militares y de Formación de Maestros.
+Respuesta correcta: A
+Explicación: «Las Universidades reconocidas por el Estado Plurinacional de Bolivia son: 1. Universidades Públicas Autónomas. 2. Universidades Privadas. 3. Universidades Indígenas. 4. Universidades de Régimen Especial».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 55 (página impresa 22, numeración «22/39»; página PDF 23).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+11. [Ley N.º 070 – TÍTULO II] ¿Cómo define el Artículo 9 la Educación Regular?
+A. Educación no escolarizada, flexible y voluntaria para personas mayores de quince años que requieren continuar sus estudios.
+B. Educación sistemática y normada para personas con discapacidad, desde la atención temprana y a lo largo de toda la vida.
+C. Educación profesional, investigativa y productiva para bachilleres, desde el nivel técnico hasta el nivel de licenciatura.
+D. Educación sistemática, normada, obligatoria y procesual para niñas, niños, adolescentes y jóvenes, desde la Inicial hasta el bachillerato.
+Respuesta correcta: D
+Explicación: «Es la educación sistemática, normada, obligatoria y procesual que se brinda a todas las niñas, niños, adolescentes y jóvenes, desde la Educación Inicial en Familia Comunitaria hasta el bachillerato […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 9 (página impresa 10, numeración «10/39»; página PDF 11).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+12. [Ley N.º 070 – TÍTULO II] Según el Artículo 16.2, ¿en el marco de qué enfoques se desarrolla la Educación Alternativa y Especial?
+A. De la Educación Bancaria y Tradicional, la Educación Selectiva y la Educación Técnica Productiva laboral.
+B. De la Educación Popular y Comunitaria, la Educación Competitiva y la Educación por Resultados.
+C. De la Educación Popular y Comunitaria, la Educación Inclusiva y la Educación a lo largo de la vida.
+D. De la Educación Formal Escolarizada, la Educación Especializada y la Educación Universitaria.
+Respuesta correcta: C
+Explicación: «Se desarrolla en el marco de los enfoques de la Educación Popular y Comunitaria, Educación Inclusiva y Educación a lo largo de la vida, priorizando a la población en situación de exclusión, marginación o discriminación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II: Subsistema de Educación Alternativa y Especial. Art. 16, numeral 2 (página impresa 12, numeración «12/39»; página PDF 13).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+13. [Ley N.º 070 – TÍTULO II] ¿Cómo define el Artículo 28 la Educación Superior de Formación Profesional?
+A. Espacio exclusivo de formación universitaria autónoma, independiente de las necesidades productivas de la sociedad y del Estado en su conjunto.
+B. Espacio de formación profesional y de recuperación, generación y recreación de conocimientos que responde a las demandas de la sociedad.
+C. Espacio de capacitación técnica de corta duración, destinado a personas mayores de quince años que no concluyeron sus estudios.
+D. Espacio de formación académica teórica, orientado a la transmisión de conocimientos universales sin vínculo con la producción.
+Respuesta correcta: B
+Explicación: «Es el espacio educativo de formación profesional, de recuperación, generación y recreación de conocimientos y saberes, expresada en el desarrollo de la ciencia, la tecnología, la investigación y la innovación, que responde a las necesidades y demandas sociales, económicas, productivas y culturales de la sociedad y del Estado Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III: Subsistema de Educación Superior de Formación Profesional. Art. 28 (página impresa 16, numeración «16/39»; página PDF 17).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+14. [Ley N.º 070 – TÍTULO II] Según el Artículo 32, la Formación de Maestras y Maestros es:
+A. Única, monolingüe, fiscal y onerosa, y uniforme en todo el territorio nacional.
+B. Diversa, intercultural y plurilingüe, privada y subvencionada, y descentralizada por regiones.
+C. Única, intracultural, intercultural y plurilingüe, fiscal y gratuita, y diversificada.
+D. Única, intracultural, fiscal con aportes de los estudiantes, y centralizada.
+Respuesta correcta: C
+Explicación: «La Formación de Maestras y Maestros es: 1. Única, en cuanto a jerarquía profesional, calidad pedagógica, científica y con vocación de servicio. 2. Intracultural, intercultural y plurilingüe. 3. Fiscal y gratuita […]. 4. Diversificada, en cuanto a formación curricular e implementación institucional […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección I: Formación Superior de Maestras y Maestros. Art. 32 (página impresa 17, numeración «17/39»; página PDF 18).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+15. [Ley N.º 070 – TÍTULO II] Según el Artículo 21.I, ¿con qué nivel de calidad se desarrollan los procesos de la Educación Alternativa para jóvenes y adultos?
+A. Con un nivel de calidad menor, adecuado a la edad y disponibilidad de las personas jóvenes y adultas del sistema.
+B. Con el mismo nivel de calidad, pertinencia y equiparación de condiciones que en el Subsistema Regular.
+C. Con el nivel de calidad que defina cada centro, sin referencia a la calidad del Subsistema Regular.
+D. Con un nivel de calidad superior al Regular, por estar destinada a personas con experiencia laboral.
+Respuesta correcta: B
+Explicación: «Comprende las acciones educativas destinadas a jóvenes y adultos que requieren continuar sus estudios […] mediante procesos educativos sistemáticos e integrales, con el mismo nivel de calidad, pertinencia y equiparación de condiciones que en el Subsistema Regular».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección I: Educación Alternativa. Art. 21, parágrafo I (páginas impresas 13-14; PDF 14-15).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+16. [Ley N.º 070 – TÍTULO II] ¿A quiénes considera el Artículo 25.I personas con talento extraordinario a efectos de la Ley?
+A. Solo a estudiantes que obtienen el primer lugar en olimpiadas científicas nacionales o internacionales de su nivel.
+B. A estudiantes con dificultades en el aprendizaje que superan los objetivos curriculares de su nivel.
+C. A estudiantes con excelente aprovechamiento y a toda niña, niño y adolescente con talento natural destacado.
+D. Solo a niñas y niños menores de diez años con un coeficiente intelectual certificado por especialistas.
+Respuesta correcta: C
+Explicación: «[…] Entiéndase a efectos de la presente Ley a personas con talento extraordinario a estudiantes con excelente aprovechamiento y toda niña, niño y adolescente con talento natural destacado de acuerdo al parágrafo III del Artículo 82 de la Constitución Política del Estado Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección II: Educación Especial. Art. 25, parágrafo I (página impresa 15, numeración «15/39»; página PDF 16).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+17. [Ley N.º 070 – TÍTULO II] ¿Qué papel asigna el Artículo 12 a la familia y la comunidad en la Educación Inicial en Familia Comunitaria?
+A. Las sustituye por la unidad educativa como el primer espacio de socialización de la niña y el niño en su comunidad.
+B. Las reconoce y fortalece como el primer espacio de socialización y aprendizaje de la niña y el niño.
+C. Las considera actores secundarios, subordinados a la planificación técnica de la unidad educativa.
+D. Las reconoce como espacios de socialización solo a partir del ingreso a la Primaria Comunitaria.
+Respuesta correcta: B
+Explicación: «Constituye la base fundamental para la formación integral de la niña y el niño, se reconoce y fortalece a la familia y la comunidad como el primer espacio de socialización y aprendizaje […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 12 (encabezado) (página impresa 10, numeración «10/39»; página PDF 11).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+18. [Ley N.º 070 – TÍTULO II] ¿Cómo caracteriza el Artículo 41.1 la Formación Superior Técnica y Tecnológica?
+A. Como capacitación de corta duración, desvinculada del desarrollo productivo y orientada al empleo inmediato del egresado.
+B. Como formación profesional técnica e integral, articulada al desarrollo productivo, sostenible, sustentable y autogestionario.
+C. Como formación universitaria de posgrado, orientada a la investigación teórica sin articulación con la producción del país y sus regiones.
+D. Como formación técnica básica de nivel secundario, articulada a la obtención del Diploma de Bachiller Técnico Humanístico.
+Respuesta correcta: B
+Explicación: «Es la formación profesional técnica e integral, articulada al desarrollo productivo, sostenible, sustentable y autogestionario, de carácter científico, práctico-teórico y productivo».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección II: Formación Superior Técnica y Tecnológica. Art. 41, numeral 1 (página impresa 19, numeración «19/39»; página PDF 20).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+19. [Ley N.º 070 – TÍTULO II] Según el Artículo 68.III, ¿qué características tiene la Agencia Plurinacional de Evaluación y Acreditación de la Educación Superior Universitaria (APEAESU)?
+A. Es de carácter desconcentrado del Ministerio, conformada por rectores universitarios, y reglamentada por resolución ministerial.
+B. Es de carácter privado e independiente, conformada por evaluadores internacionales, y reglamentada por convenio con las universidades.
+C. Es de carácter autónomo universitario, conformada por un Consejo de Rectores, y reglamentada por el estatuto de la Universidad Boliviana.
+D. Es de carácter descentralizado, conformada por un Directorio y un Equipo Técnico Especializado, reglamentada por Decreto Supremo.
+Respuesta correcta: D
+Explicación: «Se crea la Agencia Plurinacional de Evaluación y Acreditación de la Educación Superior Universitaria, será de carácter descentralizado, conformado por un Directorio y un Equipo Técnico Especializado. Su funcionamiento y financiamiento será reglamentado por Decreto Supremo».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección V: Evaluación y Acreditación Universitaria. Art. 68, parágrafo III (página impresa 27, numeración «27/39»; página PDF 28).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+20. [Ley N.º 070 – TÍTULO II] ¿Cómo define el Artículo 52 la Formación Superior Universitaria?
+A. Espacio de capacitación técnica de corta duración, sin investigación ni interacción social, orientado al empleo inmediato de sus egresados técnicos.
+B. Espacio de formación exclusiva de maestras y maestros, con investigación pedagógica y dependencia directa del Ministerio de Educación.
+C. Espacio de formación teórica general, sin vínculo con el desarrollo productivo ni con las dimensiones política, económica y sociocultural.
+D. Espacio de formación de profesionales, investigación científica-tecnológica, interacción social e innovación para el desarrollo productivo del país.
+Respuesta correcta: D
+Explicación: «Es el espacio educativo de la formación de profesionales, desarrollo de la investigación científica-tecnológica, de la interacción social e innovación en las diferentes áreas del conocimiento y ámbitos de la realidad, para contribuir al desarrollo productivo del país expresado en sus dimensiones política, económica y sociocultural […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 52 (página impresa 21, numeración «21/39»; página PDF 22).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+21. [Ley N.º 070 – TÍTULO II] Según el Artículo 12.1, ¿de quién es responsabilidad la Educación Inicial en Familia Comunitaria no escolarizada?
+A. Es de responsabilidad exclusiva del Estado, a través de la unidad educativa del lugar.
+B. Es de responsabilidad exclusiva de la familia, sin intervención del Estado.
+C. Es de responsabilidad compartida entre la familia, la comunidad y el Estado.
+D. Es de responsabilidad compartida entre la unidad educativa y los municipios.
+Respuesta correcta: C
+Explicación: «Educación Inicial en Familia Comunitaria, no escolarizada. Es de responsabilidad compartida entre la familia, la comunidad y el Estado, orientada a recuperar, fortalecer y promover la identidad cultural del entorno de la niña y el niño, el apoyo a la familia en la prevención y promoción de la salud y la buena nutrición […]». Nota: La Ley N.º 070, Título II, no regula funciones específicas del director de una Unidad Educativa; la pregunta identifica responsabilidades que enmarcan la gestión institucional.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 12, numeral 1 (página impresa 11, numeración «11/39»; página PDF 12).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+22. [Ley N.º 070 – TÍTULO II] Según el Artículo 13, ¿qué condiciones debe brindar el nivel de Educación Primaria Comunitaria Vocacional a las y los estudiantes?
+A. Las condiciones de selección académica, promoviendo solo a quienes alcanzan el mayor rendimiento académico.
+B. Las condiciones de formación técnica especializada, para su incorporación inmediata al trabajo.
+C. Las condiciones necesarias de permanencia, desarrollando todas sus capacidades y potencialidades.
+D. Las condiciones de evaluación externa, para clasificar a las unidades según sus resultados.
+Respuesta correcta: C
+Explicación: «[…] Este nivel brinda condiciones necesarias de permanencia de las y los estudiantes; desarrolla todas sus capacidades, potencialidades, conocimientos, saberes […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 13 (página impresa 11, numeración «11/39»; página PDF 12).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+23. [Ley N.º 070 – TÍTULO II] Según el Artículo 40.1, ¿qué carácter tiene la formación continua para toda maestra y maestro?
+A. Es una opción voluntaria, orientada a la obtención de grados académicos que mejoren la remuneración del maestro.
+B. Es un derecho y un deber, orientado a mejorar la calidad de la gestión, los procesos, los resultados y el ambiente educativo.
+C. Es un deber disciplinario, cuyo incumplimiento conlleva la pérdida inmediata de la inamovilidad funcionaria.
+D. Es un derecho sin obligación alguna, orientado solo a la actualización en la especialidad que ejerce el maestro.
+Respuesta correcta: B
+Explicación: «La formación continua es un derecho y un deber de toda maestra y maestro, está orientada a su actualización y capacitación para mejorar la calidad de la gestión, de los procesos, de los resultados y del ambiente educativo, fortaleciendo las capacidades innovadoras de los educadores».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección I: Formación Superior de Maestras y Maestros. Art. 40, numeral 1 (página impresa 19, numeración «19/39»; página PDF 20).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+24. [Ley N.º 070 – TÍTULO II] Según el Artículo 35.V, ¿quiénes realizan la gestión institucional de las Escuelas Superiores de Formación de Maestras y Maestros y qué requisito deben cumplir?
+A. Los Rectores electos, profesionales con grado igual al que otorgan las Escuelas Superiores.
+B. Los Directores Generales, profesionales con grado superior al que otorgan las Escuelas.
+C. Los Directores Generales, maestros con al menos diez años de antigüedad docente.
+D. Los Consejos Académicos, integrados por docentes con grado de licenciatura.
+Respuesta correcta: B
+Explicación: «La gestión institucional de las Escuelas Superiores de Formación de Maestros y Maestras, se realizará a través de los Directores Generales quienes deberán ser profesionales con grado superior al que otorgan las Escuelas».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección I: Formación Superior de Maestras y Maestros. Art. 35, parágrafo V (página impresa 18, numeración «18/39»; página PDF 19).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+25. [Ley N.º 070 – TÍTULO II] Según el Artículo 35.VI, ¿qué requisitos deben cumplir las y los docentes de las Escuelas Superiores de Formación de Maestras y Maestros?
+A. Ser profesionales de cualquier área, con grado académico inferior al que oferta la institución formadora.
+B. Ser maestros con al menos quince años de servicio, sin requisito de grado académico en la institución.
+C. Ser profesionales con título de maestro y grado académico igual o superior al que oferta la institución.
+D. Ser profesionales con grado de doctorado, sin necesidad de contar con título de maestro en provisión.
+Respuesta correcta: C
+Explicación: «El desarrollo del proceso educativo en las Escuelas Superiores de Formación de Maestros y Maestras se realizará a través de los docentes que serán profesionales con título de maestro y grado académico igual o superior al grado que oferta la institución».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección I: Formación Superior de Maestras y Maestros. Art. 35, parágrafo VI (página impresa 18, numeración «18/39»; página PDF 19).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+26. [Ley N.º 070 – TÍTULO II] Según el Artículo 46.II, ¿qué requisito deben cumplir las y los Rectores de los Institutos Técnicos, Institutos Tecnológicos y Escuelas Superiores?
+A. Ser profesionales con grado académico igual a los programas ofertados.
+B. Ser profesionales con grado académico superior a los programas ofertados.
+C. Ser técnicos con experiencia productiva, sin requisito de grado académico.
+D. Ser maestros normalistas con al menos diez años de servicio en el aula.
+Respuesta correcta: B
+Explicación: «Las y los Rectores de los Institutos Técnicos, Institutos Tecnológicos y Escuelas Superiores serán profesionales con grado académico superior a los programas ofertados».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección II: Formación Superior Técnica y Tecnológica. Art. 46, parágrafo II (páginas impresas 20-21; PDF 21-22).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+27. [Ley N.º 070 – TÍTULO II] Según el Artículo 27, ¿en qué consiste la modalidad indirecta de la Educación Especial?
+A. En la atención exclusiva de estudiantes con discapacidad en centros especializados, separados de las unidades del sistema educativo plurinacional.
+B. En la atención a distancia de personas con discapacidad, sin participación de la comunidad educativa ni de las unidades del sistema.
+C. En la derivación de estudiantes con talento extraordinario a universidades, sin inclusión en las unidades del sistema educativo plurinacional.
+D. En la inclusión de personas con discapacidad, dificultades en el aprendizaje y talento extraordinario en el sistema, sensibilizando a la comunidad educativa.
+Respuesta correcta: D
+Explicación: «Modalidad indirecta, a través de la inclusión de las personas con discapacidad, personas con dificultades en el aprendizaje y personas con talento extraordinario en el Sistema Educativo Plurinacional, sensibilizando a la comunidad educativa».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección II: Educación Especial. Art. 27, modalidad 2 (página impresa 15; PDF 16).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+28. [Ley N.º 070 – TÍTULO II] Según el Artículo 15, ¿qué se considera prioridad educativa en la educación escolarizada integral para la población en desventaja social?
+A. Las políticas de excelencia académica.
+B. Las políticas de evaluación estandarizada.
+C. Las políticas de rezago escolar.
+D. Las políticas de selección de estudiantes.
+Respuesta correcta: C
+Explicación: «Es la educación integral escolarizada dirigida a la atención de niñas, niños y adolescentes, jóvenes trabajadores desprotegidos y en desventaja social para protegerlos del entorno, mediante programas especiales de hogares abiertos con servicios integrales de salud, alimentación, educación, reinserción escolar y sociolaboral, considerando políticas de rezago escolar como prioridad educativa».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 15 (página impresa 11, numeración «11/39»; página PDF 12).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+29. [Ley N.º 070 – TÍTULO II] Según el Artículo 20, ¿qué características tienen los Centros de Capacitación Técnica?
+A. Desarrollan programas de licenciatura, dependen del Subsistema de Educación Superior y solo pueden ser de carácter fiscal y gratuito.
+B. Desarrollan programas de bachillerato, dependen del Subsistema de Educación Regular y solo pueden ser de convenio con entidades religiosas del país.
+C. Desarrollan programas de corta duración, dependen del Subsistema de Educación Alternativa y Especial y pueden ser fiscales, de convenio o privados.
+D. Desarrollan programas de posgrado, dependen de las universidades públicas autónomas y solo pueden ser de carácter privado y oneroso.
+Respuesta correcta: C
+Explicación: «Los Centros de Capacitación Técnica son instituciones educativas que desarrollan programas de corta duración, dependen del Subsistema de Educación Alternativa y Especial. Son instituciones de carácter fiscal, de convenio y privado que funcionarán de acuerdo a reglamento establecido por el Ministerio de Educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II: Subsistema de Educación Alternativa y Especial. Art. 20 (página impresa 13, numeración «13/39»; página PDF 14).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Conceptual
+30. [Ley N.º 070 – TÍTULO II] Según el Artículo 67, ¿cuál es la situación de las y los profesionales en Ciencias de la Educación y Pedagogía respecto al escalafón docente?
+A. Apoyan y fortalecen al sistema con funciones técnicas especializadas, sin incorporarse al escalafón docente.
+B. Se incorporan al escalafón docente en igualdad de condiciones con las maestras y los maestros normalistas del sistema.
+C. Sustituyen a las maestras y los maestros en el aula, con incorporación automática al escalafón docente.
+D. Se incorporan al escalafón docente solo si ejercen funciones de dirección en las unidades educativas.
+Respuesta correcta: A
+Explicación: «Las y los profesionales en Ciencias de la Educación y Pedagogía apoyan y fortalecen al Sistema Educativo Plurinacional, cuyas funciones son desarrollar metodologías y técnicas de orientación educativa, psicopedagogía, educación a distancia, formación pedagógica, investigación, diseño curricular, evaluación de proyectos y procesos educativos, planificación y gestión educativa, sin incorporarse al escalafón docente».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 67 (página impresa 27, numeración «27/39»; página PDF 28).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+31. [Ley N.º 070 – TÍTULO II] ¿Qué interpretación corresponde al objetivo de la Educación Regular del Artículo 10.1?
+A. Formar integralmente articulando la educación científica humanística y técnica-tecnológica con la producción, según las vocaciones y potencialidades de las regiones.
+B. Formar académicamente separando la educación humanística de la técnica, y postergar la formación productiva hasta la educación superior universitaria.
+C. Formar técnicamente para el empleo inmediato, priorizando las demandas del mercado laboral internacional sobre las vocaciones de las regiones del país.
+D. Formar integralmente según un modelo productivo único para todo el país, sin considerar las vocaciones ni las potencialidades de las regiones.
+Respuesta correcta: A
+Explicación: «Formar integralmente a las y los estudiantes, articulando la educación científica humanística y técnica-tecnológica con la producción, a través de la formación productiva de acuerdo a las vocaciones y potencialidades de las regiones, en el marco de la intraculturalidad, interculturalidad y plurilingüismo».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 10, numeral 1 (página impresa 10, numeración «10/39»; página PDF 11).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+32. [Ley N.º 070 – TÍTULO II] Según el Artículo 10.4, ¿qué habilidades comunicativas busca lograr la Educación Regular?
+A. Habilidades y aptitudes comunicativas bilingües mediante el castellano y un idioma extranjero de uso internacional en el comercio.
+B. Habilidades comunicativas monolingües en castellano, con lectura básica en un idioma indígena originario regional.
+C. Habilidades y aptitudes comunicativas trilingües mediante castellano y dos idiomas extranjeros de uso comercial.
+D. Habilidades y aptitudes comunicativas trilingües mediante idiomas indígena originarios, castellano y un extranjero.
+Respuesta correcta: D
+Explicación: «Lograr habilidades y aptitudes comunicativas trilingües mediante el desarrollo de idiomas indígena originarios, castellano y un extranjero».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 10, numeral 4 (página impresa 10, numeración «10/39»; página PDF 11).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+33. [Ley N.º 070 – TÍTULO II] ¿Con qué formaciones debe complementarse y articularse la educación humanística según el Artículo 10.5?
+A. Formación religiosa, cívica, derechos humanos, competitividad laboral, derechos de los consumidores y educación financiera personal.
+B. Formación histórica, cívica, derechos humanos, equidad de género, derechos de la Madre Tierra y educación en seguridad ciudadana.
+C. Formación premilitar, histórica, cívica, derechos del Estado, disciplina institucional y educación en seguridad nacional.
+D. Formación histórica, empresarial, derechos humanos, equidad salarial, derechos de propiedad y educación tributaria.
+Respuesta correcta: B
+Explicación: «Complementar y articular la educación humanística con la formación histórica, cívica, derechos humanos, equidad de género, derechos de la Madre Tierra y educación en seguridad ciudadana».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 10, numeral 5 (página impresa 10, numeración «10/39»; página PDF 11).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+34. [Ley N.º 070 – TÍTULO II] ¿Qué articula la Educación Secundaria Comunitaria Productiva según el Artículo 14.1?
+A. La educación humanística con la religiosa, valorando exclusivamente los conocimientos universales sobre los saberes de las culturas.
+B. La educación técnica con el mercado laboral, sustituyendo la formación humanística, histórica y cívica por la capacitación productiva.
+C. La educación humanística y la técnica-tecnológica con la producción, valorando saberes de las culturas en diálogo con el conocimiento universal.
+D. La educación científica con la universitaria, adelantando contenidos de pregrado y prescindiendo de la formación técnica-tecnológica.
+Respuesta correcta: C
+Explicación: «Articula la educación humanística y la educación técnica-tecnológica con la producción, que valora y desarrolla los saberes y conocimientos de las diversas culturas en diálogo intercultural con el conocimiento universal, incorporando la formación histórica, cívica y comunitaria […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 14, numeral 1 (página impresa 11, numeración «11/39»; página PDF 12).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+35. [Ley N.º 070 – TÍTULO II] Según el Artículo 17.1, ¿a quiénes se dirige principalmente la democratización del acceso en la Educación Alternativa y Especial?
+A. A las niñas y los niños menores de seis años que no asisten a la Educación Inicial.
+B. A las personas mayores de sesenta años que requieren actividades de recreación.
+C. A las personas mayores a quince años que requieren iniciar o continuar sus estudios.
+D. A los bachilleres que requieren preparación para el ingreso a la universidad pública.
+Respuesta correcta: C
+Explicación: «Democratizar el acceso y permanencia a una educación adecuada en lo cultural y relevante en lo social […] principalmente de las personas mayores a quince años que requieren iniciar o continuar sus estudios».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II: Subsistema de Educación Alternativa y Especial. Art. 17, numeral 1 (página impresa 12, numeración «12/39»; página PDF 13).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+36. [Ley N.º 070 – TÍTULO II] Según el Artículo 22, ¿cuáles son las áreas de la Educación Alternativa?
+A. Educación Especial Inclusiva, y Educación Técnica Productiva.
+B. Educación Primaria Acelerada, y Educación Secundaria Nocturna para adultos.
+C. Educación de Personas Jóvenes y Adultas, y Educación Especial.
+D. Educación de Personas Jóvenes y Adultas, y Educación Permanente.
+Respuesta correcta: D
+Explicación: «Son áreas de la Educación Alternativa: 1. Educación de Personas Jóvenes y Adultas. 2. Educación Permanente».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección I: Educación Alternativa. Art. 22 (página impresa 14, numeración «14/39»; página PDF 15).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+37. [Ley N.º 070 – TÍTULO II] ¿Qué acredita la certificación que se entrega al concluir la Educación Secundaria de Personas Jóvenes y Adultas, según el Artículo 23.III?
+A. Acredita como Bachiller Técnico-Humanístico y, de manera gradual, como Técnico Medio, habilitando la continuidad en el nivel superior.
+B. Acredita solo la conclusión de la alfabetización, sin habilitar la continuidad de estudios en el nivel de educación superior.
+C. Acredita como Técnico Superior, con grado de licenciatura, y habilita directamente el ejercicio profesional en cualquier área del conocimiento.
+D. Acredita como bachiller en humanidades, sin certificación técnica ni habilitación para la incorporación al sector productivo.
+Respuesta correcta: A
+Explicación: «[…] al concluir la totalidad de las etapas establecidas en la Educación Secundaria de Personas Jóvenes y Adultas, se entregará una certificación que los acreditará como Bachiller Técnico-Humanístico, y de manera gradual como Técnico Medio los habilitará para dar continuidad en su formación en el nivel superior y su incorporación al sector productivo».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección I: Educación Alternativa. Art. 23, parágrafo III (página impresa 14, numeración «14/39»; página PDF 15).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+38. [Ley N.º 070 – TÍTULO II] Según el Artículo 24, ¿cómo se certifican los procesos formativos de la Educación Permanente?
+A. No se certifican, porque la Educación Permanente es no escolarizada y carece de validez en el sistema educativo plurinacional.
+B. Se certifican por las organizaciones sociales que los promueven, sin requisitos establecidos por el Ministerio de Educación.
+C. Se certifican previo cumplimiento de requisitos del Ministerio, y una institución especializada capacita y acredita esos procesos.
+D. Se certifican como bachillerato técnico-humanístico, con equivalencia automática a la Educación Secundaria Comunitaria Productiva del sistema.
+Respuesta correcta: C
+Explicación: «2. […] serán certificados los procesos formativos, previo cumplimiento de requisitos establecidos por el Ministerio de Educación. 3. Se constituirá una institución especializada dependiente del Ministerio de Educación, para la capacitación y acreditación de los procesos educativos permanentes no escolarizados […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección I: Educación Alternativa. Art. 24, numerales 2 (página impresa 14; PDF 15) y 3 (página impresa 15; PDF 16).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+39. [Ley N.º 070 – TÍTULO II] ¿Cómo se interpreta la garantía de inserción laboral del Artículo 37?
+A. El Estado garantiza un cargo inmediato a todo egresado de las Escuelas Superiores, sin considerar las necesidades de docencia del sistema educativo.
+B. El Estado garantiza la inserción laboral de egresados de universidades privadas en educación, según la demanda de las unidades privadas.
+C. El Estado no garantiza la inserción laboral, que depende exclusivamente de la gestión individual de cada egresado de las Escuelas.
+D. El Estado garantiza la inserción laboral de egresados de las Escuelas Superiores, según las necesidades de docencia y la normativa vigente.
+Respuesta correcta: D
+Explicación: «La inserción laboral de las y los egresados de las Escuelas Superiores de Formación de Maestras y Maestros está garantizada por el Estado Plurinacional, de acuerdo a las necesidades de docencia del Sistema Educativo Plurinacional y conforme a la normativa vigente».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección I: Formación Superior de Maestras y Maestros. Art. 37 (página impresa 18, numeración «18/39»; página PDF 19).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+40. [Ley N.º 070 – TÍTULO II] ¿Qué perfil de profesional busca formar la Educación Superior según el Artículo 29.1?
+A. Profesionales con alta especialización teórica, capaces de investigar al margen de la realidad social y de las demandas productivas del país.
+B. Profesionales con orientación al mercado internacional, capaces de competir individualmente sin compromiso con las necesidades del pueblo.
+C. Profesionales con compromiso social y conciencia crítica, capaces de resolver problemas y transformar la realidad articulando teoría, práctica y producción.
+D. Profesionales con formación técnica básica, capaces de ejecutar tareas operativas sin análisis crítico ni transformación de la realidad.
+Respuesta correcta: C
+Explicación: «Formar profesionales con compromiso social y conciencia crítica al servicio del pueblo, que sean capaces de resolver problemas y transformar la realidad articulando teoría, práctica y producción».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III: Subsistema de Educación Superior de Formación Profesional. Art. 29, numeral 1 (página impresa 16, numeración «16/39»; página PDF 17).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+41. [Ley N.º 070 – TÍTULO II] ¿Qué distingue las dos etapas de la Educación Inicial en Familia Comunitaria según el Artículo 12?
+A. La no escolarizada desarrolla capacidades para iniciar aprendizajes sistemáticos; la escolarizada es de responsabilidad compartida y apoya a la familia en nutrición y salud.
+B. La no escolarizada es de responsabilidad compartida y apoya a la familia en salud y nutrición; la escolarizada desarrolla capacidades para iniciar aprendizajes sistemáticos.
+C. La no escolarizada dura dos años y se imparte en la unidad educativa; la escolarizada dura tres años y es de responsabilidad exclusiva de la familia.
+D. La no escolarizada es optativa y sin propósitos formativos; la escolarizada es obligatoria y se orienta a la lectoescritura formal del nivel primario.
+Respuesta correcta: B
+Explicación: «1. […] no escolarizada. Es de responsabilidad compartida entre la familia, la comunidad y el Estado, orientada a recuperar […] la identidad cultural […], el apoyo a la familia en la prevención y promoción de la salud y la buena nutrición […]. 2. […] escolarizada. Desarrolla las capacidades y habilidades […] para iniciar procesos de aprendizaje sistemáticos en el siguiente nivel […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 12, numerales 1 y 2 (página impresa 11, numeración «11/39»; página PDF 12).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+42. [Ley N.º 070 – TÍTULO II] ¿Qué diferencia existe entre la Primaria Comunitaria Vocacional y la Secundaria Comunitaria Productiva respecto a la vocación?
+A. La primaria permite identificar vocaciones para estudios superiores; la secundaria orienta la vocación desde la formación básica inicial.
+B. La primaria otorga el grado de Técnico Medio; la secundaria orienta la vocación sin ninguna certificación técnica para los estudiantes.
+C. La primaria prescinde de la orientación vocacional; la secundaria define de forma obligatoria la profesión universitaria del estudiante.
+D. La primaria orienta la vocación del estudiante; la secundaria permite identificar vocaciones para continuar estudios o incorporarse a lo socio-productivo.
+Respuesta correcta: D
+Explicación: Art. 13: «[…] Los conocimientos y la formación cualitativa de las y los estudiantes […] orienta su vocación […]». Art. 14.2: «Permite identificar en las y los estudiantes las vocaciones para continuar estudios superiores o incorporarse a las actividades socio-productivas […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 13 y Art. 14, numeral 2 (página impresa 11, numeración «11/39»; página PDF 12).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+43. [Ley N.º 070 – TÍTULO II] ¿Qué distingue la Educación de Personas Jóvenes y Adultas de la Educación Permanente?
+A. La primera es no escolarizada y para toda la población; la segunda es sistemática, técnico-humanística y para mayores de quince años de edad.
+B. La primera atiende a personas con discapacidad; la segunda atiende a personas con talento extraordinario en el sistema plurinacional.
+C. La primera es sistemática, técnico-humanística y para mayores de quince años; la segunda es no escolarizada y destinada a toda la población.
+D. La primera otorga títulos de licenciatura; la segunda otorga el Diploma de Bachiller Técnico Humanístico a los jóvenes del sistema.
+Respuesta correcta: C
+Explicación: Art. 23.I: «La Educación de Personas Jóvenes y Adultas es de carácter técnico-humanístico, está destinada a las personas mayores a quince años, ofrece una educación sistemática». Art. 24.1: «La Educación Permanente está destinada a toda la población y ofrece procesos formativos no escolarizados […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección I: Educación Alternativa. Art. 23.I y Art. 24.1 (página impresa 14; PDF 15).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+44. [Ley N.º 070 – TÍTULO II] ¿Qué diferencia existe entre la modalidad directa y la modalidad indirecta de la Educación Especial?
+A. La directa incluye a los estudiantes en el sistema sensibilizando a la comunidad; la indirecta atiende a quienes requieren servicios especializados e integrales.
+B. La directa atiende solo a estudiantes con talento extraordinario; la indirecta atiende solo a estudiantes con dificultades en el aprendizaje del sistema.
+C. La directa se desarrolla a distancia y sin certificación; la indirecta se desarrolla en universidades con certificación de licenciatura especializada.
+D. La directa atiende a estudiantes con discapacidad que requieren servicios especializados e integrales; la indirecta los incluye en el sistema sensibilizando a la comunidad.
+Respuesta correcta: D
+Explicación: «1. Modalidad directa, para las y los estudiantes con discapacidad que requieren servicios especializados e integrales. 2. Modalidad indirecta, a través de la inclusión de las personas con discapacidad, personas con dificultades en el aprendizaje y personas con talento extraordinario en el Sistema Educativo Plurinacional, sensibilizando a la comunidad educativa».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección II: Educación Especial. Art. 27 (página impresa 15; PDF 16).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+45. [Ley N.º 070 – TÍTULO II] ¿Qué distingue la Formación Post gradual de la Formación Continua de maestras y maestros?
+A. La post gradual cualifica la especialidad y la desarrolla la Universidad Pedagógica; la continua actualiza y capacita, a cargo de una instancia especializada.
+B. La post gradual actualiza y capacita, a cargo de una instancia especializada; la continua cualifica la especialidad y la desarrolla la Universidad Pedagógica del Estado.
+C. La post gradual la desarrollan las universidades privadas; la continua la desarrollan las Escuelas Superiores en su formación inicial de cinco años.
+D. La post gradual es obligatoria para el ingreso al magisterio; la continua es optativa y está a cargo de los sindicatos del magisterio nacional.
+Respuesta correcta: A
+Explicación: Art. 39: «I. La formación Post gradual para maestras y maestros está orientada a la cualificación de la formación en la especialidad […]. II. La Formación Post gradual será desarrollada por la Universidad Pedagógica […]». Art. 40.2: «La formación continua estará a cargo de una instancia especializada, bajo dependencia del Ministerio de Educación […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección I: Formación Superior de Maestras y Maestros. Art. 39 y Art. 40, numeral 2 (página impresa 19; PDF 20).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+46. [Ley N.º 070 – TÍTULO II] ¿Qué diferencia establece el Artículo 43 entre los Institutos Técnicos y Tecnológicos y las Escuelas Superiores Tecnológicas?
+A. Los institutos ofrecen licenciatura complementaria y son fiscales; las Escuelas Superiores forman a nivel técnico y pueden ser de convenio o privadas.
+B. Los institutos se crean por Decreto Supremo y son solo fiscales; las Escuelas Superiores son privadas y se crean por resolución del Ministerio.
+C. Los institutos forman a nivel técnico y pueden ser fiscales, de convenio o privados; las Escuelas Superiores son fiscales y ofrecen licenciatura complementaria.
+D. Los institutos ofrecen posgrado y maestría; las Escuelas Superiores ofrecen capacitación de corta duración para personas mayores de quince años.
+Respuesta correcta: C
+Explicación: «1. Institutos Técnicos e Institutos Tecnológicos, son instituciones educativas que desarrollan programas de formación profesional a nivel técnico […]. Son instituciones de carácter fiscal, de convenio y privado. 2. Escuelas Superiores Tecnológicas, son instituciones educativas, de carácter fiscal, que desarrollan programas complementarios de formación especializada a nivel licenciatura para profesionales del nivel técnico superior […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección II: Formación Superior Técnica y Tecnológica. Art. 43, numerales 1 y 2 (página impresa 20, numeración «20/39»; página PDF 21).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+47. [Ley N.º 070 – TÍTULO II] ¿Qué distingue a las tres instituciones de la Formación Artística según el Artículo 49?
+A. Los Centros ofrecen corta duración; los Institutos, técnico medio y superior; las Escuelas Bolivianas Interculturales, licenciatura y son fiscales.
+B. Los Centros ofrecen licenciatura; los Institutos, corta duración; las Escuelas Bolivianas Interculturales, técnico medio y son privadas.
+C. Los Centros son solo fiscales; los Institutos, solo privados; las Escuelas Bolivianas Interculturales, solo de convenio con universidades públicas.
+D. Los Centros ofrecen técnico superior; los Institutos, maestría; las Escuelas Bolivianas Interculturales, capacitación de corta duración.
+Respuesta correcta: A
+Explicación: «I. Centros de Capacitación Artística, espacios educativos que desarrollan programas de corta duración […]. II. Institutos de Formación Artística, espacios educativos que desarrollan programas de formación artística a nivel técnico medio y superior […]. III. Escuelas Bolivianas Interculturales, son instituciones educativas, de carácter fiscal, que desarrollan programas especializados de formación profesional a nivel licenciatura […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección III: Formación Superior Artística. Art. 49 (páginas impresas 21-22; PDF 22-23).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+48. [Ley N.º 070 – TÍTULO II] ¿Qué diferencia existe entre las Universidades Privadas y las Universidades Indígenas según la Ley?
+A. Las privadas son públicas y definen sus políticas por Juntas Comunitarias; las indígenas son autorizadas por Decreto Supremo y sin subvención del Estado.
+B. Las privadas otorgan títulos profesionales; las indígenas solo otorgan certificados de capacitación sin validez en el sistema plurinacional.
+C. Las privadas son autorizadas por Decreto Supremo y no reciben subvención; las indígenas son públicas, con políticas definidas por Juntas Comunitarias.
+D. Las privadas se rigen solo por la Constitución; las indígenas se rigen por las normas de las universidades públicas autónomas del país.
+Respuesta correcta: C
+Explicación: Art. 59: «1. La apertura y funcionamiento institucional de las Universidades Privadas será autorizado mediante Decreto Supremo. […] 3. Las Universidades Privadas no serán subvencionadas por el Estado Plurinacional». Art. 60: «1. Son instituciones académico científicas de carácter público […] 3. La instancia de definición de políticas institucionales, en las Universidades Indígenas, son las Juntas Comunitarias […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 59 (página impresa 24; PDF 25) y Art. 60 (páginas impresas 24-25; PDF 25-26).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+49. [Ley N.º 070 – TÍTULO II] ¿Qué diferencia existe entre las Universidades Públicas Autónomas y las Universidades de Régimen Especial?
+A. Las públicas autónomas están bajo tuición del Ministerio de Educación; las de régimen especial se rigen solo por la Constitución y sus propios estatutos.
+B. Las públicas autónomas son financiadas por sus estudiantes; las de régimen especial son privadas y están exentas de toda supervisión académica estatal.
+C. Las públicas autónomas otorgan diplomas sin validez; las de régimen especial otorgan títulos profesionales sin intervención del Ministerio de Educación.
+D. Las públicas autónomas se rigen por la Constitución; las de régimen especial están bajo tuición del Ministerio del ramo y supervisión académica del Ministerio de Educación.
+Respuesta correcta: D
+Explicación: Art. 56: «Las Universidades Públicas Autónomas se regirán por lo establecido en la Constitución Política del Estado». Art. 61.3: «En lo institucional se encuentran bajo tuición del Ministerio del ramo, y en lo académico bajo supervisión del Ministerio de Educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 56 (página impresa 23; PDF 24) y Art. 61, numeral 3 (página impresa 25; PDF 26).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+50. [Ley N.º 070 – TÍTULO II] ¿Qué distingue la evaluación de la acreditación en la educación superior universitaria según el Artículo 68?
+A. La evaluación es el proceso de cualificación de la calidad; la acreditación es la certificación emitida cuando sus resultados son favorables.
+B. La evaluación es la certificación emitida con resultados favorables; la acreditación es el proceso de cualificación de la calidad.
+C. La evaluación la realizan solo los pares externos; la acreditación consiste en la autoevaluación anual de cada universidad del país.
+D. La evaluación es optativa para las universidades; la acreditación es obligatoria aunque los resultados de la evaluación sean adversos para la institución.
+Respuesta correcta: A
+Explicación: «I. La evaluación es el proceso de cualificación de la calidad de la educación superior universitaria; contempla la autoevaluación, la evaluación por pares y la evaluación social. II. La acreditación es la certificación que se emitirá cuando los resultados del proceso de evaluación sean favorables».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección V: Evaluación y Acreditación Universitaria. Art. 68, parágrafos I y II (página impresa 27, numeración «27/39»; página PDF 28).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+51. [Ley N.º 070 – TÍTULO II] Una universidad privada anuncia un programa de licenciatura para formar maestras y maestros del subsistema regular. ¿Qué análisis es correcto?
+A. Es válido: las universidades privadas pueden formar maestros si cuentan con autorización de su consejo universitario.
+B. Es válido si el programa dura cinco años y otorga grado de licenciatura, como el de las Escuelas Superiores del Estado.
+C. Es contrario a la Ley: las Escuelas Superiores de Formación de Maestras y Maestros son las únicas autorizadas para formar maestros.
+D. Es contrario a la Ley solo si el programa es a distancia, pues la formación presencial de maestros es libre para todas.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las Escuelas Superiores de Formación de Maestras y Maestros son las únicas instituciones autorizadas para ofertar y desarrollar programas académicos de formación de maestras y maestros». Aplicación razonada: la exclusividad del Artículo 36 impide a la universidad privada ofertar formación de maestros.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección I: Formación Superior de Maestras y Maestros. Art. 36 (página impresa 18, numeración «18/39»; página PDF 19).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+52. [Ley N.º 070 – TÍTULO II] Un instituto tecnológico ofrece un programa de maestría en gestión productiva. ¿Qué análisis corresponde según el Artículo 65?
+A. Es válido: los institutos tecnológicos pueden ofertar maestrías si están vinculadas a su área productiva.
+B. Es contrario a la Ley: las universidades son las únicas instituciones que podrán desarrollar programas de post grado.
+C. Es válido si el Ministerio de Educación emite los títulos, pues los institutos otorgan certificados de egreso.
+D. Es contrario a la Ley solo si el instituto es privado, pues los fiscales pueden ofertar programas de post grado y maestría.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «2. Las Universidades son las únicas instituciones que podrán desarrollar programas de post grado para la especialización y desarrollo de la investigación». Aplicación razonada: el instituto puede profesionalizar en su nivel (65.1), pero el post grado es exclusivo de las universidades.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 65, numeral 2 (página impresa 27; PDF 28).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+53. [Ley N.º 070 – TÍTULO II] Una universidad privada pretende emitir directamente títulos profesionales a sus egresados. ¿Qué análisis es correcto?
+A. Es válido: las universidades privadas autorizadas por Decreto Supremo emiten directamente títulos profesionales con validez nacional.
+B. Es válido si la defensa de grado se realizó ante un tribunal proporcional con participación de la universidad pública del lugar.
+C. Es contrario a la Ley: las universidades privadas expiden diplomas académicos y los títulos profesionales los otorga el Ministerio de Educación.
+D. Es contrario a la Ley solo para los títulos de post grado, pues los de pre grado los emite directamente la universidad privada.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las Universidades Privadas están autorizadas para expedir Diplomas Académicos. Los Títulos Profesionales serán otorgados por el Ministerio de Educación». Aplicación razonada: la pretensión invade la atribución que el Artículo 59.4 reserva al Ministerio de Educación.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 59, numeral 4 (página impresa 24, numeración «24/39»; página PDF 25).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+54. [Ley N.º 070 – TÍTULO II] Una universidad extranjera ofrece programas virtuales en Bolivia sin autorización del Ministerio de Educación, alegando que no tiene sede física. ¿Qué análisis corresponde?
+A. Es válido: la modalidad virtual no está sujeta a la normativa boliviana porque la universidad no tiene sede física en el territorio nacional.
+B. Es válido si la universidad extranjera está acreditada en su país de origen, pues esa acreditación sustituye la autorización boliviana.
+C. Es contrario a la Ley: en cualquier modalidad debe cumplir los requisitos de las universidades privadas y contar con autorización expresa del Ministerio.
+D. Es contrario a la Ley solo si los programas son de pre grado, pues los programas virtuales de post grado no requieren autorización.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las Universidades Extranjeras para ofertar y desarrollar programas académicos en el territorio del Estado Plurinacional de Bolivia, en cualquier modalidad de atención, deberán cumplir todos los requisitos establecidos para la apertura y funcionamiento de las Universidades Privadas, autorización expresa del Ministerio de Educación y las normas bolivianas que regulan el funcionamiento de las entidades privadas». Aplicación razonada: la expresión «en cualquier modalidad de atención» alcanza a los programas virtuales.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 66, numeral 2 (página impresa 27, numeración «27/39»; página PDF 28).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+55. [Ley N.º 070 – TÍTULO II] Un centro de educación alternativa reduce contenidos y exigencias para jóvenes y adultos, argumentando que «solo necesitan un certificado». ¿Qué análisis es correcto?
+A. Es contrario a la Ley: la Educación Alternativa debe tener el mismo nivel de calidad, pertinencia y equiparación de condiciones que el Regular.
+B. Es coherente con la Ley: la Educación Alternativa puede reducir exigencias porque su finalidad principal es la certificación de sus estudiantes.
+C. Es coherente si el centro es privado, pues la exigencia de calidad equivalente rige solo para los centros fiscales de educación alternativa.
+D. Es contrario a la Ley solo en la secundaria, pues en la primaria de personas jóvenes y adultas la calidad puede ser menor que en el Regular.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Comprende las acciones educativas destinadas a jóvenes y adultos que requieren continuar sus estudios […] mediante procesos educativos sistemáticos e integrales, con el mismo nivel de calidad, pertinencia y equiparación de condiciones que en el Subsistema Regular». Aplicación razonada: reducir contenidos por tratarse de jóvenes y adultos contradice la equivalencia de calidad exigida.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección I: Educación Alternativa. Art. 21, parágrafo I (páginas impresas 13-14; PDF 14-15).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+56. [Ley N.º 070 – TÍTULO II] Un servicio de Educación Especial atiende a sus estudiantes de forma aislada, sin coordinación con las unidades regulares ni alternativas. ¿Qué análisis corresponde?
+A. Contradice la Ley: la Educación Especial desarrolla sus acciones en articulación con los subsistemas Regular, Alternativa y Superior.
+B. Es coherente con la Ley: la Educación Especial es un ámbito separado que no requiere coordinación con los demás subsistemas.
+C. Es coherente si atiende en modalidad directa, pues en esa modalidad la Ley prohíbe la articulación con los demás subsistemas.
+D. Contradice la Ley solo respecto del Subsistema Superior, pues con el Regular y el Alternativo no se exige articulación alguna con la Especial.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «II. Responde de manera oportuna y pertinente a las necesidades, expectativas e intereses de personas con discapacidad, personas con dificultades en el aprendizaje y personas con talento extraordinario, desarrollando sus acciones en articulación con los subsistemas de Educación Regular, Alternativa y Superior de Formación Profesional». Aplicación razonada: la atención aislada contradice la articulación con los subsistemas que exige el Artículo 25.II.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección II: Educación Especial. Art. 25, parágrafo II (página impresa 15, numeración «15/39»; página PDF 16).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+57. [Ley N.º 070 – TÍTULO II] Un profesional en Ciencias de la Educación que realiza orientación educativa en una unidad reclama su incorporación al escalafón docente. ¿Qué análisis es correcto?
+A. Procede: la orientación educativa es una función docente que habilita la incorporación automática al escalafón docente.
+B. No procede: estos profesionales apoyan y fortalecen al sistema con sus funciones, sin incorporarse al escalafón docente.
+C. Procede si cuenta con grado de maestría, pues el posgrado equipara a estos profesionales con los maestros.
+D. No procede, salvo que trabaje en una unidad fiscal, donde la incorporación al escalafón es obligatoria.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Las y los profesionales en Ciencias de la Educación y Pedagogía apoyan y fortalecen al Sistema Educativo Plurinacional, cuyas funciones son desarrollar metodologías y técnicas de orientación educativa […] sin incorporarse al escalafón docente». Aplicación razonada: la orientación educativa es una de sus funciones, pero la Ley excluye expresamente su incorporación al escalafón.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 67 (página impresa 27, numeración «27/39»; página PDF 28).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+58. [Ley N.º 070 – TÍTULO II] Una universidad privada solicita al Estado una subvención para ampliar su oferta de carreras técnicas. ¿Qué análisis corresponde?
+A. Procede: el Estado subvenciona a las universidades privadas que ofrecen carreras técnicas prioritarias.
+B. No procede: las universidades privadas no serán subvencionadas por el Estado Plurinacional.
+C. Procede si la universidad privada demuestra que sus carreras responden a las necesidades regionales.
+D. No procede, salvo que la universidad privada esté acreditada por la Agencia Plurinacional de Evaluación.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Las Universidades Privadas no serán subvencionadas por el Estado Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 59, numeral 3 (página impresa 24, numeración «24/39»; página PDF 25).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+59. [Ley N.º 070 – TÍTULO II] En el proceso de admisión de la Universidad Militar se excluye a postulantes por su origen étnico. ¿Qué análisis es correcto?
+A. Contradice la Ley: la formación militar debe eliminar toda forma de discriminación en la admisión y en los procesos formativos.
+B. Es coherente con la Ley: el carácter castrense permite a la Universidad Militar definir criterios de admisión selectivos y propios.
+C. Es coherente si la exclusión se basa en el reglamento del Ministerio del ramo, que tiene tuición institucional plena.
+D. Contradice la Ley solo en los procesos formativos, pues la admisión es facultad discrecional de la Universidad Militar.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Impartir formación militar con visión integral e histórica de Patria, eliminando toda forma de discriminación en la admisión y en los procesos formativos». Aplicación razonada: la exclusión por origen étnico es una forma de discriminación en la admisión que el objetivo manda eliminar.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 62, parágrafo II, numeral 1 (página impresa 25, numeración «25/39»; página PDF 26).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+60. [Ley N.º 070 – TÍTULO II] Un centro de educación alternativa diseña su oferta técnica sin considerar las vocaciones productivas de la región ni los planes de desarrollo del Estado. ¿Qué análisis corresponde?
+A. Contradice la Ley: la formación técnica se realiza según las vocaciones y potencialidades productivas de las regiones y los planes de desarrollo.
+B. Es coherente con la Ley: cada centro define su oferta técnica con libertad, sin referencia a las vocaciones productivas de la región.
+C. Es coherente si la oferta responde a la demanda del mercado internacional, que prevalece sobre los planes de desarrollo del Estado.
+D. Contradice la Ley solo si el centro es fiscal, pues los centros privados y de convenio no deben considerar las vocaciones regionales.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Contribuirá a potenciar capacidades productivas, la incorporación al sector productivo y el desarrollo de emprendimientos comunitarios, en el marco de los principios establecidos por los derechos de la Madre Tierra. Se realizará según las vocaciones y potencialidades productivas de las regiones y las prioridades económicas productivas establecidas en los planes de desarrollo del Estado Plurinacional». Aplicación razonada: la oferta técnica descrita omite los dos referentes que el Artículo 19.2 exige considerar.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II: Subsistema de Educación Alternativa y Especial. Art. 19, numeral 2 (página impresa 13, numeración «13/39»; página PDF 14).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+61. [Ley N.º 070 – TÍTULO II] Un joven de diecisiete años abandonó la secundaria y trabaja durante el día. ¿A qué área de la Educación Alternativa puede acceder para continuar sus estudios de forma sistemática?
+A. A la Educación Permanente, destinada exclusivamente a organizaciones y comunidades.
+B. A la Educación Especial, destinada a personas con dificultades en el aprendizaje.
+C. A la Educación de Personas Jóvenes y Adultas, destinada a personas mayores a quince años.
+D. A la Educación de Personas Jóvenes y Adultas, destinada a mayores de dieciocho años de edad.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La Educación de Personas Jóvenes y Adultas es de carácter técnico-humanístico, está destinada a las personas mayores a quince años, ofrece una educación sistemática». Aplicación razonada: el joven, mayor de quince años, puede continuar sus estudios en esta área sistemática.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección I: Educación Alternativa. Art. 23, parágrafo I (página impresa 14, numeración «14/39»; página PDF 15).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+62. [Ley N.º 070 – TÍTULO II] Un carpintero con años de experiencia práctica, sin estudios formales en el área, solicita que sus conocimientos sean reconocidos. ¿Qué dispone el Artículo 18?
+A. Sus saberes y experiencias adquiridos en la práctica cotidiana serán reconocidos y homologados en el Subsistema de Educación Alternativa y Especial.
+B. Sus saberes prácticos carecen de reconocimiento, y debe cursar toda la formación técnica desde el primer nivel en un instituto superior.
+C. Sus saberes serán reconocidos solo mediante un título universitario, previo examen ante un tribunal proporcional de la universidad pública del departamento.
+D. Sus saberes serán reconocidos en el Subsistema Regular, mediante la obtención directa del Diploma de Bachiller Técnico Humanístico.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Los saberes, conocimientos y experiencias de las personas adquiridos en su práctica cotidiana y comunitaria, serán reconocidos y homologados a niveles y modalidades que correspondan al Subsistema de Educación Alternativa y Especial».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II: Subsistema de Educación Alternativa y Especial. Art. 18 (página impresa 13, numeración «13/39»; página PDF 14).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+63. [Ley N.º 070 – TÍTULO II] Un egresado de un Instituto Tecnológico solicita su título profesional. ¿Qué dispone el Artículo 44?
+A. El instituto emite directamente el título profesional con validez nacional, sin intervención del Ministerio de Educación del Estado.
+B. La universidad pública más cercana emite el título profesional, previa defensa ante un tribunal proporcional de docentes evaluadores.
+C. El instituto otorga el título profesional con validez departamental, y el Ministerio lo homologa solo para ejercer en otros departamentos.
+D. El instituto otorga el certificado de egreso y el Ministerio de Educación emite el título profesional con validez en todo el Estado.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Los Institutos Técnicos, Institutos Tecnológicos y las Escuelas Superiores Tecnológicas otorgarán certificados de egreso. El Ministerio de Educación emitirá los Títulos Profesionales con validez en todo el Estado Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección II: Formación Superior Técnica y Tecnológica. Art. 44 (página impresa 20, numeración «20/39»; página PDF 21).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+64. [Ley N.º 070 – TÍTULO II] Una estudiante de una universidad privada se prepara para defender su grado de licenciatura. ¿Cómo debe conformarse el tribunal según el Artículo 59.5?
+A. Como un tribunal integrado solo por docentes de la universidad privada, designados por su consejo académico.
+B. Como un Tribunal Proporcional entre la Universidad Pública, la Universidad Privada y el Ministerio de Educación.
+C. Como un tribunal integrado por representantes de la APEAESU y del Colegio de Profesionales del área respectiva del egresado.
+D. Como un tribunal integrado por la Universidad Privada y el Ministerio de Educación, sin la universidad pública.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Las Universidades Privadas para la defensa de grados académicos de pre grado y post grado conformarán un Tribunal Proporcional entre la Universidad Pública, la Universidad Privada y el Ministerio de Educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 59, numeral 5 (página impresa 24, numeración «24/39»; página PDF 25).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+65. [Ley N.º 070 – TÍTULO II] Un grupo de inversionistas proyecta abrir una universidad privada y luego nuevas carreras. ¿Qué disponen los numerales 1 y 2 del Artículo 59?
+A. La apertura institucional la autoriza el Ministerio por resolución, y la apertura de programas la decide libremente el consejo de la universidad privada en cuestión.
+B. La apertura institucional se autoriza por ley de la Asamblea, y la apertura de programas la regula la universidad pública del departamento respectivo.
+C. La apertura institucional se autoriza por Decreto Supremo, y la apertura de programas la regula el Ministerio de Educación por reglamentación específica.
+D. La apertura institucional se autoriza por Decreto Supremo, y la apertura de programas no requiere regulación por tratarse de una entidad privada.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «1. La apertura y funcionamiento institucional de las Universidades Privadas será autorizado mediante Decreto Supremo. 2. La apertura de programas académicos y su desarrollo institucional será regulado por el Ministerio de Educación sobre la base de la reglamentación específica».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 59, numerales 1 y 2 (página impresa 24, numeración «24/39»; página PDF 25).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+66. [Ley N.º 070 – TÍTULO II] Se propone crear una Escuela Superior Tecnológica en un departamento. ¿Cómo se crea y qué se considera según el Artículo 43.2?
+A. Por Decreto Supremo, considerando capacidad y experiencia institucional, infraestructura, equipamiento, sostenibilidad y cobertura.
+B. Por resolución ministerial, considerando solo la demanda estudiantil y la disponibilidad de docentes en la región respectiva y del departamento.
+C. Por ley departamental, considerando la decisión de la Asamblea Departamental y el presupuesto de la gobernación del lugar.
+D. Por Decreto Supremo, considerando exclusivamente la propuesta de los gremios empresariales y su capacidad de financiamiento.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Escuelas Superiores Tecnológicas, son instituciones educativas, de carácter fiscal […]. Serán creadas por Decreto Supremo, considerando capacidad y experiencia institucional, infraestructura y equipamiento, sostenibilidad económica y técnica, y cobertura establecidas en reglamentación específica».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección II: Formación Superior Técnica y Tecnológica. Art. 43, numeral 2 (página impresa 20, numeración «20/39»; página PDF 21).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+67. [Ley N.º 070 – TÍTULO II] Una universidad de derecho público internacional pretende instalarse en Bolivia. ¿Por qué instrumento se regirá según el Artículo 66.1?
+A. Por resolución del Ministerio de Educación.
+B. Por Decreto Supremo del Órgano Ejecutivo.
+C. Por convenio sede, aprobado y ratificado por Ley.
+D. Por convenio con una universidad pública del país.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las Universidades de Derecho Público Internacional se regirán por convenio sede, aprobados y ratificados por Ley».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 66, numeral 1 (página impresa 27, numeración «27/39»; página PDF 28).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+68. [Ley N.º 070 – TÍTULO II] Una universidad extranjera quiere desarrollar un programa académico en convenio con una universidad privada boliviana. ¿Qué exige el Artículo 66.3?
+A. Contar con la aprobación del consejo de la universidad privada.
+B. Contar con la acreditación previa de la APEAESU boliviana.
+C. Contar con un convenio sede aprobado por la Asamblea Legislativa.
+D. Contar con autorización expresa del Ministerio de Educación.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Las Universidades Extranjeras, para desarrollar programas académicos en convenio con Universidades Privadas de Bolivia deberán contar con autorización expresa del Ministerio de Educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 66, numeral 3 (página impresa 27, numeración «27/39»; página PDF 28).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+69. [Ley N.º 070 – TÍTULO II] Un estudiante de excelente aprovechamiento es atendido en el marco de la Educación Especial. ¿Qué prevé el Artículo 27 para su caso?
+A. Que será promovido de curso automáticamente sin evaluación integral.
+B. Que podrá acceder a becas por su excelente aprovechamiento.
+C. Que será derivado de inmediato a una universidad pública.
+D. Que será eximido de la evaluación integral del centro.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «[…] En el caso de los estudiantes de excelente aprovechamiento, podrán acceder a becas, y toda niña, niño y adolescente con talento natural destacado, tendrá derecho a recibir una educación que le permita desarrollar sus aptitudes y destrezas».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección II: Educación Especial. Art. 27 (página impresa 16; PDF 17).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+70. [Ley N.º 070 – TÍTULO II] ¿Cómo se certifica a las y los estudiantes que desarrollan sus acciones educativas en la modalidad directa de la Educación Especial?
+A. Según los mismos exámenes estandarizados del Subsistema Regular, sin consideración de su desarrollo personal ni de su transitabilidad.
+B. Según la decisión de la familia, que define la promoción del estudiante sin evaluación integral ni parámetros de transitabilidad.
+C. Según una evaluación médica anual, que determina la permanencia del estudiante en el centro sin posibilidad de transitar a otros subsistemas.
+D. Según su desarrollo personal, mediante una evaluación integral con parámetros de promoción y transitabilidad hacia otros subsistemas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La certificación de las y los estudiantes que desarrollan sus acciones educativas bajo la modalidad directa se realizará en función de su desarrollo personal mediante una evaluación integral que brindará parámetros de promoción y transitabilidad hacia los otros subsistemas».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección II: Educación Especial. Art. 27 (página impresa 16; PDF 17).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Ley N.º 070 – TÍTULO II] Caso: una maestra detecta que un estudiante presenta dificultades persistentes en el aprendizaje y la familia solicita apoyo especializado. ¿Qué atención prevé la Ley?
+A. Atención exclusiva por la maestra de aula, sin programas de valoración ni asesoramiento especializado externo.
+B. Atención en centros integrales multisectoriales, con programas de valoración, detección, asesoramiento y atención directa.
+C. Derivación inmediata a la Educación Permanente no escolarizada, destinada a organizaciones y comunidades.
+D. Repetición obligatoria del curso, hasta que el estudiante supere sus dificultades sin apoyo especializado.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «La atención a estudiantes con necesidades educativas específicas se realizará en centros integrales multisectoriales, a través de programas de valoración, detección, asesoramiento y atención directa, desde la atención temprana y a lo largo de toda su vida […]». Aplicación razonada: el estudiante con dificultades persistentes presenta necesidades educativas específicas que la Ley atiende en esos centros.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección II: Educación Especial. Art. 27 (página impresa 16; PDF 17).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Ley N.º 070 – TÍTULO II] Caso: una organización de mujeres productoras solicita formación en liderazgo y gestión comunitaria, sin interés en obtener un bachillerato. ¿Qué área responde a esta demanda?
+A. La Educación de Personas Jóvenes y Adultas, que ofrece únicamente bachillerato técnico-humanístico escolarizado.
+B. La Educación Secundaria Comunitaria Productiva, que ofrece formación política a organizaciones de productoras.
+C. La Formación Superior Universitaria, que ofrece programas de liderazgo comunitario a nivel de licenciatura.
+D. La Educación Permanente, que ofrece procesos no escolarizados para la formación socio-comunitaria, productiva y política.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La Educación Permanente está destinada a toda la población y ofrece procesos formativos no escolarizados que respondan a necesidades, expectativas e intereses de las organizaciones, comunidades, familias y personas, en su formación socio-comunitaria, productiva y política». Aplicación razonada: la demanda de la organización encaja en los procesos no escolarizados de formación socio-comunitaria y política.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección I: Educación Alternativa. Art. 24, numeral 1 (página impresa 14, numeración «14/39»; página PDF 15).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Ley N.º 070 – TÍTULO II] Caso: una unidad educativa recibe a un estudiante con discapacidad auditiva y no cuenta con estrategias de comunicación adecuadas. ¿Qué objetivo de la Educación Alternativa y Especial orienta la respuesta?
+A. Derivar al estudiante a un centro fuera del sistema educativo, por no existir métodos de comunicación adecuados en el Sistema Plurinacional.
+B. Mantener la comunicación oral habitual del aula, para que el estudiante se adapte sin apoyos ni métodos propios de la educación especial.
+C. Incorporar el uso y la correcta aplicación de métodos, instrumentos y sistemas de comunicación propios de la educación para personas con discapacidad.
+D. Postergar su inscripción hasta que la familia contrate un intérprete privado, sin intervención del Sistema Educativo Plurinacional.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Incorporar el uso y la correcta aplicación de los métodos, instrumentos y sistemas de comunicación propios de la educación para personas con discapacidad, dificultades en el aprendizaje y talento extraordinario en el Sistema Educativo Plurinacional». Aplicación razonada: la falta de estrategias de comunicación se atiende incorporando los métodos y sistemas propios previstos en ese objetivo.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II: Subsistema de Educación Alternativa y Especial. Art. 17, numeral 7 (página impresa 13; PDF 14).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Ley N.º 070 – TÍTULO II] Caso: una unidad de secundaria rural de una zona agropecuaria planifica su oferta técnica para el bachillerato. ¿Qué orientación establece el Artículo 14.2?
+A. Formar para el Diploma de Bachiller Técnico Humanístico y, progresivamente, el grado de Técnico Medio según las vocaciones productivas de la región.
+B. Formar solo para el Diploma de Bachiller en Humanidades, dejando la formación técnica agropecuaria para el subsistema de educación superior.
+C. Formar para el grado de Técnico Superior agropecuario, sustituyendo el Diploma de Bachiller Técnico Humanístico por un título universitario.
+D. Formar según las vocaciones de otras regiones del país, para diversificar la oferta técnica sin considerar la potencialidad productiva local de la zona.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] Está orientada a la formación y la obtención del Diploma de Bachiller Técnico Humanístico, y de manera progresiva con grado de Técnico Medio de acuerdo a las vocaciones y potencialidades productivas de las regiones y del Estado Plurinacional […]». Aplicación razonada: en una zona agropecuaria, la oferta técnica debe responder a esa vocación productiva regional.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 14, numeral 2 (página impresa 11, numeración «11/39»; página PDF 12).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Ley N.º 070 – TÍTULO II] Caso: el equipo docente de una unidad regular omite la historia local y los saberes de los pueblos indígenas en la planificación. ¿Qué objetivo de la Educación Regular orienta la corrección?
+A. Desarrollar habilidades comunicativas en un idioma extranjero, como base de la identidad cultural de las y los estudiantes del país y del mundo.
+B. Proporcionar contenidos universales estandarizados, que sustituyan los saberes locales por conocimientos de validez internacional.
+C. Reconstituir los saberes indígenas solo en las unidades rurales, dejando a las urbanas los contenidos de historia universal general.
+D. Proporcionar elementos históricos y culturales para la identidad propia, y reconstituir y legitimar los saberes de los pueblos indígenas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Proporcionar elementos históricos y culturales para consolidar la identidad cultural propia y desarrollar actitudes de relación intercultural. Reconstituir y legitimar los saberes y conocimientos de los pueblos indígena originario campesinos, en diálogo intercultural con los conocimientos de otras culturas». Aplicación razonada: la omisión de la historia local y de esos saberes contradice el objetivo del Artículo 10.2.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 10, numeral 2 (página impresa 10, numeración «10/39»; página PDF 11).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Ley N.º 070 – TÍTULO II] Caso: una egresada de una Escuela Superior de Formación de Maestras y Maestros consulta qué título recibe y cómo se reconoce en el escalafón. ¿Qué dispone el Artículo 38?
+A. La Escuela Superior otorga el título de Técnico Superior en educación, sin reconocimiento automático en el Escalafón del Magisterio nacional.
+B. El Ministerio de Educación otorga el Título de Maestro con grado de Licenciatura y su reconocimiento en el Escalafón del Magisterio.
+C. La Universidad Pedagógica otorga el Título de Maestro con grado de Maestría, previa defensa ante un tribunal proporcional externo.
+D. El Ministerio otorga un certificado de egreso, y el escalafón la reconoce solo después de cinco años de servicio en el magisterio.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El Ministerio de Educación otorgará el Título de Maestro con grado de Licenciatura y su respectivo reconocimiento en el Escalafón del Magisterio. El Escalafón reconoce a los profesionales formados en las Escuelas Superiores de Formación de Maestras y Maestros en concordancia al Artículo 2 de la presente Ley».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección I: Formación Superior de Maestras y Maestros. Art. 38 (página impresa 18, numeración «18/39»; página PDF 19).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Ley N.º 070 – TÍTULO II] Caso: organizaciones indígenas proponen una universidad vinculada a su territorio y desean definir sus políticas institucionales. ¿Qué disposición resulta aplicable?
+A. Las Universidades Indígenas son privadas, sin vínculo territorial, y sus políticas las define un directorio de inversionistas.
+B. Las Universidades Indígenas son públicas, articuladas a la territorialidad indígena, y sus políticas las definen Juntas Comunitarias.
+C. Las Universidades Indígenas son de régimen especial, bajo tuición del Ministerio del ramo y sin participación de organizaciones indígenas.
+D. Las Universidades Indígenas son públicas autónomas, y sus políticas las define el Consejo Universitario según la Constitución.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «1. Son instituciones académico científicas de carácter público, articuladas a la territorialidad y organización de las naciones y pueblos indígena originario campesinos […]. 3. La instancia de definición de políticas institucionales, en las Universidades Indígenas, son las Juntas Comunitarias, compuestas por organizaciones indígenas nacionales y departamentales […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 60, numerales 1 (página impresa 24; PDF 25) y 3 (página impresa 25; PDF 26).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Ley N.º 070 – TÍTULO II] Caso: un Centro de Capacitación Artística pretende otorgar el grado de licenciatura en música a sus estudiantes. ¿Cómo se resuelve según los Artículos 49 y 50?
+A. No procede: la licenciatura corresponde a las Escuelas Bolivianas Interculturales; los Centros desarrollan programas de corta duración.
+B. Procede: los Centros de Capacitación Artística pueden otorgar licenciatura si cuentan con docentes de grado académico superior al de la oferta.
+C. Procede si el Centro es fiscal, pues los Centros fiscales tienen el mismo nivel que las Escuelas Bolivianas Interculturales.
+D. No procede: la licenciatura en artes corresponde a los Institutos de Formación Artística de carácter privado y de convenio.
+Respuesta correcta: A
+Explicación: Aplicación razonada: Art. 49.I: «Centros de Capacitación Artística, espacios educativos que desarrollan programas de corta duración […]». Art. 50: «[…] Escuelas Bolivianas Interculturales - Nivel Licenciatura».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección III: Formación Superior Artística. Art. 49 (página impresa 21; PDF 22) y Art. 50 (página impresa 22; PDF 23).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Ley N.º 070 – TÍTULO II] Caso: un instituto técnico privado abre nuevas carreras y define sus planes al margen del Sistema Educativo Plurinacional. ¿Cómo se resuelve según el Artículo 46.I?
+A. Es procedente: los institutos privados definen libremente sus planes y programas, sin sujeción a las autoridades del sistema.
+B. Es procedente si el instituto obtiene la acreditación de la APEAESU, que sustituye la reglamentación del Ministerio de Educación del Estado.
+C. Es improcedente solo para los institutos fiscales, pues los privados y de convenio no se rigen por los planes del sistema.
+D. Es improcedente: los institutos funcionan bajo los planes, programas y autoridades del SEP, y su apertura la reglamenta el Ministerio.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Los Institutos Técnicos, Institutos Tecnológicos y Escuelas Superiores de Formación Tecnológica funcionarán bajo los planes, programas y autoridades del Sistema Educativo Plurinacional. Su apertura y funcionamiento será reglamentado por el Ministerio de Educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección II: Formación Superior Técnica y Tecnológica. Art. 46, parágrafo I (página impresa 20; PDF 21).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Ley N.º 070 – TÍTULO II] Caso: una institución privada propone desarrollar programas de capacitación y actualización para policías en servicio. ¿Qué dispone la Ley?
+A. Procede si la institución privada cuenta con autorización del Ministerio del ramo competente.
+B. No procede: esos programas son de desarrollo exclusivo de la Universidad Policial.
+C. Procede si los programas son de corta duración y no otorgan grados académicos.
+D. No procede, salvo que la institución privada sea una universidad acreditada.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Desarrollar programas de capacitación y actualización permanente de policías orientados a su profesionalización en todos los rangos para un servicio social eficiente, dichos programas serán de desarrollo exclusivo de la Universidad Policial».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 63, parágrafo II, numeral 4 (página impresa 26, numeración «26/39»; página PDF 27).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Ley N.º 070 – TÍTULO II] Una mujer de treinta y cinco años que nunca aprendió a leer ni escribir desea iniciar sus estudios. ¿Qué nivel de formación corresponde según el Artículo 23.II?
+A. Educación Primaria de Personas Jóvenes y Adultas, Alfabetización y Post-alfabetización.
+B. Educación Primaria Comunitaria Vocacional del Subsistema de Educación Regular.
+C. Educación Secundaria de Personas Jóvenes y Adultas, por su edad y experiencia.
+D. Educación Permanente no escolarizada, sin posibilidad de certificación posterior de estudios.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «II. Los niveles de formación de la Educación de Personas Jóvenes y Adultas comprenden: a) Educación Primaria de Personas Jóvenes y Adultas, Alfabetización y Post-alfabetización. b) Educación Secundaria de Personas Jóvenes y Adultas». Aplicación razonada: quien no sabe leer ni escribir inicia en el nivel de primaria, alfabetización y post-alfabetización.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección I: Educación Alternativa. Art. 23, parágrafo II (página impresa 14, numeración «14/39»; página PDF 15).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Ley N.º 070 – TÍTULO II] Una unidad educativa identifica a una niña con talento natural destacado. ¿Qué decisión es coherente con la Ley?
+A. Garantizarle una educación que le permita desarrollar sus aptitudes y destrezas, en el área de Educación para Personas con Talento Extraordinario.
+B. Mantenerla en el ritmo general del curso, sin atención específica, para evitar diferencias con sus compañeras y compañeros de aula.
+C. Derivarla a la Educación de Personas Jóvenes y Adultas, por contar con capacidades superiores a las esperadas para su edad.
+D. Promoverla de inmediato al nivel superior universitario, sin atención en el área de Educación para Personas con Talento Extraordinario.
+Respuesta correcta: A
+Explicación: Aplicación razonada: Art. 26: «Son áreas de la Educación Especial: […] c) Educación para Personas con Talento Extraordinario». Art. 27: «[…] toda niña, niño y adolescente con talento natural destacado, tendrá derecho a recibir una educación que le permita desarrollar sus aptitudes y destrezas». Aplicación razonada: el talento natural destacado da derecho a una atención educativa que desarrolle sus aptitudes.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección II: Educación Especial. Art. 26 (página impresa 15; PDF 16) y Art. 27 (página impresa 16; PDF 17).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Ley N.º 070 – TÍTULO II] Un maestro en ejercicio desea cursar una especialización vinculada a su práctica docente. ¿Qué institución desarrolla la formación post gradual para maestras y maestros?
+A. Las Escuelas Superiores de Formación de Maestras y Maestros, en su formación inicial.
+B. La Universidad Pedagógica, con dependencia del Ministerio de Educación.
+C. Cualquier universidad privada, sin reglamentación del Ministerio de Educación.
+D. La instancia especializada de formación continua, con título de posgrado propio.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «II. La Formación Post gradual será desarrollada por la Universidad Pedagógica, con dependencia del Ministerio de Educación, estará sujeta a reglamentación específica».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección I: Formación Superior de Maestras y Maestros. Art. 39, parágrafo II (página impresa 19; PDF 20).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Ley N.º 070 – TÍTULO II] Al seleccionar docentes para un Instituto Técnico que oferta Técnico Superior, ¿qué decisión se ajusta al Artículo 46.III?
+A. Seleccionar profesionales con grado académico igual o superior a la oferta académica.
+B. Seleccionar profesionales con grado académico inferior a la oferta académica.
+C. Seleccionar técnicos con experiencia laboral, sin considerar su grado académico ni su título.
+D. Seleccionar solo profesionales con doctorado, aunque la oferta sea técnica.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Las y los docentes de los Institutos Superiores Técnicos e Institutos Tecnológicos son profesionales con grado académico igual o superior a la oferta académica».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección II: Formación Superior Técnica y Tecnológica. Art. 46, parágrafo III (página impresa 21; PDF 22).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Ley N.º 070 – TÍTULO II] Un centro de educación alternativa planifica una oferta técnica para adultos que buscan certificarse progresivamente. ¿Qué decisión se ajusta al Artículo 19.3?
+A. Organizar un único nivel de Técnico Superior, sin certificaciones intermedias ni continuidad hacia la educación superior.
+B. Organizar niveles con certificación de Técnico Básico, Técnico Auxiliar y Técnico Medio, que habiliten la continuidad y la inserción productiva.
+C. Organizar niveles con certificaciones propias del centro, sin sujeción a la reglamentación del Ministerio de Educación.
+D. Organizar niveles de licenciatura técnica, con títulos emitidos directamente por el centro de educación alternativa.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Los niveles de la formación y capacitación técnica tendrán su respectiva certificación como Técnico Básico, Técnico Auxiliar y Técnico Medio, que habilita a las y los estudiantes su continuidad en la Educación Superior y su incorporación al sector productivo. Otras certificaciones técnicas estarán sujetas a reglamentación y autorización expresa del Ministerio de Educación».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II: Subsistema de Educación Alternativa y Especial. Art. 19, numeral 3 (página impresa 13, numeración «13/39»; página PDF 14).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Ley N.º 070 – TÍTULO II] Una organización de productores solicita un programa educativo no escolarizado vinculado a su vida cotidiana. ¿Qué objetivo respalda la decisión de atenderla?
+A. Garantizar la formación académica universitaria de los productores, mediante programas escolarizados de nivel licenciatura.
+B. Atender exclusivamente a personas con discapacidad, mediante programas de educación inclusiva escolarizada en centros.
+C. Formar a los productores en la Secundaria Comunitaria Productiva, mediante programas escolarizados de seis años.
+D. Contribuir a la formación integral y la conciencia crítica de organizaciones con programas no escolarizados ligados a la vida cotidiana.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Contribuir a desarrollar la formación integral y la conciencia crítica de los movimientos sociales e indígenas, organizaciones ciudadanas y de productores, con políticas, planes, programas y proyectos educativos no escolarizados, directamente ligados con la vida cotidiana […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II: Subsistema de Educación Alternativa y Especial. Art. 17, numeral 2 (página impresa 12, numeración «12/39»; página PDF 13).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Ley N.º 070 – TÍTULO II] Una dirección distrital decide impulsar acciones para que la comunidad educativa acoja a estudiantes con discapacidad y talento extraordinario. ¿Qué objetivo respalda la decisión?
+A. Promover una educación y cultura inclusiva hacia las personas con discapacidad, dificultades en el aprendizaje y talento extraordinario.
+B. Promover una educación separada para las personas con discapacidad, fuera de las unidades del Sistema Educativo Plurinacional.
+C. Promover una cultura de excelencia que priorice a los estudiantes de mayor rendimiento sobre quienes tienen dificultades.
+D. Promover programas de capacitación técnica de corta duración, destinados a organizaciones productivas y comunitarias.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Promover una educación y cultura inclusiva hacia las personas con discapacidad, dificultades en el aprendizaje y talento extraordinario del aprendizaje, en el Sistema Educativo Plurinacional».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II: Subsistema de Educación Alternativa y Especial. Art. 17, numeral 6 (página impresa 13; PDF 14).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Ley N.º 070 – TÍTULO II] Al revisar el currículo de una Escuela Superior de Formación de Maestras y Maestros, ¿qué decisión es coherente con el Artículo 35.III y IV?
+A. Diseñar currículos distintos por Escuela, de cuatro años y con título técnico, organizados por asignaturas aisladas entre sí.
+B. Mantener un currículo único de cinco años con licenciatura, organizado en campos de conocimiento y ejes articuladores.
+C. Mantener un currículo de tres años con grado técnico superior, organizado solo en el ámbito de la especialidad.
+D. Diseñar un currículo de cinco años con maestría, organizado por módulos libres sin ejes articuladores comunes.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «III. El currículo único de la formación de maestras y maestros, comprende la formación general y especializada en cinco años de estudio con grado académico de licenciatura. IV. El currículo está organizado en campos de conocimiento y ejes articuladores […]».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección I: Formación Superior de Maestras y Maestros. Art. 35, parágrafos III y IV (página impresa 18, numeración «18/39»; página PDF 19).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Ley N.º 070 – TÍTULO II] Una universidad proyecta un programa de extensión con comunidades de distintas lenguas y culturas. ¿Qué objetivo de la Formación Superior Universitaria respalda la decisión?
+A. Promover políticas de extensión e interacción social para fortalecer la diversidad científica, cultural y lingüística.
+B. Promover políticas de extensión comercial para fortalecer la imagen institucional de la universidad en el mercado.
+C. Promover políticas de interacción social solo en las ciudades capitales, sin relación con la diversidad lingüística ni cultural.
+D. Promover políticas de homogeneización lingüística para facilitar la comunicación entre comunidades y universidad.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Promover políticas de extensión e interacción social para fortalecer la diversidad científica, cultural y lingüística».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 53, numeral 5 (página impresa 23; PDF 24).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Ley N.º 070 – TÍTULO II] Varias universidades buscan coordinar sus programas de formación post gradual. ¿Qué decisión es coherente con el Artículo 64?
+A. Coordinarlos mediante una instancia conformada por las universidades del Estado Plurinacional, según reglamentación específica.
+B. Coordinarlos mediante el Ministerio de Educación de forma exclusiva, sin participación de las universidades del país.
+C. Coordinarlos mediante la APEAESU, que define los contenidos de todos los programas post graduales del Estado.
+D. Coordinarlos mediante acuerdos individuales entre universidades, sin instancia común ni reglamentación específica.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] Los procesos de carácter post gradual serán coordinados por una instancia conformada por las universidades del Estado Plurinacional, de acuerdo a reglamentación específica».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 64 (página impresa 26; PDF 27).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Ley N.º 070 – TÍTULO II] Al formular el proyecto productivo de una unidad de educación regular, ¿qué orientación estratégica es coherente con el Artículo 10.1?
+A. Separar la formación técnica de la humanística, y orientar la producción escolar a la venta de productos para financiar la unidad.
+B. Articular la formación científica humanística y técnica-tecnológica con la producción, según las vocaciones y potencialidades de la región.
+C. Adoptar un modelo productivo estándar de otra región, sin diagnóstico de las vocaciones ni de las potencialidades del entorno local de la unidad.
+D. Postergar la formación productiva hasta la educación superior, priorizando contenidos teóricos en todos los niveles de la unidad.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Formar integralmente a las y los estudiantes, articulando la educación científica humanística y técnica-tecnológica con la producción, a través de la formación productiva de acuerdo a las vocaciones y potencialidades de las regiones […]». Aplicación razonada: el proyecto productivo institucional concreta la articulación y la pertinencia regional que exige ese objetivo.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 10, numeral 1 (página impresa 10, numeración «10/39»; página PDF 11).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Ley N.º 070 – TÍTULO II] Al planificar la atención de estudiantes con discapacidad en un distrito, ¿qué estrategia es coherente con el Artículo 25.II?
+A. Concentrar a todos los estudiantes con discapacidad en un solo centro, sin articulación con los demás subsistemas.
+B. Delegar la atención exclusivamente a las familias, sin acciones de la Educación Especial en el sistema educativo.
+C. Articular las acciones de la Educación Especial con los subsistemas Regular, Alternativa y Superior de Formación Profesional.
+D. Atender a los estudiantes solo en la Educación Regular, sin participación de los servicios de Educación Especial.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «[…] desarrollando sus acciones en articulación con los subsistemas de Educación Regular, Alternativa y Superior de Formación Profesional». Aplicación razonada: la planificación distrital traduce la articulación entre subsistemas que exige la Ley.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo II, Sección II: Educación Especial. Art. 25, parágrafo II (página impresa 15, numeración «15/39»; página PDF 16).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Ley N.º 070 – TÍTULO II] Al diseñar el plan de desarrollo profesional del equipo docente, ¿qué propósito de la formación continua debe orientar la estrategia?
+A. Acumular certificados para ascensos individuales, sin relación con la calidad de la gestión ni con el ambiente educativo de la unidad educativa.
+B. Sustituir la formación inicial de los maestros, con cursos de corta duración que reemplacen el currículo de las Escuelas Superiores.
+C. Cumplir una formalidad administrativa anual, sin vínculo con los procesos ni con los resultados educativos de la institución.
+D. Mejorar la calidad de la gestión, de los procesos, de los resultados y del ambiente educativo, fortaleciendo las capacidades innovadoras.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La formación continua es un derecho y un deber de toda maestra y maestro, está orientada a su actualización y capacitación para mejorar la calidad de la gestión, de los procesos, de los resultados y del ambiente educativo, fortaleciendo las capacidades innovadoras de los educadores». Aplicación razonada: el plan institucional de desarrollo docente se orienta a los propósitos que la Ley asigna a la formación continua.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección I: Formación Superior de Maestras y Maestros. Art. 40, numeral 1 (página impresa 19, numeración «19/39»; página PDF 20).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Ley N.º 070 – TÍTULO II] Una Escuela Superior Tecnológica revisa su oferta académica. ¿Qué objetivo de la Educación Superior debe orientar la estrategia, según el Artículo 29.4?
+A. Garantizar programas de formación profesional acordes a las necesidades y demandas sociales y a las políticas públicas.
+B. Garantizar programas de formación profesional acordes a la oferta de otras instituciones, sin análisis de demanda social.
+C. Garantizar programas de formación profesional de alta rentabilidad, sin relación con las políticas públicas del Estado.
+D. Garantizar programas de formación profesional tradicionales, sin actualización frente a las necesidades sociales.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Garantizar programas de formación profesional acorde a las necesidades y demandas sociales y políticas públicas». Aplicación razonada: la revisión de la oferta debe contrastarse con las necesidades sociales y las políticas públicas.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III: Subsistema de Educación Superior de Formación Profesional. Art. 29, numeral 4 (página impresa 16, numeración «16/39»; página PDF 17).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Ley N.º 070 – TÍTULO II] Un instituto tecnológico de una región indígena formula su plan estratégico. ¿Qué objetivo de la Formación Técnica y Tecnológica debe integrar?
+A. Reemplazar los conocimientos y tecnologías propios por tecnologías importadas, para modernizar la región indígena.
+B. Recuperar y desarrollar los conocimientos y tecnologías de las NPIOC, comunidades interculturales y afrobolivianas.
+C. Recuperar los conocimientos indígenas solo como contenido histórico, sin desarrollo tecnológico ni aplicación productiva.
+D. Desarrollar tecnologías exclusivamente industriales, sin relación con los saberes de los pueblos de la región indígena.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Recuperar y desarrollar los conocimientos y tecnologías de las naciones y pueblos indígena originario campesinos, comunidades interculturales y afrobolivianas». Aplicación razonada: el plan estratégico del instituto incorpora este objetivo según su contexto regional.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección II: Formación Superior Técnica y Tecnológica. Art. 42, numeral 2 (página impresa 19, numeración «19/39»; página PDF 20).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Ley N.º 070 – TÍTULO II] Un Instituto de Formación Artística planifica su oferta a mediano plazo. ¿Qué objetivos de la Formación Superior Artística deben orientarla?
+A. Recuperar, recrear y difundir las expresiones culturales de los pueblos y fortalecer la diversidad cultural en sus manifestaciones artísticas.
+B. Priorizar las expresiones artísticas extranjeras de mayor demanda comercial, frente a las expresiones culturales de los pueblos del país y de la región.
+C. Limitar la formación a técnicas artísticas universales, sin recuperación ni difusión de las expresiones culturales de las comunidades.
+D. Formar artistas para el entretenimiento comercial, sin relación con la diversidad cultural ni con las expresiones de los pueblos.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «2. Recuperar, desarrollar, recrear y difundir las expresiones culturales de las naciones y pueblos indígena originario campesinos, comunidades interculturales y afrobolivianas. 3. Fortalecer la diversidad cultural del Estado Plurinacional, en sus diferentes manifestaciones artísticas». Aplicación razonada: la planificación de la oferta artística se orienta por los objetivos del Artículo 48.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección III: Formación Superior Artística. Art. 48, numerales 2 y 3 (página impresa 21, numeración «21/39»; página PDF 22).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Ley N.º 070 – TÍTULO II] Una universidad se prepara para su proceso de calidad ante la APEAESU. ¿Qué componentes de la evaluación debe prever su estrategia según el Artículo 68.I?
+A. La evaluación ministerial, la evaluación sindical y la evaluación docente.
+B. La autoevaluación, la evaluación por pares y la evaluación social.
+C. La autoevaluación, la evaluación internacional y la evaluación financiera.
+D. La evaluación de mercado, la evaluación por pares y la evaluación de imagen.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «La evaluación es el proceso de cualificación de la calidad de la educación superior universitaria; contempla la autoevaluación, la evaluación por pares y la evaluación social».
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección V: Evaluación y Acreditación Universitaria. Art. 68, parágrafo I (página impresa 27, numeración «27/39»; página PDF 28).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Ley N.º 070 – TÍTULO II] Un distrito con altos índices de abandono entre adolescentes trabajadores planifica su estrategia de atención. ¿Qué disposición le ofrece el marco más específico?
+A. El Artículo 54, sobre niveles y grados académicos de pre grado y post grado en la formación superior universitaria del Estado.
+B. El Artículo 36, sobre exclusividad de las Escuelas Superiores para ofertar programas de formación de maestras y maestros.
+C. El Artículo 66, sobre requisitos de las universidades extranjeras para ofertar programas académicos en el territorio nacional.
+D. El Artículo 15, sobre educación escolarizada integral para población en desventaja social, con servicios integrales y prioridad al rezago escolar.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Es la educación integral escolarizada dirigida a la atención de niñas, niños y adolescentes, jóvenes trabajadores desprotegidos y en desventaja social para protegerlos del entorno, mediante programas especiales de hogares abiertos con servicios integrales de salud, alimentación, educación, reinserción escolar y sociolaboral, considerando políticas de rezago escolar como prioridad educativa». Aplicación razonada: la población descrita corresponde a la que atiende la educación escolarizada integral del Artículo 15.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 15 (página impresa 11, numeración «11/39»; página PDF 12).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Ley N.º 070 – TÍTULO II] Al planificar acciones de Educación Inicial no escolarizada con las familias de una comunidad, ¿qué componentes deben integrarse según el Artículo 12.1?
+A. Identidad cultural del entorno, apoyo a la familia en prevención y promoción de la salud y buena nutrición, y desarrollo integral del niño.
+B. Lectoescritura formal, evaluación estandarizada de aprendizajes y preparación académica intensiva para el ingreso a la primaria.
+C. Atención exclusiva en la unidad educativa, sin participación de la familia ni de la comunidad en el desarrollo del niño o la niña en sus primeros años.
+D. Capacitación técnica de las familias para el empleo, sin relación con la salud, la nutrición ni la identidad cultural del entorno.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Educación Inicial en Familia Comunitaria, no escolarizada. Es de responsabilidad compartida entre la familia, la comunidad y el Estado, orientada a recuperar, fortalecer y promover la identidad cultural del entorno de la niña y el niño, el apoyo a la familia en la prevención y promoción de la salud y la buena nutrición, para su desarrollo psicomotriz, socio-afectivo, espiritual y cognitivo […]». Aplicación razonada: la planificación comunitaria integra los componentes con que la Ley orienta esta etapa.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo I: Subsistema de Educación Regular. Art. 12, numeral 1 (página impresa 11, numeración «11/39»; página PDF 12).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Ley N.º 070 – TÍTULO II] Una universidad privada actualiza su plan de desarrollo institucional. ¿Qué orientación de los Artículos 57 y 58 debe considerar?
+A. Responder exclusivamente a la demanda de sus estudiantes, con independencia de las políticas, planes y autoridades del SEP.
+B. Responder a los lineamientos de su casa matriz extranjera, que prevalecen sobre la normativa del Ministerio de Educación.
+C. Responder a las necesidades de la universidad pública del departamento, que define los programas de las privadas.
+D. Responder a las necesidades socioeconómicas y productivas de las regiones y del país, en el marco de las políticas del SEP y del Ministerio.
+Respuesta correcta: D
+Explicación: Aplicación razonada: Art. 57: «[…] responden a las necesidades y demandas sociales y productivas de las regiones y del país, se rigen por las políticas, planes, programas y autoridades del Sistema Educativo Plurinacional». Art. 58.1: «Desarrollar programas de formación profesional de acuerdo a las necesidades socioeconómicas y productivas de las distintas regiones y del país; las políticas en conformidad con los lineamientos y normativas establecidas por el Ministerio de Educación». Aplicación razonada: el plan institucional debe alinearse con las necesidades regionales y con el marco normativo del SEP.
+Sustento: Ley N.º 070 de la Educación «Avelino Siñani - Elizardo Pérez», Título II: Sistema Educativo Plurinacional, Capítulo III, Sección IV: Formación Superior Universitaria. Art. 57 (página impresa 23; PDF 24) y Art. 58, numeral 1 (página impresa 24; PDF 25).

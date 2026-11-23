@@ -1,0 +1,1111 @@
+# Fuente: ley-348-t2.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia (9 de marzo de 2013)
+# Título II: Políticas públicas e institucionalidad (Arts. 8 al 16)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar el Título II (Arts. 8 al 16) de la Ley N.º 348 en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto de la Ley proporcionado, sin incorporar fuentes externas, y su fundamentación transcribe textualmente el fragmento que respalda la respuesta correcta.
+# Criterios documentales aplicados
+# Alcance de la fuente. El Título II, «Políticas públicas e institucionalidad», comprende el Capítulo I, Políticas públicas (Arts. 8 al 15: responsabilidad intersectorial, deberes de aplicación, planificación, SIPPASE, formación, acceso a cargos públicos, políticas sectoriales y participación y control social), y el Capítulo II, Institucionalidad (Art. 16: Ente Rector). En el PDF proporcionado ocupa las páginas 7 a 10.
+# Página impresa. El documento (versión de la Gaceta Oficial de Bolivia) numera sus páginas al pie desde la primera página del PDF, por lo que la página impresa coincide con la página PDF. Cada referencia consigna ambas.
+# Fundamentación textual. Cada fundamentación transcribe entre comillas el fragmento de la Ley que respalda la respuesta correcta. En las preguntas derivadas se añade una nota breve rotulada «Aplicación razonada», que distingue la inferencia del contenido textual.
+# Competencias directivas. El Título II no regula funciones específicas del director de Unidad Educativa: en ese sentido estricto, la dimensión 3 está «No respaldada por el documento fuente». Sí contiene obligaciones que alcanzan a toda autoridad y entidad pública, incluidas las educativas: el requisito inexcusable de no tener antecedentes de violencia con sentencia ejecutoriada para acceder a cualquier cargo público y su certificación por el SIPPASE (Art. 13), la formación obligatoria de todo el personal sin distinción de jerarquía (Art. 12), la planificación operativa y presupuestaria (Art. 10), los deberes de aplicación (Art. 9) y la reserva de la información del SIPPASE (Art. 11). La dimensión 3 evalúa esas disposiciones aplicadas a la función directiva, señalándolo con la nota «Aplicación razonada».
+# Cobertura y no duplicación. Las preguntas cubren los nueve artículos del Título II. Por la extensión reducida de la fuente, algunas disposiciones centrales (Arts. 11, 13 y 14) se evalúan en varias preguntas con enfoques distintos (conocimiento textual, diferenciación, análisis de casos o estrategia); no hay preguntas repetidas ni con la misma respuesta y el mismo enfoque.
+# Etiqueta de trazabilidad. Cada enunciado inicia con [Ley N.º 348 – TÍTULO II], para su integración en plataformas de simulación que combinan preguntas de varios documentos; el capítulo y el artículo exactos figuran en la referencia.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 27 preguntas y la más corta en 14, por lo que la longitud no es una pista.
+# 2. Distribución metodológica y ponderación
+# N.º
+# Tipo de evaluación
+# ¿Qué evalúa?
+# Preg.
+# Peso
+# N.º preg.
+# 1
+# Conocimiento y memorización
+# Dominio de conceptos, definiciones, principios, fechas, disposiciones y contenidos fundamentales del documento.
+# 10
+# 10%
+# 1–10
+# 2
+# Dominio conceptual
+# Comprensión de los fundamentos pedagógicos, administrativos, curriculares y organizativos del Sistema Educativo Plurinacional.
+# 10
+# 10%
+# 11–20
+# 3
+# Competencias y responsabilidades directivas
+# Conocimiento de las funciones, atribuciones, obligaciones y responsabilidades del director de una Unidad Educativa (en esta fuente: disposiciones aplicables a autoridades y servidores del ámbito educativo, con nota «Aplicación razonada»).
+# 10
+# 10%
+# 21–30
+# 4
+# Comprensión e interpretación
+# Capacidad para interpretar documentos, orientaciones pedagógicas y situaciones educativas.
+# 10
+# 10%
+# 31–40
+# 5
+# Diferenciación conceptual
+# Capacidad para distinguir conceptos, funciones, procedimientos, niveles de responsabilidad y enfoques educativos similares.
+# 10
+# 10%
+# 41–50
+# 6
+# Análisis crítico
+# Capacidad para identificar problemas institucionales, analizar sus causas, valorar alternativas y emitir criterios fundamentados.
+# 10
+# 10%
+# 51–60
+# 7
+# Aplicación normativa
+# Capacidad para aplicar correctamente la normativa en situaciones institucionales.
+# 10
+# 10%
+# 61–70
+# 8
+# Resolución de casos prácticos
+# Capacidad para resolver conflictos escolares, problemas administrativos, dificultades pedagógicas y situaciones con estudiantes, profesores y familias.
+# 10
+# 10%
+# 71–80
+# 9
+# Toma de decisiones
+# Capacidad para adoptar decisiones oportunas, pertinentes, fundamentadas y responsables ante situaciones institucionales.
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# Capacidad para planificar, organizar, dirigir, supervisar y evaluar acciones orientadas al mejoramiento de la calidad educativa.
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–10)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta [Ley N.º 348 – TÍTULO II]; el capítulo y el artículo exactos figuran en la referencia.
+# Cada fundamentación transcribe el fragmento textual de la Ley y remite al artículo, parágrafo e inciso, con página impresa y página PDF.
+# Contenido limitado exclusivamente a el Título II (Arts. 8 al 16) de la Ley N.º 348; no se atribuyen al director de Unidad Educativa competencias que la fuente no contiene.
+
+CAPÍTULO: ley-348-t2
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Ley N.º 348 – TÍTULO II] ¿Cómo se denomina el Título II de la Ley N.º 348?
+A. Prevención, atención y protección integral.
+B. Políticas públicas e institucionalidad.
+C. Persecución y sanción penal de la violencia.
+D. Disposiciones generales y marco institucional.
+Respuesta correcta: B
+Explicación: «TÍTULO II / POLÍTICAS PÚBLICAS E INSTITUCIONALIDAD».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II (denominación) (página impresa 7; página PDF 7).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Ley N.º 348 – TÍTULO II] Según el Artículo 16, ¿qué entidad es el Ente Rector de la Ley N.º 348?
+A. El Ministerio de Gobierno.
+B. El Ministerio de Educación.
+C. La Defensoría del Pueblo.
+D. El Ministerio de Justicia.
+Respuesta correcta: D
+Explicación: «El Ministerio de Justicia, en el marco de sus competencias y atribuciones es el Ente Rector responsable de coordinación, articulación y vigilancia de la aplicación efectiva y cumplimiento de la presente Ley».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo II: Institucionalidad. Art. 16, párrafo primero (página impresa 10; página PDF 10).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Ley N.º 348 – TÍTULO II] ¿Qué significa la sigla SIPPASE, según el Artículo 11?
+A. Sistema Interinstitucional Plurinacional de Protección y Atención de Servicios Especializados contra la Violencia, según la norma.
+B. Servicio Integral Plurinacional de Persecución, Atención, Sanción y Erradicación de la Violencia Intrafamiliar.
+C. Sistema Integrado Plurinacional de Políticas de Atención, Seguimiento y Evaluación de la Violencia de Género.
+D. Sistema Integral Plurinacional de Prevención, Atención, Sanción y Erradicación de la Violencia en razón de Género.
+Respuesta correcta: D
+Explicación: «ARTÍCULO 11. (SISTEMA INTEGRAL PLURINACIONAL DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA EN RAZÓN DE GÉNERO – SIPPASE)».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 11 (epígrafe) (página impresa 8; página PDF 8).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Ley N.º 348 – TÍTULO II] Según el Artículo 16, ¿ante quién y con qué periodicidad rinde informe el Ministerio de Justicia sobre el avance y cumplimiento de la Ley?
+A. Ante el Órgano Judicial, de forma semestral y reservada.
+B. Ante la Asamblea Legislativa Plurinacional, de forma anual.
+C. Ante la Defensoría del Pueblo, cada dos años de gestión.
+D. Ante el Instituto Nacional de Estadística, cada trimestre, según la norma.
+Respuesta correcta: B
+Explicación: «El Ministerio de Justicia rendirá un informe anual ante la Asamblea Legislativa Plurinacional, sobre el avance y cumplimiento de la presente Ley».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo II: Institucionalidad. Art. 16, párrafo cuarto (página impresa 10; página PDF 10).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Ley N.º 348 – TÍTULO II] Según el Artículo 11.III, ¿a qué entidad se deriva la información registrada en el SIPPASE y para qué?
+A. Al Ministerio Público, para el inicio de oficio de investigaciones penales contra todos los agresores registrados.
+B. A la Asamblea Legislativa Plurinacional, para su publicación íntegra junto con el informe anual del Ministerio.
+C. Al Instituto Nacional de Estadística, para su procesamiento y difusión conforme a indicadores elaborados de forma conjunta.
+D. A los Gobiernos Autónomos Municipales, para la elaboración de sus planes operativos anuales y presupuestarios.
+Respuesta correcta: C
+Explicación: «Toda la información registrada en este sistema, será derivada al Instituto Nacional de Estadística para su procesamiento y difusión, conforme a indicadores elaborados de forma conjunta, con enfoque de derechos humanos y de las mujeres, desagregados al menos por sexo, edad y municipio».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 11, parágrafo III (página impresa 8; página PDF 8).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+6. [Ley N.º 348 – TÍTULO II] Según el Artículo 11.I, ¿qué carácter tiene la información de datos que genera el SIPPASE?
+A. Carácter público.
+B. Carácter optativo.
+C. Carácter comercial.
+D. Carácter reservado.
+Respuesta correcta: D
+Explicación: «La información de datos que este sistema genere será de carácter reservado».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 11, parágrafo I (página impresa 8; página PDF 8).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+7. [Ley N.º 348 – TÍTULO II] ¿En qué capítulos se organiza el Título II de la Ley N.º 348?
+A. Capítulo I, Políticas públicas; y Capítulo II, Institucionalidad.
+B. Capítulo I, Prevención; y Capítulo II, Atención y protección.
+C. Capítulo I, Ente Rector; y Capítulo II, Participación social.
+D. Capítulo I, Planificación; y Capítulo II, Formación del personal, según la norma.
+Respuesta correcta: A
+Explicación: «TÍTULO II / POLÍTICAS PÚBLICAS E INSTITUCIONALIDAD / CAPÍTULO I / POLÍTICAS PÚBLICAS […] CAPÍTULO II / INSTITUCIONALIDAD».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II, Capítulos I y II (páginas impresas 7 y 10; páginas PDF 7 y 10).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+8. [Ley N.º 348 – TÍTULO II] Según el Artículo 14, ¿con qué carácter se establecen los programas de las políticas sectoriales?
+A. Con carácter indicativo, no excluyente de otros que pudieran adoptarse.
+B. Con carácter taxativo, excluyente de cualquier otro programa sectorial, conforme a norma.
+C. Con carácter facultativo, sujeto a la aprobación de las organizaciones.
+D. Con carácter transitorio, vigente solo durante el primer año de la Ley.
+Respuesta correcta: A
+Explicación: «[…] para cuyo efecto se establecen con carácter indicativo, no excluyente de otros que pudieran adoptarse, los siguientes programas […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14, párrafo introductorio (página impresa 9; página PDF 9).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+9. [Ley N.º 348 – TÍTULO II] Según el Artículo 8, ¿con qué carácter y bajo qué presidencia adopta y coordina el Estado la ejecución de los mandatos de la Ley en las políticas públicas?
+A. Con carácter sectorial y presidido por el Ministerio de Gobierno.
+B. Con carácter municipal y presidido por los Servicios Legales Integrales.
+C. Con carácter intersectorial y presidido por el Ente Rector.
+D. Con carácter judicial y presidido por el Consejo de la Magistratura.
+Respuesta correcta: C
+Explicación: «Es responsabilidad del Estado, con carácter intersectorial y presidido por el Ente Rector, adoptar y coordinar la ejecución de los mandatos de la presente Ley, en toda política pública y Plan Nacional que involucre la prevención de la violencia hacia las mujeres, su atención y protección».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 8 (página impresa 7; página PDF 7).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+10. [Ley N.º 348 – TÍTULO II] Según el Artículo 11.III, ¿por qué variables, como mínimo, deben desagregarse los indicadores de la información del SIPPASE?
+A. Por etnia, idioma y profesión.
+B. Al menos por sexo, edad y municipio.
+C. Por ingreso, religión y estado civil.
+D. Por departamento, área y escolaridad.
+Respuesta correcta: B
+Explicación: «[…] desagregados al menos por sexo, edad y municipio».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 11, parágrafo III (página impresa 8; página PDF 8).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+11. [Ley N.º 348 – TÍTULO II] Según el Artículo 9.1, ¿con qué finalidad deben adoptarse, implementarse y supervisarse protocolos de atención especializada?
+A. Para la sanción penal inmediata de los agresores, en las instancias judiciales especializadas del Órgano Judicial.
+B. Para la conciliación entre la mujer y el agresor, en las instancias de atención de los gobiernos municipales del país, conforme a la Ley.
+C. Para el restablecimiento de los derechos de mujeres en situación de violencia, en las diferentes instancias de atención.
+D. Para la reeducación de los agresores, en los centros penitenciarios administrados por la Policía Boliviana del Estado.
+Respuesta correcta: C
+Explicación: «Adoptar, implementar y supervisar protocolos de atención especializada, en las diferentes instancias de atención, para el restablecimiento de los derechos de mujeres en situación de violencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 9, numeral 1 (página impresa 7; página PDF 7).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+12. [Ley N.º 348 – TÍTULO II] ¿Qué servicios deben crearse y sostenerse para los agresores según el Artículo 9.3?
+A. Servicios de defensa legal gratuita, para garantizar su derecho al debido proceso frente a las denuncias recibidas, según la normativa.
+B. Servicios de registro y vigilancia policial permanente, sin medidas orientadas a modificar su comportamiento.
+C. Servicios de conciliación familiar, destinados a restablecer la convivencia con la mujer en situación de violencia.
+D. Servicios de atención y reeducación integral especializada, y otras medidas destinadas a modificar su comportamiento.
+Respuesta correcta: D
+Explicación: «Crear y sostener servicios de atención y reeducación integral especializada para los agresores, así como otras medidas destinadas a modificar su comportamiento».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 9, numeral 3 (página impresa 7; página PDF 7).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+13. [Ley N.º 348 – TÍTULO II] ¿Qué exige el Artículo 9.5 a los Órganos del Estado, las Entidades Territoriales Autónomas e Instituciones Públicas?
+A. Articular los instrumentos, políticas, servicios y acciones interinstitucionales para la prevención, atención, sanción y erradicación.
+B. Centralizar todos los servicios de atención en el Ministerio de Justicia, suprimiendo las acciones de las demás instituciones, según la norma.
+C. Actuar de manera independiente y sin coordinación, para evitar duplicaciones entre instituciones en la atención de los casos.
+D. Delegar a las organizaciones sociales la articulación de las acciones de prevención, atención, sanción y erradicación.
+Respuesta correcta: A
+Explicación: «Articular los instrumentos, políticas, servicios y acciones interinstitucionales vinculadas, para la prevención, atención, sanción y erradicación de la violencia contra las mujeres».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 9, numeral 5 (página impresa 8; página PDF 8).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+14. [Ley N.º 348 – TÍTULO II] Según el Artículo 10, ¿en quiénes deben centrar sus acciones y recursos las entidades públicas?
+A. En las mujeres de las ciudades capitales, por concentrar la mayor cantidad de denuncias registradas en el país.
+B. En las mujeres en situación de violencia y en condiciones de vulnerabilidad, de manera prioritaria en el área rural.
+C. En los agresores reincidentes, de manera prioritaria en los centros urbanos con mayor índice de criminalidad.
+D. En toda la población por igual, sin prioridad territorial ni atención especial a la vulnerabilidad de las mujeres, según lo dispuesto.
+Respuesta correcta: B
+Explicación: «Centrarán sus acciones y recursos en la atención especial a las mujeres en situación de violencia y a las que estén en condiciones de vulnerabilidad, de manera prioritaria en el área rural».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 10 (página impresa 8; página PDF 8).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+15. [Ley N.º 348 – TÍTULO II] ¿Qué hace el SIPPASE según el Artículo 11.I?
+A. Reorganiza el sistema de atención integral a las mujeres y la información de servicios públicos y privados en un registro único.
+B. Sustituye a los juzgados de materia contra la violencia en la tramitación de los procesos penales iniciados por denuncia.
+C. Administra directamente las casas de acogida y los servicios legales integrales municipales de todo el territorio nacional, según la normativa.
+D. Reemplaza al Instituto Nacional de Estadística en la difusión pública de los datos nominales de las mujeres atendidas.
+Respuesta correcta: A
+Explicación: «[…] que reorganiza todo el sistema de atención integral a las mujeres en situación de violencia y la información de los servicios públicos y privados, que se inscribirá en un registro único sobre la violencia en razón de género […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 11, parágrafo I (página impresa 8; página PDF 8).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+16. [Ley N.º 348 – TÍTULO II] ¿Qué busca el programa de prevención del Artículo 14.1?
+A. Consolidar la sanción penal de los agresores, en los ámbitos judicial, policial y penitenciario del Estado Plurinacional.
+B. Consolidar la atención médica de urgencia a las víctimas, en los ámbitos hospitalario, municipal y comunitario del país.
+C. Consolidar una nueva cultura de respeto a las mujeres, a su dignidad y derechos, en los ámbitos estructural, individual y colectivo.
+D. Consolidar la conciliación familiar, en los ámbitos doméstico, comunitario y laboral, para preservar la unidad del hogar.
+Respuesta correcta: C
+Explicación: «De prevención en los ámbitos estructural, individual y colectivo que consolide una nueva cultura de respeto a las mujeres, a su dignidad y derechos».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14, numeral 1 (página impresa 9; página PDF 9).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+17. [Ley N.º 348 – TÍTULO II] ¿Qué propósito tiene el programa de comunicación del Artículo 14.5?
+A. Censurar previamente todas las publicaciones de los medios, mediante un registro estatal de contenidos autorizados, según la ley vigente.
+B. Deconstruir los estereotipos sexistas y roles asignados a las mujeres, promoviendo la autorregulación de los medios.
+C. Difundir los nombres de los agresores sentenciados, mediante campañas obligatorias en los medios de comunicación.
+D. Financiar la publicidad comercial de los medios privados, a cambio de espacios gratuitos para campañas estatales.
+Respuesta correcta: B
+Explicación: «De comunicación para de construir los estereotipos sexistas y los roles asignados socialmente a las mujeres, promoviendo la autorregulación de los medios de comunicación en cuanto a la publicidad que emiten, el uso irrespetuoso y comercial de la imagen de las mujeres».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14, numeral 5 (páginas impresas 9-10; páginas PDF 9-10).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+18. [Ley N.º 348 – TÍTULO II] ¿Qué finalidad tiene el programa del Artículo 14.6 dirigido a los agresores?
+A. Garantizar la reinserción laboral inmediata de los agresores, sin condicionarla a cambios de comportamiento ni a valores de la Ley, según la Ley 348.
+B. Sustituir la sanción penal por un programa de orientación, de modo que el agresor rehabilitado quede exento de responsabilidad.
+C. Registrar a los agresores en una base de datos pública, para que la comunidad conozca su identidad y evite su reincidencia.
+D. Promover los valores de la Ley, lograr cambios de comportamiento para el respeto de los derechos de las mujeres y evitar la reincidencia.
+Respuesta correcta: D
+Explicación: «De orientación, atención y rehabilitación a los agresores para promover los valores que adopta esta Ley y lograr cambios de comportamiento para el respeto efectivo de los derechos de las mujeres y evitar la reincidencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14, numeral 6 (página impresa 10; página PDF 10).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+19. [Ley N.º 348 – TÍTULO II] Según el Artículo 15, ¿en qué participan las organizaciones sociales y de mujeres al ejercer la participación y control social?
+A. En el diseño, evaluación y gestión de las políticas públicas de prevención, atención y protección, y la calidad de los servicios.
+B. En la sanción de los agresores y en la emisión de certificaciones de antecedentes de violencia, en todos los niveles del Estado, según lo establecido.
+C. En la designación de las autoridades judiciales y fiscales especializadas, en coordinación con el Consejo de la Magistratura.
+D. En la administración directa de los recursos fiscales asignados a los servicios especializados de atención a las mujeres.
+Respuesta correcta: A
+Explicación: «Las organizaciones sociales y de mujeres de la sociedad civil, ejercerán la participación y control social en el marco de la Ley correspondiente, participando en el diseño, evaluación y gestión de las políticas públicas de prevención, atención y protección a las mujeres y la calidad de los servicios especializados […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 15 (página impresa 10; página PDF 10).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+20. [Ley N.º 348 – TÍTULO II] Según el Artículo 16, ¿de qué es responsable el Ente Rector?
+A. De la investigación penal, acusación y juzgamiento de los delitos de violencia previstos en la Ley N.º 348.
+B. De la atención directa a las mujeres en situación de violencia en todos los municipios del territorio nacional.
+C. De la aprobación de los presupuestos de las Entidades Territoriales Autónomas destinados a la Ley N.º 348.
+D. De la coordinación, articulación y vigilancia de la aplicación efectiva y cumplimiento de la Ley N.º 348.
+Respuesta correcta: D
+Explicación: «El Ministerio de Justicia, en el marco de sus competencias y atribuciones es el Ente Rector responsable de coordinación, articulación y vigilancia de la aplicación efectiva y cumplimiento de la presente Ley».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo II: Institucionalidad. Art. 16, párrafo primero (página impresa 10; página PDF 10).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+21. [Ley N.º 348 – TÍTULO II] Un aspirante a director de Unidad Educativa —cargo público— tiene una sentencia ejecutoriada por violencia contra su esposa. Según el Artículo 13.I, ¿qué corresponde?
+A. No puede acceder al cargo: carecer de antecedentes de violencia con sentencia ejecutoriada es un requisito inexcusable.
+B. Puede acceder al cargo si aprueba el examen de competencia, pues el mérito profesional prevalece sobre los antecedentes.
+C. Puede acceder al cargo si la sentencia tiene más de cinco años, pues los antecedentes antiguos no se consideran requisito.
+D. No puede acceder solo si la víctima fue una estudiante, pues la Ley considera únicamente la violencia en el ámbito escolar.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Para el acceso a un cargo público de cualquier Órgano del Estado o nivel de administración, sea mediante elección, designación, nombramiento o contratación, además de las previstas por Ley, se considerará como un requisito inexcusable el no contar con antecedentes de violencia ejercida contra una mujer o cualquier miembro de su familia, que tenga sentencia ejecutoriada en calidad de cosa juzgada […]». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como autoridad o servidor de una entidad pública, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafo I (página impresa 9; página PDF 9).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+22. [Ley N.º 348 – TÍTULO II] Según el Artículo 13.I, ¿qué instancia certifica los antecedentes de violencia exigidos para acceder a un cargo público, como el de director?
+A. La Dirección Distrital de Educación, con base en los informes de conducta remitidos por las juntas escolares del lugar.
+B. El Sistema Integral Plurinacional de Prevención, Atención, Sanción y Erradicación de la Violencia en razón de Género.
+C. El Instituto Nacional de Estadística, con base en los indicadores desagregados por sexo, edad y municipio de residencia.
+D. La Defensoría del Pueblo, con base en las quejas recibidas contra el postulante durante su ejercicio profesional previo.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «El Sistema Integral Plurinacional de Prevención, Atención, Sanción y Erradicación de la Violencia en razón de Género – SIPPASE certificará los antecedentes referidos en el presente Artículo». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como autoridad o servidor de una entidad pública, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafo I (página impresa 9; página PDF 9).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+23. [Ley N.º 348 – TÍTULO II] ¿A qué formas de acceso a un cargo público se aplica el requisito del Artículo 13.I?
+A. A la elección, designación, nombramiento o contratación.
+B. Solo a la elección popular de autoridades nacionales.
+C. Solo a la designación por concurso de méritos del personal.
+D. Solo a la contratación de consultores en línea del Estado.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Para el acceso a un cargo público de cualquier Órgano del Estado o nivel de administración, sea mediante elección, designación, nombramiento o contratación […]». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como autoridad o servidor de una entidad pública, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafo I (página impresa 9; página PDF 9).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+24. [Ley N.º 348 – TÍTULO II] Una entidad pública designará al responsable de su unidad de atención de casos de mujeres en situación de violencia. Además del requisito general, ¿qué exige el Artículo 13.II?
+A. Título de abogado con especialidad en derecho penal y al menos diez años de ejercicio.
+B. Afiliación a una organización social de mujeres con representación en el municipio.
+C. Aprobación de un curso de la Escuela de Jueces del Estado sobre procesos de violencia.
+D. Formación o experiencia probada en materia de género y/o derechos de las mujeres.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Para la designación en cargos públicos que tengan relación con la atención, protección, investigación y sanción de casos de mujeres en situación de violencia, se requerirá además, la formación o experiencia probada en materia de género y/o derechos de las mujeres».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafo II (página impresa 9; página PDF 9).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+25. [Ley N.º 348 – TÍTULO II] Un director decide que la formación sobre cultura contra la violencia la reciban solo los docentes y no el personal directivo. Según el Artículo 12, ¿qué corresponde?
+A. Es procedente: la formación del Artículo 12 se dirige solo al personal operativo, y las autoridades quedan exentas por su jerarquía, según lo dispuesto.
+B. Es improcedente: la formación se aplica a todo el personal, independientemente de su jerarquía, sin excepción y con carácter obligatorio.
+C. Es procedente si el director ya recibió formación similar, pues la Ley exime a quienes acrediten cursos anteriores sobre la materia.
+D. Es improcedente solo si la unidad es privada, pues en las unidades fiscales la formación del personal directivo es voluntaria.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «[…] adoptarán y desarrollarán programas de formación específica relativos a la cultura contra la violencia, igualdad y no discriminación por razón de sexo y sobre equidad de género, entre otros, los cuales deberán ser permanentemente actualizados y serán aplicados a todo el personal, independientemente de su jerarquía, sin excepción y con carácter obligatorio». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como autoridad o servidor de una entidad pública, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 12 (páginas impresas 8-9; páginas PDF 8-9).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+26. [Ley N.º 348 – TÍTULO II] Según el Artículo 12, ¿sobre qué contenidos versan los programas de formación específica que deben desarrollar las entidades públicas?
+A. Sobre procedimiento penal, técnicas de interrogatorio y valoración de la prueba pericial en los delitos de violencia.
+B. Sobre administración de recursos fiscales, contratación pública y control gubernamental de los servicios de atención.
+C. Sobre cultura contra la violencia, igualdad y no discriminación por razón de sexo y equidad de género, entre otros.
+D. Sobre primeros auxilios, atención médica de urgencia y emisión de certificados médicos para las mujeres agredidas.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «[…] programas de formación específica relativos a la cultura contra la violencia, igualdad y no discriminación por razón de sexo y sobre equidad de género, entre otros […]». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como autoridad o servidor de una entidad pública, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 12 (páginas impresas 8-9; páginas PDF 8-9).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+27. [Ley N.º 348 – TÍTULO II] Al elaborar la planificación operativa anual de su entidad, ¿qué exige el Artículo 10 a la autoridad responsable?
+A. Incorporar acciones para aplicar la Ley solo si existen recursos excedentes al cierre de la gestión, sin previsión en el presupuesto, según la Ley 348.
+B. Delegar la planificación de las acciones de la Ley al Ministerio de Justicia, sin incorporarlas en la planificación de la entidad.
+C. Incorporar en las estrategias, la planificación operativa anual y el presupuesto las acciones y recursos suficientes para aplicar la Ley.
+D. Incorporar las acciones de la Ley únicamente en la estrategia quinquenal, sin reflejo en la planificación operativa anual.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Los Órganos del Estado, las Instituciones Públicas y las Entidades Territoriales Autónomas, en el marco de sus respetivas competencias, atribuciones, funciones y capacidades, incorporarán en sus estrategias, planificación operativa anual y presupuestaria, las acciones y los recursos suficientes y necesarios para la aplicación de la presente Ley […]». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como autoridad o servidor de una entidad pública, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 10 (página impresa 8; página PDF 8).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+28. [Ley N.º 348 – TÍTULO II] Según el Artículo 10, además de acciones y recursos, ¿con qué deben contar las entidades públicas para implementar la Ley N.º 348?
+A. Con un tribunal disciplinario propio en cada entidad.
+B. Con una oficina de la Fuerza Especial en su edificio.
+C. Con un fiscal de materia asignado de forma permanente.
+D. Con personal idóneo para su implementación.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] y contarán con el personal idóneo para su implementación». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como autoridad o servidor de una entidad pública, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 10 (página impresa 8; página PDF 8).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+29. [Ley N.º 348 – TÍTULO II] ¿Qué tipo de medidas exige adoptar el Artículo 9.4 a las instituciones públicas, incluidas las del ámbito educativo?
+A. Medidas generales de carácter declarativo, sin asignación de responsabilidades ni plazos de ejecución en cada institución, conforme a la norma.
+B. Medidas sancionatorias directas contra los agresores, con privación de libertad dispuesta por la autoridad administrativa.
+C. Medidas de conciliación entre las partes, con la prioridad que requiere la preservación de la unidad de la familia.
+D. Medidas concretas de acción y responsabilidades claras y específicas, con la prioridad que requiere la preservación de la vida.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Adoptar medidas concretas de acción y responsabilidades claras y específicas, con el nivel de atención y prioridad que requiere la preservación de la vida, la seguridad y la integridad de las mujeres». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como autoridad o servidor de una entidad pública, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 9, numeral 4 (página impresa 8; página PDF 8).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+30. [Ley N.º 348 – TÍTULO II] Un director solicita directamente al SIPPASE información sobre denuncias registradas contra un docente, sin mediar requerimiento fiscal ni orden judicial. ¿Qué dispone el Artículo 11.II?
+A. Las certificaciones se emiten a cualquier autoridad pública que las solicite por escrito y con fundamento.
+B. Las certificaciones se emiten al director de forma inmediata, por tratarse de la seguridad del estudiantado.
+C. Las certificaciones sobre antecedentes y denuncias se emiten a sólo requerimiento fiscal u orden judicial.
+D. Las certificaciones se emiten solo a la Dirección Distrital, que las remite luego al director solicitante.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La entidad responsable de este registro podrá emitir certificaciones sobre antecedentes de los agresores, denuncias, actuación de servidoras y servidores públicos, y sobre toda información que pueda servir para la prevención, atención, protección y sanción de casos individuales, a sólo requerimiento fiscal u orden judicial». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como autoridad o servidor de una entidad pública, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 11, parágrafo II (página impresa 8; página PDF 8).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+31. [Ley N.º 348 – TÍTULO II] ¿Qué implica que, según el Artículo 8, la ejecución de los mandatos de la Ley sea «intersectorial y presidida por el Ente Rector»?
+A. Que involucra a los distintos sectores del Estado en toda política y Plan Nacional, bajo la coordinación del Ministerio de Justicia.
+B. Que la ejecución corresponde solo al sector justicia, y los demás sectores quedan excluidos de las políticas de prevención.
+C. Que cada sector define de manera aislada sus políticas, sin coordinación con el Ente Rector ni con el Plan Nacional vigente.
+D. Que la ejecución corresponde a las organizaciones sociales, y el Ente Rector solo preside sus reuniones de coordinación.
+Respuesta correcta: A
+Explicación: «Es responsabilidad del Estado, con carácter intersectorial y presidido por el Ente Rector, adoptar y coordinar la ejecución de los mandatos de la presente Ley, en toda política pública y Plan Nacional que involucre la prevención de la violencia hacia las mujeres, su atención y protección». Aplicación razonada: el carácter intersectorial y la presidencia del Ente Rector (Ministerio de Justicia, Art. 16) suponen coordinación entre sectores.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 8 (página impresa 7; página PDF 7) y Art. 16 (página impresa 10; página PDF 10).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+32. [Ley N.º 348 – TÍTULO II] ¿Qué se desprende del carácter «indicativo, no excluyente» de los programas del Artículo 14?
+A. Que las entidades pueden adoptar otros programas además de los enumerados, sin limitarse a la lista de la Ley.
+B. Que los programas enumerados son los únicos permitidos, y ningún otro programa puede adoptarse válidamente, según la ley vigente.
+C. Que los programas enumerados son meramente opcionales, y su adopción no constituye responsabilidad estatal.
+D. Que solo el nivel central puede adoptar programas adicionales, y las autonomías deben limitarse a la lista.
+Respuesta correcta: A
+Explicación: «[…] para cuyo efecto se establecen con carácter indicativo, no excluyente de otros que pudieran adoptarse, los siguientes programas […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14, párrafo introductorio (página impresa 9; página PDF 9).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+33. [Ley N.º 348 – TÍTULO II] Un postulante a un cargo público tiene una denuncia por violencia en trámite, sin sentencia. ¿Cómo se interpreta el requisito del Artículo 13.I en este caso?
+A. El requisito se incumple con la sola existencia de una denuncia, aunque no exista sentencia ni proceso concluido contra el postulante.
+B. El requisito se incumple con cualquier sentencia de primera instancia, aunque esté apelada y no haya adquirido calidad de cosa juzgada, conforme a norma.
+C. El requisito no se aplica a postulantes con procesos en trámite, que pueden acceder sin certificación del SIPPASE ni verificación.
+D. El requisito exige no contar con antecedentes con sentencia ejecutoriada en calidad de cosa juzgada; una denuncia en trámite no lo configura.
+Respuesta correcta: D
+Explicación: «[…] se considerará como un requisito inexcusable el no contar con antecedentes de violencia ejercida contra una mujer o cualquier miembro de su familia, que tenga sentencia ejecutoriada en calidad de cosa juzgada […]». Aplicación razonada: el texto exige sentencia ejecutoriada; la denuncia en trámite no alcanza ese supuesto.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafo I (página impresa 9; página PDF 9).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+34. [Ley N.º 348 – TÍTULO II] ¿Qué significa que el requisito del Artículo 13.I se exija «además de las previstas por Ley»?
+A. Que se suma a los demás requisitos legales de acceso al cargo, sin reemplazarlos.
+B. Que sustituye a todos los demás requisitos legales de acceso al cargo público.
+C. Que solo se exige cuando la ley sectorial no prevé requisitos de acceso propios, según la norma.
+D. Que se aplica únicamente a los cargos que no tienen requisitos en otras leyes.
+Respuesta correcta: A
+Explicación: «[…] sea mediante elección, designación, nombramiento o contratación, además de las previstas por Ley, se considerará como un requisito inexcusable […]». Aplicación razonada: la expresión «además de» indica un requisito adicional.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafo I (página impresa 9; página PDF 9).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+35. [Ley N.º 348 – TÍTULO II] Según el Artículo 11.III, ¿con qué enfoque deben elaborarse los indicadores para procesar la información del SIPPASE?
+A. Con enfoque de seguridad ciudadana, elaborados solo por la Policía Boliviana.
+B. Con enfoque de derechos humanos y de las mujeres, elaborados de forma conjunta.
+C. Con enfoque económico y fiscal, elaborados solo por el Ministerio de Economía.
+D. Con enfoque judicial y procesal, elaborados solo por el Consejo de la Magistratura.
+Respuesta correcta: B
+Explicación: «[…] conforme a indicadores elaborados de forma conjunta, con enfoque de derechos humanos y de las mujeres […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 11, parágrafo III (página impresa 8; página PDF 8).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+36. [Ley N.º 348 – TÍTULO II] Según el Artículo 15, ¿alcanza el control social a servicios privados?
+A. No, el control social se limita a los servicios especializados públicos, sin alcanzar a ningún servicio privado.
+B. Sí, a todos los servicios privados sin excepción, incluidos los que no prestan servicios básicos ni administran recursos.
+C. No, salvo que el servicio privado lo autorice expresamente mediante convenio con la organización social respectiva.
+D. Sí, a los privados que presten servicios básicos o que administren recursos fiscales, en todos los niveles del Estado.
+Respuesta correcta: D
+Explicación: «[…] y la calidad de los servicios especializados, públicos y a los privados que presten servicios básicos o que administren recursos fiscales en todos los niveles del Estado».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 15 (página impresa 10; página PDF 10).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+37. [Ley N.º 348 – TÍTULO II] Según el Artículo 16, ¿cómo deben coordinar con el Ministerio de Justicia las instancias del Órgano Ejecutivo vinculadas a los derechos de las mujeres?
+A. A través de convenios individuales firmados por cada instancia con las organizaciones sociales, según la Ley 348.
+B. A través del mecanismo más adecuado y con jerarquía suficiente definido por el Órgano Ejecutivo.
+C. A través de la Asamblea Legislativa, que define el mecanismo de coordinación en cada gestión.
+D. A través del Instituto Nacional de Estadística, como único canal de intercambio de información.
+Respuesta correcta: B
+Explicación: «Todas las instancias del Órgano Ejecutivo, con competencias vinculadas a los derechos de las mujeres y la problemática de violencia […] coordinarán sus acciones con el Ministerio de Justicia, a través del mecanismo más adecuado y con jerarquía suficiente definido por el Órgano Ejecutivo».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo II: Institucionalidad. Art. 16, párrafo tercero (página impresa 10; página PDF 10).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+38. [Ley N.º 348 – TÍTULO II] ¿Qué propósito tiene el programa de orientación e información del Artículo 14.3?
+A. La revalorización de las mujeres como sujetos de derechos y su acceso a instancias de atención y protección.
+B. La orientación vocacional de las mujeres hacia profesiones técnicas con mayor demanda laboral en el país.
+C. La información estadística sobre violencia, destinada exclusivamente a investigadores y organismos públicos, por mandato legal.
+D. La orientación a los agresores sobre sus derechos procesales durante la investigación de las denuncias.
+Respuesta correcta: A
+Explicación: «De orientación e información a las mujeres para su revalorización como sujetos de derechos y acceso a instancias de atención y protección».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14, numeral 3 (página impresa 9; página PDF 9).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+39. [Ley N.º 348 – TÍTULO II] Según el Artículo 14.4, ¿a quiénes alcanza el programa de atención y protección?
+A. Solo a las mujeres mayores de edad que hayan presentado denuncia formal ante el Ministerio Público.
+B. Solo a los hijos menores de edad de la mujer, excluyendo a los demás integrantes de la familia en riesgo.
+C. A las mujeres en situación de violencia y a los agresores, para preservar la convivencia en el hogar.
+D. A las mujeres en situación de violencia y a los integrantes de su familia en situación de riesgo.
+Respuesta correcta: D
+Explicación: «De atención y protección a mujeres en situación de violencia, y a los integrantes de su familia en situación de riesgo».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14, numeral 4 (página impresa 9; página PDF 9).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+40. [Ley N.º 348 – TÍTULO II] Según el Artículo 13.I, ¿contra quiénes debe haberse ejercido la violencia para que el antecedente impida el acceso a un cargo público?
+A. Solo contra la cónyuge o conviviente del postulante.
+B. Solo contra niñas, niños o adolescentes de la familia.
+C. Contra una mujer o cualquier miembro de su familia.
+D. Contra cualquier persona, sin distinción de su relación.
+Respuesta correcta: C
+Explicación: «[…] el no contar con antecedentes de violencia ejercida contra una mujer o cualquier miembro de su familia, que tenga sentencia ejecutoriada en calidad de cosa juzgada […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafo I (página impresa 9; página PDF 9).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+41. [Ley N.º 348 – TÍTULO II] ¿Qué diferencia existe entre los servicios del Artículo 9.2 y los del Artículo 9.3?
+A. Los del 9.2 brindan reeducación integral a los agresores; los del 9.3 atienden y protegen a mujeres en situación de violencia.
+B. Los del 9.2 son servicios judiciales de sanción; los del 9.3 son servicios policiales de investigación de los hechos denunciados.
+C. Los del 9.2 atienden y protegen a mujeres en situación de violencia; los del 9.3 brindan atención y reeducación integral a los agresores.
+D. Los del 9.2 son servicios temporales que se suprimen al año; los del 9.3 son permanentes y financiados por las organizaciones.
+Respuesta correcta: C
+Explicación: «2. Crear, fortalecer y sostener servicios de atención y protección para mujeres en situación de violencia. 3. Crear y sostener servicios de atención y reeducación integral especializada para los agresores, así como otras medidas destinadas a modificar su comportamiento».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 9, numerales 2 y 3 (página impresa 7; página PDF 7).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+42. [Ley N.º 348 – TÍTULO II] ¿Qué distingue el papel del SIPPASE del papel del Instituto Nacional de Estadística según el Artículo 11?
+A. El INE registra la información en un registro único reservado; el SIPPASE la procesa y difunde conforme a indicadores conjuntos.
+B. El SIPPASE registra la información en un registro único reservado; el INE la procesa y difunde conforme a indicadores conjuntos.
+C. El SIPPASE sanciona a los agresores registrados; el INE emite certificaciones de antecedentes a sólo requerimiento del interesado.
+D. Ambos cumplen la misma función de registro, por lo que la información se duplica en dos bases de datos públicas e independientes.
+Respuesta correcta: B
+Explicación: «I. […] que se inscribirá en un registro único sobre la violencia en razón de género. La información de datos que este sistema genere será de carácter reservado. […] III. Toda la información registrada en este sistema, será derivada al Instituto Nacional de Estadística para su procesamiento y difusión […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 11, parágrafos I y III (página impresa 8; página PDF 8).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+43. [Ley N.º 348 – TÍTULO II] ¿Qué diferencia existe entre el requisito del Artículo 13.I y el del Artículo 13.II?
+A. El 13.I exige formación en género para todo cargo público; el 13.II exige no tener antecedentes solo para cargos de atención a casos.
+B. El 13.I se exige para todo cargo público; el 13.II exige además formación o experiencia en género para cargos de atención a casos de violencia.
+C. El 13.I se aplica solo a cargos electivos; el 13.II se aplica solo a cargos por contratación, sin relación con la atención de casos.
+D. Ambos se aplican solo a cargos judiciales y fiscales, por lo que los demás cargos públicos quedan fuera de los requisitos del artículo.
+Respuesta correcta: B
+Explicación: «I. Para el acceso a un cargo público de cualquier Órgano del Estado o nivel de administración […] se considerará como un requisito inexcusable el no contar con antecedentes de violencia […]. II. Para la designación en cargos públicos que tengan relación con la atención, protección, investigación y sanción de casos de mujeres en situación de violencia, se requerirá además, la formación o experiencia probada en materia de género y/o derechos de las mujeres».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafos I y II (página impresa 9; página PDF 9).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+44. [Ley N.º 348 – TÍTULO II] ¿Qué diferencia existe entre la formación del Artículo 12 y el programa de formación del Artículo 14.2?
+A. El Art. 12 alcanza a todo el personal de las entidades públicas; el Art. 14.2 se dirige a quienes realizan la atención a mujeres en situación de violencia.
+B. El Art. 12 se dirige a quienes atienden a mujeres en situación de violencia; el Art. 14.2 alcanza a todo el personal de las entidades públicas.
+C. El Art. 12 es voluntario para las autoridades jerárquicas; el Art. 14.2 es obligatorio para todo el personal sin excepción ni distinción alguna.
+D. El Art. 12 se refiere a la formación de los agresores; el Art. 14.2 a la formación de las organizaciones sociales que ejercen el control social.
+Respuesta correcta: A
+Explicación: Art. 12: «[…] serán aplicados a todo el personal, independientemente de su jerarquía, sin excepción y con carácter obligatorio». Art. 14.2: «De formación, especialización, sensibilización y capacitación de todas aquellas personas que realicen la atención a mujeres en situación de violencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 12 (página impresa 9; página PDF 9) y Art. 14, numeral 2 (página impresa 9; página PDF 9).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+45. [Ley N.º 348 – TÍTULO II] ¿Qué distingue la función del Ente Rector (Art. 16) de la de las organizaciones sociales y de mujeres (Art. 15)?
+A. El Ente Rector ejerce el control social sobre los servicios; las organizaciones coordinan, articulan y vigilan la aplicación efectiva de la Ley.
+B. El Ente Rector coordina, articula y vigila la aplicación de la Ley; las organizaciones ejercen participación y control social sobre políticas y servicios.
+C. El Ente Rector juzga y sanciona los casos de violencia; las organizaciones emiten certificaciones de antecedentes a requerimiento fiscal.
+D. Ambos administran los recursos fiscales de los servicios especializados, con idénticas atribuciones en todos los niveles del Estado.
+Respuesta correcta: B
+Explicación: Art. 16: «[…] es el Ente Rector responsable de coordinación, articulación y vigilancia de la aplicación efectiva y cumplimiento de la presente Ley». Art. 15: «Las organizaciones sociales y de mujeres de la sociedad civil, ejercerán la participación y control social […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo II: Institucionalidad. Art. 16 y Art. 15 (página impresa 10; página PDF 10).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+46. [Ley N.º 348 – TÍTULO II] ¿Qué diferencia existe entre el programa del Artículo 14.4 y el del Artículo 14.6?
+A. El 14.4 atiende y protege a las mujeres y familiares en riesgo; el 14.6 orienta, atiende y rehabilita a los agresores.
+B. El 14.4 orienta, atiende y rehabilita a los agresores; el 14.6 atiende y protege a las mujeres y familiares en riesgo, en el marco legal.
+C. El 14.4 se refiere a la comunicación y los medios; el 14.6 a la formación del personal que atiende a las mujeres.
+D. El 14.4 es un programa obligatorio del nivel central; el 14.6 es un programa exclusivo de las autonomías indígenas.
+Respuesta correcta: A
+Explicación: «4. De atención y protección a mujeres en situación de violencia, y a los integrantes de su familia en situación de riesgo. […] 6. De orientación, atención y rehabilitación a los agresores […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14, numerales 4 y 6 (páginas impresas 9-10; páginas PDF 9-10).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+47. [Ley N.º 348 – TÍTULO II] ¿Qué diferencia existe entre la certificación de antecedentes del Artículo 13.I y las certificaciones del Artículo 11.II?
+A. La del 13.I se emite a sólo requerimiento fiscal u orden judicial; las del 11.II acreditan antecedentes para acceder a cualquier cargo público.
+B. La del 13.I la emite el Instituto Nacional de Estadística; las del 11.II las emite la Defensoría del Pueblo como órgano de acompañamiento.
+C. Ambas se emiten a solicitud de cualquier persona interesada, sin restricción alguna, por tratarse de información de carácter público.
+D. La del 13.I acredita antecedentes para acceder a un cargo público; las del 11.II se emiten sobre casos individuales a sólo requerimiento fiscal u orden judicial.
+Respuesta correcta: D
+Explicación: Art. 13.I: «[…] El SIPPASE certificará los antecedentes referidos en el presente Artículo». Art. 11.II: «La entidad responsable de este registro podrá emitir certificaciones sobre antecedentes de los agresores, denuncias, actuación de servidoras y servidores públicos […] a sólo requerimiento fiscal u orden judicial».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafo I (página impresa 9; página PDF 9) y Art. 11, parágrafo II (página impresa 8; página PDF 8).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+48. [Ley N.º 348 – TÍTULO II] ¿Qué distingue el contenido del Artículo 9 del contenido del Artículo 10?
+A. El Art. 9 exige incorporar acciones y recursos en la planificación y presupuesto; el Art. 10 enumera deberes como protocolos, servicios y articulación.
+B. El Art. 9 enumera deberes de aplicación como protocolos, servicios y articulación; el Art. 10 exige incorporar acciones y recursos en la planificación y presupuesto.
+C. El Art. 9 regula el acceso a cargos públicos; el Art. 10 regula los programas sectoriales de carácter indicativo del Ente Rector y las autonomías.
+D. El Art. 9 se aplica solo a las Entidades Territoriales Autónomas; el Art. 10 solo al Ministerio de Justicia como Ente Rector de la Ley N.º 348.
+Respuesta correcta: B
+Explicación: Art. 9: «[…] deberán: 1. Adoptar, implementar y supervisar protocolos de atención especializada […]». Art. 10: «[…] incorporarán en sus estrategias, planificación operativa anual y presupuestaria, las acciones y los recursos suficientes y necesarios para la aplicación de la presente Ley […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 9 (página impresa 7; página PDF 7) y Art. 10 (página impresa 8; página PDF 8).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+49. [Ley N.º 348 – TÍTULO II] ¿Qué distingue a los sujetos obligados del Artículo 14 de los del Artículo 12?
+A. El Art. 14 enumera órganos, instituciones y toda entidad que preste servicios públicos; el Art. 12 obliga solo al Ente Rector y a las autonomías.
+B. El Art. 14 obliga a las organizaciones sociales de mujeres; el Art. 12 obliga solo a los juzgados y fiscalías especializadas en violencia.
+C. El Art. 14 obliga al Ente Rector del nivel central y a las autonomías; el Art. 12 enumera órganos, instituciones y toda entidad que preste servicios públicos.
+D. Ambos obligan exclusivamente al Ministerio de Justicia, sin alcanzar a las Entidades Territoriales Autónomas ni a otras entidades públicas.
+Respuesta correcta: C
+Explicación: Art. 14: «El Ente Rector del nivel central del Estado y las Entidades Territoriales Autónomas, de acuerdo a sus respectivas competencias, adoptarán medidas específicas […]». Art. 12: «Los Órganos del Estado, el Ministerio Público e Instituto de Investigaciones Forenses, la Policía Boliviana […] y toda otra entidad pública o que preste servicios públicos […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14 (página impresa 9; página PDF 9) y Art. 12 (página impresa 8; página PDF 8).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+50. [Ley N.º 348 – TÍTULO II] ¿Qué diferencia existe entre el informe del Ministerio de Justicia (Art. 16) y la difusión de información por el INE (Art. 11.III)?
+A. El INE rinde un informe anual ante la Asamblea sobre el cumplimiento de la Ley; el Ministerio procesa y difunde los datos estadísticos.
+B. El informe del Ministerio es reservado y se presenta al Órgano Judicial; el INE difunde los datos nominales de las mujeres atendidas.
+C. El informe es anual, ante la Asamblea Legislativa, sobre el avance y cumplimiento de la Ley; el INE procesa y difunde la información del SIPPASE.
+D. Ambos son informes anuales ante la Asamblea, con idéntico contenido sobre el avance y cumplimiento de la Ley N.º 348 en el país.
+Respuesta correcta: C
+Explicación: Art. 16: «El Ministerio de Justicia rendirá un informe anual ante la Asamblea Legislativa Plurinacional, sobre el avance y cumplimiento de la presente Ley». Art. 11.III: «Toda la información registrada en este sistema, será derivada al Instituto Nacional de Estadística para su procesamiento y difusión […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo II: Institucionalidad. Art. 16 (página impresa 10; página PDF 10) y Art. 11, parágrafo III (página impresa 8; página PDF 8).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+51. [Ley N.º 348 – TÍTULO II] El plan operativo anual de una entidad pública no prevé acciones ni recursos para aplicar la Ley N.º 348, por considerarla «tarea del Ministerio de Justicia». ¿Qué análisis corresponde?
+A. Es coherente con la Ley, porque la aplicación corresponde exclusivamente al Ente Rector y no a las demás entidades públicas.
+B. Es coherente si la entidad no atiende directamente casos de violencia, pues solo esas entidades deben planificar acciones.
+C. Contradice la Ley solo si la entidad es una autonomía indígena, pues las demás entidades planifican de forma facultativa.
+D. Contradice el Artículo 10, que obliga a cada entidad a incorporar acciones y recursos suficientes en su planificación y presupuesto.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Los Órganos del Estado, las Instituciones Públicas y las Entidades Territoriales Autónomas […] incorporarán en sus estrategias, planificación operativa anual y presupuestaria, las acciones y los recursos suficientes y necesarios para la aplicación de la presente Ley […]». Aplicación razonada: el deber de planificación alcanza a cada entidad, no solo al Ente Rector.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 10 (página impresa 8; página PDF 8).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+52. [Ley N.º 348 – TÍTULO II] Un plan municipal concentra todos los servicios de atención en el centro urbano y no prevé acciones para las comunidades rurales. ¿Qué análisis es correcto?
+A. Se aparta del Artículo 10, que manda centrar acciones y recursos en las mujeres en situación de violencia y vulnerables, de manera prioritaria en el área rural.
+B. Es coherente con la Ley, que manda priorizar las zonas urbanas por concentrar la mayor cantidad de denuncias y de población del municipio.
+C. Es coherente si el municipio carece de recursos, pues la prioridad rural solo se aplica cuando existen excedentes presupuestarios.
+D. Se aparta de la Ley solo si existe una organización social que lo denuncie, pues sin denuncia la planificación municipal es libre.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Centrarán sus acciones y recursos en la atención especial a las mujeres en situación de violencia y a las que estén en condiciones de vulnerabilidad, de manera prioritaria en el área rural». Aplicación razonada: el plan invierte la prioridad territorial que fija el Artículo 10.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 10 (página impresa 8; página PDF 8).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+53. [Ley N.º 348 – TÍTULO II] Una oficina pública difunde en redes sociales datos del SIPPASE con nombres de mujeres atendidas, «para sensibilizar». ¿Qué análisis corresponde?
+A. Vulnera el carácter reservado de la información de datos que genera el SIPPASE.
+B. Es admisible, porque la información del SIPPASE es pública y de libre difusión, conforme a la Ley.
+C. Es admisible si la finalidad es sensibilizar, pues ese fin excluye la reserva.
+D. Vulnera la Ley solo si la oficina no pidió autorización al INE para difundir.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La información de datos que este sistema genere será de carácter reservado». Aplicación razonada: la difusión de datos nominales contradice la reserva legal.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 11, parágrafo I (página impresa 8; página PDF 8).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+54. [Ley N.º 348 – TÍTULO II] Una entidad contrata como jefe de unidad a una persona con sentencia ejecutoriada por violencia contra su hija, alegando su «alta calificación técnica». ¿Qué análisis es correcto?
+A. La contratación es válida, porque la calificación técnica puede dispensar el requisito en cargos de alta especialización.
+B. La contratación es válida, porque el requisito solo alcanza a la violencia contra la cónyuge o conviviente del postulante.
+C. La contratación es contraria a la Ley solo si el cargo se relaciona con la atención de casos de violencia contra mujeres.
+D. La contratación es contraria a la Ley: el requisito es inexcusable y alcanza a la violencia contra cualquier miembro de la familia.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] se considerará como un requisito inexcusable el no contar con antecedentes de violencia ejercida contra una mujer o cualquier miembro de su familia, que tenga sentencia ejecutoriada en calidad de cosa juzgada […]». Aplicación razonada: el carácter «inexcusable» impide dispensas por calificación técnica.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafo I (página impresa 9; página PDF 9).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+55. [Ley N.º 348 – TÍTULO II] Una entidad organiza la formación sobre equidad de género solo para el personal operativo y exime a las autoridades «por su recargada agenda». ¿Qué análisis corresponde?
+A. Es coherente con la Ley, que permite eximir a las autoridades jerárquicas cuando su agenda impide asistir a la formación.
+B. Contradice el Artículo 12, que manda aplicar la formación a todo el personal, independientemente de su jerarquía y sin excepción.
+C. Es coherente si las autoridades firman una declaración jurada de conocimiento de la Ley, que sustituye a la formación.
+D. Contradice la Ley solo si la entidad pertenece al Órgano Judicial, pues en las demás entidades la formación es facultativa, por mandato legal.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «[…] serán aplicados a todo el personal, independientemente de su jerarquía, sin excepción y con carácter obligatorio». Aplicación razonada: la exención por jerarquía contradice el texto expreso.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 12 (página impresa 9; página PDF 9).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+56. [Ley N.º 348 – TÍTULO II] Una autonomía rechaza un programa de apoyo a hijas e hijos de mujeres en situación de violencia porque «no figura en la lista del Artículo 14». ¿Qué análisis es correcto?
+A. Es una interpretación correcta: el Artículo 14 enumera de forma taxativa los únicos programas que pueden adoptarse.
+B. Es una interpretación correcta: las autonomías solo pueden adoptar programas aprobados previamente por el Ente Rector.
+C. Es un error de interpretación: los programas del Artículo 14 son indicativos y no excluyen otros que pudieran adoptarse.
+D. Es un error solo si el programa cuenta con financiamiento externo, pues en otro caso la lista del Artículo 14 es cerrada.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «[…] para cuyo efecto se establecen con carácter indicativo, no excluyente de otros que pudieran adoptarse, los siguientes programas […]». Aplicación razonada: el rechazo desconoce el carácter no excluyente de la lista.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14, párrafo introductorio (página impresa 9; página PDF 9).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+57. [Ley N.º 348 – TÍTULO II] Un servicio municipal se niega a que una organización de mujeres participe en la evaluación de la calidad de su atención. ¿Qué análisis corresponde?
+A. Es legítimo, porque la evaluación de la calidad de los servicios corresponde solo al Ente Rector y a la Contraloría del Estado.
+B. Es legítimo si el servicio es municipal, pues el control social se limita a los servicios del nivel central del Estado boliviano.
+C. Desconoce el Artículo 15, que reconoce a las organizaciones participación en la evaluación de las políticas y de la calidad de los servicios.
+D. Desconoce la Ley solo si la organización tiene personería jurídica nacional, requisito previo para ejercer el control social.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Las organizaciones sociales y de mujeres de la sociedad civil, ejercerán la participación y control social en el marco de la Ley correspondiente, participando en el diseño, evaluación y gestión de las políticas públicas de prevención, atención y protección a las mujeres y la calidad de los servicios especializados […] en todos los niveles del Estado». Aplicación razonada: la negativa impide el control social que la Ley reconoce en todos los niveles.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 15 (página impresa 10; página PDF 10).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+58. [Ley N.º 348 – TÍTULO II] Una política municipal financia solo servicios para las mujeres y descarta toda intervención con los agresores, «porque no merecen recursos». ¿Qué análisis corresponde?
+A. Es completa: la Ley prohíbe destinar recursos públicos a los agresores y ordena concentrarlos solo en las mujeres.
+B. Es completa si el municipio es rural, pues la reeducación de agresores es obligatoria solo en las ciudades capitales.
+C. Es incompleta solo si el municipio tiene centro penitenciario, pues la reeducación se brinda únicamente en prisión.
+D. Es incompleta: la Ley exige crear y sostener servicios de atención y reeducación de agresores para modificar su comportamiento.
+Respuesta correcta: D
+Explicación: Aplicación razonada: Art. 9.3: «Crear y sostener servicios de atención y reeducación integral especializada para los agresores, así como otras medidas destinadas a modificar su comportamiento». Art. 14.6: «De orientación, atención y rehabilitación a los agresores […] y evitar la reincidencia». Aplicación razonada: la política omite un componente que la Ley exige.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 9, numeral 3 (página impresa 7; página PDF 7) y Art. 14, numeral 6 (página impresa 10; página PDF 10).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+59. [Ley N.º 348 – TÍTULO II] El Ministerio de Justicia omite presentar su informe a la Asamblea Legislativa durante dos gestiones consecutivas. ¿Qué análisis es correcto?
+A. Incumple la obligación de rendir un informe anual ante la Asamblea sobre el avance y cumplimiento de la Ley.
+B. Es admisible, porque el informe se presenta solo cuando la Asamblea lo solicita de manera expresa y escrita, según la normativa.
+C. Es admisible, porque el informe se presenta cada cinco años, junto con la evaluación del Plan Nacional.
+D. Incumple la Ley solo si el INE tampoco difundió la información estadística del SIPPASE en ese periodo.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El Ministerio de Justicia rendirá un informe anual ante la Asamblea Legislativa Plurinacional, sobre el avance y cumplimiento de la presente Ley». Aplicación razonada: la omisión contradice la periodicidad anual exigida.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo II: Institucionalidad. Art. 16, párrafo cuarto (página impresa 10; página PDF 10).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+60. [Ley N.º 348 – TÍTULO II] Para dirigir la unidad de atención a mujeres en situación de violencia se designa a un profesional sin formación ni experiencia en género, por afinidad con la autoridad. ¿Qué análisis corresponde?
+A. Es válido, porque el Artículo 13.II exige formación en género solo para jueces y fiscales, y no para cargos de otras entidades.
+B. Es válido si la persona no tiene antecedentes de violencia, pues ese es el único requisito exigible para cualquier cargo público.
+C. Contradice el Artículo 13.II, que exige formación o experiencia probada en género y/o derechos de las mujeres para esos cargos.
+D. Contradice la Ley solo si la designación fue por contratación, pues en la designación directa no se exige formación en género.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Para la designación en cargos públicos que tengan relación con la atención, protección, investigación y sanción de casos de mujeres en situación de violencia, se requerirá además, la formación o experiencia probada en materia de género y/o derechos de las mujeres». Aplicación razonada: la designación omite el requisito adicional del Artículo 13.II.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafo II (página impresa 9; página PDF 9).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+61. [Ley N.º 348 – TÍTULO II] Una entidad pública va a contratar a un consultor. ¿Le es exigible el requisito del Artículo 13.I?
+A. No, porque el requisito se aplica solo a los cargos de elección y de designación directa.
+B. No, porque los consultores no ocupan cargos públicos y están fuera del ámbito del artículo, conforme a norma.
+C. Sí, porque el requisito se aplica también al acceso a cargos públicos mediante contratación.
+D. Sí, pero solo si el consultor trabajará en la atención de casos de mujeres en situación.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Para el acceso a un cargo público de cualquier Órgano del Estado o nivel de administración, sea mediante elección, designación, nombramiento o contratación […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafo I (página impresa 9; página PDF 9).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+62. [Ley N.º 348 – TÍTULO II] Un candidato a concejal municipal tiene una sentencia ejecutoriada por violencia contra su madre. ¿Se aplica el Artículo 13.I a un cargo de elección?
+A. No, los cargos de elección popular se rigen solo por la voluntad del electorado, sin requisitos de antecedentes, conforme a norma.
+B. Sí, el requisito alcanza a todo cargo público de cualquier nivel de administración, incluido el acceso por elección.
+C. No, porque la violencia contra la madre no se considera violencia contra una mujer en los términos del artículo.
+D. Sí, pero solo para cargos del nivel central del Estado, sin alcanzar a los niveles municipal ni departamental.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Para el acceso a un cargo público de cualquier Órgano del Estado o nivel de administración, sea mediante elección, designación, nombramiento o contratación […] el no contar con antecedentes de violencia ejercida contra una mujer o cualquier miembro de su familia […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafo I (página impresa 9; página PDF 9).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+63. [Ley N.º 348 – TÍTULO II] ¿Está obligada la Escuela de Gestión Pública Plurinacional a adoptar programas de formación según el Artículo 12?
+A. Sí, figura expresamente entre las entidades que deben adoptar y desarrollar programas de formación específica.
+B. No, porque solo los órganos jurisdiccionales y la Policía Boliviana están obligados por el Artículo 12.
+C. No, porque la Escuela solo forma a jueces, y la formación de servidores públicos corresponde al Ministerio, según lo establecido.
+D. Sí, pero solo cuando el Ente Rector lo instruya mediante resolución expresa para cada gestión anual.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Los Órganos del Estado, el Ministerio Público e Instituto de Investigaciones Forenses, la Policía Boliviana, la Defensoría del Pueblo, las Fuerzas Armadas, la Procuraduría General del Estado, la Escuela de Gestión Pública Plurinacional, la Escuela de Jueces del Estado […] adoptarán y desarrollarán programas de formación específica […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 12 (página impresa 8; página PDF 8).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+64. [Ley N.º 348 – TÍTULO II] Una empresa privada que presta un servicio público consulta si debe formar a su personal en cultura contra la violencia. ¿Qué dispone el Artículo 12?
+A. No debe hacerlo, pues la obligación alcanza solo a las entidades públicas del nivel central del Estado.
+B. Debe hacerlo, pues la obligación alcanza a toda otra entidad pública o que preste servicios públicos.
+C. Debe hacerlo solo si administra recursos fiscales, pues las demás empresas privadas están exentas.
+D. No debe hacerlo, pues la formación de su personal corresponde a las organizaciones de control social.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «[…] las Entidades Territoriales Autónomas y toda otra entidad pública o que preste servicios públicos, en el ámbito de sus respectivas competencias, adoptarán y desarrollarán programas de formación específica […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 12 (páginas impresas 8-9; páginas PDF 8-9).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+65. [Ley N.º 348 – TÍTULO II] Una fiscal solicita al SIPPASE una certificación sobre la actuación de servidores públicos en un caso individual. ¿Es procedente?
+A. No, el SIPPASE solo emite certificaciones sobre antecedentes de agresores, nunca sobre servidores públicos.
+B. No, las certificaciones del SIPPASE solo proceden por orden judicial, y no a requerimiento de una fiscal.
+C. Sí, el registro puede emitir certificaciones sobre la actuación de servidoras y servidores públicos a requerimiento fiscal.
+D. Sí, pero solo si la fiscal acompaña la autorización escrita de la mujer en situación de violencia.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La entidad responsable de este registro podrá emitir certificaciones sobre antecedentes de los agresores, denuncias, actuación de servidoras y servidores públicos, y sobre toda información que pueda servir para la prevención, atención, protección y sanción de casos individuales, a sólo requerimiento fiscal u orden judicial».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 11, parágrafo II (página impresa 8; página PDF 8).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+66. [Ley N.º 348 – TÍTULO II] Una clínica privada que administra recursos fiscales cuestiona el control social de una organización de mujeres sobre la calidad de su servicio. ¿Qué dispone el Artículo 15?
+A. El control social alcanza a los privados que presten servicios básicos o que administren recursos fiscales.
+B. El control social alcanza solo a los servicios públicos, y la clínica privada está excluida en todo caso, conforme a la norma.
+C. El control social alcanza a la clínica solo si la organización obtiene una orden judicial previa.
+D. El control social se limita al diseño de políticas, sin alcanzar la calidad de servicio alguno.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] y la calidad de los servicios especializados, públicos y a los privados que presten servicios básicos o que administren recursos fiscales en todos los niveles del Estado».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 15 (página impresa 10; página PDF 10).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+67. [Ley N.º 348 – TÍTULO II] Un gobierno departamental desea coordinar sus políticas integrales contra la violencia hacia las mujeres. ¿Qué instancia coordina esas políticas en el nivel central y en las autonomías, según el Artículo 16?
+A. El Instituto Nacional de Estadística, por ley.
+B. La Asamblea Legislativa, mediante sus comisiones.
+C. El Ente Rector, es decir, el Ministerio de Justicia.
+D. Las organizaciones sociales, mediante control social.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «[…] asimismo, dicho Ente Rector coordinará la realización de políticas integrales de prevención, atención, sanción y erradicación de la violencia hacia las mujeres, tanto en el nivel central y las Entidades Territoriales Autónomas».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo II: Institucionalidad. Art. 16, párrafo segundo (página impresa 10; página PDF 10).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+68. [Ley N.º 348 – TÍTULO II] Una entidad pública lleva tres años aplicando el mismo programa de formación sin cambios. ¿Qué exigencia del Artículo 12 se incumple?
+A. La de que los programas deben ser permanentemente actualizados.
+B. La de que los programas deben ser aprobados por la Asamblea.
+C. La de que los programas deben ser financiados por el INE.
+D. La de que los programas deben dictarse solo en el área rural.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] los cuales deberán ser permanentemente actualizados y serán aplicados a todo el personal […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 12 (página impresa 9; página PDF 9).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+69. [Ley N.º 348 – TÍTULO II] Un gobierno municipal se pregunta si puede adoptar medidas específicas para erradicar la violencia contra las mujeres o si es tarea exclusiva del nivel central. ¿Qué dispone el Artículo 14?
+A. Solo el Ente Rector del nivel central puede adoptarlas, y los municipios se limitan a ejecutar sus instrucciones.
+B. Solo las autonomías indígenas pueden adoptarlas, en el marco de su jurisdicción y de sus normas propias.
+C. Las medidas las adoptan las organizaciones sociales, y los municipios solo financian su ejecución anual.
+D. El Ente Rector del nivel central y las Entidades Territoriales Autónomas, según sus competencias, adoptarán esas medidas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El Ente Rector del nivel central del Estado y las Entidades Territoriales Autónomas, de acuerdo a sus respectivas competencias, adoptarán medidas específicas destinadas a erradicar toda forma de violencia contra las mujeres […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14, párrafo introductorio (página impresa 9; página PDF 9).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+70. [Ley N.º 348 – TÍTULO II] Una entidad pública debe adoptar protocolos de atención especializada. Según el Artículo 9.1, ¿qué acciones comprende ese deber?
+A. Solo redactar los protocolos y remitirlos al Ente Rector para su archivo institucional, según la norma.
+B. Adoptar, implementar y supervisar los protocolos en las diferentes instancias de atención.
+C. Solo aprobar los protocolos, dejando su implementación a cargo de las organizaciones.
+D. Adoptar los protocolos sin supervisión, pues su control corresponde a la Asamblea.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Adoptar, implementar y supervisar protocolos de atención especializada, en las diferentes instancias de atención, para el restablecimiento de los derechos de mujeres en situación de violencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 9, numeral 1 (página impresa 7; página PDF 7).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Ley N.º 348 – TÍTULO II] Caso: en el proceso de selección de personal administrativo de una unidad educativa, una postulante tiene una denuncia archivada por violencia, sin sentencia. ¿Cómo resolver según el Artículo 13.I?
+A. Continuar su evaluación: el impedimento exige antecedentes con sentencia ejecutoriada en calidad de cosa juzgada.
+B. Excluirla de inmediato: cualquier denuncia por violencia, aun archivada, impide el acceso a un cargo público, por mandato legal.
+C. Excluirla salvo que presente una carta de la denunciante, que sustituye la certificación del SIPPASE.
+D. Continuar su evaluación sin pedir certificación alguna, pues el requisito no se aplica a administrativos.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] el no contar con antecedentes de violencia ejercida contra una mujer o cualquier miembro de su familia, que tenga sentencia ejecutoriada en calidad de cosa juzgada. El SIPPASE certificará los antecedentes referidos en el presente Artículo». Aplicación razonada: sin sentencia ejecutoriada no se configura el impedimento; la certificación del SIPPASE sigue siendo el medio de verificación.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafo I (página impresa 9; página PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Ley N.º 348 – TÍTULO II] Caso: un postulante a un cargo distrital tiene una sentencia ejecutoriada por violencia contra su hermano. Alega que la Ley solo protege a mujeres. ¿Cómo se resuelve?
+A. Puede acceder: el requisito se limita a la violencia ejercida contra mujeres, sin incluir a varones, según la ley vigente.
+B. Puede acceder si el hermano otorgó su perdón, pues el perdón extingue el antecedente de violencia.
+C. No puede acceder solo si el cargo es de atención a mujeres, pues en los demás el requisito no rige.
+D. No puede acceder: el requisito comprende la violencia contra una mujer o cualquier miembro de su familia.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «[…] el no contar con antecedentes de violencia ejercida contra una mujer o cualquier miembro de su familia, que tenga sentencia ejecutoriada en calidad de cosa juzgada […]». Aplicación razonada: el hermano es miembro de la familia del postulante.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafo I (página impresa 9; página PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Ley N.º 348 – TÍTULO II] Caso: parte del personal de una unidad educativa fiscal se niega a asistir a la formación sobre igualdad y no discriminación por razón de sexo, alegando que es voluntaria. ¿Cómo debe resolver la dirección?
+A. Aceptar la negativa, porque la formación es voluntaria y depende del interés de cada servidor público.
+B. Exigir su participación, porque la formación se aplica a todo el personal sin excepción y con carácter obligatorio.
+C. Aceptar la negativa si el personal tiene más de diez años de servicio, por su experiencia acumulada.
+D. Exigir la participación solo al personal nuevo, pues el antiguo queda exento por derechos adquiridos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «[…] serán aplicados a todo el personal, independientemente de su jerarquía, sin excepción y con carácter obligatorio». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como autoridad o servidor de una entidad pública, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 12 (página impresa 9; página PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Ley N.º 348 – TÍTULO II] Caso: un distrito educativo quiere diseñar un programa para transformar actitudes que toleran la violencia en las familias y la comunidad. ¿Qué programa del Artículo 14 lo respalda?
+A. El programa de atención y rehabilitación a los agresores, para evitar la reincidencia en el ámbito familiar.
+B. El programa de formación del personal que atiende a mujeres en situación de violencia en los servicios.
+C. El programa de atención y protección a los integrantes de la familia en situación de riesgo inminente.
+D. El programa de prevención en los ámbitos estructural, individual y colectivo, que consolide una nueva cultura de respeto.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «De prevención en los ámbitos estructural, individual y colectivo que consolide una nueva cultura de respeto a las mujeres, a su dignidad y derechos». Aplicación razonada: el objetivo de transformar actitudes corresponde al programa de prevención.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14, numeral 1 (página impresa 9; página PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Ley N.º 348 – TÍTULO II] Caso: un municipio quiere crear un servicio de reeducación para hombres denunciados por violencia. ¿Qué disposición lo respalda?
+A. El Artículo 11.II, que faculta al SIPPASE a emitir certificaciones sobre antecedentes de los agresores registrados, según la ley vigente.
+B. El Artículo 13.II, que exige formación o experiencia en género para los cargos de atención a mujeres en violencia.
+C. El Artículo 9.3, que manda crear y sostener servicios de atención y reeducación integral especializada para los agresores.
+D. El Artículo 15, que reconoce a las organizaciones sociales el control social sobre la calidad de los servicios.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Crear y sostener servicios de atención y reeducación integral especializada para los agresores, así como otras medidas destinadas a modificar su comportamiento».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 9, numeral 3 (página impresa 7; página PDF 7).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Ley N.º 348 – TÍTULO II] Caso: una organización de mujeres quiere evaluar la calidad de la atención del servicio municipal de su zona. El servicio pide que acredite una autorización ministerial. ¿Cómo se resuelve?
+A. La organización puede ejercer el control social sobre la calidad de los servicios, en el marco de la Ley correspondiente.
+B. La organización debe obtener autorización del Ministerio de Justicia, sin la cual no puede evaluar servicio alguno, en el marco legal.
+C. La organización solo puede evaluar servicios del nivel central, por lo que el servicio municipal queda excluido.
+D. La organización debe limitarse al diseño de políticas, sin intervenir en la evaluación de la calidad del servicio.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Las organizaciones sociales y de mujeres de la sociedad civil, ejercerán la participación y control social en el marco de la Ley correspondiente, participando en el diseño, evaluación y gestión de las políticas públicas […] y la calidad de los servicios especializados […] en todos los niveles del Estado». Aplicación razonada: el Artículo 15 no condiciona el control social a una autorización ministerial.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 15 (página impresa 10; página PDF 10).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Ley N.º 348 – TÍTULO II] Caso: un medio local emite publicidad que usa la imagen de las mujeres de forma irrespetuosa y comercial. ¿Qué programa del Artículo 14 orienta la respuesta de las autoridades?
+A. El programa de orientación a los agresores, que promueve cambios de comportamiento en los responsables del medio de comunicación.
+B. El programa de atención y protección, que dispone el cierre inmediato del medio y la incautación de sus equipos de transmisión.
+C. El programa de comunicación, que promueve la autorregulación de los medios en cuanto a la publicidad y el uso de la imagen de las mujeres.
+D. El programa de formación del personal de atención, que capacita a los periodistas en la atención de mujeres en situación de violencia, en el marco legal.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «De comunicación para de construir los estereotipos sexistas y los roles asignados socialmente a las mujeres, promoviendo la autorregulación de los medios de comunicación en cuanto a la publicidad que emiten, el uso irrespetuoso y comercial de la imagen de las mujeres».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14, numeral 5 (páginas impresas 9-10; páginas PDF 9-10).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Ley N.º 348 – TÍTULO II] Caso: una madre en situación de violencia teme por la seguridad de sus hijos, que también están en riesgo. ¿Qué programa del Artículo 14 contempla a los hijos?
+A. El de orientación e información a las mujeres para su revalorización como sujetos de derechos y acceso a la atención, conforme a la Ley.
+B. El de formación, especialización y capacitación de las personas que realizan la atención a mujeres en violencia.
+C. El de atención y protección a mujeres en situación de violencia y a los integrantes de su familia en situación de riesgo.
+D. El de comunicación para deconstruir los estereotipos sexistas y los roles asignados socialmente a las mujeres.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «De atención y protección a mujeres en situación de violencia, y a los integrantes de su familia en situación de riesgo».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14, numeral 4 (página impresa 9; página PDF 9).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Ley N.º 348 – TÍTULO II] Caso: una docente pide a la dirección que solicite al SIPPASE el historial de denuncias de un padre de familia sospechoso de violencia. ¿Qué debe responder la dirección?
+A. Que la dirección puede obtener la información directamente, por tratarse de la protección de un estudiante del plantel.
+B. Que la información puede obtenerse en el Instituto Nacional de Estadística, que difunde los datos nominales registrados, por mandato legal.
+C. Que la información solo puede solicitarla la junta escolar, como mecanismo de control social de la unidad educativa.
+D. Que la información del SIPPASE es reservada y sus certificaciones se emiten a sólo requerimiento fiscal u orden judicial.
+Respuesta correcta: D
+Explicación: Aplicación razonada: Art. 11.I: «La información de datos que este sistema genere será de carácter reservado». Art. 11.II: «La entidad responsable de este registro podrá emitir certificaciones sobre antecedentes de los agresores, denuncias […] a sólo requerimiento fiscal u orden judicial». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como autoridad o servidor de una entidad pública, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 11, parágrafos I y II (página impresa 8; página PDF 8).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Ley N.º 348 – TÍTULO II] Caso: una institución pública constata que cada unidad atiende los casos de violencia de forma distinta y sin criterios comunes. ¿Qué deber del Artículo 9 orienta la solución?
+A. Adoptar, implementar y supervisar protocolos de atención especializada en las diferentes instancias de atención.
+B. Suprimir las unidades de atención y derivar todos los casos al Ministerio de Justicia como Ente Rector.
+C. Esperar a que el INE publique los indicadores conjuntos antes de definir criterios comunes de atención.
+D. Delegar la atención de los casos a las organizaciones sociales, que definen sus propios criterios.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Adoptar, implementar y supervisar protocolos de atención especializada, en las diferentes instancias de atención, para el restablecimiento de los derechos de mujeres en situación de violencia». Aplicación razonada: la falta de criterios comunes se resuelve con protocolos especializados.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 9, numeral 1 (página impresa 7; página PDF 7).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Ley N.º 348 – TÍTULO II] El Órgano Ejecutivo debe decidir cómo coordinarán sus instancias vinculadas a los derechos de las mujeres con el Ministerio de Justicia. ¿Qué decisión es coherente con el Artículo 16?
+A. Dejar que cada instancia coordine según su criterio, sin mecanismo común alguno.
+B. Asignar la coordinación al INE, como entidad que procesa la información estadística.
+C. Definir el mecanismo más adecuado y con jerarquía suficiente para esa coordinación.
+D. Encargar la coordinación a la Asamblea, mediante una comisión legislativa especial.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «[…] coordinarán sus acciones con el Ministerio de Justicia, a través del mecanismo más adecuado y con jerarquía suficiente definido por el Órgano Ejecutivo».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo II: Institucionalidad. Art. 16, párrafo tercero (página impresa 10; página PDF 10).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Ley N.º 348 – TÍTULO II] Con recursos limitados, una gobernación debe decidir dónde priorizar sus servicios de atención. ¿Qué decisión es coherente con el Artículo 10?
+A. Priorizar las capitales de provincia, por su mayor densidad poblacional y número de denuncias registradas.
+B. Distribuir los recursos en partes iguales entre todos los municipios, sin criterios de vulnerabilidad alguna.
+C. Priorizar los servicios para agresores, pues su reeducación reduce la demanda de atención a las mujeres.
+D. Priorizar a las mujeres en situación de violencia y vulnerabilidad, de manera prioritaria en el área rural.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Centrarán sus acciones y recursos en la atención especial a las mujeres en situación de violencia y a las que estén en condiciones de vulnerabilidad, de manera prioritaria en el área rural».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 10 (página impresa 8; página PDF 8).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Ley N.º 348 – TÍTULO II] Una entidad debe definir los contenidos de su programa anual de formación interna. ¿Qué decisión es coherente con el Artículo 12?
+A. Incluir solo contenidos de procedimiento penal, por ser los únicos exigidos a las entidades del Órgano Ejecutivo del Estado.
+B. Incluir cultura contra la violencia, igualdad y no discriminación por razón de sexo y equidad de género, actualizados permanentemente.
+C. Repetir sin cambios los contenidos del año anterior, para asegurar la uniformidad de la formación de todo el personal.
+D. Incluir contenidos de gestión financiera, dejando la formación en igualdad y equidad de género a cargo del Ente Rector.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «[…] programas de formación específica relativos a la cultura contra la violencia, igualdad y no discriminación por razón de sexo y sobre equidad de género, entre otros, los cuales deberán ser permanentemente actualizados […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 12 (páginas impresas 8-9; páginas PDF 8-9).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Ley N.º 348 – TÍTULO II] Al seleccionar a la responsable de un servicio de protección a mujeres en situación de violencia, ¿qué decisión cumple el Artículo 13?
+A. Verificar solo la formación en derecho penal, pues los antecedentes de violencia se exigen únicamente a los cargos electivos.
+B. Verificar solo la certificación de antecedentes, pues la formación en género se exige únicamente a jueces y fiscales del Estado, conforme a la Ley.
+C. Exigir únicamente una declaración jurada de la postulante, que sustituye la certificación y la acreditación de formación.
+D. Verificar la certificación de antecedentes del SIPPASE y exigir formación o experiencia probada en género y/o derechos de las mujeres.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «I. […] El SIPPASE certificará los antecedentes referidos en el presente Artículo. II. Para la designación en cargos públicos que tengan relación con la atención, protección, investigación y sanción de casos de mujeres en situación de violencia, se requerirá además, la formación o experiencia probada en materia de género y/o derechos de las mujeres».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafos I y II (página impresa 9; página PDF 9).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Ley N.º 348 – TÍTULO II] El SIPPASE debe decidir qué hacer con la información registrada para su aprovechamiento estadístico. ¿Qué decisión es coherente con el Artículo 11.III?
+A. Publicarla íntegramente en su portal, con los nombres de las mujeres atendidas, para garantizar la transparencia de la gestión, según la normativa.
+B. Derivarla al INE para su procesamiento y difusión conforme a indicadores conjuntos, desagregados al menos por sexo, edad y municipio.
+C. Mantenerla sin procesamiento estadístico, pues la reserva de los datos impide toda derivación a otras entidades del Estado.
+D. Derivarla a los medios de comunicación, para que elaboren sus propios indicadores sobre la violencia en razón de género.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Toda la información registrada en este sistema, será derivada al Instituto Nacional de Estadística para su procesamiento y difusión, conforme a indicadores elaborados de forma conjunta, con enfoque de derechos humanos y de las mujeres, desagregados al menos por sexo, edad y municipio».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 11, parágrafo III (página impresa 8; página PDF 8).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Ley N.º 348 – TÍTULO II] Ante un caso grave que pone en riesgo la vida de una mujer, una institución pública debe decidir cómo actuar. ¿Qué decisión es coherente con el Artículo 9.4?
+A. Esperar la conclusión del proceso judicial, para adoptar medidas solo cuando exista sentencia ejecutoriada contra el agresor.
+B. Remitir el caso al Ente Rector y suspender toda actuación propia hasta recibir instrucciones expresas del Ministerio de Justicia, según lo establecido.
+C. Adoptar medidas concretas con responsabilidades claras, con la prioridad que requiere preservar la vida, la seguridad y la integridad.
+D. Promover la conciliación inmediata entre las partes, como medida prioritaria para preservar la unidad y la paz de la familia.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Adoptar medidas concretas de acción y responsabilidades claras y específicas, con el nivel de atención y prioridad que requiere la preservación de la vida, la seguridad y la integridad de las mujeres».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 9, numeral 4 (página impresa 8; página PDF 8).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Ley N.º 348 – TÍTULO II] Antes de designar a un nuevo director distrital, la autoridad competente debe decidir cómo verificar los antecedentes de violencia del candidato. ¿Qué decisión es coherente con la Ley?
+A. Requerir la certificación de antecedentes que emite el SIPPASE.
+B. Requerir un certificado de buena conducta de la junta vecinal, según la norma.
+C. Requerir una declaración jurada del candidato ante notario.
+D. Requerir un informe de la organización social de su comunidad.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El Sistema Integral Plurinacional de Prevención, Atención, Sanción y Erradicación de la Violencia en razón de Género – SIPPASE certificará los antecedentes referidos en el presente Artículo». Aplicación razonada: la Ley no menciona expresamente al director de Unidad Educativa; la respuesta aplica a su caso, como autoridad o servidor de una entidad pública, la disposición citada.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 13, parágrafo I (página impresa 9; página PDF 9).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Ley N.º 348 – TÍTULO II] Un servicio municipal decide cómo llegar a mujeres que desconocen sus derechos y las instancias de atención. ¿Qué programa del Artículo 14 debe priorizar?
+A. El de orientación, atención y rehabilitación a los agresores para lograr cambios de comportamiento y evitar reincidencia.
+B. El de formación y capacitación de las personas que realizan la atención a mujeres en situación de violencia en servicios.
+C. El de orientación e información a las mujeres para su revalorización como sujetos de derechos y su acceso a la atención.
+D. El de comunicación para promover la autorregulación de los medios respecto a la publicidad y la imagen de las mujeres.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «De orientación e información a las mujeres para su revalorización como sujetos de derechos y acceso a instancias de atención y protección».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14, numeral 3 (página impresa 9; página PDF 9).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Ley N.º 348 – TÍTULO II] Varias instituciones de un municipio atienden casos de violencia sin comunicación entre ellas. ¿Qué decisión es coherente con el Artículo 9.5?
+A. Concentrar todos los casos en una sola institución, suprimiendo los servicios de las demás para evitar duplicidades.
+B. Mantener la actuación independiente de cada institución, pues la Ley prohíbe compartir información entre servicios.
+C. Trasladar la coordinación a las organizaciones sociales, que asumen la gestión de los servicios de todas las instituciones, según la norma.
+D. Articular los instrumentos, políticas, servicios y acciones interinstitucionales vinculadas a la prevención, atención y sanción.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Articular los instrumentos, políticas, servicios y acciones interinstitucionales vinculadas, para la prevención, atención, sanción y erradicación de la violencia contra las mujeres».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 9, numeral 5 (página impresa 8; página PDF 8).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Ley N.º 348 – TÍTULO II] Una autonomía está por diseñar su política de prevención de la violencia hacia las mujeres. ¿Qué decisión es coherente con el Artículo 15?
+A. Diseñar la política sin participación social, para evitar demoras en su aprobación institucional, según lo establecido.
+B. Involucrar a las organizaciones sociales y de mujeres en el diseño, evaluación y gestión de la política.
+C. Consultar a las organizaciones solo después de aprobada la política, como mero acto informativo.
+D. Delegar íntegramente el diseño a las organizaciones, sin intervención técnica de la autonomía.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «[…] participando en el diseño, evaluación y gestión de las políticas públicas de prevención, atención y protección a las mujeres […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 15 (página impresa 10; página PDF 10).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Ley N.º 348 – TÍTULO II] Al formular un Plan Nacional que involucre la prevención de la violencia hacia las mujeres, ¿qué exige el Artículo 8?
+A. Elaborarlo de manera sectorial, sin participación de los demás sectores ni del Ente Rector del Estado.
+B. Incorporar los mandatos de la Ley con carácter intersectorial, bajo la presidencia del Ente Rector.
+C. Elaborarlo solo con el nivel municipal, sin intervención del nivel central ni del Ministerio de Justicia.
+D. Incorporar los mandatos de la Ley solo si el Plan se refiere exclusivamente a la justicia penal del Estado.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Es responsabilidad del Estado, con carácter intersectorial y presidido por el Ente Rector, adoptar y coordinar la ejecución de los mandatos de la presente Ley, en toda política pública y Plan Nacional que involucre la prevención de la violencia hacia las mujeres, su atención y protección».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 8 (página impresa 7; página PDF 7).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Ley N.º 348 – TÍTULO II] Para integrar la información de todos los servicios de atención, públicos y privados, ¿qué herramienta estratégica prevé la Ley?
+A. Un registro independiente en cada municipio, sin integración en un sistema nacional unificado.
+B. Un registro público en el INE, con los datos nominales de las mujeres atendidas en cada servicio.
+C. El registro único sobre la violencia en razón de género del SIPPASE, a cargo del Ente Rector.
+D. Un registro de las organizaciones sociales, que recopilan la información de los servicios públicos.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El Ente Rector tendrá a su cargo el SIPPASE, que reorganiza todo el sistema de atención integral a las mujeres en situación de violencia y la información de los servicios públicos y privados, que se inscribirá en un registro único sobre la violencia en razón de género […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 11, parágrafo I (página impresa 8; página PDF 8).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Ley N.º 348 – TÍTULO II] Una entidad pública define su estrategia institucional de mediano plazo. ¿Cómo debe reflejar la aplicación de la Ley N.º 348 según el Artículo 10?
+A. Incorporando la Ley solo como referencia declarativa en su misión institucional, sin asignación de acciones ni de recursos.
+B. Incorporando acciones y recursos suficientes en sus estrategias, planificación operativa anual y presupuesto, con personal idóneo.
+C. Incorporando acciones en el presupuesto solo cuando el Ente Rector transfiera recursos adicionales específicos a la entidad, según lo dispuesto.
+D. Incorporando la Ley únicamente en el reglamento interno de personal, sin reflejo en la estrategia ni en la planificación.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «[…] incorporarán en sus estrategias, planificación operativa anual y presupuestaria, las acciones y los recursos suficientes y necesarios para la aplicación de la presente Ley, y contarán con el personal idóneo para su implementación […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 10 (página impresa 8; página PDF 8).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Ley N.º 348 – TÍTULO II] Una autonomía diseña una política integral contra la violencia hacia las mujeres. ¿Qué enfoque es más coherente con el Artículo 14?
+A. Concentrarse solo en la atención de casos ya denunciados, dejando la prevención a cargo de cada familia afectada.
+B. Combinar programas de prevención, formación, orientación, atención y protección, comunicación y rehabilitación de agresores.
+C. Concentrarse solo en campañas de comunicación, sin servicios de atención ni programas para los agresores denunciados.
+D. Concentrarse solo en la sanción de los agresores, sin programas de orientación ni de atención a las mujeres afectadas, conforme a la norma.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «[…] se establecen con carácter indicativo, no excluyente de otros que pudieran adoptarse, los siguientes programas: 1. De prevención […] 2. De formación […] 3. De orientación e información […] 4. De atención y protección […] 5. De comunicación […] 6. De orientación, atención y rehabilitación a los agresores […]». Aplicación razonada: una política integral combina los programas que la Ley enumera.
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14 (páginas impresas 9-10; páginas PDF 9-10).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Ley N.º 348 – TÍTULO II] Para vigilar estratégicamente el cumplimiento de la Ley N.º 348 a nivel nacional, ¿qué mecanismos prevé el Artículo 16?
+A. La vigilancia del INE sobre los servicios de atención y su informe semestral ante el Órgano Judicial.
+B. La vigilancia de cada municipio sobre sí mismo, sin informe alguno ante las instancias del nivel central.
+C. La vigilancia de las organizaciones sociales y su informe anual ante el Ministerio de Gobierno del Estado.
+D. La vigilancia del Ente Rector sobre la aplicación efectiva de la Ley y su informe anual ante la Asamblea Legislativa.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El Ministerio de Justicia, en el marco de sus competencias y atribuciones es el Ente Rector responsable de coordinación, articulación y vigilancia de la aplicación efectiva y cumplimiento de la presente Ley. […] El Ministerio de Justicia rendirá un informe anual ante la Asamblea Legislativa Plurinacional, sobre el avance y cumplimiento de la presente Ley».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo II: Institucionalidad. Art. 16, párrafos primero y cuarto (página impresa 10; página PDF 10).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Ley N.º 348 – TÍTULO II] Al planificar la gestión de recursos humanos para aplicar la Ley, ¿qué combinación de exigencias del Título II debe considerar una entidad?
+A. Contratar personal externo especializado, sin formación para el personal propio ni requisitos de idoneidad alguna.
+B. Formar solo a las autoridades jerárquicas, dejando al personal operativo fuera de los programas de formación.
+C. Contar con personal idóneo solo en las unidades rurales, sin programas de formación para el resto del personal.
+D. Contar con personal idóneo y formar a todo su personal en cultura contra la violencia, de forma obligatoria y actualizada.
+Respuesta correcta: D
+Explicación: Aplicación razonada: Art. 10: «[…] y contarán con el personal idóneo para su implementación». Art. 12: «[…] serán aplicados a todo el personal, independientemente de su jerarquía, sin excepción y con carácter obligatorio».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 10 (página impresa 8; página PDF 8) y Art. 12 (página impresa 9; página PDF 9).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Ley N.º 348 – TÍTULO II] Para planificar políticas basadas en evidencia, ¿qué característica de la información estadística prevista en el Artículo 11.III resulta estratégicamente relevante?
+A. Que se publica con los datos nominales de las mujeres, lo que permite el seguimiento individual de cada caso registrado.
+B. Que la elabora cada servicio con sus propios indicadores, sin criterios comunes ni desagregación territorial alguna.
+C. Que se procesa con indicadores conjuntos, con enfoque de derechos, desagregados al menos por sexo, edad y municipio.
+D. Que se procesa solo a nivel nacional, sin desagregación por municipio para proteger la reserva de la información.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «[…] conforme a indicadores elaborados de forma conjunta, con enfoque de derechos humanos y de las mujeres, desagregados al menos por sexo, edad y municipio».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 11, parágrafo III (página impresa 8; página PDF 8).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Ley N.º 348 – TÍTULO II] Para garantizar la continuidad de los servicios de atención a mujeres, ¿qué verbos del Artículo 9.2 deben guiar la planificación?
+A. Crear los servicios y transferirlos luego a la cooperación externa.
+B. Crear, fortalecer y sostener los servicios de atención y protección.
+C. Fortalecer los servicios solo durante el primer año de su creación.
+D. Sostener los servicios existentes, sin crear ni fortalecer otros nuevos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Crear, fortalecer y sostener servicios de atención y protección para mujeres en situación de violencia».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 9, numeral 2 (página impresa 7; página PDF 7).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Ley N.º 348 – TÍTULO II] Una gobernación quiere incorporar la rendición de cuentas social en la mejora de sus servicios especializados. ¿Qué disposición lo fundamenta?
+A. El Artículo 15, que reconoce la participación y control social en el diseño, evaluación y gestión de políticas y la calidad de los servicios.
+B. El Artículo 11.II, que reserva la información de los servicios a los requerimientos fiscales y a las órdenes judiciales del caso.
+C. El Artículo 13.I, que exige no contar con antecedentes de violencia para acceder a cualquier cargo público del Estado.
+D. El Artículo 9.3, que manda crear servicios de atención y reeducación integral especializada para los agresores.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «Las organizaciones sociales y de mujeres de la sociedad civil, ejercerán la participación y control social en el marco de la Ley correspondiente, participando en el diseño, evaluación y gestión de las políticas públicas de prevención, atención y protección a las mujeres y la calidad de los servicios especializados […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 15 (página impresa 10; página PDF 10).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Ley N.º 348 – TÍTULO II] ¿Qué horizonte estratégico de largo plazo fija el Artículo 14 para las medidas específicas del Ente Rector y las autonomías?
+A. Erradicar toda forma de violencia contra las mujeres y establecer un nuevo marco social de respeto y vida digna y libre de violencia.
+B. Reducir las denuncias registradas en un porcentaje fijo por año, sin modificar el marco social de relaciones entre mujeres y hombres, según lo dispuesto.
+C. Sustituir la intervención estatal por la autorregulación comunitaria, sin medidas específicas del Ente Rector ni de las autonomías.
+D. Concentrar la acción estatal en la sanción penal de los agresores, como único medio para modificar la cultura de violencia.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] adoptarán medidas específicas destinadas a erradicar toda forma de violencia contra las mujeres y establecer un nuevo marco social para garantizar el respeto y una vida digna y libre de violencia […]».
+Sustento: Ley N.º 348 Integral para Garantizar a las Mujeres una Vida Libre de Violencia, de 9 de marzo de 2013, Título II: Políticas públicas e institucionalidad, Capítulo I: Políticas públicas. Art. 14, párrafo introductorio (página impresa 9; página PDF 9).

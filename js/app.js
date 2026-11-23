@@ -1,6 +1,7 @@
-// Navegación entre etapas: catálogo de libros, capítulos, progreso y
+// Navegación entre etapas: portada, catálogo de un área, capítulos, progreso y
 // configuración del simulacro. Las rutas viven en el hash para que el botón
-// «atrás» del navegador y de Android funcione: #/, #/libro/<id>, #/progreso, #/simulacro.
+// «atrás» del navegador y de Android funcione: #/, #/area/<id>, #/libro/<id>,
+// #/progreso, #/simulacro.
 (() => {
   const $ = (selector) => document.querySelector(selector);
   const setupDialog = $("#setupDialog");
@@ -22,24 +23,70 @@
     return best;
   }
 
-  // ---- ETAPA 1. Catálogo ----
+  const areaRoute = (areaId) => (areaId ? `#/area/${encodeURIComponent(areaId)}` : "#/");
 
-  async function renderHome() {
+  // ---- Portada: áreas de evaluación ----
+
+  async function renderPortal() {
     const token = ++renderToken;
-    Shell.setHeader({ title: "Simulacro de Examen" });
-    Shell.show("home");
+    Shell.setHeader({ title: "Plataforma de Aprendizaje" });
+    Shell.show("portal");
     renderResume();
-    const [books, collections] = await Promise.all([Repo.listBooks(), Repo.listCollections()]);
+    const areas = await Repo.listAreas();
+    if (token !== renderToken) return;
+    $("#areaGrid").replaceChildren(...areas.map(areaCard));
+  }
+
+  function areaCard(area) {
+    const card = el("a", "area-card");
+    card.href = areaRoute(area.id);
+    card.dataset.area = area.tone || "blue";
+    const badge = el("span", "area-icon");
+    badge.innerHTML = icon(area.icon);
+    const text = el("span", "area-text");
+    const [one, many] = area.units || ["libro", "libros"];
+    const questions = area.total ? plural(area.total, "pregunta", "preguntas") : "preguntas en preparación";
+    text.append(
+      el("strong", "area-title", area.title),
+      el("span", "area-description", area.description || ""),
+      el("span", "area-meta", `${plural(area.books, one, many)} · ${questions}`)
+    );
+    const go = el("span", "area-go");
+    go.innerHTML = ICONS.chevron;
+    card.append(badge, text, go);
+    return card;
+  }
+
+  document.querySelectorAll(".feature-icon[data-icon]").forEach((node) => { node.innerHTML = icon(node.dataset.icon); });
+
+  // ---- ETAPA 1. Catálogo de un área ----
+
+  async function renderArea(areaId) {
+    const token = ++renderToken;
+    const area = await Repo.getArea(areaId);
+    if (token !== renderToken) return;
+    if (!area) {
+      toast("El área solicitada no existe.");
+      location.replace("#/");
+      return;
+    }
+    Shell.setHeader({ title: "Simulacro de Examen", subtitle: area.title, onBack: () => { location.hash = "#/"; } });
+    $("#homeTitle").textContent = area.heading || area.title;
+    $("#homeHint").textContent = area.hint || "";
+    const [books, collections] = await Promise.all([Repo.listBooks(area.id), Repo.listCollections(area.id)]);
     if (token !== renderToken) return;
     $("#bookGrid").replaceChildren(...books.map(bookCard));
     const best = bestScores();
-    $("#collectionList").replaceChildren(...collections.map((item, i) => collectionButton(item, i, best[item.id])));
+    $("#collectionList").replaceChildren(...collections.map((item, i) => collectionButton(item, i, best[item.id], areaBook(area))));
+    Shell.show("home");
   }
 
-  // Botones bajo el catálogo: abren la configuración como un capítulo más.
-  const COLLECTION_BOOK = { id: "", name: "Los 4 libros" };
+  // Botones bajo el catálogo: abren la configuración como un capítulo más. Los
+  // del área figuran como «Los 4 libros» en Técnico Pedagógico y con el nombre
+  // del área en las demás.
+  const areaBook = (area) => ({ id: "", name: area.id === "tecnico-pedagogico" ? "Los 4 libros" : area.title });
 
-  function collectionButton(collection, index, best) {
+  function collectionButton(collection, index, best, book) {
     const tone = CHAPTER_TONES[(index + 4) % CHAPTER_TONES.length];
     const button = el("button", "collection-button");
     button.type = "button";
@@ -55,7 +102,7 @@
     const go = el("span", "collection-go");
     go.innerHTML = ICONS.play;
     button.append(badge, text, go);
-    if (collection.total) button.addEventListener("click", () => openSetup(COLLECTION_BOOK, collection, tone));
+    if (collection.total) button.addEventListener("click", () => openSetup(book, collection, tone));
     else button.disabled = true;
     return button;
   }
@@ -68,7 +115,9 @@
     image.src = book.cover;
     image.alt = `Portada de ${book.name}`;
     image.loading = "lazy";
+    image.decoding = "async";
     cover.append(image);
+    if (book.coverLabel) cover.append(el("span", "book-cover-label", book.coverLabel));
     card.append(
       cover,
       el("span", "book-name", book.name),
@@ -124,15 +173,20 @@
       location.replace("#/");
       return;
     }
-    Shell.setHeader({ title: book.title, onBack: () => { location.hash = "#/"; } });
+    const area = await Repo.getArea(book.area);
+    if (token !== renderToken) return;
+    Shell.setHeader({ title: book.title, subtitle: area ? area.title : undefined, onBack: () => { location.hash = areaRoute(book.area); } });
     $("#bookCover").src = book.cover;
     $("#bookCover").alt = `Portada de ${book.name}`;
     $("#bookTitle").textContent = book.name;
     $("#bookDescription").textContent = book.description || "";
     $("#bookMeta").textContent =
       bookMeta(book);
+    const collections = await Repo.listCollections(book.area, book.id);
+    if (token !== renderToken) return;
     const best = bestScores();
     $("#chapterList").replaceChildren(...book.chapters.map((chapter, i) => chapterCard(book, chapter, i, best[chapter.id])));
+    $("#bookCollectionList").replaceChildren(...collections.map((item, i) => collectionButton(item, i, best[item.id], book)));
     Shell.show("book");
   }
 
@@ -189,7 +243,7 @@
     setupForm.reset();
     $("#setupChapter").textContent = chapter.title;
     $("#setupCount").textContent = chapter.mix
-      ? `Al azar de ${plural(chapter.mix.length, "libro", "libros")}, en partes iguales · ${plural(chapter.total, "pregunta disponible", "preguntas disponibles")}`
+      ? `Al azar de ${plural(chapter.mix.length, ...(chapter.mixUnits || ["libro", "libros"]))}, en partes iguales · ${plural(chapter.total, "pregunta disponible", "preguntas disponibles")}`
       : `${plural(chapter.total, "pregunta disponible", "preguntas disponibles")} · ${book.name}`;
     $("#blockField").hidden = Boolean(chapter.mix); // los bloques no aplican a preguntas mezcladas
     $("#setupIcon").innerHTML = icon(chapter.icon);
@@ -222,8 +276,11 @@
   function syncBlockFields() {
     const { chapter } = pending;
     if (chapter.mix) {
-      // Múltiplos de la cantidad de libros, para que cada uno aporte lo mismo.
-      const sizes = [20, 40, 60, 80, 100].filter((size) => size <= chapter.total);
+      // De 20 a 100; si no se dividen exacto entre los libros, el resto se
+      // reparte al azar. "count" en el catálogo fija una sola cantidad.
+      const sizes = chapter.count
+        ? [Math.min(chapter.count, chapter.total)]
+        : [20, 40, 60, 80, 100].filter((size) => size <= chapter.total);
       setupQuestions.replaceChildren(...sizes.map((size, i) => new Option(`${size} preguntas`, size, i === 0, i === 0)));
       $("#shuffleQuestionsNote").hidden = true;
       syncTimeFields();
@@ -269,7 +326,7 @@
     const { book, chapter } = pending;
     Store.clearSession();
     Quiz.launch(
-      { bookId: book.id, bookTitle: book.name, chapterId: chapter.id, chapterTitle: chapter.title, mix: chapter.mix },
+      { bookId: book.id, bookTitle: book.name, chapterId: chapter.id, chapterTitle: chapter.title, mix: chapter.mix, areaId: book.area || chapter.area },
       {
         mode: data.get("mode"),
         count: Number(data.get("count")),
@@ -354,9 +411,11 @@
       return;
     }
     if (hash === "#/progreso") return renderHistory();
+    const area = hash.match(/^#\/area\/(.+)$/);
+    if (area) return renderArea(decodeURIComponent(area[1]));
     const match = hash.match(/^#\/libro\/(.+)$/);
     if (match) return renderBook(decodeURIComponent(match[1]));
-    renderHome();
+    renderPortal();
   }
 
   window.addEventListener("hashchange", route);

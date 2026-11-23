@@ -1,0 +1,1111 @@
+# Fuente: ley-548-l2.docx (convertido con tools/docx_a_txt.py)
+# ESTADO PLURINACIONAL DE BOLIVIA
+# Sistema Educativo Plurinacional
+# BANCO DE 100 PREGUNTAS DE NIVEL MUY AVANZADO
+# Instrumento de evaluación para aspirantes a cargos directivos
+# Fuente exclusiva: Ley N.º 548, Código Niña, Niño y Adolescente (17 de julio de 2014)
+# Libro II: Protección jurisdiccional (Arts. 193 al 258)
+# Modalidad: opción múltiple y casos prácticos · Cuatro alternativas · Una sola respuesta correcta
+# Noviembre de 2026
+# 1. Presentación y fundamentación documental
+# El presente banco evalúa la capacidad de aspirantes a cargos directivos para conocer, comprender, interpretar, analizar y aplicar el Libro II (Arts. 193 al 258) de la Ley N.º 548 en situaciones institucionales contextualizadas. Cada pregunta se construyó y verificó contra el texto de la Ley proporcionado, sin incorporar fuentes externas, y su fundamentación transcribe textualmente el fragmento que respalda la respuesta correcta.
+# Criterios documentales aplicados
+# Alcance de la fuente. El Libro II comprende el Título I, Protección jurídica (Capítulo I, Disposiciones generales: principios procesales, representación, jurisdicción y competencia, Juzgados Públicos de la Niñez y equipo interdisciplinario; Capítulo II, Competencia de los Juzgados; Capítulo III, Procedimiento común) y el Título II, Procedimientos especiales (filiación judicial, conversión de guarda en adopción, tutela ordinaria, adopción y adopción internacional). En el PDF proporcionado ocupa las páginas 81 a 99.
+# Página impresa. La edición proporcionada (Asamblea Legislativa Plurinacional) numera sus páginas al pie; la página impresa equivale a la página PDF menos dos (p. ej., página PDF 41 = página impresa 39). Cada referencia consigna ambas.
+# Fundamentación textual. Cada fundamentación transcribe entre comillas el fragmento de la Ley que respalda la respuesta correcta. En las preguntas derivadas se añade una nota breve rotulada «Aplicación razonada», que distingue la inferencia del contenido textual.
+# Competencias directivas. El Libro II regula procesos judiciales y no establece funciones del director de Unidad Educativa: en ese sentido estricto, la dimensión 3 está «No respaldada por el documento fuente». Sí contiene reglas que orientan la intervención de una autoridad educativa en esos procesos: la presunción de verdad del testimonio de la niña, niño o adolescente (Art. 193.c), la reserva y el acceso a actuados solo por las partes (Arts. 193.d y 196), la habilitación como testigo de quien conoció directamente los hechos (Art. 220.I), la toma privada y no reiterada del testimonio de la víctima (Art. 220.II), la ratificación obligatoria de informes de profesionales (Art. 224) y la validez de los correos electrónicos como prueba (Art. 217.II). Esas preguntas llevan la nota «Aplicación razonada».
+# Cobertura y no duplicación. Las preguntas cubren los dos títulos del Libro II, con énfasis en los principios procesales (Art. 193) y el procedimiento común (Arts. 209 a 233). Algunos artículos centrales (Arts. 193, 214, 216 y 220) se evalúan en varias preguntas con enfoques distintos; no hay preguntas repetidas ni con la misma respuesta y el mismo enfoque.
+# Etiqueta de trazabilidad. Cada enunciado inicia con [Ley N.º 548 – LIBRO II], para su integración en plataformas de simulación que combinan preguntas de varios documentos; el título, capítulo y artículo exactos figuran en la referencia.
+# Equilibrio de alternativas. En todas las preguntas la diferencia de caracteres entre la alternativa más larga y la más corta es igual o inferior al 25%. La respuesta correcta es la más extensa en 27 preguntas y la más corta en 8, por lo que la longitud no es una pista.
+# 2. Distribución metodológica y ponderación
+# N.º
+# Tipo de evaluación
+# ¿Qué evalúa?
+# Preg.
+# Peso
+# N.º preg.
+# 1
+# Conocimiento y memorización
+# Dominio de conceptos, definiciones, principios, fechas, disposiciones y contenidos fundamentales del documento.
+# 10
+# 10%
+# 1–10
+# 2
+# Dominio conceptual
+# Comprensión de los fundamentos pedagógicos, administrativos, curriculares y organizativos del Sistema Educativo Plurinacional.
+# 10
+# 10%
+# 11–20
+# 3
+# Competencias y responsabilidades directivas
+# Conocimiento de las funciones, atribuciones, obligaciones y responsabilidades del director de una Unidad Educativa (en esta fuente: disposiciones aplicables a autoridades y servidores del ámbito educativo, con nota «Aplicación razonada»).
+# 10
+# 10%
+# 21–30
+# 4
+# Comprensión e interpretación
+# Capacidad para interpretar documentos, orientaciones pedagógicas y situaciones educativas.
+# 10
+# 10%
+# 31–40
+# 5
+# Diferenciación conceptual
+# Capacidad para distinguir conceptos, funciones, procedimientos, niveles de responsabilidad y enfoques educativos similares.
+# 10
+# 10%
+# 41–50
+# 6
+# Análisis crítico
+# Capacidad para identificar problemas institucionales, analizar sus causas, valorar alternativas y emitir criterios fundamentados.
+# 10
+# 10%
+# 51–60
+# 7
+# Aplicación normativa
+# Capacidad para aplicar correctamente la normativa en situaciones institucionales.
+# 10
+# 10%
+# 61–70
+# 8
+# Resolución de casos prácticos
+# Capacidad para resolver conflictos escolares, problemas administrativos, dificultades pedagógicas y situaciones con estudiantes, profesores y familias.
+# 10
+# 10%
+# 71–80
+# 9
+# Toma de decisiones
+# Capacidad para adoptar decisiones oportunas, pertinentes, fundamentadas y responsables ante situaciones institucionales.
+# 10
+# 10%
+# 81–90
+# 10
+# Pensamiento estratégico y gestión institucional
+# Capacidad para planificar, organizar, dirigir, supervisar y evaluar acciones orientadas al mejoramiento de la calidad educativa.
+# 10
+# 10%
+# 91–100
+# TOTAL
+# 100
+# 100%
+# 1–100
+# Distribución de las respuestas correctas
+# A
+# B
+# C
+# D
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# 25 (25%)
+# La secuencia de letras se generó de forma aleatoria con la restricción de que ninguna letra se repita tres veces consecutivas.
+# 3. Banco de preguntas
+# Dimensión 1. Conocimiento y memorización (preguntas 1–10)
+# Exactamente 100 preguntas con la distribución establecida por dimensión.
+# Cuatro alternativas (A, B, C y D) y una sola respuesta correcta por pregunta.
+# Respuestas correctas equilibradas: 25 por letra, sin secuencias de tres letras iguales.
+# Diferencia máxima de longitud entre alternativas de una misma pregunta: 25% o menos.
+# Cada enunciado inicia con la etiqueta [Ley N.º 548 – LIBRO II]; el título, el capítulo y el artículo exactos figuran en la referencia.
+# Cada fundamentación transcribe el fragmento textual de la Ley y remite al artículo, parágrafo e inciso, con página impresa y página PDF.
+# Contenido limitado exclusivamente a el Libro II (Arts. 193 al 258) de la Ley N.º 548; no se atribuyen al director de Unidad Educativa competencias que la fuente no contiene.
+
+CAPÍTULO: ley-548-l2
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+1. [Ley N.º 548 – LIBRO II] Según el Artículo 197, ¿cómo se computan los plazos procesales del Código, salvo disposición contraria?
+A. En días calendario.
+B. En horas corridas.
+C. En semanas hábiles.
+D. En días hábiles.
+Respuesta correcta: D
+Explicación: «Salvo disposición contraria, los plazos procesales establecidos en el presente Código se computan en días hábiles».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 197 (página impresa 80; página PDF 82).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+2. [Ley N.º 548 – LIBRO II] Según el Artículo 214.I, ¿en qué plazo debe la parte demandada contestar la demanda en el procedimiento común?
+A. Dentro de los diez (10) días siguientes a su citación.
+B. Dentro de los tres (3) días siguientes a su citación.
+C. Dentro de los quince (15) días siguientes a su citación.
+D. Dentro de los cinco (5) días siguientes a su citación.
+Respuesta correcta: D
+Explicación: «La parte demandada deberá contestar la demanda dentro de los cinco (5) días siguientes a su citación y se ampliará a razón de un día por cada doscientos (200) kilómetros de distancia del asiento del Juzgado […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 214, parágrafo I (página impresa 85; página PDF 87).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+3. [Ley N.º 548 – LIBRO II] Según el Artículo 203.I, ¿por qué profesionales está conformado el equipo profesional interdisciplinario de los Juzgados de la Niñez?
+A. Por profesionales en derecho y medicina forense.
+B. Por profesionales en pedagogía y psiquiatría.
+C. Por profesionales en trabajo social y psicología.
+D. Por profesionales en sociología y criminología.
+Respuesta correcta: C
+Explicación: «El equipo profesional interdisciplinario está conformado por profesionales en trabajo social y psicología».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 203, parágrafo I (página impresa 82; página PDF 84).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+4. [Ley N.º 548 – LIBRO II] Según el Artículo 250.III, ¿qué plazo máximo tiene el trámite de adopción nacional o internacional desde la admisión de la demanda hasta la sentencia?
+A. Seis (6) meses.
+B. Doce (12) meses.
+C. Dos (2) meses.
+D. Cuatro (4) meses.
+Respuesta correcta: D
+Explicación: «El trámite para obtener la adopción nacional o internacional, no podrá exceder de cuatro (4) meses, computables desde la admisión de la demanda por la autoridad judicial hasta la sentencia […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo IV: Adopción. Art. 250, parágrafo III (página impresa 95; página PDF 97).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+5. [Ley N.º 548 – LIBRO II] Según el Artículo 226.I, ¿dentro de qué plazo máximo debe celebrarse la audiencia del procedimiento común tras su señalamiento?
+A. En un plazo no mayor a sesenta (60) días posteriores.
+B. En un plazo no mayor a diez (10) días posteriores.
+C. En un plazo no mayor a veinticinco (25) días posteriores.
+D. En un plazo no mayor a cuarenta (40) días posteriores.
+Respuesta correcta: C
+Explicación: «Vencido el plazo para la contestación, dentro los tres (3) días siguientes se señalará día y hora de audiencia a celebrarse en un plazo no mayor a veinticinco (25) días posteriores».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 226, parágrafo I (página impresa 89; página PDF 91).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+6. [Ley N.º 548 – LIBRO II] Según el Artículo 253.I, ¿cuál es la duración máxima del periodo pre-adoptivo?
+A. No mayor a dos (2) meses.
+B. No mayor a seis (6) meses.
+C. No mayor a un (1) año.
+D. No mayor a quince días.
+Respuesta correcta: A
+Explicación: «Durante esta audiencia la Jueza o el Juez conferirá la guarda provisional durante el periodo pre-adoptivo considerando la edad de la niña, niño o adolescente y las circunstancias de la adopción, este periodo no será mayor a dos (2) meses».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo IV: Adopción. Art. 253, parágrafo I (página impresa 95; página PDF 97).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+7. [Ley N.º 548 – LIBRO II] Según el Artículo 255.b, ¿por cuánto tiempo y con qué periodicidad debe la Instancia Técnica Departamental presentar informes de seguimiento post adoptivo?
+A. Informes psicológicos anuales, por el espacio de cinco (5) años, según la norma.
+B. Informes bio-psico-sociales semestrales, por el espacio de dos (2) años.
+C. Informes sociales trimestrales, por el espacio de un (1) año.
+D. Informes médicos mensuales, por el espacio de seis (6) meses.
+Respuesta correcta: B
+Explicación: «b) Que la Instancia Técnica Departamental de Política Social realice seguimiento post adoptivo, debiendo presentar al Juzgado informes bio-psico-sociales semestrales y por el espacio de dos (2) años».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo IV: Adopción. Art. 255, inciso b) (página impresa 96; página PDF 98).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+8. [Ley N.º 548 – LIBRO II] Según el Artículo 233.III, ¿en qué plazo debe el Tribunal Departamental resolver la apelación de las sentencias del procedimiento común?
+A. En el plazo de treinta (30) días.
+B. En el plazo de quince (15) días.
+C. En el plazo de dos (2) meses.
+D. En el plazo de cinco (5) días.
+Respuesta correcta: D
+Explicación: «Las sentencias dictadas podrán ser apeladas. La Jueza o Juez que resolvió la causa, las remitirá al Tribunal Departamental de Justicia correspondiente en el plazo de dos (2) días. El Tribunal deberá resolver en el plazo de cinco (5) días».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 233, parágrafo III (página impresa 91; página PDF 93).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+9. [Ley N.º 548 – LIBRO II] Según el Artículo 246, ¿qué retribución se fija a la tutora o tutor en la sentencia de tutela ordinaria?
+A. No menor al 10% ni mayor al 20% de los bienes que administre el tutor.
+B. No menor al 5% ni mayor al 10% de las rentas de los bienes administrados.
+C. Un monto fijo equivalente a un salario mínimo nacional por cada mes.
+D. Ninguna retribución, pues la tutela es una función estrictamente gratuita.
+Respuesta correcta: B
+Explicación: «En la misma audiencia se dictará sentencia, disponiendo que la tutora o el tutor presente informes anuales de su gestión y se fijará una retribución no menor al cinco por ciento (5%) ni mayor a diez por ciento (10%) de las rentas producidas por los bienes sujetos a su administración».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo III: Tutela ordinaria. Art. 246 (páginas impresas 93-94; páginas PDF 95-96).
+
+# Dimensión: Conocimiento y memorización · Modalidad: Conceptual
+10. [Ley N.º 548 – LIBRO II] Según el Artículo 255.a, ¿en qué plazo máximo debe inscribirse a la persona adoptada en el Servicio de Registro Cívico?
+A. Treinta (30) días hábiles.
+B. Setenta y dos (72) horas.
+C. Cuarenta y ocho (48) horas.
+D. Quince (15) días calendario.
+Respuesta correcta: C
+Explicación: «a) La inscripción de la adoptada o el adoptado en el Servicio de Registro Cívico, como hija o hijo de los adoptantes, en los términos previstos por este Código, trámite que no puede exceder el plazo de cuarenta y ocho (48) horas […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo IV: Adopción. Art. 255, inciso a) (página impresa 96; página PDF 98).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+11. [Ley N.º 548 – LIBRO II] ¿Qué establece el principio de presunción de verdad del Artículo 193.c?
+A. Que el testimonio de una niña, niño o adolescente solo tiene valor si es corroborado por al menos dos testigos adultos.
+B. Que las afirmaciones de los padres se presumen ciertas frente al testimonio de la niña, niño o adolescente en el proceso.
+C. Que las autoridades judiciales deben considerar cierto el testimonio de una niña, niño o adolescente, en tanto no se desvirtúe objetivamente.
+D. Que la demanda se presume cierta si la parte demandada no la contesta dentro del plazo de cinco días en el proceso.
+Respuesta correcta: C
+Explicación: «Presunción de Verdad. Para asegurar el descubrimiento de la verdad, todas las autoridades del sistema judicial deberán considerar el testimonio de una niña, niño o adolescente como cierto, en tanto no se desvirtúe objetivamente el mismo […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 193, inciso c) (página impresa 79; página PDF 81).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+12. [Ley N.º 548 – LIBRO II] ¿Qué exige el principio de desformalización del Artículo 193.b?
+A. Flexibilizar el procedimiento, evitando toda ritualidad o formalidad en el acceso a la justicia.
+B. Exigir el cumplimiento estricto de todas las formalidades para garantizar la seguridad jurídica.
+C. Suprimir toda forma escrita del proceso, que se desarrolla únicamente de manera oral y reservada.
+D. Eliminar la intervención de abogados en todos los procesos de niñez y adolescencia sin excepción.
+Respuesta correcta: A
+Explicación: «Desformalización. Se debe flexibilizar el procedimiento, evitando toda ritualidad o formalidad en el acceso a la justicia […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 193, inciso b) (página impresa 79; página PDF 81).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+13. [Ley N.º 548 – LIBRO II] ¿Qué implica el principio de proporcionalidad del Artículo 193.f?
+A. Que las sanciones deben ser proporcionales al daño económico causado, sin considerar la edad de la niña, niño o adolescente.
+B. Que toda medida judicial debe relacionarse con la edad y etapa de desarrollo, valorando circunstancias que puedan vulnerar derechos.
+C. Que la duración del proceso debe ser proporcional a la complejidad del caso, sin plazos máximos fijados por el Código.
+D. Que el número de testigos debe ser proporcional al número de hechos alegados en la demanda presentada.
+Respuesta correcta: B
+Explicación: «Proporcionalidad. La aplicación de cualquier medida judicial a una niña, niño o adolescente debe estar relacionada con su edad y etapa de desarrollo, valorando toda circunstancia que pueda vulnerar sus derechos […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 193, inciso f) (página impresa 79; página PDF 81).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+14. [Ley N.º 548 – LIBRO II] ¿Qué establece el principio de reserva del Artículo 193.d?
+A. Que los procesos son públicos, pero se reserva únicamente la identidad de los testigos mayores de edad.
+B. Que la reserva solo se aplica a los procesos de adopción internacional, por su naturaleza confidencial.
+C. Que la reserva puede ser levantada por cualquiera de las partes, sin autorización de la autoridad judicial, conforme a norma.
+D. Que en todo proceso se guarda la reserva necesaria para garantizar la dignidad e integridad de la niña, niño o adolescente.
+Respuesta correcta: D
+Explicación: «Reserva. En todo proceso se guardará la reserva necesaria para garantizar la dignidad e integridad de la niña, niño o adolescente […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 193, inciso d) (página impresa 79; página PDF 81).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+15. [Ley N.º 548 – LIBRO II] ¿Qué significa el principio de concentración del Artículo 193.e?
+A. La concentración de todas las causas de un municipio en un único juzgado de la niñez.
+B. La reunión de todas las pruebas en un solo documento presentado junto con la demanda.
+C. El desarrollo de la actividad procesal en el menor número de actos para evitar su dispersión.
+D. La concentración de las decisiones en el equipo interdisciplinario y no en la autoridad judicial.
+Respuesta correcta: C
+Explicación: «Concentración. Determina el desarrollo de la actividad procesal en el menor número de actos para evitar su dispersión […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 193, inciso e) (página impresa 79; página PDF 81).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+16. [Ley N.º 548 – LIBRO II] Según el Artículo 219.II, ¿cómo deben apreciarse las pruebas en los procesos de la niñez y adolescencia?
+A. De forma aislada, según el sistema de prueba tasada, sin considerar el interés superior de la niñez, según lo dispuesto.
+B. En conjunto, según la sana crítica o prudente criterio, considerando prioritariamente el interés superior de la niñez.
+C. Solo las pruebas documentales públicas, que prevalecen sobre cualquier otro medio de prueba.
+D. Según el criterio del equipo interdisciplinario, cuya valoración es vinculante para el juez.
+Respuesta correcta: B
+Explicación: «Las pruebas se apreciarán en conjunto tomando en cuenta la individualidad de cada una de las producidas de acuerdo con las reglas de la sana crítica o prudente criterio, considerando prioritariamente el interés superior de las niñas, niños y adolescentes […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 219, parágrafo II (página impresa 88; página PDF 90).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+17. [Ley N.º 548 – LIBRO II] Según el Artículo 194.I, ¿quién representa legalmente a la niña, niño o adolescente en los procesos judiciales?
+A. La Defensoría del Pueblo, en todos los casos y sin excepción alguna.
+B. El director de la unidad educativa donde estudia la niña, niño o adolescente.
+C. El Ministerio Público, como representante de la sociedad en todos los casos.
+D. Su madre, padre, guardadora o guardador, tutora o tutor, según corresponda.
+Respuesta correcta: D
+Explicación: «En procesos judiciales, la niña, niño o adolescente será representado legalmente por su madre, padre, guardadora o guardador, tutora o tutor, según corresponda».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 194, parágrafo I (página impresa 79; página PDF 81).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+18. [Ley N.º 548 – LIBRO II] Según el Artículo 217.I, ¿qué medios de prueba son válidos en los procesos de la niñez y adolescencia?
+A. Solo las declaraciones testificales de personas mayores de edad, sin admitir informes ni documentos en el proceso.
+B. Solo los documentos públicos certificados, con exclusión de los medios científicos y digitales en el proceso.
+C. Solo los informes del equipo interdisciplinario del juzgado, sin admitir pruebas de las partes en el proceso.
+D. Todos los obtenidos lícitamente: declaraciones, dictámenes, informes especializados, documentos, inspección y medios científicos.
+Respuesta correcta: D
+Explicación: «Son válidos todos los medios de prueba obtenidos lícitamente, como ser las declaraciones de las partes y de testigos, dictámenes de expertos, informes especializados, documentos, inspección judicial, medios científicos y cualquier elemento racional que sirva para formar la convicción de la Jueza o el Juez».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 217, parágrafo I (página impresa 87; página PDF 89).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+19. [Ley N.º 548 – LIBRO II] ¿Qué establece el principio de pronunciamiento del Artículo 193.h?
+A. La facultad de la autoridad de abstenerse de resolver las peticiones que considere improcedentes en el proceso, conforme a la Ley.
+B. La obligación de la autoridad jurisdiccional de pronunciarse sobre las peticiones de las partes en cada etapa del proceso.
+C. La obligación de las partes de pronunciarse sobre todas las pruebas antes de la audiencia de juicio.
+D. La obligación de la niña o niño de pronunciarse por escrito sobre la demanda presentada en su nombre.
+Respuesta correcta: B
+Explicación: «Pronunciamiento. La autoridad jurisdiccional tiene la obligación de pronunciarse sobre las peticiones presentadas por las partes, en cada etapa de los procesos».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 193, inciso h) (página impresa 79; página PDF 81).
+
+# Dimensión: Dominio conceptual · Modalidad: Conceptual
+20. [Ley N.º 548 – LIBRO II] Según el Artículo 208, ¿qué ocurre con el abandono de un proceso que afecta a una niña, niño o adolescente?
+A. Da lugar al archivo inmediato del proceso, que puede reabrirse solo a pedido de la parte que lo abandonó, según la norma.
+B. Da lugar a la suspensión del proceso por seis meses, hasta que alguna de las partes lo reactive.
+C. Da lugar a la conclusión del proceso con sentencia favorable a la parte que no lo abandonó.
+D. No da lugar a su archivo; el proceso prosigue hasta su conclusión, a impulso de oficio del juez o de la Defensoría.
+Respuesta correcta: D
+Explicación: «El abandono del proceso que afecte a la niña, niño o adolescente, no dará lugar a su archivo, debiendo proseguir hasta su conclusión, a impulso de oficio de la Jueza o Juez Público en materia de Niñez y Adolescencia o de la Defensoría de la Niñez y Adolescencia».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo II: Competencia de Juzgados Públicos en materia de Niñez y Adolescencia. Art. 208 (página impresa 84; página PDF 86).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+21. [Ley N.º 548 – LIBRO II] Un director es citado como testigo en un proceso de la niñez porque conoció directamente los hechos en la unidad educativa. Según el Artículo 220.I, ¿puede ser habilitado como testigo?
+A. No, solo pueden ser testigos los parientes consanguíneos de la niña, niño o adolescente involucrado.
+B. Sí, pueden ser testigos todas las personas mayores de dieciséis años que conocieran de forma directa los hechos.
+C. No, las autoridades educativas están impedidas de testificar en los procesos de la niñez y adolescencia, según lo dispuesto.
+D. Sí, pero solo si cuenta con autorización escrita de la Dirección Distrital de Educación respectiva.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Se podrán habilitar como testigos a todas las personas que conocieran de forma directa los hechos, incluyendo a los parientes consanguíneos, dependientes, afines u otras personas que sean mayores de dieciséis (16) años». Aplicación razonada: el Libro II regula procesos judiciales y no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la intervención de una autoridad educativa en esos procesos.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 220, parágrafo I (página impresa 88; página PDF 90).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+22. [Ley N.º 548 – LIBRO II] La psicóloga de una unidad educativa emitió un informe que fue presentado en un proceso. Según el Artículo 224, ¿puede ser notificada para ratificarlo?
+A. Sí, si la autoridad judicial lo considera necesario, sin poder excusarse en ese caso.
+B. No, los informes de profesionales de unidades educativas no requieren ratificación alguna.
+C. Sí, pero puede excusarse libremente si tiene otras obligaciones en la unidad educativa.
+D. No, solo los médicos forenses pueden ser citados a ratificar sus informes en audiencia.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La o el profesional que realizó el informe o emitió un certificado, sólo si a juicio de la autoridad judicial es necesario, podrá ser notificado para ratificarse en la audiencia, no pudiendo excusarse en este caso». Aplicación razonada: el Libro II regula procesos judiciales y no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la intervención de una autoridad educativa en esos procesos.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 224 (página impresa 88; página PDF 90).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+23. [Ley N.º 548 – LIBRO II] Un director recibe a un tercero que pide revisar el expediente judicial de un estudiante, del que la unidad tiene copia. Según los Artículos 193.d y 196, ¿qué criterio debe orientar su respuesta?
+A. El acceso a actuados está permitido sólo a las partes, y en todo proceso se guarda la reserva necesaria.
+B. El acceso es libre para cualquier persona con interés legítimo, por el principio de publicidad procesal, según la norma.
+C. El acceso debe concederse si el tercero es miembro de la junta escolar de la unidad educativa.
+D. El acceso debe concederse si el tercero acredita ser periodista de un medio de comunicación.
+Respuesta correcta: A
+Explicación: Aplicación razonada: Art. 196: «El acceso a actuados está permitido sólo a las partes. La o el servidor judicial que sin autorización permita el acceso a terceros será sometido a proceso disciplinario». Art. 193.d: «Reserva. En todo proceso se guardará la reserva necesaria para garantizar la dignidad e integridad de la niña, niño o adolescente […]». Aplicación razonada: el Libro II regula procesos judiciales y no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la intervención de una autoridad educativa en esos procesos.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 196 (página impresa 80; página PDF 82) y Art. 193, inciso d) (página impresa 79; página PDF 81).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+24. [Ley N.º 548 – LIBRO II] Un estudiante revela a su directora hechos de maltrato en su hogar. Al evaluar la credibilidad del relato en el ámbito judicial, ¿qué principio aplicarán las autoridades según el Artículo 193.c?
+A. La presunción de inocencia del padre, que obliga al estudiante a probar sus afirmaciones con documentos.
+B. La presunción de verdad: el testimonio del estudiante se considera cierto en tanto no se desvirtúe objetivamente.
+C. La duda razonable, que impide considerar el testimonio de un menor de edad sin corroboración adulta.
+D. La sana crítica del director, cuya opinión sobre la credibilidad del estudiante es vinculante para el juez, según la Ley 548.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Presunción de Verdad. Para asegurar el descubrimiento de la verdad, todas las autoridades del sistema judicial deberán considerar el testimonio de una niña, niño o adolescente como cierto, en tanto no se desvirtúe objetivamente el mismo […]». Aplicación razonada: el Libro II regula procesos judiciales y no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la intervención de una autoridad educativa en esos procesos.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 193, inciso c) (página impresa 79; página PDF 81).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+25. [Ley N.º 548 – LIBRO II] Una directora quiere evitar que una estudiante víctima declare repetidamente sobre los mismos hechos. ¿Qué garantiza el Artículo 220.II en el proceso judicial?
+A. Que su testimonio se toma en audiencia pública, una sola vez, en presencia de las partes y sus abogados en cada caso concreto.
+B. Que su testimonio se toma en privado con apoyo familiar y del equipo interdisciplinario, prohibiéndose su reiteración y que testifique en audiencia.
+C. Que su testimonio se toma por escrito a través de la dirección de la unidad, que lo remite al juzgado en cada caso concreto.
+D. Que su testimonio se toma las veces que el juez considere necesarias, siempre en presencia de sus padres ante el juzgado.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Podrá testificar la niña, niño o adolescente víctima del hecho, y su testimonio será tomado en privado con el auxilio de familiares y del equipo profesional interdisciplinario del Juzgado. Se prohíbe la reiteración de sus testificaciones o que testifique en la audiencia». Aplicación razonada: el Libro II regula procesos judiciales y no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la intervención de una autoridad educativa en esos procesos.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 220, parágrafo II (página impresa 88; página PDF 90).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+26. [Ley N.º 548 – LIBRO II] Un juzgado necesita un informe social sobre un estudiante. Según el Artículo 223, ¿quién puede expedirlo?
+A. Un profesional especializado de instituciones públicas o profesionales particulares especializados.
+B. Únicamente la directora o el director de la unidad educativa donde estudia la niña o niño.
+C. Únicamente el equipo interdisciplinario del juzgado, con exclusión de cualquier otro profesional, conforme a la Ley.
+D. Únicamente un médico forense del Instituto de Investigaciones Forenses del Ministerio Público.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El informe social deberá ser expedido por profesional especializado de instituciones públicas o por profesionales particulares especializados». Aplicación razonada: el Libro II regula procesos judiciales y no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la intervención de una autoridad educativa en esos procesos.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 223 (página impresa 88; página PDF 90).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+27. [Ley N.º 548 – LIBRO II] Un estudiante sufre la vulneración de sus derechos dentro de la unidad educativa. Según el Artículo 199.I.a, ¿qué juez es competente en primer orden?
+A. El del domicilio del director de la unidad educativa donde ocurrieron los hechos.
+B. El del lugar de residencia de los abuelos maternos de la niña, niño o adolescente.
+C. El de la capital del departamento, sin importar el lugar donde ocurrieron los hechos, conforme a norma.
+D. El del lugar donde se produjo la vulneración de los derechos de la niña, niño o adolescente.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La competencia territorial de la Jueza o Juez Público en materia de Niñez y Adolescencia, se determina conforme al siguiente orden: a) El lugar donde se produjo la vulneración de los derechos de la niña, niño o adolescente […]». Aplicación razonada: el Libro II regula procesos judiciales y no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la intervención de una autoridad educativa en esos procesos.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 199, parágrafo I, inciso a) (páginas impresas 80-81; páginas PDF 82-83).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+28. [Ley N.º 548 – LIBRO II] Un padre que fue citado en un proceso por vulnerar derechos de su hijo dentro de la unidad educativa no se presenta a la audiencia. Según el Artículo 228.I, ¿se suspende la audiencia?
+A. Sí; se suspende hasta que el padre comparezca voluntariamente o sea conducido por la fuerza pública.
+B. Sí; se suspende por diez días, plazo en el cual el director debe notificar nuevamente al padre.
+C. No; por ningún motivo se suspende, y la defensa de la parte ausente la asume el defensor de oficio o la Defensoría.
+D. No; pero se dicta sentencia sin defensa del padre, que pierde todo derecho a impugnarla.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La niña, niño o adolescente comparecerá a través de su representante legal, la otra parte asistirá en forma personal salvo justificación debidamente acreditada, por medio de un apoderado. Por ningún motivo se suspenderá la audiencia y en caso de ausencia de las partes, asumirá su defensa el defensor de oficio o la Defensoría de la Niñez y Adolescencia, según el caso». Aplicación razonada: el Libro II regula procesos judiciales y no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la intervención de una autoridad educativa en esos procesos.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 228, parágrafo I (página impresa 89; página PDF 91).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+29. [Ley N.º 548 – LIBRO II] Una unidad educativa tiene mensajes de correo electrónico que acreditan hechos de violencia contra un estudiante. Según el Artículo 217.II, ¿pueden presentarse como prueba?
+A. No, solo se admiten documentos en papel firmados de forma manuscrita por sus autores en cada caso concreto.
+B. No, los correos electrónicos solo pueden presentarse en procesos penales y no en los de la niñez en el proceso.
+C. Sí, los documentos generados mediante correo electrónico se consideran medios legales de prueba en las condiciones de la Ley.
+D. Sí, pero solo si el director los certifica previamente ante notario de fe pública en cada caso concreto.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «También se considerarán medios legales de prueba los documentos y firmas digitales y los documentos generados mediante correo electrónico, en las condiciones previstas en la Ley». Aplicación razonada: el Libro II regula procesos judiciales y no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la intervención de una autoridad educativa en esos procesos.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 217, parágrafo II (página impresa 87; página PDF 89).
+
+# Dimensión: Competencias y responsabilidades directivas · Modalidad: Aplicación razonada
+30. [Ley N.º 548 – LIBRO II] Para proteger a una estudiante, la Defensoría pide al juez que el denunciado salga del domicilio familiar durante el proceso. Según el Artículo 216.I.f, ¿es posible?
+A. Sí, el juez puede ordenar por tiempo determinado la salida del denunciado del domicilio familiar como medida cautelar.
+B. No, la salida del domicilio solo puede ordenarse en la sentencia y nunca como medida cautelar previa.
+C. No, el juez solo puede ordenar medidas cautelares de carácter patrimonial, como embargo o anotación.
+D. Sí, pero solo si el denunciado consiente expresamente en abandonar el domicilio familiar.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «f) Ordenar por tiempo determinado, la salida de la denunciada o del denunciado del domicilio familiar […]». Aplicación razonada: el Libro II regula procesos judiciales y no menciona al director de Unidad Educativa; la respuesta aplica la disposición citada a la intervención de una autoridad educativa en esos procesos.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 216, parágrafo I, inciso f) (página impresa 87; página PDF 89).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+31. [Ley N.º 548 – LIBRO II] Según el Artículo 194.II, ¿qué ocurre cuando los intereses de la niña, niño o adolescente se contraponen a los de sus representantes?
+A. El juez suspende el proceso hasta que la familia designe de común acuerdo un nuevo representante, según la normativa.
+B. El juez designa como representante al director de la unidad educativa de la niña o niño.
+C. El juez permite que la niña o niño actúe sin representación, aunque sea menor de doce años.
+D. El juez designa un tutor extraordinario, que debe ser personero de la Defensoría de la Niñez y Adolescencia.
+Respuesta correcta: D
+Explicación: «Cuando sus intereses se contrapongan a los de su madre, padre, guardadora o guardador, tutora o tutor, o cuando carezca de representante legal, así sea momentáneamente, la Jueza o el Juez Público en materia de Niñez y Adolescencia, designará un tutor extraordinario, que deberá ser personero de la Defensoría de la Niñez y Adolescencia».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 194, parágrafo II (página impresa 80; página PDF 82).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+32. [Ley N.º 548 – LIBRO II] Según el Artículo 206, ¿qué efecto tiene el desistimiento en los procesos contra adolescentes?
+A. La denuncia se archiva en todos los casos, incluidos los de violencia contra la niñez.
+B. La denuncia se suspende por seis meses, plazo en el que puede reactivarse de oficio.
+C. La denuncia se tramita como si no hubiera desistimiento, en todos los casos posibles.
+D. La denuncia o demanda se considera no presentada, exceptuando los casos de violencia.
+Respuesta correcta: D
+Explicación: «El desistimiento en los procesos contra adolescentes, dará lugar a considerar la denuncia o demanda como no presentada, exceptuando los casos de violencia».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 206 (página impresa 83; página PDF 85).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+33. [Ley N.º 548 – LIBRO II] Según el Artículo 195, ¿cómo participa la niña, niño o adolescente en los procesos en que es parte?
+A. Participa solo a través de su representante legal, sin ser oído directamente por la autoridad judicial, según la Ley 548.
+B. Tiene garantía de participar y será oído por la autoridad, que siempre tomará en cuenta su edad y etapa de desarrollo.
+C. Participa solo si es mayor de catorce años, edad a partir de la cual puede ser oído en el proceso.
+D. Participa por escrito, mediante un informe elaborado por la dirección de su unidad educativa.
+Respuesta correcta: B
+Explicación: «La niña, niño o adolescente tiene la garantía de participar en todo proceso en el que sea parte y será oído por la autoridad judicial, quien siempre tomará en cuenta su edad y las características de su etapa de desarrollo».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 195 (página impresa 80; página PDF 82).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+34. [Ley N.º 548 – LIBRO II] Según el Artículo 209.IV, ¿qué se desprende respecto a la firma de abogado en la demanda?
+A. Que la demanda requiere siempre firma de abogado, bajo sanción de tenerla por no presentada.
+B. Que la demanda sin abogado solo procede si la presenta la Defensoría de la Niñez del municipio, según la Ley 548.
+C. Que la demanda no la necesita; en ese caso, el domicilio procesal es la Secretaría del Juzgado.
+D. Que la demanda sin abogado obliga a señalar el domicilio procesal en la Defensoría del Pueblo.
+Respuesta correcta: C
+Explicación: «La demanda no necesitará la firma de abogado y en este caso se tendrá como domicilio procesal la Secretaría del Juzgado».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 209, parágrafo IV (página impresa 84; página PDF 86).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+35. [Ley N.º 548 – LIBRO II] Según el Artículo 214.III y IV, ¿qué excepciones puede oponer el demandado y qué no es admisible?
+A. Solo incompetencia, litispendencia, cosa juzgada o impersonería; no es admisible la reconvención.
+B. Cualquier excepción previa del procedimiento civil; la reconvención es admisible en todos los casos.
+C. Solo la prescripción y la caducidad; la reconvención es admisible solo si la plantea la Defensoría.
+D. Ninguna excepción; la reconvención es la única forma de defensa del demandado en estos procesos.
+Respuesta correcta: A
+Explicación: «III. Sólo se podrán oponer las excepciones de incompetencia, litispendencia, cosa juzgada o impersonería […]. IV. No es admisible la reconvención».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 214, parágrafos III y IV (página impresa 86; página PDF 88).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+36. [Ley N.º 548 – LIBRO II] Según el Artículo 225, ¿qué ocurre cuando el juez dispone una prueba de oficio?
+A. La parte afectada puede apelarla, y la prueba es pagada por quien la solicitó.
+B. La decisión puede ser revisada por el equipo interdisciplinario, que decide su procedencia.
+C. La prueba solo procede si ambas partes la consienten y asumen su costo en partes iguales.
+D. Contra esa decisión no cabe recurso alguno, y la prueba es sufragada por el Estado.
+Respuesta correcta: D
+Explicación: «La Jueza o el Juez, de oficio podrá disponer cualquier prueba que considere necesaria para formar mejor convicción de los hechos y contra esta decisión no cabe recurso alguno. Esta prueba será sufragada por el Estado».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 225 (página impresa 88; página PDF 90).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+37. [Ley N.º 548 – LIBRO II] Según el Artículo 231.I, ¿cuándo debe pronunciarse la sentencia en el procedimiento común?
+A. Dentro de los treinta días siguientes a la audiencia, mediante resolución escrita notificada en el domicilio.
+B. En la misma audiencia, tras agotar la prueba; excepcionalmente, con un receso de hasta tres días hábiles.
+C. En una nueva audiencia, a celebrarse en el plazo de quince días hábiles desde la producción de la prueba.
+D. Al concluir el periodo de apelación, una vez que las partes hayan presentado sus alegatos por escrito.
+Respuesta correcta: B
+Explicación: «Inmediatamente después de agotada la producción de la prueba, con o sin alegatos, la Jueza o el Juez pronunciará sentencia en la misma audiencia, dándose por notificadas las partes. Por la complejidad del caso, excepcionalmente podrá decretar un receso para el pronunciamiento de la sentencia que no excederá los siguientes tres (3) días hábiles».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 231, parágrafo I (página impresa 90; página PDF 92).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+38. [Ley N.º 548 – LIBRO II] Según el Artículo 233.II, ¿qué ocurre si las partes no manifiestan en audiencia su decisión de apelar?
+A. La sentencia queda en suspenso hasta que las partes la impugnen por escrito.
+B. La sentencia es revisada de oficio por el Tribunal Departamental de Justicia.
+C. La sentencia puede apelarse dentro de los treinta días siguientes a su notificación.
+D. La sentencia se tiene por ejecutoriada y adquiere calidad de cosa juzgada.
+Respuesta correcta: D
+Explicación: «Si las partes no manifiestan su decisión de hacer uso del recurso de apelación en audiencia o no fundamentan su apelación después de los tres (3) días de notificadas con la sentencia, se tendrá por ejecutoriada la misma y adquirirá calidad de cosa juzgada».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 233, parágrafo II (página impresa 91; página PDF 93).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+39. [Ley N.º 548 – LIBRO II] Según el Artículo 216.II, ¿hasta cuándo pueden estar vigentes las medidas cautelares?
+A. Hasta la contestación de la demanda.
+B. Hasta la audiencia de producción de prueba.
+C. Hasta la ejecución de la sentencia.
+D. Hasta la admisión de la apelación interpuesta.
+Respuesta correcta: C
+Explicación: «Las medidas cautelares podrán estar vigentes hasta la ejecución de la sentencia».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 216, parágrafo II (página impresa 87; página PDF 89).
+
+# Dimensión: Comprensión e interpretación · Modalidad: Interpretativa
+40. [Ley N.º 548 – LIBRO II] Según el Artículo 198.II, ¿quién resuelve los procesos de la niñez donde no existen Juzgados Públicos en materia de Niñez y Adolescencia?
+A. La Jueza o el Juez Público Mixto, con apoyo del equipo técnico interdisciplinario de la Instancia Técnica Departamental.
+B. La Defensoría de la Niñez y Adolescencia del municipio, con facultades jurisdiccionales delegadas.
+C. La autoridad indígena originaria campesina del lugar, en aplicación de sus normas propias en el proceso.
+D. El Juez de Instrucción Penal más cercano, con apoyo del Ministerio Público del distrito en el proceso.
+Respuesta correcta: A
+Explicación: «La Jueza o el Juez Público Mixto, será competente para resolver estos procesos en lugares donde no existan Juzgados Públicos en materia de Niñez y Adolescencia. En este caso deberá contar con el apoyo del equipo técnico interdisciplinario de la Instancia Técnica Departamental de Política Social».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 198, parágrafo II (página impresa 80; página PDF 82).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+41. [Ley N.º 548 – LIBRO II] ¿Qué distingue el principio de transparencia (Art. 193.g) del principio de reserva (Art. 193.d)?
+A. La transparencia protege la dignidad e integridad de la niñez; la reserva otorga a las partes información útil y fiable del proceso, conforme a la norma.
+B. La transparencia exige difundir la identidad de la niñez en los medios; la reserva se aplica solo a los procesos de adopción.
+C. La transparencia se aplica solo al Ministerio Público; la reserva se aplica solo a la Defensoría de la Niñez y Adolescencia.
+D. La transparencia otorga a las partes información útil y fiable; la reserva protege la dignidad e integridad de la niñez en todo proceso.
+Respuesta correcta: D
+Explicación: «d) Reserva. En todo proceso se guardará la reserva necesaria para garantizar la dignidad e integridad de la niña, niño o adolescente; […] g) Transparencia. Los actos procesales se caracterizan por otorgar a las partes información útil y fiable, facilitando la publicidad de los mismos […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 193, incisos d) y g) (página impresa 79; página PDF 81).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+42. [Ley N.º 548 – LIBRO II] ¿Qué diferencia existe entre la citación personal (Art. 211) y la citación por edicto (Art. 212)?
+A. La personal procede si se desconoce el domicilio; el edicto se practica en el domicilio conocido del demandado ante testigos, según la Ley 548.
+B. La personal la realiza la Defensoría; el edicto lo realiza el Ministerio Público mediante publicación en la Gaceta Oficial.
+C. La personal se practica en el domicilio del demandado; el edicto procede si se desconoce su domicilio, previo juramento de desconocimiento.
+D. La personal se aplica solo a personas colectivas; el edicto se aplica solo a personas naturales sin representante legal.
+Respuesta correcta: C
+Explicación: Art. 211.I: «La citación con la demanda se la practicará en forma personal en el domicilio de la o el demandado […]». Art. 212.I: «En caso de desconocerse el domicilio de la o el demandado o tratándose de personas desconocidas o indeterminadas, la parte solicitará la citación mediante edictos, previo juramento de desconocimiento […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Arts. 211 y 212 (página impresa 85; página PDF 87).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+43. [Ley N.º 548 – LIBRO II] ¿Qué distingue al tutor interino (Art. 243) de la tutora o tutor designado en sentencia (Art. 246)?
+A. El interino presenta informes anuales y recibe retribución; el designado se limita a actos de mera protección y conservación, conforme a norma.
+B. El interino se limita a actos de mera protección y conservación de bienes; el designado presenta informes anuales y recibe retribución.
+C. El interino es siempre un funcionario de la Defensoría; el designado es siempre un pariente consanguíneo de primer grado.
+D. El interino tiene facultades plenas de disposición de bienes; el designado solo puede realizar actos de administración.
+Respuesta correcta: B
+Explicación: Art. 243: «[…] la Jueza o el Juez nombrará una tutora o un tutor interino, quien deberá limitarse a los actos de mera protección de la niña, niño o adolescente y a la conservación de sus bienes». Art. 246: «[…] disponiendo que la tutora o el tutor presente informes anuales de su gestión y se fijará una retribución […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo III: Tutela ordinaria. Arts. 243 y 246 (páginas impresas 93-94; páginas PDF 95-96).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+44. [Ley N.º 548 – LIBRO II] ¿Qué diferencia existe entre quiénes pueden presentar la demanda en adopciones nacionales e internacionales (Art. 250.I)?
+A. En las nacionales, solo la Defensoría; en las internacionales, los solicitantes extranjeros o la Defensoría del lugar.
+B. En ambas, solo los solicitantes con patrocinio de abogado, sin intervención de la Defensoría de la Niñez del municipio, según la ley vigente.
+C. En las nacionales, el Ministerio de Justicia; en las internacionales, la Autoridad Central del Estado de recepción.
+D. En las nacionales, los solicitantes o la Defensoría; en las internacionales, solo la Defensoría de la Niñez y Adolescencia.
+Respuesta correcta: D
+Explicación: «La demanda podrá ser presentada por: a) Las o los solicitantes o la Defensoría de la Niñez y Adolescencia, en el caso de adopciones nacionales, y b) La Defensoría de la Niñez y Adolescencia, en el caso de las Adopciones Internacionales».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo IV: Adopción. Art. 250, parágrafo I (páginas impresas 94-95; páginas PDF 96-97).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+45. [Ley N.º 548 – LIBRO II] ¿Qué diferencia existe entre el certificado médico (Art. 221) y el informe psicológico (Art. 222) como prueba?
+A. El certificado lo expide solo un psicólogo especializado; el informe, solo un médico forense autorizado por el Ministerio Público, según la reglamentación.
+B. El certificado lo expide un profesional de instituciones de salud públicas o particulares; el informe, un profesional especializado público o particular.
+C. El certificado tiene valor de prueba plena; el informe es un simple indicio sin valor probatorio en el proceso de la niñez.
+D. El certificado lo expide la Defensoría de la Niñez; el informe lo expide el director de la unidad educativa del niño.
+Respuesta correcta: B
+Explicación: Art. 221: «El certificado médico deberá ser expedido por profesional que trabaje en instituciones públicas o particulares de salud, así como los certificados médico-forenses emitidos por profesional autorizado». Art. 222: «El informe psicológico deberá ser expedido por profesional especializado de instituciones públicas o por profesionales particulares especializados».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Arts. 221 y 222 (página impresa 88; página PDF 90).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+46. [Ley N.º 548 – LIBRO II] ¿Qué distingue la sentencia que declara probada la filiación de la que la declara no demostrada (Art. 238)?
+A. Si se demuestra la filiación, se ratifica la guarda con apellidos convencionales; si no, la demanda se declara improbada con sanciones, conforme a la norma.
+B. En ambos casos se dispone la adopción internacional inmediata de la niña o niño, sin intervención del Registro Cívico.
+C. Si se demuestra la filiación, la demanda se declara improbada con medidas y sanciones; si no, se determina la filiación judicial y se ratifica la guarda.
+D. Si se demuestra la filiación, el proceso se archiva sin medidas; si no, se remite el caso al juez penal para investigar.
+Respuesta correcta: C
+Explicación: «II. De demostrarse la filiación, la Jueza o el Juez pronunciará sentencia declarando improbada la demanda e impondrá las medidas de protección para la niña, niño o adolescente, y las sanciones que correspondan. III. En caso de no demostrarse la filiación, la Jueza o Juez determinará la filiación judicial y ratificará la guarda […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo I: Filiación judicial. Art. 238, parágrafos II y III (página impresa 92; página PDF 94).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+47. [Ley N.º 548 – LIBRO II] ¿Qué diferencia existe entre el contenido de la demanda (Art. 209) y el de la contestación (Art. 214.II)?
+A. La demanda incluye datos de las partes, relación de hechos, petición y prueba; la contestación, los hechos de defensa y la prueba necesaria.
+B. La demanda incluye los hechos de defensa y las excepciones; la contestación, los datos de las partes y la petición inicial, conforme a la normativa.
+C. La demanda no requiere ofrecer prueba alguna; la contestación debe acompañar siempre todas las pruebas documentales.
+D. La demanda debe ser oral en todos los casos; la contestación debe ser escrita y firmada por abogado matriculado.
+Respuesta correcta: A
+Explicación: Art. 209.I: «c) Nombre, apellido y domicilio de la parte demandante; […] e) La relación de los hechos que motivan la demanda y la petición en términos claros y precisos; […] g) Ofrecimiento de la prueba […]». Art. 214.II: «La contestación deberá contener los hechos que alegue como fundamento de su defensa con claridad y precisión, acompañar u ofrecer la prueba que considere necesaria».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 209 (página impresa 84; página PDF 86) y Art. 214 (página impresa 85; página PDF 87).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+48. [Ley N.º 548 – LIBRO II] ¿Qué diferencia existe entre la conversión de guarda en adopción (Arts. 239-240) y la adopción ordinaria respecto al periodo pre-adoptivo?
+A. En la conversión se exige un periodo pre-adoptivo de seis meses; en la ordinaria no se requiere ningún periodo de convivencia previa, por mandato legal.
+B. En ambas se exige un periodo pre-adoptivo de un año, sin considerar el tiempo de guarda previo de la niña, niño o adolescente.
+C. En la conversión el periodo lo fija la Defensoría; en la ordinaria lo fija la Autoridad Central Boliviana sin intervención judicial.
+D. En la conversión, el tiempo de guarda se considera periodo pre-adoptivo y no se requiere efectuarlo; en la ordinaria, hay periodo de hasta dos meses.
+Respuesta correcta: D
+Explicación: Art. 239.II: «Si el informe es favorable para la adopción, el tiempo de la guarda será considerado como periodo pre-adoptivo de convivencia […]». Art. 253: «I. […] este periodo no será mayor a dos (2) meses. II. En caso de guarda con fines de adopción referida en los Artículos 239 y 240 del presente Código, no se requiere efectuar el periodo pre-adoptivo».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo II: Conversión de guarda en adopción. Art. 239 (página impresa 92; página PDF 94) y Art. 253 (página impresa 95; página PDF 97).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+49. [Ley N.º 548 – LIBRO II] ¿Qué distingue la excusa del juez (Art. 215) de las excepciones del demandado (Art. 214.III)?
+A. La excusa es una defensa del demandado como la cosa juzgada; las excepciones son obligaciones del juez ante el parentesco con las partes.
+B. La excusa la resuelve el mismo juez sin recurso; las excepciones las resuelve el Tribunal Supremo de Justicia en única instancia.
+C. La excusa es obligación del juez ante causales como parentesco o amistad íntima; las excepciones son defensas del demandado como incompetencia o cosa juzgada.
+D. Ambas son facultativas y pueden plantearse en cualquier momento del proceso, incluso después de dictada la sentencia de fondo.
+Respuesta correcta: C
+Explicación: Art. 215.I: «La Jueza o el Juez tiene la obligación de excusarse en el primer actuado, cuando demuestre la existencia de alguna de las siguientes causales: 1. El parentesco con alguna de las partes […] 3. Tener amistad íntima […]». Art. 214.III: «Sólo se podrán oponer las excepciones de incompetencia, litispendencia, cosa juzgada o impersonería […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Arts. 214 y 215 (página impresa 86; página PDF 88).
+
+# Dimensión: Diferenciación conceptual · Modalidad: Conceptual
+50. [Ley N.º 548 – LIBRO II] ¿Qué diferencia existe entre las funciones de la Secretaria o Secretario (Art. 202) y las del equipo interdisciplinario (Art. 205)?
+A. La Secretaría registra demandas, controla plazos y custodia pruebas; el equipo asesora, evalúa, elabora valoraciones e informes técnicos.
+B. La Secretaría elabora valoraciones técnicas e informes psicológicos; el equipo registra demandas y custodia objetos probatorios, según la norma.
+C. La Secretaría dicta las medidas de protección; el equipo dicta las sentencias en los procesos de adopción nacional.
+D. La Secretaría y el equipo tienen idénticas funciones, por lo que pueden sustituirse mutuamente en el juzgado.
+Respuesta correcta: A
+Explicación: Art. 202: «a) Recibir y registrar las demandas orales presentadas ante el Juzgado; b) Controlar el plazo otorgado […] g) Custodiar los objetos probatorios secuestrados […]». Art. 205: «a) Brindar asesoramiento y orientación técnica […] c) Elaborar valoraciones técnicas e investigaciones […] e) Presentar informes técnicos debidamente fundamentados […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Arts. 202 y 205 (páginas impresas 81-83; páginas PDF 83-85).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+51. [Ley N.º 548 – LIBRO II] Una secretaria judicial permite que un periodista revise el expediente de un proceso de la niñez. ¿Qué análisis corresponde?
+A. Es correcto, porque el principio de transparencia permite el acceso a cualquier persona interesada en el proceso, según la ley vigente.
+B. Es correcto si el periodista no publica el nombre de la niña o niño, pues la reserva alcanza solo a la identidad.
+C. Vulnera la regla de que el acceso a actuados está permitido sólo a las partes, y la servidora será sometida a proceso disciplinario.
+D. Vulnera el Código solo si la niña o niño se opone expresamente, pues la reserva depende de su voluntad.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «El acceso a actuados está permitido sólo a las partes. La o el servidor judicial que sin autorización permita el acceso a terceros será sometido a proceso disciplinario». Aplicación razonada: el periodista es un tercero ajeno al proceso.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 196 (página impresa 80; página PDF 82).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+52. [Ley N.º 548 – LIBRO II] Un juez rechaza una demanda presentada por una madre porque no lleva firma de abogado. ¿Qué análisis corresponde?
+A. Es correcto, porque toda demanda judicial requiere patrocinio de abogado para garantizar la defensa técnica.
+B. Es correcto si la madre no acredita insolvencia, pues solo las personas sin recursos están exentas de abogado, conforme a la norma.
+C. Es contrario al Código: la demanda no necesita firma de abogado, y el domicilio procesal es la Secretaría del Juzgado.
+D. Es contrario al Código solo si la demandante es la Defensoría, pues las madres deben contar con abogado.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La demanda no necesitará la firma de abogado y en este caso se tendrá como domicilio procesal la Secretaría del Juzgado». Aplicación razonada: el rechazo exige un requisito que el Código suprime.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 209, parágrafo IV (página impresa 84; página PDF 86).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+53. [Ley N.º 548 – LIBRO II] Un juez ordena que una niña víctima declare tres veces en audiencia pública ante su agresor. ¿Qué análisis corresponde?
+A. Es correcto, porque la reiteración del testimonio en audiencia garantiza el derecho a la defensa del agresor, según lo dispuesto.
+B. Vulnera el Código, que dispone tomar su testimonio en privado y prohíbe la reiteración y que testifique en la audiencia.
+C. Es correcto si la niña es mayor de doce años, pues a partir de esa edad puede declarar en audiencia pública.
+D. Vulnera el Código solo por el número de declaraciones, pues una sola declaración en audiencia es válida.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Podrá testificar la niña, niño o adolescente víctima del hecho, y su testimonio será tomado en privado con el auxilio de familiares y del equipo profesional interdisciplinario del Juzgado. Se prohíbe la reiteración de sus testificaciones o que testifique en la audiencia». Aplicación razonada: la orden infringe tres reglas del Art. 220.II.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 220, parágrafo II (página impresa 88; página PDF 90).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+54. [Ley N.º 548 – LIBRO II] Un juez archiva un proceso de protección porque ninguna de las partes lo impulsó durante tres meses. ¿Qué análisis corresponde?
+A. Es contrario al Código: el abandono no da lugar al archivo, y el proceso debe proseguir de oficio hasta su conclusión.
+B. Es correcto, porque el abandono del proceso por las partes extingue la acción en todos los procesos judiciales.
+C. Es correcto si la Defensoría no presentó ningún escrito, pues su inactividad equivale al desistimiento del proceso.
+D. Es contrario al Código solo si el proceso se refería a hechos de violencia, pues en los demás casos el archivo procede.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El abandono del proceso que afecte a la niña, niño o adolescente, no dará lugar a su archivo, debiendo proseguir hasta su conclusión, a impulso de oficio de la Jueza o Juez Público en materia de Niñez y Adolescencia o de la Defensoría de la Niñez y Adolescencia». Aplicación razonada: el archivo por inactividad contradice el Art. 208.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo II: Competencia de Juzgados Públicos en materia de Niñez y Adolescencia. Art. 208 (página impresa 84; página PDF 86).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+55. [Ley N.º 548 – LIBRO II] Un adolescente denunciado por un hecho de violencia contra un compañero pide que se archive la causa porque la familia de la víctima desistió. ¿Qué análisis corresponde?
+A. El desistimiento no opera en los casos de violencia, por lo que no procede considerar la denuncia como no presentada.
+B. El desistimiento opera en todos los casos, por lo que la denuncia debe tenerse como no presentada de inmediato.
+C. El desistimiento opera si el adolescente es menor de catorce años, sin importar la naturaleza del hecho denunciado, según la normativa.
+D. El desistimiento opera si el director de la unidad educativa lo avala por escrito ante la autoridad judicial.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «El desistimiento en los procesos contra adolescentes, dará lugar a considerar la denuncia o demanda como no presentada, exceptuando los casos de violencia». Aplicación razonada: el hecho denunciado es de violencia, supuesto excluido del efecto del desistimiento.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 206 (página impresa 83; página PDF 85).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+56. [Ley N.º 548 – LIBRO II] Un juez descarta el testimonio de un niño porque «los niños fantasean», sin ninguna prueba que lo contradiga. ¿Qué análisis corresponde?
+A. Es correcto, porque el testimonio de un niño requiere siempre corroboración de un adulto para tener valor probatorio, por mandato legal.
+B. Es correcto si el niño es menor de seis años, pues en la primera infancia el testimonio carece de valor procesal.
+C. Vulnera el principio de presunción de verdad: el testimonio debe considerarse cierto en tanto no se desvirtúe objetivamente.
+D. Vulnera el Código solo si el niño declaró en presencia del equipo interdisciplinario y de sus familiares.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Presunción de Verdad. Para asegurar el descubrimiento de la verdad, todas las autoridades del sistema judicial deberán considerar el testimonio de una niña, niño o adolescente como cierto, en tanto no se desvirtúe objetivamente el mismo […]». Aplicación razonada: el prejuicio no desvirtúa objetivamente el testimonio.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 193, inciso c) (página impresa 79; página PDF 81).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+57. [Ley N.º 548 – LIBRO II] Un juez suspende la audiencia porque el demandado no asistió, sin fundamentar fuerza mayor. ¿Qué análisis corresponde?
+A. Es contrario al Código: la audiencia no se suspende por ausencia de las partes, y asume la defensa el defensor de oficio o la Defensoría.
+B. Es correcto, porque la ausencia del demandado impide celebrar la audiencia en respeto de su derecho a la defensa.
+C. Es correcto si el demandado presenta una justificación dentro de los treinta días siguientes a la audiencia.
+D. Es contrario al Código solo si la Defensoría estaba presente, pues en otro caso la suspensión es obligatoria.
+Respuesta correcta: A
+Explicación: Aplicación razonada: Art. 228.I: «[…] Por ningún motivo se suspenderá la audiencia y en caso de ausencia de las partes, asumirá su defensa el defensor de oficio o la Defensoría de la Niñez y Adolescencia, según el caso». Art. 229.III: «La audiencia no deberá suspenderse excepto cuando la Jueza o el Juez, fundamentando el motivo y por razones de fuerza mayor, decida prorrogarla». Aplicación razonada: la suspensión sin fuerza mayor fundamentada contraviene los Arts. 228 y 229.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 228, parágrafo I (página impresa 89; página PDF 91) y Art. 229, parágrafo III (página impresa 90; página PDF 92).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+58. [Ley N.º 548 – LIBRO II] Un juez dicta sentencia sin explicar qué pruebas le ayudaron a formar convicción y cuáles desestimó. ¿Qué análisis corresponde?
+A. Incumple la obligación de considerar todas las pruebas, individualizando las que formaron convicción y las desestimadas, con fundamento.
+B. Es correcto, porque el juez valora la prueba en su íntima convicción, sin obligación de fundamentar su criterio.
+C. Es correcto si la sentencia es favorable a la niña o niño, pues en ese caso no se requiere fundamentación.
+D. Incumple el Código solo si alguna de las partes apela, pues sin apelación la fundamentación es innecesaria.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La autoridad judicial al momento de pronunciar la resolución tendrá la obligación de considerar todas y cada una de las pruebas producidas, individualizando cuáles le ayudaron a formar convicción y cuáles fueron desestimadas, fundamentando su criterio». Aplicación razonada: la omisión vulnera el deber de motivación probatoria.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 219, parágrafo I (página impresa 88; página PDF 90).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+59. [Ley N.º 548 – LIBRO II] Un juez con amistad íntima notoria con una de las partes no se excusa y continúa con el proceso. ¿Qué análisis corresponde?
+A. Es correcto, porque la amistad con una de las partes no constituye causal de excusa en los procesos de la niñez.
+B. Incumple la obligación de excusarse en el primer actuado; las partes pueden hacer valer la causal en apelación de sentencia.
+C. Es correcto si el juez declara su imparcialidad por escrito, lo que sustituye la obligación de excusarse.
+D. Incumple el Código, y la única consecuencia es la nulidad automática de todo lo actuado sin necesidad de recurso, conforme a la norma.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «I. La Jueza o el Juez tiene la obligación de excusarse en el primer actuado, cuando demuestre la existencia de alguna de las siguientes causales: […] 3. Tener amistad íntima, enemistad u odio con algunas de las partes […]. III. Cuando a juicio de las partes existan las causales de excusa señaladas en el Parágrafo I, podrá hacer valer este derecho en apelación de sentencia». Aplicación razonada: la amistad íntima notoria es causal expresa de excusa.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 215, parágrafos I y III (página impresa 86; página PDF 88).
+
+# Dimensión: Análisis crítico · Modalidad: Aplicación razonada
+60. [Ley N.º 548 – LIBRO II] Un trámite de adopción nacional lleva siete meses desde la admisión de la demanda sin sentencia, por demoras injustificadas. ¿Qué análisis corresponde?
+A. Es normal, porque el Código no fija plazos máximos para la adopción, que depende de la complejidad de cada caso.
+B. Es normal si la adopción es nacional, pues el plazo de cuatro meses se aplica solo a las adopciones internacionales, en el marco legal.
+C. Excede el plazo, pero sin consecuencia alguna, pues el plazo de cuatro meses es meramente referencial.
+D. Excede el plazo máximo de cuatro meses y genera responsabilidad de las instancias o autoridades por dilación injustificada.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «El trámite para obtener la adopción nacional o internacional, no podrá exceder de cuatro (4) meses, computables desde la admisión de la demanda por la autoridad judicial hasta la sentencia, bajo responsabilidad de las instancias o autoridades involucradas en el proceso de adopción, en caso de dilación injustificada». Aplicación razonada: la demora de siete meses supera el plazo legal.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo IV: Adopción. Art. 250, parágrafo III (página impresa 95; página PDF 97).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+61. [Ley N.º 548 – LIBRO II] Una demanda no indica la relación de los hechos que la motivan. Según el Artículo 210.II, ¿qué debe disponer el juez?
+A. Que se rechace de plano, sin posibilidad de subsanación por la parte demandante.
+B. Que se complemente dentro de tres días, bajo apercibimiento de tenerla por no presentada.
+C. Que se admita igualmente, pues el juez puede investigar de oficio los hechos omitidos, según lo dispuesto.
+D. Que se remita a la Defensoría, para que esta redacte nuevamente la demanda completa.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Cuando la demanda no cumpla con lo exigido en los incisos b), c), d) o e) del Parágrafo I del Artículo anterior, ordenará se complemente dentro del plazo de tres (3) días, bajo apercibimiento de tenerla por no presentada».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 210, parágrafo II (página impresa 85; página PDF 87).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+62. [Ley N.º 548 – LIBRO II] El demandado vive a 400 kilómetros del asiento del Juzgado. ¿Qué plazo tiene para contestar la demanda según el Artículo 214.I?
+A. Siete días: los cinco días ordinarios más un día por cada doscientos kilómetros de distancia.
+B. Cinco días, sin ampliación alguna por la distancia que exista hasta el asiento del Juzgado.
+C. Diez días: el doble del plazo ordinario, por residir fuera del asiento del Juzgado.
+D. Quince días: el plazo especial para demandados que residen en otro departamento.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «La parte demandada deberá contestar la demanda dentro de los cinco (5) días siguientes a su citación y se ampliará a razón de un día por cada doscientos (200) kilómetros de distancia del asiento del Juzgado […]». Aplicación razonada: 5 días más 2 días por 400 km.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 214, parágrafo I (página impresa 85; página PDF 87).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+63. [Ley N.º 548 – LIBRO II] La Defensoría de la Niñez demanda en nombre de un niño. Según el Artículo 209.II, ¿debe acreditar mandato expreso?
+A. Sí, debe presentar un poder notarial otorgado por los padres del niño antes de demandar.
+B. Sí, debe acompañar una resolución del Concejo Municipal que autorice la demanda judicial, según la Ley 548.
+C. No, pero debe contar con la firma de un abogado particular contratado por la familia.
+D. No, la Defensoría no necesita acreditar mandato expreso, como tampoco los padres, guardadores o tutores.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Cuando el demandante sea la Defensoría de la Niñez y Adolescencia, no necesita acreditar mandato expreso, tampoco la madre, padre, guardadora o guardador, tutora o tutor».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 209, parágrafo II (página impresa 84; página PDF 86).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+64. [Ley N.º 548 – LIBRO II] Dos jueces de la niñez igualmente competentes conocen un mismo caso. Según el Artículo 199.II, ¿quién adquiere la competencia?
+A. El de mayor antigüedad en el cargo.
+B. El que designe el Tribunal Departamental.
+C. El primero que hubiere conocido la causa.
+D. El más cercano al domicilio del niño.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Cuando concurran dos (2) o más jueces igualmente competentes, adquiere la competencia el primero que hubiere conocido la causa».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 199, parágrafo II (página impresa 81; página PDF 83).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+65. [Ley N.º 548 – LIBRO II] Un tutor extraordinario de la Defensoría abandona sin causa justificada la representación de un niño. ¿Qué sanción prevé el Artículo 194.III?
+A. La destitución inmediata del cargo, sin sanción económica, dispuesta por el Gobierno Municipal, según la ley vigente.
+B. Una amonestación escrita del juez, sin sanción económica ni otra consecuencia para el tutor.
+C. Una sanción económica no menor a tres salarios mínimos nacionales, determinada por el juez de la causa.
+D. Una sanción penal de privación de libertad de uno a tres años por abandono de funciones.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La negligencia del tutor extraordinario en el ejercicio de la representación o abandono de la misma sin causa justificada, ameritará la imposición de una sanción económica no menor a tres (3) salarios mínimos nacionales, a ser determinada por la Jueza o el Juez de la causa».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 194, parágrafo III (página impresa 80; página PDF 82).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+66. [Ley N.º 548 – LIBRO II] Para ser Jueza o Juez Público de la Niñez, ¿qué antecedentes no debe tener el postulante según el Artículo 200.a?
+A. Antecedentes de incumplimiento de deberes familiares, violencia intrafamiliar o doméstica, o violencia contra la niñez.
+B. Antecedentes de sanciones administrativas por retraso en la tramitación de causas en otros juzgados, según lo establecido.
+C. Antecedentes de afiliación a partidos políticos durante los cinco años anteriores a la postulación.
+D. Antecedentes de ejercicio libre de la abogacía en materia penal durante los últimos dos años.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «a) No tener antecedentes de incumplimiento de deberes familiares, violencia intrafamiliar o doméstica, violencia en contra de la niña, niño o adolescente […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 200, inciso a) (página impresa 81; página PDF 83).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+67. [Ley N.º 548 – LIBRO II] Un juez de la niñez debe resolver la restitución internacional de un niño. Según el Artículo 207.e, ¿conforme a qué instrumento?
+A. Conforme al Convenio de La Haya sobre Protección de Niños en Adopción Internacional.
+B. Conforme a la Ley del Órgano Judicial, sin aplicación de instrumentos internacionales.
+C. Conforme a la Convención Interamericana sobre Restitución Internacional de Menores.
+D. Conforme al Código de las Familias, como norma supletoria en materia de restitución.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «e) Resolver la restitución de la niña, niño o adolescente a nivel nacional e internacional conforme a la Convención Interamericana sobre Restitución Internacional de Menores […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo II: Competencia de Juzgados Públicos en materia de Niñez y Adolescencia. Art. 207, inciso e) (página impresa 83; página PDF 85).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+68. [Ley N.º 548 – LIBRO II] Un juez de la niñez recibe una solicitud de restitución de la autoridad de una madre. Según el Artículo 207.c, ¿es competente?
+A. Sí, le corresponde conocer y resolver las solicitudes de restitución de la autoridad de la madre, del padre o de ambos.
+B. No, corresponde exclusivamente al juez de familia, conforme al Código de las Familias en el proceso.
+C. No, corresponde a la Defensoría de la Niñez, mediante resolución administrativa en cada caso concreto.
+D. Sí, pero solo si la madre fue suspendida por un juez penal en un proceso anterior y distinto.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «c) Conocer y resolver las solicitudes de restitución de la autoridad de la madre, del padre o de ambos […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo II: Competencia de Juzgados Públicos en materia de Niñez y Adolescencia. Art. 207, inciso c) (página impresa 83; página PDF 85).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+69. [Ley N.º 548 – LIBRO II] En un proceso de tutela, la Defensoría considera que los antecedentes del caso son óptimos. Según el Artículo 242.II, ¿es necesario aplicar el protocolo del equipo interdisciplinario?
+A. Sí, el protocolo es obligatorio en todos los casos y no puede omitirse bajo ningún supuesto.
+B. No será necesaria su aplicación cuando los antecedentes para la Defensoría sean óptimos.
+C. Sí, y su ejecución puede durar hasta seis meses a cargo de la Instancia Técnica Departamental.
+D. No, porque el protocolo solo se aplica en los procesos de adopción internacional.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «La Jueza o el Juez Público de la Niñez y Adolescencia dispondrá la aplicación del protocolo correspondiente que no podrá durar en su ejecución más de veinte (20) días, a cargo del equipo profesional interdisciplinario. En caso que los antecedentes para la Defensoría de la Niñez y Adolescencia sean óptimos, no será necesaria su aplicación».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo III: Tutela ordinaria. Art. 242, parágrafo II (página impresa 93; página PDF 95).
+
+# Dimensión: Aplicación normativa · Modalidad: Aplicación razonada
+70. [Ley N.º 548 – LIBRO II] La Defensoría demanda la citación por edicto en un proceso. Según el Artículo 212.I, ¿quién asume el costo y cómo debe publicarse?
+A. La Defensoría asume el costo; se publica dos veces, con intervalo no menor a cinco días, resguardando la identidad del niño.
+B. El juzgado asume el costo; se publica una sola vez, con el nombre completo y la fotografía del niño.
+C. El demandado asume el costo; se publica tres veces en la Gaceta Oficial, sin restricciones de contenido, según la ley vigente.
+D. Las partes asumen el costo por mitad; se publica en la puerta del juzgado durante treinta días.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «[…] el edicto se publicará por dos veces con intervalo no menor a cinco (5) días, en un periódico de circulación nacional […] manteniendo la reserva y resguardando la identidad de la niña, niño y adolescente involucrado […]. En caso de que la Defensoría de la Niñez y Adolescencia sea la demandante, ésta asumirá el costo del edicto».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 212, parágrafo I (páginas impresas 85-86; páginas PDF 87-88).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+71. [Ley N.º 548 – LIBRO II] Caso: durante un proceso, un niño en riesgo en su hogar necesita un cuidado inmediato por otra familia. ¿Qué medida cautelar puede ordenar el juez según el Artículo 216.I.h?
+A. Ordenar la adopción internacional del niño, con la conformidad de la Autoridad Central del Estado receptor.
+B. Ordenar al director de la unidad educativa que acoja al niño en su domicilio hasta la sentencia del proceso.
+C. Asignar una familia sustituta mediante guarda provisional, con entrega inmediata de sus efectos personales o acogimiento temporal.
+D. Ordenar el arraigo de los padres del niño, sin modificar su situación de cuidado durante el proceso judicial, conforme a la normativa.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «h) Asignar una familia sustituta mediante guarda provisional, disponiendo la entrega inmediata de sus efectos personales o en su caso el acogimiento temporal en un centro especializado […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 216, parágrafo I, inciso h) (página impresa 87; página PDF 89).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+72. [Ley N.º 548 – LIBRO II] Caso: una niña fue alejada con violencia de su hogar por un familiar. ¿Qué medida cautelar puede ordenar el juez según el Artículo 216.I.g?
+A. Ordenar la adopción internacional inmediata de la niña afectada.
+B. Ordenar la restitución al hogar del que hubiera sido alejada con violencia.
+C. Ordenar el embargo de los bienes de la niña alejada del hogar.
+D. Ordenar la suspensión del proceso hasta que la niña regrese sola, según la norma.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «g) Ordenar la restitución al hogar del que hubiera sido alejada o alejado con violencia […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 216, parágrafo I, inciso g) (página impresa 87; página PDF 89).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+73. [Ley N.º 548 – LIBRO II] Caso: en una audiencia, el juez considera necesaria la presencia de la trabajadora social que elaboró un informe, pero ella pretende excusarse por exceso de trabajo. ¿Cómo se resuelve?
+A. Puede excusarse, enviando una nota escrita que ratifique el contenido de su informe, según lo establecido.
+B. Puede excusarse si su informe fue elaborado para una institución pública de salud.
+C. Puede excusarse, y su informe pierde todo valor probatorio en el proceso judicial.
+D. No puede excusarse: notificada por necesidad del juez, debe ratificarse en la audiencia.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La o el profesional que realizó el informe o emitió un certificado, sólo si a juicio de la autoridad judicial es necesario, podrá ser notificado para ratificarse en la audiencia, no pudiendo excusarse en este caso».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 224 (página impresa 88; página PDF 90).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+74. [Ley N.º 548 – LIBRO II] Caso: una niña requiere ser escuchada antes de la audiencia de su proceso. ¿Qué prevé el Artículo 227.I entre el señalamiento y la audiencia?
+A. Que la niña sea interrogada por los abogados de ambas partes en una diligencia preparatoria pública en el proceso.
+B. Que la niña presente un escrito firmado por sus padres con su versión de los hechos ocurridos en el proceso.
+C. Que la niña sea escuchada por el director de su unidad educativa, que informa luego al juez en el proceso.
+D. Que la niña sea escuchada con apoyo del personal especializado, pudiendo el juez ordenar informes al equipo interdisciplinario.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Entre la fecha del señalamiento de audiencia y el día de la audiencia, la Jueza o el Juez, dispondrá que la niña, niño o adolescente sea escuchado con apoyo del personal especializado. Asimismo, podrá ordenar la elaboración de informes a su equipo profesional interdisciplinario y otros actos que estime necesario, en el mismo periodo […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 227, parágrafo I (página impresa 89; página PDF 91).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+75. [Ley N.º 548 – LIBRO II] Caso: el demandado no contesta la demanda dentro del plazo. ¿Qué debe declarar el juez en el decreto de señalamiento de audiencia según el Artículo 226.II?
+A. La conclusión del proceso con sentencia a favor de la parte demandante.
+B. La rebeldía del demandado, fijando además con precisión los puntos a probar.
+C. La suspensión del proceso hasta que el demandado comparezca voluntariamente, según la norma.
+D. El archivo de la demanda por falta de contradicción entre las partes.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «En el decreto de señalamiento de audiencia, también deberá fijar con precisión los puntos a probar y declarará la rebeldía del demandado que no haya contestado la demanda».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 226, parágrafo II (página impresa 89; página PDF 91).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+76. [Ley N.º 548 – LIBRO II] Caso: en un proceso de tutela, la Jueza advierte que la tutela propuesta es inviable. ¿Qué dispone el Artículo 244.II?
+A. Designar de oficio a otro tutor sin audiencia ni intervención de la Defensoría.
+B. Suspender el procedimiento por un año hasta que surja un nuevo candidato.
+C. Convertir automáticamente la tutela en adopción nacional de la niña o niño.
+D. Dar por concluido el procedimiento, decisión que podrá ser apelada.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «En caso de demostrarse la inviabilidad de la tutela propuesta, dará por concluido el procedimiento, decisión que podrá ser apelada».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo III: Tutela ordinaria. Art. 244, parágrafo II (página impresa 93; página PDF 95).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+77. [Ley N.º 548 – LIBRO II] Caso: un niño ingresó a guarda transitoria sin que se conozca la identidad de sus padres, y la Defensoría agotó los medios para identificarlos. ¿Qué acción procede?
+A. La Defensoría debe archivar el caso, pues sin identidad de los padres no procede acción judicial alguna.
+B. El director de la unidad educativa debe inscribir al niño con apellidos convencionales en el Registro Cívico, según la norma.
+C. La Defensoría tiene legitimación activa para interponer la demanda de filiación judicial ante el Juez de la Niñez.
+D. La Instancia Técnica Departamental debe iniciar de inmediato la adopción internacional del niño.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «La Defensoría de la Niñez y Adolescencia tiene legitimación activa para interponer la demanda de filiación judicial ante la Jueza o el Juez Público en materia de la niñez y adolescencia, cuando no exista o se desconozca la identidad de la madre o del padre, y dicha instancia haya agotado los medios para identificarlos».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo I: Filiación judicial. Art. 234 (página impresa 91; página PDF 93).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+78. [Ley N.º 548 – LIBRO II] Caso: en un proceso de filiación judicial, aparece el padre biológico reclamando al niño. ¿Qué dispone el Artículo 237?
+A. Rechazar el reclamo, pues el proceso de filiación judicial no admite intervención de los progenitores.
+B. Entregar de inmediato al niño al padre, sin verificación judicial ni intervención de otra autoridad.
+C. Remitir los antecedentes a la autoridad jurisdiccional en materia familiar, prosiguiendo conforme al Código de las Familias.
+D. Suspender el proceso por un año, para que el padre demuestre su capacidad de crianza ante el juzgado.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «En caso de existir reclamo de padre, madre o parientes, deberá remitirse antecedentes a la autoridad jurisdiccional en materia familiar, debiendo proseguirse de acuerdo al Código de las Familias».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo I: Filiación judicial. Art. 237 (página impresa 91; página PDF 93).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+79. [Ley N.º 548 – LIBRO II] Caso: en la audiencia de ratificación de una adopción, ¿qué actividades procesales deben cumplirse según el Artículo 254?
+A. Lectura de antecedentes, escucha de la niña o niño, información a los adoptantes sobre efectos jurídicos y sentencia.
+B. Interrogatorio a los padres biológicos, conciliación entre las familias y archivo provisional del proceso, según la ley vigente.
+C. Lectura de la demanda, examen médico de los adoptantes y remisión del caso a la Autoridad Central.
+D. Declaración del director de la unidad educativa, informe de la junta escolar y sentencia escrita diferida.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «a) Por Secretaría se dará lectura a los antecedentes de la solicitud de adopción, así como los informes y gestiones realizadas; b) Será oída la niña, niño o adolescente […] c) Se informará a los adoptantes sobre los efectos jurídicos de la adopción; y d) La autoridad judicial dictará la correspondiente sentencia, otorgando o negando la adopción».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo IV: Adopción. Art. 254 (página impresa 96; página PDF 98).
+
+# Dimensión: Resolución de casos prácticos · Modalidad: Caso práctico (Aplicación razonada)
+80. [Ley N.º 548 – LIBRO II] Caso: la Defensoría solicita convertir en adopción la guarda de un niño que convive desde hace años con una familia. ¿En qué plazo fija el juez la audiencia y a quiénes debe oír?
+A. En treinta días; oye solo a la familia guardadora y a la Defensoría, sin escuchar a la niña o niño involucrado en el proceso.
+B. En diez días; oye solo al equipo del juzgado, que decide por sí mismo la conversión de la guarda en adopción en el proceso.
+C. En seis meses; oye a los padres biológicos, que deben consentir la conversión de la guarda en adopción en el proceso.
+D. En dos días; oye al solicitante, al adolescente o al niño según su madurez, a la Defensoría, a la Instancia Técnica y al equipo del juzgado.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La Jueza o el Juez fijará audiencia en el plazo de dos (2) días. En audiencia oirá a la o el solicitante, necesariamente al adolescente, y a la niña o niño dependiendo de su edad y grado de madurez, a la Defensoría de la Niñez y Adolescencia, a la Instancia Técnica Departamental de Política Social y al equipo profesional interdisciplinario del Juzgado […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo II: Conversión de guarda en adopción. Art. 240 (página impresa 92; página PDF 94).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+81. [Ley N.º 548 – LIBRO II] Un juez debe decidir qué medidas incluir en la sentencia del procedimiento común. ¿Qué contenido exige el Artículo 232?
+A. Individualización del proceso, relación de hechos, argumentación de derecho, decisión, medidas de protección y sanciones cuando correspondan.
+B. Solo la decisión del juez, sin argumentación de derecho ni medidas de protección para la niña o niño involucrado.
+C. Solo las sanciones a los responsables, sin relación de hechos ni medidas de protección para la niña o niño.
+D. La decisión y la opinión de la junta escolar, sin argumentación jurídica ni individualización del proceso.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «a) Individualización del proceso; b) Breve relación de hechos; c) Argumentación de derecho; d) Decisión de la Jueza o el Juez; e) Medidas de protección; y f) Sanciones para los responsables, cuando correspondan».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 232 (página impresa 90; página PDF 92).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+82. [Ley N.º 548 – LIBRO II] En plena audiencia, el juez advierte que necesita una prueba no ofrecida por las partes. ¿Qué decisión le permite el Artículo 225?
+A. Rechazar cualquier prueba no ofrecida por las partes, por el principio dispositivo del proceso.
+B. Disponer la prueba solo si ambas partes la consienten y asumen su costo por partes iguales.
+C. Suspender el proceso hasta que alguna de las partes ofrezca esa prueba por escrito.
+D. Disponer de oficio cualquier prueba necesaria, sin recurso contra su decisión y con costo a cargo del Estado.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La Jueza o el Juez, de oficio podrá disponer cualquier prueba que considere necesaria para formar mejor convicción de los hechos y contra esta decisión no cabe recurso alguno. Esta prueba será sufragada por el Estado».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 225 (página impresa 88; página PDF 90).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+83. [Ley N.º 548 – LIBRO II] La prueba no pudo ser recibida totalmente durante la jornada laboral. ¿Qué decisión prevé el Artículo 230?
+A. Suspender la audiencia por treinta días y señalar nueva fecha según la agenda del juzgado.
+B. Señalar un receso para continuar al día siguiente hábil, o habilitar días extraordinarios hasta su finalización.
+C. Dictar sentencia con la prueba recibida, prescindiendo de la que quedó pendiente de producción.
+D. Declarar desierta la prueba no recibida y continuar con los alegatos de las partes en el proceso.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Si la prueba no hubiera sido totalmente recibida durante la jornada laboral, se señalará un receso para la continuación de la audiencia para el día siguiente hábil, o se habilitará días extraordinarios hasta su finalización».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 230 (página impresa 90; página PDF 92).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+84. [Ley N.º 548 – LIBRO II] Una de las partes ofreció una prueba que está en poder de una oficina pública. ¿Qué decisión debe adoptar el juez según el Artículo 218?
+A. Rechazar la prueba, pues la parte debe presentarla junto con la demanda o contestación.
+B. Ordenar su obtención después de la sentencia, como prueba para la etapa de apelación.
+C. Ordenar su obtención hasta un día antes de la audiencia del juicio, una vez individualizada por la parte.
+D. Exigir a la parte que la obtenga por su cuenta, bajo apercibimiento de tenerla por desistida, según la norma.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Si el demandado o el demandante no tuvieran a su disposición la prueba ofrecida, la individualizarán indicando el contenido, lugar, archivo y oficina pública o persona en poder de quien se encuentre, debiendo la Jueza o el Juez ordenar su obtención hasta un (1) día antes de la audiencia del juicio».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 218 (página impresa 88; página PDF 90).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+85. [Ley N.º 548 – LIBRO II] En la audiencia, una parte presenta una prueba obtenida vulnerando derechos humanos. ¿Qué decisión puede adoptar el juez según el Artículo 229.I.e?
+A. Rechazar las pruebas impertinentes o las obtenidas vulnerando derechos humanos.
+B. Admitirla, pues el principio de verdad material prevalece sobre la licitud de la prueba.
+C. Admitirla si la parte contraria no se opone expresamente durante la audiencia de juicio.
+D. Remitirla al equipo interdisciplinario para que decida sobre su admisibilidad en el proceso.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «e) Producción de la prueba. El Juez podrá rechazar las pruebas impertinentes o las que se hayan obtenido vulnerando derechos humanos […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 229, parágrafo I, inciso e) (página impresa 90; página PDF 92).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+86. [Ley N.º 548 – LIBRO II] Para proteger el patrimonio de un niño durante un proceso, ¿qué medida cautelar puede decidir el juez según el Artículo 216.I.i?
+A. Disponer el inventario de bienes muebles e inmuebles pertenecientes a la niña, niño o adolescente.
+B. Disponer la venta de los bienes del niño y el depósito del producto en el Tesoro General, según la norma.
+C. Disponer la entrega de los bienes del niño a la unidad educativa para su administración.
+D. Disponer la transferencia de los bienes del niño a sus padres, sin inventario previo.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «i) Disponer el inventario de bienes muebles e inmuebles pertenecientes a la niña, niño o adolescente […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 216, parágrafo I, inciso i) (página impresa 87; página PDF 89).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+87. [Ley N.º 548 – LIBRO II] Tras designar a una tutora, el juez debe decidir sobre el presupuesto de gastos de educación del niño. ¿Qué facultad le reconoce el Artículo 248.b?
+A. Delegar la aprobación del presupuesto a la unidad educativa, que fija los gastos de educación del niño.
+B. Aprobar y modificar al inicio de cada año el presupuesto de gastos de alimentación, educación y administración del patrimonio.
+C. Abstenerse de intervenir, pues la tutora administra libremente el patrimonio sin control judicial en el proceso.
+D. Aprobar el presupuesto una única vez, sin posibilidad de modificarlo durante la tutela ante el juzgado.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «b) Aprobar y modificar el presupuesto de gastos de alimentación y educación de la niña, niño o adolescente y de la administración de su patrimonio de acuerdo a la condición personal y a las posibilidades económicas al inicio de cada año […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo III: Tutela ordinaria. Art. 248, inciso b) (página impresa 94; página PDF 96).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+88. [Ley N.º 548 – LIBRO II] Un juez debe decidir el plazo para fijar audiencia de tutela tras analizar la viabilidad de la propuesta. ¿Qué dispone el Artículo 244.I?
+A. Fijar audiencia dentro de los próximos noventa días.
+B. Fijar audiencia dentro de los próximos seis meses.
+C. Fijar día y hora de audiencia para los próximos diez días.
+D. Fijar audiencia sin plazo, según la carga procesal.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «Cumplido el plazo y analizados los antecedentes e informes producidos y estableciendo la viabilidad de la tutela propuesta, la Jueza o el Juez fijará día y hora de audiencia para los próximos diez (10) días».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo III: Tutela ordinaria. Art. 244, parágrafo I (página impresa 93; página PDF 95).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+89. [Ley N.º 548 – LIBRO II] Un informe de pre-asignación para la adopción resulta desfavorable para los solicitantes. ¿Qué decisión prevé el Artículo 252.II?
+A. Continuar el proceso sin considerar el informe, que es meramente referencial para el juez, por mandato legal.
+B. Dar por concluido el proceso respecto de los solicitantes, decisión que podrá ser apelada.
+C. Ordenar un nuevo informe por otra instancia, hasta obtener un resultado favorable.
+D. Convertir el proceso en guarda permanente a favor de los solicitantes desfavorecidos.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «[…] En caso de ser desfavorable dará por concluido el proceso respecto de la o el solicitante o ambos, decisión que podrá ser apelable».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo IV: Adopción. Art. 252, parágrafo II (página impresa 95; página PDF 97).
+
+# Dimensión: Toma de decisiones · Modalidad: Aplicación razonada
+90. [Ley N.º 548 – LIBRO II] Un juez que se excusa debe decidir a dónde remitir su excusa. ¿Qué dispone el Artículo 215.II?
+A. Remitirla al Consejo de la Magistratura, que resuelve en treinta días con recurso de apelación, en el marco legal.
+B. Resolverla por sí mismo, en el mismo actuado, sin remisión a ninguna otra instancia superior.
+C. Remitirla en 24 horas al Tribunal Departamental, que resuelve en seis días sin recurso ulterior.
+D. Remitirla a la Defensoría de la Niñez, que designa al juez que continuará con el proceso.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «De excusarse, la remitirá en un plazo de veinticuatro (24) horas al Tribunal Departamental correspondiente para su resolución, que deberá ser pronunciada en el plazo de seis (6) días sin recurso ulterior».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo III: Procedimiento común. Art. 215, parágrafo II (página impresa 86; página PDF 88).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+91. [Ley N.º 548 – LIBRO II] Para organizar un juzgado de la niñez, ¿qué servidores de apoyo exige el Artículo 201?
+A. Un fiscal especializado, un médico forense, un policía de la Fuerza Especial y un notario de fe pública, conforme a la Ley.
+B. Una Secretaria o Secretario, un auxiliar, un oficial de diligencias y un equipo profesional interdisciplinario.
+C. Un representante de la Defensoría, un delegado de la junta escolar y un abogado de oficio permanente.
+D. Un asistente administrativo, un contador público y un equipo de seguridad privada para las audiencias.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «Los Juzgados Públicos en materia de Niñez y Adolescencia, cuentan con una Secretaria o Secretario, una o un auxiliar, una o un oficial de diligencias y un equipo profesional interdisciplinario de apoyo y asesoramiento».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 201 (página impresa 81; página PDF 83).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+92. [Ley N.º 548 – LIBRO II] Para garantizar la independencia técnica de los equipos interdisciplinarios, ¿qué establece el Artículo 203.II?
+A. Que todos los equipos dependen del Ministerio de Justicia como Ente Rector del sistema de protección.
+B. Que los equipos dependen de las Defensorías municipales, que fijan sus criterios técnicos.
+C. Que los equipos se rigen por las instrucciones de la Instancia Técnica Departamental de Política Social, según la norma.
+D. Que cada equipo es autónomo respecto a otros de otros juzgados, entidades del nivel central o entidades autónomas.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «Cada equipo es autónomo respecto a otros similares de otros juzgados, entidades estatales del nivel central o entidades territoriales autónomas».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 203, parágrafo II (página impresa 82; página PDF 84).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+93. [Ley N.º 548 – LIBRO II] Al definir el perfil de los profesionales del equipo interdisciplinario, ¿qué requisitos exige el Artículo 204?
+A. Título en provisión nacional, dos años de experiencia especializada, cuatro de ejercicio ético y no tener antecedentes de violencia.
+B. Título de bachiller, un año de experiencia general, afiliación sindical y certificado de buena conducta vecinal, conforme a la normativa.
+C. Título de abogado, diez años de experiencia judicial, examen de oposición y recomendación del Tribunal Supremo.
+D. Título académico extranjero, cinco años de docencia universitaria y aprobación de la Defensoría de la Niñez.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «a) Contar con Título en Provisión Nacional; b) Tener experiencia especializada en derechos de niñas, niños y adolescentes o derechos humanos, psicología forense y desarrollo humano, de al menos dos (2) años; c) Haber ejercido su profesión con honestidad y ética, al menos por cuatro (4) años; y d) No tener antecedentes por incumplimiento de deberes familiares, violencia intrafamiliar o doméstica y violencia contra niñas, niños o adolescentes».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 204 (página impresa 82; página PDF 84).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+94. [Ley N.º 548 – LIBRO II] Para el seguimiento judicial de las medidas impuestas, ¿qué función del equipo interdisciplinario prevé el Artículo 205.d?
+A. Ejecutar por sí mismo las sanciones impuestas a los progenitores, sin control de la autoridad judicial en el proceso.
+B. Hacer seguimiento a medidas de protección, medidas a progenitores o terceros, medidas administrativas y disposiciones judiciales.
+C. Archivar los casos en que las familias no cumplan las medidas impuestas por el juez de la niñez en el proceso.
+D. Delegar el seguimiento de las medidas a las unidades educativas donde estudian los niños ante el juzgado.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «d) Hacer seguimiento a medidas de protección social, medidas impuestas a progenitores, guardadora o guardador, tutora o tutor, o terceros, medidas administrativas y disposiciones judiciales […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 205, inciso d) (página impresa 83; página PDF 85).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+95. [Ley N.º 548 – LIBRO II] Para garantizar la especialización del juzgador, ¿qué formación y experiencia exige el Artículo 200 a la Jueza o Juez de la Niñez?
+A. Al menos diez años de ejercicio como juez civil, sin requisito de formación en niñez ni en justicia penal, según la reglamentación.
+B. Solo título de abogado y aprobación del examen general de la carrera judicial, sin especialización.
+C. Al menos dos años de experiencia y formación en familia, género, generacional o niñez, y en justicia penal para adolescentes.
+D. Al menos cinco años de docencia en derecho constitucional, sin experiencia en justicia penal juvenil.
+Respuesta correcta: C
+Explicación: Aplicación razonada: «b) Tener experiencia y formación especializada en derecho de familia, género, generacional y/o de la niña, niño y Adolescente, por lo menos de dos (2) años; y c) Tener experiencia y/o formación en justicia penal especializada para adolescentes».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 200, incisos b) y c) (página impresa 81; página PDF 83).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+96. [Ley N.º 548 – LIBRO II] Para el control del cumplimiento de medidas y sanciones, ¿qué registro debe llevar la Secretaría según el Artículo 202?
+A. El registro del cumplimiento de medidas y sanciones impuestas a progenitores, tutores, guardadores y terceros.
+B. El registro de las calificaciones escolares de las niñas y niños con procesos en el juzgado.
+C. El registro de los domicilios de los testigos que declararon en los procesos de la niñez.
+D. El registro de las opiniones de las juntas escolares sobre los procesos en trámite.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «c) Registrar el cumplimiento de las medidas y sanciones impuestas a los progenitores, tutores, guardadores y terceros […]».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 202, inciso c) (página impresa 81; página PDF 83).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+97. [Ley N.º 548 – LIBRO II] Para la atención de casos en zonas sin juzgados especializados, ¿qué solución organizativa prevé el Artículo 198.II?
+A. Que los casos se deriven siempre a la capital de departamento, sin importar la distancia del lugar, por mandato legal.
+B. Que la Defensoría resuelva los casos con facultades judiciales, hasta que se cree un juzgado.
+C. Que los casos esperen la creación de un juzgado especializado, sin atención judicial previa.
+D. Que el Juez Público Mixto resuelva los procesos, con apoyo del equipo técnico de la Instancia Técnica Departamental.
+Respuesta correcta: D
+Explicación: Aplicación razonada: «La Jueza o el Juez Público Mixto, será competente para resolver estos procesos en lugares donde no existan Juzgados Públicos en materia de Niñez y Adolescencia. En este caso deberá contar con el apoyo del equipo técnico interdisciplinario de la Instancia Técnica Departamental de Política Social».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 198, parágrafo II (página impresa 80; página PDF 82).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+98. [Ley N.º 548 – LIBRO II] Para dar celeridad a la adopción internacional, ¿qué plazos fija el Artículo 256 a la Autoridad Central Boliviana para sus actuaciones principales?
+A. Plazos de tres días para emitir certificados y analizar la adaptabilidad, con cinco días para complementar observaciones.
+B. Plazos de treinta días para cada actuación, prorrogables por igual término a solicitud de los adoptantes.
+C. Plazos indefinidos, sujetos a la disponibilidad de personal de la Autoridad Central en cada gestión.
+D. Plazos de seis meses para emitir el Certificado de Idoneidad y de un año para el Certificado de Prosecución, según la norma.
+Respuesta correcta: A
+Explicación: Aplicación razonada: «II. La Autoridad Central Boliviana revisará […] y emitirá el correspondiente Certificado de Idoneidad […] en un plazo improrrogable de tres (3) días […] IV. […] en un plazo no mayor a tres (3) días, el análisis correspondiente, valorando la adaptabilidad. Si existieran observaciones […] complementará […] dentro los cinco (5) días subsiguientes».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo V: Disposiciones administrativas y judiciales para la adopción internacional. Art. 256 (página impresa 97; página PDF 99).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+99. [Ley N.º 548 – LIBRO II] Para planificar el seguimiento de una adopción otorgada, ¿qué dispone la sentencia según el Artículo 255.b?
+A. Que la unidad educativa del niño realice el seguimiento con informes anuales durante cinco años, conforme a la normativa.
+B. Que la Instancia Técnica Departamental realice seguimiento post adoptivo con informes semestrales durante dos años.
+C. Que la Defensoría realice un único informe al año de la adopción, sin seguimiento posterior.
+D. Que no se realice seguimiento alguno, pues la adopción produce efectos plenos e irrevocables.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «b) Que la Instancia Técnica Departamental de Política Social realice seguimiento post adoptivo, debiendo presentar al Juzgado informes bio-psico-sociales semestrales y por el espacio de dos (2) años».
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título II, Capítulo IV: Adopción. Art. 255, inciso b) (página impresa 96; página PDF 98).
+
+# Dimensión: Pensamiento estratégico y gestión institucional · Modalidad: Aplicación razonada
+100. [Ley N.º 548 – LIBRO II] Para organizar procesos ágiles y especializados en la justicia de la niñez, ¿qué principios del Artículo 193 resultan estructurales?
+A. Formalismo, dispersión, publicidad plena y discrecionalidad.
+B. Especialidad, desformalización, concentración y pronunciamiento.
+C. Escrituralidad, impulso de parte, reserva absoluta y doble conforme.
+D. Oralidad exclusiva, prueba tasada, conciliación previa y silencio.
+Respuesta correcta: B
+Explicación: Aplicación razonada: «a) Especialidad. […] b) Desformalización. […] e) Concentración. […] h) Pronunciamiento. […]». Aplicación razonada: la organización de procesos ágiles y especializados se apoya en estos principios.
+Sustento: Ley N.º 548, Código Niña, Niño y Adolescente, de 17 de julio de 2014, Libro II, Título I, Capítulo I: Disposiciones generales. Art. 193 (página impresa 79; página PDF 81).

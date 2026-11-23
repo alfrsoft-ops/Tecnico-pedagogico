@@ -63,7 +63,7 @@ const Quiz = (() => {
     Shell.setHeader({
       title: "Simulacro de examen",
       subtitle: `${quiz.bookTitle} · ${quiz.chapterTitle}${quiz.config.block ? ` · ${Engine.blockLabel(quiz.config.block)}` : ""}`,
-      onBack: () => requestExit(quiz.bookId ? `#/libro/${quiz.bookId}` : "#/"),
+      onBack: () => requestExit(quiz.bookId ? `#/libro/${quiz.bookId}` : catalogRoute()),
     });
     Shell.show("quiz");
     $("#modeChip").textContent = isPractice() ? "Modo práctica" : "Modo examen";
@@ -73,6 +73,9 @@ const Quiz = (() => {
     startTimer();
     if (location.hash !== "#/simulacro") location.hash = "#/simulacro";
   }
+
+  // Catálogo del área del simulacro (los guardados antes de las áreas vuelven a la portada).
+  const catalogRoute = () => (quiz.areaId ? `#/area/${encodeURIComponent(quiz.areaId)}` : "#/");
 
   function close() {
     stopTimer();
@@ -247,14 +250,14 @@ const Quiz = (() => {
     const head = el("div", "feedback-legal-head");
     const badge = el("span", "feedback-legal-icon");
     badge.innerHTML = ICONS.legal;
-    head.append(badge, el("h3", "", "Explicación y sustento legal"));
+    head.append(badge, el("h3", "", "Sustento"));
     const body = el("div", "feedback-legal-body");
-    if (question.explanation) body.append(labeled("Explicación", question.explanation));
-    if (question.legal) body.append(labeled("Sustento normativo", question.legal));
+    if (question.explanation) body.append(labeled("Fundamentación", question.explanation));
+    if (question.legal) body.append(labeled("Referencia", question.legal));
     if (!question.explanation && !question.legal) {
       body.append(
         labeled("Respuesta correcta", `${letter}) ${question.options[question.answer]}`),
-        el("p", "feedback-missing", "Esta pregunta aún no tiene explicación ni sustento registrados en el banco de preguntas.")
+        el("p", "feedback-missing", "Esta pregunta aún no tiene fundamentación ni referencia registradas en el banco de preguntas.")
       );
     }
     legal.append(head, body);
@@ -433,11 +436,11 @@ const Quiz = (() => {
   $("#reviewButton").addEventListener("click", showReview);
   $("#reviewBack").addEventListener("click", () => showPanel("results"));
   $("#retryButton").addEventListener("click", () => {
-    const { bookId, bookTitle, chapterId, chapterTitle, mix, config } = quiz;
+    const { bookId, bookTitle, chapterId, chapterTitle, mix, areaId, config } = quiz;
     close();
-    launch({ bookId, bookTitle, chapterId, chapterTitle, mix }, config);
+    launch({ bookId, bookTitle, chapterId, chapterTitle, mix, areaId }, config);
   });
-  $("#homeButton").addEventListener("click", () => requestExit("#/"));
+  $("#homeButton").addEventListener("click", () => requestExit(catalogRoute()));
   reviewFilters.forEach((button) => button.addEventListener("click", () => filterReview(button.dataset.filter)));
 
   // Guarda el tiempo al ocultar o cerrar la pestaña.
